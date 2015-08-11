@@ -1,241 +1,256 @@
-YY-MM-DD;Country;Route;Description
-15-07-28;Croatia;A2;Route extended at north end from exit 1 to Slovenian border
-15-07-28;Croatia;A5;Route extended at south end from exit 6 to exit 7
-15-07-28;Croatia;A7;Route extended at south end from exit 12 to D8
-15-07-28;Croatia;A11;Route extended at north end from exit 4 to exit 1
-15-07-28;Croatia;A11;Route extended at south end from exit 5 to exit 6
-15-07-28;Czechia;Městský Okruh;New route
-15-07-28;Czechia;R43;New route
-15-07-28;Netherlands;A4 (Bergen op Zoom);Route extended at north end from N259 to A29/A59, including Dinteloord section
-15-07-28;Netherlands;A4 (Dintleloord);Route merged with Bergen op Zoom section
-15-07-28;Netherlands;A261;Route deleted
-15-07-28;Romania;A1 (Sibiu);Route extended at west end from DC67 to DN76, including former Deva section
-15-07-28;Romania;A1 (Deva);Route merged with Sibiu section
-15-07-28;Romania;A1 (Arad);Route extended at west end from A11 to Hungarian border
-15-07-28;Romania;A11;New Route
-15-07-28;Romania;E68;Route removed from DN7 through Nadlac onto DN7G and A1 between western junction with the DN7 and the Hungarian border
-15-07-28;Serbia;E75; Relocated from motorway route through central Belgrade onto Belgrade Ring Road, between the M22.1 at Batajnica and the southern junction with E75 Belgrade
-15-07-28;Serbia;E75 (Belgrade);New Route
-15-07-25;France;A64 (Bayonne);New Route
-15-07-25;France;A75;Route extened at south end from exit 59 to the A9, including former Béziers section
-15-07-25;France;A75 (Béziers);Route merged with main A75 route
-15-07-25;France;A89;Route extended at west end from exit 19.1 to exit 9, including former Périgueux section
-15-07-25;France;A89 (Périgueux);Route merged with main A89 route
-15-07-25;France;A140;Route truncated at north end from N3 to exit 4
-15-07-25;France;A150;Route extended at west end from exit 3 to exit 4, including former Yvetot section
-15-07-25;France;A150 (Yvetot);Route merged with main A150 route
-15-07-25;France;A313;New Route
-15-07-25;France;A466;New Route
-15-07-25;France;A660;Route extended at west end from D650E3 to D652
-15-07-25;France;A719;Route extended at east end from exit 15 to exit 16
-15-07-25;France;E3 (Rennes);New Route
-15-07-25;France;E46 (Caen);New Route
-15-07-25;France;E62;Removed from N149 and relocated to N249 between N249 Exit 15 and N149 exit 17
-15-07-25;France;E70;Removed from A72, N488, N88, A47, A46 and A43, and relocated to A89, N489, N6, A6, A466, A46 and A432 between A72/A89 junction and A43/A432 junction
-15-07-25;France;E411;Route extended at south end from A30/A31 to A4
-15-07-25;(UK) England;A5;Route truncated at south end from junction with the A40 east to M1 junction 9.
-15-07-25;(UK) England;A5 (London);New Route covering A5 route from A40 east to A41 
-15-07-25;(UK) England;A31;Route truncated at northeast end from junction with the A281 to junction with the A36 south. 
-15-07-25;(UK) England;A31 (Alton);New Route covering A31 route from A281 to M3 junction 10
-15-07-25;(UK) England;A259;Route relocated from Flansham Lane, Felpham Way, Upper Bognor Road, Hotham Way and Chichester Road onto Bognor Northern Relief Road, between B2259_W and B2259_E
-15-07-25;(UK) England;A2690;New Route
-15-07-25;(UK) England;A272;Route relocated from route via Haywards Heath town centre (now B2272) and onto Traunstein Way and Rocky Lane between B2272_E and B2272_W. 
-15-07-25;(UK) England;A273;Junction with A272 moved south. Former section of road now A272 between western junction with B2272 and junction with A273. 
-15-07-25;(UK) England;A3054;Route extended at west end from the western junction with the A3055 to the B3322 
-15-07-25;(UK) England;A3055;Route truncated at east end from the eastern junction with the A3054 to its junction with Newport Road, Niton (due to closure of the road between Niton and St Lawrence due to subsidence). 
-15-07-25;(UK) England;A3055 (Sandown);New Route consisting of A3055 from Ryde to St Lawrence 
-15-07-25;(UK) England;A4510;New Route
-15-07-25;(UK) England;E5;Route extended at south end from junction with A35 west to the Isle of Wight Ferry
-15-07-25;(UK) England;E5 (Birmingham);New Route
-15-07-25;(UK) England;E20 (Liverpool);New Route
-15-07-25;(UK) England;Airport Way, Gatwick;New Route 
-15-07-25;(UK) England;Cirencester Bypass;New Route 
-15-07-25;(UK) England;Kingsway Tunnel;New Route
-15-07-25;(UK) England;Queensway Tunnel;New Route
-15-07-25;(UK) England;St Peter's Way;New Route
-15-07-25;(UK) England;Thamesdown Drive;New Route
-15-07-25;(UK) Northern Ireland;A8;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
-15-07-25;(UK) Northern Ireland;A28;Route extended at south end from A27 to A2
-15-07-25;(UK) Northern Ireland;E1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
-15-07-25;(UK) Northern Ireland;E18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
-15-07-25;(UK) Scotland;M74;Route extended at north end from non-junction with the M8 to exit 22 of the M8
-15-07-25;(UK) Scotland;A700;Route truncated at north end from A8 to A702 
-15-07-25;(UK) Scotland;A702;Route extended at north end from A700 to A90
-15-07-25;(UK) Scotland;E5 (Glasgow);New Route
-15-07-25;(UK) Scotland;E16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
-15-07-24;Belgium;A601;Route deleted
-15-07-24;Hungary;M3;Route extended at west end from exit 267 to exit 280
-15-07-24;Hungary;M3;Route truncated at east end from Hungaria Korut to exit 10
-15-07-24;Hungary;M43;Route extended at east end from exit 35 to the Romanian border
-15-07-24;Hungary;M85;Route extended at west end from F85 to exit 16
-15-07-24;Hungary;M85;Route extended at east end from exit 7 to M1
-15-07-24;Hungary;M86;Route extended at south end from former southern junction with F86 to exit 80
-15-07-24;Hungary;E65;Removed from F86 and relocated onto M86 between former southern junction between F86 and M86 and M86 exit 80
-15-07-24;Hungary;E65;Removed from F741, F7 and Magyar Utca and relocated onto F74 between M7 exit 211 and Ujudvar
-15-07-24;Hungary;E66;Route extended at east end from M7 exit 64 to F4
-15-07-24;Hungary;E68;Removed from F43 and relocated onto M43 between exit 35 of the M43 and the Romanian border
-15-07-24;Hungary;E573;Removed from F4 between the junction between F4 and F354 and the junction between M35 and F4, and relocated onto F354 and M35
-15-07-24;Hungary;E575;Route truncated at south end from M1 to junction with F1 (section along F81) and then extended at south end from western junction with F1 to M19 exit 1 (via F1 and M19)
-15-07-24;Hungary;E575 (Gyor);New route
-15-07-24;Hungary;E579; Route extended at east end from M3 exit 267 to Ukrainian border
-15-07-24;Ireland;M11 (Gorey);Route extended at north end from exit 20 to exit 14 (including Rathnew section)
-15-07-24;Ireland;M11 (Rathnew);Route merged with Gorey section
-15-07-24;Ireland;N11 (Wicklow);Route deleted
-15-07-24;Ireland;E01;Relocated off R772 (former N11) and onto M11 from M11 exit 17 and M11 exit 20
-15-07-24;Norway;E6 (Oslo);New Route 
-15-07-24;Norway;E6 (Ryen);New Route 
-15-07-24;Norway;E6 (Trondheim);New Route 
-15-07-24;Norway;E18;Route relocated from Fv22 and Fv128 (formerly E18) onto E18 expressweg between Fv22 and Fv818_W 
-15-07-24;Norway;E18 (Sandefjordlufthavn);New Route 
-15-07-24;Norway;E39 (Kvivstunnelen);New Route 
-15-07-24;Norway;E134;Route extended at west end from the northern junction with Fv47 to Haugesund Lufthavn
-15-07-24;Norway;E136;Route removed from coastal road and relocated onto Vagstrandtunnelen, between its eastern junction with Fv170 and its western junction with Fv171.
-15-07-24;Slovenia;H5;Route truncated at south end from Piranska Ulica to G11
-15-07-24;Slovenia;H6;New Route
-15-07-24;Switzerland;A4;Route removed off E41/E54 at north end from exit 1 to exit 3 and relocated onto expressway from exit 3 to the German border to the German border
-15-07-24;Switzerland;A4 (Thayngen);New Route
-15-07-24;Switzerland;A16;Route extended at north end from exit 5 to the French border 
-15-07-24;Switzerland;A16 (Bure);Route merged into main A16 route
-15-07-24;Switzerland;E27;Route removed from H6 and relocated onto A16 between A16 exit 1 and A16 exit 5.
-15-07-24;(Ukraine) Ukraine;E97;Route truncated at south end from the Kerch - Port Kavkaz Ferry to the border with Crimea autonomous region
-15-07-24;(Ukraine) Ukraine;E105;Route truncated at south end from Moskovska Vulytsia to the border with Crimea autonomous region
-15-07-24;(Ukraine) Crimea;E97;New Route
-15-07-24;(Ukraine) Crimea;E105;New Route
-15-07-24;(UK) Wales;A4046;Route truncated at north end from A465 to A4281
-15-07-24;(UK) Wales;A4046;Route extended at north end from A4281 to A4047
-15-07-24;(UK) Wales;A4281;New Route
-15-07-24;(UK) Wales;A5153;Route extended at south end from A55 to B4545
-15-07-23;(USA) Arizona;I-11 Future (Kingman);New Route
-15-07-23;(USA) Arizona;I-11 Future (Hoover Dam);New Route
-15-07-23;(USA) Nevada;I-11 Future (Hoover Dam);New Route
-15-07-23;(USA) Nevada;I-11 Future (Henderson);New Route
-15-07-23;(USA) Nevada;Summerlin Parkway;New Route
-15-07-22;Bosnia and Herzegovina;A1;Route extended at north end from M5/M17 to exit 13
-15-07-22;Bosnia and Herzegovina;A1;Route extended at south end from M18 to M17
-15-07-22;Bosnia and Herzegovina;A1 (Bubale);Route extended at north end from R423 to R425a
-15-07-22;Bosnia and Herzegovina;E73;Removed from M17 and relocated onto A1 between Zenicke Brigade and the junction with the M5 and M17
-15-07-22;Bosnia and Herzegovina;E73;Removed from M5 and relocated onto A1 between M18 and the southern junction between the A1 and M17
-15-07-22;Bosnia and Herzegovina;E661;Removed from M16 and relocated onto M14.1 and motorway route between the junction with the M16 and exit 4
-15-07-22;Bosnia and Herzegovina;E661;Route extended at south end from M17 to A1
-15-07-22;Bosnia and Herzegovina;E772;Route extended at north end from junction of M17 and M18 to A1
-15-07-22;Bulgaria;A3;Route renumbered A4
-15-07-22;Bulgaria;A3 (Kulata);New route
-15-07-22;Bulgaria;A4;New route (formerly A3)
-15-07-22;Bulgaria;A4;Route extended at west end from N76 to N5
-15-07-22;Bulgaria;E80;Removed from N8 and relocated onto A4 between the former junction between the A3 and N8 east of Generalovo (labeled *N8_GenE) and the junction between the A4 and N8 next to the Turkish border
-15-07-22;Bulgaria;E80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
-15-07-22;Bulgaria;E85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
-15-07-22;Turkey;E87;Route extended at south end from northern junction with D650 to D400
-15-07-22;Turkey;E88;Route truncated at west end from O4 to exit 10 of the O20
-15-07-22;Turkey;E88;Route extended at west end from exit 10 of the O20 to exit 7 of the O20
-15-07-22;Turkey;E97;Route extended at north end from D010 to Georgian border
-15-07-22;Turkey;O3 (Çobançeşme);Route extended at south end from exit 184 to exit 185
-15-07-22;Turkey;O21 (Bor);New Route
-15-07-22;Turkey;O30;Route extended at north end from exit 20 to exit 21
-15-07-22;Turkey;O30 (Anadolu Lisesi);Route extended at west end from Otogar to Kemalpasa Cd
-15-07-22;Turkey;O50;New Route
-15-07-22;Turkey;O51;Route truncated at east end from Mithat Ozsan Bulvarı to exit 1
-15-07-22;Turkey;O52;Route truncated at west end from Mithat Ozsan Bulvarı to exit 1
-15-07-22;Turkey;O52 ((East) Gaziantep);Route merged into O54
-15-07-22;Turkey;O52 (Gaziantep);Route merged into O54
-15-07-22;Turkey;O54;New Route
-15-07-17;Albania;A3;New route
-15-07-17;Cyprus;A9;Route extended at west end from F919 to B9
-15-07-17;Finland;E18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 67 and 69
-15-07-17;Finland;E18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between Yt1792 and exit 72 
-15-07-17;Finland;E18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 81 and 85
-15-07-17;Jamaica;T1;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
-15-07-17;Jamaica;T2;New route
-15-07-17;Jamaica;T3;New route
-17-07-15;Kosovo;R7 (Pristina);New route
-15-07-15;Georgia;E97;Route extended at south end from E60/E70 junction to Turkish border
-15-07-15;(Kazakhstan) Batys Kazakhstan;E38;Deleted route
-15-07-15;(Kazakhstan) Aktobe;E38;Deleted route
-15-07-15;(Kazakhstan) Kyzylorda;E38;Deleted route
-15-07-15;(Kazakhstan) Ongtustik Kazakhstan;E38;Deleted route
-15-07-15;(Kazakhstan) Atyrau;E40;Deleted route
-15-07-15;(Kazakhstan) Mangystau;E40;Deleted route
-15-07-15;(Kazakhstan) Ongtustik Kazakhstan (Myrzakent);E40;Deleted route
-15-07-15;(Kazakhstan) Ongtustik Kazakhstan;E40;Deleted route
-15-07-15;(Kazakhstan) Jambyl;E40;Deleted route
-15-07-15;(Kazakhstan) Jambyl (Yeshkilikurday);E40;Deleted route
-15-07-15;(Kazakhstan) Almaty (Uznaghash);E40;Deleted route
-15-07-15;(Kazakhstan) Almaty;E40;Deleted route
-15-07-15;(Kazakhstan) Almaty (City);E40;Deleted route
-15-07-15;(Kazakhstan) Shyghys Kazakhstan;E40;Deleted route
-15-07-15;(Kazakhstan) Batys Kazakhstan;E121;Deleted route
-15-07-15;(Kazakhstan) Atyrau;E121;Deleted route
-15-07-15;(Kazakhstan) Mangystau;E121;Deleted route
-15-07-15;(Kazakhstan) Kostanay;E123;Deleted route
-15-07-15;(Kazakhstan) Soltustik Kazakhstan;E123;Deleted route
-15-07-15;(Kazakhstan) Akmola;E123;Deleted route
-15-07-15;(Kazakhstan) Kostanay (Arkalyk);E123;Deleted route
-15-07-15;(Kazakhstan) Karagandy;E123;Deleted route
-15-07-15;(Kazakhstan) Kyzylorda;E123;Deleted route
-15-07-15;(Kazakhstan) Ongtustik Kazakhstan;E123;Deleted route
-15-07-15;(Kazakhstan) Soltustik Kazakhstan;E125;Deleted route
-15-07-15;(Kazakhstan) Akmloa (Alekseevka);E125;Deleted route
-15-07-15;(Kazakhstan) Soltustik Kazakhstan (Alekseevka);E125;Deleted route
-15-07-15;(Kazakhstan) Akmola (Kokshetau);E125;Deleted route
-15-07-15;(Kazakhstan) Astana;E125;Deleted route
-15-07-15;(Kazakhstan) Akmola (Vishnevka);E125;Deleted route
-15-07-15;(Kazakhstan) Karagandy (Karaganda);E125;Deleted route
-15-07-15;(Kazakhstan) Jambyl (Kashkanteniz);E125;Deleted route
-15-07-15;(Kazakhstan) Karagandy (Ulken);E125;Deleted route
-15-07-15;(Kazakhstan) Jambyl (Burubaytal);E125;Deleted route
-15-07-15;(Kazakhstan) Almaty;E125;Deleted route
-15-07-15;(Kazakhstan) Jambyl (Yeshkilikurday);E125;Deleted route
-15-07-15;(Kazakhstan) Pavlodar;E127;Deleted route
-15-07-15;(Kazakhstan) Shyghs Kazakhstan;E127;Deleted route
-15-07-15;(Kazakhstan) Kyzylorda;E004;Deleted route
-15-07-15;(Kazakhstan) Ongtustik Kazakhstan;E004;Deleted route
-15-07-15;(Kazakhstan) Ongtustik Kazakhstan (Myrzakent);E004;Deleted route
-15-07-15;(Kazakhstan) Almaty;E011;Deleted route
-15-07-15;(Kazakhstan) Almaty (City);E012;Deleted route
-15-07-15;(Kazakhstan) Almaty;E012;Deleted route
-15-07-15;(Kazakhstan) Almaty;E013;Deleted route
-15-07-15;(Kazakhstan) Almaty;E014;Deleted route
-15-07-15;(Kazakhstan) Shghys Kazakhstan;E015;Deleted route
-15-07-15;(Kazakhstan) Soltustik Kazakhstan;E016;Deleted route
-15-07-15;(Kazakhstan) Akmola;E016;Deleted route
-15-07-15;(Kazakhstan) Astana;E016;Deleted route
-15-07-15;(Kazakhstan) Karagandy;E018;Deleted route
-15-07-15;(Kazakhstan) Pavlodar;E018;Deleted route
-15-07-15;(Kazakhstan) Soltustik Kazakhstan;E019;Deleted route
-15-07-15;Kazakhstan;E38;New route
-15-07-15;Kazakhstan;E40;New route
-15-07-15;Kazakhstan;E40 (Atyru);New route
-15-07-15;Kazakhstan;E40 (Shy);New route
-15-07-15;Kazakhstan;E121;New route
-15-07-15;Kazakhstan;E123;New route
-15-07-15;Kazakhstan;E125;New route
-15-07-15;Kazakhstan;E127;New route
-15-07-15;Kazakhstan;E004;New route
-15-07-15;Kazakhstan;E011;New route
-15-07-15;Kazakhstan;E012;New route
-15-07-15;Kazakhstan;E013;New route
-15-07-15;Kazakhstan;E014;New route
-15-07-15;Kazakhstan;E015;New route
-15-07-15;Kazakhstan;E016;New route
-15-07-15;Kazakhstan;E018;New route
-15-07-15;Kazakhstan;E019;New route
-15-07-15;Kyrgyzstan;E010;Truncated route at south end from Uzbek border to southern junction with M41
-15-07-15;Kyrgyzstan;E010;Extended route at south end from southern junction with M41 to the junction with the M41 east of Osh
-15-07-15;Kyrgyzstan;E010 (Osh);Deleted route
-15-07-15;Tajikistan;E123;Truncated at north end between southern junction with E006 and Uzbek border
-15-07-15;Tajikistan;E123;Extended at north end between southern junction with E006 and Uzbek border
-15-07-15;Tajikistan;E123;Truncated at south end from 'End' to Aral
-15-07-15;Tajikistan;E123;Extended at south end from Aral to Afghan border
-15-07-15;Tajikistan;E123 (Lyagin);Deleted route
-15-07-15;Turkmenistan;E40;New route
-15-07-15;Uzbekistan;E40;Truncated at west end from Kazakh border to Beruniy
-15-07-15;Uzbekistan;E40;Extended at west end from Beruniy to Turkmeni border
-15-07-15;Uzbekistan;E40;Truncated at east end from Kazakh border to Fargona
-15-07-15;Uzbekistan;E40;Extended at east end from Fargona to Kazakh border
-15-07-15;Uzbekistan;E40 (Nukus);New route
-15-07-15;Uzbekistan;E40 (Tashkent);Deleted route
-15-07-15;Uzbekistan;E60;Reentered route
-15-07-15;Uzbekistan;E123 (Koshkent);Deleted route
-15-07-15;Uzbekistan;E004;Reentered route
-15-07-15;Uzbekistan;E004 (Tashkent);Deleted route
-15-07-15;Uzbekistan;E010;Deleted route
+YY-MM-DD;Country;Route;Root;Description
+15-08-11;(USA) Wyoming;US310;wy.us310;Route truncated at east end from eastern junction with US14/16 to (formerly western) junction with US14/16
+15-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
+15-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+15-08-03;(USA) Colorado;US 287 Business Berthoud;;Route deleted
+15-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
+15-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
+15-08-03;(USA) Idaho;ID16;id.id016;Route extended at south end from ID44 to US20/26
+15-08-03;(USA) Indiana;I-69 (Wheatonville);in.i069whe;Route extended at south end from exit 20 to exit 0
+15-08-03;(USA) Indiana;US24;in.us024;Route relocated from Monticello Road onto Hoosier Heartland Highway between MonRd_W and MonRd_E
+15-08-03;(USA) Indiana;Future I-69 Indianapolis;in.i069futind;New Route
+15-08-03;(USA) Indiana;US31;in.us031;Route relocated from Dixie Highway onto freeway between exit 240 and 246
+15-08-03;(USA) Indiana;US35;in.us035;Route relocated from Monticello Road and onto Hoosier Heartland Highway between MonRd_W and MonRd_E
+15-08-03;(USA) Indiana;IN912;in.in912;Route truncated at north end from Riley Road to exit 5A
+15-08-03;(USA) Indiana;IN912 ((West) East Chicago);in.in912wec;Route extended at east end from US41 to Riley Road
+15-08-03;(USA) Montana;US93 Alternate (Kalispell);mt.us093altkal;New Route
+15-07-23;(USA) Nevada;Summerlin Parkway;nv.sumpkwy;New Route
+15-08-03;(USA) Nevada;I-11 Future (Hoover Dam);nv.i011futhoo;New Route
+15-08-03;(USA) Nevada;I-11 Future (Henderson);nv.i011futhen;New Route
+15-08-03;(USA) Wyoming;US14;wy.us014;Route removed from I-90 and relocated onto I-90 Business Loop through Sundance, between I-90 exit 185 and I-90 exit 189
+15-08-03;(USA) Wyoming;US87 Business (Buffalo);wy.us087busbuf;Route rerouted at north end off of East Hart Street between the eastern junction with US16 and I-25 and relocated onto North Main Street between the eastern junction with US16 and I-90
+15-07-28;Croatia;A2;hrv.a002;Route extended at north end from exit 1 to Slovenian border
+15-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
+15-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
+15-07-28;Croatia;A11;hrv.a011;Route extended at north end from exit 4 to exit 1
+15-07-28;Croatia;A11;hrv.a011;Route extended at south end from exit 5 to exit 6
+15-07-28;Czechia;Městský Okruh;cze.mo;New route
+15-07-28;Czechia;R43;cze.r043;New route
+15-07-28;Netherlands;A4 (Bergen op Zoom);nld.a004ber;Route extended at north end from N259 to A29/A59, including Dinteloord section
+15-07-28;Netherlands;A4 (Dintleloord);;Route merged with Bergen op Zoom section
+15-07-28;Netherlands;A261;;Route deleted
+15-07-28;Romania;A1 (Sibiu);rou.a001sib;Route extended at west end from DC67 to DN76, including former Deva section
+15-07-28;Romania;A1 (Deva);;Route merged with Sibiu section
+15-07-28;Romania;A1 (Arad);rou.a001ara;Route extended at west end from A11 to Hungarian border
+15-07-28;Romania;A11;rou.a011;New Route
+15-07-28;Romania;E68;rou.e68;Route removed from DN7 through Nadlac onto DN7G and A1 between western junction with the DN7 and the Hungarian border
+15-07-28;Serbia;E75;srb.e75;Relocated from motorway route through central Belgrade onto Belgrade Ring Road, between the M22.1 at Batajnica and the southern junction with E75 Belgrade
+15-07-28;Serbia;E75 (Belgrade);srb.e75bel;New Route
+15-07-25;France;A64 (Bayonne);fra.a064bay;New Route
+15-07-25;France;A75;fra.a075;Route extened at south end from exit 59 to the A9, including former Béziers section
+15-07-25;France;A75 (Béziers);;Route merged with main A75 route
+15-07-25;France;A89;fra.a089;Route extended at west end from exit 19.1 to exit 9, including former Périgueux section
+15-07-25;France;A89 (Périgueux);;Route merged with main A89 route
+15-07-25;France;A140;fra.a140;Route truncated at north end from N3 to exit 4
+15-07-25;France;A150;fra.a150;Route extended at west end from exit 3 to exit 4, including former Yvetot section
+15-07-25;France;A150 (Yvetot);;Route merged with main A150 route
+15-07-25;France;A313;fra.a313;New Route
+15-07-25;France;A466;fra.a466;New Route
+15-07-25;France;A660;fra.a660;Route extended at west end from D650E3 to D652
+15-07-25;France;A719;fra.a719;Route extended at east end from exit 15 to exit 16
+15-07-25;France;E3 (Rennes);fra.e3ren;New Route
+15-07-25;France;E46 (Caen);fra.e46;New Route
+15-07-25;France;E62;fra.e62;Removed from N149 and relocated to N249 between N249 Exit 15 and N149 exit 17
+15-07-25;France;E70;fra.e70;Removed from A72, N488, N88, A47, A46 and A43, and relocated to A89, N489, N6, A6, A466, A46 and A432 between A72/A89 junction and A43/A432 junction
+15-07-25;France;E411;fra.e411;Route extended at south end from A30/A31 to A4
+15-07-25;(UK) England;A5;eng.a005;Route truncated at south end from junction with the A40 east to M1 junction 9.
+15-07-25;(UK) England;A5 (London);eng.a005lon;New Route covering A5 route from A40 east to A41 
+15-07-25;(UK) England;A31;eng.a031;Route truncated at northeast end from junction with the A281 to junction with the A36 south. 
+15-07-25;(UK) England;A31 (Alton);eng.a031alt;New Route covering A31 route from A281 to M3 junction 10
+15-07-25;(UK) England;A259;eng.a259;Route relocated from Flansham Lane, Felpham Way, Upper Bognor Road, Hotham Way and Chichester Road onto Bognor Northern Relief Road, between B2259_W and B2259_E
+15-07-25;(UK) England;A2690;eng.a2690;New Route
+15-07-25;(UK) England;A272;eng.a272;Route relocated from route via Haywards Heath town centre (now B2272) and onto Traunstein Way and Rocky Lane between B2272_E and B2272_W. 
+15-07-25;(UK) England;A273;eng.a273;Junction with A272 moved south. Former section of road now A272 between western junction with B2272 and junction with A273. 
+15-07-25;(UK) England;A3054;eng.a3054;Route extended at west end from the western junction with the A3055 to the B3322 
+15-07-25;(UK) England;A3055;eng.a3055;Route truncated at east end from the eastern junction with the A3054 to its junction with Newport Road, Niton (due to closure of the road between Niton and St Lawrence due to subsidence). 
+15-07-25;(UK) England;A3055 (Sandown);eng.a3055san;New Route consisting of A3055 from Ryde to St Lawrence 
+15-07-25;(UK) England;A4510;eng.a4510;New Route
+15-07-25;(UK) England;E5;eng.e5;Route extended at south end from junction with A35 west to the Isle of Wight Ferry
+15-07-25;(UK) England;E5 (Birmingham);eng.e5bir;New Route
+15-07-25;(UK) England;E20 (Liverpool);eng.e20liv;New Route
+15-07-25;(UK) England;Airport Way, Gatwick;eng.airway;New Route 
+15-07-25;(UK) England;Cirencester Bypass;eng.cirbyp;New Route 
+15-07-25;(UK) England;Kingsway Tunnel;eng.kintun;New Route
+15-07-25;(UK) England;Queensway Tunnel;eng.quetun;New Route
+15-07-25;(UK) England;St Peter's Way;eng.stpetway;New Route
+15-07-25;(UK) England;Thamesdown Drive;eng.thadr;New Route
+15-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+15-07-25;(UK) Northern Ireland;A28;nir.a028;Route extended at south end from A27 to A2
+15-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+15-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+15-07-25;(UK) Scotland;M74;sct.m074;Route extended at north end from non-junction with the M8 to exit 22 of the M8
+15-07-25;(UK) Scotland;A700;sct.a700;Route truncated at north end from A8 to A702 
+15-07-25;(UK) Scotland;A702;sct.a702;Route extended at north end from A700 to A90
+15-07-25;(UK) Scotland;E5 (Glasgow);sct.e5gla;New Route
+15-07-25;(UK) Scotland;E16;sct.e16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
+15-07-24;Belgium;A601;;Route deleted
+15-07-24;Hungary;M3;hun.m003;Route extended at west end from exit 267 to exit 280
+15-07-24;Hungary;M3;hun.m003;Route truncated at east end from Hungaria Korut to exit 10
+15-07-24;Hungary;M43;hun.m043;Route extended at east end from exit 35 to the Romanian border
+15-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
+15-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
+15-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+15-07-24;Hungary;E65;hun.e65;Removed from F86 and relocated onto M86 between former southern junction between F86 and M86 and M86 exit 80
+15-07-24;Hungary;E65;hun.e65;Removed from F741, F7 and Magyar Utca and relocated onto F74 between M7 exit 211 and Ujudvar
+15-07-24;Hungary;E66;hun.e66;Route extended at east end from M7 exit 64 to F4
+15-07-24;Hungary;E68;hun.e68;Removed from F43 and relocated onto M43 between exit 35 of the M43 and the Romanian border
+15-07-24;Hungary;E573;hun.e573;Removed from F4 between the junction between F4 and F354 and the junction between M35 and F4, and relocated onto F354 and M35
+15-07-24;Hungary;E575;hun.e575;Route truncated at south end from M1 to junction with F1 (section along F81) and then extended at south end from western junction with F1 to M19 exit 1 (via F1 and M19)
+15-07-24;Hungary;E575 (Gyor);hun.e575gyo;New route
+15-07-24;Hungary;E579;hun.e579;Route extended at east end from M3 exit 267 to Ukrainian border
+15-07-24;Ireland;M11 (Gorey);irl.m011gor;Route extended at north end from exit 20 to exit 14 (including Rathnew section)
+15-07-24;Ireland;M11 (Rathnew);;Route merged with Gorey section
+15-07-24;Ireland;N11 (Wicklow);;Route deleted
+15-07-24;Ireland;E01;irl.e1;Relocated off R772 (former N11) and onto M11 from M11 exit 17 and M11 exit 20
+15-07-24;Norway;E6 (Oslo);nor.e6osl;New Route 
+15-07-24;Norway;E6 (Ryen);nor.e6rye;New Route 
+15-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route 
+15-07-24;Norway;E18;nor.e18;Route relocated from Fv22 and Fv128 (formerly E18) onto E18 expressweg between Fv22 and Fv818_W 
+15-07-24;Norway;E18 (Sandefjordlufthavn);nor.e18san;New Route
+15-07-24;Norway;E39 (Kvivstunnelen);nor.e39kvi;New Route
+15-07-24;Norway;E134;nor.e134;Route extended at west end from the northern junction with Fv47 to Haugesund Lufthavn
+15-07-24;Norway;E136;nor.e136;Route removed from coastal road and relocated onto Vagstrandtunnelen, between its eastern junction with Fv170 and its western junction with Fv171.
+15-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
+15-07-24;Slovenia;H6;svn.h006;New Route
+15-07-24;Switzerland;A4;che.a004;Route removed off E41/E54 at north end from exit 1 to exit 3 and relocated onto expressway from exit 3 to the German border to the German border
+15-07-24;Switzerland;A4 (Thayngen);che.a004tha;New Route
+15-07-24;Switzerland;A16;che.a016;Route extended at north end from exit 5 to the French border 
+15-07-24;Switzerland;A16 (Bure);;Route merged into main A16 route
+15-07-24;Switzerland;E27;che.e27;Route removed from H6 and relocated onto A16 between A16 exit 1 and A16 exit 5.
+15-07-24;(Ukraine) Ukraine;E97;ukr.e97;Route truncated at south end from the Kerch - Port Kavkaz Ferry to the border with Crimea autonomous region
+15-07-24;(Ukraine) Ukraine;E105;ukr.e105;Route truncated at south end from Moskovska Vulytsia to the border with Crimea autonomous region
+15-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+15-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
+15-07-24;(UK) Wales;A4046;wls.a4046;Route truncated at north end from A465 to A4281
+15-07-24;(UK) Wales;A4046;wls.a4046;Route extended at north end from A4281 to A4047
+15-07-24;(UK) Wales;A4281;wls.a4281;New Route
+15-07-24;(UK) Wales;A5153;wls.a5153;Route extended at south end from A55 to B4545
+15-07-22;Bosnia and Herzegovina;A1;bih.a001;Route extended at north end from M5/M17 to exit 13
+15-07-22;Bosnia and Herzegovina;A1;bih.a001;Route extended at south end from M18 to M17
+15-07-22;Bosnia and Herzegovina;A1 (Bubale);bih.a001bub;Route extended at north end from R423 to R425a
+15-07-22;Bosnia and Herzegovina;E73;bih.e73;Removed from M17 and relocated onto A1 between Zenicke Brigade and the junction with the M5 and M17
+15-07-22;Bosnia and Herzegovina;E73;bih.e73;Removed from M5 and relocated onto A1 between M18 and the southern junction between the A1 and M17
+15-07-22;Bosnia and Herzegovina;E661;bih.e661;Removed from M16 and relocated onto M14.1 and motorway route between the junction with the M16 and exit 4
+15-07-22;Bosnia and Herzegovina;E661;bih.e661;Route extended at south end from M17 to A1
+15-07-22;Bosnia and Herzegovina;E772;bih.e772;Route extended at north end from junction of M17 and M18 to A1
+15-07-22;Bulgaria;A3;;Route renumbered A4
+15-07-22;Bulgaria;A3 (Kulata);bgr.a003kul;New route
+15-07-22;Bulgaria;A4;bgr.a004;New route (formerly A3)
+15-07-22;Bulgaria;A4;bgr.a004;Route extended at west end from N76 to N5
+15-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and relocated onto A4 between the former junction between the A3 and N8 east of Generalovo (labeled *N8_GenE) and the junction between the A4 and N8 next to the Turkish border
+15-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
+15-07-22;Bulgaria;E85;bgr.e85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
+15-07-22;Turkey;E87;tur.e87;Route extended at south end from northern junction with D650 to D400
+15-07-22;Turkey;E88;tur.e88;Route truncated at west end from O4 to exit 10 of the O20
+15-07-22;Turkey;E88;tur.e88;Route extended at west end from exit 10 of the O20 to exit 7 of the O20
+15-07-22;Turkey;E97;tur.e97;Route extended at north end from D010 to Georgian border
+15-07-22;Turkey;O3 (Çobançeşme);tur.o003cob;Route extended at south end from exit 184 to exit 185
+15-07-22;Turkey;O21 (Bor);tur.o021bor;New Route
+15-07-22;Turkey;O30;tur.o030;Route extended at north end from exit 20 to exit 21
+15-07-22;Turkey;O30 (Anadolu Lisesi);tur.o030ana;Route extended at west end from Otogar to Kemalpasa Cd
+15-07-22;Turkey;O50;tur.o050;New Route
+15-07-22;Turkey;O51;tur.o051;Route truncated at east end from Mithat Ozsan Bulvarı to exit 1
+15-07-22;Turkey;O52;tur.o052;Route truncated at west end from Mithat Ozsan Bulvarı to exit 1
+15-07-22;Turkey;O52 ((East) Gaziantep);;Route merged into O54
+15-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
+15-07-22;Turkey;O54;tur.o054;New Route
+15-07-17;Albania;A3;alb.a003;New route
+15-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+15-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 67 and 69
+15-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between Yt1792 and exit 72 
+15-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 81 and 85
+15-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
+15-07-17;Jamaica;T2;jam.t002;New route
+15-07-17;Jamaica;T3;jam.t003;New route
+17-07-15;Kosovo;R7 (Pristina);rks.r007pri;New route
+15-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
+15-07-15;(Kazakhstan) Batys Kazakhstan;E38;;Deleted route
+15-07-15;(Kazakhstan) Aktobe;E38;;Deleted route
+15-07-15;(Kazakhstan) Kyzylorda;E38;;Deleted route
+15-07-15;(Kazakhstan) Ongtustik Kazakhstan;;E38;Deleted route
+15-07-15;(Kazakhstan) Atyrau;E40;;Deleted route
+15-07-15;(Kazakhstan) Mangystau;E40;;Deleted route
+15-07-15;(Kazakhstan) Ongtustik Kazakhstan (Myrzakent);E40;;Deleted route
+15-07-15;(Kazakhstan) Ongtustik Kazakhstan;E40;;Deleted route
+15-07-15;(Kazakhstan) Jambyl;E40;;Deleted route
+15-07-15;(Kazakhstan) Jambyl (Yeshkilikurday);E40;;Deleted route
+15-07-15;(Kazakhstan) Almaty (Uznaghash);E40;;Deleted route
+15-07-15;(Kazakhstan) Almaty;E40;;Deleted route
+15-07-15;(Kazakhstan) Almaty (City);E40;;Deleted route
+15-07-15;(Kazakhstan) Shyghys Kazakhstan;E40;;Deleted route
+15-07-15;(Kazakhstan) Batys Kazakhstan;E121;;Deleted route
+15-07-15;(Kazakhstan) Atyrau;E121;;Deleted route
+15-07-15;(Kazakhstan) Mangystau;E121;;Deleted route
+15-07-15;(Kazakhstan) Kostanay;E123;;Deleted route
+15-07-15;(Kazakhstan) Soltustik Kazakhstan;E123;;Deleted route
+15-07-15;(Kazakhstan) Akmola;E123;;Deleted route
+15-07-15;(Kazakhstan) Kostanay (Arkalyk);E123;;Deleted route
+15-07-15;(Kazakhstan) Karagandy;E123;;Deleted route
+15-07-15;(Kazakhstan) Kyzylorda;E123;;Deleted route
+15-07-15;(Kazakhstan) Ongtustik Kazakhstan;E123;;Deleted route
+15-07-15;(Kazakhstan) Soltustik Kazakhstan;E125;;Deleted route
+15-07-15;(Kazakhstan) Akmloa (Alekseevka);E125;;Deleted route
+15-07-15;(Kazakhstan) Soltustik Kazakhstan (Alekseevka);E125;;Deleted route
+15-07-15;(Kazakhstan) Akmola (Kokshetau);E125;;Deleted route
+15-07-15;(Kazakhstan) Astana;E125;;Deleted route
+15-07-15;(Kazakhstan) Akmola (Vishnevka);E125;;Deleted route
+15-07-15;(Kazakhstan) Karagandy (Karaganda);E125;;Deleted route
+15-07-15;(Kazakhstan) Jambyl (Kashkanteniz);E125;;Deleted route
+15-07-15;(Kazakhstan) Karagandy (Ulken);E125;;Deleted route
+15-07-15;(Kazakhstan) Jambyl (Burubaytal);E125;;Deleted route
+15-07-15;(Kazakhstan) Almaty;E125;;Deleted route
+15-07-15;(Kazakhstan) Jambyl (Yeshkilikurday);E125;;Deleted route
+15-07-15;(Kazakhstan) Pavlodar;E127;;Deleted route
+15-07-15;(Kazakhstan) Shyghs Kazakhstan;E127;;Deleted route
+15-07-15;(Kazakhstan) Kyzylorda;E004;;Deleted route
+15-07-15;(Kazakhstan) Ongtustik Kazakhstan;E004;;Deleted route
+15-07-15;(Kazakhstan) Ongtustik Kazakhstan (Myrzakent);E004;;Deleted route
+15-07-15;(Kazakhstan) Almaty;E011;;Deleted route
+15-07-15;(Kazakhstan) Almaty (City);E012;;Deleted route
+15-07-15;(Kazakhstan) Almaty;E012;;Deleted route
+15-07-15;(Kazakhstan) Almaty;E013;;Deleted route
+15-07-15;(Kazakhstan) Almaty;E014;;Deleted route
+15-07-15;(Kazakhstan) Shghys Kazakhstan;E015;;Deleted route
+15-07-15;(Kazakhstan) Soltustik Kazakhstan;E016;;Deleted route
+15-07-15;(Kazakhstan) Akmola;E016;;Deleted route
+15-07-15;(Kazakhstan) Astana;E016;;Deleted route
+15-07-15;(Kazakhstan) Karagandy;E018;;Deleted route
+15-07-15;(Kazakhstan) Pavlodar;E018;;Deleted route
+15-07-15;(Kazakhstan) Soltustik Kazakhstan;E019;;Deleted route
+15-07-15;Kazakhstan;E38;kaz.e38;New route
+15-07-15;Kazakhstan;E40;kaz.e40;New route
+15-07-15;Kazakhstan;E40 (Atyru);kaz.e40aty;New route
+15-07-15;Kazakhstan;E40 (Shykment);kaz.e40shy;New route
+15-07-15;Kazakhstan;E121;kaz.e121;New route
+15-07-15;Kazakhstan;E123;kaz.e123;New route
+15-07-15;Kazakhstan;E125;kaz.e125;New route
+15-07-15;Kazakhstan;E127;kaz.e127;New route
+15-07-15;Kazakhstan;E004;kaz.e004;New route
+15-07-15;Kazakhstan;E011;kaz.e011;New route
+15-07-15;Kazakhstan;E012;kaz.e012;New route
+15-07-15;Kazakhstan;E013;kaz.e013;New route
+15-07-15;Kazakhstan;E014;kaz.e014;New route
+15-07-15;Kazakhstan;E015;kaz.e015;New route
+15-07-15;Kazakhstan;E016;kaz.e016;New route
+15-07-15;Kazakhstan;E018;kaz.e018;New route
+15-07-15;Kazakhstan;E019;kaz.e019;New route
+15-07-15;Kyrgyzstan;E010;kgz.e010;Truncated route at south end from Uzbek border to southern junction with M41
+15-07-15;Kyrgyzstan;E010;kgz.e010;Extended route at south end from southern junction with M41 to the junction with the M41 east of Osh
+15-07-15;Kyrgyzstan;E010 (Osh);;Deleted route
+15-07-15;Tajikistan;E123;tjk.e123;Truncated at north end between southern junction with E006 and Uzbek border
+15-07-15;Tajikistan;E123;tjk.e123;Extended at north end between southern junction with E006 and Uzbek border
+15-07-15;Tajikistan;E123;tjk.e123;Truncated at south end from 'End' to Aral
+15-07-15;Tajikistan;E123;tjk.e123;Extended at south end from Aral to Afghan border
+15-07-15;Tajikistan;E123 (Lyagin);;Deleted route
+15-07-15;Turkmenistan;E40;tkm.e40;New route
+15-07-15;Uzbekistan;E40;uzb.e40;Truncated at west end from Kazakh border to Beruniy
+15-07-15;Uzbekistan;E40;uzb.e40;Extended at west end from Beruniy to Turkmeni border
+15-07-15;Uzbekistan;E40;uzb.e40;Truncated at east end from Kazakh border to Fargona
+15-07-15;Uzbekistan;E40;uzb.e40;Extended at east end from Fargona to Kazakh border
+15-07-15;Uzbekistan;E40 (Nukus);uzb.e40nuk;New route
+15-07-15;Uzbekistan;E40 (Tashkent);;Deleted route
+15-07-15;Uzbekistan;E60;uzb.e60;Reentered route
+15-07-15;Uzbekistan;E123 (Koshkent);;Deleted route
+15-07-15;Uzbekistan;E004;uzb.e004;Reentered route
+15-07-15;Uzbekistan;E004 (Tashkent);;Deleted route
+15-07-15;Uzbekistan;E010;;Deleted route

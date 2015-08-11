@@ -35,9 +35,9 @@ IN13 http://www.openstreetmap.org/?lat=40.479141&lon=-85.824981
 CR1100E http://www.openstreetmap.org/?lat=40.478129&lon=-85.919051
 IN213 http://www.openstreetmap.org/?lat=40.477966&lon=-85.957074
 IN19 http://www.openstreetmap.org/?lat=40.477411&lon=-86.031876
-US31/22 http://www.openstreetmap.org/?lat=40.476823&lon=-86.084061
-TouPk http://www.openstreetmap.org/?lat=40.519900&lon=-86.094403
-US31_N http://www.openstreetmap.org/?lat=40.534775&lon=-86.110239
+162(31)  +US31/22 http://www.openstreetmap.org/?lat=40.476823&lon=-86.084061
+165(31) +TouPk http://www.openstreetmap.org/?lat=40.520063&lon=-86.095175
+166(31) +US31_N http://www.openstreetmap.org/?lat=40.534808&lon=-86.113458
 IN931 http://www.openstreetmap.org/?lat=40.534285&lon=-86.126890
 DavRd http://www.openstreetmap.org/?lat=40.543417&lon=-86.162982
 IN18 http://www.openstreetmap.org/?lat=40.578825&lon=-86.189847
@@ -45,9 +45,11 @@ IN218 http://www.openstreetmap.org/?lat=40.663712&lon=-86.244993
 CR300S http://www.openstreetmap.org/?lat=40.722088&lon=-86.282501
 US24_E http://www.openstreetmap.org/?lat=40.730023&lon=-86.307349
 IN435 http://www.openstreetmap.org/?lat=40.733828&lon=-86.337948
-IN29 http://www.openstreetmap.org/?lat=40.735096&lon=-86.374555
-LogBypRd http://www.openstreetmap.org/?lat=40.734966&lon=-86.386743
-IN25 http://www.openstreetmap.org/?lat=40.738673&lon=-86.388974
+*LogByp_E http://www.openstreetmap.org/?lat=40.734771&lon=-86.355157
+IN25_N http://www.openstreetmap.org/?lat=40.728007&lon=-86.378202
+IN25/29 +IN29 http://www.openstreetmap.org/?lat=40.728071&lon=-86.383480
+*LogByp_W +LogBypRd http://www.openstreetmap.org/?lat=40.734966&lon=-86.386743
+OldIN25 +IN25 http://www.openstreetmap.org/?lat=40.738673&lon=-86.388974
 US24_W http://www.openstreetmap.org/?lat=40.756555&lon=-86.398630
 IN16 http://www.openstreetmap.org/?lat=40.866828&lon=-86.502442
 E900S http://www.openstreetmap.org/?lat=40.924636&lon=-86.530123
