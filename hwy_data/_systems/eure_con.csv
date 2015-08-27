@@ -2,6 +2,7 @@
 eure;E1;;Ireland;nir.e1,irl.e1
 eure;E1;;Spain - Portugal;esp.e1,prt.e1,esp.e1hue
 eure;E1;;Ferrol, ESP;esp.e1fer
+eure;E1;;Vigo, ESP;esp.e1vig
 eure;E3;;(Main);fra.e3
 eure;E3;;Rennes, FRA;fra.e3ren
 eure;E4;;;fin.e4,swe.e4
@@ -10,6 +11,8 @@ eure;E5;;Glasgow, SCT;sct.e5gla
 eure;E5;;Birmingham, ENG;eng.e5bir
 eure;E5;;France - Spain;fra.e5,esp.e5
 eure;E5;;Bordeaux, FRA;fra.e5bor
+eure;E5;;Bilbao, ESP;esp.e1bil
+eure;E5;;Beasain, ESP;esp.e1bea
 eure;E6;;N. Norway;nor.e6kir
 eure;E6;;C. Norway - Sweden;nor.e6,swe.e6
 eure;E6;;Trondheim, NOR;nor.e6tro
@@ -27,6 +30,7 @@ eure;E13;;;eng.e13
 eure;E14;;;nor.e14,swe.e14
 eure;E15;;Great Britain;sct.e15,eng.e15
 eure;E15;;France - Spain;fra.e15,esp.e15
+eure;E15;;Cartagena, ESP;esp.e15car
 eure;E16;;Ireland;nir.e16
 eure;E16;;Scotland;sct.e16
 eure;E16;;Norway - Sweden;nor.e16,swe.e16
@@ -37,18 +41,18 @@ eure;E18;;Great Britain;sct.e18,eng.e18
 eure;E18;;Norway - Sweden;nor.e18,swe.e18
 eure;E18;;Sandefjordlufthavn, NOR;nor.e18san
 eure;E18;;Naantali, FIN;fin.e18naa
-eure;E18;;Finland - Russia;fin.e18,ruslen.e18,russpe.e18,ruslen.e18san,russpe.e18san,ruslen.e18yam
+eure;E18;;Finland - Russia;fin.e18,rus.e18
 eure;E19;;;nld.e19,bel.e19,fra.e19
 eure;E20;;Ireland;irl.e20
 eure;E20;;Liverpool, ENG;eng.e20liv
 eure;E20;;Great Britain;eng.e20
 eure;E20;;Denmark - Sweden;dnk.e20,swe.e20
-eure;E20;;Estonia - Russia;est.e20,ruslen.e20,russpe.e20kra,ruslen.e20kra,russpe.e20
+eure;E20;;Estonia - Russia;est.e20,rus.e20
 eure;E21;;;fra.e21
 eure;E22;;Great Britain;wls.e22,eng.e22
 eure;E22;;Netherlands - Germany;nld.e22,deu.e22
 eure;E22;;Sweden;swe.e22
-eure;E22;;Latvia - Russia;lva.e22,ruspsk.e22,rustve.e22,rusmos.e22,rusmow.e22,rusmos.e22nog,rusvla.e22,rusniz.e22,ruscu.e22,rusta.e22,rusud.e22moz,rusta.e22moz,rusud.e22,rusper.e22,russve.e22,rustyu.e22
+eure;E22;;Latvia - Russia;lva.e22,rus.e22
 eure;E22;;Turkaine, LVA;lva.e22tur
 eure;E23;;;fra.e23,che.e23
 eure;E24;;;eng.e24
@@ -58,11 +62,12 @@ eure;E25;;Sardegna, ITA;ita.e25cag
 eure;E26;;;deu.e26
 eure;E27;;;fra.e27,che.e27,ita.e27
 eure;E28;;Germany - Poland;deu.e28,pol.e28
-eure;E28;;Russia - Belarus;ruskgd.e28,ltu.e28,blr.e28
+eure;E28;;Russia - Belarus;rus.e28,ltu.e28,blr.e28
 eure;E29;;;deu.e29,lux.e29,deu.e29saa,fra.e29
 eure;E30;;Ireland;irl.e30
 eure;E30;;Great Britain;wls.e30,eng.e30
-eure;E30;;Netherlands - Russia;nld.e30,deu.e30,pol.e30,blr.e30,russmo.e30,rusmos.e30,rusmow.e30,rusmos.e30kol,rusrya.e30,rusmo.e30kar,rusrya.e30kar,rusmo.e30,ruspnz.e30,rusuly.e30,russam.e30,rusore.e30,rusta.e30yak,rusore.e30yak,rusta.e30sem,rusore.e30sem,rusta.e30,rusba.e30,rusche.e30ust,rusba.e30ust,rusche.e30,ruskgn.e30,rustyu.e30,rusoms.e30
+eure;E30;;Netherlands - Russia;nld.e30,deu.e30,pol.e30,blr.e30,rus.e30
+eure;E30;;Chelyabinsk, RUS;rus.e30che
 eure;E31;;Netherlands - Germany;nld.e31,deu.e31
 eure;E31;;Italy;ita.e31
 eure;E32;;;eng.e32
@@ -70,7 +75,7 @@ eure;E34;;;bel.e34,nld.e34,deu.e34
 eure;E35;;;nld.e35,deu.e35,che.e35,ita.e35
 eure;E36;;;deu.e36,pol.e36
 eure;E37;;;deu.e37
-eure;E38;;;ukr.e38,ruskrs.e38,rusvor.e38,russar.e38,kaz.e38
+eure;E38;;;ukr.e38,rus.e38,kaz.e38
 eure;E39;;Trondheim, NOR;nor.e39tro
 eure;E39;;Molde, NOR;nor.e39mol
 eure;E39;;Spjelkavik, NOR;nor.e39spj
@@ -83,13 +88,14 @@ eure;E39;;Bergen, NOR;nor.e39ber
 eure;E39;;Leirvik, NOR;nor.e39lei
 eure;E39;;Stavanger, NOR;nor.e39
 eure;E39;;Denmark;dnk.e39
-eure;E40;;;fra.e40,bel.e40,deu.e40,pol.e40,ukr.e40,rusros.e40,rusvgg.e40,rusast.e40sta,ruskl.e40,rusast.e40,kaz.e40aty,uzb.e40nuk,tkm.e40,uzb.e40,kaz.e40shy,kgz.e40,kaz.e40
+eure;E40;;;fra.e40,bel.e40,deu.e40,pol.e40,ukr.e40,rus.e40,kaz.e40aty,uzb.e40nuk,tkm.e40,uzb.e40,kaz.e40shy,kgz.e40,kaz.e40
 eure;E41;;;deu.e41,che.e41
 eure;E42;;;fra.e42,bel.e42,deu.e42
 eure;E43;;;deu.e43,aut.e43,che.e43
 eure;E44;;;fra.e44,lux.e44,deu.e44
 eure;E45;;Sweden;swe.e45
 eure;E45;;Denmark - Italy;dnk.e45,deu.e45,aut.e45,ita.e45
+eure;E45;;Roma, ITA;ita.e45rom
 eure;E45;;Sicilia, ITA;ita.e45cat
 eure;E46;;(Main);fra.e46,bel.e46
 eure;E46;;Caen, FRA;fra.e46cae
@@ -97,7 +103,7 @@ eure;E47;;Denmark;dnk.e47
 eure;E47;;Germany;deu.e47
 eure;E48;;;deu.e48,cze.e48
 eure;E49;;;deu.e49,cze.e49,aut.e49
-eure;E50;;;fra.e50,deu.e50,cze.e50,svk.e50,ukr.e50,rusros.e50,ruskda.e50,russta.e50,ruskb.e50zal,russta.e50zal,ruskb.e50,russe.e50,rusin.e50,rusce.e50,rusda.e50
+eure;E50;;;fra.e50,deu.e50,cze.e50,svk.e50,ukr.e50,rus.e50
 eure;E51;;;deu.e51
 eure;E52;;;fra.e52,deu.e52,aut.e52
 eure;E53;;;cze.e53,deu.e53
@@ -109,7 +115,7 @@ eure;E55;;Ústí Nad Labem, CZE;cze.e55ust
 eure;E55;;Greece;grc.e55
 eure;E56;;;deu.e56,aut.e56
 eure;E57;;;aut.e57,svn.e57
-eure;E58;;;aut.e58,svk.e58,ukr.e58muk,rou.e58,mda.e58,ukr.e58,rusros.e58
+eure;E58;;;aut.e58,svk.e58,ukr.e58muk,rou.e58,mda.e58,ukr.e58,rus.e58
 eure;E59;;;cze.e59,aut.e59,svn.e59,hrv.e59
 eure;E60;;France - Romania;fra.e60,che.e60,aut.e60inn,deu.e60,aut.e60,hun.e60,rou.e60
 eure;E60;;Georgia - Azerbaijan;geo.e60,aze.e60
@@ -139,7 +145,7 @@ eure;E75;;Belgrade;srb.e75bel
 eure;E75;;Thessaloniki;grc.e75the
 eure;E75;;Kriti, GRC;grc.e75ira
 eure;E76;;;ita.e76
-eure;E77;;Pskov, RUS - Kaliningrad, RUS;ruspsk.e77,est.e77,lva.e77,ltu.e77,ruskgd.e77
+eure;E77;;Pskov, RUS - Kaliningrad, RUS;rus.e77,est.e77,lva.e77,ltu.e77,rus.e77kal
 eure;E77;;Poland - Hungary;pol.e77,svk.e77,hun.e77
 eure;E78;;;ita.e78
 eure;E79;;;hun.e79,rou.e79,bgr.e79,grc.e79
@@ -164,22 +170,22 @@ eure;E90;;Turkey;tur.e90
 eure;E91;;;tur.e91
 eure;E92;;;grc.e92
 eure;E94;;;grc.e94
-eure;E95;;Russia - Ukraine;russpe.e95,ruslen.e95,ruspsk.e95,blr.e95,ukr.e95
+eure;E95;;Russia - Ukraine;rus.e95,blr.e95,ukr.e95
 eure;E95;;Turkey;tur.e95
 eure;E96;;;tur.e96
 eure;E97;;Ukraine;ukr.e97,crm.e97
-eure;E97;;Russia - Turkey;ruskda.e97,geo.e97,tur.e97
+eure;E97;;Russia - Turkey;rus.e97,geo.e97,tur.e97
 eure;E98;;;tur.e98
 eure;E99;;;aze.e99,tur.e99
-eure;E101;;;rusmow.e101,rusmos.e101,rusklu.e101,rusbry.e101,ruskrs.e101,rusbry.e101nek,ukr.e101
-eure;E105;;;nor.e105,rusmur.e105,ruskr.e105,ruslen.e105,russpe.e105,ruslen.e105tos,rusngr.e105,rustve.e105,rusmos.e105,rusmow.e105zel,rusmos.e105zel,rusmow.e105mol,rusmos.e105mol,rusmow.e105,rusmos.e105pod,rustul.e105pan,rusmos.e105pan,rustul.e105,rusorl.e105,ruskrs.e105,rusbel.e105,ukr.e105,crm.e105
-eure;E115;;;rusyar.e115,rusvla.e115,rusmos.e115ser,rusmow.e115,rusmos.e115,rustul.e115,ruslip.e115,rusvor.e115,rusros.e115,ruskda.e115,rusad.e115,ruskda.e115nov
-eure;E117;;;russta.e117,ruskb.e117zal,russta.e117zal,ruskb.e117,russe.e117,geo.e117,arm.e117
-eure;E119;;;rusmos.e119kas,rustul.e119,rusmos.e119,rusrya.e119,rustam.e119,rusvor.e119,rusvgg.e119,rusast.e119sta,ruskl.e119tsa,rusast.e119,ruskl.e119,rusda.e119,aze.e119
-eure;E121;;;russam.e121,rusore.e121,kaz.e121,tkm.e121
-eure;E123;;;rusche.e123,kaz.e123,uzb.e123,tjk.e123
-eure;E125;;;rustyu.e125,kaz.e125,kgz.e125
-eure;E127;;;rusoms.e127,kaz.e127
+eure;E101;;;rus.e101,ukr.e101
+eure;E105;;;nor.e105,rus.e105,ukr.e105,crm.e105
+eure;E115;;;rus.e115
+eure;E117;;;rus.e117,geo.e117,arm.e117
+eure;E119;;;rus.e119,aze.e119
+eure;E121;;;rus.e121,kaz.e121,tkm.e121
+eure;E123;;;rus.e123,kaz.e123,uzb.e123,tjk.e123
+eure;E125;;;rus.e125,kaz.e125,kgz.e125
+eure;E127;;;rus.e127,kaz.e127
 eure;E134;;;nor.e134
 eure;E136;;;nor.e136
 eure;E201;;;irl.e201
@@ -189,7 +195,7 @@ eure;E233;;;nld.e233,deu.e233
 eure;E234;;;deu.e234
 eure;E251;;;deu.e251
 eure;E261;;;pol.e261
-eure;E262;;;lva.e262,ltu.e262,ruspsk.e262
+eure;E262;;;lva.e262,ltu.e262,rus.e262
 eure;E263;;;est.e263
 eure;E264;;;est.e264,lva.e264
 eure;E265;;;est.e265
@@ -203,7 +209,7 @@ eure;E331;;;deu.e331
 eure;E371;;;pol.e371,svk.e371
 eure;E372;;;pol.e372,ukr.e372
 eure;E373;;;pol.e373,ukr.e373
-eure;E391;;;ukr.e391,rusbry.e391,ruskrs.e391,rusorl.e391
+eure;E391;;;ukr.e391,rus.e391
 eure;E401;;Dinan, FRA;fra.e401
 eure;E401;;Beauvais, FRA;fra.e401bea
 eure;E402;;;fra.e402
@@ -241,7 +247,7 @@ eure;E579;;;hun.e579
 eure;E581;;;rou.e581,mda.e581,ukr.e581
 eure;E583;;;ukr.e583,mda.e583,rou.e583
 eure;E584;;;ukr.e584,mda.e584,rou.e584
-eure;E592;;;rusad.e592,ruskda.e592
+eure;E592;;;rus.e592
 eure;E601;;;fra.e601
 eure;E602;;;fra.e602
 eure;E603;;;fra.e603
@@ -266,7 +272,7 @@ eure;E712;;;fra.e712
 eure;E713;;;fra.e713
 eure;E714;;;fra.e714
 eure;E717;;;ita.e717
-eure;E751;;(Main);svn.e751,hrv.e751
+eure;E751;;(Main);ita.e751,svn.e751,hrv.e751
 eure;E751;;Pula;hrv.e751pul
 eure;E761;;;bih.e761,srb.e761
 eure;E762;;;bih.e762,mne.e762
@@ -325,6 +331,6 @@ eure;E013;;;kaz.e013
 eure;E014;;;kaz.e014
 eure;E015;;;kaz.e015
 eure;E016;;;kaz.e016
-eure;E017;;;rusta.e017,rusba.e017
+eure;E017;;;rus.e017
 eure;E018;;;kaz.e018
 eure;E019;;;kaz.e019
