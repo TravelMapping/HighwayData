@@ -1,5 +1,332 @@
 YY-MM-DD;Country;Route;Root;Description
+15-08-30;(USA) New York;I-99;ny.i099;Renamed from I-99FutMan
+15-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
+15-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
+15-08-25;Spain;A2 (Girona);esp.a002gir;Route extended at north end from exit 708 to junction with the AP7
+15-08-25;Spain;A2 (Girona);esp.a002gir;Route extended at south end from exit 700 to junction with the C63
+15-08-25;Spain;AP2;esp.ap002;Route extended west from western junction with AP7 to exit 10 of the B23
+15-08-25;Spain;AP2 (Molins de Rei);;Route deleted
+15-08-25;Spain;AP4;esp.ap004;Route extended at north end from exit 15 to exit 13
+15-08-25;Spain;A7;esp.a007;Route extended at south end from exit 375 to exit 355: includes Castell de Ferro section
+15-08-25;Spain;A7 (Castell de Ferro);;Route deleted: merged into main A7
+15-08-25;Spain;A7 (Malaga);esp.a007mal;Route extended east from exit 314 to exit 342: includes Motril section
+15-08-25;Spain;A7 (Motril);;Route deleted: merged into Malaga section
+15-08-25;Spain;A8;esp.a008;Route extended at west end from exit 199 to exit 202
+15-08-25;Spain;A8 (Gijon);esp.a008gij;extended e from 291->228 includes Cabezón de la Sal section
+15-08-25;Spain;A8 (Gijon);esp.a008gij;extended w from 536->593 includes Vilalba section
+15-08-25;Spain;A8 (Cabezón de la Sal);;Route deleted: merged into Gijon section
+15-08-25;Spain;A8 (Vilalba);;Route deleted: merged into Gijon section
+15-08-25;Spain;AP9 (Ferrol);esp.ap009fer;truncated at north end from Paseo de Marina to exit 36F
+15-08-25;Spain;A11 (Aranda de Duero);esp.a011ara;New Route 
+15-08-25;Spain;A12;esp.a012;Route extended at west end from exit 76 to exit 78
+15-08-25;Spain;A12 (Santo Domingo de la Calzada);;Route deleted
+15-08-25;Spain;A12 (Nájera);esp.a012naj;Route extended at west end from exit 28 to exit 44
+15-08-25;Spain;A15;esp.a015;Route extended at north end from exit 164 to AP1/8
+15-08-25;Spain;A15 (Astigarraga);;Route merged with main A15
+15-08-25;Spain;A15 (Pamplona);;Route merged into AP15
+15-08-25;Spain;A15 (Soria);esp.a015sor;Reentered Route
+15-08-25;Spain;AP15;esp.ap015;Route extended at north end from exit 83A to exit 112
+15-08-25;Spain;AP15 (Irurtzun);;Route merged with main AP15
+15-08-25;Spain;A23 (Sabinanigo);esp.a023sab;New Route
+15-08-25;Spain;A32 (Albacete);esp.a032alb;New Route
+15-08-25;Spain;A38 (Gandia);esp.a038gan;New Route
+15-08-25;Spain;A54 (Lugo);esp.a054lug;New Route
+15-08-25;Spain;A66 (León);;Route merged into main A66
+15-08-25;Spain;A66;esp.a066;Route extended at north end from exit 268 to exit 143
+15-08-25;Spain;A77a;;Route deleted
+15-08-25;Spain;A318;esp.a318;New Route
+15-08-25;Spain;A376;;Route deleted
+15-08-25;Spain;A382;;Route deleted
+15-08-25;Spain;A480;;Route deleted
+15-08-25;Spain;A497;;Route deleted
+15-08-25;Spain;A601;esp.a601;Route extended at north end from exit 36 to exit 4
+15-08-25;Spain;AC14;esp.ac014;Route extended at north end from exit 3 to exit 1
+15-08-25;Spain;B22 (Terminal 1);esp.b022ter;New Route
+15-08-25;Spain;B40 (La Roca de Valles);esp.b040roc;New Route
+15-08-25;Spain;BA20;;Route deleted
+15-08-25;Spain;BI631;esp.bi631;New Route
+15-08-25;Spain;BI636;esp.bi636;New Route
+15-08-25;Spain;BI644;;Route deleted
+15-08-25;Spain;BU30;esp.bu030;Route extended at east end from exit 23 to exit 19
+15-08-25;Spain;C13;esp.c013;New Route
+15-08-25;Spain;C14;esp.c014;New Route
+15-08-25;Spain;C15;esp.c015;New Route
+15-08-25;Spain;C16;esp.c016;Route truncated at north end from N260 to exit 95
+15-08-25;Spain;C17;esp.c017;Route truncated at south end from B20 to exit 44
+15-08-25;Spain;C17;esp.c017;Route truncated at north end N260 to exit 91
+15-08-25;Spain;C31 (el Prat de Llobregat);esp.c031pra;New Route 
+15-08-25;Spain;C31 (Palamos);esp.c031pal;New Route
+15-08-25;Spain;C35;esp.c035;New Route
+15-08-25;Spain;C58;esp.c058;Route truncated at west end from C-55 to C-16
+15-08-25;Spain;C58C;esp.c058c;New Route
+15-08-25;Spain;C65;esp.c065;New Route
+15-08-25;Spain;CM10;esp.cm010;New Route
+15-08-25;Spain;CO32;esp.co032;New Route
+15-08-25;Spain;CV10;esp.cv010;Route truncated at north end from N232 to exit 41 and extended at north end from exit 41 to exit 45.
+15-08-25;Spain;CV35;esp.cv035;New Route
+15-08-25;Spain;CV365;;Route deleted
+15-08-25;Spain;E1 (Ferrol);esp.e1fer;Route truncated at north end from Paseo de Marina to exit 36F
+15-08-25;Spain;E1 (Vigo);esp.e1vig;New Route
+15-08-25;Spain;E5;esp.e5;Removed from M40 and relocated onto A1, M30 and A4 between A1 exit 13 and A4 exit 6
+15-08-25;Spain;E5 (Bilbao);esp.e5bil;New Route
+15-08-25;Spain;E5 (Beasain);esp.e5bea;New Route
+15-08-25;Spain;E15 (Cartagena);esp.e15car;New Route
+15-08-25;Spain;E901;esp.e901;Route extended at west end from A3 exit 6 to A3 exit 3
+15-08-25;Spain;EL20;esp.el020;Route extended south end from 3 to 4
+15-08-25;Spain;EX-A1;esp.exa001;Route extended at west end from exit 82 to exit 99
+15-08-25;Spain;EX-A1 (Moraleja);;Route merged with main EX-A1
+15-08-25;Spain;FE15;;Route deleted
+15-08-25;Spain;FV2;esp.fv002;New Route
+15-08-25;Spain;GC1;esp.gc001;Route extended south end from exit 62 to exit 68
+15-08-25;Spain;GC2;esp.gc002;New Route
+15-08-25;Spain;GC2 (Galdar);esp.gc002gal;New Route
+15-08-25;Spain;GI632;esp.gi632;New Route
+15-08-25;Spain;GR16;esp.gr016;New Route
+15-08-25;Spain;GR30;esp.gr030;New Route
+15-08-25;Spain;LU11;;Route deleted
+15-08-25;Spain;M30 (Bypass Sur);esp.m030bypsur;New Route
+15-08-25;Spain;MP203;esp.mp203;New Route
+15-08-25;Spain;M407;esp.m407;New Route
+15-08-25;Spain;M501;esp.m501;New Route
+15-08-25;Spain;M503;esp.m503;New Route
+15-08-25;Spain;M607;esp.m607;New Route
+15-08-25;Spain;MA22;;Route deleted
+15-08-25;Spain;MA23;esp.ma023;New Route
+15-08-25;Spain;PO12;;Route deleted
+15-08-25;Spain;RM11;esp.rm011;New Route
+15-08-25;Spain;RM16;esp.rm016;New Route
+15-08-25;Spain;RM17;esp.rm017;New Route
+15-08-25;Spain;S30;esp.s030;Route extended at south end from exit 5 to S-10
+15-08-25;Spain;SA11;;Route deleted
+15-08-25;Spain;SA20;;Route deleted
+15-08-25;Spain;SC11;esp.sc011;Route truncated at north end from SC20 to Rua da Chaparra
+15-08-25;Spain;SC12;;Route deleted
+15-08-25;Spain;SG20;;Route deleted
+15-08-25;Spain;SO20;esp.so020;Route truncated at north end from exit 21 to exit 9
+15-08-25;Spain;TF5;esp.tf005;Route truncated at west end from TF-42 to exit 39
+15-08-25;Spain;TO21;esp.to021;Route extended at south end from CM-40 to the southern junction with N-403
+15-08-25;Spain;V15;;Route deleted
+15-08-25;Spain;VA20;;Route deleted
+15-08-25;Spain;VA30;esp.va030;Route extended at east end from exit 13 to exit 
+15-08-25;Spain;Z32;esp.z032;New Route
+15-08-25;Italy;A1 (Sasso Marconi);ita.a001sas;New Route
+15-08-25;Italy;A4 (Chivasso);ita.a004chi;Route extended at north end from A4 to SP81 and SP91
+15-08-25;Italy;A6;ita.a006;Route extended at north end from A55 to Corso Trieste
+15-08-25;Italy;A6 (Fossano);ita.a006fos;New Route
+15-08-25;Italy;A11 (Viareggio);ita.a011via;New Route
+15-08-25;Italy;A11A12;;Route renamed A11 (Viareggio)
+15-08-25;Italy;A13 (Ferrara);ita.a013fer;Route extended at east end from SS16 to SS309
+15-08-25;Italy;A14 (Ravenna);;Route renamed A14dir (Ravenna)
+15-08-25;Italy;A14 (Bari);ita.a014bar;New route
+15-08-25;Italy;A14dir (Ravenna);ita.a014dirrav;New Route
+15-08-25;Italy;A18 (Catania);;Route renamed A18dir (Catania)
+15-08-25;Italy;A18dir (Catania);ita.a018dircar;New Route
+15-08-25;Italy;A19 (Palermo);;Route merged into A19
+15-08-25;Italy;A19;ita.a019;Route extended at west end from SS121 to Via Oreto
+15-08-25;Italy;A27;ita.a027;Route extended at south end from A57 to SS14
+15-08-25;Italy;A29;ita.a029;Route extended at east end from Via Rosario Nicoletti to southern junction with Viale Regione Siciliana Nord Ovest
+15-08-25;Italy;A29 (Palermo);;Route merged into A29
+15-08-25;Italy;A29 (Trapani);;Route renamed A29Dir (Trapani)
+15-08-25;Italy;A29 (Birgi);;Route renamed A29Dir (Birgi)
+15-08-25;Italy;A29dir (Birgi);ita.a029dirbir;New Route
+15-08-25;Italy;A29dir (Trapani);ita.a029dirtra;New Route
+15-08-25;Italy;A31;ita.a031;Route extended at south end from SP8 to SP434
+15-08-25;Italy;A35;ita.a035;New Route
+15-08-25;Italy;A36;ita.a036;New Route
+15-08-25;Italy;A52 (Rho);ita.a052rho;New Route
+15-08-25;Italy;A55;ita.a055;Route truncated at west end from junction with SS25 to junction with Rivoli spur of the A55
+15-08-25;Italy;A55;ita.a055;Route extended at west end from junction with Rivoli spur to to junction with SS29
+15-08-25;Italy;A55 (Rivoli);ita.a055riv;New Route
+15-08-25;Italy;A55 (Moncalieri);;Route merged into A6
+15-08-25;Italy;A55 ((South) Torino);;Route merged into main A55
+15-08-25;Italy;A57 (Venezia);;Route merged into A27
+15-08-25;Italy;A58;ita.a058;New Route
+15-08-25;Italy;A59;ita.a059;New Route
+15-08-25;Italy;A60;ita.a060;New Route
+15-08-25;Italy;A91;ita.a091;Route extended at west end from Via Renato Ciprari to Via Alessandro Guidoni
+15-08-25;Italy;Autostrade Sistiana-Rabuiese;autsisrab;New Route
+15-08-25;Italy;E31;ita.e31;Route extended at south end from A12 to Via Bologna
+15-08-25;Italy;E45 (Roma);ita.e45rom;New Route
+15-08-25;Italy;E61;ita.e61;Route removed from SR58 and SR14 and relocated onto RA14 and RA13 between SR58 and SR14
+15-08-25;Italy;E64;ita.e64;Route truncated at eastern end from Corso Vercelli to E70
+15-08-25;Italy;E74;ita.e74;Route removed from SS231 and relocated onto A33 between SS231_N and SS231_S
+15-08-25;Italy;E612;ita.e612;Route truncated at southern end from A4/A55 junction to A55 junction (now called A5_S)
+15-08-25;Italy;E612;ita.e612;Route extended at southern end from southern A5 junction to A55 junction
+15-08-25;Italy;E751;ita.e751;New Route
+15-08-25;Italy;Dramazione per Fernetti;;Route renamed RA14
+15-08-25;Italy;RA1;ita.ra001;New Route
+15-08-25;Italy;RA1 (Borgo Panigale);ita.ra001bor;New Route
+15-08-25;Italy;RA1;ita.ra002;New Route
+15-08-25;Italy;RA1;ita.ra003;New Route
+15-08-25;Italy;RA1;ita.ra005;New Route
+15-08-25;Italy;RA1;ita.ra009;New Route
+15-08-25;Italy;RA1;ita.ra011;New Route
+15-08-25;Italy;RA1;ita.ra012;New Route
+15-08-25;Italy;RA1;ita.ra013;New Route
+15-08-25;Italy;RA1;ita.ra014;New Route
+15-08-25;Italy;RA1;ita.ra015;New Route
+15-08-25;Italy;RA1;ita.ra016;New Route
+15-08-25;Italy;R.A. Ascoli-Porto d'Ascoli;;Route renamed RA11
+15-08-25;Italy;R.A. di Benevento;;Route renamed RA9
+15-08-25;Italy;R.A. Chieti-Pescara;;Route renamed RA12
+15-08-25;Italy;R.A. Ferrara-Porto Garibaldi;;Route merged with A13 (Ferrara)
+15-08-25;Italy;R.A. Pordenone;;Renamed RA16
+15-08-25;Italy;R.A. Salerno-Avellino;;Route renamed RA2
+15-08-25;Italy;R.A. Scalo Sicignano-Potenza;;Route renamed RA5
+15-08-25;Italy;R.A. Siena-Firenze;;Route renamed RA3
+15-08-25;Italy;R.A. Torino-Aeroporto di Caselle;;Route renamed RA10
+15-08-25;Italy;R.A. Trieste;;Route renamed RA13
+15-08-25;Italy;Tangenziale di Bologna;;Route renamed RA1
+15-08-25;Italy;Tangenziale di Bologna (Borgo Panigale);;Route renamed RA1 (Borgo Panigale)
+15-08-25;Italy;Tangenziale di Catania;;Renamed RA15
+15-08-25;Italy;T1;ita.t001;New Route
+15-08-25;Italy;T2;ita.t002;New Route
+15-08-25;Italy;T4;ita.t004;New Route
+15-08-21;Russia;E18;rus.e18;New Route
+15-08-21;Russia;E20;rus.e20;New Route
+15-08-21;Russia;E22;rus.e22;New Route
+15-08-21;Russia;E28;rus.e28;New Route
+15-08-21;Russia;E30;rus.e30;New Route
+15-08-21;Russia;E30 (Chelyabinsk);rus.e30che;New Route
+15-08-21;Russia;E38;rus.e38;New Route
+15-08-21;Russia;E40;rus.e40;New Route
+15-08-21;Russia;E50;rus.e50;New Route
+15-08-21;Russia;E77 (Pskov);rus.e77;New Route
+15-08-21;Russia;E77 (Kalingrad);rus.e77kal;New Route
+15-08-21;Russia;E95;rus.e95;New Route
+15-08-21;Russia;E97;rus.e97;New Route
+15-08-21;Russia;E101;rus.e101;New Route
+15-08-21;Russia;E105;rus.e105;New Route
+15-08-21;Russia;E115;us.e115;New Route
+15-08-21;Russia;E117;rus.e117;New Route
+15-08-21;Russia;E119;rus.e119;New Route
+15-08-21;Russia;E121;rus.e121;New Route
+15-08-21;Russia;E123;rus.e123;New Route
+15-08-21;Russia;E125;rus.e125;New Route
+15-08-21;Russia;E127;rus.e127;New Route
+15-08-21;Russia;E262;rus.e262;New Route
+15-08-21;Russia;E391;rus.e391;New Route
+15-08-21;Russia;E592;rus.e592;New Route
+15-08-21;Russia;E017;rus.e017;New Route
+15-08-21;Russia;All Routes;;Deleted all routes from all subdivisions
+15-08-21;Bulgaria;A2 (Varna);bgr.a002var;Route extended at west end from former junction with N7 to junction of N2 and N4
+15-08-21;Bulgaria;A3 (Kulata);bgr.a003kul;Route extended at north end from junction with N198 to N108
+15-08-21;Bulgaria;A3 (Kulata);bgr.a003kul;Route extended at south end from junction for Kulata to the Greek border
+15-08-21;Bulgaria;E70;bgr.e70;Route removed from N2 and N7 and relocated onto A2 between western A2/N2 junction (also N4) and former A2/N7 junction
+15-08-21;Hungary;M60;hun.m060;Route extended at west end from exit 30 to F5826
+15-08-21;Norway;E39 (Tresfjord);nor.e39tre;New Route
+15-08-21;(USA) Indiana;Keystone Parkway;in.keypkwy;New Route
+15-08-21;(Canada) Ontario;ON 404;on.on404;Extended northward from the interchange with Green Lane (Exit 53) to Woodbine Avenue (Exit 65).
+15-08-21;(Canada) Ontario;ON 28;on.on028;Removed from Peterborough Road 29 just NorthEast of Lakefield, ON, and relocated onto a brand new alignment SouthEast of Peterborough Road 29 between the closed intersection of *OldON28 and the intersection of Peterborough Road 6/Peterborough Road 29 (RR6/29).
+15-08-20;(USA) Indiana;I-164;in.i164;Route truncated at north end from exit 20 to US41
+15-08-20;(USA) Indiana;Veterans Memorial Parkway;in.vetmempkwy;Route added
+15-08-20;(USA) Indiana;US52;in.us052;Route removed from Sagamore Parkway, Lafayette and relocated onto US231, Old US231 and Teal Road between western junction with Sagamore Pkwy (formerly southern junction with US231) and eastern junction with Sagamore Pkwy (formerly junction with IN25)
+15-08-20;France;A344;fra.a344;New Route (formerly A444)
+15-08-20;France;A350;;Route deleted
+15-08-20;France;A444;;Route renamed A344
+15-08-20;Greece;A1 (Athens);grc.a001ath;Route extended at north end from exit 43 to PE01
+15-08-20;Greece;A1 (Athens);grc.a001ath;Route extended at south end from exit 82 to exit 87
+15-08-20;Greece;A1 (Larisa);;Route merged into Athens section
+15-08-20;Greece;A1 (Paraskevi);;Route merged into Athens section
+15-08-20;Greece;A1 (Kato Egani);grc.a001kat;New Route
+15-08-20;Greece;A1 (Thessaloniki);grc.a001the;New Route
+15-08-20;Greece;A4;grc.a004;New Route
+15-08-20;Greece;A5 (Patras);grc.a005pat;Route extended at north end from exit K1 to exit 3
+15-08-20;Greece;A5 (Kaliva);grc.a005kal;New Route
+15-08-20;Greece;A7;grc.a007;Route extended at south end from exit 14 to exit 18
+15-08-20;Greece;A7 (Thouria);;Route merged into main A7
+15-08-20;Greece;A8;grc.a008;Route extended at east end from A6 to EO8
+15-08-20;Greece;A8 (Patras);grc.a008pat;New Route
+15-08-20;Greece;A11;grc.a011;Route extended at north end from EP34 to EO44a
+15-08-20;Greece;A12;grc.a012;New Route
+15-08-20;Greece;A23;grc.a023;New Route
+15-08-20;Greece;A25;grc.a025;Route extended at north end from Rizana to eastern junction with EO12
+15-08-20;Greece;A25;grc.a025;Route extended at south end from exit 24 of the A2 to the junction with EO16g at Nea Moudania
+15-08-20;Greece;A25 (Promahonas);grc.a025pro;Route merged with Sidirokastro route
+15-08-20;Greece;A25 (Paleokastro);grc.a025pal;Route merged with Sidirokastro route
+15-08-20;Greece;A25 (Sidirokastro);grc.a025sid;New Route
+15-08-20;Greece;A27;grc.a027;Route truncated at north end from Odos Oik to EO3
+15-08-20;Greece;A29;grc.a029;Route extended at north end from exit 3 to exit 7
+15-08-20;Greece;A29 (Argos Orestiko);;Route route merged into main A29
+15-08-20;Greece;A62;grc.a062;Route extended at north end from Aerolimenas Eleftherios Venizelos to Exhibition Centre
+15-08-20;Greece;A62;grc.a062;Route extended at south end from exit K2 to exit K3
+15-08-20;Greece;A64;grc.a064;Route extended at east end from exit Y8 to exit Y9
+15-08-20;Greece;A90 (Heraklion);grc.a090ira;Route extended at east end from Leo Sen Geo to EO90_E
+15-08-20;Greece;A123;grc.a123;New Route
+15-08-20;Greece;A581;grc.a581;New Route
+15-08-20;Greece;E75 (Thessaloniki);grc.e75the;New Route
+15-08-20;Greece;E79;grc.e79;Route extended at south end from A2 exit 23 to EO111
+15-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
+15-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
+15-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+15-08-20;(UK) England;A5758;eng.a5758;New Route
+15-08-20;Slovakia;D1 (Dri);svk.d001dri;Route extended at north end from exit 407 to I68
+15-08-20;Slovakia;D1 (Vrutky);svk.d001vru;New Route
+15-08-20;Slovakia;D4;svk.d004;Route extended at east end from D2 to Jantarova
+15-08-20;Slovakia;D4 (Stupava);svk.d004stu;New Route
+15-08-20;Slovakia;R2 (Zvolen);svk.r002zvo;New Route
+15-08-20;Slovakia;R2 (Kosice);svk.r002kos;New Route
+15-08-20;Slovakia;R3 (Vrutky);svk.r003vru;New Route
+15-08-20;Slovakia;R6;svk.r006;Route truncated at north end from II507 to I49
+15-08-20;Slovakia;E50;svk.e50;Route removed from I50 and relocated onto D1 between exit 212 of D1 and exit 229
+15-08-19;(Canada) New Brunswick;NB 8;nb.nb008;Removed from Bridge Street, Canada Street and NB 148, and relocated onto a controlled access bypass to the east of Marysville, Nashwaak, Durham Bridge and Taymouth, between Bridge Street and NB 148.
+15-08-19;(Canada) New Brunswick;NB 107;nb.nb107;Extended eastward from NB 148 to NB 8. Moved waypoint NB8 from NB 148 to the Marysville Bypass.
+15-08-19;(Canada) New Brunswick;NB 148;nb.nb148;Added route
+15-08-19;(Canada) New Brunswick;NB 628;nb.nb628;Removed from Penniac Bridge and River Road between Canada Street and Penniac Road, and relocated onto Penniac Road between River Road and NB 8.
+15-08-19;(Canada) New Brunswick;NB 935;nb.nb935;Removed from a closed roadway through the Shorebird Reserve along Shepody Bay and relocated onto a bypass about 1/4 km inland, between waypoints OldNB935_W and OldNB935_E.
+15-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
+15-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
+15-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+15-08-19;(USA) Maine;ME 11B (Millinocket);me.me011bmil;Added route
+15-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
+15-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
+15-08-18;(Canada) Quebec;A-5;qc.a005;Extended north to Wakefield, absorbing former A-5 (Wakefield)
+15-08-18;(Canada) Quebec;A-5 (Wakefield);(NONE);Route deleted, folded into rest of A-5
+15-08-18;(Canada) Quebec;A-73 (St-Georges);qc.a073stg;Route added
+15-08-18;(Canada) Quebec;A-85 (Notre-Dame-du-Lac);qc.a085not;Route added
+15-08-18;(Canada) Quebec;TCH (Main);qc.tchmai;East end moved to new A-85 freeway, from Ch. du Golf (OldQC185_D - exit 40), Ch. du Lac (OldQC185_C - *OldQC185_A), and Av. de la Madawaska (exit 14 - QC/NB border)
+15-08-18;(Canada) New Brunswick;NB 2;nb.nb002;Moved from Madawaska Ave. to new freeway between QC/NB border and exit 1
+15-08-18;(Canada) New Brunswick;TCH (Main);nb.tchmai;Moved from Madawaska Ave. to new freeway between QC/NB border and exit 1
+15-08-18;(Canada) Quebec;A-35;qc.a035;Extended route south to St-Sebastien, with old waypoint 1 moved to new exit 38
+15-08-18;(Canada) Quebec;A-410;qc.a410;Extended route east to rue Belvidere (exit 10)
+15-08-18;(USA) Georgia;Harry S Truman Parkway;ga.hartrupkwy;Extended westward from the interchange with GA 204 Spur (Whitfield Avenue) in Savannah to a new intersection with GA 204 (Abercorn Street).
+15-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
+15-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
+15-08-18;(USA) South Carolina;US 17 Alternate Truck (Summerville);sc.us017alttrksum;Added route
+15-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
+15-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
+15-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+15-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
+15-08-17;(USA) Wyoming;US 85 Business (Torrington);wy.us085bustor;Added route
+15-08-17;(USA) Iowa;US 34;ia.us034;Removed from road extending westward from I-29 exit 32 into Nebraska and moved onto new expressway extending west from I-29 exit 35 to Nebraska state line
+15-08-17;(USA) Iowa;US 69;ia.us069;Renamed point IA152->CRR35
+15-08-17;(USA) Iowa;IA 92;ia.ia092;Removed from Grandview Avenue/Mississippi Drive in Muscatine and rerouted onto US 61 and IA 38/Park Avenue in and around Muscatine
+15-08-17;(USA) Iowa;IA 152;;Deleted route
+15-08-17;(USA) Iowa;IA 370;;Deleted route
+15-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
+15-08-13;(Canada) British Columbia;TCH 1 Business (Chase BC); bc.tchbuscha;New route
+15-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+15-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;New route
 15-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+15-08-11;(USA) South Dakota;I-90;sd.i090;Exit 99: Renumbered to Exit 98
+15-08-11;(USA) South Dakota;US 14;sd.us014;Exit 99: Renumbered to Exit 98
+15-08-11;(USA) South Dakota;I-90 Business Spur (Belvidere);;Deleted route
+15-08-11;(USA) South Dakota;I-90 Business Loop (Vivian);;Deleted route
+15-08-11;(USA) South Dakota;I-90 Business Loop (Plankinton);;Deleted route, renamed point on US 281 I-90BL->SD258
+15-08-11;(USA) South Dakota;I-29 Business Spur (North Sioux City);;Deleted route
+15-08-11;(USA) South Dakota;Business Loop (Brookings);;Deleted route, renamed point on US 14 I-29BL_S->MainAve
+15-08-11;(USA) South Dakota;I-29 Business Spur (Brookings);sd.i029bsbro;Created route from business loop file. Renamed BL I-29 points US14_W->MainAve and I-29_N->I-29.
+15-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
+15-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
+15-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+15-08-11;(USA) South Dakota;SD 37 Truck (Huron);sd.sd037trkhur;Extended from west junction with US 14 east along US 14/4th Street to SD 37.
+15-08-11;(USA) South Dakota;SD 25;sd.sd025;Truncated south end from SD 42 to west junction SD 262. Point SD262_W is now SD262.
+15-08-11;(USA) South Dakota;SD 134;;Deleted route. Renamed point on US 12 from SD134->371stAve.
+15-08-11;(USA) South Dakota;SD 139;;Deleted route: Renamed points on US 212 and SD 20 from SD139->OldSD139.
+15-08-11;(USA) South Dakota;SD 203;sd.sd203;Truncated north end from 252nd Street to "End" at state training school.
+15-08-11;(USA) South Dakota;SD 258;sd.sd258;Extended west and south along Davenport Street and East Main Street from Campbell Street to I-90.
+15-08-11;(USA) South Dakota;SD 473;sd.sd473;Added route
+15-08-11;(USA) Georgia;I-16;ga.i016;Relabeled waypoint I-75 as 1 and previous waypoint 1 as 1A (US 23 & US 129, Spring Street) in Macon.
 15-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
 15-08-11;(USA) Wyoming;US310;wy.us310;Route truncated at east end from eastern junction with US14/16 to (formerly western) junction with US14/16
 15-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
@@ -86,8 +413,8 @@ YY-MM-DD;Country;Route;Root;Description
 15-07-25;(UK) Scotland;E5 (Glasgow);sct.e5gla;New Route
 15-07-25;(UK) Scotland;E16;sct.e16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
 15-07-24;Belgium;A601;;Route deleted
-15-07-24;Hungary;M3;hun.m003;Route extended at west end from exit 267 to exit 280
-15-07-24;Hungary;M3;hun.m003;Route truncated at east end from Hungaria Korut to exit 10
+15-07-24;Hungary;M3;hun.m003;Route extended at east end from exit 267 to exit 280
+15-07-24;Hungary;M3;hun.m003;Route truncated at west end from Hungaria Korut to exit 10
 15-07-24;Hungary;M43;hun.m043;Route extended at east end from exit 35 to the Romanian border
 15-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 15-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
