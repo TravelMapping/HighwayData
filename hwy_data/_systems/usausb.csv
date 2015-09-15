@@ -1,4 +1,4 @@
-System;Region;Route;Banner;Abbrev;City;Root;
+System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
 usausb;FL;US1;Alt;Jac;Jacksonville, FL;fl.us001altjac;
 usausb;FL;US1;Bus;StA;St. Augustine, FL;fl.us001bussta;
 usausb;GA;US1;Bus;Way;Waycross, GA;ga.us001busway;
@@ -535,7 +535,7 @@ usausb;TX;US67;Bus;Pre;Presidio, TX;tx.us067buspre;
 usausb;TX;US67;Bus;SAW;(West) San Angelo, TX;tx.us067bussaw;
 usausb;TX;US67;Bus;SAE;(East) San Angelo, TX;tx.us067bussae;
 usausb;TX;US67;Bus;Cle;Cleburne, TX;tx.us067buscle;
-usausb;TX;US67;Bus;Avr;Alvarado, TX;tx.us067busavr;
+usausb;TX;US67;Bus;Avr;Alvarado, TX;tx.us067busalv;US67BusAvr
 usausb;TX;US67;Bus;Sul;Sulphur Springs, TX;tx.us067bussul;
 usausb;AR;US67;Bus;Bee;Beebe, AR;ar.us067busbee;
 usausb;AR;US67;Bus;Sea;Searcy, AR;ar.us067bussea;
@@ -684,7 +684,7 @@ usausb;TX;US83;Bus;Abi;Abilene, TX;tx.us083busabi;
 usausb;KS;US83;Bus;Gar;Garden City, KS;ks.us083busgar;
 usausb;SD;US83;Trk;Pie;Pierre, SD;sd.us083trkpie;
 usausb;ND;US83;Byp;Min;Minot, ND;nd.us083bypmin;
-usausb;TX;US84;Bus;Sla;Slanton, TX;tx.us084bussla;
+usausb;TX;US84;Bus;Sla;Slaton, TX;tx.us084bussla;
 usausb;TX;US84;Bus;Sny;Snyder, TX;tx.us084bussny;
 usausb;TX;US84;Bus;Her;Hermleigh, TX;tx.us084busher;
 usausb;TX;US84;Bus;Ros;Roscoe, TX;tx.us084busros;
@@ -933,7 +933,7 @@ usausb;NC;US258;Trk;Sno;Snow Hill, NC;nc.us258trksno;
 usausb;VA;US258;Bus;Fra;Franklin, VA;va.us258busfra;
 usausb;VA;US258;Bus;Smi;Smithfield, VA;va.us258bussmi;
 usausb;VA;US258;BusAlt;Smi;Smithfield, VA;va.us258busaltsmi;
-usausb;TX;US259;Bus;Klg;Kilgore, TX;tx.us259busklg;
+usausb;TX;US259;Bus;Kil;Kilgore, TX;tx.us259buskil;US259BusKlg
 usausb;NC;US264;Alt;Wil;Wilson, NC;nc.us264altwil;
 usausb;NC;US264;Bus;Bel;Belhaven, NC;nc.us264busbel;
 usausb;OK;US270;Bus;Sha;Shawnee, OK;ok.us270bussha;
@@ -975,7 +975,7 @@ usausb;OK;US281;Spr;Gea;Geary, OK;ok.us281sprgea;
 usausb;ND;US281;Byp;Jam;Jamestown, ND;nd.us281bypjam;
 usausb;TX;US283;Bus;Sey;Seymour, TX;tx.us283bussey;
 usausb;NM;US285;Trk;Ros;Roswell, NM;nm.us285trkros;
-usausb;TX;US287;Bus;Grp;Grapeland, TX;tx.us287busgrp;
+usausb;TX;US287;Bus;Grp;Grapeland, TX;tx.us287busgra;US287BusGrp
 usausb;TX;US287;Bus;Cor;Corsicana, TX;tx.us287buscor;
 usausb;TX;US287;Bus;Enn;Ennis, TX;tx.us287busenn;
 usausb;TX;US287;Bus;Wax;Waxahachie, TX;tx.us287buswax;
@@ -1025,7 +1025,7 @@ usausb;TX;US377;Bus;Gra;Granbury, TX;tx.us377busgra;
 usausb;TX;US377;Bus;Pil;Pilot Point, TX;tx.us377buspil;
 usausb;TX;US377;Bus;Tio;Tioga, TX;tx.us377bustio;
 usausb;TX;US377;Bus;Col;Collinsville, TX;tx.us377buscol;
-usausb;TX;US377;Bus;Whb;Whitesboro, TX;tx.us377buswhb;
+usausb;TX;US377;Bus;Whi;Whitesboro, TX;tx.us377buswhi;US377BusWhb
 usausb;SC;US378;Bus;Lak;Lake City, SC;sc.us378buslak;
 usausb;TX;US380;Bus;Dec;Decatur, TX;tx.us380busdec;
 usausb;TX;US380;Bus;Flo;Floyd, TX;tx.us380busflo;
