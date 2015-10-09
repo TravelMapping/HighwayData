@@ -1,7 +1,7 @@
 System;CountryCode;Name;Color;Tier;InDev
 alba;ALB;Albania Motorways;blue;1;
 auta;AUT;Austria Motorways;blue;1;
-auts;AUT;Austria Expressways;teal;3;
+auts;AUT;Austria Expressways;teal;2;
 bela;BEL;Belgium Motorways;blue;1;
 biha;BIH;Bosnia and Herzegovina Motorways;blue;1;
 bgra;BGR;Bulgaria Motorways;blue;1;
@@ -19,10 +19,10 @@ canyt;CAN;Yukon Territorial Highways;brown;4;
 chea;CHE;Switzerland Motorways;blue;1;
 cypa;CYP;Cyprus Motorways;blue;1;
 czed;CZE;Czech Republic Motorways;blue;1;
-czer;CZE;Czech Republic Expressways;teal;3;
+czer;CZE;Czech Republic Expressways;teal;2;
 deua;DEU;Germany Motorways;blue;1;
-eure;EUR;International E-roads;red;2;
-eursf;EUR;Europe Select Named Motorways;teal;3;
+eure;EUR;International E-roads;red;3;
+eursf;EUR;Europe Select Named Motorways;teal;2;
 espa;ESP;Spain Motorways;blue;1;
 fraa;FRA;France Motorways;blue;1;
 mtqa;FRA;Martinique Motorways;blue;1;
@@ -42,19 +42,19 @@ itaa;ITA;Italy Motorways;blue;1;
 jamt;JAM;Jamaica Motorways;blue;1;
 jeya;JEY;Jersey A Roads;brown;4;
 luxa;LUX;Luxembourg Motorways;blue;1;
-luxb;LUX;Luxembourg Expressways;teal;3;
+luxb;LUX;Luxembourg Expressways;teal;2;
 mexd;MEX;Mexico Federal Expressways;blue;1;
 mexed;MEX;Mexico State Expressways;teal;3;
 nlda;NLD;Netherlands Motorways;blue;1;
 pola;POL;Poland Motorways;blue;1;
-pols;POL;Poland Expressways;teal;3;
+pols;POL;Poland Expressways;teal;2;
 prta;PRT;Portugal Motorways;blue;1;
 rksr;RKS;Kosovo Motorways;blue;1;
 roua;ROU;Romania Motorways;blue;1;
 svkd;SVK;Slovakia Motorways;blue;1;
-svkr;SVK;Slovakia Expressways;teal;3;
+svkr;SVK;Slovakia Expressways;teal;2;
 svna;SVN;Slovenia Motorways;blue;1;
-svnh;SVN;Slovenia Expressways;teal;3;
+svnh;SVN;Slovenia Expressways;teal;2;
 turo;TUR;Turkey Motorways;blue;1;
 usai;USA;United States Interstate Highways;blue;1;
 usaib;USA;United States Business Interstate Highways;green;2;
@@ -95,12 +95,15 @@ usasd;USA;South Dakota State Highways;brown;4;
 usawa;USA;Washington State Highways;brown;4;
 usawv;USA;West Virginia State Highways;brown;4;
 usawi;USA;Wisconsin State Highways;brown;4;
+#asiah;ASI;Asian Highways;red;3;yes
 #cannf;CAN;Canada Select Named Freeways;teal;3;yes
 #cansph;CAN;Canada Select Provincial Highways;brown;4;yes
+fran;FRA;France N Roads;brown;4;yes
 gbna1;GBR;Great Britain A Roads (Zone 1);brown;4;yes
 gbna6;GBR;Great Britain A Roads (Zone 6);brown;4;yes
 gbna8;GBR;Great Britain A Roads (Zone 8);brown;4;yes
 gbna9;GBR;Great Britain A Roads (Zone 9);brown;4;yes
+lvaa;LVA;Latvia A Roads;brown;4;yes
 usaak;USA;Alaska State Highways;brown;4;yes
 #usaca;USA;California State Highways;brown;4;yes
 usaco;USA;Colorado State Highways;brown;4;yes

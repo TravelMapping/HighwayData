@@ -60,26 +60,27 @@ P4 http://www.openstreetmap.org/?lat=56.922824&lon=24.168527
 +X18 http://www.openstreetmap.org/?lat=56.907292&lon=24.186144
 A5_E http://www.openstreetmap.org/?lat=56.858874&lon=24.310684
 +X19 http://www.openstreetmap.org/?lat=56.847845&lon=24.352140
-A4 http://www.openstreetmap.org/?lat=56.846343&lon=24.396687
-+X20 http://www.openstreetmap.org/?lat=56.846625&lon=24.461918
-P10 http://www.openstreetmap.org/?lat=56.836907&lon=24.496765
-+X21 http://www.openstreetmap.org/?lat=56.821222&lon=24.541397
-P5 http://www.openstreetmap.org/?lat=56.818099&lon=24.580193
-P8 http://www.openstreetmap.org/?lat=56.747546&lon=24.717350
-P85 http://www.openstreetmap.org/?lat=56.744593&lon=24.721255
-+X22 http://www.openstreetmap.org/?lat=56.726974&lon=24.754343
-LeiRoz http://www.openstreetmap.org/?lat=56.713221&lon=24.841805
-+X24 http://www.openstreetmap.org/?lat=56.697343&lon=24.889097
-+X25 http://www.openstreetmap.org/?lat=56.646035&lon=24.905148
-Dze http://www.openstreetmap.org/?lat=56.641599&lon=24.916563
-+X26 http://www.openstreetmap.org/?lat=56.610342&lon=24.992352
-P32 http://www.openstreetmap.org/?lat=56.625124&lon=25.088224
-JanaPurIela http://www.openstreetmap.org/?lat=56.628051&lon=25.123072
-+X27 http://www.openstreetmap.org/?lat=56.619127&lon=25.146031
-P87 http://www.openstreetmap.org/?lat=56.626115&lon=25.228729
-+X28 http://www.openstreetmap.org/?lat=56.618938&lon=25.305204
-P80 http://www.openstreetmap.org/?lat=56.649479&lon=25.410948
-P79 http://www.openstreetmap.org/?lat=56.645256&lon=25.434852
+A4/A6 +A4 http://www.openstreetmap.org/?lat=56.846343&lon=24.396687
+MieIela http://www.openstreetmap.org/?lat=56.871635&lon=24.407158
+P5 http://www.openstreetmap.org/?lat=56.900754&lon=24.406643
+Dob http://www.openstreetmap.org/?lat=56.885353&lon=24.495649
+P10 http://www.openstreetmap.org/?lat=56.864505&lon=24.560366
+P5/P80 http://www.openstreetmap.org/?lat=56.858827&lon=24.564657
+P80_W http://www.openstreetmap.org/?lat=56.858640&lon=24.642463
+OgreJug http://www.openstreetmap.org/?lat=56.844090&lon=24.674263
+Kra http://www.openstreetmap.org/?lat=56.823829&lon=24.762368
+Ras http://www.openstreetmap.org/?lat=56.823336&lon=24.764943
+P8 http://www.openstreetmap.org/?lat=56.806893&lon=24.880772
++X21 http://www.openstreetmap.org/?lat=56.799492&lon=24.946733
+MadLed http://www.openstreetmap.org/?lat=56.781605&lon=25.017757
++X22 http://www.openstreetmap.org/?lat=56.770835&lon=25.083590
+P32 http://www.openstreetmap.org/?lat=56.730505&lon=25.161867
+OgreVis http://www.openstreetmap.org/?lat=56.712468&lon=25.217228
+VisKok http://www.openstreetmap.org/?lat=56.701914&lon=25.283146
++X23 http://www.openstreetmap.org/?lat=56.693479&lon=25.352325
+KokVer http://www.openstreetmap.org/?lat=56.666227&lon=25.421677
+P79 http://www.openstreetmap.org/?lat=56.665614&lon=25.466137
+A6/P80 http://www.openstreetmap.org/?lat=56.641599&lon=25.445967
 +X29 http://www.openstreetmap.org/?lat=56.623565&lon=25.469141
 +X30 http://www.openstreetmap.org/?lat=56.600327&lon=25.520039
 +X31 http://www.openstreetmap.org/?lat=56.592766&lon=25.547676
@@ -111,10 +112,10 @@ P59 http://www.openstreetmap.org/?lat=56.566577&lon=26.928692
 SubPerDun http://www.openstreetmap.org/?lat=56.560050&lon=27.054348
 CisDri http://www.openstreetmap.org/?lat=56.541599&lon=27.144041
 +X44 http://www.openstreetmap.org/?lat=56.532087&lon=27.181463
-A15/E262 http://www.openstreetmap.org/?lat=56.529862&lon=27.276564
+A15 +A15/E262 http://www.openstreetmap.org/?lat=56.529862&lon=27.276564
 P36 http://www.openstreetmap.org/?lat=56.540511&lon=27.300210
 +X45 http://www.openstreetmap.org/?lat=56.549028&lon=27.321711
-A13/E262 http://www.openstreetmap.org/?lat=56.544249&lon=27.354026
+A13 +A13/E262 http://www.openstreetmap.org/?lat=56.544249&lon=27.354026
 +X46 http://www.openstreetmap.org/?lat=56.533554&lon=27.398615
 P54 http://www.openstreetmap.org/?lat=56.515043&lon=27.422304
 GreSpr http://www.openstreetmap.org/?lat=56.510828&lon=27.434235
@@ -124,13 +125,11 @@ Tut http://www.openstreetmap.org/?lat=56.537624&lon=27.633018
 LatIela http://www.openstreetmap.org/?lat=56.537648&lon=27.697992
 KraIela http://www.openstreetmap.org/?lat=56.531093&lon=27.696190
 P49 http://www.openstreetmap.org/?lat=56.530430&lon=27.737346
-LudNirVec http://www.openstreetmap.org/?lat=56.514759&lon=27.753868
-+X52 http://www.openstreetmap.org/?lat=56.492969&lon=27.819872
-MalIstPer http://www.openstreetmap.org/?lat=56.495575&lon=27.844162
-+X54 http://www.openstreetmap.org/?lat=56.486667&lon=27.897120
-Cib http://www.openstreetmap.org/?lat=56.434645&lon=28.004837
-Opo http://www.openstreetmap.org/?lat=56.419219&lon=28.084059
-PloNir http://www.openstreetmap.org/?lat=56.381126&lon=28.087020
-P52 http://www.openstreetmap.org/?lat=56.371478&lon=28.115988
+P136 +LudNirVec http://www.openstreetmap.org/?lat=56.514712&lon=27.753439
+Mal http://www.openstreetmap.org/?lat=56.465383&lon=27.807341
++X699127 http://www.openstreetmap.org/?lat=56.444562&lon=27.829570
+Nir http://www.openstreetmap.org/?lat=56.412097&lon=27.922869
+P52_W http://www.openstreetmap.org/?lat=56.382694&lon=28.079510
+P52_E +P52 http://www.openstreetmap.org/?lat=56.370242&lon=28.118692
 +X58 http://www.openstreetmap.org/?lat=56.357167&lon=28.148689
 LVA/RUS http://www.openstreetmap.org/?lat=56.355788&lon=28.193836
