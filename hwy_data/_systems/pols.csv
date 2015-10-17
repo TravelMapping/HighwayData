@@ -1,10 +1,9 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
+﻿System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
 pols;POL;S1;;;Dąbrowa Górnicza;pol.s001;
 pols;POL;S1;;Sko;Skoczów;pol.s001sko;
 pols;POL;S2;;;;pol.s002;
 pols;POL;S3;;Ost;Ostromice;pol.s003ost;
-pols;POL;S3;;;Szczecin;pol.s003;
-pols;POL;S3;;Zie;Zielona Góra;pol.s003zie;
+pols;POL;S3;;;Szczecin;pol.s003;S3Zie
 pols;POL;S5;;Swi;Świecie;pol.s005swi;
 pols;POL;S5;;Byd;Bydgoszcz;pol.s005byd;
 pols;POL;S5;;Poz;Poznań;pol.s005poz;
@@ -13,6 +12,7 @@ pols;POL;S6;;Now;Nowogard;pol.s006now;
 pols;POL;S6;;Slu;Słupsk;pol.s006slu;
 pols;POL;S6;;;Gdańsk;pol.s006;
 pols;POL;S7;;Gda;Gdańsk;pol.s007gda;
+pols;POL;S7;;NDG;Nowy Dwor Gdanski;pol.s007ndg;
 pols;POL;S7;;Elb;Elbląg;pol.s007elb;S7Mil
 pols;POL;S7;;Ols;Olsztynek;pol.s007ols;
 pols;POL;S7;;Plo;Płońsk;pol.s007plo;
@@ -35,8 +35,7 @@ pols;POL;S10;;Sta;Stargard Szczeciński;pol.s010sta;
 pols;POL;S10;;Wyr;Wyrzysk;pol.s010wyr;
 pols;POL;S10;;Byd;Bydgoszcz;pol.s010byd;
 pols;POL;S10;;;Toruń;pol.s010;
-pols;POL;S11;;;Poznań;pol.s011;
-pols;POL;S11;;Rok;Rokietnica;pol.s011rok;
+pols;POL;S11;;;Poznań;pol.s011;S11Rok
 pols;POL;S11;;Ost;Ostrów Wielkopolski;pol.s011ost;
 pols;POL;S12;;;;pol.s012;
 pols;POL;S14;;;;pol.s014;
@@ -52,3 +51,4 @@ pols;POL;S69;;Mil;Milówka;pol.s069mil;
 pols;POL;S74;;;;pol.s074;
 pols;POL;S79;;;;pol.s079;
 pols;POL;S86;;;;pol.s086;
+pols;POL;S91;;;;pol.s091;
