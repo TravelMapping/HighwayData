@@ -1,9 +1,16 @@
 System;Route;Banner;Name;Roots
+usanp;ArcSceDr;;Arches NP Scenic Drive;ut.arcscedr
 usanp;BalWasPkwy;;Baltimore-Washington Parkway;md.balwaspkwy
+usanp;BeaDr;;Beach Drive;dc.beadr,md.beadr
 usanp;BlueRidPkwy;;Blue Ridge Parkway;nc.blueridpkwy,va.blueridpkwy
+usanp;BryCynSceDr;;Bryce Canyon Scenic Drive;ut.brycynscedr
 usanp;ClaBarPkwy;;Clara Barton Parkway;md.clabarpkwy,dc.clabarpkwy
 usanp;ColPkwy;;Colonial Parkway;va.colpkwy
+usanp;CraCrkRd;;Crater Creek Road;or.cracrkrd
+usanp;CraLakeHwy;;Crater Lake Highway;or.cralakehwy
+usanp;CraLakeRimDr;;Crater Lake Rim Drive;or.cralakerimdr
 usanp;EEntR;;East Entrance Road, Yellowstone;wy.eentrd
+usanp;FallRivRd;;Fall River Road, Rocky Mtns NP;co.fallrivrd
 usanp;FooPkwyW;;Foothills Parkway (West);tn.foopkwyw
 usanp;FooPkwyE;;Foothills Parkway (East);tn.foopkwye
 usanp;GWMemPkwy;;George Washington Mem Pkwy (Mount Vernon);va.gwmempkwymtv
@@ -23,22 +30,56 @@ usanp;US66;His;Historic US66 (Flagstaff, AZ);az.us066hisfla
 usanp;US66;His;Historic US66 (Winslow, AZ);az.us066hiswin
 usanp;US66;His;Historic US66 (Joseph City, AZ);az.us066hisjos
 usanp;US66;His;Historic US66 (Holbrook, AZ);az.us066hishol
-usanp;US66;His;Historic US66 (Springfield, MO);ks.us066hisgal,mo.us066hisspr
+usanp;US66;His;Historic US66 (Gallup, NM);az.us066hislup,nm.us066hisgal
+usanp;US66;His;Historic US66 (Grants, NM);nm.us066hisgra
+usanp;US66;His;Historic US66 (Alberquerque, NM);nm.us066hisalb
+usanp;US66;His;Historic US66 (PRE-1937) (Santa Fe, NM);nm.us066hissfe
+usanp;US66;His;Historic US66 (Santa Rosa, NM);nm.us066hissan
+usanp;US66;His;Historic US66 (Tucumcari, NM);nm.us066histuc,tx.us066hisgle
+usanp;US66;His;Historic US66 (Adrian, TX);tx.us066hisadr
+usanp;US66;His;Historic US66 (Vega, TX);tx.us066hisveg
+usanp;US66;His;Historic US66 (Conway, TX);tx.us066hiscon
+usanp;US66;His;Historic US66 (Groom, TX);tx.us066hisgro
+usanp;US66;His;Historic US66 (Alanreed, TX);tx.us066hisala
+usanp;US66;His;Historic US66 (McLean, TX);tx.us066hismcl
+usanp;US66;His;Historic US66 (Shamrock, TX);tx.us066hissha
+usanp;US66;His;Historic US66 (St Louis, MO);ks.us066hisgal,mo.us066hisstl,il.us066hischi
+usanp;US66;His;Historic US66 (1940-1975) ((East) Joplin);mo.us066hisejo
+usanp;US66;His;Historic US66 (1930-1955) ((North) Springfield);mo.us066hisnjo
+usanp;US66;His;Historic US66 (1954-1975) (Carthage);mo.us066hiscar
+usanp;US66;His;Historic US66 (1936-1970) ((North) Springfield);mo.us066hisnsp
+usanp;US66;His;Historic US66 (1926-1928) ((East) Springfield);mo.us066hisesp
+usanp;US66;His;Historic US66 (Laquey);mo.us066hislaq
+usanp;US66;His;Historic US66 (1926-1933) (Manchester);mo.us066hisman
+usanp;US66;His;Historic US66 (1936-1965) (Florissant);mo.us066hisflo
+usanp;US66;His;Historic US66 (1940-1977) (Livingstone, IL);il.us066hisliv
+usanp;US66;His;Historic US66 (1926-1930) (Carlingville, IL);il.us066hiscar
+usanp;US66;His;Historic US66 (1930-1940) (Mount Olive, IL);il.us066hismou
+usanp;US66;His;Historic US66 (1930-1940) (Lichfield, IL);il.us066hislic
+usanp;US66;HisSpr;Historic US66 Spur (Willamsville, IL);il.us066hissprwil
+usanp;US66;His;Historic US66 (1930-1940) (Lincoln, IL);il.us066hislin
 usanp;US80;His;Historic US80 (San Diego, CA);ca.us080hissan
 usanp;US80;His;Historic US80 (El Cajon, CA);ca.us080hiscaj
 usanp;US80;His;Historic US80 (Jacumba, CA);ca.us080hisjac
 usanp;US80;His;Historic US80 (El Centro, CA);ca.us080hiscen
 usanp;US80;His;Historic US80 (Felicity, CA);ca.us080hisfel
 usanp;US80;His;Historic US80 (Winterhaven, CA);ca.us080hiswin
+usanp;IslSkySceDr;;Island In The Sky Scenic Drive;ut.islskyscedr
 usanp;RocMemPkwy;;John D. Rockefeller, Jr. Memorial Parkway;wy.rocmempkwy
+usanp;KolCynRd;;Kolob Canyons Road;ut.kolcynrd
+usanp;KolTerRd;;Kolob Terrace Road;ut.kolterrd
 usanp;NatTraPkwy;;Natchez Trace Parkway;ms.nattrapkwy,al.nattrapkwy,tn.nattrapkwy
+usanp;NeeSceDr;;The Needles Scenic Drive;ut.neescedr
 usanp;NCynRd;;Norris Canyon Road, Yellowstone;wy.norcynrd
 usanp;NEntR;;North Entrance Road, Yellowstone;wy.nentrd,mt.nentrd
 usanp;NEEntR;;Northeast Entrance Road, Yellowstone;wy.neentrd,mt.neentrd
-usanp;FallRivRd;;Fall River Road, Rocky Mtns NP;co.fallrivrd
+usanp;PetForRd;;Petrified Forest Road;az.petforrd
+usanp;PinRd;;Pinnacles Road, Crater Lake NP;or.pinrd
 usanp;RockCrkPkwy;;Rock Creek and Potomac Parkway;dc.rockcrkpkwy
 usanp;SkyDr;;Skyline Drive;va.skydr
 usanp;SEntR;;South Entrance Road, Yellowstone;wy.sentrd
+usanp;SpoRunPkwy;;Spout Run Parkway;va.sporunpkwy
+usanp;SteCynRd;;Stevens Canyon Road, Mount Rainer NP;wa.stecynrd
 usanp;SuiPkwy;;Suitland Parkway;dc.suipkwy,md.suipkwy
-usanp;TraRidRd;;Trail Ridge Road, Rocky Mountains NP;co.traridrd
 usanp;WEntR;;West Entrance Road, Yellowstone;mt.wentrd,wy.wentrd
+usanp;ZionCynDr;;Zion Canyon Scenic Drive;ut.zioncyndr
