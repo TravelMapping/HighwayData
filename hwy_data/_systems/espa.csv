@@ -1,4 +1,4 @@
-system;region;route;banner;abbrev;city;fileroot;AltRouteNames
+﻿system;region;route;banner;abbrev;city;fileroot;AltRouteNames
 espa;ESP;A1;;;Burgos;esp.a001;
 espa;ESP;A1;;Vit;Vitoria-Gasteiz;esp.a001vit;A1LPu,A1Alt
 espa;ESP;AP1;;;Burgos;esp.ap001;
@@ -7,7 +7,7 @@ espa;ESP;A2;;;Zaragoza;esp.a002;
 espa;ESP;A2;;Lle;Lleida;esp.a002lle;
 espa;ESP;A2;;Gir;Girona;esp.a002gir;
 espa;ESP;R2;;;;esp.r002;
-espa;ESP;AP2;;;Lleida;esp.ap002;AP2Mol
+espa;ESP;AP2;;;;esp.ap002;AP2Mol
 espa;ESP;A3;;;;esp.a003;
 espa;ESP;R3;;;;esp.r003;
 espa;ESP;A4;;;Sevilla;esp.a004;
@@ -19,8 +19,7 @@ espa;ESP;R5;;;;esp.r005;
 espa;ESP;A6;;Mad;Madrid;esp.a006mad;
 espa;ESP;AP6;;;;esp.ap006;
 espa;ESP;A6;;;Lugo;esp.a006;
-espa;ESP;A7;;Mal;Málaga;esp.a007mal;A7Mot
-espa;ESP;A7;;;Murcia;esp.a007;A7Cas
+espa;ESP;A7;;;Almeria;esp.a007;A7Cas,A7Mal,A7Mot
 espa;ESP;A7;;Alc;Alcoy;esp.a007alc;
 espa;ESP;A7;;Val;Valencia;esp.a007val;
 espa;ESP;A7;;Tar;Tarragona;esp.a007tar;
@@ -28,8 +27,7 @@ espa;ESP;AP7;;Mar;Marbella;esp.ap007mar;
 espa;ESP;AP7;;Car;Cartagena;esp.ap007car;
 espa;ESP;AP7;;Ali;Alicante;esp.ap007ali;
 espa;ESP;AP7;;;Barcelona;esp.ap007;
-espa;ESP;A8;;;Bilbao;esp.a008;
-espa;ESP;A8;;Gij;Gijón;esp.a008gij;A8Cab,A8Lua,A8Rib,A8Vil
+espa;ESP;A8;;;;esp.a008;A8Gij,A8Cab,A8Lua,A8Rib,A8Vil
 espa;ESP;AP8;;;;esp.ap008;
 espa;ESP;AP9;;;Santiago;esp.ap009;
 espa;ESP;AP9;;Fer;Ferrol;esp.ap009fer;
@@ -57,8 +55,7 @@ espa;ESP;A26;;;;esp.a026;
 espa;ESP;A27;;;;esp.a027;
 espa;ESP;A30;;;;esp.a030;
 espa;ESP;A31;;;;esp.a031;
-espa;ESP;A32;;;Linares;esp.a032;
-espa;ESP;A32;;LYe;La Yedra;esp.a032lye;
+espa;ESP;A32;;;Linares;esp.a032;A32LYe
 espa;ESP;A32;;Alb;Albacate;esp.a032alb;
 espa;ESP;A33;;;;esp.a033;
 espa;ESP;A35;;;;esp.a035;
@@ -200,6 +197,7 @@ espa;ESP;LE30;;;;esp.le030;
 espa;ESP;LL11;;;;esp.ll011;
 espa;ESP;LL12;;;;esp.ll012;
 espa;ESP;LO20;;;;esp.lo020;
+espa;ESP;LU12;;;;esp.lu012;
 espa;ESP;M11;;;;esp.m011;
 espa;ESP;M12;;;;esp.m012;
 espa;ESP;M13;;;;esp.m013;

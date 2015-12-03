@@ -14,8 +14,8 @@ D58 http://www.openstreetmap.org/?lat=48.575372&lon=-3.854206
 D786_W http://www.openstreetmap.org/?lat=48.593158&lon=-3.820066
 Lan http://www.openstreetmap.org/?lat=48.588290&lon=-3.793459
 D64 http://www.openstreetmap.org/?lat=48.575074&lon=-3.718271
-+X03 http://www.openstreetmap.org/?lat=48.571468&lon=-3.677630
-+X04 http://www.openstreetmap.org/?lat=48.578140&lon=-3.646431
++X02 http://www.openstreetmap.org/?lat=48.571468&lon=-3.677630
++X03 http://www.openstreetmap.org/?lat=48.578140&lon=-3.646431
 D42 http://www.openstreetmap.org/?lat=48.569537&lon=-3.606005
 D712_W http://www.openstreetmap.org/?lat=48.565064&lon=-3.543885
 D11 http://www.openstreetmap.org/?lat=48.561215&lon=-3.499961
@@ -44,7 +44,7 @@ BlvdHarNoe http://www.openstreetmap.org/?lat=48.520904&lon=-2.748020
 E401 http://www.openstreetmap.org/?lat=48.511970&lon=-2.741926
 D700 http://www.openstreetmap.org/?lat=48.505389&lon=-2.733536
 RueJulVer http://www.openstreetmap.org/?lat=48.496652&lon=-2.724159
-+X05 http://www.openstreetmap.org/?lat=48.487174&lon=-2.718172
++X04 http://www.openstreetmap.org/?lat=48.487174&lon=-2.718172
 D10 http://www.openstreetmap.org/?lat=48.482608&lon=-2.689676
 RueArm http://www.openstreetmap.org/?lat=48.479799&lon=-2.672735
 D786_S http://www.openstreetmap.org/?lat=48.481058&lon=-2.645774
@@ -60,7 +60,7 @@ D44 http://www.openstreetmap.org/?lat=48.392025&lon=-2.396650
 D792 http://www.openstreetmap.org/?lat=48.376008&lon=-2.360430
 D16 http://www.openstreetmap.org/?lat=48.367541&lon=-2.330303
 D793 http://www.openstreetmap.org/?lat=48.320961&lon=-2.252412
-+X06 http://www.openstreetmap.org/?lat=48.298269&lon=-2.230225
++X05 http://www.openstreetmap.org/?lat=48.298269&lon=-2.230225
 D46 http://www.openstreetmap.org/?lat=48.274211&lon=-2.182288
 D766 http://www.openstreetmap.org/?lat=48.270140&lon=-2.154608
 D220 http://www.openstreetmap.org/?lat=48.251598&lon=-2.137098
@@ -69,7 +69,7 @@ D28 http://www.openstreetmap.org/?lat=48.222043&lon=-2.111435
 N164 http://www.openstreetmap.org/?lat=48.209131&lon=-2.073991
 D61 http://www.openstreetmap.org/?lat=48.207372&lon=-2.045946
 RueRen http://www.openstreetmap.org/?lat=48.196217&lon=-2.026269
-+X08 http://www.openstreetmap.org/?lat=48.186118&lon=-2.001743
++X06 http://www.openstreetmap.org/?lat=48.186118&lon=-2.001743
 RueDin http://www.openstreetmap.org/?lat=48.184730&lon=-1.944237
 D72 http://www.openstreetmap.org/?lat=48.176990&lon=-1.923466
 D21 http://www.openstreetmap.org/?lat=48.159616&lon=-1.834717
@@ -88,15 +88,14 @@ D92 http://www.openstreetmap.org/?lat=48.107890&lon=-1.521392
 D486 http://www.openstreetmap.org/?lat=48.103391&lon=-1.484485
 D101 http://www.openstreetmap.org/?lat=48.103734&lon=-1.465001
 D857 http://www.openstreetmap.org/?lat=48.100009&lon=-1.419210
-+X09 http://www.openstreetmap.org/?lat=48.078308&lon=-1.321707
++X07 http://www.openstreetmap.org/?lat=48.078308&lon=-1.321707
 D777 http://www.openstreetmap.org/?lat=48.075197&lon=-1.268899
 D178 http://www.openstreetmap.org/?lat=48.071713&lon=-1.199183
-+X10 http://www.openstreetmap.org/?lat=48.072717&lon=-1.156783
++X08 http://www.openstreetmap.org/?lat=48.072717&lon=-1.156783
 D29 http://www.openstreetmap.org/?lat=48.088629&lon=-1.106572
 5(A81) http://www.openstreetmap.org/?lat=48.083010&lon=-1.039152
-+X10 http://www.openstreetmap.org/?lat=48.074638&lon=-0.941133
-+A81(X09) http://www.openstreetmap.org/?lat=48.074896&lon=-0.932250
-+X09 http://www.openstreetmap.org/?lat=48.079713&lon=-0.901523
++A81(X10) http://www.openstreetmap.org/?lat=48.074638&lon=-0.941133
++A81(X09) http://www.openstreetmap.org/?lat=48.079713&lon=-0.901523
 4(A81) http://www.openstreetmap.org/?lat=48.107403&lon=-0.833373
 +A81(X08) http://www.openstreetmap.org/?lat=48.116085&lon=-0.787368
 3(A81) http://www.openstreetmap.org/?lat=48.104938&lon=-0.736814
@@ -163,7 +162,7 @@ A86_N http://www.openstreetmap.org/?lat=48.830035&lon=2.486472
 8(A4) http://www.openstreetmap.org/?lat=48.836617&lon=2.545266
 9(A4) http://www.openstreetmap.org/?lat=48.835769&lon=2.562904
 10(A4) http://www.openstreetmap.org/?lat=48.834696&lon=2.583160
-N104 http://www.openstreetmap.org/?lat=48.829893&lon=2.619123
+N104_E +N104 http://www.openstreetmap.org/?lat=48.829893&lon=2.619123
 10.1(A4) http://www.openstreetmap.org/?lat=48.831362&lon=2.642856
 A104_N +A104 http://www.openstreetmap.org/?lat=48.832295&lon=2.666202
 12(A4) http://www.openstreetmap.org/?lat=48.829922&lon=2.706242
