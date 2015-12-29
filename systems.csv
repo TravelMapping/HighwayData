@@ -1,4 +1,4 @@
-System;CountryCode;Name;Color;Tier;InDev
+System;CountryCode;Name;Color;Tier;Level
 alba;ALB;Albania Motorways;blue;1;active
 auta;AUT;Austria Motorways;blue;1;active
 auts;AUT;Austria Expressways;teal;2;active
@@ -86,6 +86,7 @@ usanj;USA;New Jersey State Highways;brown;4;active
 usany;USA;New York State Highways;brown;4;active
 usanc;USA;North Carolina State Highways;brown;4;active
 usand;USA;North Dakota State Highways;brown;4;active
+usanm;USA;New Mexico State Highways;brown;4;active
 usaoh;USA;Ohio State Highways;brown;4;active
 usaok;USA;Oklahoma State Highways;brown;4;active
 usaor;USA;Oregon State Highways;brown;4;active
@@ -97,23 +98,29 @@ usawa;USA;Washington State Highways;brown;4;active
 usawv;USA;West Virginia State Highways;brown;4;active
 usawi;USA;Wisconsin State Highways;brown;4;active
 asiah;ASI;Asian Highways;red;3;devel
-belb;BEL;Belgian B Roads;teal;2;devel
-belr;BEL;Belgian R Roads;brown;4;devel
-canab;CAN;Alberta Primary Provincial Highways;brown;4;devel
+belb;BEL;Belgian B Roads;teal;2;preview
+belr;BEL;Belgian R Roads;brown;4;preview
+canab;CAN;Alberta Primary Provincial Highways;brown;4;preview
 #cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cansph;CAN;Canada Select Provincial Highways;brown;4;devel
-dnkpr;DNK;Denmark Primary Roads;brown;4;devel
-finvt;FIN;Finland Valtatiet (Main Roads);brown;4;devel
-finkt;FIN;Finland Kantatiet (Stem Roads);yellow;5;devel
-fran;FRA;France N Roads;brown;4;devel
-gbna1;GBR;Great Britain A Roads (Zone 1);brown;4;preview
-gbna6;GBR;Great Britain A Roads (Zone 6);brown;4;preview
-gbna8;GBR;Great Britain A Roads (Zone 8);brown;4;preview
-gbna9;GBR;Great Britain A Roads (Zone 9);brown;4;preview
-ltua;LTU;Lithuania A Roads;brown;4;devel
-lvaa;LVA;Latvia A Roads;brown;4;devel
-srba;SRB;Serbia A Roads;blue;1;devel
-usaak;USA;Alaska State Highways;brown;4;devel
+dnkpr;DNK;Denmark Primary Roads;brown;4;preview
+finvt;FIN;Finland Valtatiet (Main Roads);brown;4;preview
+finkt;FIN;Finland Kantatiet (Stem Roads);yellow;5;preview
+fran;FRA;France N Roads;brown;4;preview
+frht;FRA;Corsica T Roads;brown;4;preview
+glpn;FRA;Guadaloupe N Roads;brown;4;preview
+gufn;FRA;French Guiana N Roads;brown;4;preview
+ltua;LTU;Lithuania A Roads;brown;4;preview
+lvaa;LVA;Latvia A Roads;brown;4;preview
+mtqn;FRA;Martinique N Roads;brown;4;preview
+mytn;FRA;Mayotte N Roads;brown;4;preview
+ncle;FRA;Corsica Expressways;brown;4;preview
+nclt;FRA;New Caledonia Territorial Roads;teal;2;preview
+pyft;FRA;French Polynesia T Roads;brown;4;preview
+reun;FRA;Reunion N Roads;brown;4;preview
+srba;SRB;Serbia A Roads;blue;1;preview
+spmn;FRA;Sainte Pierre et Miquelon T Roads;brown;4;preview
+usaak;USA;Alaska State Highways;brown;4;preview
 usaca;USA;California State Highways;brown;4;devel
 usaco;USA;Colorado State Highways;brown;4;preview
 #usafl;USA;Florida State Highways;brown;4;devel
@@ -122,14 +129,15 @@ usaky3;USA;Kentucky State Highways 1000-1499;brown;4;devel
 #usaky4;USA;Kentucky State Highways 1500-1999;brown;4;devel
 #usala1;USA;Louisiana State Highways 1-499;brown;4;devel
 usamt;USA;Montana Primary State Highways;brown;4;preview
-usanes;USA;Nebraska State Links and Spurs;brown;4;devel
-usanm;USA;New Mexico State Highways;brown;4;preview
+usanes;USA;Nebraska State Links and Spurs;brown;4;preview
 usanp;USA;United States Select Scenic and National Park Highways;brown;4;devel
-#usasc;USA;South Carolina State Highways;brown;4;devel
+usasc;USA;South Carolina State Highways;brown;4;devel
 usaush;USA;United States Historic Highways;brown;4;devel
-usatx;USA;Texas State Highways;brown;4;devel
-usatxl;USA;Texas State Highway Loops;brown;4;devel
-usatxs;USA;Texas State Highway Spurs;brown;4;devel
+usatx;USA;Texas State Highways;brown;4;preview
+usatxl;USA;Texas State Highway Loops;brown;4;preview
+usatxs;USA;Texas State Highway Spurs;brown;4;preview
 usava;USA;Virginia State Highways;brown;4;preview
 usawy;USA;Wyoming State Highways;brown;4;preview
+usavi;USA;US Virgin Islands Territorial Highways;brown;4;preview
 usavt;USA;Vermont State Highways;brown;4;preview
+wlft;FRA;Wallis et Futuna T Roads;brown;4;preview
