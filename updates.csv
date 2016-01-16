@@ -1,4 +1,25 @@
 YYYY-MM-DD;Country;Route;Root;Description
+2016-01-12;(USA) Ohio;I-275;oh.i275;New waypoint 31 for Ronald Reagan Hwy, relabeled waypoint 31 to 31A
+2016-01-12;(USA) Ohio;Ronald Reagan Hwy;oh.ronreahwy;New Route
+2016-01-12;Belgium;A13;bel.a013;Route extended at west end from exit 17 to R10
+2016-01-12;Belgium;A112;bel.a112;Route extended at north end from E34/R1 to N113/R10
+2016-01-12;Belgium;E420;bel.e420;Route reentered between exit 27 of the N54 and the N576
+2016-01-12;Belgium;E420 (Charleroi);bel.e420bel;New Route
+2016-01-12;Belgium;Péripherique du Charleroi;bel.percha;New Route
+2016-01-12;Belgium;Ring Antwerpen Oost;bel.ringante;New Route
+2016-01-12;Belgium;Ring Antwerpen West;bel.ringantw;New Route
+2016-01-12;Belgium;Ring Bruxelles / Ring Brussels;bel.ringbru;New Route
+2016-01-12;Belgium;Ring Charleroi;bel.ringcha;New Route
+2016-01-12;Belgium;Ring Gent Oost;bel.ringgento;New Route
+2016-01-12;Belgium;Ring Kortrijk;bel.ringkor;New Route
+2016-01-12;Belgium;Ring Mons Est;bel.ringmonse;New Route
+2016-01-12;Belgium;Ring Mons Ouest;bel.ringmonso;New Route
+2016-01-08;(USA) Tennessee;US 127;tn.us127;Extended at north end from the former state line with Kentucky (OldTN/KY) westward along a new alignment paralleling the Kentucky state line for about 0.2 miles to the Kentucky new border crossing.
+2016-01-08;(USA) South Carolina;US 15 Connector (Sumter);;Route deleted
+2016-01-07;(USA) Ohio;OH 61;oh.oh061;Removed from Seltzer Street and relocated onto Thoman Street and Main Street between a closed intersection with Seltzer Street and OH 181.
+2016-01-07;(USA) Ohio;OH 83;oh.oh083;Removed from Center Road and Main Street and Avon, and relocated onto Chester Road and Avon Belden Road.
+2016-01-07;(USA) Ohio;OH 707;oh.oh707;Removed from Mercer Road between US 33 and US 127, and relocated onto US 33 & US 127.
+2016-01-07;(USA) Kentucky;KY 873 (Hector);ky.ky0873hec;Route added
 2016-01-06;(USA) Kentucky;US 60;ky.us060;Removed from the old demolished Ledbetter Bridge and KY 6074, and relocated onto the new Ledbetter Bridge about 1/2 mile southeast, between US 62 in Reidland and KY 6074.
 2016-01-06;(USA) Kentucky;KY 16;ky.ky0016;Removed from KY 3716 and relocated onto Pride Pkwy between the southern and northern KY 3716 intersections.
 2016-01-05;(USA) California;US50;ca.us050;Many waypoints renamed for new exit numbers (labels in use kept)
@@ -18,7 +39,7 @@ YYYY-MM-DD;Country;Route;Root;Description
 2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
 2016-01-02;(USA) New York;I-287;ny.i287;Moved Exit 7 from Bloomingdale Rd (now labeled 8W) to Central Westchester Parkway.
 2016-01-02;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from partially-closed local roads through Port Joli and East Port L'Hebert, and relocated onto a limited-access bypass to the north, between closed intersections labeled *OldNS103_PJo and *OldNS103_EPL
-2016-01-02;(USA) Kentucky;US 60;ky.us060;Removed from Lagoon Lane, KY 603 and KY144 and relocated onto a four-lane divided bypass to the southeast, between KY 54 and a point (labeled *OldUS60) slightly north of the KY 2830 overpass.
+2016-01-02;(USA) Kentucky;US 60;ky.us060;Removed from Lagoon Lane, KY 603 and KY144 and relocated onto a four-lane divided bypass to the southeast, between KY 54 and a point (labeled *OldUS60_Owe) slightly north of the KY 2830 overpass.
 2016-01-02;(USA) Kentucky;US 231;ky.us231;Removed from Lagoon Lane, KY 603 and KY144 and relocated onto a four-lane divided bypass to the southeast, between KY 54 and a point (labeled *OldUS231) slightly north of the KY 2830 overpass.
 2016-01-02;(USA) Kentucky;KY 144;ky.ky0144;Extended at west end from KY 2830 to KY 603.
 2016-01-02;(USA) Kentucky;KY 603;ky.ky0603;Extended at south end from Pleasant Valley Road to US 60/231. Extended at north end from Lagoon Lane to KY 144.
@@ -77,7 +98,6 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-12-17;Slovakia;D1 (Prešov);;Route deleted (merged into Poprad section)
 2015-12-17;Slovakia;E50;svk.e50;Route removed from I/18 and relocated onto D1 between D1 exits 382 and 393
 2015-12-16;(USA) Connecticut;I-395;ct.i395;Relabeled exits from sequential to mileage-based, all numbers changed
-2015-12-13;(USA) New Mexico;New Mexico State Highways;;Activated system usanm
 2015-12-11;Poland;S7 ((North) Warszawa);pol.s007nwa;New Route
 2015-12-11;Poland;S8 (Warszawa);pol.s008war;Route extended at east end from junction with DK7 south to junction with DW629 north
 2015-12-11;Poland;S8 (Zabki);;Route deleted (merged into Warszawa section)
@@ -150,7 +170,6 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-11-13;(USA) Massachusetts;MA 129A (Lynn);ma.ma129alyn;Removed from Eastern Ave and relocated onto Waitt Ave between MA 107 and Victory Road
 2015-11-13;(USA) Massachusetts;MA 138;ma.ma138;Removed from the Brightman Street Bridge and MA 103, and relocated onto the Veterans Memorial Bridge between MA 79 and MA 103
 2015-11-12;(Canada) Quebec;A-20;qc.a020;Route extended east to new exit 543 (Route Drapeau) in Notre-Dame-des-Nieges
-2015-11-12;(USA) Utah;Utah State Highways;;Activated system usaut
 2015-11-11;(Canada) Quebec;A-73 (St-Georges);qc.a073stg;Extended north about 5 km to Notre-Dame-des-Pins
 2015-11-08;(USA) Nebraska;NE 92;ne.ne092;Removed from a beeline connection between CR 20 and US 26, and relocated onto a grade separated overpass of the BNSF Railway and US 26
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
