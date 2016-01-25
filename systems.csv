@@ -1,4 +1,4 @@
-System;CountryCode;Name;Color;Tier;Level
+﻿System;CountryCode;Name;Color;Tier;Level
 alba;ALB;Albania Motorways;blue;1;active
 auta;AUT;Austria Motorways;blue;1;active
 auts;AUT;Austria Expressways;teal;2;active
@@ -101,12 +101,12 @@ usawv;USA;West Virginia State Highways;brown;4;active
 usawi;USA;Wisconsin State Highways;brown;4;active
 alakt;FIN;Åland Kantatiet (Stem Roads);yellow;5;preview
 alavt;FIN;Åland Valtatiet (Main Roads);brown;4;preview
-andcg;AND;Andorra CG Roads;brown;4;devel
+andcg;AND;Andorra CG Roads;brown;4;preview
 asiah;ASI;Asian Highways;red;3;devel
 belb;BEL;Belgian B Roads;teal;2;preview
 belr;BEL;Belgian R Roads;brown;4;preview
-blrm;BLR;Belarus M Roads;brown;4;devel
-canab;CAN;Alberta Provincial Highways 1-216;brown;4;preview
+blrm;BLR;Belarus M Roads;brown;4;preview
+canab;CAN;Alberta Primary Provincial Highways;brown;4;preview
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cansph;CAN;Canada Select Provincial Highways;brown;4;devel
 dnkpr;DNK;Denmark Primary Roads;brown;4;preview
@@ -117,8 +117,9 @@ frht;FRA;Corsica T Roads;brown;4;preview
 glpn;FRA;Guadaloupe N Roads;brown;4;preview
 gufn;FRA;French Guiana N Roads;brown;4;preview
 hkgrt;CHN;Hong Kong Routes;teal;2;preview
-korex;KOR;(South) Korean Expressways;blue;1;devel
-lkae;LKA;Sri Lanka Expressways;blue;1;devel
+irnf;IRN;Iran Freeways;blue;1;devel
+korex;KOR;(South) Korean Expressways;blue;1;preview
+lkae;LKA;Sri Lanka Expressways;blue;1;preview
 ltua;LTU;Lithuania A Roads;brown;4;preview
 lvaa;LVA;Latvia A Roads;brown;4;preview
 mara;MAR;Morocco A Roads;blue;1;preview
@@ -138,7 +139,7 @@ nldn0;NLD;Netherlands N Roads (1-99);brown;4;preview
 #nldn8;NLD;Netherlands N Roads (800-899);brown;4;devel
 #nldn9;NLD;Netherlands N Roads (900-999);brown;4;devel
 nzlmot;NZL;New Zealand Motorways;blue;1;devel
-pakm;PAK;Pakistan Motorways;blue;1;devel
+pakm;PAK;Pakistan Motorways;blue;1;preview
 pyft;FRA;French Polynesia T Roads;brown;4;preview
 reun;FRA;Reunion N Roads;brown;4;preview
 roudn;ROU;Romania DN Roads;brown;4;devel
@@ -146,7 +147,7 @@ sgpex;SGP;Singapore Expressways;blue;1;preview
 srba;SRB;Serbia A Roads;blue;1;preview
 spmn;FRA;Sainte Pierre and Miquelon T Roads;brown;4;preview
 tuna;TUN;Tunisia Motorways;blue;1;preview
-twnf;CHN;Taiwan Freeways;blue;1;devel
+twnf;CHN;Taiwan Freeways;blue;1;preview
 ukrm;UKR;Ukraine M Roads;brown;4;devel
 usaak;USA;Alaska State Highways;brown;4;preview
 usaca;USA;California State Highways;brown;4;devel
