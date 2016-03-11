@@ -1,8 +1,9 @@
-System;CountryCode;Name;Color;Tier;Level
+﻿System;CountryCode;Name;Color;Tier;Level
 alba;ALB;Albania Motorways;blue;1;active
 auta;AUT;Austria Motorways;blue;1;active
 auts;AUT;Austria Expressways;teal;2;active
 bela;BEL;Belgium Motorways;blue;1;active
+belb;BEL;Belgian B Roads;teal;2;active
 biha;BIH;Bosnia and Herzegovina Motorways;blue;1;active
 bgra;BGR;Bulgaria Motorways;blue;1;active
 cannsf;CAN;Nova Scotia Provincial Freeways;blue;1;active
@@ -18,17 +19,16 @@ canpe;CAN;Prince Edward Island Provincial Highways;brown;4;active
 canyt;CAN;Yukon Territorial Highways;brown;4;active
 chea;CHE;Switzerland Motorways;blue;1;active
 cypa;CYP;Cyprus Motorways;blue;1;active
-czed;CZE;Czech Republic Motorways;blue;1;active
-czer;CZE;Czech Republic Expressways;teal;2;active
+czed;CZE;Czechia Motorways;blue;1;active
 deua;DEU;Germany Motorways;blue;1;active
-eure;EUR;International E-roads;red;3;active
+eure;EUR;International E-roads;green;3;active
 eursf;EUR;Europe Select Named Motorways;teal;2;active
 espa;ESP;Spain Motorways;blue;1;active
 fraa;FRA;France Motorways;blue;1;active
 mtqa;FRA;Martinique Motorways;blue;1;active
 gbnm;GBR;Great Britain Motorways;blue;1;active
 gbnam;GBR;Great Britain A Motorways;blue;1;active
-gbna;GBR;Great Britain A Roads (Zones 2-5 7);brown;4;active
+gbna;GBR;Great Britain A Roads;brown;4;active
 nirm;GBR;Northern Ireland Motorways;blue;1;active
 niram;GBR;Northern Ireland A Motorways;blue;1;active
 nira;GBR;Northern Ireland A Roads;brown;4;active
@@ -51,6 +51,7 @@ pols;POL;Poland Expressways;teal;2;active
 prta;PRT;Portugal Motorways;blue;1;active
 rksr;RKS;Kosovo Motorways;blue;1;active
 roua;ROU;Romania Motorways;blue;1;active
+srba;SRB;Serbia A Roads;blue;1;active
 svkd;SVK;Slovakia Motorways;blue;1;active
 svkr;SVK;Slovakia Expressways;teal;2;active
 svna;SVN;Slovenia Motorways;blue;1;active
@@ -73,19 +74,23 @@ usaid;USA;Idaho State Highways;brown;4;active
 usail;USA;Illinois State Highways;brown;4;active
 usaks;USA;Kansas State Highways;brown;4;active
 usaky;USA;Kentucky State Highways 1-999;brown;4;active
+usakyp;USA;Kentucky Parkways;teal;2;active
 usame;USA;Maine State Highways;brown;4;active
 usamd;USA;Maryland State Highways;brown;4;active
 usama;USA;Massachusetts State Highways;brown;4;active
 usami;USA;Michigan State Highways;brown;4;active
 usamn;USA;Minnesota State Highways;brown;4;active
 usamo;USA;Missouri State Highways;brown;4;active
+usamt;USA;Montana Primary State Highways;brown;4;active
 usane;USA;Nebraska State Highways;brown;4;active
+usanes;USA;Nebraska State Links and Spurs;brown;4;active
 usanv;USA;Nevada State Highways;brown;4;active
 usanh;USA;New Hampshire State Highways;brown;4;active
 usanj;USA;New Jersey State Highways;brown;4;active
 usany;USA;New York State Highways;brown;4;active
 usanc;USA;North Carolina State Highways;brown;4;active
 usand;USA;North Dakota State Highways;brown;4;active
+usanm;USA;New Mexico State Highways;brown;4;active
 usaoh;USA;Ohio State Highways;brown;4;active
 usaok;USA;Oklahoma State Highways;brown;4;active
 usaor;USA;Oregon State Highways;brown;4;active
@@ -93,43 +98,101 @@ usapa;USA;Pennsylvania State Highways;brown;4;active
 usari;USA;Rhode Island State Highways;brown;4;active
 usasd;USA;South Dakota State Highways;brown;4;active
 usaut;USA;Utah State Highways;brown;4;active
+usavt;USA;Vermont State Highways;brown;4;active
 usawa;USA;Washington State Highways;brown;4;active
 usawv;USA;West Virginia State Highways;brown;4;active
 usawi;USA;Wisconsin State Highways;brown;4;active
-asiah;ASI;Asian Highways;red;3;devel
-belb;BEL;Belgian B Roads;teal;2;preview
+#Preview Systems
+alakt;FIN;Åland Kantatiet (Stem Roads);yellow;5;preview
+alavt;FIN;Åland Valtatiet (Main Roads);brown;4;preview
+andcg;AND;Andorra CG Roads;brown;4;preview
 belr;BEL;Belgian R Roads;brown;4;preview
-canab;CAN;Alberta Primary Provincial Highways;brown;4;preview
-#cannf;CAN;Canada Select Named Freeways;teal;3;devel
-cansph;CAN;Canada Select Provincial Highways;brown;4;devel
+blrm;BLR;Belarus M Roads;brown;4;preview
+canab;CAN;Alberta Provincial Highways 1-216;brown;4;preview
+canbc;CAN;British Colombia Provincial Highways;brown;4;preview
 dnkpr;DNK;Denmark Primary Roads;brown;4;preview
-finvt;FIN;Finland Valtatiet (Main Roads);brown;4;preview
 finkt;FIN;Finland Kantatiet (Stem Roads);yellow;5;preview
+finvt;FIN;Finland Valtatiet (Main Roads);brown;4;preview
 fran;FRA;France N Roads;brown;4;preview
-gbna1;GBR;Great Britain A Roads (Zone 1);brown;4;preview
-gbna6;GBR;Great Britain A Roads (Zone 6);brown;4;preview
-gbna8;GBR;Great Britain A Roads (Zone 8);brown;4;preview
-gbna9;GBR;Great Britain A Roads (Zone 9);brown;4;preview
+frht;FRA;Corsica T Roads;brown;4;preview
+glpn;FRA;Guadaloupe N Roads;brown;4;preview
+gufn;FRA;French Guiana N Roads;brown;4;preview
+hkgrt;CHN;Hong Kong Routes;teal;2;preview
+irnf;IRN;Iran Freeways;blue;1;preview
+jama;JAM;Jamaica A Roads;brown;4;preview
+korex;KOR;(South) Korean Expressways;blue;1;preview
+lkae;LKA;Sri Lanka Expressways;blue;1;preview
 ltua;LTU;Lithuania A Roads;brown;4;preview
 lvaa;LVA;Latvia A Roads;brown;4;preview
-srba;SRB;Serbia A Roads;blue;1;preview
+mara;MAR;Morocco A Roads;blue;1;preview
+mtqn;FRA;Martinique N Roads;brown;4;preview
+myse;MYS;Malaysia E Roads;blue;1;preview
+mytn;FRA;Mayotte N Roads;brown;4;preview
+ncle;FRA;New Caledonia Expressways;teal;2;preview
+nclt;FRA;New Caledonia Territorial Roads;brown;4;preview
+nldn0;NLD;Netherlands N Roads (1-99);brown;4;preview
+pakm;PAK;Pakistan Motorways;blue;1;preview
+pyft;FRA;French Polynesia T Roads;brown;4;preview
+reun;FRA;Reunion N Roads;brown;4;preview
+roudn;ROU;Romania DN Roads;brown;4;preview
+sgpex;SGP;Singapore Expressways;blue;1;preview
+spmn;FRA;Sainte Pierre and Miquelon T Roads;brown;4;preview
+tuna;TUN;Tunisia Motorways;blue;1;preview
+twnf;CHN;Taiwan Freeways;blue;1;preview
+ukrm;UKR;Ukraine M Roads;brown;4;preview
 usaak;USA;Alaska State Highways;brown;4;preview
+usaas;USA;American Samoa Territorial Highways;brown;4;devel
 usaca;USA;California State Highways;brown;4;devel
 usaco;USA;Colorado State Highways;brown;4;preview
-#usafl;USA;Florida State Highways;brown;4;devel
+usafl;USA;Florida State Highways;brown;4;devel
+usagu;USA;Guam Territorial Highways;brown;4;preview
 usain;USA;Indiana State Highways;brown;4;preview
-usaky3;USA;Kentucky State Highways 1000-1499;brown;4;devel
-#usaky4;USA;Kentucky State Highways 1500-1999;brown;4;devel
-#usala1;USA;Louisiana State Highways 1-499;brown;4;devel
-usamt;USA;Montana Primary State Highways;brown;4;preview
-usanes;USA;Nebraska State Links and Spurs;brown;4;preview
-usanm;USA;New Mexico State Highways;brown;4;preview
-usanp;USA;United States Select Scenic and National Park Highways;brown;4;devel
-#usasc;USA;South Carolina State Highways;brown;4;devel
-usaush;USA;United States Historic Highways;brown;4;devel
+usaky3;USA;Kentucky State Highways 1000-1499;brown;4;preview
+usamp;USA;Northern Mariana Islands Territorial Highways;brown;4;preview
+usamts;USA;Montana Secondary Highways;yellow;5;preview
+usasc;USA;South Carolina State Highways;brown;4;preview
 usatx;USA;Texas State Highways;brown;4;preview
 usatxl;USA;Texas State Highway Loops;brown;4;preview
 usatxs;USA;Texas State Highway Spurs;brown;4;preview
 usava;USA;Virginia State Highways;brown;4;preview
 usawy;USA;Wyoming State Highways;brown;4;preview
-usavt;USA;Vermont State Highways;brown;4;preview
+usavi;USA;US Virgin Islands Territorial Highways;brown;4;preview
+wlft;FRA;Wallis and Futuna T Roads;brown;4;preview
+#Devel Systems
+abwrt;NLD;Aruba Routes;brown;4;devel
+armm;ARM;Armenia M Roads;brown;4;devel
+asiah;ASI;Asian Highways;red;3;devel
+asim;ASI;Central Asian M Roads;brown;4;devel
+azem;ARM;Azerbaijan M Roads;brown;4;devel
+brbabc;BRB;Barbados ABC Highway;brown;4;devel
+cannf;CAN;Canada Select Named Freeways;teal;3;devel
+cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
+cansph;CAN;Canada Select Provincial Highways;brown;4;devel
+estt;EST;Estonia T Roads;brown;4;devel
+geos;GEO;Georgia S Roads;brown;4;devel
+#idnjt;IDN;Indonesia Toll Roads;blue;1;devel
+kaza;KAZ;Kazakhstan A Roads;brown;4;devel
+mdam;MDA;Moldova M Roads;brown;4;devel
+mkda;MKD;Macedonia A Roads;brown;4;devel
+mnem;MNE;Montenegro M Roads;brown;4;devel
+#nldn1;NLD;Netherlands N Roads (100-199);brown;4;devel
+#nldn2;NLD;Netherlands N Roads (200-299);brown;4;devel
+#nldn3;NLD;Netherlands N Roads (300-399);brown;4;devel
+#nldn4;NLD;Netherlands N Roads (400-499);brown;4;devel
+#nldn5;NLD;Netherlands N Roads (500-599);brown;4;devel
+#nldn6;NLD;Netherlands N Roads (600-699);brown;4;devel
+#nldn7;NLD;Netherlands N Roads (700-799);brown;4;devel
+#nldn8;NLD;Netherlands N Roads (800-899);brown;4;devel
+#nldn9;NLD;Netherlands N Roads (900-999);brown;4;devel
+nzlmot;NZL;New Zealand Motorways;blue;1;devel
+phle;PHL;Philippines Expressways;blue;1;devel
+poldk;POL;Poland DK Roads;brown;4;devel
+rksn;RKS;Kosovo N Roads;brown;4;devel
+rusm;RUS;Russia M Roads;brown;4;devel
+sctntr;GBR;Scotland National Tourist Routes;brown;4;devel
+usanp;USA;United States Select Scenic and National Park Highways;brown;4;devel
+#usapr;USA;Puerto Rico Territorial Highways;brown;4;devel
+#usatn;USA;Tenessee State Highways;brown;4;devel
+usaush;USA;United States Historic Highways;brown;4;devel
+usaky4;USA;Kentucky State Highways 1500-1999;brown;4;devel
+usala1;USA;Louisiana State Highways 1-499;brown;4;devel

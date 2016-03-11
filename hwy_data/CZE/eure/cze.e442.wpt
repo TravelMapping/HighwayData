@@ -44,9 +44,9 @@ Kla_W http://www.openstreetmap.org/?lat=50.611350&lon=13.830457
 Kla_E http://www.openstreetmap.org/?lat=50.619260&lon=13.832817
 I8/I13 http://www.openstreetmap.org/?lat=50.629619&lon=13.827152
 Pra_W http://www.openstreetmap.org/?lat=50.628313&lon=13.855562
-1(R63) +R63/I8 http://www.openstreetmap.org/?lat=50.624086&lon=13.870797
-3(R63) http://www.openstreetmap.org/?lat=50.615353&lon=13.918304
-D8/R63 http://www.openstreetmap.org/?lat=50.613058&lon=13.963580
+1(I63) +1(R63) +R63/I8 http://www.openstreetmap.org/?lat=50.624086&lon=13.870797
+3(I63) +3(R63) http://www.openstreetmap.org/?lat=50.615353&lon=13.918304
+D8/I63 +D8/R63 http://www.openstreetmap.org/?lat=50.613058&lon=13.963580
 65(D8) http://www.openstreetmap.org/?lat=50.615843&lon=13.969524
 +X100 http://www.openstreetmap.org/?lat=50.627523&lon=13.990059
 69(D8) http://www.openstreetmap.org/?lat=50.648005&lon=13.993020
@@ -86,14 +86,14 @@ Sta http://www.openstreetmap.org/?lat=50.790663&lon=15.008569
 Kos http://www.openstreetmap.org/?lat=50.758260&lon=15.050712
 I14 http://www.openstreetmap.org/?lat=50.751038&lon=15.053759
 CesMla http://www.openstreetmap.org/?lat=50.744874&lon=15.054166
-26(R35) http://www.openstreetmap.org/?lat=50.730242&lon=15.055025
-31(R35) http://www.openstreetmap.org/?lat=50.700627&lon=15.096062
-33(R35) http://www.openstreetmap.org/?lat=50.689331&lon=15.108336
-35(R35) http://www.openstreetmap.org/?lat=50.667097&lon=15.096352
+26(I35) +26(R35) http://www.openstreetmap.org/?lat=50.730242&lon=15.055025
+31(I35) +31(R35) http://www.openstreetmap.org/?lat=50.700627&lon=15.096062
+33(I35) +33(R35) http://www.openstreetmap.org/?lat=50.689331&lon=15.108336
+35(I35) +35(R35) http://www.openstreetmap.org/?lat=50.667097&lon=15.096352
 +X1 http://www.openstreetmap.org/?lat=50.643338&lon=15.098562
-39 http://www.openstreetmap.org/?lat=50.634863&lon=15.110589
-41(R35) http://www.openstreetmap.org/?lat=50.622119&lon=15.109076
-44(R35) +R10/R35 http://www.openstreetmap.org/?lat=50.596389&lon=15.118818
+39(I35) +39 http://www.openstreetmap.org/?lat=50.634863&lon=15.110589
+41(I35) +41(R35) http://www.openstreetmap.org/?lat=50.622119&lon=15.109076
+44(I35) +44(R35) +R10/R35 http://www.openstreetmap.org/?lat=50.596389&lon=15.118818
 Ohr http://www.openstreetmap.org/?lat=50.595661&lon=15.124376
 I10/I35 +I10_E http://www.openstreetmap.org/?lat=50.593400&lon=15.141263
 II610 http://www.openstreetmap.org/?lat=50.587324&lon=15.144739
@@ -163,24 +163,24 @@ Bor http://www.openstreetmap.org/?lat=49.771717&lon=16.726213
 +X76 http://www.openstreetmap.org/?lat=49.775861&lon=16.826334
 +X888452 http://www.openstreetmap.org/?lat=49.780488&lon=16.891480
 I44_N http://www.openstreetmap.org/?lat=49.777662&lon=16.912293
-238(R35) +II635/644 http://www.openstreetmap.org/?lat=49.766842&lon=16.918377
-242(R35) http://www.openstreetmap.org/?lat=49.735804&lon=16.958535
-248(R35) http://www.openstreetmap.org/?lat=49.710536&lon=17.021213
-251(R35) http://www.openstreetmap.org/?lat=49.690968&lon=17.049022
-256(R35) http://www.openstreetmap.org/?lat=49.661440&lon=17.105091
-264(R35) +KreBru http://www.openstreetmap.org/?lat=49.614120&lon=17.189848
-R35/I35 http://www.openstreetmap.org/?lat=49.604202&lon=17.218752
+238(D35) +238(R35) +II635/644 http://www.openstreetmap.org/?lat=49.766842&lon=16.918377
+242(D35) +242(R35) http://www.openstreetmap.org/?lat=49.735804&lon=16.958535
+248(D35) +248(R35) http://www.openstreetmap.org/?lat=49.710536&lon=17.021213
+251(D35) +251(R35) http://www.openstreetmap.org/?lat=49.690968&lon=17.049022
+256(D35) +256(R35) http://www.openstreetmap.org/?lat=49.661440&lon=17.105091
+264(D35) +264(R35) +KreBru http://www.openstreetmap.org/?lat=49.614120&lon=17.189848
+D35/I35 +R35/I35 http://www.openstreetmap.org/?lat=49.604202&lon=17.218752
 +X976669 http://www.openstreetmap.org/?lat=49.596567&lon=17.198646
-267(R35) http://www.openstreetmap.org/?lat=49.570065&lon=17.214632
+267(D35) +267(R35) http://www.openstreetmap.org/?lat=49.570065&lon=17.214632
 +X200 http://www.openstreetmap.org/?lat=49.550997&lon=17.231712
-272(R35) http://www.openstreetmap.org/?lat=49.552598&lon=17.264371
-276(R35) http://www.openstreetmap.org/?lat=49.559564&lon=17.315204
-281(R35) http://www.openstreetmap.org/?lat=49.577510&lon=17.383332
-283(R35) http://www.openstreetmap.org/?lat=49.585175&lon=17.411978
+272(D35) +272(R35) http://www.openstreetmap.org/?lat=49.552598&lon=17.264371
+276(D35) +276(R35) http://www.openstreetmap.org/?lat=49.559564&lon=17.315204
+281(D35) +281(R35) http://www.openstreetmap.org/?lat=49.577510&lon=17.383332
+283(D35) +283(R35) http://www.openstreetmap.org/?lat=49.585175&lon=17.411978
 +X202 http://www.openstreetmap.org/?lat=49.581169&lon=17.460022
-290(R35) http://www.openstreetmap.org/?lat=49.568187&lon=17.495427
+290(D35) +290(R35) http://www.openstreetmap.org/?lat=49.568187&lon=17.495427
 +X203 http://www.openstreetmap.org/?lat=49.550997&lon=17.534866
-296(R35) +D1 http://www.openstreetmap.org/?lat=49.547224&lon=17.585249
+296(D35) +296(R35) +D1 http://www.openstreetmap.org/?lat=49.547224&lon=17.585249
 I47_W http://www.openstreetmap.org/?lat=49.536211&lon=17.597952
 II434 http://www.openstreetmap.org/?lat=49.532590&lon=17.607350
 I47_E http://www.openstreetmap.org/?lat=49.552668&lon=17.715497
