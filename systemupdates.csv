@@ -1,55 +1,76 @@
-YYYY-MM-DD;Country/Region;System;Description;StatusChange
+﻿YYYY-MM-DD;Country/Region;System;Description;StatusChange
+2016-03-23;Bulgaria;bgri;Bulgaria First Class Roads;preview
+2016-03-23;Cyprus;cypb;Cyprus B Roads;preview
+2016-03-23;Malta;mltt;Malta Trig;preview
+2016-03-22;(USA) Kentucky;usaky;Kentucky State Highways 1-1499;extended
+2016-03-22;(USA) Kentucky;usaky3;Kentucky State Highways 1000-1499;merged
+2016-03-21;Albania;albsh;Albania Rrugë Shtetërore;preview
+2016-03-21;Asia;asiah;UNESCAP Asian Highways;preview
+2016-03-21;Luxembourg;luxn;Luxembourg Nationalstroossen;preview
+2016-03-11;(Netherlands) Aruba;abwrt;Aruba Routes;preview
+2016-03-11;Armenia;armm;Armenia Magistrale;preview
+2016-03-11;Azerbaijan;azem;Azerbaijan Magistrale;preview
+2016-03-11;Estonia;estt;Estonia Põhimaanteed;preview
+2016-03-11;Georgia (Asia);geos;Georgia Sakartvelo Roads;preview
+2016-03-11;Moldova;mdam;Moldova Magistrale;preview
+2016-03-11;Macedonia;mkdm;Macedonia Magistrale;preview
+2016-03-11;Montenegro;mnem;Montenegro Magistralni Put;preview
+2016-03-11;Kosovo;rksn;Kosovo National Roads;preview
+2016-03-07;Belgium;belb;Belgium Bretelles;active
+2016-03-07;Serbia;serba;Serbia Autoputevi;active
+2016-02-26;Ukraine;ukrm;Ukraine Mezdunarodnyj;preview
 2016-02-23;(USA) South Carolina;usasc;South Carolina State Highways;preview
-2016-02-20;(USA) Montana;usamts;Montana Secondary Highways;preview
+2016-02-20;(USA) Montana;usamts;Montana Secondary State Highways;preview
 2016-02-10;(Canada) British Columbia;canbc;British Columbia Provincial Highways;preview
 2016-02-10;(USA) Montana;usamt;Montana Primary State Highways;active
 2016-02-10;(USA) Northern Mariana Islands;usamp;Northern Mariana Islands Territorial Highways;preview
 2016-01-28;(USA) Guam;usagu;Guam Territorial Highways;preview
-2016-01-25;Romania;roudn;Romania DN Roads;preview
-2016-01-24;Andorra;andcg;Andorra CG Roads;preview
-2016-01-24;Belarus;blrm;Belarus M Roads;preview
+2016-01-25;Romania;roudn;Romania Drumuri Naţionales;preview
+2016-01-24;Andorra;andcg;Andorra Carreteras Generales;preview
+2016-01-24;Belarus;blrm;Belarus Magistral;preview
 2016-01-24;Sri Lanka;lkae;Sri Lanka Expressways;preview
 2016-01-24;South Korea;korex;(South) Korean Expressways;preview
 2016-01-24;Pakistan;pakm;Pakistan Motorways;preview
-2016-01-24;(China) Taiwan;twnf;Taiwan Freeways;preview
+2016-01-24;(China) Taiwan;twnf;Taiwan National Freeways;preview
 2016-01-19;(USA) Kentucky;usaky3;Kentucky State Highways 1000-1499;preview
 2016-01-16;(USA) Kentucky;usakyp;Kentucky Parkways;active
-2016-01-15;Netherlands;nldn0;Netherlands N Roads 1-99;preview
+2016-01-15;Netherlands;nldn0;Netherlands Niet-Autosnelwegen 1-99;preview
 2016-01-15;Singapore;sgpex;Singapore Expressways;preview
-2016-01-15;Tunisia;tuna;Tunisia Motorways;preview
+2016-01-15;Tunisia;tuna;Tunisia Autoroutes;preview
 2016-01-11;(China) Hong Kong;hgkrt;Hong Kong Routes;preview
 2016-01-11;(Finland) Åland;alavt;Åland Valtatiet;preview
 2016-01-11;(Finland) Åland;alakt;Åland Kantatiet;preview
-2016-01-11;Morocco;mara;Morocco A Roads;preview
+2016-01-11;Morocco;mara;Morocco Autoroutes;preview
 2016-01-11;(USA) Vermont;usavt;Vermont State Highways;active
 2016-01-07;(USA) Nebraska;usanes;Nebraska State Links and Spurs;active
-2016-01-02;(France) Corsica;frht;Corsica T Roads;preview
-2016-01-02;(France) Guadaloupe;glpn;Guadloupe N Roads;preview
-2016-01-02;(France) French Guiana;gufn;French Guiana N Roads;preview
-2016-01-02;(France) Martinique;mtqn;Martinique N Roads;preview
-2016-01-02;(France) Mayotte;mytn;Mayotte N Roads;preview
+2016-01-02;(France) Corsica;frht;Corsica Routes Territoriales;preview
+2016-01-02;(France) Guadaloupe;glpn;Guadloupe Routes Nationales;preview
+2016-01-02;(France) French Guiana;gufn;French Guiana Routes Nationales;preview
+2016-01-02;(France) Martinique;mtqn;Martinique Routes Nationales;preview
+2016-01-02;(France) Mayotte;mytn;Mayotte Routes Nationales;preview
 2016-01-02;(France) New Caledonia;ncle;New Caledonia Expressways;preview
-2016-01-02;(France) New Caledonia;nclt;New Caledonia T Roads;preview
-2016-01-02;(France) French Polynesia;pyft;French Polynesia T Roads;preview
-2016-01-02;(France) Reunion;reun;Reunion N Roads;preview
-2016-01-02;(France) Sainte Pierre and Miquelon;spmn;Sainte Pierre and Miquelon T Roads;preview
-2016-01-02;(France) Wallis and Futuna;wlft;Wallis and Futuna T Roads;preview
+2016-01-02;(France) New Caledonia;nclt;New Caledonia Routes Territoriales;preview
+2016-01-02;(France) French Polynesia;pyft;French Polynesia Routes Territoriales;preview
+2016-01-02;(France) Reunion;reun;Reunion Routes Nationales;preview
+2016-01-02;(France) Sainte Pierre and Miquelon;spmn;Sainte Pierre and Miquelon Routes Territoriales;preview
+2016-01-02;(France) Wallis and Futuna;wlft;Wallis and Futuna Routes Territoriales;preview
 2016-01-02;(USA) Virgin Islands;usavi;US Virgin Islands Territorial Highways;preview
-2016-01-01;Czechia;czer;Czechia R Roads;delete (merged into czed)
-2015-12-30;(UK) Great Britain;gbna1;Great Britain A Roads (Zone 1);delete (merge into gbna)
-2015-12-30;(UK) Great Britain;gbna6;Great Britain A Roads (Zone 6);delete (merge into gbna)
-2015-12-30;(UK) Great Britain;gbna8;Great Britain A Roads (Zone 8);delete (merge into gbna)
-2015-12-30;(UK) Great Britain;gbna9;Great Britain A Roads (Zone 9);delete (merge into gbna)
+2016-01-01;Czechia;czer;Czechia R Roads;merged
+2015-12-30;(UK) Great Britain;gbna1;Great Britain A Roads;extended
+2015-12-30;(UK) Great Britain;gbna1;Great Britain A Roads (Zone 1);merged
+2015-12-30;(UK) Great Britain;gbna6;Great Britain A Roads (Zone 6);merged
+2015-12-30;(UK) Great Britain;gbna8;Great Britain A Roads (Zone 8);merged
+2015-12-30;(UK) Great Britain;gbna9;Great Britain A Roads (Zone 9);merged
 2015-12-13;(USA) New Mexico;usanm;New Mexico State Highways;active
-2015-11-29;Belgium;belb;Belgian B Roads;preview
-2015-11-29;Belgium;belr;Belgian R Roads;preview
-2015-11-29;Denmark;dnkpr;Denmark Primary Roads;preview
+2015-11-29;Belgium;belb;Belgium Bretelles;preview
+2015-11-29;Belgium;belr;Belgium Ringwegen;preview
+2015-11-29;Denmark;dnkpr;Denmark Primærruter;preview
 2015-11-29;Finland;finvt;Finland Valtatiet;preview
 2015-11-29;Finland;finkt;Finland Kantatiet;preview
-2015-11-29;France;fran;France N Roads;preview
-2015-11-29;Latvia;lvaa;Latvia A Roads;preview
-2015-11-29;Lithuania;ltua;Lithuania A Roads;preview
-2015-11-29;Serbia;srba;Serbia A Roads;preview
+2015-11-29;France;fran;Routes Nationales;preview
+2015-11-29;Latvia;lvaa;Latvia Galvenā Ceļš;preview
+2015-11-29;Lithuania;ltua;Lithuania Magistraliniai Keliai;preview
+2015-11-29;Serbia;srba;Serbia Autoputevi;preview
 2015-11-27;(USA) Alaska;usaak;Alaska State Highways;preview
 2015-11-26;(Canada) Alberta;canab;Alberta Provincial Highways 1-216;preview
 2015-11-26;(UK) Great Britain;gbna1;Great Britain A Roads (Zone 1);preview
@@ -69,5 +90,5 @@ YYYY-MM-DD;Country/Region;System;Description;StatusChange
 2015-11-26;(USA) Wyoming;usawy;Wyoming State Highways;preview
 2015-11-12;(USA) Utah;usaut;Utah State Highways;active
 2015-08-23;Europe;eursf;Europe Select Named Motorways;active
-2015-08-23;Italy;;Italy Select Named Motorways;delete (merge into eursf)
-2015-08-23;Spain;;Spain Select Autonomous Community Motorways;delete (merge into eursf)
+2015-08-23;Italy;;Italy Select Named Motorways;merged
+2015-08-23;Spain;;Spain Select Autonomous Community Motorways;merged

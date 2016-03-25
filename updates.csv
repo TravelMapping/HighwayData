@@ -1,4 +1,35 @@
 ﻿YYYY-MM-DD;Country;Route;Root;Description
+2016-03-24;(UK) England;A6182;eng.a6182;Route extended at south end from M18 to A638
+2016-03-17;(USA) New Hampshire;I-93;nh.i093;Northbound roadway relocated approximately 0.2 mi westward immediately parallel to southbound roadway, between a point south of Exit 3 (labeled *OldI-93) and Exit 3. Southbound roadway unaffected
+2016-03-17;(USA) New Hampshire;NH 111;nh.nh111;Removed from Enterprise Drive and relocated onto Indian Rock Road between Enterprise Drive and I-93
+2016-03-12;Albania;A1 (Thumane);alb.a001thu;New Route
+2016-03-12;Albania;A3;;Route Deleted
+2016-03-12;Albania;A3 (Tirane);alb.a003;New Route
+2016-03-12;Albania;A3 (Dobresh);alb.a003dob;New Route
+2016-03-12;Albania;A3 (Elbasan);alb.a003elb;New Route
+2016-03-12;(USA) Indiana;US33 Truck (Goshen);us.033trkgos;New Route
+2016-03-11;(USA) Kentucky;KY 61;ky.ky0061;Relocated from Old Preston Hwy onto new 4-lane alignment south of Louisville between *OldKY61_S and *OldKY61_N
+2016-03-11;(USA) Kentucky;KY 163;ky.ky0163;Relocated from Tompkinsville Rd onto new alignment north of Tompkinsville between *OldKY163_S & *OldKY163_N
+2016-03-11;(USA) Kentucky;KY 678;ky.ky0678;Route truncated from Tompkinsville Rd (old KY163) to relocated KY163
+2016-03-11;Jamaica;T3;jam.t003;Route extended at south end from the A1 at Angels to the A1 at Caymanas
+2016-03-11;(USA) Arkansas;I-555 Future (Jonesboro);;Deleted route. Renamed to I-555.
+2016-03-11;(USA) Arkansas;I-555;ar.i555;Added route. Renamed from I-555 Future (Jonesboro).
+2016-03-09;England;A164;eng.a164;Route removed from Victoria Road and Molescroft Road and relocated onto Minster Way, Swinemoor Lane and Grange Way between Victoria Road (VicRd_N) and the western junction A1035
+2016-03-09;England;A589;eng.a589;Route extended at east end from A6 to M6
+2016-03-09;England;A1174;eng.a1174;Route truncated at west end from A1035/A1079 to A1035
+2016-03-09;England;A1341;eng.a1341;New Route
+2016-03-09;England;A2690;eng.a2690;Route extended at east end from B2092 to A2100
+2016-03-09;England;A5020;eng.a5020;Route removed from Weston Road and relocated onto David Whitby Way between A500 and A532
+2016-03-09;Scotland;A82;sct.a082;Route removed from Glenfalloch Road and relocated onto Crianlarich bypass between Glenfalloch Road and eastern junction with A85
+2016-03-06;(USA) North Carolina;US 401 Business (Rolesville, NC);nc.us401busrol;Route added
+2016-03-04;Poland;S16;pol.s016;New Route
+2016-03-04;Poland;S22;pol.s022;Route extended at west end from eastern junction with S7 to western junction with S7
+2016-03-03;(USA) Ohio;Dayton International Airport Access Road;oh.dayairrd;New route
+2016-03-01;(USA) Tennessee;US 64;tn.us064;Removed from old two-lane to the west of Lawrenceburg (now Old Waynesboro Highway), and moved onto a new 4-lane alignment between the intersections with TN Secondary 240 and Old Waynesboro Highway (OldWayHwy_W)
+2016-03-01;(USA) Tennessee;US 64;tn.us064;Removed from Waynesboro Highway, West Gaines Street, TN Secondary 242, & US 43 in Lawrenceburg, and moved onto a new 4-lane bypass to the southwest between the intersections of Waynesboro Highway (WayHwy_E) and US 43
+2016-03-01;(USA) Tennessee;US 64;tn.us064;Removed from old two-lane through Sycamore Swamp (now Old Winchester Highway), and moved onto a new 4-lane alignment to the south between the intersections of Old Winchester Highway (OldWinHwy_W) and TN Secondary 121 (TNs121_N)
+2016-03-01;(USA) Tennessee;US 64 Business (Waynesboro);;Route deleted
+2016-02-27;(Canada) Nova Scotia;NS 255;ns.ns255;Removed from a closed roadway and demolished bridge, and relocated onto a new parallel roadway and bridge to the east between points labeled *OldNS255_N and *OldNS255_S
 2016-02-20;(USA) Kentucky;KY 57 Business (Flemingsburg);ky.ky0057busfle;New route
 2016-02-20;(USA) Kentucky;KY 57;ky.ky0057;Removed from Elizaville Ave, Main Cross St, and Mt Carmel Ave through Flemingsburg (now KY 57 Business (Flemingsburg)) between KY11/57Bus and KY57Bus_N
 2016-02-20;(USA) Kentucky;KY 748;ky.ky0748;New route
@@ -7,7 +38,7 @@
 2016-02-18;(USA) North Carolina;NC 87 Bypass (Sanford);nc.nc087bypsan;New route
 2016-02-17;(USA) North Carolina;NC 906;nc.nc906;Route added
 2016-02-17;(USA) North Carolina;I-74 High Point;nc.i074hig;Extended along former I-74 Future (High Point) from Exit 65 to Exit 55
-2016-02-17;(USA) North Carolina;I-74 Future (High Point);nc.i074futhig;Route deleted (merged into I-74 High Point)
+2016-02-17;(USA) North Carolina;I-74 Future (High Point);;Route deleted (merged into I-74 High Point)
 2016-02-14;(USA) Kentucky;US 460;ky.us460;Realigned segment east of Frenchburg between OldUS460_W and OldUS460_E and moved waypoints for KY77 and KY1242 to new shared location
 2016-02-14;(USA) Kentucky;KY 77;ky.ky0077;Moved end at US460 to new location shared with KY1242
 2016-02-14;(USA) Tennessee;US 64;tn.us064;Removed from old two-lane through Hornsby (now Mitchell Street & Main Street), and moved onto a new 4-lane alignment to the south between the intersections with Mitchell Street (MitSt) & Main Street (MainSt)
@@ -23,13 +54,12 @@
 2016-02-01;(USA) Ohio;US 35 Business (Jackson);oh.us035busjac;Removed from Morton St between Chillicothe St and US-35, and relocated onto Chillicothe St and Chillicothe Pike between Morton St and US 35
 2016-02-01;(USA) Tennessee;US 27;tn.us027;Removed from old two-lane through Evensville (now Medlin Pike), and moved onto a new 4-lane alignment to the east between the intersections with Medlin Pike (MedPike_S & MedPike_N)
 2016-02-01;(USA) Tennessee;US 27 Business (Dayton);;Route deleted
-2016-01-31;(USA) Utah;Utah 7;ut.ut007;Extended east from Washington Fields Road to Sand Hollow, merged with former Sand Hollow segment
+2016-01-31;(USA) Utah;Utah 7;ut.ut007;Extended east from Exit 10 (Warner Valley Road) to Sand Hollow Road, merged with former Sand Hollow segment
 2016-01-31;(USA) Utah;Utah 7 (Sand Hollow);;Route deleted (merged into main route)
-2016-01-31;(USA) Missouri;US 50;mo.us050;Removed from two-lane through Loose Creek (now Loose Creek Highway) and moved onto new alignment to the south between US 63 and MO 100
+2016-01-31;(USA) Missouri;US 50;mo.us050;Removed from Loose Creek Highway and relocated onto new divided highway to the south between the western and eastern intersections with Loose Creek Highway.
 2016-01-31;(USA) Missouri;MO 364;mo.mo364;Extended from MO 94/Mid Rivers Mall Drive west along new freeway to I-64
 2016-01-31;(USA) Missouri;I-44 Business Loop (Pacific);mo.i044blpac;Extended west along Osage Street from I-44 Exit 257 to I-44 Exit 253
-2016-01-31;(USA) Missouri;MO 151;mo.mo151;Truncated from MO 15 to MO 156
-2016-01-31;(USA) Missouri;US 36 Business (Clarence);mo.us036buscla;Removed from Old US 36 and moved onto MO 151 between MO151 and US36/MO110
+2016-01-31;(USA) Missouri;US 36 Business (Clarence);mo.us036buscla;Removed from Old US 36 and relocated onto MO 151 between MO 151 (south) and the western junction with US 36
 2016-01-31;(USA) Wisconsin;US 41 Alternate (Oshkosh);;Route deleted
 2016-01-31;(USA) Wisconsin;US 18 Business (Mount Horeb);;Route deleted
 2016-01-31;(USA) Wisconsin;US 151 Business (Mount Horeb);;Route deleted
