@@ -4,6 +4,7 @@ auta;AUT;Austria Autobahnen;blue;1;active
 auts;AUT;Austria Schnellstrassen;teal;2;active
 bela;BEL;Belgium Autosnelwegen / Autoroutes;blue;1;active
 belb;BEL;Belgium Bretelles;teal;2;active
+belr;BEL;Belgium Ringwegen;brown;4;active
 biha;BIH;Bosnia and Herzegovina Autoputevi;blue;1;active
 bgra;BGR;Bulgaria Avtomagistrala;blue;1;active
 cannsf;CAN;Nova Scotia Provincial Freeways;blue;1;active
@@ -21,11 +22,28 @@ chea;CHE;Switzerland Autobahnen / Autoroutes;blue;1;active
 cypa;CYP;Cyprus Motorways;blue;1;active
 czed;CZE;Czechia Dálnice;blue;1;active
 deua;DEU;Germany Autobahnen;blue;1;active
+dnkpr;DNK;Denmark Primærruter;brown;4;active
 eure;EUR;UNECE International 'E' Roads;green;3;active
 eursf;EUR;Europe Select Named Freeways;teal;2;active
 espa;ESP;Spain Autopista / Autovia;blue;1;active
+finvt;FIN;Finland Valtatiet;brown;4;active
+alavt;FIN;Åland Valtatiet;brown;4;active
+finkt;FIN;Finland Kantatiet;yellow;5;active
+alakt;FIN;Åland Kantatiet;yellow;5;active
 fraa;FRA;France Autoroutes;blue;1;active
+ncle;FRA;New Caledonia Voie Express;teal;2;active
 mtqa;FRA;Martinique Autoroutes;blue;1;active
+fran;FRA;France Routes Nationales;brown;4;active
+frht;FRA;Corsica Routes Territoriales;brown;4;active
+gufn;FRA;French Guiana Routes Nationales;brown;4;active
+pyft;FRA;French Polynesia Routes Territoriales;brown;4;active
+glpn;FRA;Guadeloupe Routes Nationales;brown;4;active
+mtqn;FRA;Martinique Routes Nationales;brown;4;active
+mytn;FRA;Mayotte Routes Nationales;brown;4;active
+nclt;FRA;New Caledonia Routes Territoriales;brown;4;active
+reun;FRA;Reunion Routes Nationales;brown;4;active
+spmn;FRA;Saint Pierre and Miquelon Routes Territoriales;brown;4;active
+wlft;FRA;Wallis and Futuna Routes Territoriales;brown;4;active
 gbnm;GBR;Great Britain Motorways;blue;1;active
 gbnam;GBR;Great Britain A Road (Motorways);blue;1;active
 gbna;GBR;Great Britain A Roads;brown;4;active
@@ -41,8 +59,10 @@ irln;IRL;Ireland National Roads;brown;4;active
 itaa;ITA;Italy Autostrada;blue;1;active
 jamt;JAM;Jamaica Motorways;blue;1;active
 jeya;JEY;Jersey A Roads;brown;4;active
+ltua;LTU;Lithuania Magistraliniai Keliai;brown;4;active
 luxa;LUX;Luxembourg Autobunnen;blue;1;active
 luxb;LUX;Luxembourg Schnellstroossen;teal;2;active
+lvaa;LVA;Latvia Galvenā Ceļš;brown;4;active
 mexd;MEX;Mexico Federal Expressways;blue;1;active
 mexed;MEX;Mexico State Expressways;teal;3;active
 nlda;NLD;Netherlands Autosnelwegen;blue;1;active
@@ -68,12 +88,13 @@ usaaz;USA;Arizona State Highways;brown;4;active
 usact;USA;Connecticut State Highways;brown;4;active
 usadc;USA;District of Columbia District Highways;brown;4;active
 usade;USA;Delaware State Highways;brown;4;active
+usagu;USA;Guam Territorial Highways;brown;4;active
 usahi;USA;Hawaii State Highways;brown;4;active
 usaia;USA;Iowa State Highways;brown;4;active
 usaid;USA;Idaho State Highways;brown;4;active
 usail;USA;Illinois State Highways;brown;4;active
 usaks;USA;Kansas State Highways;brown;4;active
-usaky;USA;Kentucky State Highways 1-999;brown;4;active
+usaky;USA;Kentucky State Highways 1-1499;brown;4;active
 usakyp;USA;Kentucky Parkways;teal;2;active
 usame;USA;Maine State Highways;brown;4;active
 usamd;USA;Maryland State Highways;brown;4;active
@@ -87,10 +108,11 @@ usanes;USA;Nebraska State Links and Spurs;brown;4;active
 usanv;USA;Nevada State Highways;brown;4;active
 usanh;USA;New Hampshire State Highways;brown;4;active
 usanj;USA;New Jersey State Highways;brown;4;active
+usanm;USA;New Mexico State Highways;brown;4;active
 usany;USA;New York State Highways;brown;4;active
 usanc;USA;North Carolina State Highways;brown;4;active
 usand;USA;North Dakota State Highways;brown;4;active
-usanm;USA;New Mexico State Highways;brown;4;active
+usamp;USA;Northern Mariana Islands Territorial Highways;brown;4;active
 usaoh;USA;Ohio State Highways;brown;4;active
 usaok;USA;Oklahoma State Highways;brown;4;active
 usaor;USA;Oregon State Highways;brown;4;active
@@ -99,62 +121,47 @@ usari;USA;Rhode Island State Highways;brown;4;active
 usasd;USA;South Dakota State Highways;brown;4;active
 usaut;USA;Utah State Highways;brown;4;active
 usavt;USA;Vermont State Highways;brown;4;active
+usavi;USA;US Virgin Islands Territorial Highways;brown;4;active
 usawa;USA;Washington State Highways;brown;4;active
 usawv;USA;West Virginia State Highways;brown;4;active
 usawi;USA;Wisconsin State Highways;brown;4;active
 #Preview Systems
 abwrt;NLD;Aruba Routes;brown;4;preview
-alakt;FIN;Åland Kantatiet;yellow;5;preview
-alavt;FIN;Åland Valtatiet;brown;4;preview
-andcg;AND;Andorra Carreteras Generales (General Roads);brown;4;preview
+albsh;ALB;Albania Rrugë Shtetërore;brown;4;preview
+andcg;AND;Andorra Carreteras Generales;brown;4;preview
 armm;ARM;Armenia Magistrale;brown;4;preview
-azem;ARM;Azerbaijan Magistrale;brown;4;preview
-belr;BEL;Belgian Ringwegen (Ring Roads);brown;4;preview
+asiah;ASI;UNESCAP Asian Highways;red;3;preview
+azem;AZE;Azerbaijan Magistrale;brown;4;preview
+bgri;BGR;Bulgaria First Class Roads;brown;4;preview
 blrm;BLR;Belarus Magistral;brown;4;preview
 canab;CAN;Alberta Provincial Highways 1-216;brown;4;preview
 canbc;CAN;British Colombia Provincial Highways;brown;4;preview
-dnkpr;DNK;Denmark Primærruter (Primary Roads);brown;4;preview
-estt;EST;Estonia Põhimaanteed (Main Roads);brown;4;preview
-finkt;FIN;Finland Kantatiet;yellow;5;preview
-finvt;FIN;Finland Valtatiet;brown;4;preview
-fran;FRA;France Routes Nationales;brown;4;preview
-frht;FRA;Corsica Routes Territoriales;brown;4;preview
+cypb;CYP;Cyprus B Roads;brown;4;preview
+estt;EST;Estonia Põhimaanteed;brown;4;preview
 geos;GEO;Georgia Sakartvelo Roads;brown;4;preview
-glpn;FRA;Guadaloupe Routes Nationales;brown;4;preview
-gufn;FRA;French Guiana Routes Nationales;brown;4;preview
 hkgrt;CHN;Hong Kong Routes;teal;2;preview
 irnf;IRN;Iran Freeways;blue;1;preview
 jama;JAM;Jamaica A Roads;brown;4;preview
 korex;KOR;(South) Korean Expressways;blue;1;preview
 lkae;LKA;Sri Lanka Expressways;blue;1;preview
-ltua;LTU;Lithuania Magistraliniai Keliai;brown;4;preview
-lvaa;LVA;Latvia Galvenā Ceļš;brown;4;preview
+luxn;LUX;Luxembourg Nationalstroossen;brown;4;preview
 mara;MAR;Morocco Autoroutes;blue;1;preview
 mdam;MDA;Moldova Magistrale;brown;4;preview
 mkda;MKD;Macedonia Magistrale;brown;4;preview
+mltt;MLT;Malta Trig;brown;4;preview
 mnem;MNE;Montenegro Magistralni Put;brown;4;preview
-mtqn;FRA;Martinique Routes Nationales;brown;4;preview
 myse;MYS;Malaysia Expressways;blue;1;preview
-mytn;FRA;Mayotte Routes Nationales;brown;4;preview
-ncle;FRA;New Caledonia Voie Express;teal;2;preview
-nclt;FRA;New Caledonia Routes Territoriales;brown;4;preview
-nldn0;NLD;Netherlands Niet-Autosnelwegen (1-99);brown;4;preview
+nldn0;NLD;Netherlands Niet-Autosnelwegen 1-99;brown;4;preview
 pakm;PAK;Pakistan Motorways;blue;1;preview
-pyft;FRA;French Polynesia Routes Territoriales;brown;4;preview
-reun;FRA;Reunion Routes Nationales;brown;4;preview
 roudn;ROU;Romania Drumuri Naţionales;brown;4;preview
 rksn;RKS;Kosovo National Roads;brown;4;preview
 sgpex;SGP;Singapore Expressways;blue;1;preview
-spmn;FRA;Sainte Pierre and Miquelon Routes Territoriales;brown;4;preview
 tuna;TUN;Tunisia Autoroutes;blue;1;preview
 twnf;CHN;Taiwan National Freeways;blue;1;preview
 ukrm;UKR;Ukraine Mezdunarodnyj;brown;4;preview
 usaak;USA;Alaska State Highways;brown;4;preview
 usaco;USA;Colorado State Highways;brown;4;preview
-usagu;USA;Guam Territorial Highways;brown;4;preview
 usain;USA;Indiana State Highways;brown;4;preview
-usaky3;USA;Kentucky State Highways 1000-1499;brown;4;preview
-usamp;USA;Northern Mariana Islands Territorial Highways;brown;4;preview
 usamts;USA;Montana Secondary State Highways;yellow;5;preview
 usasc;USA;South Carolina State Highways;brown;4;preview
 usatx;USA;Texas State Highways;brown;4;preview
@@ -162,21 +169,19 @@ usatxl;USA;Texas State Highway Loops;brown;4;preview
 usatxs;USA;Texas State Highway Spurs;brown;4;preview
 usava;USA;Virginia State Highways;brown;4;preview
 usawy;USA;Wyoming State Highways;brown;4;preview
-usavi;USA;US Virgin Islands Territorial Highways;brown;4;preview
-wlft;FRA;Wallis and Futuna Routes Territoriales;brown;4;preview
 #Devel Systems
-albsh;ALB;Albania Rrugë Shtetërore;brown;4;devel
-asiah;ASI;UNESCAP Asian Highways;red;3;devel
-asiaho;ASI;UNESCAP Asian Highways (outlined);red;3;devel
-asim;ASI;Central Asian Magistral;brown;4;devel
+#asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 brbabc;BRB;Barbados ABC Highway;brown;4;devel
-#brbh;BRB;Barbados Highways;brown;4;devel
+brbh;BRB;Barbados Highways;brown;4;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 cansph;CAN;Canada Select Provincial Highways;brown;4;devel
+#chng;CHN;China National Expressways;blue;1;devel
+#cism;ASI;Central Asian Magistral;brown;4;devel
 #idnjt;IDN;Indonesia Toll Roads;blue;1;devel
+#index;IND;India National Expressways;blue;1;devel
 kaza;KAZ;Kazakhstan Main Roads;brown;4;devel
-luxn;LUX;Luxembourg Nationalstroossen;brown;4;devel
+norrv;NOR;Norway Riksveier;brown;4;devel
 #nldn1;NLD;Netherlands Niet-Autosnelwegen (100-199);brown;4;devel
 #nldn2;NLD;Netherlands Niet-Autosnelwegen (200-299);brown;4;devel
 #nldn3;NLD;Netherlands Niet-Autosnelwegen (300-399);brown;4;devel
@@ -191,12 +196,13 @@ phle;PHL;Philippines Expressways;blue;1;devel
 poldk;POL;Poland Drogi Krajowa;brown;4;devel
 rusm;RUS;Russia Moskva Roads;brown;4;devel
 sctntr;GBR;Scotland National Tourist Routes;brown;4;devel
+swerv;SWE;Sweden Riksvägar;brown;4;devel
 usaas;USA;American Samoa Territorial Highways;brown;4;devel
 usaca;USA;California State Highways;brown;4;devel
 usafl;USA;Florida State Highways;brown;4;devel
+usaky4;USA;Kentucky State Highways 1500-1999;brown;4;devel
+usala1;USA;Louisiana State Highways 1-499;brown;4;devel
 usanp;USA;United States Select National Park Highways;brown;4;devel
 #usapr;USA;Puerto Rico Territorial Highways;brown;4;devel
 #usatn;USA;Tenessee State Highways;brown;4;devel
 usaush;USA;United States Historic Highways;brown;4;devel
-usaky4;USA;Kentucky State Highways 1500-1999;brown;4;devel
-usala1;USA;Louisiana State Highways 1-499;brown;4;devel
