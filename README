@@ -1,4 +1,22 @@
 This repository is for raw data used by the Travel Mapping project.
 
-We will describe the data formats in detail here as data is gathered
-and pulled into the repository.
+In general, the project's data is in plain text files in two formats: CSV using semicolon separators, and WPT or "waypoint" files.  WPT files are required to contain only plain ASCII text.  Some CSV files can include non-ASCII characters, but should always use a UTF-8 encoding when such characters are used.
+
+The project's data is organized herein as follows:
+
+Several CSV files at the top level are used to describe some project-wide information:
+
+continents.csv, countries.csv, regions.csv, and regions_countries_continents.csv are used to define the lists, names, abbreviations, and hierarchies for the geographic entities and governmental subdivisions used by the project.
+
+datacheckfps.csv contains a list of false positives that will be detected in the "datacheck" list of possible errors in the data.  Entries listed here will be shown only in the "crossed off" list on the datacheck error page.
+
+systems.csv contains a list of the highway systems included in the project.
+
+systemupdates.csv lists the system-level changes being made to the project, such as highway system activations.
+
+updates.csv lists the highway-level changes being made to routes in active systems within the project that could affect users.  Minor changes such as point relabelings or recenterings that do not require users to make any changes to their list files are not included here.
+
+The chm_final directory contains an archive of the version of the project's data that was imported from the Clinched Highway Mapping project as a starting point for Travel Mapping.  It remains for historical interest only and is not used by Travel Mapping.
+
+The hwy_data directory contains all of the information about which routes are in each system and the points that make up each route.
+
