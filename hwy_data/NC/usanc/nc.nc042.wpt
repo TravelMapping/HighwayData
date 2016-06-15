@@ -4,11 +4,11 @@ US64_W http://www.openstreetmap.org/?lat=35.698388&lon=-79.787296
 +x1 http://www.openstreetmap.org/?lat=35.644217&lon=-79.719822
 HinTownRd http://www.openstreetmap.org/?lat=35.643136&lon=-79.683532
 MofMillRd http://www.openstreetmap.org/?lat=35.619750&lon=-79.663695
-NC22_W http://www.openstreetmap.org/?lat=35.640561&lon=-79.615275
+NC22_N +NC22_W http://www.openstreetmap.org/?lat=35.640561&lon=-79.615275
 LamMillRd http://www.openstreetmap.org/?lat=35.619417&lon=-79.587960
 PleGroRd http://www.openstreetmap.org/?lat=35.589867&lon=-79.574844
 NC902 http://www.openstreetmap.org/?lat=35.546854&lon=-79.537089
-NC22_E http://www.openstreetmap.org/?lat=35.529458&lon=-79.526054
+NC22_S +NC22_E http://www.openstreetmap.org/?lat=35.529458&lon=-79.526054
 SilCityRd http://www.openstreetmap.org/?lat=35.522702&lon=-79.433427
 +x10 http://www.openstreetmap.org/?lat=35.531903&lon=-79.367536
 GolCarRd http://www.openstreetmap.org/?lat=35.522170&lon=-79.351341
@@ -18,9 +18,9 @@ TemChuRd http://www.openstreetmap.org/?lat=35.491401&lon=-79.254647
 +x30 http://www.openstreetmap.org/?lat=35.476680&lon=-79.244455
 US1/15 http://www.openstreetmap.org/?lat=35.468604&lon=-79.202939
 OldUS1 http://www.openstreetmap.org/?lat=35.474096&lon=-79.187771
-US421_W http://www.openstreetmap.org/?lat=35.479910&lon=-79.180473
-US421_E http://www.openstreetmap.org/?lat=35.459569&lon=-79.145701
-SanByp http://www.openstreetmap.org/?lat=35.460500&lon=-79.118257
+US421Bus_N +US421_W http://www.openstreetmap.org/?lat=35.479910&lon=-79.180473
+US421Bus_S +US421_E http://www.openstreetmap.org/?lat=35.459569&lon=-79.145701
+US421/87Byp +SanByp http://www.openstreetmap.org/?lat=35.460513&lon=-79.118364
 BroRd http://www.openstreetmap.org/?lat=35.463637&lon=-79.096552
 +x40 http://www.openstreetmap.org/?lat=35.503607&lon=-79.050901
 PopSprRd http://www.openstreetmap.org/?lat=35.535389&lon=-79.039899
@@ -32,9 +32,9 @@ CorRd http://www.openstreetmap.org/?lat=35.563071&lon=-79.009869
 RolMillRd http://www.openstreetmap.org/?lat=35.566495&lon=-78.904785
 BetRd http://www.openstreetmap.org/?lat=35.563204&lon=-78.858377
 US401_S http://www.openstreetmap.org/?lat=35.584290&lon=-78.799653
-NC55_N http://www.openstreetmap.org/?lat=35.591444&lon=-78.793001
+NC55_W +NC55_N http://www.openstreetmap.org/?lat=35.591444&lon=-78.793001
 US401_N http://www.openstreetmap.org/?lat=35.596696&lon=-78.759066
-NC55_S http://www.openstreetmap.org/?lat=35.595545&lon=-78.758841
+NC55_E +NC55_S http://www.openstreetmap.org/?lat=35.595545&lon=-78.758841
 OldStaRd http://www.openstreetmap.org/?lat=35.591054&lon=-78.690557
 WarDr http://www.openstreetmap.org/?lat=35.583703&lon=-78.673477
 NC50 http://www.openstreetmap.org/?lat=35.592762&lon=-78.599212
@@ -55,9 +55,9 @@ I-795 http://www.openstreetmap.org/?lat=35.710881&lon=-77.999797
 OldRalRd http://www.openstreetmap.org/?lat=35.722412&lon=-77.985002
 US264Alt_E +US264A_E http://www.openstreetmap.org/?lat=35.721909&lon=-77.935413
 US264Alt_W +US264A_W http://www.openstreetmap.org/?lat=35.734181&lon=-77.934684
-NC58_W http://www.openstreetmap.org/?lat=35.752468&lon=-77.930419
+NC58_N +NC58_W http://www.openstreetmap.org/?lat=35.752468&lon=-77.930419
 +x70 http://www.openstreetmap.org/?lat=35.754527&lon=-77.915785
-NC58_E http://www.openstreetmap.org/?lat=35.729356&lon=-77.898812
+NC58_S +NC58_E http://www.openstreetmap.org/?lat=35.729356&lon=-77.898812
 US301 http://www.openstreetmap.org/?lat=35.735331&lon=-77.878861
 +x80 http://www.openstreetmap.org/?lat=35.733563&lon=-77.817820
 BriRd http://www.openstreetmap.org/?lat=35.756271&lon=-77.751489
