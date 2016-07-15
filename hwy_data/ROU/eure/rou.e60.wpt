@@ -35,8 +35,8 @@ DJ108C_E http://www.openstreetmap.org/?lat=46.821853&lon=23.166990
 +X12 http://www.openstreetmap.org/?lat=46.813865&lon=23.182268
 +X13 http://www.openstreetmap.org/?lat=46.821912&lon=23.201237
 +X14 http://www.openstreetmap.org/?lat=46.805288&lon=23.259687
-DJ103K_W http://www.openstreetmap.org/?lat=46.785310&lon=23.295650
-DJ103K_E http://www.openstreetmap.org/?lat=46.778786&lon=23.311958
+DJ103K +DJ103K_W http://www.openstreetmap.org/?lat=46.785310&lon=23.295650
+DN1J +DJ103K_E http://www.openstreetmap.org/?lat=46.778713&lon=23.311550
 DJ107P http://www.openstreetmap.org/?lat=46.751447&lon=23.396158
 A3_W +A3/1 http://www.openstreetmap.org/?lat=46.751035&lon=23.421907
 DJ107M http://www.openstreetmap.org/?lat=46.745389&lon=23.451777
@@ -108,7 +108,7 @@ DJ104K http://www.openstreetmap.org/?lat=46.107636&lon=25.057411
 DJ105A http://www.openstreetmap.org/?lat=46.030819&lon=25.206413
 DJ132 http://www.openstreetmap.org/?lat=46.035586&lon=25.248642
 DJ132B http://www.openstreetmap.org/?lat=46.013535&lon=25.275764
-DN1J http://www.openstreetmap.org/?lat=45.981993&lon=25.324259
+DN1S http://www.openstreetmap.org/?lat=45.981993&lon=25.324259
 DJ131D http://www.openstreetmap.org/?lat=45.976029&lon=25.332584
 +X47 http://www.openstreetmap.org/?lat=45.936229&lon=25.386829
 +X48 http://www.openstreetmap.org/?lat=45.915094&lon=25.404167
@@ -124,10 +124,8 @@ CenBra http://www.openstreetmap.org/?lat=45.693261&lon=25.583296
 StrBuz http://www.openstreetmap.org/?lat=45.666831&lon=25.591922
 DN1/13 http://www.openstreetmap.org/?lat=45.666186&lon=25.592051
 StrPle http://www.openstreetmap.org/?lat=45.660037&lon=25.595140
-Str13Dec http://www.openstreetmap.org/?lat=45.659797&lon=25.607285
-BulVic http://www.openstreetmap.org/?lat=45.660052&lon=25.613422
-DN11 http://www.openstreetmap.org/?lat=45.658328&lon=25.621705
-StrZiz http://www.openstreetmap.org/?lat=45.649718&lon=25.626898
+Str13Dec http://www.openstreetmap.org/?lat=45.653078&lon=25.604710
+DN11 +BulVic +StrZiz http://www.openstreetmap.org/?lat=45.652929&lon=25.612264
 CalBuc http://www.openstreetmap.org/?lat=45.634266&lon=25.634236
 DN1A_W http://www.openstreetmap.org/?lat=45.613339&lon=25.658602
 +X54 http://www.openstreetmap.org/?lat=45.551023&lon=25.588360
@@ -157,20 +155,21 @@ DJ100F http://www.openstreetmap.org/?lat=45.030408&lon=25.822935
 DJ215 http://www.openstreetmap.org/?lat=45.003105&lon=25.883360
 DN1B http://www.openstreetmap.org/?lat=44.966377&lon=25.965071
 DN72 http://www.openstreetmap.org/?lat=44.940623&lon=25.960693
-DN1A_E http://www.openstreetmap.org/?lat=44.911210&lon=25.991936
+DN1A_S +DN1A_E http://www.openstreetmap.org/?lat=44.911210&lon=25.991936
 DJ101G http://www.openstreetmap.org/?lat=44.884671&lon=26.018071
 A3 http://www.openstreetmap.org/?lat=44.885066&lon=26.032104
-DJ236 http://www.openstreetmap.org/?lat=44.884945&lon=26.046610
+DN1A_N +DJ236 http://www.openstreetmap.org/?lat=44.884945&lon=26.046610
 +X61 http://www.openstreetmap.org/?lat=44.851518&lon=26.076865
 DJ139 http://www.openstreetmap.org/?lat=44.825804&lon=26.080685
 DJ101E http://www.openstreetmap.org/?lat=44.784516&lon=26.098537
 DJ101C http://www.openstreetmap.org/?lat=44.738351&lon=26.113343
+DN1L http://www.openstreetmap.org/?lat=44.727345&lon=26.109695
 DJ101_W http://www.openstreetmap.org/?lat=44.714233&lon=26.099439
 DJ101B_W http://www.openstreetmap.org/?lat=44.678358&lon=26.075277
 DJ101B_E http://www.openstreetmap.org/?lat=44.667859&lon=26.076822
 DJ200B http://www.openstreetmap.org/?lat=44.639346&lon=26.068668
 DJ101_E http://www.openstreetmap.org/?lat=44.601102&lon=26.071587
-CenBuc_W http://www.openstreetmap.org/?lat=44.534803&lon=26.068389
+DNCB_W +CenBuc_W http://www.openstreetmap.org/?lat=44.534803&lon=26.068389
 StrGenHol http://www.openstreetmap.org/?lat=44.505657&lon=26.081736
 BulAer http://www.openstreetmap.org/?lat=44.494577&lon=26.079118
 BulPol http://www.openstreetmap.org/?lat=44.478044&lon=26.072702
@@ -185,7 +184,7 @@ StrPui http://www.openstreetmap.org/?lat=44.480631&lon=26.168629
 StrAfu http://www.openstreetmap.org/?lat=44.481098&lon=26.169530
 StrDuz http://www.openstreetmap.org/?lat=44.489074&lon=26.185098
 StrSom http://www.openstreetmap.org/?lat=44.498679&lon=26.203841
-CenBuc_E http://www.openstreetmap.org/?lat=44.498778&lon=26.204056
+DNCB_E +CenBuc_E http://www.openstreetmap.org/?lat=44.498778&lon=26.204056
 DJ100 http://www.openstreetmap.org/?lat=44.523621&lon=26.249793
 DJ200A http://www.openstreetmap.org/?lat=44.525579&lon=26.252303
 +X62 http://www.openstreetmap.org/?lat=44.512115&lon=26.311913

@@ -12,7 +12,7 @@ I61_S http://www.openstreetmap.org/?lat=48.863953&lon=17.956123
 +X14A http://www.openstreetmap.org/?lat=49.019465&lon=18.257303
 +X15 http://www.openstreetmap.org/?lat=49.042650&lon=18.277817
 153(D1) http://www.openstreetmap.org/?lat=49.045646&lon=18.298631
-159(D1) http://www.openstreetmap.org/?lat=49.063308&lon=18.341031
+159(D1) http://www.openstreetmap.org/?lat=49.063304&lon=18.340934
 +X16 http://www.openstreetmap.org/?lat=49.063716&lon=18.381586
 +X17 http://www.openstreetmap.org/?lat=49.075651&lon=18.414845
 165(D1) +I61_N http://www.openstreetmap.org/?lat=49.092502&lon=18.418837
@@ -26,14 +26,14 @@ I61_S http://www.openstreetmap.org/?lat=48.863953&lon=17.956123
 +D1/D3 http://www.openstreetmap.org/?lat=49.225593&lon=18.608887
 2(D3) http://www.openstreetmap.org/?lat=49.230833&lon=18.622534
 +X01 http://www.openstreetmap.org/?lat=49.255426&lon=18.670921
-D3/I18 http://www.openstreetmap.org/?lat=49.241779&lon=18.691757
+8(D3) +D3/I18 http://www.openstreetmap.org/?lat=49.241779&lon=18.691757
 PriUli http://www.openstreetmap.org/?lat=49.227449&lon=18.718214
-I18/I18A_W http://www.openstreetmap.org/?lat=49.228332&lon=18.727956
+I60/I61 +I18/I18A_W http://www.openstreetmap.org/?lat=49.228332&lon=18.727956
 I11 http://www.openstreetmap.org/?lat=49.232816&lon=18.735552
 Kys http://www.openstreetmap.org/?lat=49.231779&lon=18.740895
 II583A http://www.openstreetmap.org/?lat=49.224549&lon=18.761559
 PavOrsHvi http://www.openstreetmap.org/?lat=49.222530&lon=18.760979
-I18/I18A_E http://www.openstreetmap.org/?lat=49.219181&lon=18.758769
+I18/I60  +I18/I18A_E http://www.openstreetmap.org/?lat=49.219181&lon=18.758769
 SvaCyrMet http://www.openstreetmap.org/?lat=49.216980&lon=18.764992
 Str http://www.openstreetmap.org/?lat=49.184228&lon=18.853698
 +X130 http://www.openstreetmap.org/?lat=49.170060&lon=18.868461
@@ -77,30 +77,25 @@ I59_S http://www.openstreetmap.org/?lat=49.077759&lon=19.317420
 +X302A http://www.openstreetmap.org/?lat=49.067877&lon=20.348182
 +X303 http://www.openstreetmap.org/?lat=49.050245&lon=20.368481
 +X304 http://www.openstreetmap.org/?lat=49.036630&lon=20.427275
-341(D1) http://www.openstreetmap.org/?lat=49.011106&lon=20.453796
-II536_S http://www.openstreetmap.org/?lat=49.004575&lon=20.465126
-Dra http://www.openstreetmap.org/?lat=49.016581&lon=20.481949
-DlheStr http://www.openstreetmap.org/?lat=49.018424&lon=20.524049
-+X306 http://www.openstreetmap.org/?lat=49.010712&lon=20.567779
-II533 http://www.openstreetmap.org/?lat=49.020309&lon=20.584173
-+X307 http://www.openstreetmap.org/?lat=49.030834&lon=20.614300
-Ulo http://www.openstreetmap.org/?lat=49.025516&lon=20.619106
-SpiHrh http://www.openstreetmap.org/?lat=49.002491&lon=20.643182
-363(D1) +D1/I18_Nem http://www.openstreetmap.org/?lat=49.005813&lon=20.704905
+341(D1) http://www.openstreetmap.org/?lat=49.013076&lon=20.454654
++X305 http://www.openstreetmap.org/?lat=49.002689&lon=20.486240
+350(D1) http://www.openstreetmap.org/?lat=49.004096&lon=20.573702
++X575478 http://www.openstreetmap.org/?lat=49.009952&lon=20.612068
+363(D1) +D1/I18_Nem http://www.openstreetmap.org/?lat=49.007108&lon=20.704562
 368(D1) http://www.openstreetmap.org/?lat=49.008852&lon=20.810605
 +X401 http://www.openstreetmap.org/?lat=49.010261&lon=20.859603
 +X402 http://www.openstreetmap.org/?lat=48.995995&lon=20.914857
 379(D1) http://www.openstreetmap.org/?lat=49.010782&lon=20.940800
-382(D1) http://www.openstreetmap.org/?lat=49.020549&lon=20.987105
-BerCes http://www.openstreetmap.org/?lat=49.024531&lon=21.021738
-ChmNovaVes http://www.openstreetmap.org/?lat=49.003955&lon=21.077399
-393(D1) http://www.openstreetmap.org/?lat=49.002471&lon=21.103535
+382(D1) http://www.openstreetmap.org/?lat=49.021281&lon=20.982298
++X270975 http://www.openstreetmap.org/?lat=49.026162&lon=21.021910
++X376652 http://www.openstreetmap.org/?lat=48.997677&lon=21.064310
+393(D1) http://www.openstreetmap.org/?lat=49.001063&lon=21.105337
 +X501 http://www.openstreetmap.org/?lat=49.007657&lon=21.139369
 400(D1) http://www.openstreetmap.org/?lat=48.997776&lon=21.202455
 I68_N http://www.openstreetmap.org/?lat=49.001844&lon=21.239276
 I18_Pre http://www.openstreetmap.org/?lat=49.005405&lon=21.245499
 RusUli http://www.openstreetmap.org/?lat=48.990229&lon=21.250863
-I68_S http://www.openstreetmap.org/?lat=48.970358&lon=21.253524
+I20/I80 +I68_S http://www.openstreetmap.org/?lat=48.970358&lon=21.253524
 407(D1) http://www.openstreetmap.org/?lat=48.952367&lon=21.256914
 +X602 http://www.openstreetmap.org/?lat=48.896268&lon=21.248589
 418(D1) http://www.openstreetmap.org/?lat=48.857346&lon=21.268587
@@ -110,7 +105,7 @@ I68_S http://www.openstreetmap.org/?lat=48.970358&lon=21.253524
 SerUt http://www.openstreetmap.org/?lat=48.772313&lon=21.294379
 AmeTr http://www.openstreetmap.org/?lat=48.745535&lon=21.272836
 II547_W http://www.openstreetmap.org/?lat=48.741644&lon=21.271205
-I50/I68 http://www.openstreetmap.org/?lat=48.722127&lon=21.275089
+PR3_S +I50/I68 http://www.openstreetmap.org/?lat=48.722127&lon=21.275089
 VysUvr http://www.openstreetmap.org/?lat=48.725312&lon=21.283758
 +X770 http://www.openstreetmap.org/?lat=48.721405&lon=21.291161
 II547_E http://www.openstreetmap.org/?lat=48.728907&lon=21.291847
