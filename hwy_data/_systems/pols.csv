@@ -1,6 +1,7 @@
 ﻿System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
 pols;POL;S1;;;Dąbrowa Górnicza;pol.s001;
-pols;POL;S1;;Sko;Skoczów;pol.s001sko;
+pols;POL;S1;;Bie;Bielsko-Biala;pol.s001bie;S69,S69Bie
+pols;POL;S1;;Mil;Milówka;pol.s001mil;S69Mil
 pols;POL;S2;;;;pol.s002;
 pols;POL;S3;;Ost;Ostromice;pol.s003ost;
 pols;POL;S3;;;Szczecin;pol.s003;S3Zie
@@ -18,7 +19,8 @@ pols;POL;S7;;Elb;Elbląg;pol.s007elb;S7Mil
 pols;POL;S7;;Ols;Olsztynek;pol.s007ols;
 pols;POL;S7;;Plo;Płońsk;pol.s007plo;
 pols;POL;S7;;NDw;Nowy Dwór Mazowiecki;pol.s007ndw;
-pols;POL;S7;;War;Warszawa;pol.s007war;
+pols;POL;S7;;NWa;(North) Warszawa;pol.s007nwa;
+pols;POL;S7;;War;(South) Warszawa;pol.s007war;
 pols;POL;S7;;;Białobrzegi;pol.s007;
 pols;POL;S7;;Kie;Kielce;pol.s007kie;
 pols;POL;S7;;Jed;Jedrzejow;pol.s007jed;
@@ -28,8 +30,7 @@ pols;POL;S7;;Lub;Lubień;pol.s007lub;
 pols;POL;S8;;Tyn;Tyniec Maly;pol.s008tyn;
 pols;POL;S8;;Ole;Oleśnica;pol.s008ole;
 pols;POL;S8;;Tom;Tomaszow Mazowiecki;pol.s008tom;
-pols;POL;S8;;War;Warszawa;pol.s008war;
-pols;POL;S8;;Zab;Zabki;pol.s008zab;
+pols;POL;S8;;War;Warszawa;pol.s008war;S8Zab
 pols;POL;S8;;;Wyszków;pol.s008;
 pols;POL;S8;;Ost;Ostrów Mazowiecka;pol.s008ost;
 pols;POL;S8;;Zam;Zambrów;pol.s008zam;
@@ -42,15 +43,15 @@ pols;POL;S11;;;Poznań;pol.s011;S11Rok
 pols;POL;S11;;Ost;Ostrów Wielkopolski;pol.s011ost;
 pols;POL;S12;;;;pol.s012;
 pols;POL;S14;;;;pol.s014;
+pols;POL;S16;;;;pol.s016;
 pols;POL;S17;;;;pol.s017;
 pols;POL;S17;;Kur;Kurów;pol.s017kur;
 pols;POL;S19;;;Kock;pol.s019;
 pols;POL;S19;;Rze;Rzeszów;pol.s019rze;
 pols;POL;S22;;;;pol.s022;
 pols;POL;S51;;;;pol.s051;
+pols;POL;S52;;;;pol.s052;S1Sko
 pols;POL;S61;;;;pol.s061;
-pols;POL;S69;;Bie;Bielsko-Biala;pol.s069;S69Bie
-pols;POL;S69;;Mil;Milówka;pol.s069mil;
 pols;POL;S74;;;;pol.s074;
 pols;POL;S79;;;;pol.s079;
 pols;POL;S86;;;;pol.s086;
