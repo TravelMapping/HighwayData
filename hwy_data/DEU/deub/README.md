@@ -1,17 +1,17 @@
-﻿DEU/DEUB
+﻿# DEU/DEUB
 
 
-FORUM THREAD:
+* FORUM THREAD:
 http://tm.teresco.org/forum/index.php?topic=289.0
 
 
-SOURCES:
+* SOURCES:
 https://de.wikipedia.org/wiki/Liste_der_Bundesstra%C3%9Fen_in_Deutschland
 http://www.bmvi.de/DE/VerkehrUndMobilitaet/Verkehrspolitik/Verkehrsinfrastruktur/Bundesverkehrswegeplan2030/InhalteHerunterladen/inhalte_node.html
 http://www.bast.de/DE/Verkehrstechnik/Fachthemen/v1-beverz/v1-berverz.html
 
 
-ADDITIONAL SOURCES BY STATES:
+* ADDITIONAL SOURCES BY STATES:
 BB
 http://isk.geobasis-bb.de/strassennetz/basiskarte.html
 BE
@@ -48,6 +48,6 @@ TH
 http://www.thueringen.de/th9/tlbv/service/strassenkarte/
 
 
-NOTES TO ROUTES:
-- B28 should be rerouted in "Mid 2016" but I couldn't find any reliable info how it should be changed and it seems that it's still discussed, no final decision.
+* NOTES TO ROUTES:
+- `B28` should be rerouted in "Mid 2016" but I couldn't find any reliable info how it should be changed and it seems that it's still discussed, no final decision.
 - Because of too many announced, expected and unexpected(!) rededications it's currently impossible to state that the network is completely mapped. The major stage of the rededication procedure was planned to be completed by the end of 2015 but it seems that many announced rededications are still not implemented. I'd like to wait till early 2017 for another review before activating the system. Nevertheless, you're welcome for a peer-review except checking that all relevant Bundesstraßen are included.
