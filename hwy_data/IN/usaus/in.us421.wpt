@@ -57,10 +57,11 @@ IN38_W http://www.openstreetmap.org/?lat=40.344091&lon=-86.567073
 IN26 http://www.openstreetmap.org/?lat=40.416894&lon=-86.594839
 CR600W http://www.openstreetmap.org/?lat=40.463242&lon=-86.635394
 IN18_E http://www.openstreetmap.org/?lat=40.547265&lon=-86.643934
-IN25_S http://www.openstreetmap.org/?lat=40.567448&lon=-86.658568
-IN25_N http://www.openstreetmap.org/?lat=40.586028&lon=-86.673975
+IN25 +IN25_S http://www.openstreetmap.org/?lat=40.567448&lon=-86.658568
+WasSt_N +IN25_N http://www.openstreetmap.org/?lat=40.586028&lon=-86.673975
 OldIN25 http://www.openstreetmap.org/?lat=40.583714&lon=-86.679962
-IN18_W http://www.openstreetmap.org/?lat=40.594338&lon=-86.731524
+HowSt http://www.openstreetmap.org/?lat=40.591307&lon=-86.700497
+IN18_W http://www.openstreetmap.org/?lat=40.593980&lon=-86.733541
 MainSt http://www.openstreetmap.org/?lat=40.667619&lon=-86.735473
 CR1100N http://www.openstreetmap.org/?lat=40.707808&lon=-86.740708
 AirRd http://www.openstreetmap.org/?lat=40.729503&lon=-86.761608
@@ -83,5 +84,5 @@ US6_W http://www.openstreetmap.org/?lat=41.535888&lon=-86.896663
 IN2_W http://www.openstreetmap.org/?lat=41.546745&lon=-86.897092
 IN2_E http://www.openstreetmap.org/?lat=41.562931&lon=-86.896963
 I-80/90 http://www.openstreetmap.org/?lat=41.593910&lon=-86.896791
-I-94 http://www.openstreetmap.org/?lat=41.658197&lon=-86.894045
+I-94 http://www.openstreetmap.org/?lat=41.658229&lon=-86.894002
 US20 http://www.openstreetmap.org/?lat=41.680348&lon=-86.893916

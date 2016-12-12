@@ -1,6 +1,7 @@
 ﻿System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
 pols;POL;S1;;;Dąbrowa Górnicza;pol.s001;
-pols;POL;S1;;Sko;Skoczów;pol.s001sko;
+pols;POL;S1;;Bie;Bielsko-Biala;pol.s001bie;S69,S69Bie
+pols;POL;S1;;Mil;Milówka;pol.s001mil;S69Mil
 pols;POL;S2;;;;pol.s002;
 pols;POL;S3;;Ost;Ostromice;pol.s003ost;
 pols;POL;S3;;;Szczecin;pol.s003;S3Zie
@@ -23,7 +24,6 @@ pols;POL;S7;;War;(South) Warszawa;pol.s007war;
 pols;POL;S7;;;Białobrzegi;pol.s007;
 pols;POL;S7;;Kie;Kielce;pol.s007kie;
 pols;POL;S7;;Jed;Jedrzejow;pol.s007jed;
-pols;POL;S7;;WKr;(West) Kraków;pol.s007wkr;
 pols;POL;S7;;EKr;(East) Kraków;pol.s007ekr;
 pols;POL;S7;;Lub;Lubień;pol.s007lub;
 pols;POL;S8;;Tyn;Tyniec Maly;pol.s008tyn;
@@ -46,12 +46,13 @@ pols;POL;S16;;;;pol.s016;
 pols;POL;S17;;;;pol.s017;
 pols;POL;S17;;Kur;Kurów;pol.s017kur;
 pols;POL;S19;;;Kock;pol.s019;
+pols;POL;S19;;Lub;Lublin;pol.s019lub;
 pols;POL;S19;;Rze;Rzeszów;pol.s019rze;
 pols;POL;S22;;;;pol.s022;
 pols;POL;S51;;;;pol.s051;
+pols;POL;S52;;;;pol.s052;S1Sko
+pols;POL;S52;;WKr;(West) Kraków;pol.s052wkr;S7WKr
 pols;POL;S61;;;;pol.s061;
-pols;POL;S69;;Bie;Bielsko-Biala;pol.s069;S69Bie
-pols;POL;S69;;Mil;Milówka;pol.s069mil;
 pols;POL;S74;;;;pol.s074;
 pols;POL;S79;;;;pol.s079;
 pols;POL;S86;;;;pol.s086;
