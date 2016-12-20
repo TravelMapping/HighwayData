@@ -2,6 +2,8 @@
 
 This repository is for raw data used by the Travel Mapping project.
 
+Please help us improve our data by reporting any problems you notice with the data in [the project forum](http://tm.teresco.org/forum).
+
 In general, the project's data is in plain text files in two formats: CSV using semicolon separators, and WPT or "waypoint" files.  WPT files are required to contain only plain ASCII text.  Some CSV files can include non-ASCII characters, but should always use a UTF-8 encoding when such characters are used.
 
 The project's data is organized herein as follows:
@@ -16,7 +18,7 @@ Several CSV files at the top level are used to describe some project-wide inform
 
 * `systemupdates.csv` lists the system-level changes being made to the project, such as highway system activations.
 
-* `updates.csv` lists the highway-level changes being made to routes in active systems within the project that could affect users.  Minor changes such as point relabelings or recenterings that do not require users to make any changes to their list files are not included here.
+* `updates.csv` lists the highway-level changes being made to routes in active systems within the project that could affect users.  Minor changes such as point relabelings or recenterings that do not require users to make any changes to their list files are not included here. Please keep this file sorted by region (ascending) and the by date (descending) within each region.
 
 The `chm_final` directory contains an archive of the version of the project's data that was imported from the Clinched Highway Mapping project as a starting point for Travel Mapping.  It remains for historical interest only and is not used by Travel Mapping.
 
