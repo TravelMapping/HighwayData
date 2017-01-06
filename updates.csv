@@ -22,6 +22,8 @@
 2015-09-16;Austria;S10 (Neumarkt);aut.s010neu;New Route
 2015-09-16;Austria;S10 (Unterwogern);aut.s010unt;New Route
 2015-09-16;Austria;S35;aut.s035;Route extended at north end from exit 0 to B116
+2016-12-30;Belarus;M14;blr.m014;Route extended at south end from M6 to M1
+2016-12-30;Belarus;MKAD2;blr.mkad2;Route extended at south end from M6 to M1
 2016-05-01;Belarus;Minsk - Kobrin Aŭtamabіĺnaja;blr.minkobaut;New Route
 2016-05-01;Belarus;Minsk - Orsha Aŭtamabіĺnaja;blr.minorsaut;New Route
 2016-05-01;Belarus;Mіnskaja Kaĺcavaja Aŭtamabіĺnaja Daroha;blr.mkad;New Route
@@ -86,6 +88,7 @@
 2016-11-19;(Canada) Nova Scotia;TCH (Main);ns.tchmai;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-02-27;(Canada) Nova Scotia;NS 255;ns.ns255;Removed from a closed roadway and demolished bridge, and relocated onto a new parallel roadway and bridge to the east between points labeled *OldNS255_N and *OldNS255_S
 2016-01-02;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from partially-closed local roads through Port Joli and East Port L'Hebert, and relocated onto a limited-access bypass to the north, between closed intersections labeled *OldNS103_PJo and *OldNS103_EPL
+2016-12-27;(Canada) Ontario;ON 8;on.on008;Extended at southern end from the interchange with RR 8 (King Street) to ON 401 along the Freeport Diversion
 2016-06-24;(Canada) Ontario;ON 407;on.on407;Extended at eastern end from Exit 105 (Brock Road, former ON 7 intersection) to Exit 127 (Harmony Road)
 2016-06-24;(Canada) Ontario;ON 412;on.on412;Added Route
 2016-06-24;(Canada) Ontario;ON 7;on.on007;Removed from a now closed alignment just to the east of Brougham, and moved onto a new alignment to the north between the intersections of Mowbray Street (formerly Brock Road) and the old alignment of ON 7 (*OldON7)
@@ -237,22 +240,7 @@
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 67 and 69
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between Yt1792 and exit 72 
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 81 and 85
-2015-09-09;(FRA) France;Antenne de Saran;fra.d2701;New Route
-2015-09-09;(FRA) France;Boulevard Laurent Bonnevay, Lyon;fra.d383;New Route
-2015-09-09;(FRA) France;Boulevard Péripherique Est de Lille;fra.d651;New Route
-2015-09-09;(FRA) France;Boulevard Péripherique, Paris;fra.bp;New Route
-2015-09-09;(FRA) France;Boulevard Urbain Sud, Lyon;fra.d301;New Route
-2015-09-09;(FRA) France;Le Fil d'Ariane, Toulouse;fra.d901;New Route
-2015-09-09;(FRA) France;Lyon Tangent Est-Ost;fra.teo;New Route
-2015-09-09;(FRA) France;Péripherique de Tours;fra.d037;New Route
-2015-09-09;(FRA) France;Rocade Arc-en-Ciel, Toulouse;fra.d980;New Route
-2015-09-09;(FRA) France;Rocade Nord Ouest, Lille;fra.d652;New Route
-2015-09-09;(FRA) France;Route de Luxeuil, Lure;fra.d064;New Route
-2015-09-09;(FRA) France;Tunnel du Prado, Marseille;fra.tunpra;New Route
-2015-09-09;(FRA) France;Voie Express La Pyrénéenne;fra.d001;New Route
-2015-09-09;(FRA) France;Voie Express Rennes - St Malo;fra.d137;New Route
-2015-09-09;(FRA) France;Voie Lactée, Toulouse;fra.d902;New Route
-2015-09-09;(FRA) France;Voie Rapide Urbane, Roubaix;fra.d656;New Route
+2016-12-30;France;N7;fra.n007;Route removed from D707 and relocated onto Varennes-sur-Allier bypass between D707 and D23
 2016-12-04;France;A507;fra.a507;New Route
 2016-12-04;France;N547;;Route deleted (merged into A507)
 2016-10-22;France;N104;fra.n104;Route extended at west end from A10 to N118
@@ -262,6 +250,22 @@
 2016-05-01;France;N2162;;Route merged into N162
 2016-01-05;France;Rocade Est du Calais;fra.rocest;New Route
 2016-01-04;France;E25 (Bastia);frh.e25;Route deleted (renamed as Corsica E25)
+2015-09-09;France;Antenne de Saran;fra.d2701;New Route
+2015-09-09;France;Boulevard Laurent Bonnevay, Lyon;fra.d383;New Route
+2015-09-09;France;Boulevard Péripherique Est de Lille;fra.d651;New Route
+2015-09-09;France;Boulevard Péripherique, Paris;fra.bp;New Route
+2015-09-09;France;Boulevard Urbain Sud, Lyon;fra.d301;New Route
+2015-09-09;France;Le Fil d'Ariane, Toulouse;fra.d901;New Route
+2015-09-09;France;Lyon Tangent Est-Ost;fra.teo;New Route
+2015-09-09;France;Péripherique de Tours;fra.d037;New Route
+2015-09-09;France;Rocade Arc-en-Ciel, Toulouse;fra.d980;New Route
+2015-09-09;France;Rocade Nord Ouest, Lille;fra.d652;New Route
+2015-09-09;France;Route de Luxeuil, Lure;fra.d064;New Route
+2015-09-09;France;Tunnel du Prado, Marseille;fra.tunpra;New Route
+2015-09-09;France;Voie Express La Pyrénéenne;fra.d001;New Route
+2015-09-09;France;Voie Express Rennes - St Malo;fra.d137;New Route
+2015-09-09;France;Voie Lactée, Toulouse;fra.d902;New Route
+2015-09-09;France;Voie Rapide Urbane, Roubaix;fra.d656;New Route
 2015-08-20;France;A344;fra.a344;New Route (formerly A444)
 2015-08-20;France;A350;;Route deleted
 2015-08-20;France;A444;;Route renamed A344
@@ -366,6 +370,8 @@
 2015-09-10;Germany;A524;deu.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;Germany;A544;deu.a544;Route re-entered
 2015-09-10;Germany;A562;deu.a562;Route re-entered
+2016-12-30;Greece;A5;grc.a005;Route extended at north end from exit 9 to exit 10
+2016-12-30;Greece;A7;grc.a007;Route extended at south end from exit 21 to EO82
 2016-11-23;Greece;A7;grc.a007;Route extended at south end from exit 18 to exit 21
 2016-08-29;Greece;A8;grc.a008;Route extended at west end from exit 13 to Epar. Od. Sikionas - Nemeas
 2016-04-17;Greece;A71;grc.a071;New Route
@@ -404,6 +410,7 @@
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2016-12-30;Hungary;F813;hun.f813;Route extended at north end from southern junction with Audi Ut to F1
 2016-11-02;Hungary;E66;hun.e66;Route removed off F801 and F7, and relocated onto F8 between F801 junction and junction with eastwards F7.
 2016-10-26;Hungary;E65;hun.e65;Route removed off F86, and relocated onto M86, between M86 exits 105 and 140
 2016-10-26;Hungary;M86;hun.m086;Route extended at northeast end from exit 105 to exit 150
@@ -510,6 +517,7 @@
 2015-08-25;Italy;Tangenziale di Bologna;;Route renamed RA1
 2015-08-25;Italy;Tangenziale di Bologna (Borgo Panigale);;Route renamed RA1 (Borgo Panigale)
 2015-08-25;Italy;Tangenziale di Catania;;Renamed RA15
+2016-12-30;Israel;F20;isr.f020;Route extended at north end from exit 20 to exit 22
 2016-03-28;Jamaica;T3;jam.t003;Route extended at north end from temporary terminus with A1 at Monleague to the A3.
 2016-03-11;Jamaica;T3;jam.t003;Route extended at south end from the A1 at Angels to the A1 at Caymanas
 2016-02-07;Jamaica;T3;jam.t003;Route extended at south end from A1 at Linstead to A1 at Spanish Town
@@ -593,6 +601,7 @@
 2015-10-08;Latvia;E22;lva.e22;Route removed from P136 and relocated onto A12 between P136 and P52_W
 2015-10-08;Latvia;E22;lva.e22;Route removed from A6 and relocated onto A4, P5 and P80 between A4/A6 junction and A6/P80 junction (includes former Turkane section)
 2015-10-08;Latvia;E22;lva.e22tur;Route merged into main E22
+2016-12-30;Lithuania;E272;ltu.e272;Route removed from Laisves Prospect and relocated onto Vakrinis Aplinkkelis (Vilnius Western Bypass) between A2_S and E85
 2016-01-05;Lithuania;Kaunas - Klapieda Greitkelio;ltu.kauklagre;New Route
 2016-01-05;Lithuania;Vilnius - Kaunas Greitkelio;ltu.vilkaugre;New Route
 2016-01-05;Lithuania;Vilnius - Panevezys Greitkelio;ltu.vilpangre;New Route
@@ -620,6 +629,8 @@
 2015-07-28;Netherlands;A261;;Route deleted
 2015-07-28;Netherlands;A4 (Bergen op Zoom);nld.a004ber;Route extended at north end from N259 to A29/A59, including Dinteloord section
 2015-07-28;Netherlands;A4 (Dintleloord);;Route merged with Bergen op Zoom section
+2016-12-30;Norway;E6 (Kirkenes);nor.e6kir;Route removed from Kraknesveien and relocated through Melsviktunnelen between 'KraVei_W' and 'KraVei_E'
+2016-12-30;Norway;Rv4;nor.rv004;Route removed from route through Gran and relocated onto bypass between Oslolinna (OsloLin) and Fv53
 2016-07-31;Norway;E6 (Trondheim);;Route deleted
 2016-06-08;Norway;Oslo - Kristiansand Motorvei (Kristiansand);nor.oslokrimotkri;New Route
 2016-06-08;Norway;Oslo - Kristiansand Motorvei (Oslo);nor.oslokrimot;New Route
@@ -650,7 +661,11 @@
 2015-07-24;Norway;E39 (Kvivstunnelen);nor.e39kvi;New Route
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route 
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route 
-2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route 
+2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2016-12-30;Poland;DK74;pol.dk074;Route removed from road through Belchatow and relocated onto bypass, between Nowy Swiat and Dobrzelow
+2016-12-30;Poland;E67;pol.e67;Route removed from former DK8 and relocated onto S8 Mezenin bypass between '*Mez' and DK679
+2016-12-30;Poland;S7 (Elblag);pol.s007elb;Route extended at south end from Ulisca Twarda to DW530
+2016-12-30;Poland;S8 (Zambrow);pol.s008zam;Route extended at north end from former junction at Wis to DW679
 2016-12-09;Poland;DK19 (Kraśnik);pol.dk019kra;New Route (consisting of bulk of former Lublin section)
 2016-12-09;Poland;DK19 (Lubartów);pol.dk019lub;Route truncated at southern end from Stobierna to S12/S17, and renamed from Lublin to Lubartów
 2016-12-09;Poland;S19 (Lublin);pol.s019lub;New Route
@@ -736,6 +751,7 @@
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2016-12-30;Romania;DN VO1K;rou.dnvo1k;New Route (Centura Brasov)
 2015-12-23;Romania;A1 (Arad);rou.a001ara;Route extended at east end from the DN6 to the DN68A at Dumbrava
 2015-12-23;Romania;A1 (Lugoj);;Route deleted (merged into Arad section)
 2015-07-28;Romania;A1 (Arad);rou.a001ara;Route extended at west end from A11 to Hungarian border
@@ -819,6 +835,8 @@
 2015-08-20;Slovakia;R6;svk.r006;Route truncated at north end from II507 to I49
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
+2016-12-30;Spain;BU30;esp.bu030;Route re-entered as road completed
+2016-12-30;Spain;FV1;esp;fv001;New Route
 2016-09-11;Spain;AP2;esp.ap002;Route truncated at east end from B23 exit 10 to AP7
 2016-09-11;Spain;B23;esp.b023;Route extended at north end from exit 10 to AP7
 2016-08-07;Spain;GC3;esp.gc003;Route extended at north end from GC300 to GC20
@@ -1193,8 +1211,8 @@
 2015-11-17;(USA) Hawaii;HI 380;hi.hi380;Route relocated from closed Dairy Rd. segment between waypoints AirAccRd and PakSt_N, onto parts of Airport Access Rd. and Pakaula St.
 2015-08-03;(USA) Idaho;ID16;id.id016;Route extended at south end from ID44 to US20/26
 2016-12-21;(USA) Illinois;US 67;il.us067;Relocated intersection with IL3 and IL 111 eastward to Alton Square Mall Drive, removing IL3/111 label, new intersection OldIL3/111
-2016-12-21;(USA) Illinois;IL 3;il.il003;Relocated intersection with US 67 eastward to Alton Square Mall Drive, removing US67 label, new intersection OldUS67
-2016-12-21;(USA) Illinois;IL 111;il.il111;Relocated intersection with US 67 eastward to Alton Square Mall Drive, removing US67 label, new intersection OldUS67
+2016-12-21;(USA) Illinois;IL 3;il.il003;Relocated intersection with US 67 eastward to Alton Square Mall Drive, removing US67 label, new intersection ToUS67
+2016-12-21;(USA) Illinois;IL 111;il.il111;Relocated intersection with US 67 eastward to Alton Square Mall Drive, removing US67 label, new intersection ToUS67
 2016-07-14;(USA) Illinois;IL 116;il.il116;Corrected route on Old US 66 in Pontiac between Reynolds Street and Ladd Street. Relocated point IL23
 2016-07-14;(USA) Illinois;IL 23;il.il023;Corrected endpoint from Ladd Street to IL 116/Old US 66 in Pontiac
 2016-06-29;(USA) Illinois;US 34;il.us034;Removed from County Road 1500N and IL 94 between 1400E and 1850E and relocated onto new four-lane south of Biggsville
@@ -1316,6 +1334,7 @@
 2015-11-13;(USA) Massachusetts;MA 138;ma.ma138;Removed from the Brightman Street Bridge and MA 103, and relocated onto the Veterans Memorial Bridge between MA 79 and MA 103
 2015-11-13;(USA) Massachusetts;MA 79;ma.ma079;Waypoint US6 moved from Brightman Street to the Veterans Memorial Bridge
 2015-11-13;(USA) Massachusetts;US 6;ma.us006;Removed from Grand Army of the Republic Highway and the Brightman Street Bridge, and relocated onto the Veterans Memorial Bridge between a point labeled *OldUS6 and MA 79
+2016-12-26;(USA) Michigan;MI 5;mi.mi005;Extended at eastern end from I-96 exit 185 to Cass Ave in Detroit
 2016-11-24;(USA) Michigan;I-94 Business (Battle Creek);mi.i094blbat;Moved from Martin Luther King Jr Dr and Dickman Rd onto Columbia Ave and Helmer Rd between Martin Luther King Jr Dr and Dickman Rd
 2016-11-24;(USA) Michigan;MI 37;mi.mi037;Moved from Martin Luther King Jr Dr and Dickman Rd onto Columbia Ave, Helmer Rd, and Dickman Rd between Martin Luther King Jr Dr and western Dickman Rd/Helmer Rd intersection in Battle Creek
 2016-09-18;(USA) Michigan;US41;mi.us041;Extended north from FortWilSP to ManRd_N
@@ -1391,7 +1410,7 @@
 2016-12-12;(USA) North Carolina;I-295 Future (Fayetteville);nc.i295futfay;route extended to All American Frwy
 2016-12-12;(USA) North Carolina;NC 295;nc.nc295;route extended to All American Frwy
 2016-11-14;(USA) North Carolina;NC 295;nc.nc295;Added route
-2016-11-14;(USA) North Carolina;US 501;nc.us501;rerouted to new construction north of Roxboro
+2016-11-14;(USA) North Carolina;US 501;nc.us501;rerouted to new construction north of Roxboro between MainSt (was NC49) and BosRd
 2016-10-01;(USA) North Carolina;I-295 Future (Fayettevile);nc.i295futfay;route extended to NC 24-87 Bragg Blvd
 2016-08-06;(USA) North Carolina;NC 37;nc.nc037;Route extended south with NC 32 and new construction to US 64
 2016-08-06;(USA) North Carolina;US 401;nc.us401;Route moved to new bypass of Rolesville
@@ -1464,6 +1483,7 @@
 2015-09-10;(USA) Oklahoma;Muskogee Turnpike;;Deleted route. Renamed to OK 351.
 2015-09-10;(USA) Oklahoma;OK 351;ok.ok351;Added route. Renamed from Muskogee Turnpike.
 2015-09-10;(USA) Oklahoma;OK 364;ok.ok364;Added route. Renamed from Creek Turnpike.
+2017-01-03;(USA) Pennsylvania;PA 903;pa.pa903;Removed from West Front Street, River Street, and the now demolished old bridge across the Lehigh River in Jim Thorpe, and rerouted 1,000ft north across the Lehigh River on a new bridge alignment between the intersections of PA 903 (North Street)/West Front Street (FroSt) and US 209.
 2016-07-25;(USA) Pennsylvania;PA 902;pa.pa902;Removed from North/South Chestnut Street and East Amidon Street in Summit Hill, and rerouted along East North Street & North/South Pine Street between the intersections of PA 902 (East North Street)/North Chestnut Street and PA 902 (East Amidon Street)/South Pine Street
 2016-01-28;(USA) Pennsylvania;PA 441;pa.pa441;Removed from Locust St and 3rd St and relocated onto a newly-constructed northerly extension of Front St, between Locust St and US 30
 2015-12-29;(USA) Pennsylvania;PA 980;pa.pa980;Removed from a closed roadway parallel to the Montour Trail to the southwest, and relocated onto a direct beeline connection between the new four-way intersection at PA 50 and a closed intersection, labeled *OldPA980, about 160 feet south.
@@ -1557,6 +1577,8 @@
 2016-05-15;(USA) Virginia;I-95;va.i095;previous Exit 74B is actually 74C in the field and a new point for actual 74B was added
 2015-10-27;(USA) Virginia;US 460 Business (Grundy);va.us460busgru;New route
 2015-10-27;(USA) Virginia;US 460 (Tazewell);va.us460taz;In Grundy, moved from part of Riverside Dr. (now US 460 Business) east to new divided highway
+2017-01-03;(USA) Washington;WA 103;wa.wa103;Extended at northern end from Leadbetter Point SP boundary to actual end of state highway in park
+2017-01-03;(USA) Washington;WA 100 Spur (Fort Canby);wa.wa100sprfor;Route added
 2016-11-26;(USA) Washington;WA 823;wa.wa823;Removed from 1st Street and Naches Avenue, and relocated onto Jim Clements Way between 1st Street and Naches Avenue
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quary Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
