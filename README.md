@@ -18,7 +18,7 @@ Several CSV files at the top level are used to describe some project-wide inform
 
 * `systemupdates.csv` lists the system-level changes being made to the project, such as highway system activations.
 
-* `updates.csv` lists the highway-level changes being made to routes in active systems within the project that could affect users.  Minor changes such as point relabelings or recenterings that do not require users to make any changes to their list files are not included here.
+* `updates.csv` lists the highway-level changes being made to routes in active systems within the project that could affect users.  Minor changes such as point relabelings or recenterings that do not require users to make any changes to their list files are not included here. Please keep this file sorted by region (ascending) and the by date (descending) within each region.
 
 The `chm_final` directory contains an archive of the version of the project's data that was imported from the Clinched Highway Mapping project as a starting point for Travel Mapping.  It remains for historical interest only and is not used by Travel Mapping.
 
