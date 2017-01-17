@@ -1,4 +1,4 @@
-﻿YYYY-MM-DD;Country;Route;Root;Description
+YYYY-MM-DD;Country;Route;Root;Description
 2016-03-12;Albania;A1 (Thumane);alb.a001thu;New Route
 2016-03-12;Albania;A3;;Route Deleted
 2016-03-12;Albania;A3 (Dobresh);alb.a003dob;New Route
@@ -288,6 +288,9 @@
 2015-07-25;France;E70;fra.e70;Removed from A72, N488, N88, A47, A46 and A43, and relocated to A89, N489, N6, A6, A466, A46 and A432 between A72/A89 junction and A43/A432 junction
 2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
+2017-01-15;Germany;A44;deu.a448wit;Route renamed to A448 including new exit numbering 8 to 12 instead of 42 to 46
+2017-01-15;Germany;A448;deu.a448;Route extended at eastern end from exit 5 to 6
+2017-01-15;Germany;L705 Bochumer Ring;deu.l705;Route truncated at western end from exit 5 to 6
 2016-10-21;Germany;E54;deu.e54;Route moved from B31n to B31
 2016-09-21;Germany;Autobahnzubringer Berlin-Schmargendorf;deu.autzubsch;New Route
 2016-09-21;Germany;Hannoversche Straße Erfurt;deu.k035;New Route
@@ -633,7 +636,7 @@
 2015-07-28;Netherlands;A261;;Route deleted
 2015-07-28;Netherlands;A4 (Bergen op Zoom);nld.a004ber;Route extended at north end from N259 to A29/A59, including Dinteloord section
 2015-07-28;Netherlands;A4 (Dintleloord);;Route merged with Bergen op Zoom section
-2017-01-09;Norway;E6;nor.e6;Route removed from new Fv312 and relocated onto new-build alignment between exits 91 and 94
+2017-01-09;Norway;E6;nor.e6;Route removed from the now-Fv312 and relocated onto new-build grade-separated alignment between Fv27 and Fv257
 2016-12-30;Norway;E6 (Kirkenes);nor.e6kir;Route removed from Kraknesveien and relocated through Melsviktunnelen between 'KraVei_W' and 'KraVei_E'
 2016-12-30;Norway;Rv4;nor.rv004;Route removed from route through Gran and relocated onto bypass between Oslolinna (OsloLin) and Fv53
 2016-07-31;Norway;E6 (Trondheim);;Route deleted
@@ -840,6 +843,7 @@
 2015-08-20;Slovakia;R6;svk.r006;Route truncated at north end from II507 to I49
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
+2017-01-12;Spain;CM43;esp.cm043;Route extended from exit 13 to CM4001
 2016-12-30;Spain;BU30;esp.bu030;Route re-entered as road completed
 2016-12-30;Spain;FV1;esp;fv001;New Route
 2016-09-11;Spain;AP2;esp.ap002;Route truncated at east end from B23 exit 10 to AP7
@@ -1176,6 +1180,9 @@
 2016-04-17;(USA) Alabama;US 431;al.us431;Relocated onto the Anniston Eastern Bypass and a 3-mile leg of I-20
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2017-01-12;(USA) Arkansas;US 67 Business (Hoxie);ar.us067buswal;Renamed to US 67 Business (Walnut Ridge)
+2017-01-12;(USA) Arkansas;US 67 Business (Walnut Ridge);ar.us067buswal;Renamed from US 67 Business (Hoxie). South end truncated from US 63 to US 412. North end removed from Dunlap Ln and relocated onto a realigned T-intersection to the southeast, between Dunlap Ln and US 67.
+2017-01-12;(USA) Arkansas;US 67 Spur (Walnut Ridge);ar.us067sprwal;Route added
 2016-12-01;(USA) Arkansas;US 62 Spur (Pyatt);ar.us062sprpya;Added route
 2016-08-12;(USA) Arkansas;US 67;ar.us067;Removed from AR 226, AR 367 and US63, and relocated onto a divided freeway between AR 226 and US63
 2016-03-11;(USA) Arkansas;I-555;ar.i555;Added route. Renamed from I-555 Future (Jonesboro).
