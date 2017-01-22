@@ -10,3 +10,4 @@
 
 **NOTES TO ROUTES:**
 - `N8` route through Ieper is not signed (GSV/OSM)
+- `N62` is not signed on the Spa-Francorchamps Circuit bypass (GM indicates N62, OSM N62c)
