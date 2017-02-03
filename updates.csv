@@ -1,4 +1,4 @@
-YYYY-MM-DD;Country;Route;Root;Description
+﻿YYYY-MM-DD;Country;Route;Root;Description
 2016-03-12;Albania;A1 (Thumane);alb.a001thu;New Route
 2016-03-12;Albania;A3;;Route Deleted
 2016-03-12;Albania;A3 (Dobresh);alb.a003dob;New Route
@@ -28,6 +28,8 @@ YYYY-MM-DD;Country;Route;Root;Description
 2016-05-01;Belarus;Minsk - Orsha Aŭtamabіĺnaja;blr.minorsaut;New Route
 2016-05-01;Belarus;Mіnskaja Kaĺcavaja Aŭtamabіĺnaja Daroha;blr.mkad;New Route
 2016-05-01;Belarus;Mіnskaja Kaĺcavaja Aŭtamabіĺnaja Daroha 2;blr.mkad2;New Route
+2017-01-22;Belgium;A11;bel.a011;Route extended at west end from exit 14 to N49
+2017-01-22;Belgium;A17;bel.a017;Route extended at north end from A10 to N31
 2016-01-12;Belgium;A112;bel.a112;Route extended at north end from E34/R1 to N113/R10
 2016-01-12;Belgium;A13;bel.a013;Route extended at west end from exit 17 to R10
 2016-01-12;Belgium;E420;bel.e420;Route reentered between exit 27 of the N54 and the N576
@@ -208,13 +210,6 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-10-17;Denmark;Sydmotorvejen;dnk.sydmot;New Route
 2015-10-17;Denmark;Taulovmotorvejen;dnk.taumot;New Route
 2015-10-17;Denmark;Vestmotorvejen;dnk.vestmot;New Route
-2016-03-09;England;A1174;eng.a1174;Route truncated at west end from A1035/A1079 to A1035
-2016-03-09;England;A1341;eng.a1341;New Route
-2016-03-09;England;A164;eng.a0164;Route removed from Victoria Road and Molescroft Road and relocated onto Minster Way, Swinemoor Lane and Grange Way between Victoria Road (VicRd_N) and the western junction A1035
-2016-03-09;England;A2690;eng.a2690;Route extended at east end from B2092 to A2100
-2016-03-09;England;A5020;eng.a5020;Route removed from Weston Road and relocated onto David Whitby Way between A500 and A532
-2016-03-09;England;A589;eng.a0589;Route extended at east end from A6 to M6
-2015-09-15;England;Kearsley Spur;eng.keaspr;New Route
 2016-11-23;Finland;Kt67;fin.kt067;Route extended at west end from St624 to Vt19
 2016-11-23;Finland;Vt19;fin.vt019;Route removed from St624 and Kt67 and relocated onto Seinajoki bypass between exits 4 and 9
 2015-10-21;Finland;Imatran moottoritie;fin.imamoo;New Route
@@ -597,7 +592,8 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E123;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E125;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan (Alekseevka);E125;;Deleted route
-2017-01-09;Kosovo;R7.1;rks.r0071;New route
+2017-01-25;Kosovo;R7.1;;Deleted route
+2017-01-09;Kosovo;R7.1;;New route
 2017-01-09;Kosovo;E65;rks.e65;Route removed from N2 and relocated onto the R6 and R7 between R7/N2 junction and R6/N2 junction
 2017-01-09;Kosovo;E851;rks.e851;Route removed from N25 between R7 exit 5 and the N2, and relocated onto R7 and N9 between R7 exit 5 and the R6
 2016-12-31;Kosovo;R6;rks.r006;New route
@@ -617,6 +613,7 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
+2017-01-28;Netherlands;A2;nld.a002;North end moved from President Kennedylaan to Joan Muyskenweg, truncated segment is 'S110Ams' now
 2016-12-18;Netherlands;A2;nld.a002;Route extended at south end from exit 53, new alignment (lower tunnel) between exit 53 and 54
 2016-12-18;Netherlands;A2 (Maastricht);;Route merged into main route
 2016-12-18;Netherlands;N2;nld.n002maa;Route extended at north end to A2 exit 52, new alignment (upper tunnel), old route is city road now and will be demolished
@@ -814,7 +811,8 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
-2016-03-09;Scotland;A82;sct.a0082;Route removed from Glenfalloch Road and relocated onto Crianlarich bypass between Glenfalloch Road and eastern junction with A85
+2017-01-22;Serbia;A1 (Jagodina);srb.a001;Route extended at south end from closed exit 52 to exit 53
+2017-01-22;Serbia;A1 (Vranje);srb.a001vra;Route truncated at north end from north of Vladicin Han to south of Vladicin Han
 2016-11-08;Serbia;A2;srb.a002;New Route
 2016-02-02;Serbia;E80;srb.e80;Removed from B44 (now R259) and relocated onto A4 between 'BelaPal_W' and 'BelaPal_E'
 2015-12-02;Serbia;E75;srb.e75;Route removed from B44 and relocated onto A1 between A1 exits 55 and 59
@@ -845,7 +843,7 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-07-24;Slovenia;H6;svn.h006;New Route
 2017-01-12;Spain;CM43;esp.cm043;Route extended from exit 13 to CM4001
 2016-12-30;Spain;BU30;esp.bu030;Route re-entered as road completed
-2016-12-30;Spain;FV1;esp;fv001;New Route
+2016-12-30;Spain;FV1;esp.fv001;New Route
 2016-09-11;Spain;AP2;esp.ap002;Route truncated at east end from B23 exit 10 to AP7
 2016-09-11;Spain;B23;esp.b023;Route extended at north end from exit 10 to AP7
 2016-08-07;Spain;GC3;esp.gc003;Route extended at north end from GC300 to GC20
@@ -1105,6 +1103,14 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2017-01-27;(UK) England;A3029;eng.a3029;Route extended at south end from A38 to A4174
+2017-01-27;(UK) England;A4174;eng.a4174;Route truncated at south end from A38 to A3029 and extended at south end along South Bristol Link from A3029 to A370
+2017-01-25;(UK) England;A6;eng.a0006;Route removed from Telford Way and put on the Gateway Link Road, Luton between the A505 and A5228
+2017-01-25;(UK) England;A12;eng.a0012;Route truncated at north end from A47/A149 junction at Great Yarmouth to northern A47 junction in Lowestoft
+2017-01-25;(UK) England;A12 (Lowestoft);;Route merged into main A12
+2017-01-25;(UK) England;A47;eng.0047;Route extended at east end from A149 junction at Great Yarmouth to southern A12 junction in Lowestoft
+2017-01-25;(UK) England;A1194;eng.a1194;New Route
+2017-01-25;(UK) England;A1270;eng.a1270;New Route
 2016-10-31;(UK) England;A683;eng.a0683;Removed from Morecambe Road and Caton Road, and relocated onto The Bay Gateway, between eastern junction with the A589 and junction with the M6
 2016-08-31;(UK) England;M25 SPUR (Orpington);eng.m025sprorp;New Route
 2016-08-31;(UK) England;M56 SPUR (Bowdon);eng.m056sprbow;New Route
@@ -1123,9 +1129,17 @@ YYYY-MM-DD;Country;Route;Root;Description
 2016-04-27;(UK) England;A600;eng.a0600;Route extended at north end from Union Street to A6
 2016-04-21;(UK) England;A2039;eng.a2039;New Route
 2016-03-24;(UK) England;A6182;eng.a6182;Route extended at south end from M18 to A638
+2016-03-09;(UK) England;A1174;eng.a1174;Route truncated at west end from A1035/A1079 to A1035
+2016-03-09;(UK) England;A1341;eng.a1341;New Route
+2016-03-09;(UK) England;A164;eng.a0164;Route removed from Victoria Road and Molescroft Road and relocated onto Minster Way, Swinemoor Lane and Grange Way between Victoria Road (VicRd_N) and the western junction A1035
+2016-03-09;(UK) England;A2690;eng.a2690;Route extended at east end from B2092 to A2100
+2016-03-09;(UK) England;A5020;eng.a5020;Route removed from Weston Road and relocated onto David Whitby Way between A500 and A532
+2016-03-09;(UK) England;A589;eng.a0589;Route extended at east end from A6 to M6
+2016-01-01;(UK) England;Great Britain A Roads;gbna;Added routes beginning with a 1 and 6
 2015-12-17;(UK) England;A3022;eng.a3022;Route extended at north end from Torquay Road (formerly A380) to new A380 (at South Devon Link Road)
 2015-12-17;(UK) England;A380;eng.a0380;Route removed from Torquay Road in Kingkerswell and relocated onto South Devon Link Road between A381_W and A3022
 2015-09-16;(UK) England;A5115;eng.a5115;Route extended at south end from A41 to A55
+2015-09-15;(UK) England;Kearsley Spur;eng.keaspr;New Route
 2015-09-09;(UK) England;Heathrow Terminal 5 Spur;eng.t5spur;New Route
 2015-09-09;(UK) England;Tunnel Road, Heathrow;eng.tunrd;New Route
 2015-08-20;(UK) England;A5758;eng.a5758;New Route
@@ -1155,6 +1169,8 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2016-09-29;(UK) Scotland;A8(M);sct.a008m;New Route
+2016-03-09;(UK) Scotland;A82;sct.a0082;Route removed from Glenfalloch Road and relocated onto Crianlarich bypass between Glenfalloch Road and eastern junction with A85
+2016-01-01;(UK) Scotland;Great Britain A Roads;gbna;Added routes beginning with a 1, 6, 8 and 9
 2015-07-25;(UK) Scotland;A700;sct.a0700;Route truncated at north end from A8 to A702 
 2015-07-25;(UK) Scotland;A702;sct.a0702;Route extended at north end from A700 to A90
 2015-07-25;(UK) Scotland;E16;sct.e16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
@@ -1171,15 +1187,15 @@ YYYY-MM-DD;Country;Route;Root;Description
 2016-01-05;Ukraine;Avtostrada Kiev - Boryspil;ukr.avtkievbor;New Route
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
-2015-07-24;(Ukraine) Ukraine;E105;ukr.e105;Route truncated at south end from Moskovska Vulytsia to the border with Crimea autonomous region
-2015-07-24;(Ukraine) Ukraine;E97;ukr.e97;Route truncated at south end from the Kerch - Port Kavkaz Ferry to the border with Crimea autonomous region
-2016-01-01;United Kingdom;Great Britain A Roads;;Added routes beginning with a 1, 6, 8 and 9.
+2015-07-24;Ukraine;E105;ukr.e105;Route truncated at south end from Moskovska Vulytsia to the border with Crimea autonomous region
+2015-07-24;Ukraine;E97;ukr.e97;Route truncated at south end from the Kerch - Port Kavkaz Ferry to the border with Crimea autonomous region
 2016-07-30;(USA) Alabama;US 331 Alternate (Opp);;Route deleted
 2016-07-30;(USA) Alabama;US 82;al.us082;Removed from AL 25 and AL 382 and relocated onto the northeastern Centreville bypass between AL 25 North and CR 20
 2016-07-30;(USA) Alabama;US 84 Business (Opp);;Route deleted
 2016-04-17;(USA) Alabama;US 431;al.us431;Relocated onto the Anniston Eastern Bypass and a 3-mile leg of I-20
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2017-01-31;(USA) Arkansas;US 64 Business (Wynne);ar.us064buswyn;West end truncated from US 64 at North Falls Boulevard (AR 1) to AR 1.
 2017-01-12;(USA) Arkansas;US 67 Business (Hoxie);ar.us067buswal;Renamed to US 67 Business (Walnut Ridge)
 2017-01-12;(USA) Arkansas;US 67 Business (Walnut Ridge);ar.us067buswal;Renamed from US 67 Business (Hoxie). South end truncated from US 63 to US 412. North end removed from Dunlap Ln and relocated onto a realigned T-intersection to the southeast, between Dunlap Ln and US 67.
 2017-01-12;(USA) Arkansas;US 67 Spur (Walnut Ridge);ar.us067sprwal;Route added
@@ -1406,6 +1422,9 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2017-02-02;(USA) New York;NY 430;ny.ny430;East end removed from Fluvanna Ave between Washington St and NY 60, and relocated onto Washington St between Fluvanna Ave and NY 60/394
+2017-02-02;(USA) New York;NY 191;ny.ny191;Deleted route
+2017-01-22;(USA) New York;NY 352;ny.ny352;Eastbound alignment removed from Water Street between Madison Avenue and I-86 (Exit 56), and relocated onto Madison Avenue and Church Street between Water Street and I-86 (Exit 56). Westbound alignment remains on Church Street as before.
 2017-01-19;(USA) New York;US 202;ny.us202;Removed from Division Street and Crompond Road, and relocated onto US 6 (Main Street) and Broad Street between Division Street and Crompond Road
 2017-01-19;(USA) New York;NY 35;ny.ny035;Removed from Division Street and Crompond Road, and relocated onto US 6 (Main Street) and Broad Street between Division Street and Crompond Road
 2016-05-03;(USA) New York;NY 12E;ny.ny012e;Removed from Main St between Bridge St and NY 12, and relocated onto Bridge St between Main St and NY 12F
@@ -1468,6 +1487,7 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200.wpt;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2017-02-01;(USA) Ohio;OH 195;oh.oh195;Route truncated at south end to CR110
 2016-11-02;(USA) Ohio;Atlantic Blvd;oh.atlblvd;Route added
 2016-11-02;(USA) Ohio;OH 164;oh.oh164;Route moved from Lincoln Way (US 30) onto Washington St between Lincoln Ave & Market St, and moved from Lincoln Ave onto Market St between Washington St & Lincoln Way
 2016-11-02;(USA) Ohio;OH 242;;Route deleted
@@ -1503,6 +1523,7 @@ YYYY-MM-DD;Country;Route;Root;Description
 2015-09-10;(USA) Oklahoma;Muskogee Turnpike;;Deleted route. Renamed to OK 351.
 2015-09-10;(USA) Oklahoma;OK 351;ok.ok351;Added route. Renamed from Muskogee Turnpike.
 2015-09-10;(USA) Oklahoma;OK 364;ok.ok364;Added route. Renamed from Creek Turnpike.
+2017-01-27;(USA) Pennsylvania;PA 124;pa.pa124;West end truncated from PA 74 to Sherman Street
 2017-01-03;(USA) Pennsylvania;PA 903;pa.pa903;Removed from West Front Street, River Street, and the now demolished old bridge across the Lehigh River in Jim Thorpe, and rerouted 1,000ft north across the Lehigh River on a new bridge alignment between the intersections of PA 903 (North Street)/West Front Street (FroSt) and US 209.
 2016-07-25;(USA) Pennsylvania;PA 902;pa.pa902;Removed from North/South Chestnut Street and East Amidon Street in Summit Hill, and rerouted along East North Street & North/South Pine Street between the intersections of PA 902 (East North Street)/North Chestnut Street and PA 902 (East Amidon Street)/South Pine Street
 2016-01-28;(USA) Pennsylvania;PA 441;pa.pa441;Removed from Locust St and 3rd St and relocated onto a newly-constructed northerly extension of Front St, between Locust St and US 30
@@ -1600,6 +1621,8 @@ YYYY-MM-DD;Country;Route;Root;Description
 2016-05-15;(USA) Virginia;I-95;va.i095;previous Exit 74B is actually 74C in the field and a new point for actual 74B was added
 2015-10-27;(USA) Virginia;US 460 Business (Grundy);va.us460busgru;New route
 2015-10-27;(USA) Virginia;US 460 (Tazewell);va.us460taz;In Grundy, moved from part of Riverside Dr. (now US 460 Business) east to new divided highway
+2017-01-24;(USA) Washington;WA 99;wa.wa099;Route split in half to reflect gap in Tukwila. Route ends at WA 599 at southern end of northern section
+2017-01-24;(USA) Washington;WA 99 (Federal Way);wa.wa099fed;Route added, this reflects the southern section of WA 99 south of the WA 518 junction
 2017-01-03;(USA) Washington;WA 103;wa.wa103;Extended at northern end from Leadbetter Point SP boundary to actual end of state highway in park
 2017-01-03;(USA) Washington;WA 100 Spur (Fort Canby);wa.wa100sprfor;Route added
 2016-11-26;(USA) Washington;WA 823;wa.wa823;Removed from 1st Street and Naches Avenue, and relocated onto Jim Clements Way between 1st Street and Naches Avenue
