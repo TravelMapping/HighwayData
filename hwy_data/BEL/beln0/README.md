@@ -15,3 +15,4 @@
 - `N40a` should be signed according to wegenwiki and OSM but not on GM/GSV
 - `N43` should be signed b/n R40 and N60 according to wegenwiki and OSM but not on GM/GSV
 - `N62` is not signed on the Spa-Francorchamps Circuit bypass (GM indicates N62, OSM N62c)
+- `N96a` and `N95b` should be signed according to wegenwiki and OSM but they are one-way lanes only; opposite direction is signed `N95`
