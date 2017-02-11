@@ -171,9 +171,10 @@ asiahp;ASI;UNESCAP Asian Highways (for preview);red;3;preview
 asiahr;ASI;UNESCAP Asian Highways (for review);red;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;red;3;preview
 autb;AUT;Austria Landesstraßen B;lightsalmon;4;preview
+beln0;BEL;Belgium Gewestwegen / Route Nationale 1-99;lightsalmon;4;preview
 bihm;BIH;Bosnia and Herzegovina Magistrale;lightsalmon;4;preview
 brbh;BRB;Barbados Highways;brown;4;preview
-canbc;CAN;British Colombia Provincial Highways;brown;4;preview
+canbc;CAN;British Columbia Provincial Highways;brown;4;preview
 canmb;CAN;Manitoba Provincial Trunk Highways;brown;4;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;brown;4;preview
 cheh;CHE;Switzerland Hauptstrassen;lightsalmon;4;preview
@@ -213,11 +214,31 @@ usawy;USA;Wyoming State Highways;brown;4;preview
 #Devel Systems
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
-beln;BEL;Belgium Gewestwegen / Route Nationale;lightsalmon;4;devel
+#beln1;BEL;Belgium Gewestwegen / Route Nationale 101-186;lightsalmon;4;devel
+#beln2;BEL;Belgium Gewestwegen / Route Nationale 200-299;lightsalmon;4;devel
+#beln3;BEL;Belgium Gewestwegen / Route Nationale 300-399;lightsalmon;4;devel
+#beln4;BEL;Belgium Gewestwegen / Route Nationale 400-499;lightsalmon;4;devel
+#beln5;BEL;Belgium Gewestwegen / Route Nationale 500-599;lightsalmon;4;devel
+#beln6;BEL;Belgium Gewestwegen / Route Nationale 600-699;lightsalmon;4;devel
+#beln7;BEL;Belgium Gewestwegen / Route Nationale 700-795;lightsalmon;4;devel
+#beln8;BEL;Belgium Gewestwegen / Route Nationale 800-899;lightsalmon;4;devel
+#beln9;BEL;Belgium Gewestwegen / Route Nationale 902-992;lightsalmon;4;devel
 canmbw;CAN;Winnipeg City Routes;yellow;5;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 cansph;CAN;Canada Select Provincial Highways;brown;4;devel
+deubyst;DEU;Bavaria Staatsstraßen;yellow;5;devel
+#deubwl;DEU;Baden-Württemberg Landesstraßen;yellow;5;devel
+#deubbl;DEU;Brandenburg Landesstraßen;yellow;5;devel
+#deuhel;DEU;Hesse Landesstraßen;yellow;5;devel
+#deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;devel
+#deunil;DEU;Lower Saxony Landesstraßen;yellow;5;devel
+#deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;devel
+#deurpl;DEU;Rhineland-Palatinate Landesstraßen;yellow;5;devel
+#deusll;DEU;Saarland Landesstraßen;yellow;5;devel
+#deusns;DEU;Saxony Staatsstraßen;yellow;5;devel
+#deustl;DEU;Saxony-Anhalt Landesstraßen;yellow;5;devel
+#deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;devel
 #dnksr;DNK;Denmark Sekundærrute;yellow;5;devel
 gaba;GAB;Gabon Autoroutes;blue;1;devel
 grceo;GRC;Greece Ethniki Odos;lightsalmon;4;devel
@@ -236,6 +257,7 @@ usaca;USA;California State Highways;brown;4;devel
 usafl;USA;Florida State Highways;brown;4;devel
 usala1;USA;Louisiana State Highways 1-499;brown;4;devel
 usanp;USA;United States Select National Park Highways;brown;4;devel
+usanyp;USA;New York Parkways;teal;2;devel
 #usapr;USA;Puerto Rico Territorial Highways;brown;4;devel
 usaush;USA;United States Historic Highways;brown;4;devel
 zafn;ZAF;South Africa National Highways;lightsalmon;4;devel
