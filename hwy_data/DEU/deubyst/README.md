@@ -9,3 +9,4 @@
 
 **NOTES TO ROUTES:**
 - `St2018` Obenhausen bypass u/c
+- `St2024` routing Unterknöringen is drafted according to BAYSIS
