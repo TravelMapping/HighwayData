@@ -10,3 +10,4 @@
 **NOTES TO ROUTES:**
 - `St2018` Obenhausen bypass u/c
 - `St2024` routing Unterknöringen is drafted according to BAYSIS
+- `St2078neu` extended to A8 exit 93 to close a little gap
