@@ -429,10 +429,10 @@ List of islth routes with notes:
 946	Done
 951	Unsigned and unnumbered on Vegagerdin Map
 952	Unsigned
-953 Done
-954 Done. Vegagerdin map shows as ending at Eskifjordur city limits, but is signed at intersection with 92, so plotted with west end at 92. East end plotted where Vegagerdin map shows designation changing from 954 to 958 (assumed to be unsigned, see below).
-955 Done
-958 Assumed to be unsigned since it does not begin or end at an intersection and, while there is no SV, neither intermediate intersection appears from satellite imagery to have any large signs.
+953   Done
+954  Done. Vegagerdin map shows as ending at Eskifjordur city limits, but is signed at intersection with 92, so plotted with west end at 92. East end plotted where Vegagerdin map shows designation changing from 954 to 958 (assumed to be unsigned, see below).
+955   Done
+958   Assumed to be unsigned since it does not begin or end at an intersection and, while there is no SV, neither intermediate intersection appears from satellite imagery to have any large signs.
 962	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
 964	Done
 966	Done. Part of road is missing from OSM, coords for point +X04 taken from Vegagerdin map
