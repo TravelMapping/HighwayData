@@ -9,4 +9,5 @@
 
 
 **NOTES TO ROUTES:**
-- 
+- `N435a` and `N544` are not signed
+- Couldn't find `N542` at all
