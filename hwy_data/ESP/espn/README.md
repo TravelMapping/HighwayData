@@ -9,5 +9,8 @@
 
 
 **NOTES TO ROUTES:**
-- `N435a` and `N544` are not signed
-- Couldn't find `N542` at all
+- `N435a`, `N544`, `N622a` and `N641` are not signed
+- Couldn't find `N542` and `N627a` at all
+- `N622Vit`, `N637` and `N638` are signed (OSM/GM/GSV) but not on the 2015 FOMENTO list
+- `N634Cas`/`N634Dur`: split because route in Bilbao is not clear (OSM vs. GM) and it seems to be not signed according to GSV
+- `N634Dur`: Ermua bypass u/c
