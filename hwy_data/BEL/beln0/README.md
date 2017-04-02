@@ -20,3 +20,4 @@
 - `N156` seems to be not signed; it's only partially indicated on OSM
 - `N159` seems to be not signed; it's only indicated on GM
 - `N183` seems to be not signed; it's only indicated on GM
+- `N205` and `N206` are not signed
