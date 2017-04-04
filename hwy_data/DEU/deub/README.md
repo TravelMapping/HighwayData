@@ -28,6 +28,7 @@
 
 
 **NOTES TO ROUTES:**
+- `B19` Ulm?
 - `B28` should be rerouted in "Mid 2016" but I couldn't find any reliable info how it should be changed and it seems that it's still discussed, no final decision.
 - `B62` Siegen: A branch will be opened in spring 2017. I have not yet any info about dedication (B or L?).
 - `B611` just north of A2 exit Vlotho-West was opened in August 2016 but it's not yet updated on OSM (or GM), and I'm not exactly sure where the end point is. It has a length of 700m only and the next section is expected to be opened in 2019 (4.5km).
