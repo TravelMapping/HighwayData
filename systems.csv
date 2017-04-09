@@ -173,6 +173,7 @@ asiahr;ASI;UNESCAP Asian Highways (for review);red;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;red;3;preview
 autb;AUT;Austria Landesstraßen B;lightsalmon;4;preview
 beln0;BEL;Belgium Gewestwegen / Route Nationale 1-99;lightsalmon;4;preview
+beln1;BEL;Belgium Gewestwegen / Route Nationale 101-186;lightsalmon;4;preview
 bihm;BIH;Bosnia and Herzegovina Magistrale;lightsalmon;4;preview
 brbh;BRB;Barbados Highways;brown;4;preview
 canbc;CAN;British Columbia Provincial Highways;brown;4;preview
@@ -193,14 +194,7 @@ hkgrt;CHN;Hong Kong Routes;teal;2;preview
 idnjt;IDN;Indonesia Jalan Tol;blue;1;preview
 islth;ISL;Iceland Þjóðvegur;lightsalmon;4;preview
 index;IND;India National Expressways;blue;1;preview
-#irlr;IRL;Ireland Regional Roads;yellow;5;preview
-irlr1;IRL;Ireland Regional Roads 1xx;yellow;5;preview
-irlr2;IRL;Ireland Regional Roads 2xx;yellow;5;preview
-irlr5;IRL;Ireland Regional Roads 5xx;yellow;5;preview
-irlr6;IRL;Ireland Regional Roads 6xx;yellow;5;preview
-irlr7;IRL;Ireland Regional Roads 7xx;yellow;5;preview
-irlr8;IRL;Ireland Regional Roads 8xx;yellow;5;preview
-irlr9;IRL;Ireland Regional Roads 9xx;yellow;5;preview
+irlr;IRL;Ireland Regional Roads;yellow;5;preview
 irnf;IRN;Iran Freeways;blue;1;preview
 jama;JAM;Jamaica A Roads;brown;4;preview
 korex;KOR;(South) Korean Expressways;blue;1;preview
@@ -229,14 +223,13 @@ usawy;USA;Wyoming State Highways;brown;4;preview
 #Devel Systems
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
-#beln1;BEL;Belgium Gewestwegen / Route Nationale 101-186;lightsalmon;4;devel
-#beln2;BEL;Belgium Gewestwegen / Route Nationale 200-299;lightsalmon;4;devel
+beln2;BEL;Belgium Gewestwegen / Route Nationale 200-299;lightsalmon;4;devel
 #beln3;BEL;Belgium Gewestwegen / Route Nationale 300-399;lightsalmon;4;devel
 #beln4;BEL;Belgium Gewestwegen / Route Nationale 400-499;lightsalmon;4;devel
 #beln5;BEL;Belgium Gewestwegen / Route Nationale 500-599;lightsalmon;4;devel
 #beln6;BEL;Belgium Gewestwegen / Route Nationale 600-699;lightsalmon;4;devel
 #beln7;BEL;Belgium Gewestwegen / Route Nationale 700-795;lightsalmon;4;devel
-#beln8;BEL;Belgium Gewestwegen / Route Nationale 800-899;lightsalmon;4;devel
+beln8;BEL;Belgium Gewestwegen / Route Nationale 800-899;lightsalmon;4;devel
 #beln9;BEL;Belgium Gewestwegen / Route Nationale 902-992;lightsalmon;4;devel
 canmbw;CAN;Winnipeg City Routes;yellow;5;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
@@ -255,8 +248,6 @@ cansph;CAN;Canada Select Provincial Highways;brown;4;devel
 #deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;devel
 #dnksr;DNK;Denmark Sekundærrute;yellow;5;devel
 grceo;GRC;Greece Ethniki Odos;lightsalmon;4;devel
-irlr3;IRL;Ireland Regional Roads 3xx;yellow;5;devel
-irlr4;IRL;Ireland Regional Roads 4xx;yellow;5;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 namb;NAM;Namibia B Roads;lightsalmon;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel

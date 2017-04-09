@@ -378,6 +378,10 @@
 2015-09-10;Germany;A524;deu.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;Germany;A544;deu.a544;Route re-entered
 2015-09-10;Germany;A562;deu.a562;Route re-entered
+2017-04-06;Greece;A1;grc.a001;Route extended at southern end from exit 20 to exit 87
+2017-04-06;Greece;A1 (Athina);grc.a001;Route merged into main route
+2017-04-06;Greece;A1 (Kato Egani);grc.a001;Route merged into main route
+2017-04-06;Greece;E75;grc.e75;Route removed from EO1 and relocated onto A1 between exit 20 and exit 23
 2017-03-06;Greece;A24;grc.a024;New Route
 2017-03-06;Greece;A25;grc.a025;Route truncated at south end from the EO16g in Nea Moudania to the A2 at exit 24.
 2017-03-06;Greece;A242;grc.a242;New Route
@@ -1070,6 +1074,9 @@
 2016-05-01;Sweden;Västkustvägen;swe.vastkustvag;New Route
 2016-05-01;Sweden;Vätterleden;swe.vatled;New Route
 2016-05-01;Sweden;Ystadvägen, Malmo;swe.ystvag;New Route
+2017-04-03;Switzerland;A16;che.a016;Route extended at the southern end from exit 15 to exit 16
+2017-04-03;Switzerland;A16 Biel;;Route merged into main route
+2017-04-03;Switzerland;E27;che.e27;Route removed from H6 and onto A16 between exit 15 and exit 16
 2016-12-10;Switzerland;A16;che.a016;Route extended at the eastern end from exit 11 to Court
 2016-12-10;Switzerland;A16 Moutier;;Route merged into main route
 2016-12-10;Switzerland;E27;che.e27;Route removed from H6 and onto A16 between exit 11 and exit 12
@@ -1137,6 +1144,7 @@
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2017-04-04;(UK) England;A197;eng.a0197;Route removed from through Morpeth and onto Morpeth Northern Bypass between A1 and B1337
 2017-04-01;(UK) England;A1173;eng.a1173;Route extended at north end from eastern B1210 junction to A160
 2017-04-01;(UK) England;A1173 (Immingham);eng.a1173;Route merged into main A1173 route
 2017-03-25;(UK) England;A6055;eng.a6055;Route extended at north end from Bowbridge Lane to the A6136
@@ -1150,8 +1158,8 @@
 2017-01-27;(UK) England;A4174;eng.a4174;Route truncated at south end from A38 to A3029 and extended at south end along South Bristol Link from A3029 to A370
 2017-01-25;(UK) England;A6;eng.a0006;Route removed from Telford Way and put on the Gateway Link Road, Luton between the A505 and A5228
 2017-01-25;(UK) England;A12;eng.a0012;Route truncated at north end from A47/A149 junction at Great Yarmouth to northern A47 junction in Lowestoft
-2017-01-25;(UK) England;A12 (Lowestoft);;Route merged into main A12
-2017-01-25;(UK) England;A47;eng.0047;Route extended at east end from A149 junction at Great Yarmouth to southern A12 junction in Lowestoft
+2017-01-25;(UK) England;A12 (Lowestoft);eng.a0012;Route merged into main A12
+2017-01-25;(UK) England;A47;eng.a0047;Route extended at east end from A149 junction at Great Yarmouth to southern A12 junction in Lowestoft
 2017-01-25;(UK) England;A1194;eng.a1194;New Route
 2017-01-25;(UK) England;A1270;eng.a1270;New Route
 2016-10-31;(UK) England;A683;eng.a0683;Removed from Morecambe Road and Caton Road, and relocated onto The Bay Gateway, between eastern junction with the A589 and junction with the M6
@@ -1211,6 +1219,7 @@
 2015-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+2017-04-06;(UK) Scotland;A730;sct.a0730;Route rerouted onto Cathkin bypass between B762_W and A749
 2016-09-29;(UK) Scotland;A8(M);sct.a008m;New Route
 2016-03-09;(UK) Scotland;A82;sct.a0082;Route removed from Glenfalloch Road and relocated onto Crianlarich bypass between Glenfalloch Road and eastern junction with A85
 2016-01-01;(UK) Scotland;Great Britain A Roads;gbna;Added routes beginning with a 1, 6, 8 and 9
@@ -1284,7 +1293,7 @@
 2015-12-26;(USA) Hawaii;HI 3000;hi.hi3000;Route added
 2015-11-17;(USA) Hawaii;HI 380;hi.hi380;Route relocated from closed Dairy Rd. segment between waypoints AirAccRd and PakSt_N, onto parts of Airport Access Rd. and Pakaula St.
 2017-04-02;(USA) Idaho;US95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
-2017-04-02;(USA) Idaho;US95;id.us095;Relocated east from US 2 (5th Avenue) between Cedar St and ID 200 to a new bypass around Sandpoint
+2017-04-02;(USA) Idaho;US95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID16;id.id016;Route extended at south end from ID44 to US20/26
 2016-12-21;(USA) Illinois;US 67;il.us067;Relocated intersection with IL3 and IL 111 eastward to Alton Square Mall Drive, removing IL3/111 label, new intersection OldIL3/111
 2016-12-21;(USA) Illinois;IL 3;il.il003;Relocated intersection with US 67 eastward to Alton Square Mall Drive, removing US67 label, new intersection ToUS67
