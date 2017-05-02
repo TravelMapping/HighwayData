@@ -241,7 +241,11 @@
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 67 and 69
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between Yt1792 and exit 72 
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 81 and 85
-2017-04-13;France;N4;fra.n004;Route truncated at west end from the A33 to the D99
+2017-04-26;France;E9;fra.e9;Route removed from N2020 and relocated onto N20 between N2020_N and N2020_S
+2017-04-26;France;N20;fra.n020;Route removed from route through Ax-les-Thermes and relocated onto bypass between N2020_N and N2020_S
+2017-04-26;France;N2020;fra.n2020;New Route
+2017-04-26;France;N2102;fra.n2102;New Route
+2017-04-13;France;N4;fra.n004saa;Route truncated at west end from the A33 to the D99
 2017-04-13;France;N333;fra.n333;New Route
 2017-03-29;France;N569 (Miramas);fra.n569mir;Route truncated at south end from old N1569 junction at Boulvard Theodore Aubanel to new N1569 junction at the D69
 2017-03-29;France;N1569;fra.n1569;Route removed from Boulvard Theodore Aubanel and relocated onto Miramas bypass between 'BlvdTheAub' and 'N569_N'
@@ -380,6 +384,8 @@
 2015-09-10;Germany;A524;deu.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;Germany;A544;deu.a544;Route re-entered
 2015-09-10;Germany;A562;deu.a562;Route re-entered
+2017-04-26;Greece;A8;grc.a008;Route extended at east end from exit 16 to the junction with E08a in Patras
+2017-04-26;Greece;A8 (Patras);grc.a008;Route merged into main route
 2017-04-13;Greece;A5;grc.a005;Route extended at southern end from exit 5 to Riza
 2017-04-13;Greece;E55;grc.e55;Route removed from EO5 and relocated onto A5 between A5 exit 5 and Riza
 2017-04-06;Greece;A1;grc.a001;Route extended at southern end from exit 20 to exit 87
@@ -774,7 +780,7 @@
 2015-10-17;Poland;S8 (Warsaw);pol.s008war;Route extended at west end from A2 to (new) western junction with DK7 and DK8
 2015-10-17;Poland;S8 (Zabki);pol.s008zab;New Route
 2015-10-17;Poland;S91;pol.s091;New Route
-2017-04-21;Portugal;A26-1;prt.a026-1;New Route
+2017-04-21;Portugal;A26-1;prt.a026_1;New Route
 2016-05-08;Portugal;A4;prt.a004;Route extended from exit 19 to the Spanish border
 2016-05-08;Portugal;A4 (Bragança);;Route merged into main route
 2016-05-08;Portugal;E82;prt.e82;Route relocated from IP4 and onto A4 between A4 exits 19 and 21
@@ -884,6 +890,9 @@
 2017-03-22;Slovenia;G111;svn.g111;Route truncated at north end from H6 exit 2 to Polje Cesta
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
+2017-04-28;Spain;A7 (Valencia);Route extened at southern end from A35 to exit 491
+2017-04-28;Spain;A7 (Alcoi);esp.a007val;Route merged into A7 Valencia section
+2017-04-28;Spain;CV40;esp.a007val;Route merged into A7 Valencia section
 2017-01-12;Spain;CM43;esp.cm043;Route extended from exit 13 to CM4001
 2016-12-30;Spain;BU30;esp.bu030;Route re-entered as road completed
 2016-12-30;Spain;FV1;esp.fv001;New Route
@@ -1119,6 +1128,13 @@
 2015-07-15;Tajikistan;E123;tjk.e123;Truncated at south end from 'End' to Aral
 2015-07-15;Tajikistan;E123;tjk.e123;Extended at south end from Aral to Afghan border
 2015-07-15;Tajikistan;E123 (Lyagin);;Deleted route
+2017-04-28;Turkey;E96;tur.e96;Route removed from D300 and relocated onto O5 between the O5/D300 junction and the O30 at its exit 8 (O5 exit 25)
+2017-04-28;Turkey;E881;tur.e881;Route truncated at north end from O4 to O5 exit 7
+2017-04-28;Turkey;E881;tur.e881;Route extended at north end from O5 exit 7 to O5 exit 1
+2017-04-28;Turkey;O5 (Bursa);tur.o005;Route extended at north end from exit 7 to exit 1
+2017-04-28;Turkey;O5 (Anadolu Lisesi);tur.o005ana;New Route
+2017-04-28;Turkey;O5 (Orhangazi);tur.o005;Route merged into Bursa section
+2017-04-28;Turkey;O30 (Anadolu Lisesi (branch));tur.o005ana;Route renumbered
 2017-03-05;Turkey;E97;tur.e97;Route truncated at north end from Georgian border to D010
 2016-09-10;Turkey;O6 (Sancaktepe (branch));tur.o006san;New Route
 2016-08-29;Turkey;O6;tur.o006;New Route
@@ -1475,6 +1491,9 @@
 2015-09-06;(USA) Missouri;US 36 Spur (Utica);;Deleted route
 2015-11-02;(USA) Montana;I-94 BL Wibaux;;Route deleted
 2015-08-03;(USA) Montana;US93 Alternate (Kalispell);mt.us093altkal;New Route
+2017-05-01;(USA) Nebraska;NE 10;ne.ne010;Removed from Keystone Road, US 30 and 2nd Avenue, and relocated onto I-80 and the Kearney East Bypass between I-80 Exit 279 and NE 40.
+2017-05-01;(USA) Nebraska;NE 44;ne.ne044;North end truncated from US 30 to I-80.
+2017-05-01;(USA) Nebraska;L10F;ne.l10f;Route added.
 2015-11-08;(USA) Nebraska;NE 92;ne.ne092;Removed from a beeline connection between CR 20 and US 26, and relocated onto a grade separated overpass of the BNSF Railway and US 26
 2015-09-28;(USA) Nebraska;NE 92;ne.ne092;Removed from 1st St, Chestnut St, 12th St, and CR 16 and relocated onto the northwestern Wahoo bypass, between US 77 South and NE 109.
 2015-09-28;(USA) Nebraska;US 77;ne.us077;Removed from 1st St, Chestnut St, 12th St, and CR 16 and relocated onto the northwestern Wahoo bypass, between NE 92 West and NE 109 South.
@@ -1545,6 +1564,8 @@
 2015-10-27;(USA) North Carolina;I-485;nc.i485;Extended between exits 23C (NC 115) and 30 (I-85), completing loop around Charlotte
 2015-10-27;(USA) North Carolina;NC 140;nc.nc140;New route
 2015-10-27;(USA) North Carolina;NC 87;nc.nc087;Moved from partially closed Old Maco Rd. to new Maco Rd. alignment, between US 17 and waypoint OldMacoRd
+2017-05-01;(USA) North Dakota;ND 22 Truck (Dickinson);;Renamed to ND 22 Bypass (Dickinson)
+2017-05-01;(USA) North Dakota;ND 22 Bypass (Dickinson);nd.nd022bypdic;Renamed from ND 22 Truck (Dickinson). Removed from 8th St and State Ave and relocated onto I-94 BL between ND 22 and State Ave. Removed from 113th Ave and relocated onto I-94, 116th Ave and 33rd St between I-94 Exit 59 and 113th Ave.
 2017-02-24;(USA) North Dakota;ND 22;nd.nd022;Relocated from former route through Killdeer (now ND 22 Business) west to new Killdeer Bypass
 2017-02-24;(USA) North Dakota;ND 22 Business (Killdeer);nd.nd022buskil;New route
 2016-10-30;(USA) North Dakota;North Dakota 22 Truck (Dickinson);nd.nd022trkdic;New Route
