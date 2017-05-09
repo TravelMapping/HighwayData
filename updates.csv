@@ -241,7 +241,11 @@
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 67 and 69
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between Yt1792 and exit 72 
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 81 and 85
-2017-04-13;France;N4;fra.n004;Route truncated at west end from the A33 to the D99
+2017-04-26;France;E9;fra.e9;Route removed from N2020 and relocated onto N20 between N2020_N and N2020_S
+2017-04-26;France;N20;fra.n020;Route removed from route through Ax-les-Thermes and relocated onto bypass between N2020_N and N2020_S
+2017-04-26;France;N2020;fra.n2020;New Route
+2017-04-26;France;N2102;fra.n2102;New Route
+2017-04-13;France;N4;fra.n004saa;Route truncated at west end from the A33 to the D99
 2017-04-13;France;N333;fra.n333;New Route
 2017-03-29;France;N569 (Miramas);fra.n569mir;Route truncated at south end from old N1569 junction at Boulvard Theodore Aubanel to new N1569 junction at the D69
 2017-03-29;France;N1569;fra.n1569;Route removed from Boulvard Theodore Aubanel and relocated onto Miramas bypass between 'BlvdTheAub' and 'N569_N'
@@ -380,6 +384,8 @@
 2015-09-10;Germany;A524;deu.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;Germany;A544;deu.a544;Route re-entered
 2015-09-10;Germany;A562;deu.a562;Route re-entered
+2017-04-26;Greece;A8;grc.a008;Route extended at east end from exit 16 to the junction with E08a in Patras
+2017-04-26;Greece;A8 (Patras);grc.a008;Route merged into main route
 2017-04-13;Greece;A5;grc.a005;Route extended at southern end from exit 5 to Riza
 2017-04-13;Greece;E55;grc.e55;Route removed from EO5 and relocated onto A5 between A5 exit 5 and Riza
 2017-04-06;Greece;A1;grc.a001;Route extended at southern end from exit 20 to exit 87
@@ -706,6 +712,9 @@
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route 
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route 
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2017-05-04;Poland;S5 (Poznań);pol.s005poz;Route extended at north end from exit 27 to exit 24
+2017-05-04;Poland;E261;pol.e261;Route removed from DK5 and relocated onto S5 between S5 exits 27 and 24
+2017-05-04;Poland;DK5 (Szubin);pol.dk005szu;Route truncated at south end from S5 exit 27 to Mieleszyn
 2016-12-30;Poland;DK74;pol.dk074;Route removed from road through Belchatow and relocated onto bypass, between Nowy Swiat and Dobrzelow
 2016-12-30;Poland;E67;pol.e67;Route removed from former DK8 and relocated onto S8 Mezenin bypass between '*Mez' and DK679
 2016-12-30;Poland;S7 (Elblag);pol.s007elb;Route extended at south end from Ulisca Twarda to DW530
@@ -774,7 +783,7 @@
 2015-10-17;Poland;S8 (Warsaw);pol.s008war;Route extended at west end from A2 to (new) western junction with DK7 and DK8
 2015-10-17;Poland;S8 (Zabki);pol.s008zab;New Route
 2015-10-17;Poland;S91;pol.s091;New Route
-2017-04-21;Portugal;A26-1;prt.a026-1;New Route
+2017-04-21;Portugal;A26-1;prt.a026_1;New Route
 2016-05-08;Portugal;A4;prt.a004;Route extended from exit 19 to the Spanish border
 2016-05-08;Portugal;A4 (Bragança);;Route merged into main route
 2016-05-08;Portugal;E82;prt.e82;Route relocated from IP4 and onto A4 between A4 exits 19 and 21
@@ -884,6 +893,9 @@
 2017-03-22;Slovenia;G111;svn.g111;Route truncated at north end from H6 exit 2 to Polje Cesta
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
+2017-04-28;Spain;A7 (Valencia);esp.a007val;Route extened at southern end from A35 to exit 491
+2017-04-28;Spain;A7 (Alcoi);esp.a007val;Route merged into A7 Valencia section
+2017-04-28;Spain;CV40;esp.a007val;Route merged into A7 Valencia section
 2017-01-12;Spain;CM43;esp.cm043;Route extended from exit 13 to CM4001
 2016-12-30;Spain;BU30;esp.bu030;Route re-entered as road completed
 2016-12-30;Spain;FV1;esp.fv001;New Route
@@ -1119,6 +1131,13 @@
 2015-07-15;Tajikistan;E123;tjk.e123;Truncated at south end from 'End' to Aral
 2015-07-15;Tajikistan;E123;tjk.e123;Extended at south end from Aral to Afghan border
 2015-07-15;Tajikistan;E123 (Lyagin);;Deleted route
+2017-04-28;Turkey;E96;tur.e96;Route removed from D300 and relocated onto O5 between the O5/D300 junction and the O30 at its exit 8 (O5 exit 25)
+2017-04-28;Turkey;E881;tur.e881;Route truncated at north end from O4 to O5 exit 7
+2017-04-28;Turkey;E881;tur.e881;Route extended at north end from O5 exit 7 to O5 exit 1
+2017-04-28;Turkey;O5 (Bursa);tur.o005;Route extended at north end from exit 7 to exit 1
+2017-04-28;Turkey;O5 (Anadolu Lisesi);tur.o005ana;New Route
+2017-04-28;Turkey;O5 (Orhangazi);tur.o005;Route merged into Bursa section
+2017-04-28;Turkey;O30 (Anadolu Lisesi (branch));tur.o005ana;Route renumbered
 2017-03-05;Turkey;E97;tur.e97;Route truncated at north end from Georgian border to D010
 2016-09-10;Turkey;O6 (Sancaktepe (branch));tur.o006san;New Route
 2016-08-29;Turkey;O6;tur.o006;New Route
@@ -1150,6 +1169,7 @@
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2017-05-01;(UK) England;A6194;eng.a6194;New Route
 2017-04-14;(UK) England;A57;eng.a0057;Route removed from Newland, Wigford Way and St Mary Street and relocated onto Brayford Way, Rope Walk, St Mark Street and Tentercroft Street between the B1273 and the A15
 2017-04-14;(UK) England;A1192;eng.a1192;New Route
 2017-04-13;(UK) England;A5505;eng.a5505;New Route
@@ -1440,6 +1460,8 @@
 2015-11-13;(USA) Massachusetts;MA 138;ma.ma138;Removed from the Brightman Street Bridge and MA 103, and relocated onto the Veterans Memorial Bridge between MA 79 and MA 103
 2015-11-13;(USA) Massachusetts;MA 79;ma.ma079;Waypoint US6 moved from Brightman Street to the Veterans Memorial Bridge
 2015-11-13;(USA) Massachusetts;US 6;ma.us006;Removed from Grand Army of the Republic Highway and the Brightman Street Bridge, and relocated onto the Veterans Memorial Bridge between a point labeled *OldUS6 and MA 79
+2017-05-07;(USA) Michigan;MI 154;mi.mi154;Extended at northern end to a point approx .4 mi west of Harsens Island Ferry terminal 
+2017-05-04;(USA) Michigan;MI 93;mi.mi093;Extended at northeastern end from Hartwick Pines SP to Bobcat Trail
 2016-12-26;(USA) Michigan;MI 5;mi.mi005;Extended at eastern end from I-96 exit 185 to Cass Ave in Detroit
 2016-11-24;(USA) Michigan;I-94 Business (Battle Creek);mi.i094blbat;Moved from Martin Luther King Jr Dr and Dickman Rd onto Columbia Ave and Helmer Rd between Martin Luther King Jr Dr and Dickman Rd
 2016-11-24;(USA) Michigan;MI 37;mi.mi037;Moved from Martin Luther King Jr Dr and Dickman Rd onto Columbia Ave, Helmer Rd, and Dickman Rd between Martin Luther King Jr Dr and western Dickman Rd/Helmer Rd intersection in Battle Creek
@@ -1475,6 +1497,9 @@
 2015-09-06;(USA) Missouri;US 36 Spur (Utica);;Deleted route
 2015-11-02;(USA) Montana;I-94 BL Wibaux;;Route deleted
 2015-08-03;(USA) Montana;US93 Alternate (Kalispell);mt.us093altkal;New Route
+2017-05-01;(USA) Nebraska;NE 10;ne.ne010;Removed from Keystone Road, US 30 and 2nd Avenue, and relocated onto I-80 and the Kearney East Bypass between I-80 Exit 279 and NE 40.
+2017-05-01;(USA) Nebraska;NE 44;ne.ne044;North end truncated from US 30 to I-80.
+2017-05-01;(USA) Nebraska;L10F;ne.l10f;Route added.
 2015-11-08;(USA) Nebraska;NE 92;ne.ne092;Removed from a beeline connection between CR 20 and US 26, and relocated onto a grade separated overpass of the BNSF Railway and US 26
 2015-09-28;(USA) Nebraska;NE 92;ne.ne092;Removed from 1st St, Chestnut St, 12th St, and CR 16 and relocated onto the northwestern Wahoo bypass, between US 77 South and NE 109.
 2015-09-28;(USA) Nebraska;US 77;ne.us077;Removed from 1st St, Chestnut St, 12th St, and CR 16 and relocated onto the northwestern Wahoo bypass, between NE 92 West and NE 109 South.
@@ -1488,6 +1513,7 @@
 2016-06-30;(USA) New Hampshire;Circumferential Highway;nh.cirhwy;Route added
 2016-03-17;(USA) New Hampshire;I-93;nh.i093;Northbound roadway relocated approximately 0.2 mi westward immediately parallel to southbound roadway, between a point south of Exit 3 (labeled *OldI-93) and Exit 3. Southbound roadway unaffected
 2016-03-17;(USA) New Hampshire;NH 111;nh.nh111;Removed from Enterprise Drive and relocated onto Indian Rock Road between Enterprise Drive and I-93
+2017-05-01;(USA) New Jersey;NJ 15;nj.nj015;South end removed from Clinton St (including a demolished section underpassing US 46) and Bergen St between Richboynton Rd and US 46 at Bergen St, and relocated onto a southwesterly realignment of Clinton St between Richboynton Rd and an at-grade T-intersection with US 46.
 2016-11-16;(USA) New Jersey;NJ 18;nj.nj018;Extended north from Buckingham Drive to I-287
 2016-11-16;(USA) New Jersey;NJ 19;nj.nj019;South end removed from the Garden State Parkway access ramps between The Broad Street ramps and the Garden State Parkway, and relocated onto Broad Street between the GSP ramps and Colfax Avenue
 2015-12-30;(USA) New Mexico;I-40BL (Albuquerque);;Route deleted
@@ -1545,6 +1571,8 @@
 2015-10-27;(USA) North Carolina;I-485;nc.i485;Extended between exits 23C (NC 115) and 30 (I-85), completing loop around Charlotte
 2015-10-27;(USA) North Carolina;NC 140;nc.nc140;New route
 2015-10-27;(USA) North Carolina;NC 87;nc.nc087;Moved from partially closed Old Maco Rd. to new Maco Rd. alignment, between US 17 and waypoint OldMacoRd
+2017-05-01;(USA) North Dakota;ND 22 Truck (Dickinson);;Renamed to ND 22 Bypass (Dickinson)
+2017-05-01;(USA) North Dakota;ND 22 Bypass (Dickinson);nd.nd022bypdic;Renamed from ND 22 Truck (Dickinson). Removed from 8th St and State Ave and relocated onto I-94 BL between ND 22 and State Ave. Removed from 113th Ave and relocated onto I-94, 116th Ave and 33rd St between I-94 Exit 59 and 113th Ave.
 2017-02-24;(USA) North Dakota;ND 22;nd.nd022;Relocated from former route through Killdeer (now ND 22 Business) west to new Killdeer Bypass
 2017-02-24;(USA) North Dakota;ND 22 Business (Killdeer);nd.nd022buskil;New route
 2016-10-30;(USA) North Dakota;North Dakota 22 Truck (Dickinson);nd.nd022trkdic;New Route
@@ -1706,6 +1734,7 @@
 2016-05-15;(USA) Virginia;I-95;va.i095;previous Exit 74B is actually 74C in the field and a new point for actual 74B was added
 2015-10-27;(USA) Virginia;US 460 Business (Grundy);va.us460busgru;New route
 2015-10-27;(USA) Virginia;US 460 (Tazewell);va.us460taz;In Grundy, moved from part of Riverside Dr. (now US 460 Business) east to new divided highway
+2017-05-07;(USA) Washington;WA 125 Spur (Walla Walla);wa.wa125sprwal;Route added
 2017-01-24;(USA) Washington;WA 99;wa.wa099;Route split in half to reflect gap in Tukwila. Route ends at WA 599 at southern end of northern section
 2017-01-24;(USA) Washington;WA 99 (Federal Way);wa.wa099fed;Route added, this reflects the southern section of WA 99 south of the WA 518 junction
 2017-01-03;(USA) Washington;WA 103;wa.wa103;Extended at northern end from Leadbetter Point SP boundary to actual end of state highway in park
@@ -1723,6 +1752,8 @@
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra).
+2017-05-05;(USA) Wisconsin;WI 123;;Deleted route
+2017-05-05;(USA) Wisconsin;WI 159;wi.wi159;Extended southeast from former WI 123 along old WI 123 (now labeled CRDL) to Devils Lake State Park
 2016-07-14;(USA) Wisconsin;WI 23;wi.wi023;Relocated north endpoint of WI 23 Business (Green Lake) to Thrasher Drive. Old endpoint is now *LawDr
 2016-07-14;(USA) Wisconsin;WI 23 Business (Green Lake);wi.wi023busgre;Removed from Lawson Drive north of North Street and relocated onto Thrasher Drive between North Street and WI 23
 2016-06-26;(USA) Wisconsin;WI 16;wi.wi016;Removed from old route (now County Road L) south of Watertown and moved onto connector and WI 26 bypass from Business 16/26 intersection to County Road J
