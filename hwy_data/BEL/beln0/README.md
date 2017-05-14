@@ -20,4 +20,10 @@
 - `N156` seems to be not signed; it's only partially indicated on OSM
 - `N159` seems to be not signed; it's only indicated on GM
 - `N183` seems to be not signed; it's only indicated on GM
-- `N205` and `N206` are not signed
+- `N205`, `N206`, `N210`, `N213`, `N214` and `N216` are not signed
+- `N215` seems to be not signed; it's only indicated on GM
+- `N219` seems to be not signed; it's only indicated on GM
+- `N220`, `N224`, `N225`, `N228`, `N231` and `N235` are not signed
+- `N236` seems to be not signed; it's only indicated on GM
+- `N241` seems to be not signed; it's only indicated on GM west of N261 and on OSM east of N261
+- `N242`, `N244`, `N247` and `N248` are not signed
