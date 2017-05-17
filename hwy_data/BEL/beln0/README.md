@@ -34,4 +34,6 @@
 - `N284`, `N288` and `N289` are unsigned
 - `N290` should be signed according to OSM and GM but not on GSV, only one sign on GSV in Brussegem where GM is not indicating it and OSM indicates it `N296`
 - `N291`, `N292`, `N294` and `N295` seem to be unsigned; only indicated on GM
-- `N293`, `N296`, `N297`, `N298` and `N299` are unsigned
+- `N293`, `N296`, `N297`, `N298`, `N299` and `N310` are unsigned
+- `N317`, `N320` and `N324` should be signed according to wegenwiki, OSM and GM but not on GSV
+- `N334` and `N335` seem to be unsigned; only indicated on GM
