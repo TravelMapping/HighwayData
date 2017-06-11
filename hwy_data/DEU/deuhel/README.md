@@ -9,3 +9,4 @@
 
 **NOTES TO ROUTES:**
 - `L3004`, `L3005` and `L3193` are also partial eursf routes but these are flagged without `HE` banner.
+- `L3170` connection to new `B27` bypass unknown
