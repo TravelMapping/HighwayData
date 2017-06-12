@@ -1,10 +1,11 @@
-﻿code;name;country;continent;regiontype
+code;name;country;continent;regionType
 AB;Alberta;CAN;NA;Province
-ABW;Aruba;NLD;NA;Consituent Country
-ACT;Australian Capital Territory;AUS;OCE;Federal District
+ABW;Aruba;NLD;NA;Constituent Country
+ACT;Australian Capital Territory;AUS;OCE;Territory
 AFG;Afghanistan;AFG;ASI;Country
+AFR;Africa;AFR;AFR;Continent
 AGO;Angola;AGO;AFR;Country
-AIA;Anguilla;GBR;NA;Country
+AIA;Anguilla;GBR;NA;Overseas Territory
 AK;Alaska;USA;NA;State
 AL;Alabama;USA;NA;State
 ALA;Åland Islands;FIN;EUR;Autonomous Region
@@ -16,9 +17,11 @@ ARE;United Arab Emirates;ARE;ASI;Country
 ARG;Argentina;ARG;SA;Country
 ARM;Armenia;ARM;ASI;Country
 AS;American Samoa;USA;OCE;Territory
+ASI;Asia;ASI;ASI;Continent
 ATA;Antarctica;ATA;ATA;Continent
 ATF;French Southern Territories;FRA;ATA;Territory
 ATG;Antigua and Barbuda;ATG;NA;Country
+AUS;Australia;AUS;OCE;Country
 AUT;Austria;AUT;EUR;Country
 AZ;Arizona;USA;NA;State
 AZE;Azerbaijan;AZE;ASI;Country
@@ -46,38 +49,40 @@ BVT;Bouvet Island;NOR;ATA;Dependency
 BWA;Botswana;BWA;AFR;Country
 CA;California;USA;NA;State
 CAF;Central African Republic;CAF;AFR;Country
-CCK;Cocos (Keeling) Islands;AUS;OCE;Territory
+CAN;Canada;CAN;NA;Country
+CCK;Cocos (Keeling) Islands;AUS;OCE;External Territory
 CHE;Switzerland;CHE;EUR;Country
 CHL;Chile;CHL;SA;Country
+CHN;China;CHN;ASI;Country
 CHN-AH;Anhui;CHN;ASI;Province
-CHN-BJ;Beijing;CHN;ASI;Province
-CHN-CQ;Chongqing;CHN;ASI;Province
+CHN-BJ;Beijing;CHN;ASI;Municipality
+CHN-CQ;Chongqing;CHN;ASI;Municipality
 CHN-FJ;Fujian;CHN;ASI;Province
 CHN-GD;Guangdong;CHN;ASI;Province
 CHN-GS;Guansu;CHN;ASI;Province
-CHN-GX;Guanxi Zhuang;CHN;ASI;Province
+CHN-GX;Guanxi Zhuang;CHN;ASI;Autonomous Region
 CHN-GZ;Guizhou;CHN;ASI;Province
 CHN-HA;Henan;CHN;ASI;Province
 CHN-HB;Hubai;CHN;ASI;Province
 CHN-HE;Hebei;CHN;ASI;Province
 CHN-HI;Hainan;CHN;ASI;Province
-CHN-HN;Hunan;CHN;ASI;Province
 CHN-HL;Heliongjiang;CHN;ASI;Province
+CHN-HN;Hunan;CHN;ASI;Province
 CHN-JL;Jilin;CHN;ASI;Province
 CHN-JS;Jiangsu;CHN;ASI;Province
 CHN-JX;Jiangxi;CHN;ASI;Province
 CHN-LN;Lianoning;CHN;ASI;Province
-CHN-NM;Nei Mongol;CHN;ASI;Province
-CHN-NX;Ningxia Hui;CHN;ASI;Province
+CHN-NM;Nei Mongol;CHN;ASI;Autonomous Region
+CHN-NX;Ningxia Hui;CHN;ASI;Autonomous Region
 CHN-QH;Qinghai;CHN;ASI;Province
 CHN-SC;Sichuan;CHN;ASI;Province
 CHN-SD;Shangong;CHN;ASI;Province
-CHN-SH;Shanghai;CHN;ASI;Province
+CHN-SH;Shanghai;CHN;ASI;Municipality
 CHN-SN;Shaanxi;CHN;ASI;Province
 CHN-SX;Shanxi;CHN;ASI;Province
-CHN-TJ;Tianjin;CHN;ASI;Province
-CHN-XJ;Xinjiang Uyghur;CHN;ASI;Province
-CHN-XZ;Tibet;CHN;ASI;Province
+CHN-TJ;Tianjin;CHN;ASI;Municipality
+CHN-XJ;Xinjiang Uyghur;CHN;ASI;Autonomous Region
+CHN-XZ;Tibet;CHN;ASI;Autonomous Region
 CHN-YN;Yunnan;CHN;ASI;Province
 CHN-ZJ;Zhejiang;CHN;ASI;Province
 CIV;Côte d'Ivoire;CIV;AFR;Country
@@ -85,22 +90,38 @@ CMR;Cameroon;CMR;AFR;Country
 CO;Colorado;USA;NA;State
 COD;Congo (DRC);COD;AFR;Country
 COG;Congo;COG;AFR;Country
-COK;Cook Islands;NZL;OCE;Nation
+COK;Cook Islands;NZL;OCE;Associated State
 COL;Colombia;COL;SA;Country
 COM;Comoros;COM;AFR;Country
 CPV;Cabo Verde;CPV;AFR;Country
 CRI;Costa Rica;CRI;NA;Country
-CRM;Crimea;UKR;EUR;Republic
+CRM;Crimea;UKR;EUR;Autonomous Republic
 CT;Connecticut;USA;NA;State
 CUB;Cuba;CUB;NA;Country
 CUW;Curaçao;NLD;NA;Constituent Country
-CXR;Christmas Island;AUS;OCE;Territory
+CXR;Christmas Island;AUS;OCE;External Territory
 CYM;Cayman Islands;GBR;NA;Overseas Territory
 CYP;Cyprus;CYP;ASI;Country
 CZE;Czechia;CZE;EUR;Country
 DC;District of Columbia;USA;NA;Capital District
 DE;Delaware;USA;NA;State
 DEU;Germany;DEU;EUR;Country
+DEU-BW;Baden-Württemberg;DEU;EUR;State
+DEU-BY;Bavaria;DEU;EUR;State
+DEU-BE;Berlin;DEU;EUR;State
+DEU-BB;Brandenburg;DEU;EUR;State
+DEU-HB;Bremen;DEU;EUR;State
+DEU-HH;Hamburg;DEU;EUR;State
+DEU-HE;Hesse;DEU;EUR;State
+DEU-MV;Mecklenburg-Western Pomerania;DEU;EUR;State
+DEU-NI;Lower Saxony;DEU;EUR;State
+DEU-NW;North Rhine-Westphalia;DEU;EUR;State
+DEU-RP;Rhineland-Palatinate;DEU;EUR;State
+DEU-SL;Saarland;DEU;EUR;State
+DEU-SN;Saxony;DEU;EUR;State
+DEU-ST;Saxony-Anhalt;DEU;EUR;State
+DEU-SH;Schleswig-Holstein;DEU;EUR;State
+DEU-TH;Thuringia;DEU;EUR;State
 DJI;Djibouti;DJI;AFR;Country
 DMA;Dominica;DMA;NA;Country
 DNK;Denmark;DNK;EUR;Country
@@ -108,40 +129,61 @@ DOM;Dominican Republic;DOM;NA;Country
 DZA;Algeria;DZA;AFR;Country
 ECU;Ecuador;ECU;SA;Country
 EGY;Egypt;EGY;AFR;Country
-ENG;England;GBR;EUR;Country
+ENG;England;GBR;EUR;Constituent Country
 ERI;Eritrea;ERI;AFR;Country
-ESH;Western Sahara;ESH;AFR;Country
+ESH;Western Sahara;ESH;AFR;Disputed Territory
 ESP;Spain;ESP;EUR;Country
+ESP-AN;Andalusia;ESP;EUR;Autonomous Community
+ESP-AR;Aragon;ESP;EUR;Autonomous Community
+ESP-AS;Asturias;ESP;EUR;Autonomous Community
+ESP-CB;Cantabria;ESP;EUR;Autonomous Community
+ESP-CE;Ceuta;ESP;AFR;Autonomous City
+ESP-CL;Castile and León;ESP;EUR;Autonomous Community
+ESP-CM;Castilla-La Mancha;ESP;EUR;Autonomous Community
+ESP-CN;Canary Islands;ESP;EUR;Autonomous Community
+ESP-CT;Catalonia;ESP;EUR;Autonomous Community
+ESP-EX;Extremadura;ESP;EUR;Autonomous Community
+ESP-GA;Galicia;ESP;EUR;Autonomous Community
+ESP-IB;Balearic Islands;ESP;EUR;Autonomous Community
+ESP-MC;Region of Murcia;ESP;EUR;Autonomous Community
+ESP-MD;Community of Madrid;ESP;EUR;Autonomous Community
+ESP-ML;Melilla;ESP;AFR;Autonomous City
+ESP-NC;Navarre;ESP;EUR;Autonomous Community
+ESP-PV;Basque Country;ESP;EUR;Autonomous Community
+ESP-RI;La Rioja;ESP;EUR;Autonomous Community
+ESP-VC;Valencian Community;ESP;EUR;Autonomous Community
 EST;Estonia;EST;EUR;Country
 ETH;Ethiopia;ETH;AFR;Country
+EUR;Europe;EUR;EUR;Continent
 FIN;Finland;FIN;EUR;Country
 FJI;Fiji;FJI;OCE;Country
 FL;Florida;USA;NA;State
 FLK;Falkland Islands;GBR;SA;Overseas Territory
 FRA;France;FRA;EUR;Country
 FRH;Corsica;FRA;EUR;Region
-FRO;Faroe Islands;DNK;EUR;Autonomous Country
+FRO;Faroe Islands;DNK;EUR;Constituent Country
 FSM;Micronesia;FSM;OCE;Country
-GAB;Gabon;GAB;AFR;Country
 GA;Georgia (USA);USA;NA;State
+GAB;Gabon;GAB;AFR;Country
+GBR;United Kingdom;GBR;EUR;Country
 GEO;Georgia (Asia);GEO;ASI;Country
-GGY;Guernsey;GGY;EUR;Country
+GGY;Guernsey;GGY;EUR;Crown Dependency
 GHA;Ghana;GHA;AFR;Country
 GIB;Gibraltar;GBR;EUR;Overseas Territory
 GIN;Guinea;GIN;AFR;Country
-GLP;Guadeloupe;FRA;NA;Overseas Territory
+GLP;Guadeloupe;FRA;NA;Overseas Region
 GMB;The Gambia;GMB;AFR;Country
 GNB;Guinea-Bissau;GNB;AFR;Country
 GNQ;Equatorial Guinea;GNQ;AFR;Country
 GRC;Greece;GRC;EUR;Country
 GRD;Grenada;GRD;NA;Country
-GRL;Greenland;DNK;NA;Autonomous Consituent Country
+GRL;Greenland;DNK;NA;Constituent Country
 GTM;Guatemala;GTM;NA;Country
 GU;Guam;USA;OCE;Territory
-GUF;French Guiana;FRA;SA;Overseas Territory
+GUF;French Guiana;FRA;SA;Overseas Region
 GUY;Guyana;GUY;SA;Country
 HI;Hawaii;USA;OCE;State
-HKG;Hong Kong;CHN;ASI;Autonomous Territory
+HKG;Hong Kong;CHN;ASI;Special Administrative Region
 HMD;Heard Island and McDonald Islands;AUS;OCE;External Territory
 HND;Honduras;HND;NA;Country
 HRV;Croatia;HRV;EUR;Country
@@ -153,16 +195,17 @@ IDN;Indonesia;IDN;ASI;Country
 IL;Illinois;USA;NA;State
 IMN;Isle of Man;IMN;EUR;Crown Dependency
 IN;Indiana;USA;NA;State
-IND-AN;Andaman and Nicobar Islands;IND;ASI;Territory
+IND;India;IND;ASI;Country
+IND-AN;Andaman and Nicobar Islands;IND;ASI;Union Territory
 IND-AP;Andhra Pradesh;IND;ASI;State
 IND-AR;Arunachal Pradesh;IND;ASI;State
 IND-AS;Assam;IND;ASI;State
 IND-BR;Bihar;IND;ASI;State
 IND-CH;Chandigarh;IND;ASI;State
 IND-CT;Chhattisgarh;IND;ASI;State
-IND-DD;Daman and Diu;IND;ASI;State
-IND-DL;National Capital Territory of Delhi;IND;ASI;Capital Territory
-IND-DN;Dadra and Nagar Haveli;IND;ASI;State
+IND-DD;Daman and Diu;IND;ASI;Union Territory
+IND-DL;National Capital Territory of Delhi;IND;ASI;Union Territory
+IND-DN;Dadra and Nagar Haveli;IND;ASI;Union Territory
 IND-GA;Goa;IND;ASI;State
 IND-GJ;Gujarat;IND;ASI;State
 IND-HP;Himachal Pradesh;IND;ASI;State
@@ -171,7 +214,7 @@ IND-JH;Jharkhand;IND;ASI;State
 IND-JK;Jammu and Kashmir;IND;ASI;State
 IND-KA;Karnataka;IND;ASI;State
 IND-KL;Kerala;IND;ASI;State
-IND-LD;Lakshadweep;IND;ASI;State
+IND-LD;Lakshadweep;IND;ASI;Union Territory
 IND-MH;Maharashtra;IND;ASI;State
 IND-ML;Meghalaya;IND;ASI;State
 IND-MN;Manipur;IND;ASI;State
@@ -180,7 +223,7 @@ IND-MZ;Mizoram;IND;ASI;State
 IND-NL;Nagaland;IND;ASI;State
 IND-OR;Odisha;IND;ASI;State
 IND-PB;Punjab;IND;ASI;State
-IND-PY;Puducherry;IND;ASI;State
+IND-PY;Puducherry;IND;ASI;Union Territory
 IND-RJ;Rajasthan;IND;ASI;State
 IND-SK;Sikkim;IND;ASI;State
 IND-TG;Telangana;IND;ASI;State
@@ -189,7 +232,7 @@ IND-TR;Tripura;IND;ASI;State
 IND-UP;Uttar Pradesh;IND;ASI;State
 IND-UT;Uttarakhand;IND;ASI;State
 IND-WB;West Bengal;IND;ASI;State
-IOT;British Indian Ocean Territory;GBR;ASI;Overseas Territory
+IOT;British Indian Ocean Territory;IOT;ASI;Overseas Territory
 IRL;Ireland;IRL;EUR;Country
 IRN;Iran;IRN;ASI;Country
 IRQ;Iraq;IRQ;ASI;Country
@@ -197,7 +240,7 @@ ISL;Iceland;ISL;EUR;Country
 ISR;Israel;ISR;ASI;Country
 ITA;Italy;ITA;EUR;Country
 JAM;Jamaica;JAM;NA;Country
-JEY;Jersey;JEY;EUR;Country
+JEY;Jersey;JEY;EUR;Crown Dependency
 JOR;Jordan;JOR;ASI;Country
 JPN;Japan;JPN;ASI;Country
 KAZ;Kazakhstan;KAZ;ASI;Country
@@ -223,16 +266,17 @@ LTU;Lithuania;LTU;EUR;Country
 LUX;Luxembourg;LUX;EUR;Country
 LVA;Latvia;LVA;EUR;Country
 MA;Massachusetts;USA;NA;State
-MAC;Macao;CHN;ASI;Autonomous Territory
+MAC;Macao;CHN;ASI;Special Administrative Region
 MAF;Saint Martin;FRA;NA;Overseas Collectivity
 MAR;Morocco;MAR;AFR;Country
-MB;Manitoba;CAN;NA;Provinc
+MB;Manitoba;CAN;NA;Province
 MCO;Monaco;MCO;EUR;Country
 MD;Maryland;USA;NA;State
 MDA;Moldova;MDA;EUR;Country
 MDG;Madagascar;MDG;AFR;Country
 MDV;Maldives;MDV;ASI;Country
 ME;Maine;USA;NA;State
+MEX;Mexico;MEX;NA;Country
 MEX-AGS;Aguascalientes;MEX;NA;State
 MEX-BC;Baja California;MEX;NA;State
 MEX-BCS;Baja California Sur;MEX;NA;State
@@ -266,8 +310,8 @@ MEX-VER;Veracruz;MEX;NA;State
 MEX-YUC;Yucatán;MEX;NA;State
 MEX-ZAC;Zacatecas;MEX;NA;State
 MHL;Marshall Islands;MHL;OCE;Country
-MKD;Macedonia;MKD;EUR;Country
 MI;Michigan;USA;NA;State
+MKD;Macedonia;MKD;EUR;Country
 MLI;Mali;MLI;AFR;Country
 MLT;Malta;MLT;EUR;Country
 MMR;Myanmar;MMR;ASI;Country
@@ -281,11 +325,12 @@ MRT;Mauritania;MRT;AFR;Country
 MS;Mississippi;USA;NA;State
 MSR;Montserrat;GBR;NA;Overseas Territory
 MT;Montana;USA;NA;State
-MTQ;Martinique;FRA;NA;Insular Region
+MTQ;Martinique;FRA;NA;Overseas Region
 MUS;Mauritius;MUS;AFR;Country
 MWI;Malawi;MWI;AFR;Country
 MYS;Malaysia;MYS;ASI;Country
-MYT;Mayotte;FRA;AFR;Insular Region
+MYT;Mayotte;FRA;AFR;Overseas Region
+NA;North America;NA;NA;Continent
 NAM;Namibia;NAM;AFR;Country
 NB;New Brunswick;CAN;NA;Province
 NC;North Carolina;USA;NA;State
@@ -297,8 +342,8 @@ NFK;Norfolk Island;AUS;OCE;External Territory
 NGA;Nigeria;NGA;AFR;Country
 NH;New Hampshire;USA;NA;State
 NIC;Nicaragua;NIC;NA;Country
-NIR;Northern Ireland;GBR;EUR;Country
-NIU;Niue;NZL;OCE;Country
+NIR;Northern Ireland;GBR;EUR;Province
+NIU;Niue;NZL;OCE;Associated Country
 NJ;New Jersey;USA;NA;State
 NL;Newfoundland and Labrador;CAN;NA;Province
 NLD;Netherlands;NLD;EUR;Country
@@ -313,6 +358,7 @@ NU;Nunavut;CAN;NA;Territory
 NV;Nevada;USA;NA;State
 NY;New York;USA;NA;State
 NZL;New Zealand;NZL;OCE;Country
+OCE;Oceania;OCE;OCE;Continent
 OH;Ohio;USA;NA;State
 OK;Oklahoma;USA;NA;State
 OMN;Oman;OMN;ASI;Country
@@ -321,7 +367,7 @@ OR;Oregon;USA;NA;State
 PA;Pennsylvania;USA;NA;State
 PAK;Pakistan;PAK;ASI;Country
 PAN;Panama;PAN;NA;Country
-PCN;Pitcairn;GBR;OCE;Overseas Territory
+PCN;Pitcairn;PCN;OCE;Overseas Territory
 PE;Prince Edward Island;CAN;NA;Province
 PER;Peru;PER;SA;Country
 PHL;Philippines;PHL;ASI;Country
@@ -343,23 +389,24 @@ RKS;Kosovo;RKS;EUR;Country
 ROU;Romania;ROU;EUR;Country
 RUS;Russia;RUS;EUR;Country
 RWA;Rwanda;RWA;AFR;Country
+SA;South America;SA;SA;Continent
+SAS;South Australia;AUS;OCE;State
 SAU;Saudi Arabia;SAU;ASI;Country
 SC;South Carolina;USA;NA;State
-SCT;Scotland;GBR;EUR;Country
+SCT;Scotland;GBR;EUR;Constituent Country
 SD;South Dakota;USA;NA;State
 SDN;Sudan;SDN;AFR;Country
 SEN;Senegal;SEN;AFR;Country
 SGP;Singapore;SGP;ASI;Country
-SGS;South Georgia and the South Sandwich Islands;GBR;ATA;Overseas Territory
-SHN;Saint Helena, Ascension and Tristan da Cunha;GBR;AFR;Overseas Territory
-SJM;Svalbard and Jan Mayen;NOR;EUR;Territory
+SGS;South Georgia and the South Sandwich Islands;SGS;ATA;Overseas Territory
+SHN;Saint Helena, Ascension and Tristan da Cunha;SHN;AFR;Overseas Territory
+SJM;Svalbard and Jan Mayen;NOR;EUR;Arctic Regions
 SK;Saskatchewan;CAN;NA;Province
 SLB;Solomon Islands;SLB;OCE;Country
 SLE;Sierra Leone;SLE;AFR;Country
 SLV;El Salvador;SLV;NA;Country
 SMR;San Marino;SMR;EUR;Country
 SOM;Somalia;SOM;AFR;Country
-SAS;Southern Australia;AUS;OCE;State
 SPM;Saint Pierre and Miquelon;FRA;NA;Overseas Collectivity
 SRB;Serbia;SRB;EUR;Country
 SSD;South Sudan;SSD;AFR;Country
@@ -369,11 +416,11 @@ SVK;Slovakia;SVK;EUR;Country
 SVN;Slovenia;SVN;EUR;Country
 SWE;Sweden;SWE;EUR;Country
 SWZ;Swaziland;SWZ;AFR;Country
-SXM;Sint Maarten;NLD;NA;Consituent Country
+SXM;Sint Maarten;NLD;NA;Constituent Country
 SYC;Seychelles;SYC;AFR;Country
 SYR;Syria;SYR;ASI;Country
-TAS;Tasmania;AUS;OCE;Country
-TCA;Turks and Caicos Islands;GBR;NA;Overseas Territory
+TAS;Tasmania;AUS;OCE;State
+TCA;Turks and Caicos Islands;TCA;NA;Overseas Territory
 TCD;Chad;TCD;AFR;Country
 TGO;Togo;TGO;AFR;Country
 THA;Thailand;THA;ASI;Country
@@ -387,20 +434,21 @@ TTO;Trinidad and Tobago;TTO;NA;Country
 TUN;Tunisia;TUN;AFR;Country
 TUR;Turkey;TUR;ASI;Country
 TUV;Tuvalu;TUV;OCE;Country
-TWN;Taiwan;CHN;ASI;Country
+TWN;Taiwan;CHN;ASI;Independent Province
 TX;Texas;USA;NA;State
 TZA;Tanzania;TZA;AFR;Country
 UGA;Uganda;UGA;AFR;Country
 UKR;Ukraine;UKR;EUR;Country
 UM;United States Minor Outlying Islands;USA;OCE;Territory
 URY;Uruguay;URY;SA;Country
+USA;United States of America;USA;NA;Country
 UT;Utah;USA;NA;State
 UZB;Uzbekistan;UZB;ASI;Country
 VA;Virginia;USA;NA;State
 VAT;Holy See;VAT;EUR;Country
 VCT;Saint Vincent and the Grenadines;VCT;NA;Country
 VEN;Venezuela;VEN;SA;Country
-VGB;Virgin Islands (British);GBR;NA;Overseas Territory
+VGB;Virgin Islands (British);VGB;NA;Overseas Territory
 VI;Virgin Islands (US);USA;NA;Territory
 VIC;Victoria;AUS;OCE;State
 VNM;Vietnam;VNM;ASI;Country
@@ -409,8 +457,8 @@ VUT;Vanuatu;VUT;OCE;Country
 WA;Washington;USA;NA;State
 WAS;Western Australia;AUS;OCE;State
 WI;Wisconsin;USA;NA;State
-WLF;Wallis and Futuna;FRA;OCE;Territory
-WLS;Wales;GBR;EUR;Country
+WLF;Wallis and Futuna;FRA;OCE;Overseas Collectivity
+WLS;Wales;GBR;EUR;Constituent Country
 WSM;Samoa;WSM;OCE;Country
 WV;West Virginia;USA;NA;State
 WY;Wyoming;USA;NA;State
@@ -419,5 +467,3 @@ YT;Yukon;CAN;NA;Territory
 ZAF;South Africa;ZAF;AFR;Country
 ZMB;Zambia;ZMB;AFR;Country
 ZWE;Zimbabwe;ZWE;AFR;Country
-ASI;Asia;ASI;ASI;Continent
-EUR;Europe;EUR;EUR;Continent
