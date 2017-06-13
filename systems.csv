@@ -163,6 +163,7 @@ usatx;USA;Texas State Highways;brown;4;active
 usatxl;USA;Texas State Highway Loops;brown;4;active
 usatxs;USA;Texas State Highway Spurs;brown;4;active
 usaut;USA;Utah State Highways;brown;4;active
+usava;USA;Virginia State Highways;brown;4;active
 usavt;USA;Vermont State Highways;brown;4;active
 usavi;USA;US Virgin Islands Territorial Highways;brown;4;active
 usawa;USA;Washington State Highways;brown;4;active
@@ -178,10 +179,12 @@ autb;AUT;Austria Landesstraßen B;lightsalmon;4;preview
 beln0;BEL;Belgium Gewestwegen / Route Nationale 1-99;lightsalmon;4;preview
 beln1;BEL;Belgium Gewestwegen / Route Nationale 101-186;lightsalmon;4;preview
 beln2;BEL;Belgium Gewestwegen / Route Nationale 201-287;lightsalmon;4;preview
+beln3;BEL;Belgium Gewestwegen / Route Nationale 300-399;lightsalmon;4;preview
 bihm;BIH;Bosnia and Herzegovina Magistrale;lightsalmon;4;preview
 brbh;BRB;Barbados Highways;brown;4;preview
 canmb;CAN;Manitoba Provincial Trunk Highways;brown;4;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;brown;4;preview
+canqc;CAN;Quebec Provincial Routes;brown;4;preview
 cheh;CHE;Switzerland Hauptstrassen;lightsalmon;4;preview
 chng;CHN;China National Expressways;blue;1;preview
 czei;CZE;Czechia Silnice I. Třídy;lightsalmon;4;preview
@@ -200,6 +203,7 @@ islth;ISL;Iceland Þjóðvegur;lightsalmon;4;preview
 index;IND;India National Expressways;blue;1;preview
 irlr;IRL;Ireland Regional Roads;yellow;5;preview
 irnf;IRN;Iran Freeways;blue;1;preview
+isrh;ISR;Israel Highways;lightsalmon;4;preview
 jama;JAM;Jamaica A Roads;brown;4;preview
 korex;KOR;(South) Korean Expressways;blue;1;preview
 lkae;LKA;Sri Lanka Expressways;blue;1;preview
@@ -224,11 +228,9 @@ usamts;USA;Montana Secondary State Highways;yellow;5;preview
 usapr;USA;Puerto Rico Territorial Highways;brown;4;preview
 usasc;USA;South Carolina State Highways;brown;4;preview
 usatn;USA;Tennessee State Highways;brown;4;preview
-usava;USA;Virginia State Highways;brown;4;preview
 #Devel Systems
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
-beln3;BEL;Belgium Gewestwegen / Route Nationale 300-399;lightsalmon;4;devel
 #beln4;BEL;Belgium Gewestwegen / Route Nationale 400-499;lightsalmon;4;devel
 #beln5;BEL;Belgium Gewestwegen / Route Nationale 500-599;lightsalmon;4;devel
 #beln6;BEL;Belgium Gewestwegen / Route Nationale 600-699;lightsalmon;4;devel
@@ -238,11 +240,10 @@ beln8;BEL;Belgium Gewestwegen / Route Nationale 800-899;lightsalmon;4;devel
 canmbw;CAN;Winnipeg City Routes;yellow;5;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
-canqc;CAN;Quebec Provincial Routes;brown;4;devel
 cansph;CAN;Canada Select Provincial Highways;brown;4;devel
 #deubwl;DEU;Baden-Württemberg Landesstraßen;yellow;5;devel
 #deubbl;DEU;Brandenburg Landesstraßen;yellow;5;devel
-#deuhel;DEU;Hesse Landesstraßen;yellow;5;devel
+deuhel;DEU;Hesse Landesstraßen;yellow;5;devel
 #deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;devel
 #deunil;DEU;Lower Saxony Landesstraßen;yellow;5;devel
 #deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;devel
@@ -251,6 +252,7 @@ cansph;CAN;Canada Select Provincial Highways;brown;4;devel
 #deusns;DEU;Saxony Staatsstraßen;yellow;5;devel
 #deustl;DEU;Saxony-Anhalt Landesstraßen;yellow;5;devel
 #deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;devel
+#deuthl;DEU;Thuringia Landesstraßen;yellow;5;devel
 grceo;GRC;Greece Ethniki Odos;lightsalmon;4;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 nama;NAM;Namibia A Roads;blue;1;devel
@@ -265,7 +267,15 @@ ngae;NGA;Nigeria Expressways;blue;1;devel
 #norfv7;NOR;Norway Primære Fylkesveier 700-777;yellow;5;devel
 #norfv8;NOR;Norway Primære Fylkesveier 801-866;yellow;5;devel
 nplh;NPL;Nepal Highways;lightsalmon;4;devel
-#poldw;POL;Poland Droga Wojewódzka;yellow;5;devel
+poldw1;POL;Poland Droga Wojewódzka 100-199;yellow;5;devel
+#poldw2;POL;Poland Droga Wojewódzka 200-299;yellow;5;devel
+#poldw3;POL;Poland Droga Wojewódzka 300-399;yellow;5;devel
+#poldw4;POL;Poland Droga Wojewódzka 400-499;yellow;5;devel
+#poldw5;POL;Poland Droga Wojewódzka 500-599;yellow;5;devel
+#poldw6;POL;Poland Droga Wojewódzka 600-699;yellow;5;devel
+#poldw7;POL;Poland Droga Wojewódzka 700-799;yellow;5;devel
+#poldw8;POL;Poland Droga Wojewódzka 800-899;yellow;5;devel
+#poldw9;POL;Poland Droga Wojewódzka 900-999;yellow;5;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
 rusa;RUS;Russia Access Roads;lightsalmon;4;devel
 usaas;USA;American Samoa Territorial Highways;brown;4;devel

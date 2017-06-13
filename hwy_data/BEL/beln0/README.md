@@ -35,5 +35,11 @@
 - `N290` should be signed according to OSM and GM but not on GSV, only one sign on GSV in Brussegem where GM is not indicating it and OSM indicates it `N296`
 - `N291`, `N292`, `N294` and `N295` seem to be unsigned; only indicated on GM
 - `N293`, `N296`, `N297`, `N298`, `N299` and `N310` are unsigned
-- `N317`, `N320` and `N324` should be signed according to wegenwiki, OSM and GM but not on GSV
-- `N334` and `N335` seem to be unsigned; only indicated on GM
+- `N317`, `N320` and `N324` should be signed according to OSM and GM but not on GSV
+- `N334`, `N335`, `N342`, `N348` and `N359` seem to be unsigned; only indicated on GM
+- `N341`, `N344`, `N346` and `N360` should be signed according to OSM and GM but not on GSV
+- `N378` and `N384` are unsigned
+- `N386` should be signed according to OSM and GM but not on GSV, however, GSV is not available at the only N road junction with N34
+- `N388` and `N388` seem to be unsigned; only indicated on OSM
+- `N392` and `N393` should be signed according to OSM and GM but not on GSV
+- `N395a` and `N395b` are concurrent with R8, the northern carriageway is `N395a`, the southern carriageway `N395b`; excluded from beln system

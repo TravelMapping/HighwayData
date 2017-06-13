@@ -1,4 +1,4 @@
-﻿YYYY-MM-DD;Country;Route;Root;Description
+﻿date;region;route;root;description
 2016-03-12;Albania;A1 (Thumane);alb.a001thu;New Route
 2016-03-12;Albania;A3;;Route Deleted
 2016-03-12;Albania;A3 (Dobresh);alb.a003dob;New Route
@@ -95,6 +95,9 @@
 2016-11-19;(Canada) Nova Scotia;TCH (Main);ns.tchmai;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-02-27;(Canada) Nova Scotia;NS 255;ns.ns255;Removed from a closed roadway and demolished bridge, and relocated onto a new parallel roadway and bridge to the east between points labeled *OldNS255_N and *OldNS255_S
 2016-01-02;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from partially-closed local roads through Port Joli and East Port L'Hebert, and relocated onto a limited-access bypass to the north, between closed intersections labeled *OldNS103_PJo and *OldNS103_EPL
+2017-06-11;(Canada) Ontario;ON 427;on.on427;Truncated at the southern end at Coules Court to the interchange just to the north at Evans Avenue.
+2017-06-05;(Canada) Ontario;ON 417;on.on417;Extended westward from Exit 184 to Exit 187.
+2017-06-05;(Canada) Ontario;ON 17;on.on017;Truncated from the former eastern end at ON 417 Exit 184 in Arnpior to the new ON 417 Exit 187. Section is now only ON 417.
 2016-12-27;(Canada) Ontario;ON 8;on.on008;Extended at southern end from the interchange with RR 8 (King Street) to ON 401 along the Freeport Diversion
 2016-06-24;(Canada) Ontario;ON 407;on.on407;Extended at eastern end from Exit 105 (Brock Road, former ON 7 intersection) to Exit 127 (Harmony Road)
 2016-06-24;(Canada) Ontario;ON 412;on.on412;Added Route
@@ -175,6 +178,7 @@
 2015-11-13;Czechia;R6 (Bošov);cze.r006bos;New Route
 2015-07-28;Czechia;Městský Okruh;cze.mo;New route
 2015-07-28;Czechia;R43;cze.r043;New route
+2017-05-30;Denmark;Messemotorvejen (Vest Herning);dnk.mesmotves;New Route
 2016-10-31;Denmark;O2 (Næstved);dnk.pro2nae;New Route
 2016-10-31;Denmark;PR14;dnk.pr14;Route truncated at south end from PR22 junction to PR54/O2 junction
 2016-10-31;Denmark;PR54;dnk.pr54;Route removed from Køgevej between Ringstedgade and O2, and relocated onto Ring Nord between O2_E and PR22
@@ -241,6 +245,12 @@
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 67 and 69
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between Yt1792 and exit 72 
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 81 and 85
+2017-06-01;France;N10;fra.n010;Route removed from D910 and relocated onto new voie express between exits 71 and 74.1
+2017-06-01;France;E606;fra.e606;Route removed from D910 and relocated onto N10 between N10 exits 71 and 74.1
+2017-05-30;France;A9;fra.a009;Route removed from A709 and relocated on Montpellier bypass between northern and southern junctions with A709
+2017-05-30;France;A709;fra.a709;Route extended at north end from former east junction with A9 to north junction with A9 and at south end from former west junction with A9 to south junction with A9
+2017-05-30;France;E15;fra.e15;Route removed from A709 and relocated on A9 between northern and southern junctions with A709 
+2017-05-30;France;E80;fra.e80;Route removed from A709 and relocated on A9 between northern and southern junctions with A709
 2017-05-10;France;N134;fra.n134;Route removed from Oloron-Sainte-Marie Rocade and relocated through the town, between D6 and D55
 2017-04-26;France;E9;fra.e9;Route removed from N2020 and relocated onto N20 between N2020_N and N2020_S
 2017-04-26;France;N20;fra.n020;Route removed from route through Ax-les-Thermes and relocated onto bypass between N2020_N and N2020_S
@@ -385,6 +395,12 @@
 2015-09-10;Germany;A524;deu.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;Germany;A544;deu.a544;Route re-entered
 2015-09-10;Germany;A562;deu.a562;Route re-entered
+2017-06-02;Greece;A25;grc.a025;Route extended at northern end from the EO12 at Strymoniko to the Bulgaria border
+2017-06-02;Greece;A25 (Sidirokastro);grc.a025;Route merged with main A25
+2017-06-02;Greece;E79;grc.e79;Route removed from EO63 and EO12 and relocated onto A25 between Kato Christos and the EO12 at Strymoniko
+2017-06-01;Greece;A5 (Agrinio);grc.a005;Route extended at south end from temporary terminus at Riza to exit K7
+2017-06-01;Greece;A5 (Patras);grc.a005;Route merged into Agrinio section
+2017-06-01;Greece;E55;grc.e55;Route removed from EO5 and relocated onto A5 between former junction at Riza and A5 exit 1
 2017-04-26;Greece;A8;grc.a008;Route extended at east end from exit 16 to the junction with E08a in Patras
 2017-04-26;Greece;A8 (Patras);grc.a008;Route merged into main route
 2017-04-13;Greece;A5;grc.a005;Route extended at southern end from exit 5 to Riza
@@ -469,6 +485,12 @@
 2015-07-24;Ireland;M11 (Gorey);irl.m011gor;Route extended at north end from exit 20 to exit 14 (including Rathnew section)
 2015-07-24;Ireland;M11 (Rathnew);;Route merged with Gorey section
 2015-07-24;Ireland;N11 (Wicklow);;Route deleted
+2017-05-31;Israel;F2;isr.f002;Route extended at north end from R721 to H4
+2017-05-31;Israel;F6 (Be'er Sheva);isr.f006bee;New Route
+2017-05-31;Israel;F7;isr.f007;New Route
+2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
+2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
+2016-12-30;Israel;F20;isr.f020;Route extended at north end from exit 20 to exit 22
 2016-09-10;Italy;A55 (Diramazione per Moncalieri);ita.a055mon;New Route
 2016-09-10;Italy;A6;ita.a006;Route truncated at north end from CorTri to A55
 2015-12-23;Italy;E35;ita.e35;Removed from A1 and relocated onto A1Var between northern and southern A1/A1Var junctions
@@ -546,7 +568,6 @@
 2015-08-25;Italy;Tangenziale di Bologna;;Route renamed RA1
 2015-08-25;Italy;Tangenziale di Bologna (Borgo Panigale);;Route renamed RA1 (Borgo Panigale)
 2015-08-25;Italy;Tangenziale di Catania;;Renamed RA15
-2016-12-30;Israel;F20;isr.f020;Route extended at north end from exit 20 to exit 22
 2016-03-28;Jamaica;T3;jam.t003;Route extended at north end from temporary terminus with A1 at Monleague to the A3.
 2016-03-11;Jamaica;T3;jam.t003;Route extended at south end from the A1 at Angels to the A1 at Caymanas
 2016-02-07;Jamaica;T3;jam.t003;Route extended at south end from A1 at Linstead to A1 at Spanish Town
@@ -806,6 +827,11 @@
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2017-06-12;Romania;DN7;rou.dn007;Removed from Centura Călimănești and relocated through town between northern and southern junctions with Soseaua de Centura
+2017-06-12;Romania;E81;rou.e81;Removed from Centura Călimănești and relocated through town between northern and southern junctions with Soseaua de Centura
+2017-06-12;Romania;DN59D;rou.dn059d;New Route
+2017-06-12;Romania;DN59E;rou.dn059e;New Route
+2017-06-12;Romania;DN59F;rou.dn059f;New Route
 2017-03-06;Romania;A1 (Arad);rou.a001ara;Route extended at east end from DN68 at Dumbrava to DN68 at Margina
 2016-12-30;Romania;DN VO1K;rou.dnvo1k;New Route (Centura Brasov)
 2015-12-23;Romania;A1 (Arad);rou.a001ara;Route extended at east end from the DN6 to the DN68A at Dumbrava
@@ -869,6 +895,7 @@
 2015-12-02;Serbia;E75;srb.e75;Route removed from B44 and relocated onto A1 between A1 exits 55 and 59
 2015-07-28;Serbia;E75;srb.e75;Relocated from motorway route through central Belgrade onto Belgrade Ring Road, between the M22.1 at Batajnica and the southern junction with E75 Belgrade
 2015-07-28;Serbia;E75 (Belgrade);srb.e75bel;New Route
+2017-06-12;Slovakia;D3 (Skalite);svk.d003ska;New Route
 2017-05-16;Slovakia;E58;svk.e58;Route removed from I/16 and rerouted onto R2 between the I/16 at Zvolenska Slatina and R2 exit 117
 2017-05-16;Slovakia;E572;svk.e572;Route removed from I/9 and relocated onto R2 Bánovce nad Bebravou bypass between 'R2/I9_N' and 'R2/I9_S'
 2017-05-16;Slovakia;E572;svk.e572;Route removed from I/9 and I/65 and relocated onto R2 between 'R2/I9' and R1
@@ -1329,11 +1356,13 @@
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;New route
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2017-05-22;(USA) Colorado;CO12;co.co012;Route relocated from Main Street and Animas Street and relocated onto Nevada Avenue between MainSt_E and AniSt
 2017-02-11;(USA) Colorado;US6;co.us006;Route relocated from 1st Street, Ute Avenue/Pitkin Avenue, and I-70 Business Loop onto North Avenue, in Grand Junction, between 'US50_E' and 'I-70BLGra_W'
 2017-02-11;(USA) Colorado;US6 Bypass (Grand Junction);;Route merged into main US6 route.
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business Berthoud;;Route deleted
+2017-06-07;(USA) Connecticut;CT 2A;ct.ct002a;Relabeled exits from sequential to mileage-based, all numbered exits changed
 2016-02-12;(USA) Connecticut;Milford Parkway;ct.milpkwy;Route added
 2015-12-16;(USA) Connecticut;I-395;ct.i395;Relabeled exits from sequential to mileage-based, all numbers changed
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
@@ -1345,9 +1374,10 @@
 2017-03-03;(USA) Hawaii;HI 3800;hi.hi3800;Route added
 2015-12-26;(USA) Hawaii;HI 3000;hi.hi3000;Route added
 2015-11-17;(USA) Hawaii;HI 380;hi.hi380;Route relocated from closed Dairy Rd. segment between waypoints AirAccRd and PakSt_N, onto parts of Airport Access Rd. and Pakaula St.
-2017-04-02;(USA) Idaho;US95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
-2017-04-02;(USA) Idaho;US95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
-2015-08-03;(USA) Idaho;ID16;id.id016;Route extended at south end from ID44 to US20/26
+2017-06-09;(USA) Idaho;US 30 Business (Lava Hot Springs);;Route deleted
+2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
+2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
+2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
 2016-12-21;(USA) Illinois;US 67;il.us067;Relocated intersection with IL3 and IL 111 eastward to Alton Square Mall Drive, removing IL3/111 label, new intersection OldIL3/111
 2016-12-21;(USA) Illinois;IL 3;il.il003;Relocated intersection with US 67 eastward to Alton Square Mall Drive, removing US67 label, new intersection ToUS67
 2016-12-21;(USA) Illinois;IL 111;il.il111;Relocated intersection with US 67 eastward to Alton Square Mall Drive, removing US67 label, new intersection ToUS67
@@ -1362,30 +1392,30 @@
 2017-01-06;(USA) Indiana;I-69 Wheatonville;in.i069whe;Extended at south end to Kentucky Ave, incorporating former I-164
 2017-01-06;(USA) Indiana;I-164;;Route deleted
 2016-12-18;(USA) Indiana;I-265 Fut (Louisville, KY);in.i265futlou;Extended to Kentucky border at new Ohio River bridge
-2016-12-18;(USA) Indiana;IN265;in.in265;Extended to Kentucky border at new Ohio River bridge
+2016-12-18;(USA) Indiana;IN 265;in.in265;Extended to Kentucky border at new Ohio River bridge
 2016-11-26;(USA) Indiana;IN 28 Truck (Albany);in.in028trkalb;Route added
 2016-11-26;(USA) Indiana;IN 329;in.in329;Route added
 2016-11-26;(USA) Indiana;IN 9 Truck (Shelbyville);in.in009trkshe;Removed from IN 44 between IN 9 and Progress Pkwy and onto Progress Pkwy between IN 9 and IN 44
 2016-11-24;(USA) Indiana;IN 257;in.in257;Extended 500m east from Broadway St to end of state maintenance
 2016-11-06;(USA) Indiana;Sam Jones Expy;in.samjonexpy;Route added
 2016-11-06;(USA) Indiana;Shadeland Ave;in.shaave;Route added
-2016-08-09;(USA) Indiana;IN912 ((West) East Chicago);in.in912ham;Renamed as IN912 (Hammond)
+2016-08-09;(USA) Indiana;IN 912 ((West) East Chicago);in.in912ham;Renamed as IN 912 (Hammond)
 2016-07-25;(USA) Indiana;US 30 Business (Columbia City, IN);;Route deleted
-2016-05-18;(USA) Indiana;US41Bus (Vincennes);in.us041busvin;Route added
-2016-05-01;(USA) Indiana;US33 Truck (Goshen);;Route deleted
-2016-03-12;(USA) Indiana;US33 Truck (Goshen);us.033trkgos;Route added
+2016-05-18;(USA) Indiana;US 41 Business (Vincennes);in.us041busvin;Route added
+2016-05-01;(USA) Indiana;US 33 Truck (Goshen);;Route deleted
+2016-03-12;(USA) Indiana;US 33 Truck (Goshen);us.033trkgos;Route added
 2015-12-09;(USA) Indiana;I-69 (Wheatonville);in.i069whe;Extended at north end from exit 87 to exit 114
 2015-08-21;(USA) Indiana;Keystone Parkway;in.keypkwy;Route added
 2015-08-20;(USA) Indiana;I-164;in.i164;Truncated at north end from exit 20 to US41
-2015-08-20;(USA) Indiana;US52;in.us052;Removed from Sagamore Parkway, Lafayette and relocated onto US231, Old US231 and Teal Road between western junction with Sagamore Pkwy (formerly southern junction with US231) and eastern junction with Sagamore Pkwy (formerly junction with IN25)
+2015-08-20;(USA) Indiana;US 52;in.us052;Removed from Sagamore Parkway, Lafayette and relocated onto US231, Old US231 and Teal Road between western junction with Sagamore Pkwy (formerly southern junction with US231) and eastern junction with Sagamore Pkwy (formerly junction with IN25)
 2015-08-20;(USA) Indiana;Veterans Memorial Parkway;in.vetmempkwy;Route added
 2015-08-03;(USA) Indiana;Future I-69 Indianapolis;in.i069futind;Route added
 2015-08-03;(USA) Indiana;I-69 (Wheatonville);in.i069whe;Extended at south end from exit 20 to exit 0
-2015-08-03;(USA) Indiana;IN912;in.in912;Truncated at north end from Riley Road to exit 5A
-2015-08-03;(USA) Indiana;IN912 ((West) East Chicago);in.in912wec;Extended at east end from US41 to Riley Road
-2015-08-03;(USA) Indiana;US24;in.us024;Relocated from Monticello Road onto Hoosier Heartland Highway between MonRd_W and MonRd_E
-2015-08-03;(USA) Indiana;US31;in.us031;Relocated from Dixie Highway onto freeway between exit 240 and 246
-2015-08-03;(USA) Indiana;US35;in.us035;Relocated from Monticello Road and onto Hoosier Heartland Highway between MonRd_W and MonRd_E
+2015-08-03;(USA) Indiana;IN 912;in.in912;Truncated at north end from Riley Road to exit 5A
+2015-08-03;(USA) Indiana;IN 912 ((West) East Chicago);in.in912wec;Extended at east end from US41 to Riley Road
+2015-08-03;(USA) Indiana;US 24;in.us024;Relocated from Monticello Road onto Hoosier Heartland Highway between MonRd_W and MonRd_E
+2015-08-03;(USA) Indiana;US 31;in.us031;Relocated from Dixie Highway onto freeway between exit 240 and 246
+2015-08-03;(USA) Indiana;US 35;in.us035;Relocated from Monticello Road and onto Hoosier Heartland Highway between MonRd_W and MonRd_E
 2016-12-21;(USA) Iowa;US 34 Business (Glenwood);;Deleted route
 2016-12-21;(USA) Iowa;IA 100;ia.ia100;Extended west from Edgewood Road to Covington Road
 2016-06-20;(USA) Iowa;IA 192;;Deleted route
@@ -1410,7 +1440,7 @@
 2017-01-06;(USA) Kentucky;US 41;ky.us041;Removed from old route in Henderson (now KY 2084) between Pennyrile Pkwy Exit 78 and KY 425 and onto KY 425 and Pennyrile Pkwy between Exits 76 and 78
 2016-12-20;(USA) Kentucky;KY 99;ky.ky0099;Extended a few feet south from KY1578 to Tennessee border
 2016-12-18;(USA) Kentucky;I-265 Fut (Louisville, KY);ky.i265futlou;Extended to Indiana border at new Ohio River bridge
-2016-12-18;(USA) Kentucky;KY841;ky.ky0841;Extended to Indiana border at new Ohio River bridge
+2016-12-18;(USA) Kentucky;KY 841;ky.ky0841;Extended to Indiana border at new Ohio River bridge
 2016-12-09;(USA) Kentucky;Bert T. Combs Mountain Parkway;ky.commtnpkwy;Moved to new alignment between exits 72 & 75
 2016-12-09;(USA) Kentucky;I-66Fut (Bowling Green, KY);ky.i066futbow;Truncated to I-65 at western end
 2016-12-09;(USA) Kentucky;KY 3050;ky.ky3050;Route added
@@ -1441,7 +1471,7 @@
 2016-02-20;(USA) Kentucky;KY 748;ky.ky0748;Route added
 2016-02-14;(USA) Kentucky;KY 77;ky.ky0077;Moved end at US460 to new location shared with KY1242
 2016-02-14;(USA) Kentucky;US 460;ky.us460;Realigned segment east of Frenchburg between OldUS460_W and OldUS460_E and moved waypoints for KY77 and KY1242 to new shared location
-2016-02-06;(USA) Kentucky;KY361;ky.ky0361;Route added
+2016-02-06;(USA) Kentucky;KY 361;ky.ky0361;Route added
 2016-01-23;(USA) Kentucky;US 68 Business (Old Washington);ky.us068busold;Truncated north end to US62
 2016-01-16;(USA) Kentucky;Hal Rogers Parkway;ky.halrogpkwy;Route added
 2016-01-07;(USA) Kentucky;KY 873 (Hector);ky.ky0873hec;Route added
@@ -1471,6 +1501,7 @@
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2017-06-09;(USA) Maryland;MD 351;;Deleted route
 2016-04-24;(USA) Maryland;MD 717;md.md717;Added route
 2015-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
 2016-04-07;(USA) Massachusetts;MA 109;ma.ma109;Extended at east end from I-95 to VFW Pkwy
@@ -1543,11 +1574,12 @@
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2017-07-11;(USA) New York;US 220;;Deleted route
 2017-02-05;(USA) New York;NY 182;ny.ny182;West end truncated from ON/NY border to the Whirlpool Rapids Bridge approach		
 2017-02-05;(USA) New York;NY 261;ny.ny261;North end truncated from the Braddocks Ave / Manitou Beach Rd intersection to the Lake Ontario State Parkway		
 2017-02-05;(USA) New York;NY 272;ny.ny272;North end extended from Beachwood Park Rd to Salvation Army Camp Rd
 2017-02-02;(USA) New York;NY 430;ny.ny430;East end removed from Fluvanna Ave between Washington St and NY 60, and relocated onto Washington St between Fluvanna Ave and NY 60/394
-2017-02-02;(USA) New York;NY 191;ny.ny191;Deleted route
+2017-02-02;(USA) New York;NY 191;;Deleted route
 2017-01-22;(USA) New York;NY 352;ny.ny352;Eastbound alignment removed from Water Street between Madison Avenue and I-86 (Exit 56), and relocated onto Madison Avenue and Church Street between Water Street and I-86 (Exit 56). Westbound alignment remains on Church Street as before.
 2017-01-19;(USA) New York;US 202;ny.us202;Removed from Division Street and Crompond Road, and relocated onto US 6 (Main Street) and Broad Street between Division Street and Crompond Road
 2017-01-19;(USA) New York;NY 35;ny.ny035;Removed from Division Street and Crompond Road, and relocated onto US 6 (Main Street) and Broad Street between Division Street and Crompond Road
@@ -1596,7 +1628,7 @@
 2017-05-01;(USA) North Dakota;ND 22 Bypass (Dickinson);nd.nd022bypdic;Renamed from ND 22 Truck (Dickinson). Removed from 8th St and State Ave and relocated onto I-94 BL between ND 22 and State Ave. Removed from 113th Ave and relocated onto I-94, 116th Ave and 33rd St between I-94 Exit 59 and 113th Ave.
 2017-02-24;(USA) North Dakota;ND 22;nd.nd022;Relocated from former route through Killdeer (now ND 22 Business) west to new Killdeer Bypass
 2017-02-24;(USA) North Dakota;ND 22 Business (Killdeer);nd.nd022buskil;New route
-2016-10-30;(USA) North Dakota;North Dakota 22 Truck (Dickinson);nd.nd022trkdic;New Route
+2016-10-30;(USA) North Dakota;ND 22 Truck (Dickinson);nd.nd022trkdic;New Route
 2016-07-28;(USA) North Dakota;ND 1804;nd.nd1804;In downtown Williston, relocated from 2nd St., Main St., and Broadway, between 2nd Ave. and 7th Ave., south to 1st St. and 7th Ave.
 2016-07-28;(USA) North Dakota;US 2 Business (Williston);nd.us002buswil;Relocated from 2nd St., between 2nd Ave. and Main St., one block south to 1st St. and Main St.
 2016-07-28;(USA) North Dakota;US 2 Bypass (Williston);;Route deleted (absorbed into US 85)
@@ -1653,6 +1685,8 @@
 2015-09-10;(USA) Oklahoma;Muskogee Turnpike;;Deleted route. Renamed to OK 351.
 2015-09-10;(USA) Oklahoma;OK 351;ok.ok351;Added route. Renamed from Muskogee Turnpike.
 2015-09-10;(USA) Oklahoma;OK 364;ok.ok364;Added route. Renamed from Creek Turnpike.
+2017-05-30;(USA) Pennsylvania;PA 177;pa.pa177;North end truncated: removed entirely from Old York Road (now part of PA 262) between the old end at a closed former alignment of Valley Road and the new end at a four-way intersection of Wyndamere Road, Old York Road, and a new realignment of Valley Road (PA 262), 0.08 mi southeast.
+2017-05-30;(USA) Pennsylvania;PA 262;pa.pa262;Removed from a partially closed former alignment of Valley Road directly connecting waypoints *OldPA262_W and OldPA262_E, and relocated onto Old York Road and a realigned segment of Valley Road, via a four-way intersection with Wyndamere Road (PA 177).
 2017-01-27;(USA) Pennsylvania;PA 124;pa.pa124;West end truncated from PA 74 to Sherman Street
 2017-01-03;(USA) Pennsylvania;PA 903;pa.pa903;Removed from West Front Street, River Street, and the now demolished old bridge across the Lehigh River in Jim Thorpe, and rerouted 1,000ft north across the Lehigh River on a new bridge alignment between the intersections of PA 903 (North Street)/West Front Street (FroSt) and US 209.
 2016-07-25;(USA) Pennsylvania;PA 902;pa.pa902;Removed from North/South Chestnut Street and East Amidon Street in Summit Hill, and rerouted along East North Street & North/South Pine Street between the intersections of PA 902 (East North Street)/North Chestnut Street and PA 902 (East Amidon Street)/South Pine Street
@@ -1714,6 +1748,9 @@
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2017-06-11;(USA) Texas;US 90;tx.us090;Removed from College, Pearl, Park, and Willow Streets, and relocated onto I-10 between exits 851 and 855
+2017-06-04;(USA) Texas;US 377;tx.us377;Moved waypoint I-35W(52A) from TX121 (now labeled I-35W(52B)) to TX Spur 280.
+2017-06-02;(USA) Texas;TX Spur 195;tx.sp195;Route added
 2017-04-25;(USA) Texas;I-14;tx.i014;Route added
 2016-12-06;(USA) Texas;US 87;tx.us087;Removed from US 87 Business (Big Spring) and relocated onto William B. Crooker Memorial Highway and I-20
 2016-12-06;(USA) Texas;US 87 Business (Big Spring);tx.us087busbig;Route added
@@ -1768,6 +1805,9 @@
 2016-05-15;(USA) Virginia;I-95;va.i095;previous Exit 74B is actually 74C in the field and a new point for actual 74B was added
 2015-10-27;(USA) Virginia;US 460 Business (Grundy);va.us460busgru;New route
 2015-10-27;(USA) Virginia;US 460 (Tazewell);va.us460taz;In Grundy, moved from part of Riverside Dr. (now US 460 Business) east to new divided highway
+2017-06-04;(USA) Washington;WA 9 Spur (Sumas);wa.wa009sprsum;Route added
+2017-06-04;(USA) Washington;WA 501 Spur (Vancouver);wa.wa501sprvan;Route added
+2017-06-04;(USA) Washington;WA 501;wa.wa501; Route truncated by approx. 1 mile at northern end, from Ridgefield NWR boundary to the location of a gate at north end of Shillapoo Wildlife Area
 2017-05-07;(USA) Washington;WA 125 Spur (Walla Walla);wa.wa125sprwal;Route added
 2017-01-24;(USA) Washington;WA 99;wa.wa099;Route split in half to reflect gap in Tukwila. Route ends at WA 599 at southern end of northern section
 2017-01-24;(USA) Washington;WA 99 (Federal Way);wa.wa099fed;Route added, this reflects the southern section of WA 99 south of the WA 518 junction
@@ -1809,14 +1849,14 @@
 2015-09-06;(USA) Wisconsin;WI 64;wi.wi064;Moved route in Antigo from 5th Avenue and Superior Street to northwest bypass from near County Road H/HH to US 45/WI 47
 2015-09-06;(USA) Wisconsin;WI 82;wi.wi082;Moved route in Mauston from Division St. and US 12 to Grayside and Union Sts.
 2015-09-06;(USA) Wisconsin;WI 95;wi.wi095;Extended route north from WI 73 to US 10 at Neillsville
-2017-04-01;(USA) Wyoming;US287 Business (Rawlins);wy.us287bypraw;Route renamed US287 Bypass (Rawlins)
-2017-02-11;(USA) Wyoming;US87 Business (Sheridan);wy.us087busshe;Route truncated at south end from I-90 exit 25 to intersection of Coffeen Avenue and East Brundage Lane (called 'US87_S')
-2016-12-05;(USA) Wyoming;US87 (Cheyenne);wy.us087;Route truncated at north end from the Montana border to WY193, and then extended at north end to the washout.
-2016-12-05;(USA) Wyoming;US87 (Sheridan);wy.us087she;New Route
+2017-04-01;(USA) Wyoming;US 287 Business (Rawlins);wy.us287bypraw;Route renamed US287 Bypass (Rawlins)
+2017-02-11;(USA) Wyoming;US 87 Business (Sheridan);wy.us087busshe;Route truncated at south end from I-90 exit 25 to intersection of Coffeen Avenue and East Brundage Lane (called 'US87_S')
+2016-12-05;(USA) Wyoming;US 87 (Cheyenne);wy.us087;Route truncated at north end from the Montana border to WY193, and then extended at north end to the washout.
+2016-12-05;(USA) Wyoming;US 87 (Sheridan);wy.us087she;New Route
 2015-08-17;(USA) Wyoming;US 85 Business (Torrington);wy.us085bustor;Added route
-2015-08-11;(USA) Wyoming;US310;wy.us310;Route truncated at east end from eastern junction with US14/16 to (formerly western) junction with US14/16
-2015-08-03;(USA) Wyoming;US14;wy.us014;Route removed from I-90 and relocated onto I-90 Business Loop through Sundance, between I-90 exit 185 and I-90 exit 189
-2015-08-03;(USA) Wyoming;US87 Business (Buffalo);wy.us087busbuf;Route rerouted at north end off of East Hart Street between the eastern junction with US16 and I-25 and relocated onto North Main Street between the eastern junction with US16 and I-90
+2015-08-11;(USA) Wyoming;US 310;wy.us310;Route truncated at east end from eastern junction with US14/16 to (formerly western) junction with US14/16
+2015-08-03;(USA) Wyoming;US 14;wy.us014;Route removed from I-90 and relocated onto I-90 Business Loop through Sundance, between I-90 exit 185 and I-90 exit 189
+2015-08-03;(USA) Wyoming;US 87 Business (Buffalo);wy.us087busbuf;Route rerouted at north end off of East Hart Street between the eastern junction with US16 and I-25 and relocated onto North Main Street between the eastern junction with US16 and I-90
 2015-07-15;Uzbekistan;E004;uzb.e004;Reentered route
 2015-07-15;Uzbekistan;E004 (Tashkent);;Deleted route
 2015-07-15;Uzbekistan;E010;;Deleted route
