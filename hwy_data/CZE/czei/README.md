@@ -12,4 +12,4 @@
 - `I20`: Not signed on GSV b/n I/3 and I/34
 - `I47kro`: Not sure if continued till I55 through Komeriz
 - There seem to be some `H` and `J` routes (old alignments) which are not signed
-- `I8` should be truncated near the new D8 section and signed `II608` but I'm not sure where I8 will begin, at I63 or I13? There's also no info when it will be implemented.
+- `I8` should be truncated near the new D8 section and signed `II608` but I'm not sure where I8 will begin, at I63 or I13? There's also no info when it will be implemented; it was not yet done according to 2017-01-01 RSD.cz map.
