@@ -8,5 +8,5 @@
 
 
 **NOTES TO ROUTES:**
-- `L3004`, `L3005` and `L3193` are also partial eursf routes but these are flagged without `HE` banner.
 - `L3170` connection to new `B27` bypass unknown
+- `L3417` routing in Fulda seems to be not signed. According to mobil.hessen.de map, it starts at L3143 Abtstor and goes via Königstraße, Löherstraße, Rangstraße, Ronsbachstraße to B254/L3418 juction Frankfurter Straße/Mainstraße/Karl-Storch-Straße
