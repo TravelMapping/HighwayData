@@ -43,3 +43,6 @@
 - `N388` and `N388` seem to be unsigned; only indicated on OSM
 - `N392` and `N393` should be signed according to OSM and GM but not on GSV
 - `N395a` and `N395b` are concurrent with R8, the northern carriageway is `N395a`, the southern carriageway `N395b`; excluded from beln system
+- `N402` has a length of 0.17km only and is unsigned (but `N462`)
+- `N404` is unsigned
+- `N408` has a length of 0.6km only and is unsigned
