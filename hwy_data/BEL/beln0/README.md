@@ -46,3 +46,5 @@
 - `N402` has a length of 0.17km only and is unsigned (but `N462`)
 - `N404` is unsigned
 - `N408` has a length of 0.6km only and is unsigned
+- `N420` has a length of 0.5km only and is unsigned
+- `N422`, `N426`, `N470a`, `N473` and `N496` are unsigned
