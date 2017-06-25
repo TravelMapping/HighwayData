@@ -46,3 +46,9 @@
 - `N402` has a length of 0.17km only and is unsigned (but `N462`)
 - `N404` is unsigned
 - `N408` has a length of 0.6km only and is unsigned
+- `N420` has a length of 0.5km only and is unsigned
+- `N422`, `N426`, `N470a`, `N473`, `N496`, `N502`, `N508`, `N509` and `N516` are unsigned
+- `N518` is still u/c b/n N513_W and N58
+- `N521`, `N522` and `N540` are unsigned
+- `N542`, `N551`, `N560`, `N590` and `N598`: Should exist according to wegenwiki but no info about location
+- `N548`, `N555`, `N556`, `N578`, `N581` and `N585` are unsigned
