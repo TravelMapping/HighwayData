@@ -52,3 +52,6 @@
 - `N521`, `N522` and `N540` are unsigned
 - `N542`, `N551`, `N560`, `N590` and `N598`: Should exist according to wegenwiki but no info about location
 - `N548`, `N555`, `N556`, `N578`, `N581` and `N585` are unsigned
+- `N600` and `N603`: Should exist according to wegenwiki but no info about location
+- `N605`, `N607` and `N607a` are unsigned
+- `N902` is unsigned
