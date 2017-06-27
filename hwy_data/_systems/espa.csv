@@ -1,4 +1,4 @@
-systemName;region;route;banner;abbrev;city;root;altRouteNames
+﻿systemName;region;route;banner;abbrev;city;root;altRouteNames
 espa;ESP;A1;;;'Autovía del Norte' Burgos;esp.a001;
 espa;ESP;A1;;Vit;'Autovía del Norte' Vitoria-Gasteiz;esp.a001vit;A1LPu,A1Alt
 espa;ESP;AP1;;;'Autopista del Norte' Burgos;esp.ap001;
@@ -56,6 +56,7 @@ espa;ESP;A30;;;'Autovía de Murcia';esp.a030;
 espa;ESP;A31;;;'Autovía de Alicante';esp.a031;
 espa;ESP;A32;;;'Autovía Linares-Albacete' Linares;esp.a032;A32LYe
 espa;ESP;A32;;Alb;'Autovía Linares-Albacete' Albacate;esp.a032alb;
+espa;ESP;A33;;Fon;La Font de la Figuera;esp.a033fon;
 espa;ESP;A33;;;'Autovía Blanca-Fuente la Higuera';esp.a033;
 espa;ESP;A35;;;'Autovía Almansa-Játiva';esp.a035;
 espa;ESP;AP36;;;'Autopista Ocaña-La Roda';esp.ap036;
@@ -73,7 +74,6 @@ espa;ESP;AP46;;;'Autopista de Las Pedrizas';esp.ap046;
 espa;ESP;A48;;;'Autovía de la Costa de la Luz';esp.a048;
 espa;ESP;A49;;;'Autopista del V Centenario';esp.a049;
 espa;ESP;A50;;;'Autovía de la Cultura';esp.a050;
-espa;ESP;A51;;;'Conexión Ávila';esp.a051;
 espa;ESP;AP51;;;'Autopista Villacastín-Ávila';esp.ap051;
 espa;ESP;A52;;;'Autovía de las Rías Bajas';esp.a052;
 espa;ESP;AP53;;;'Autopista Central de Galicia';esp.ap053;
@@ -125,6 +125,7 @@ espa;ESP;AL12;;;'Acceso este a Almería';esp.al012;
 espa;ESP;ARAA1;;;'Quinto Cinturón de Zaragoza';esp.araa001;
 espa;ESP;ASI;;;'Autovía Minera';esp.asi;
 espa;ESP;ASII;;;'Autovía Industrial';esp.asii;
+espa;ESP;AV20;;;'Conexión Ávila';esp.av020;A51
 espa;ESP;B10;;;'Ronda Litoral de Barcelona';esp.b010;
 espa;ESP;B20;;;'Ronda de Dalt de Barcelona';esp.b020;
 espa;ESP;B22;;;'Acceso al Aeropuerto de Barcelona';esp.b022;
