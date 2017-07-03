@@ -53,5 +53,8 @@
 - `N542`, `N551`, `N560`, `N590` and `N598`: Should exist according to wegenwiki but no info about location
 - `N548`, `N555`, `N556`, `N578`, `N581` and `N585` are unsigned
 - `N600` and `N603`: Should exist according to wegenwiki but no info about location
-- `N605`, `N607` and `N607a` are unsigned
+- `N605`, `N607`, `N607a`, `N611` and `N613` are unsigned
+- `N616` is signed concurrent on `N696` once!?
+- `N625`: Should exist according to wegenwiki but no info about location
+- `N628` and `N695` are unsigned
 - `N902` is unsigned
