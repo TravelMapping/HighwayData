@@ -22,12 +22,14 @@ Several CSV files at the top level are used to describe some project-wide inform
 
 The `chm_final` directory contains an archive of the version of the project's data that was imported from the Clinched Highway Mapping project as a starting point for Travel Mapping.  It remains for historical interest only and is not used by Travel Mapping.
 
+The `boundaries` directory contains descriptions of shorelines and borders that can be used to render certain types of maps.  Travel Mapping does not currently use these.
+
+The `graphs` directory contains CSV files that guide the creation of some of the graphs generated for use by the [METAL project](http://courses.teresco.org/metal/).
+
 The `hwy_data` directory contains all of the information about which routes are in each system and the points that make up each route.
 
 Most directories within `hwy_data` are names of countries or regions.  Each country or region's directory will have one or more subdirectories, one for each highway system that includes at least one route in that country or region.  Within those directories are WPT files that list the waypoints of a route.  Each line in a WPT file has two parts: one or more labels (only the first of which will be considered primary) and an OpenStreetMap-style URL that includes the latitude and longitude of the point.
 
-There are also two special directories inside `hwy_data`.  
-
-* The `_boundaries` directory contains descriptions of shorelines and borders that can be used to render certain types of maps.  Travel Mapping does not currently use these.
+There is also a special directory inside `hwy_data`.  
 
 * The `_systems` directory contains two CSV files for each highway system listed in the top-level `systems.csv` file.  For a hypothetical system called "usaza", the file `usaza.csv` would contain a list of highways within the system, and the file `usaza_con.csv` would contain a list of "connected" routes.  For example, I-90 is made up of WPT files in the usai system under regions `WA`, `ID`, `MT`, `SD`, `MN`, `WI`, `IL`, `IN`, `OH`, `PA`, `NY`, and `MA`, so its entry in `usai_con.csv` describes which files make up the entire route and in which order they come.
