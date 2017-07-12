@@ -8,4 +8,4 @@
 
 
 **NOTES TO ROUTES:**
--
+- `L419` is also partial eursf routes but these are flagged without `RP` banner.
