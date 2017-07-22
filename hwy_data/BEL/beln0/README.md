@@ -61,4 +61,5 @@
 - `N731` and `N795`: Should exist according to wegenwiki but no info about location
 - `N732`, `N756`, `N764`, `N767`, `N768` and `N794` are unsigned
 - `N772` is only signed once in Koersel; OSM indicates it from here to west, GM to west and south; not drafted
+- `N802`, `N813` and `N876` are unsigned
 - `N902` is unsigned
