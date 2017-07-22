@@ -55,6 +55,7 @@
 - `N600` and `N603`: Should exist according to wegenwiki but no info about location
 - `N605`, `N607`, `N607a`, `N611` and `N613` are unsigned
 - `N616` is signed concurrent on `N696` once!?
-- `N625`: Should exist according to wegenwiki but no info about location
-- `N628` and `N695` are unsigned
+- `N625` and `N665`: Should exist according to wegenwiki but no info about location
+- `N653` is not signed on the southern part but indicated on OSM and GM
+- `N628`, `N630`, `N631`, `N635`, `N656`, `N661`, `N662`, `N664`, `N681`, `N686` and `N695` are unsigned
 - `N902` is unsigned
