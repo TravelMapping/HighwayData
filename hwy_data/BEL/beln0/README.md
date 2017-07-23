@@ -44,14 +44,14 @@
 - `N521`, `N522`, `N540`, `N548`, `N555`, `N556`, `N578`, `N581` and `N585` are unsigned
 - `N542`, `N551`, `N560`, `N590` and `N598`: Should exist according to wegenwiki but no info about location
 - `N600` and `N603`: Should exist according to wegenwiki but no info about location
-- `N605`, `N607`, `N607a`, `N611`, `N613`, `N628`, `N630`, `N631`, `N635`, `N656`, `N661`, `N662`, `N664`, `N681`, `N686` and `N695` are unsigned (mostly according to GSV)
+- `N605`, `N607`, `N607a`, `N611`, `N613`, `N628`, `N630`, `N631`, `N635`, `N656`, `N661`, `N662`, `N664`, `N681`, `N686` and `N695` are unsigned (mostly according to GSV but indicated on OSM/GM)
 - `N616` is signed concurrent on `N696` once!?
 - `N625` and `N665`: Should exist according to wegenwiki but no info about location
 - `N653` is not signed on the southern part but indicated on OSM and GM
 - `N731` and `N795`: Should exist according to wegenwiki but no info about location
-- `N732`, `N756`, `N764`, `N767`, `N768` and `N794` are unsigned (mostly according to GSV)
+- `N732`, `N756`, `N764`, `N767`, `N768` and `N794` are unsigned (mostly according to GSV but indicated on OSM/GM)
 - `N772` is only signed once in Koersel; OSM indicates it from here to west, GM to west and south; not drafted
 - `N89`/`N820`/`N833`/`N834`/`N860` in La Roche-en-Ardenne: Signage has been changed as you can see on GSV. Moving the position and signs disappear... I've gone with OSM, no evidence that `N820` is really signed.
-- `N802`, `N813`, `N824`, `N825`, `N858`, `N876`, `N877` and `N880` are unsigned (mostly according to GSV)
+- `N802`, `N813`, `N824`, `N825`, `N858`, `N861`, `N862`, `N864`, `N867`, `N868`, `N869`, `N872`, `N876`, `N877` and `N880` are unsigned (mostly according to GSV but indicated on OSM/GM)
 - `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM; not drafted
 - `N902` is unsigned
