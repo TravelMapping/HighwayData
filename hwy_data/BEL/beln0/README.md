@@ -53,5 +53,6 @@
 - `N772` is only signed once in Koersel; OSM indicates it from here to west, GM to west and south; not drafted
 - `N89`/`N820`/`N833`/`N834`/`N860` in La Roche-en-Ardenne: Signage has been changed as you can see on GSV. Moving the position and signs disappear... I've gone with OSM, no evidence that `N820` is really signed.
 - `N802`, `N813`, `N824`, `N825`, `N858`, `N861`, `N862`, `N864`, `N867`, `N868`, `N869`, `N872`, `N876`, `N877` and `N880` are unsigned (mostly according to GSV but indicated on OSM/GM)
+- `N885` and `N887` are unsigned
 - `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM; not drafted
 - `N902` is unsigned
