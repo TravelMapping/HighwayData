@@ -56,3 +56,8 @@
 - `N885` and `N887` are unsigned
 - `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM; not drafted
 - `N902` is unsigned
+- `N905` should be signed according to OSM and GM but not on GSV (`N80` towards N80 and N90 towards N90 only)
+- `N908` should be signed according to OSM but not on GM or GSV (`N40` is indicated at `N96` junction once)
+- `N969` should be signed according to OSM an GM but not on GSV
+- `N917` should be signed according to OSM but not on GM or GSV
+- `N931` is not signed west of A4 according to GSV. GM shows two routes, OSM partially one of them but extends to a different route and ends
