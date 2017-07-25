@@ -1,4 +1,4 @@
-﻿system;route;banner;groupname;roots
+systemName;route;banner;groupName;roots
 eure;E1;;Ireland;nir.e1,irl.e1
 eure;E1;;Spain - Portugal;esp.e1,prt.e1,esp.e1hue
 eure;E1;;Ferrol, ESP (branch);esp.e1fer
@@ -87,7 +87,7 @@ eure;E40;;;fra.e40,bel.e40,deu.e40,pol.e40,ukr.e40,rus.e40,kaz.e40aty,uzb.e40nuk
 eure;E41;;;deu.e41,che.e41
 eure;E42;;;fra.e42,bel.e42,deu.e42
 eure;E43;;;deu.e43,aut.e43,che.e43
-eure;E44;;;fra.e44,lux.e44,deu.e44
+eure;E44;;;fra.e44,bel.e44,lux.e44,deu.e44
 eure;E45;;Sweden;swe.e45
 eure;E45;;Denmark - Italy;dnk.e45,deu.e45,aut.e45,ita.e45
 eure;E45;;Roma, ITA;ita.e45rom
@@ -106,7 +106,6 @@ eure;E54;;;fra.e54,deu.e54lor,che.e54,deu.e54
 eure;E55;;Denmark;dnk.e55
 eure;E55;;Germany - Italy;deu.e55,cze.e55,aut.e55,ita.e55
 eure;E55;;Berlin, DEU (ring);deu.e55ber
-eure;E55;;Ústí Nad Labem, CZE (loop);cze.e55ust
 eure;E55;;Greece;grc.e55
 eure;E56;;;deu.e56,aut.e56
 eure;E57;;;aut.e57,svn.e57
@@ -172,7 +171,8 @@ eure;E95;;Russia - Ukraine;rus.e95,blr.e95,ukr.e95
 eure;E95;;Turkey;tur.e95
 eure;E96;;;tur.e96
 eure;E97;;Ukraine;ukr.e97,crm.e97
-eure;E97;;Russia - Turkey;rus.e97,geo.e97,tur.e97
+eure;E97;;Russia - Georgia;rus.e97,geo.e97
+eure;E97;;Turkey;tur.e97
 eure;E98;;;tur.e98
 eure;E99;;;aze.e99,tur.e99
 eure;E101;;;rus.e101,ukr.e101
@@ -263,7 +263,7 @@ eure;E661;;;hun.e661,hrv.e661,bih.e661
 eure;E662;;;hrv.e662,srb.e662
 eure;E671;;;rou.e671
 eure;E673;;;rou.e673
-eure;E675;;;rou.e675,bgr.e675
+eure;E675;;;rou.e675
 eure;E691;;;tur.e691,geo.e691,arm.e691
 eure;E692;;;geo.e692
 eure;E711;;;fra.e711
