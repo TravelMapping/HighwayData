@@ -1,57 +1,56 @@
-System;Route;Banner;Name;Roots
-gbnm;M1;;"London - Yorkshire Motorway";eng.m001
-gbnm;M2;;"Medway Motorway";eng.m002
-gbnm;M3;;"London - Southampton Motorway";eng.m003
-gbnm;M4;;"London - South Wales Motorway";eng.m004,wls.m004
-gbnm;M4;;"Heathrow Airport Spur";eng.m004hea
-gbnm;M5;;"Birmingham - Exeter Motorway";eng.m005
-gbnm;M6;;"Catthorpe - Birmingham - Carlisle Motorway";eng.m006
-gbnm;M6;Tol;"Birmingham North Relief Road";eng.m006tolbir
-gbnm;M8;;"Edinburgh - Glasgow - Greenock Motorway" Livingston;sct.m008liv
-gbnm;M8;;"Edinburgh - Glasgow - Greenock Motorway" Glasgow;sct.m008
-gbnm;M9;;"Edinburgh - Stirling Motorway";sct.m009
-gbnm;M11;;"London - Cambridge Motorway";eng.m011
-gbnm;M18;;"Sheffield - Hull Motorway";eng.m018
-gbnm;M20;;"Channel Ports Motorway";eng.m020
-gbnm;M23;;"Croydon - Crawley Motorway";eng.m023
-gbnm;M25;;"London Orbital";eng.m025
-gbnm;M25;Spr;"Orpington Spur";eng.m025sprorp
-gbnm;M26;;"Wrotham Spur";eng.m026
-gbnm;M27;;"South Coast Motorway";eng.m027
-gbnm;M32;;"Bristol Parkway";eng.m032
-gbnm;M40;;"London - Birmingham Motorway";eng.m040
-gbnm;M42;;"Birmingham - Nottingham Motorway";eng.m042
-gbnm;M45;;"Dunchurch Spur";eng.m045
-gbnm;M48;;"Severn Bridge Motorway";eng.m048,wls.m048
-gbnm;M49;;"Second Severn Crossing Link";eng.m049
-gbnm;M50;;"Ross Spur";eng.m050
-gbnm;M53;;"Mid-Wirral Motorway";eng.m053
-gbnm;M54;;"Telford Motorway";eng.m054
-gbnm;M55;;"Preston Northern Bypass";eng.m055
-gbnm;M56;;"North Cheshire Motorway";eng.m056
-gbnm;M56;Spr;"Bowdon Spur";eng.m056sprbow
-gbnm;M57;;"Liverpool Outer Ring Road";eng.m057
-gbnm;M58;;"Liverpool - Wigan Motorway";eng.m058
-gbnm;M60;;"Manchester Orbital Motorway";eng.m060
-gbnm;M61;;"Manchester - Preston Motoway";eng.m061
-gbnm;M62;;"Lancashire - Yorkshire Motorway";eng.m062
-gbnm;M65;;"Calder Valley Motorway";eng.m065
-gbnm;M66;;"Bury Easterly Bypass";eng.m066
-gbnm;M67;;"Denton - Hyde Bypass";eng.m067
-gbnm;M69;;"Coventry - Leicester Motorway";eng.m069
-gbnm;M73;;"Maryville - Mollinsburn Motorway";sct.m073
-gbnm;M74;;"Glasgow - Gretna Motorway";sct.m074
-gbnm;M77;;"Glasgow - Ayr Motorway";sct.m077
-gbnm;M80;;"Glasgow - Stirling Motorway";sct.m080
-gbnm;M90;;"Forth Road Bridge Southern Approach";sct.m090squ
-gbnm;M90;;"Inverkeithing - Perth Motorway";sct.m090
-gbnm;M90;;"Broxburn Spur";sct.m090per
-gbnm;M180;;"South Humberside Motorway";eng.m180
-gbnm;M181;;"Scunthorpe Spur";eng.m181
-gbnm;M271;;"Nursling Spur";eng.m271
-gbnm;M275;;"Tipner Spur";eng.m275
-gbnm;M602;;"Eccles Bypass";eng.m602
-gbnm;M606;;"Bradford South Radial";eng.m606
-gbnm;M621;;"Leeds Southern Motorway";eng.m621
-gbnm;M876;;"Kincardine Bridge Western Approach";sct.m876
-gbnm;M898;;"Erskine Bridge Approach";sct.m898
+systemName;route;banner;groupName;roots
+gbnm;M1;;;eng.m001
+gbnm;M2;;;eng.m002
+gbnm;M3;;;eng.m003
+gbnm;M4;;London - South Wales Motorway;eng.m004,wls.m004
+gbnm;M4;;Heathrow Airport Spur;eng.m004hea
+gbnm;M5;;;eng.m005
+gbnm;M6;;;eng.m006
+gbnm;M6;Tol;Birmingham Northern Relief Road;eng.m006tol
+gbnm;M8;;;sct.m008
+gbnm;M9;;;sct.m009
+gbnm;M11;;;eng.m011
+gbnm;M18;;;eng.m018
+gbnm;M20;;;eng.m020
+gbnm;M23;;;eng.m023
+gbnm;M25;;London Orbital;eng.m025
+gbnm;M25;Spr;Orpington Spur;eng.m025sprorp
+gbnm;M26;;;eng.m026
+gbnm;M27;;;eng.m027
+gbnm;M32;;;eng.m032
+gbnm;M40;;;eng.m040
+gbnm;M42;;;eng.m042
+gbnm;M45;;;eng.m045
+gbnm;M48;;;eng.m048,wls.m048
+gbnm;M49;;;eng.m049
+gbnm;M50;;;eng.m050
+gbnm;M53;;;eng.m053
+gbnm;M54;;;eng.m054
+gbnm;M55;;;eng.m055
+gbnm;M56;;North Cheshire Motorway;eng.m056
+gbnm;M56;Spr;Bowdon Spur;eng.m056sprbow
+gbnm;M57;;;eng.m057
+gbnm;M58;;;eng.m058
+gbnm;M60;;;eng.m060
+gbnm;M61;;;eng.m061
+gbnm;M62;;;eng.m062
+gbnm;M65;;;eng.m065
+gbnm;M66;;;eng.m066
+gbnm;M67;;;eng.m067
+gbnm;M69;;;eng.m069
+gbnm;M73;;;sct.m073
+gbnm;M74;;;sct.m074
+gbnm;M77;;;sct.m077
+gbnm;M80;;;sct.m080
+gbnm;M90;;Forth Road Bridge Southern Approach;sct.m090squ
+gbnm;M90;;Inverkeithing - Perth Motorway;sct.m090
+gbnm;M90;;Broxburn Spur;sct.m090per
+gbnm;M180;;;eng.m180
+gbnm;M181;;;eng.m181
+gbnm;M271;;;eng.m271
+gbnm;M275;;;eng.m275
+gbnm;M602;;;eng.m602
+gbnm;M606;;;eng.m606
+gbnm;M621;;;eng.m621
+gbnm;M876;;;sct.m876
+gbnm;M898;;;sct.m898

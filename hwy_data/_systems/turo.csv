@@ -1,4 +1,4 @@
-﻿System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 turo;TUR;O1;;;(Main);tur.o001;
 turo;TUR;O1;;Ulu;Ulubatlı Hasan (branch);tur.o001ulu;
 turo;TUR;O1;;Lib;Libadiye (branch);tur.o001lib;
@@ -20,8 +20,8 @@ turo;TUR;O4;;Pen;Pendik (branch);tur.o004pen;
 turo;TUR;O4;;Cay;Çayırova (branch);tur.o004cay;
 turo;TUR;O4;;Izm;İzmit (branch);tur.o004izm;
 turo;TUR;O4;;Ger;Gerede (branch);tur.o004ger;
-turo;TUR;O5;;Orh;(Main) Orhangazi;tur.o005orh;
-turo;TUR;O5;;;(Main) Bursa;tur.o005;
+turo;TUR;O5;;;(Main) Bursa;tur.o005;O5Orh
+turo;TUR;O5;;Ana;(Main) Anadolu Lisesi;tur.o005ana;O30Ana
 turo;TUR;O5;;Gor;Görükle (branch);tur.o005gor;O33gor
 turo;TUR;O6;;;;tur.o006;
 turo;TUR;O6;;San;Sancaktepe;tur.o006san;
@@ -34,7 +34,6 @@ turo;TUR;O22;;Ala;Alasarköy (branch);tur.o022ala;
 turo;TUR;O22;;Bur;Bursa (branch);tur.o022bur;
 turo;TUR;O22;;Dud;Dudaklı (branch);tur.o022dud;
 turo;TUR;O30;;;(Main);tur.o030;
-turo;TUR;O30;;Ana;Anadolu Lisesi (branch);tur.o030ana;
 turo;TUR;O31;;;(Main);tur.o031;
 turo;TUR;O31;;Tor;Torbalı (branch);tur.o031tor;
 turo;TUR;O31;;Ger;Germencik (branch);tur.o031ger;

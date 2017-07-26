@@ -1,4 +1,4 @@
-System;Route;Banner;City;Root
+systemName;route;banner;groupName;roots
 gbna;A1;;London;eng.a0001lon
 gbna;A1;;St Neots;eng.a0001stn
 gbna;A1;;Newark;eng.a0001
@@ -21,7 +21,6 @@ gbna;A10;;Great Amwell (spur);eng.a0010gta
 gbna;A11;;London;eng.a0011lon
 gbna;A11;;Norwich;eng.a0011
 gbna;A12;;;eng.a0012
-gbna;A12;;Lowestoft (loop);eng.a0012low
 gbna;A13;;;eng.a0013
 gbna;A14;;;eng.a0014
 gbna;A14;;Huntingdon (spur);eng.a0014hun
@@ -55,6 +54,7 @@ gbna;A36;;;eng.a0036
 gbna;A36;;Ower (spur);eng.a0036owe
 gbna;A37;;;eng.a0037
 gbna;A38;;Plymouth;eng.a0038
+gbna;A38;;Taunton;eng.a0038tau
 gbna;A38;;Worcester;eng.a0038wor
 gbna;A38;;Derby;eng.a0038der
 gbna;A39;;;eng.a0039
@@ -1109,14 +1109,15 @@ gbna;A1169;;;eng.a1169
 gbna;A1170;;;eng.a1170
 gbna;A1171;;;eng.a1171
 gbna;A1172;;;eng.a1172
-gbna;A1173;;Stallingborough;eng.a1173
-gbna;A1173;;Immingham;eng.a1173imm
+gbna;A1173;;;eng.a1173
 gbna;A1174;;;eng.a1174
 gbna;A1175;;;eng.a1175
 gbna;A1179;;;eng.a1179
 gbna;A1184;;;eng.a1184
 gbna;A1185;;;eng.a1185
 gbna;A1189;;;eng.a1189
+gbna;A1192;;;eng.a1192
+gbna;A1194;;;eng.a1194
 gbna;A1198;;;eng.a1198
 gbna;A1199;;Canonbury;eng.a1199can
 gbna;A1199;;Woodford;eng.a1199
@@ -1147,6 +1148,7 @@ gbna;A1250;;;eng.a1250
 gbna;A1251;;;eng.a1251
 gbna;A1260;;;eng.a1260
 gbna;A1261;;;eng.a1261
+gbna;A1270;;;eng.a1270
 gbna;A1290;;;eng.a1290
 gbna;A1300;;;eng.a1300
 gbna;A1301;;;eng.a1301
@@ -1291,6 +1293,7 @@ gbna;A3078;;;eng.a3078
 gbna;A3079;;;eng.a3079
 gbna;A3082;;;eng.a3082
 gbna;A3083;;;eng.a3083
+gbna;A3087;;;eng.a3087
 gbna;A3088;;;eng.a3088
 gbna;A3090;;;eng.a3090
 gbna;A3093;;;eng.a3093
@@ -1454,7 +1457,8 @@ gbna;A4142;;;eng.a4142
 gbna;A4143;;;wls.a4143
 gbna;A4144;;;eng.a4144
 gbna;A4145;;;eng.a4145
-gbna;A4146;;;eng.a4146
+gbna;A4146;;Hemel Hempstead;eng.a4146hem
+gbna;A4146;;Milton Keynes;eng.a4146
 gbna;A4147;;;eng.a4147
 gbna;A4148;;;eng.a4148
 gbna;A4150;;;eng.a4150
@@ -1486,6 +1490,7 @@ gbna;A4184;;;eng.a4184
 gbna;A4185;;;eng.a4185
 gbna;A4180;;;eng.a4189
 gbna;A4196;;;eng.a4196
+gbna;A4198;;;eng.a4198
 gbna;A4200;;;eng.a4200
 gbna;A4201;;;eng.a4201
 gbna;A4202;;;eng.a4202
@@ -1654,7 +1659,6 @@ gbna;A5124;;;eng.a5124
 gbna;A5126;;;eng.a5126
 gbna;A5127;;;eng.a5127
 gbna;A5128;;;eng.a5128
-gbna;A5130;;;eng.a5130
 gbna;A5132;;;eng.a5132
 gbna;A5134;;;eng.a5134
 gbna;A5135;;;eng.a5135
@@ -1694,8 +1698,7 @@ gbna;A5203;;;eng.a5203
 gbna;A5204;;;eng.a5204
 gbna;A5205;;;eng.a5205
 gbna;A5206;;;eng.a5206
-gbna;A5207;;Kirkby;eng.a5207kir
-gbna;A5207;;Netherton;eng.a5207
+gbna;A5207;;;eng.a5207
 gbna;A5208;;;eng.a5208
 gbna;A5209;;;eng.a5209
 gbna;A5223;;;eng.a5223
@@ -1714,6 +1717,7 @@ gbna;A5284;;;eng.a5284
 gbna;A5300;;;eng.a5300
 gbna;A5460;;;eng.a5460
 gbna;A5480;;;eng.a5480
+gbna;A5505;;;eng.a5505
 gbna;A5509;;;eng.a5509
 gbna;A5630;;;eng.a5630
 gbna;A5758;;;eng.a5758
@@ -1842,6 +1846,7 @@ gbna;A6187;;;eng.a6187
 gbna;A6191;;;eng.a6191
 gbna;A6192;;;eng.a6192
 gbna;A6193;;;eng.a6193
+gbna;A6194;;;eng.a6194
 gbna;A6195;;;eng.a6195
 gbna;A6200;;;eng.a6200
 gbna;A6201;;;eng.a6201
@@ -1866,4 +1871,3 @@ gbna;CirByp;;Cirencester Bypass;eng.cirbyp
 gbna;KinTun;;Kingsway Tunnel;eng.kintun
 gbna;QueTun;;Queensway Tunnel;eng.quetun
 gbna;StPetWay;;St. Peter's Way;eng.stpetway
-gbna;ThaDr;;Thamesmead Drive;eng.thadr

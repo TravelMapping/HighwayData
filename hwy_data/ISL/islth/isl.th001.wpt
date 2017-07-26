@@ -20,7 +20,10 @@ TH47_S http://www.openstreetmap.org/?lat=64.274155&lon=-21.838374
 +X005 http://www.openstreetmap.org/?lat=64.287303&lon=-21.833782
 +X006 http://www.openstreetmap.org/?lat=64.312762&lon=-21.878242
 +X007 http://www.openstreetmap.org/?lat=64.314622&lon=-21.894379
++X007a http://www.openstreetmap.org/?lat=64.309042&lon=-21.905107
 TH51_S ttp://www.openstreetmap.org/?lat=64.308260&lon=-21.912060
++X007b http://www.openstreetmap.org/?lat=64.310753&lon=-21.908197
++X007c http://www.openstreetmap.org/?lat=64.314436&lon=-21.891804
 +X008 http://www.openstreetmap.org/?lat=64.342286&lon=-21.819878
 TH506 http://www.openstreetmap.org/?lat=64.351873&lon=-21.809149
 +X009 http://www.openstreetmap.org/?lat=64.357371&lon=-21.806660
@@ -47,8 +50,8 @@ LaxHol http://www.openstreetmap.org/?lat=64.642814&lon=-21.763058
 +X018 http://www.openstreetmap.org/?lat=64.659350&lon=-21.712074
 TH553 http://www.openstreetmap.org/?lat=64.667467&lon=-21.697912
 TH50_N http://www.openstreetmap.org/?lat=64.674371&lon=-21.666927
-BifVeg  http://www.openstreetmap.org/?lat=64.763899&lon=-21.553234
-TH528_ http://www.openstreetmap.org/?lat=64.773430&lon=-21.526251
+BifVeg http://www.openstreetmap.org/?lat=64.763899&lon=-21.553234
+TH528_S http://www.openstreetmap.org/?lat=64.773430&lon=-21.526251
 +X019 http://www.openstreetmap.org/?lat=64.780709&lon=-21.507368
 +X020 http://www.openstreetmap.org/?lat=64.787620&lon=-21.504021
 TH60 http://www.openstreetmap.org/?lat=64.801053&lon=-21.465096
@@ -140,7 +143,7 @@ KauStr http://www.openstreetmap.org/?lat=65.681118&lon=-18.087466
 TH821 http://www.openstreetmap.org/?lat=65.670123&lon=-18.082681
 TH829 http://www.openstreetmap.org/?lat=65.669646&lon=-18.049335
 TH828 http://www.openstreetmap.org/?lat=65.687886&lon=-18.051653
-+X062 http://www.openstreetmap.org/?lat=65.727098&lon=-18.073540
++X062a http://www.openstreetmap.org/?lat=65.727098&lon=-18.073540
 TH830 http://www.openstreetmap.org/?lat=65.750040&lon=-18.074741
 TH83 http://www.openstreetmap.org/?lat=65.798730&lon=-18.057489
 +X063 http://www.openstreetmap.org/?lat=65.812695&lon=-18.041611
@@ -225,8 +228,9 @@ TH931_S http://www.openstreetmap.org/?lat=65.175752&lon=-14.516373
 +X108 http://www.openstreetmap.org/?lat=65.135074&lon=-14.519978
 +X109 http://www.openstreetmap.org/?lat=65.116950&lon=-14.566326
 +X110 http://www.openstreetmap.org/?lat=65.103946&lon=-14.582119
-OldS1Thin http://www.openstreetmap.org/?lat=65.080847&lon=-14.579372
+OldTH1Gri http://www.openstreetmap.org/?lat=65.080847&lon=-14.579372
 +X112 http://www.openstreetmap.org/?lat=65.041870&lon=-14.604607
+F936 http://www.openstreetmap.org/?lat=65.034671&lon=-14.600852
 TH937 http://www.openstreetmap.org/?lat=65.031438&lon=-14.598942
 +X113 http://www.openstreetmap.org/?lat=65.023900&lon=-14.595337
 +X114 http://www.openstreetmap.org/?lat=65.014911&lon=-14.605637
@@ -321,9 +325,9 @@ F980 http://www.openstreetmap.org/?lat=64.407803&lon=-14.90793
 +X187 http://www.openstreetmap.org/?lat=64.381949&lon=-14.933338
 +X188 http://www.openstreetmap.org/?lat=64.375862&lon=-14.924240
 +X189 http://www.openstreetmap.org/?lat=64.327268&lon=-14.936771
-OldS1_N http://www.openstreetmap.org/?lat=64.293596&lon=-15.026979
+OldTH1Alm_N http://www.openstreetmap.org/?lat=64.293596&lon=-15.026979
 +X190 http://www.openstreetmap.org/?lat=64.284212&lon=-15.032816
-OldS1_S http://www.openstreetmap.org/?lat=64.285962&lon=-15.058866
+OldTH1Alm_S http://www.openstreetmap.org/?lat=64.285962&lon=-15.058866
 +X191 http://www.openstreetmap.org/?lat=64.291920&lon=-15.114956
 Grae http://www.openstreetmap.org/?lat=64.289314&lon=-15.138474
 TH99 http://www.openstreetmap.org/?lat=64.290096&lon=-15.182419
@@ -437,7 +441,7 @@ TH247_W http://www.openstreetmap.org/?lat=63.594432&lon=-19.968853
 TH249 http://www.openstreetmap.org/?lat=63.609620&lon=-19.997091
 TH254 http://www.openstreetmap.org/?lat=63.621635&lon=-20.028248
 TH250/251 http://www.openstreetmap.org/?lat=63.641382&lon=-20.050907
-OldS1Mar http://www.openstreetmap.org/?lat=63.670862&lon=-20.124550
+OldTH1Mar http://www.openstreetmap.org/?lat=63.670862&lon=-20.124550
 TH253 http://www.openstreetmap.org/?lat=63.675125&lon=-20.144119
 TH255 http://www.openstreetmap.org/?lat=63.714074&lon=-20.227032
 TH252 http://www.openstreetmap.org/?lat=63.723043&lon=-20.233898
@@ -472,8 +476,10 @@ TH34 http://www.openstreetmap.org/?lat=63.937438&lon=-21.003606
 ArbVegVes http://www.openstreetmap.org/?lat=63.947854&lon=-21.013584
 TH35 http://www.openstreetmap.org/?lat=63.950304&lon=-21.021738
 ThorVeg http://www.openstreetmap.org/?lat=63.956711&lon=-21.059332
+TH374_E http://www.openstreetmap.org/?lat=63.958143&lon=-21.098557
 +X252 http://www.openstreetmap.org/?lat=63.958520&lon=-21.114092
 TH375 http://www.openstreetmap.org/?lat=63.966582&lon=-21.135464
+TH374_W http://www.openstreetmap.org/?lat=63.977298&lon=-21.148167
 +X253 http://www.openstreetmap.org/?lat=63.984922&lon=-21.158810
 TH38 http://www.openstreetmap.org/?lat=63.995273&lon=-21.192884
 +X254 http://www.openstreetmap.org/?lat=64.001858&lon=-21.226273
