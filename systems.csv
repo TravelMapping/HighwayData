@@ -39,6 +39,7 @@ czed;CZE;Czechia Dálnice;blue;1;active
 czei;CZE;Czechia Silnice I. Třídy;lightsalmon;4;active
 deua;DEU;Germany Autobahnen;blue;1;active
 dnkpr;DNK;Denmark Primærruter;lightsalmon;4;active
+dnksr;DNK;Denmark Sekundærrute;yellow;5;active
 eure;EUR;UNECE International 'E' Roads;green;3;active
 eursf;EUR;Europe Select Named Freeways;teal;2;active
 espa;ESP;Spain Autopista / Autovia;blue;1;active
@@ -72,6 +73,7 @@ gaba;GAB;Gabon Autoroutes;blue;1;active
 geos;GEO;Georgia Sakartvelo Roads;lightsalmon;4;active
 grca;GRC;Greece Autokinetodromos;blue;1;active
 hrva;HRV;Croatia Autocesta;blue;1;active
+hrvd;HRV;Croatia Državne Ceste;lightsalmon;4;active
 hunm;HUN;Hungary Autópálya;blue;1;active
 imna;IMN;Isle of Man A Roads;lightsalmon;4;active
 irlm;IRL;Ireland Motorways;blue;1;active
@@ -105,6 +107,7 @@ poldk;POL;Poland Drogi Krajowa;lightsalmon;4;active
 prta;PRT;Portugal Autoestrada;blue;1;active
 prtip;PRT;Portugal Itinerários Principais;teal;2;active
 prtve;PRT;Madeira Via Expresso;teal;2;active
+prtic;PRT;Portugal Itinerários Complementares;lightsalmon;4;active
 rksr;RKS;Kosovo Autoudhë;blue;1;active
 rksn;RKS;Kosovo National Roads;lightsalmon;4;active
 roua;ROU;Romania Autostradă;blue;1;active
@@ -193,10 +196,8 @@ czeii;CZE;Czechia Silnice II. Třídy;yellow;5;preview
 deub;DEU;Germany Bundesstraßen;lightsalmon;4;preview
 deubyst;DEU;Bavaria Staatsstraßen;yellow;5;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
-dnksr;DNK;Denmark Sekundærrute;yellow;5;preview
 espn;ESP;Spain Carretera Nacionales;lightsalmon;4;preview
 estt;EST;Estonia Tugimaanteed;yellow;5;preview
-hrvd;HRV;Croatia Državne Ceste;lightsalmon;4;preview
 gbrtr;GBR;UK Tourist and Scenic Routes;brown;5;preview
 hkgrt;CHN;Hong Kong Routes;teal;2;preview
 idnjt;IDN;Indonesia Jalan Tol;blue;1;preview
@@ -218,7 +219,6 @@ nzlmot;NZL;New Zealand Motorways;blue;1;preview
 pakm;PAK;Pakistan Motorways;blue;1;preview
 phle;PHL;Philippines Expressways;blue;1;preview
 poldw1;POL;Poland Droga Wojewódzka 100-199;yellow;5;preview
-prtic;PRT;Portugal Itinerários Complementares;lightsalmon;4;preview
 srbb;SRB;Serbia Državni Put;lightsalmon;4;preview
 svkii;SVK;Slovakia Cesta II. Triedy;yellow;5;preview
 swel;SWE;Sweden Primära Länsvägar;yellow;5;preview
@@ -250,18 +250,18 @@ deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;devel
 #deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;devel
 #deuthl;DEU;Thuringia Landesstraßen;yellow;5;devel
 grceo;GRC;Greece Ethniki Odos;lightsalmon;4;devel
-#itass;ITA;Italy Strada Statale;lightsalmon;4;devel
+itass;ITA;Italy Strada Statale;lightsalmon;4;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 namb;NAM;Namibia B Roads;lightsalmon;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
-#norfv1;NOR;Norway Primære Fylkesveier 101-181;yellow;5;devel
+norfv1;NOR;Norway Primære Fylkesveier 101-181;yellow;5;devel
 #norfv2;NOR;Norway Primære Fylkesveier 201-289;yellow;5;devel
 #norfv3;NOR;Norway Primære Fylkesveier 300-364;yellow;5;devel
 #norfv4;NOR;Norway Primære Fylkesveier 401-471;yellow;5;devel
 #norfv5;NOR;Norway Primære Fylkesveier 501-585;yellow;5;devel
 #norfv6;NOR;Norway Primære Fylkesveier 601-690;yellow;5;devel
 #norfv7;NOR;Norway Primære Fylkesveier 700-777;yellow;5;devel
-#norfv8;NOR;Norway Primære Fylkesveier 801-866;yellow;5;devel
+#norfv8;NOR;Norway Primære Fylkesveier 801-895;yellow;5;devel
 nzlsh;NZL;New Zealand State Highways;lightsalmon;4;devel
 #poldw2;POL;Poland Droga Wojewódzka 200-299;yellow;5;devel
 #poldw3;POL;Poland Droga Wojewódzka 300-399;yellow;5;devel
