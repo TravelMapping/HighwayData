@@ -1,4 +1,4 @@
-System;CountryCode;Name;Color;Tier;Level
+﻿System;CountryCode;Name;Color;Tier;Level
 abwrt;NLD;Aruba Routes;lightsalmon;4;active
 alba;ALB;Albania Autoudhë;blue;1;active
 andcg;AND;Andorra Carreteras Generales;lightsalmon;4;active
@@ -39,6 +39,7 @@ czed;CZE;Czechia Dálnice;blue;1;active
 czei;CZE;Czechia Silnice I. Třídy;lightsalmon;4;active
 deua;DEU;Germany Autobahnen;blue;1;active
 dnkpr;DNK;Denmark Primærruter;lightsalmon;4;active
+dnksr;DNK;Denmark Sekundærrute;yellow;5;active
 eure;EUR;UNECE International 'E' Roads;green;3;active
 eursf;EUR;Europe Select Named Freeways;teal;2;active
 espa;ESP;Spain Autopista / Autovia;blue;1;active
@@ -195,7 +196,6 @@ czeii;CZE;Czechia Silnice II. Třídy;yellow;5;preview
 deub;DEU;Germany Bundesstraßen;lightsalmon;4;preview
 deubyst;DEU;Bavaria Staatsstraßen;yellow;5;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
-dnksr;DNK;Denmark Sekundærrute;yellow;5;preview
 espn;ESP;Spain Carretera Nacionales;lightsalmon;4;preview
 estt;EST;Estonia Tugimaanteed;yellow;5;preview
 gbrtr;GBR;UK Tourist and Scenic Routes;brown;5;preview
@@ -254,14 +254,14 @@ itass;ITA;Italy Strada Statale;lightsalmon;4;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 namb;NAM;Namibia B Roads;lightsalmon;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
-#norfv1;NOR;Norway Primære Fylkesveier 101-181;yellow;5;devel
+norfv1;NOR;Norway Primære Fylkesveier 101-181;yellow;5;devel
 #norfv2;NOR;Norway Primære Fylkesveier 201-289;yellow;5;devel
 #norfv3;NOR;Norway Primære Fylkesveier 300-364;yellow;5;devel
 #norfv4;NOR;Norway Primære Fylkesveier 401-471;yellow;5;devel
 #norfv5;NOR;Norway Primære Fylkesveier 501-585;yellow;5;devel
 #norfv6;NOR;Norway Primære Fylkesveier 601-690;yellow;5;devel
 #norfv7;NOR;Norway Primære Fylkesveier 700-777;yellow;5;devel
-#norfv8;NOR;Norway Primære Fylkesveier 801-866;yellow;5;devel
+#norfv8;NOR;Norway Primære Fylkesveier 801-895;yellow;5;devel
 nzlsh;NZL;New Zealand State Highways;lightsalmon;4;devel
 #poldw2;POL;Poland Droga Wojewódzka 200-299;yellow;5;devel
 #poldw3;POL;Poland Droga Wojewódzka 300-399;yellow;5;devel
