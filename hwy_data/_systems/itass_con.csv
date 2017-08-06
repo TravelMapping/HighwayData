@@ -1,7 +1,12 @@
 System;Route;Banner;Name;Roots
 itass;SS1;;Civitavecchia;ita.ss001civ
+itass;SS1;;Grosseto;ita.ss001
+itass;SS3;;Narni;ita.ss003nar
+itass;SS3;;Foligno;ita.ss003
+itass;SS3;Bis;;ita.ss003bis
 itass;SS4;;;ita.ss004
 itass;SS4;Dir;;ita.ss004dir
+itass;SS4;Rac;;ita.ss004rac
 itass;SS5;;Avezzano;ita.ss005
 itass;SS5;Qua;;ita.ss005qua
 itass;SS6;;;ita.ss006
@@ -25,7 +30,7 @@ itass;SS13;;Tarvisio;ita.ss013tar
 itass;SS14;;Trieste;ita.ss014tri
 itass;SS14;Rac;;ita.ss014rac
 itass;SS16;;Ortona;ita.ss016ort
-itass;SS16;;Bari;ita.ss016
+itass;SS16;;Bari;ita.ss016bar
 itass;SS16;;Brindisi;ita.ss016bri
 itass;SS16;;(North) Lecce;ita.ss016nle
 itass;SS16;;Lecce;ita.ss016lec
@@ -66,6 +71,20 @@ itass;SS54;;Tarvisio;ita.ss054tar
 itass;SS54;Dir;;ita.ss054dir
 itass;SS55;;;ita.ss055
 itass;SS58;;;ita.ss058
+itass;SS73;;Arezzo;ita.ss073
+itass;SS73;;Sansepolcro;ita.ss073san
+itass;SS73;Bis;San Giustino;ita.ss073bissgi
+itass;SS73;Bis;Fano;ita.ss073bis
+itass;SS73;Bis;Var;ita.ss073bisvar
+itass;SS73;Var;;ita.ss073var
+itass;SS75;;;ita.ss075
+itass;SS76;;;ita.ss076
+itass;SS76;Dir;;ita.ss076dir
+itass;SS77;;Foligno;ita.ss077fol
+itass;SS77;;Civitanova Marche;ita.ss077
+itass;SS77;Var;;ita.ss077var
+itass;SS79;;;ita.ss079
+itass;SS79;Bis;;ita.ss079bis
 itass;SS80;;;ita.ss080
 itass;SS80;Rac;;ita.ss080rac
 itass;SS80;Var;;ita.ss080var
@@ -99,7 +118,6 @@ itass;SS101;;;ita.ss101
 itass;SS106;;Catanzaro;ita.ss106
 itass;SS106;;Trebisacce;ita.ss106tre
 itass;SS106;;Rocco Imperial Marina;ita.ss106rim
-itass;SS106;Tar;Taranto;ita.ss106tar
 itass;SS106;Dir;;ita.ss106dir
 itass;SS106;Rad;;ita.ss106rad
 itass;SS106;Var;Siderno;ita.ss106varsid
@@ -198,10 +216,14 @@ itass;SS199;;;ita.ss199
 itass;SS200;;;ita.ss200
 itass;SS202;;;ita.ss202
 itass;SS202;Dir;;ita.ss202dir
-itass;SS212;Ben;Benevento;ita.ss212ben
+itass;SS205;;;ita.ss205
+itass;SS212;;Ben;Benevento;ita.ss212ben
 itass;SS212;;Reino;ita.ss212
 itass;SS212;Var;;ita.ss212var
+itass;SS219;;;ita.ss219
+itass;SS223;;;ita.ss223
 itass;SS231;;;ita.ss231
+itass;SS260;;;ita.ss260
 itass;SS268;;;ita.ss268
 itass;SS268;Rac;;ita.ss268rac
 itass;SS272;;;ita.ss272
@@ -228,6 +250,8 @@ itass;SS292;Dir;;ita.ss292dir
 itass;SS293;;;ita.ss293
 itass;SS295;;;ita.ss295
 itass;SS303;;;ita.ss303
+itass;SS318;;;ita.ss318
+itass;SS318;Dir;;ita.ss318dir
 itass;SS335;;;ita.ss335
 itass;SS335;Dir;;ita.ss335dir
 itass;SS336;;;ita.ss336
@@ -249,6 +273,7 @@ itass;SS389;Var;;ita.ss389var
 itass;SS390;;;ita.ss390
 itass;SS391;;;ita.ss391
 itass;SS392;;;ita.ss392
+itass;SS398;;;ita.ss398
 itass;SS400;;;ita.ss400
 itass;SS401;;;ita.ss401
 itass;SS401;Dir;;ita.ss401dir
@@ -259,6 +284,7 @@ itass;SS417;;;ita.ss417
 itass;SS425;;;ita.ss425
 itass;SS427;;;ita.ss427
 itass;SS442;;;ita.ss442
+itass;SS448;;;ita.ss448
 itass;SS466;;;ita.ss466
 itass;SS481;;;ita.ss481
 itass;SS494;;;ita.ss494
@@ -307,12 +333,21 @@ itass;SS660;;;ita.ss660
 itass;SS672;;;ita.ss672
 itass;SS673;;;ita.ss673
 itass;SS673;Dir;;ita.ss673dir
+itass;SS674;;;ita.ss674
+itass;SS675;;;ita.ss675
+itass;SS675;Bis;;ita.ss675bis
+itass;SS675;Dir;;ita.ss675dir
+itass;SS679;;;ita.ss679
+itass;SS680;;;ita.ss680
+itass;SS681;;;ita.ss681
 itass;SS682;;;ita.ss682
 itass;SS682;Dir;;ita.ss682dir
 itass;SS683;;;ita.ss683
 itass;SS683;Var;;ita.ss683var
 itass;SS684;;;ita.ss684
 itass;SS684;Dir;;ita.ss684dir
+itass;SS685;;;ita.ss685
+itass;SS687;;;ita.ss687
 itass;SS688;;;ita.ss688
 itass;SS689;;;ita.ss689
 itass;SS690;;;ita.ss690
@@ -345,6 +380,7 @@ itass;SS714;;;ita.ss714
 itass;SS714;Dir;Villa Verlengia;ita.ss714dirvil
 itass;SS714;Dir;Pineta;ita.ss714dirpin
 itass;SS714;Dir;Francavilla al Mare;ita.ss714dir
+itass;SS715;;;ita.ss715
 itass;SS721;;;ita.ss721
 itass;SS729;;Aldara;ita.ss729
 itass;SS729;;Oscheri;ita.ss729osc
