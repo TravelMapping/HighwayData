@@ -13,7 +13,6 @@
 - `D12` is announced to be opened in April 2017; not yet added to csv files
 - Numbering is usually not used on signage but there are km posts which are quite small and hard to find. I've checked 15 routes only and I always found a km post! At additional 2 routes GSV and GM still had old numbering. For that reason, I'll rely on wikipedia and OSM only.
 - `D125` (<1mi) exists according to the sources but not on OSM. It's on GM with a different shield but nothing on GSV.
-- `D304` exists according the sources but it's not on OSM, GM or GSV.
 - `D316` is/was near A4 according to wikipedia but the drafted route (OSM) near Nova Gradiska seems to be new and it's not yet on GSV.
 - `D403` is planned according to wikipedia (to be opened early 2015) but existing according to wegenwiki on "old roads". It's not yet on OSM, GM or GSV.
 - `D427` extension is u/c
