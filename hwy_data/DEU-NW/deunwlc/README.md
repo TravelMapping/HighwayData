@@ -8,4 +8,4 @@
 
 
 **NOTES TO ROUTES:**
-- `L84`, `L124`, `L150`, `L232`, `L260` and ``L705 are also partial eursf routes but these are flagged without `NW` banner.
+- `L84`, `L124`, `L150`, `L232`, `L260` and ``L705 are also partial eursf routes but these are flagged with `SF` banner.

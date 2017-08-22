@@ -78,6 +78,7 @@
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
 2015-07-22;Bulgaria;E85;bgr.e85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
 2015-08-13;(Canada) British Columbia;TCH 1 Business (Chase BC);bc.tchbuscha;New route
+2017-08-15;(Canada) New Brunswick;NB 565;nb.nb565;Route added
 2017-07-22;(Canada) New Brunswick;NB 122;nb.nb122;Waypoint "NB630" moved from McAdam St to Maple St
 2017-07-22;(Canada) New Brunswick;NB 630;nb.nb630;North end removed from McAdam St between Maple St and NB 122, and relocated onto Maple St between McAdam St and NB 122
 2017-02-05;(Canada) New Brunswick;NB 11;nb.nb011;Removed from Rue du Portage and NB 145 and relocated onto the southern Caraquet bypass between Rue du Portage and NB 145/325		
@@ -394,6 +395,8 @@
 2015-09-10;Germany;A524;deu.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;Germany;A544;deu.a544;Route re-entered
 2015-09-10;Germany;A562;deu.a562;Route re-entered
+2017-08-05;Greece;A5 (Patras);grc.a005;Route extended at northern end from exit 17 to exit 19 (for the A2)
+2017-08-05;Greece;E951;grc.e951;Route truncated at northern end from A2 to A5 exit 17 and extended at northern end from A5 exit 17 to A5 exit 19
 2017-07-30;Greece;A24;grc.a024;Route extended at south end from the EO16g at Nea Moudania to Portes
 2017-07-26;Greece;A5 (Patras);grc.a005;Route extended at northern end from exit 11 to exit 17
 2017-07-26;Greece;A5 (Arta);grc.a005;Route merged into main route
@@ -489,13 +492,16 @@
 2015-07-24;Ireland;M11 (Gorey);irl.m011gor;Route extended at north end from exit 20 to exit 14 (including Rathnew section)
 2015-07-24;Ireland;M11 (Rathnew);;Route merged with Gorey section
 2015-07-24;Ireland;N11 (Wicklow);;Route deleted
+2017-08-16;Israel;F5;isr.f005;Route truncated at east end from L5050 to F6
+2017-08-16;Israel;F7;isr.h007;Route deleted (renamed H7)
 2017-05-31;Israel;F2;isr.f002;Route extended at north end from R721 to H4
 2017-05-31;Israel;F6 (Be'er Sheva);isr.f006bee;New Route
 2017-05-31;Israel;F7;isr.f007;New Route
 2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
 2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
 2016-12-30;Israel;F20;isr.f020;Route extended at north end from exit 20 to exit 22
-2017-07-30;Italy;A2 ;ita.a002;New Route
+2017-08-07;Italy;A12 (Citivecchia);ita.a012cit;Route extended at north end from junction with SS1 labeled 'SS1_A' to SP104
+2017-07-30;Italy;A2;ita.a002;New Route
 2017-07-30;Italy;A2 Raccordo Reggio Calabria;ita.a002racreg;New Route
 2017-07-30;Italy;A3;ita.a003;Route truncated at south end from Via Montevergine to A2
 2017-07-30;Italy;RA2;ita.ra002;Route truncated at south end from A3 to A2/A30
@@ -673,6 +679,7 @@
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
+2017-08-14;Netherlands;S100Lim;nld.s100lim;New Route
 2017-04-10;Netherlands;A9;nld.a009;Route removed from through Badhoevedorp and onto Badhoevedorp Bypass between A4 and A5
 2017-01-28;Netherlands;A2;nld.a002;North end moved from President Kennedylaan to Joan Muyskenweg, truncated segment is 'S110Ams' now
 2016-12-18;Netherlands;A2;nld.a002;Route extended at south end from exit 53, new alignment (lower tunnel) between exit 53 and 54
@@ -697,6 +704,14 @@
 2017-08-01;Norway;E16;nor.e16;Route removed from Fv250 and relocated onto new construction west of Kongsvinger between exit 7 and Fv210
 2017-08-01;Norway;E18;nor.e18;Route removed from Fv128 and relocated onto Askim Motorveien between the Fv128 at Knapstad, and the Fv128 west of Elvestad
 2017-08-01;Norway;Askim Motorveien;nor.askmot;Route extended at west end from Fv128 at Knapstad to the Fv128 west of Elvestad
+2017-08-05;Norway;Rv40;nor.rv040;New Route
+2017-08-05;Norway;Rv191;nor.rv191;New Route
+2017-08-05;Norway;Rv354;nor.rv354;New Route
+2017-08-05;Norway;Rv451;nor.rv451;New Route
+2017-08-05;Norway;Rv580;nor.rv580;New Route
+2017-08-05;Norway;Rv681;nor.rv681;New Route
+2017-08-05;Norway;Rv833;nor.rv833;New Route
+2017-08-05;Norway;Rv881;nor.rv881;New Route
 2017-08-01;Norway;Rv110;nor.rv110;New Route
 2017-08-01;Norway;Rv120;nor.rv120;New Route
 2017-02-24;Norway;Rv651 (Volda);nor.rv651vol;New Route
@@ -747,6 +762,10 @@
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route 
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route 
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2017-08-15;Poland;S7 (Ostrada);pol.s007ost;New Route
+2017-08-15;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7 between DK16 and Rychnowo
+2017-08-15;Poland;DK7 (Ostrada);pol.dk007ost;Route truncated at north end from Ulica Paslecka to DW530 and at south end from Sudwa to DK16
+2017-08-15;Poland;DK7 (Rychnowo);pol.dk007ryc;New Route
 2017-07-17;Poland;DK15;pol.dk015;Route removed from Ulica Poznaska and Ulica Torunska and relocated onto Inowroclaw bypass between DK25_N at Latkowo and Markowice
 2017-07-17;Poland;DK25;pol.dk025;Route removed from Ulica Poznaska and relocated onto Ulica Torunska and Inowroclaw bypass between Ulica Stanislawa Staszica and Markowice
 2017-07-12;Poland;S7 (Szydlowiec);pol.s007szy;Route extended at north end from DW727 to Katy
@@ -1409,10 +1428,11 @@
 2017-02-11;(USA) Colorado;US6 Bypass (Grand Junction);;Route merged into main US6 route.
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
-2015-08-03;(USA) Colorado;US 287 Business Berthoud;;Route deleted
+2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
 2017-06-07;(USA) Connecticut;CT 2A;ct.ct002a;Relabeled exits from sequential to mileage-based, all numbered exits changed
 2016-02-12;(USA) Connecticut;Milford Parkway;ct.milpkwy;Route added
 2015-12-16;(USA) Connecticut;I-395;ct.i395;Relabeled exits from sequential to mileage-based, all numbers changed
+2017-08-05;(USA) Florida;US 1;fl.us001;Removed from Brickell Avenue in Miami, and relocated onto FL 970 and southern 2 miles of I-95 between the intersection of FL 970/Brickell Avenue (BriAve) and the interchange of I-95/Brickell Ave.
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
@@ -1766,9 +1786,12 @@
 2016-01-28;(USA) Pennsylvania;PA 441;pa.pa441;Removed from Locust St and 3rd St and relocated onto a newly-constructed northerly extension of Front St, between Locust St and US 30
 2015-12-29;(USA) Pennsylvania;PA 980;pa.pa980;Removed from a closed roadway parallel to the Montour Trail to the southwest, and relocated onto a direct beeline connection between the new four-way intersection at PA 50 and a closed intersection, labeled *OldPA980, about 160 feet south.
 2015-10-26;(USA) Pennsylvania;US 209 Truck (Brodheadsville);pa.us209trkbro;Added route
+2017-08-09;(USA) Rhode Island;RI 51;;Route deleted.
+2017-08-09;(USA) Rhode Island;RI 114;ri.ri114;Removed from Mill St and High St in Cumberland, and relocated onto Broad Street and Dexter St (RI 123) between Mill St and High St (waypoint RI123_E).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2017-08-07;(USA) South Carolina;SC 34 Truck (Ridgeway);sc.sc034trkrid;Route added
 2017-06-24;(USA) South Carolina;SC 28 Truck (Anderson);sc.sc028trkand;Route added
 2016-08-06;(USA) South Carolina;SC 5 Connector (Rock Hill);sc.sc5conroc;Route added
 2016-01-08;(USA) South Carolina;US 15 Connector (Sumter);;Route deleted
@@ -1892,6 +1915,8 @@
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quary Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US395 Future (Spokane);wa.us395futspo;New Route
+2017-08-05;(USA) West Virginia;WV 93;wv.wv093;Extended eastward from former eastern end (now 'US50_W') along US 50 and former WV 972 to a new eastern terminus at US 220.
+2017-08-05;(USA) West Virginia;WV 972;wv.wv093;Route Deleted. Absorbed by WV 93.
 2017-06-25;(USA) West Virginia;US 19;wv.us019;Removed from the former, now demolished, Hood Street Bridge in Shinnston, and rerouted onto the replacement bridge to the north between Clement Street & Hood Avenue.
 2017-06-25;(USA) West Virginia;WV 279;wv.wv279;Extended westward from it's former western end at I-79 to County Route 707.
 2017-04-02;(USA) West Virginia;US 48;wv.us048;Extended westward from it's former temporary western end at the old WV 93 alignment in Tucker County along WV 32, US 219, and US 33 to it's permanent western end at an interchange with I-79.
@@ -1928,6 +1953,9 @@
 2015-09-06;(USA) Wisconsin;WI 64;wi.wi064;Moved route in Antigo from 5th Avenue and Superior Street to northwest bypass from near County Road H/HH to US 45/WI 47
 2015-09-06;(USA) Wisconsin;WI 82;wi.wi082;Moved route in Mauston from Division St. and US 12 to Grayside and Union Sts.
 2015-09-06;(USA) Wisconsin;WI 95;wi.wi095;Extended route north from WI 73 to US 10 at Neillsville
+2017-08-07;(USA) Wyoming;US 20 Business (Douglas);wy.us020busdou;New Route
+2017-08-07;(USA) Wyoming;US 26 Business (Douglas);wy.us026busdou;New Route
+2017-08-07;(USA) Wyoming;US 87 Business (Douglas);wy.us087busdou;New Route
 2017-04-01;(USA) Wyoming;US 287 Business (Rawlins);wy.us287bypraw;Route renamed US287 Bypass (Rawlins)
 2017-02-11;(USA) Wyoming;US 87 Business (Sheridan);wy.us087busshe;Route truncated at south end from I-90 exit 25 to intersection of Coffeen Avenue and East Brundage Lane (called 'US87_S')
 2016-12-05;(USA) Wyoming;US 87 (Cheyenne);wy.us087;Route truncated at north end from the Montana border to WY193, and then extended at north end to the washout.
