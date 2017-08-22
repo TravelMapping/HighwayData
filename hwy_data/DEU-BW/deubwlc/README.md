@@ -9,4 +9,6 @@
 
 
 **NOTES TO ROUTES:**
-- `L605`, `L1180` and ``L1187 are also partial eursf routes but these are flagged with `SF` banner.
+- `L1106` Nordhausen bypass u/c
+- `L1183` Darmsheim bypass u/c
+- `B32` Bad Saulgau bypass dedication including `L280`, `L283` and `L285` to be checked later again
