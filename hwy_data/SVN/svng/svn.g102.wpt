@@ -1,7 +1,7 @@
 A1 http://www.openstreetmap.org/?lat=45.908241&lon=14.257851
 R640 http://www.openstreetmap.org/?lat=45.912019&lon=14.228497
-R408 http://www.openstreetmap.org/?lat=45.916318&lon=14.218583
-R409 http://www.openstreetmap.org/?lat=45.894937&lon=14.191203
+R409_N +R408 http://www.openstreetmap.org/?lat=45.916318&lon=14.218583
+R409_S +R409 http://www.openstreetmap.org/?lat=45.894937&lon=14.191203
 R621 http://www.openstreetmap.org/?lat=45.895116&lon=14.189487
 NoviSvet http://www.openstreetmap.org/?lat=45.920946&lon=14.141035
 Hot http://www.openstreetmap.org/?lat=45.930140&lon=14.139919
@@ -13,7 +13,8 @@ R207 http://www.openstreetmap.org/?lat=45.958937&lon=14.091382
 +X858631 http://www.openstreetmap.org/?lat=45.966797&lon=14.054132
 IdrLog http://www.openstreetmap.org/?lat=45.986943&lon=14.031944
 LapUli http://www.openstreetmap.org/?lat=46.002976&lon=14.027835
-SpoKan http://www.openstreetmap.org/?lat=46.033530&lon=14.020958
+R610_E http://www.openstreetmap.org/?lat=46.021105&lon=14.029026
+R610_W +SpoKan http://www.openstreetmap.org/?lat=46.033530&lon=14.020958
 +X151382 http://www.openstreetmap.org/?lat=46.059534&lon=14.017181
 +X464093 http://www.openstreetmap.org/?lat=46.076148&lon=13.980789
 R210 http://www.openstreetmap.org/?lat=46.102191&lon=13.948259
