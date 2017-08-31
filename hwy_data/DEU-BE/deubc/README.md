@@ -4,7 +4,7 @@
 
 **SOURCES:**
 - https://de.wikipedia.org/wiki/Liste_der_Bundesstra%C3%9Fen_in_Deutschland
-- http://www.bmvi.de/DE/VerkehrUndMobilitaet/Verkehrspolitik/Verkehrsinfrastruktur/Bundesverkehrswegeplan2030/InhalteHerunterladen/inhalte_node.html
+- http://www.bmvi.de/DE/Themen/Mobilitaet/Infrastrukturplanung-Investitionen/Bundesverkehrswegeplan-2030/bundesverkehrswegeplan-2030.html
 - http://www.bast.de/DE/Verkehrstechnik/Fachthemen/v1-beverz/v1-berverz.html
 
 
@@ -16,14 +16,14 @@
 - HB: no direct link
 - HE: https://mobil.hessen.de/%C3%BCber-uns/downloads-formulare/netzknotenkarten-hessen
 - HH (Hauptverkehrsstraßen, named roads): http://www.hamburg.de/bwvi/start-hauptverkehrsstrassennetz/
-- MV: http://www.laiv-mv.de/land-mv/LAiV_prod/LAiV/AfGVK/Aktuelle_Karten/1250_000/index.jsp#Stra%C3%9Fenkarte
+- MV: https://www.gaia-mv.de/gaia/gaia.php
 - NI: http://www.nwsib-niedersachsen.de/
 - NW: http://www.nwsib-online.nrw.de/
-- RP: https://www.lbm.rlp.de/Veroeffentlichungen/Strassenkarte-Rheinland-Pfalz/
-- SH: http://portal.digitaleratlasnord.de/portal/initParams.do
+- RP: https://lbm.rlp.de/de/service/informationsmaterial/strassenkarte-rheinland-pfalz/
+- SH: http://danord.gdi-sh.de/viewer/resources/apps/Anonym/index.html
 - SL: http://geoportal.saarland.de/mapbender/geoportal/mod_index.php
 - SN: http://geoportal.sachsen.de/cps/karte.html?showmap=true
-- ST: http://www.geofachdatenserver.de/de/strassen-sachsen-anhalt.html
+- ST: http://www.lvermgeo.sachsen-anhalt.de/de/geoservice/viewer/main2.htm
 - TH: http://www.thueringen.de/th9/tlbv/service/strassenkarte/
 
 
