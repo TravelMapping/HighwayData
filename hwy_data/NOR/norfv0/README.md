@@ -18,3 +18,4 @@
 - `Ring 2` (former `Fv161`) is a municipal road of Oslo city but signed like Fv routes; not drafted though
 - `Ring 1` is signed like `Ring 2` but state-owned `Rv162` according to wikipedia but no `Rv162` signs according to GSV from 2016
 - `Fv168` eastern segment is a municipal road of Oslo city and not signed according to GSV from 2016 (was signed in 2010 though)
+- `Fv256` according to wikipedia description (and GM) is `Fv319` according to vegvesen.no and OSM; not drafted
