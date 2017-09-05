@@ -28,7 +28,6 @@
 
 
 **NOTES TO ROUTES:**
-- `B19` Ulm?
 - `B28` should be rerouted in "Mid 2016" but I couldn't find any reliable info how it should be changed and it seems that it's still discussed, no final decision.
 - `B83` b/n B7 and A49 in Kassel is still B road according to `Netzknotenkarte` from 2016!?
 - `B109` Schönerlinder Straße, Berlin should be rededicated after renovation completion: http://www.berlin.de/senuvk/bauen/strassenbau/b109/
