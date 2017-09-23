@@ -688,6 +688,7 @@
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
+2017-09-15;Netherlands;N15;nld.n015;Route truncated at west end from AntWeg to exit 6
 2017-08-14;Netherlands;S100Lim;nld.s100lim;New Route
 2017-04-10;Netherlands;A9;nld.a009;Route removed from through Badhoevedorp and onto Badhoevedorp Bypass between A4 and A5
 2017-01-28;Netherlands;A2;nld.a002;North end moved from President Kennedylaan to Joan Muyskenweg, truncated segment is 'S110Ams' now
@@ -961,6 +962,9 @@
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2017-09-18;Serbia;A4 (Bela Palanka);srb.a004bel;Route extended at east end from former junction east of Bela Palanka to Stanicenje
+2017-09-18;Serbia;A4 (Pirot);srb.a004pir;New Route
+2017-09-18;Serbia;E80;srb.e80;Route removed from R259 and located onto A4 between Pirot and Gradinje
 2017-01-22;Serbia;A1 (Jagodina);srb.a001;Route extended at south end from closed exit 52 to exit 53
 2017-01-22;Serbia;A1 (Vranje);srb.a001vra;Route truncated at north end from north of Vladicin Han to south of Vladicin Han
 2016-11-08;Serbia;A2;srb.a002;New Route
@@ -1283,6 +1287,16 @@
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2017-09-22;(UK) England;A1(M) (Wetherby);eng.a001m;Route extended at north end from exit 51 to exit 52
+2017-09-22;(UK) England;A1 (Scotch Corner);eng.a001sco;Route truncated at south end from exit 51 to exit 52
+2017-09-16;(UK) England;A361 (Barnstaple);eng.a0361bar;New Route
+2017-09-16;(UK) England;A361 (Frome);eng.a0361;Route truncated at south end from A399 at Ilfracombe to A38 at Taunton
+2017-09-16;(UK) England;A1035;eng.a1035;Route extended at east end from A165 to B1242 in Hornsea
+2017-09-16;(UK) England;A4420;eng.a4420;New Route
+2017-09-16;(UK) England;A5183;eng.a5183;Route truncated at north end from A5 to A505
+2017-09-16;(UK) England;A5187;eng.a5187;New Route
+2017-09-16;(UK) England;A6055;eng.a6055;Route extended at north end from A6136 at Catterick to A6136 at Brough with St Giles
+2017-09-16;(UK) England;A6136;eng.a6136;Route truncated at east end from A1(M) to A6055 and extended at east end from A6055 to A6136Bro
 2017-07-12;(UK) England;A3087;eng.a3087;New Route
 2017-05-16;(UK) England;A63;eng.a0063;Route removed from Howden town centre and relocated onto Barnhill Lane and Knedlington Road between B1230 and the northern junction (formerly the southern junction) with the A614.
 2017-05-10;(UK) England;A5 (Milton Keynes);eng.a0005;Route removed from Watling Street from M1 (exit 9) through Dunstable and relocated onto Dunstable Northern Bypass between M1 (exit 11A) and A5183
@@ -1968,6 +1982,12 @@
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra).
+2017-09-19;(USA) Wisconsin;US 12;wi.us012;Closed intersection *US12BusWBa_E. Added closed point *OldUS12_Bar.
+2017-09-19;(USA) Wisconsin;US 12 Business (West Baraboo);;Deleted route. Most of route incorporated into US 12 Business (Baraboo).
+2017-09-19;(USA) Wisconsin;US 12 Business (Baraboo);wi.us012busbar;Extended west along South Boulevard from Pine Street to new US 12 freeway. Extended north along old US 12, now County Road BD, and US 12 Business (West Baraboo) to US 12. New north end labeled US12 to avoid conflict with old point US12_W, which has been renamed WI33/136. New south end labeled US12/CRW to avoid conflict with old point US12_E, which is now WI136.
+2017-09-19;(USA) Wisconsin;WI 33;wi.wi033;Moved off Pine Street onto WI 136 and new US 12 freeway from WI 136 to now-County Road BD. Closed intersection *US12Bus. Moved point US12/136 west to new exit. Old Point US12_E (Pine Street) now WI136_E. Renamed point WI113/123->US12Bus/113.
+2017-09-19;(USA) Wisconsin;WI 136;wi.wi136;Extended south along former US 12 (Pine Street) and east along WI 159 to Devil's Lake State Park.
+2017-09-19;(USA) Wisconsin;WI 159;;Deleted route.
 2017-06-24;(USA) Wisconsin;WI 145;wi.wi145;Removed from 124th Street and onto Old Orchard Road between WI 100 and 124th Street
 2017-06-18;(USA) Wisconsin;US 45;wi.us045;Removed from Fond du Lac Avenue, 6th Street, Marr/Macy streets (one-ways), and Main Street between US 151 and WI 23 and rerouted onto Park Avenue, US 151, I-41, and WI 23 in Fond du Lac. Closed old *US151 intersection
 2017-05-05;(USA) Wisconsin;WI 123;;Deleted route
