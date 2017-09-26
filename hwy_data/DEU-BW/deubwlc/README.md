@@ -9,6 +9,7 @@
 
 
 **NOTES TO ROUTES:**
+- `L575` is signed `K2879`, not drafted
 - `L602` Huttenheim - Rußheim u/c (to be opened late 2019)
 - `L1106` Nordhausen bypass u/c
 - `L1183` Darmsheim bypass u/c
