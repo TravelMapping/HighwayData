@@ -1,25 +1,25 @@
-systemName;route;banner;groupName;roots
+﻿systemName;route;banner;groupName;roots
 eure;E1;;Ireland;nir.e1,irl.e1
-eure;E1;;Spain - Portugal;esp.e1,prt.e1,esp.e1hue
-eure;E1;;Ferrol, ESP (branch);esp.e1fer
-eure;E1;;Vigo, ESP (branch);esp.e1vig
+eure;E1;;Spain - Portugal;espga.e1,prt.e1,espan.e1
+eure;E1;;Ferrol, ESP (branch);espga.e1fer
+eure;E1;;Vigo, ESP (branch);espga.e1vig
 eure;E3;;(Main);fra.e3
 eure;E3;;Rennes, FRA (ring);fra.e3ren
 eure;E4;;;fin.e4,swe.e4
 eure;E5;;Great Britain;sct.e5,eng.e5
 eure;E5;;Glasgow, SCT (loop);sct.e5gla
 eure;E5;;Birmingham, ENG (loop);eng.e5bir
-eure;E5;;France - Spain;fra.e5,esp.e5
+eure;E5;;France - Spain;fra.e5,esppv.e5,espcl.e5peu,esppv.e5arm,espcl.e5,espmd.e5,espcm.e5ses,espmd.e5ara,espcm.e5,espan.e5
 eure;E5;;Bordeaux, FRA (ring);fra.e5bor
-eure;E5;;Bilbao, ESP;esp.e5bil
-eure;E5;;Beasain, ESP;esp.e5bea
+eure;E5;;Bilbao, ESP;esppv.e5bil
+eure;E5;;Beasain, ESP;esppv.e5bea,espnc.e5,esppv.e5aug
 eure;E6;;N. Norway;nor.e6kir
 eure;E6;;C. Norway - Sweden;nor.e6,swe.e6
 eure;E6;;Ryen, NOR (branch);nor.e6rye
 eure;E6;;Oslo, NOR (branch);nor.e6osl
-eure;E7;;;fra.e7,esp.e7
+eure;E7;;;fra.e7,espar.e7
 eure;E8;;;nor.e8,fin.e8
-eure;E9;;France - Spain;fra.e9,esp.e9
+eure;E9;;France - Spain;fra.e9,espct.e9
 eure;E9;;Toulouse, FRA (branch);fra.e9tou
 eure;E10;;;nor.e10,swe.e10
 eure;E11;;;fra.e11
@@ -28,8 +28,8 @@ eure;E12;;Finland;fin.e12
 eure;E13;;;eng.e13
 eure;E14;;;nor.e14,swe.e14
 eure;E15;;Great Britain;sct.e15,eng.e15
-eure;E15;;France - Spain;fra.e15,esp.e15
-eure;E15;;Cartagena, ESP (branch);esp.e15car
+eure;E15;;France - Spain;fra.e15,espct.e15,espvc.e15,espmc.e15,espan.e15
+eure;E15;;Cartagena, ESP (branch);espmc.e15car,espan.e15pul
 eure;E16;;Ireland;nir.e16
 eure;E16;;Scotland;sct.e16
 eure;E16;;Norway - Sweden;nor.e16,swe.e16
@@ -126,7 +126,7 @@ eure;E67;;;est.e67,lva.e67,ltu.e67,pol.e67,cze.e67
 eure;E68;;;hun.e68,rou.e68
 eure;E69;;;nor.e69
 eure;E69;;Honningsvåg, NOR (branch);nor.e69hon
-eure;E70;;Spain - Bulgaria;esp.e70,fra.e70,ita.e70,svn.e70,hrv.e70,srb.e70,rou.e70,bgr.e70
+eure;E70;;Spain - Bulgaria;espga.e70,espas.e70,espcb.e70,esppv.e70,fra.e70,ita.e70,svn.e70,hrv.e70,srb.e70,rou.e70,bgr.e70
 eure;E70;;Bordeaux, FRA (ring);fra.e70bor
 eure;E70;;Turkey - Georgia;tur.e70,geo.e70
 eure;E71;;;svk.e71,hun.e71,hrv.e71
@@ -143,10 +143,10 @@ eure;E77;;Pskov, RUS - Kaliningrad, RUS;rus.e77,est.e77,lva.e77,ltu.e77,rus.e77k
 eure;E77;;Poland - Hungary;pol.e77,svk.e77,hun.e77
 eure;E78;;;ita.e78
 eure;E79;;;hun.e79,rou.e79,bgr.e79,grc.e79
-eure;E80;;Portugal - Italy;prt.e80,esp.e80,fra.e80,ita.e80
+eure;E80;;Portugal - Italy;prt.e80,espcl.e80,esppv.e80arm,espcl.e80peu,esppv.e80,fra.e80,ita.e80
 eure;E80;;Croatia - Turkey;hrv.e80,mne.e80,srb.e80rib,rks.e80,srb.e80,bgr.e80,tur.e80
 eure;E81;;;ukr.e81,rou.e81
-eure;E82;;;prt.e82,esp.e82
+eure;E82;;;prt.e82,espcl.e82
 eure;E83;;;bgr.e83
 eure;E84;;;tur.e84
 eure;E85;;;ltu.e85,blr.e85,ukr.e85,rou.e85,bgr.e85,grc.e85
@@ -157,7 +157,7 @@ eure;E87;;Turkey;tur.e87
 eure;E88;;;tur.e88
 eure;E88;;Ankara (ring);tur.e88ank
 eure;E89;;;tur.e89
-eure;E90;;Portugal - Spain;prt.e90,esp.e90
+eure;E90;;Portugal - Spain;prt.e90,espex.e90,espcm.e90tal,espmd.e90,espcm.e90,espcl.e90,espar.e90,espct.e90
 eure;E90;;Sicilia, ITA;ita.e90pal
 eure;E90;;S. Italy;ita.e90
 eure;E90;;Greece - W. Turkey;grc.e90,tur.e90kes
@@ -279,10 +279,10 @@ eure;E763;;;srb.e763,mne.e763
 eure;E771;;;rou.e771,srb.e771
 eure;E772;;;bgr.e772
 eure;E773;;;bgr.e773
-eure;E801;;;prt.e801,esp.e801
+eure;E801;;;prt.e801,espga.e801
 eure;E802;;;prt.e802
-eure;E803;;;esp.e803
-eure;E804;;;esp.e804
+eure;E803;;;espcl.e803,espex.e803,espan.e803
+eure;E804;;;esppv.e804,espcl.e804,espri.e804,espnc.e804sar,espri.e804cal,espnc.e804,espar.e804
 eure;E805;;;prt.e805
 eure;E806;;;prt.e806
 eure;E821;;;ita.e821
@@ -300,8 +300,8 @@ eure;E852;;;mkd.e852
 eure;E853;;;grc.e853
 eure;E871;;;mkd.e871,bgr.e871
 eure;E881;;;tur.e881
-eure;E901;;;esp.e901
-eure;E902;;;esp.e902
+eure;E901;;;espmd.e901,espcm.e901,espvc.e901
+eure;E902;;;espan.e902
 eure;E931;;;ita.e931
 eure;E932;;;ita.e932
 eure;E933;;;ita.e933
