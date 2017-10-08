@@ -1,4 +1,4 @@
-systemName;region;route;banner;abbrev;city;root;altRouteNames
+﻿systemName;region;route;banner;abbrev;city;root;altRouteNames
 usanp;ME;CadSumRd;;;Cadillac Summit Road, Acadia NP;me.cadsumrd;
 usanp;ME;ParHillRd;;;Paradise Hill Road, Acadia NP;me.parhillrd;
 usanp;ME;ParkLpRd;;;Park Loop Road, Acadia NP;me.parklprd;
@@ -15,6 +15,7 @@ usanp;VA;BlueRidPkwy;;;Blue Ridge Parkway;va.blueridpkwy;
 usanp;NC;LinFalRd;;;Linville Falls Road;nc.linfalrd;
 usanp;VA;MillMtnPkwy;;;Mill Mountain Parkway;va.millmtnpkwy;
 usanp;VA;RoaRivPkwy;;;Roanoke River Parkway;va.roarivpkwy;
+usanp;VA;PeaRd;;;Peaks Road;va.peard;
 usanp;UT;BryCynSceDr;;;Scenic Drive, Bryce Canyon NP;ut.brycynscedr;
 usanp;UT;IslSkySceDr;;;Island In The Sky Scenic Drive, Canyonlands NP;ut.islskyscedr;
 usanp;UT;NeeSceDr;;;The Needles Scenic Drive, Canyonlands NP;ut.neescedr;
@@ -58,7 +59,6 @@ usanp;VA;GWMemPkwy;;MtV;George Washington Memorial Parkway (Mount Vernon);va.gwm
 usanp;VA;GWMemPkwy;;Cry;George Washington Memorial Parkway (Crystal City);va.gwmempkwycry;
 usanp;DC;GWMemPkwy;;;George Washington Memorial Parkway;dc.gwmempkwy;
 usanp;VA;GWMemPkwy;;;George Washington Memorial Parkway (Langley);va.gwmempkwy;
-usanp;PA;AutoTrl;;;Gettysburg Auto-Tour, Gettysburg NMP;pa.autotrl;
 usanp;MT;GoiSunRd;;;Going-to-the-Sun Rd, Glacier NP;mt.goisunrd;
 usanp;MT;TwoMedRd;;;Two Medicine Road, Glacier NP;mt.twomedrd;
 usanp;NV;WhePeakSceDr;;;Wheeler Peak Scenic Drive, Great Basin NP;nv.whepeakscedr;
@@ -80,15 +80,14 @@ usanp;TN;LauCreRd;;;Laurel Creek Road, Great Smoky Mountains NP;tn.laucrerd;
 usanp;TN;LitRivGorRd;;;Little River Gorge Road, Gt Smoky Mtns NP;tn.litrivgorrd;
 usanp;TN;TowEntRd;;;Townsend Entrance Road, Gt Smoky Mtns NP;tn.towentrd;
 usanp;HI;CraRd;;;Crater Road, Haleakalā NP;hi.crard;
-usanp;WV;SheSt;;;Shenandoah Street, Harpers Ferry NHP;wv.shest;
-usanp;WV;ShoDr;;;Shoreline Drive, Harpers Ferry NHP;wv.shodr;
 usanp;HI;ChaCraRd;;;Chain of Craters Road, Hawai'i Volcanoes NP;hi.chacrard;
 usanp;HI;CraRimDr;;;Crater Rim Drive, Hawai'i Volcanoes NP;hi.crarimdr;
 usanp;WY;RocMemPkwy;;;John D. Rockefeller Jr. Memorial Parkway;wy.rocmempkwy;
 usanp;CA;ParkBlvd;;;Park Boulevard, Joshua Tree NP;ca.parkblvd;
 usanp;CA;PinBasRd;;;Pinto Basin Road, Joshua Tree NP;ca.pinbasrd;
 usanp;CA;GenHwy;;;Generals Highway, Kings Canyon and Sequoia NPs;ca.genhwy;
-usanp;CA;KinCanRd;;;Kings Canyon Road, Kings Canyon NP;ca.kincanrd;
+usanp;CA;KinCanRd;;;Kings Canyon Road, Kings Canyon NP (Grant Grove);ca.kincanrd;
+usanp;CA;KinCanRdCed;;;Kings Canyon Road, Kings Canyon NP (Cedar Grove);ca.kincanrdced;
 usanp;SC;ParkRd;;;Park Road, Kings Mountain NMP;sc.parkrd;
 usanp;CA;LasPeakHwy;;;Lassen Peak Highway, Lassen Volcanic NP;ca.laspeakhwy;
 usanp;MT;BatRd;;;Battlefield Road, Little Bighorn Battlefield NM;mt.batrd;

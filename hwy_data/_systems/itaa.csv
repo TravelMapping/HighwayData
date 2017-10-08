@@ -1,4 +1,4 @@
-systemName;region;route;banner;abbrev;city;root;altRouteNames
+﻿System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
 itaa;ITA;A1;;;Autostrada del Sole;ita.a001;
 itaa;ITA;A1;;Mil;Raccordo Milano-Piazzale Corvetto;ita.a001mil;
 itaa;ITA;A1;;Sas;Raccordo Autostradale Sasso Marconi;ita.a001sas;
@@ -6,7 +6,9 @@ itaa;ITA;A1;Var;Val;Variante di Valico;ita.a001varval;
 itaa;ITA;A1;;NRo;Diramazione Roma Nord;ita.a001nro;
 itaa;ITA;A1;;SRo;Diramazione Roma Sud;ita.a001sro;
 itaa;ITA;A1;;Cap;Diramazione Capodichino;ita.a001cap;
-itaa;ITA;A3;;;Autostrada Napoli - Salerno - Reggio Calabria;ita.a003;
+itaa;ITA;A2;;;Autostrada del Mediterraneo;ita.a002;
+itaa;ITA;A2;Rac;Reg;Raccordo Reggio Calabria;ita.a002racreg;
+itaa;ITA;A3;;;Autostrada Meridionali;ita.a003;
 itaa;ITA;A4;;;Autostrada Serenissima;ita.a004;
 itaa;ITA;A4;;Chi;Raccordo Est di Chivasso;ita.a004chi;
 itaa;ITA;A4A5;;;Diramazione Ivrea-Santhià;ita.a004a005;
@@ -25,7 +27,7 @@ itaa;ITA;A11;;Via;Diramazione Lucca-Viareggio;ita.a011via;A11A12
 itaa;ITA;A12;;;Autostrada Azzurra (Genoa);ita.a012;
 itaa;ITA;A12;;Pis;Raccordo Autostradale di Pisa;ita.a012pis;
 itaa;ITA;A12;;Liv;Diramazione per Livorno;ita.a012liv;
-itaa;ITA;A12;;Cit;Autostrada Azzurra (Civitavecchia);ita.a012cit;
+itaa;ITA;A12;;Cit;Autostrada Azzurra (Civitavecchia);ita.a012civ;A12Cit
 itaa;ITA;A13;;;Autostrada Bologna - Padova;ita.a013;
 itaa;ITA;A13;;Pad;Diramazione per Padova sud;ita.a013pad;
 itaa;ITA;A13;;Fer;Diramazione per Ferrara;ita.a013fer;RAFerPor

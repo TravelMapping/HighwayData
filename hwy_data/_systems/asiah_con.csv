@@ -1,21 +1,23 @@
 systemName;route;banner;groupName;roots
-asiah;AH1;;;tur.ah001
+asiah;AH1;;South and West Asia;pak.ah001,afg.ah001,irn.ah001,tur.ah001
+asiah;AH2;;;pak.ah002,irn.ah002
 asiah;AH3;;;rus.ah003,mgl.ah003
-asiah;AH4;;;rus.ah004,mgl.ah004,chnxj.ah004
+asiah;AH4;;;rus.ah004,mgl.ah004,chnxj.ah004,pak.ah004
 asiah;AH5;;Central Asia;chnxj.ah005,kaz.ah005,kgz.ah005,kaz.ah005shy,uzb.ah005,tkm.ah005
 asiah;AH5;;West Asia;aze.ah005,geo.ah005,tur.ah005
 asiah;AH6;;;rus.ah006irk,kaz.ah006,rus.ah006
 asiah;AH6;;Chelyabinsk, RUS (ring);rus.ah006che
 asiah;AH6;;Moskva, RUS (ring);rus.ah006mos
-asiah;AH7;;;rus.ah007,kaz.ah007,kgz.ah007,uzb.ah007,tjk.ah007
+asiah;AH7;;;rus.ah007,kaz.ah007,kgz.ah007,uzb.ah007,tjk.ah007,afg.ah007,pak.ah007
 asiah;AH7;;Chelyabinsk, RUS (ring);rus.ah007che
-asiah;AH8;;;rus.ah008,aze.ah008
+asiah;AH8;;;rus.ah008,aze.ah008,irn.ah008
 asiah;AH8;;Moskva, RUS (ring);rus.ah008mos
 asiah;AH32;;;mgl.ah032
+asiah;AH51;;;pak.ah051
 asiah;AH60;;;rus.ah060,kaz.ah060
 asiah;AH61;;;chnxj.ah061,kgz.ah061,kaz.ah061,rus.ah061
 asiah;AH61;;Martuk, KAZ (branch);kaz.ah061mar
-asiah;AH62;;;kaz.ah062,uzb.ah062
+asiah;AH62;;;kaz.ah062,uzb.ah062,afg.ah062
 asiah;AH63;;;uzb.ah063,kaz.ah063,rus.ah063
 asiah;AH64;;;rus.ah064,kaz.ah064
 asiah;AH65;;;chnxj.ah065,kgz.ah065,tjk.ah065,uzb.ah065
@@ -23,14 +25,17 @@ asiah;AH65;;Osh, KGZ (branch);kgz.ah065osh
 asiah;AH66;;;tjk.ah066
 asiah;AH67;;;kaz.ah067,chnxj.ah067
 asiah;AH68;;;kaz.ah068,chnxj.ah068
-asiah;AH70;;;rus.ah070,kaz.ah070,tkm.ah070
-asiah;AH75;;;tkm.ah075
-asiah;AH77;;;tkm.ah077
-asiah;AH78;;;tkm.ah078
+asiah;AH70;;;rus.ah070,kaz.ah070,tkm.ah070,irn.ah070
+asiah;AH71;;;afg.ah071,irn.ah071
+asiah;AH72;;;irn.ah072
+asiah;AH75;;;tkm.ah075,irn.ah075
+asiah;AH76;;;afg.ah076
+asiah;AH77;;;tkm.ah077,afg.ah077
+asiah;AH78;;;tkm.ah078,irn.ah078
 asiah;AH81;;Kazakhstan;kaz.ah081
 asiah;AH81;;;aze.ah081,arm.ah081aga,aze.ah081nak,arm.ah081,geo.ah081
-asiah;AH81;;Jolfa, AZE (branch);aze.ah081jol
-asiah;AH82;;;geo.ah082,arm.ah082
+asiah;AH81;;Jolfa, AZE (branch);aze.ah081jol,irn.ah081
+asiah;AH82;;;geo.ah082,arm.ah082,irn.ah082
 asiah;AH82;;Vale, GEO (branch);geo.ah082val
 asiah;AH82;;Gumri, ARM (branch);arm.ah082gum
 asiah;AH83;;;aze.ah083,arm.ah083

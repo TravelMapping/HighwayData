@@ -4,7 +4,7 @@
 
 **SOURCES:**
 - https://de.wikipedia.org/wiki/Liste_der_Bundesstra%C3%9Fen_in_Deutschland
-- http://www.bmvi.de/DE/VerkehrUndMobilitaet/Verkehrspolitik/Verkehrsinfrastruktur/Bundesverkehrswegeplan2030/InhalteHerunterladen/inhalte_node.html
+- http://www.bmvi.de/DE/Themen/Mobilitaet/Infrastrukturplanung-Investitionen/Bundesverkehrswegeplan-2030/bundesverkehrswegeplan-2030.html
 - http://www.bast.de/DE/Verkehrstechnik/Fachthemen/v1-beverz/v1-berverz.html
 
 
@@ -28,7 +28,6 @@
 
 
 **NOTES TO ROUTES:**
-- `B19` Ulm?
 - `B28` should be rerouted in "Mid 2016" but I couldn't find any reliable info how it should be changed and it seems that it's still discussed, no final decision.
 - `B83` b/n B7 and A49 in Kassel is still B road according to `Netzknotenkarte` from 2016!?
 - `B611` just north of A2 exit Vlotho-West was opened in August 2016 but it's not yet updated on OSM (or GM), and I'm not exactly sure where the end point is. It has a length of 700m only and the next section is expected to be opened in 2019 (4.5km).
