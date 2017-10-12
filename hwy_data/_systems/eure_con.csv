@@ -1,25 +1,25 @@
-systemName;route;banner;groupName;roots
+﻿systemName;route;banner;groupName;roots
 eure;E1;;Ireland;nir.e1,irl.e1
-eure;E1;;Spain - Portugal;esp.e1,prt.e1,esp.e1hue
-eure;E1;;Ferrol, ESP (branch);esp.e1fer
-eure;E1;;Vigo, ESP (branch);esp.e1vig
+eure;E1;;Spain - Portugal;espga.e1,prt.e1,espan.e1
+eure;E1;;Ferrol, ESP (branch);espga.e1fer
+eure;E1;;Vigo, ESP (branch);espga.e1vig
 eure;E3;;(Main);fra.e3
-eure;E3;;Rennes, FRA (ring);fra.e3ren
+eure;E3;;Rennes, FRA (loop);fra.e3ren
 eure;E4;;;fin.e4,swe.e4
 eure;E5;;Great Britain;sct.e5,eng.e5
 eure;E5;;Glasgow, SCT (loop);sct.e5gla
 eure;E5;;Birmingham, ENG (loop);eng.e5bir
-eure;E5;;France - Spain;fra.e5,esp.e5
-eure;E5;;Bordeaux, FRA (ring);fra.e5bor
-eure;E5;;Bilbao, ESP;esp.e5bil
-eure;E5;;Beasain, ESP;esp.e5bea
+eure;E5;;France - Spain;fra.e5,esppv.e5,espcl.e5peu,esppv.e5arm,espcl.e5,espmd.e5,espcm.e5ses,espmd.e5ara,espcm.e5,espan.e5
+eure;E5;;Bordeaux, FRA (loop);fra.e5bor
+eure;E5;;Bilbao, ESP (branch);esppv.e5bil
+eure;E5;;Beasain, ESP (branch);esppv.e5bea,espnc.e5,esppv.e5aug
 eure;E6;;N. Norway;nor.e6kir
 eure;E6;;C. Norway - Sweden;nor.e6,swe.e6
 eure;E6;;Ryen, NOR (branch);nor.e6rye
 eure;E6;;Oslo, NOR (branch);nor.e6osl
-eure;E7;;;fra.e7,esp.e7
+eure;E7;;;fra.e7,espar.e7
 eure;E8;;;nor.e8,fin.e8
-eure;E9;;France - Spain;fra.e9,esp.e9
+eure;E9;;France - Spain;fra.e9,espct.e9
 eure;E9;;Toulouse, FRA (branch);fra.e9tou
 eure;E10;;;nor.e10,swe.e10
 eure;E11;;;fra.e11
@@ -28,8 +28,8 @@ eure;E12;;Finland;fin.e12
 eure;E13;;;eng.e13
 eure;E14;;;nor.e14,swe.e14
 eure;E15;;Great Britain;sct.e15,eng.e15
-eure;E15;;France - Spain;fra.e15,esp.e15
-eure;E15;;Cartagena, ESP (branch);esp.e15car
+eure;E15;;France - Spain;fra.e15,espct.e15,espvc.e15,espmc.e15,espan.e15
+eure;E15;;Cartagena, ESP (branch);espmc.e15car,espan.e15pul
 eure;E16;;Ireland;nir.e16
 eure;E16;;Scotland;sct.e16
 eure;E16;;Norway - Sweden;nor.e16,swe.e16
@@ -38,18 +38,18 @@ eure;E17;;;bel.e17,fra.e17
 eure;E18;;Ireland;nir.e18
 eure;E18;;Great Britain;sct.e18,eng.e18
 eure;E18;;Norway - Sweden;nor.e18,swe.e18
+eure;E18;;Finland - Russia;fin.e18,rus.e18
 eure;E18;;Sandefjordlufthavn, NOR (branch);nor.e18san
 eure;E18;;Naantali, FIN (branch);fin.e18naa
-eure;E18;;Finland - Russia;fin.e18,rus.e18
 eure;E19;;;nld.e19,bel.e19,fra.e19
 eure;E20;;Ireland;irl.e20
-eure;E20;;Liverpool, ENG (loop);eng.e20liv
 eure;E20;;Great Britain;eng.e20
 eure;E20;;Denmark - Sweden;dnk.e20,swe.e20
 eure;E20;;Estonia - Russia;est.e20,rus.e20
+eure;E20;;Liverpool, ENG (loop);eng.e20liv
 eure;E21;;;fra.e21
 eure;E22;;Great Britain;wls.e22,eng.e22
-eure;E22;;Netherlands - Germany;nld.e22,deu.e22
+eure;E22;;Netherlands - Germany;nld.e22,deuni.e22,deuhb.e22ars,deuni.e22dre,deuhb.e22,deuni.e22buc,deuhh.e22,deush.e22,deumv.e22
 eure;E22;;Sweden;swe.e22
 eure;E22;;Latvia - Russia;lva.e22,rus.e22
 eure;E23;;;fra.e23,che.e23
@@ -57,22 +57,22 @@ eure;E24;;;eng.e24
 eure;E25;;Netherlands - Italy;nld.e25,bel.e25,lux.e25,fra.e25,che.e25,fra.e25mtb,ita.e25
 eure;E25;;Corsica;frh.e25
 eure;E25;;Sardegna, ITA;ita.e25cag
-eure;E26;;;deu.e26
+eure;E26;;;deush.e26,deumv.e26,deubb.e26kru,deumv.e26suc,deubb.e26,deube.e26
 eure;E27;;;fra.e27,che.e27,ita.e27
-eure;E28;;Germany - Poland;deu.e28,pol.e28
+eure;E28;;Germany - Poland;deubb.e28,deumv.e28,pol.e28
 eure;E28;;Russia - Belarus;rus.e28,ltu.e28,blr.e28
-eure;E29;;;deu.e29,lux.e29,deu.e29saa,fra.e29
+eure;E29;;;deunw.e29,deurp.e29,lux.e29,deusl.e29,fra.e29
 eure;E30;;Ireland;irl.e30
 eure;E30;;Great Britain;wls.e30,eng.e30
-eure;E30;;Netherlands - Russia;nld.e30,deu.e30,pol.e30,blr.e30,rus.e30
-eure;E30;;Chelyabinsk, RUS (ring);rus.e30che
-eure;E31;;Netherlands - Germany;nld.e31,deu.e31
+eure;E30;;Netherlands - Russia;nld.e30,deuni.e30sch,deunw.e30rhe,deuni.e30osn,deunw.e30,deuni.e30,deust.e30,deubb.e30,pol.e30,blr.e30,rus.e30
+eure;E30;;Chelyabinsk, RUS (loop);rus.e30che
+eure;E31;;Netherlands - Germany;nld.e31,deunw.e31,deurp.e31,deubw.e31
 eure;E31;;Italy;ita.e31
 eure;E32;;;eng.e32
-eure;E34;;;bel.e34,nld.e34,deu.e34
-eure;E35;;;nld.e35,deu.e35,che.e35,ita.e35
-eure;E36;;;deu.e36,pol.e36
-eure;E37;;;deu.e37
+eure;E34;;;bel.e34,nld.e34,deunw.e34
+eure;E35;;;nld.e35,deunw.e35,deurp.e35,deuhe.e35,deubw.e35,che.e35,ita.e35
+eure;E36;;;deube.e36,deubb.e36,pol.e36
+eure;E37;;;deuni.e37,deunw.e37wer,deuni.e37osn,deunw.e37
 eure;E38;;;ukr.e38,rus.e38,kaz.e38
 eure;E39;;Trondheim, NOR;nor.e39tro
 eure;E39;;Molde, NOR;nor.e39mol
@@ -83,35 +83,35 @@ eure;E39;;Bergen, NOR;nor.e39ber
 eure;E39;;Leirvik, NOR;nor.e39lei
 eure;E39;;Stavanger, NOR;nor.e39
 eure;E39;;Denmark;dnk.e39
-eure;E40;;;fra.e40,bel.e40,deu.e40,pol.e40,ukr.e40,rus.e40,kaz.e40aty,uzb.e40nuk,tkm.e40,uzb.e40,kaz.e40shy,kgz.e40,kaz.e40
-eure;E41;;;deu.e41,che.e41
-eure;E42;;;fra.e42,bel.e42,deu.e42
-eure;E43;;;deu.e43,aut.e43,che.e43
-eure;E44;;;fra.e44,bel.e44,lux.e44,deu.e44
+eure;E40;;;fra.e40,bel.e40,deunw.e40,deuhe.e40,deuth.e40ger,deuhe.e40her,deuth.e40,deusn.e40,pol.e40,ukr.e40,rus.e40,kaz.e40aty,uzb.e40nuk,tkm.e40,uzb.e40,kaz.e40shy,kgz.e40,kaz.e40
+eure;E41;;;deunw.e41,deuhe.e41,deuby.e41alz,deuhe.e41sel,deuby.e41,deubw.e41wer,deuby.e41wur,deubw.e41,che.e41
+eure;E42;;;fra.e42,bel.e42,deurp.e42,deuhe.e42
+eure;E43;;;deuby.e43,deubw.e43,deuby.e43neu,deubw.e43det,deuby.e43fel,deubw.e43unt,deuby.e43hei,deubw.e43ege,deuby.e43mem,deubw.e43leu,deuby.e43lin,aut.e43,che.e43
+eure;E44;;;fra.e44,bel.e44,lux.e44,deurp.e44,deuhe.e44
 eure;E45;;Sweden;swe.e45
-eure;E45;;Denmark - Italy;dnk.e45,deu.e45,aut.e45,ita.e45
+eure;E45;;Denmark - Italy;dnk.e45,deush.e45,deuhh.e45,deuni.e45bew,deuhh.e45siw,deuni.e45bee,deuhh.e45sis,deuni.e45,deuhe.e45wit,deuni.e45han,deuhe.e45,deuby.e45,aut.e45,ita.e45
 eure;E45;;Roma, ITA;ita.e45rom
 eure;E45;;Sicilia, ITA;ita.e45cat
 eure;E46;;(Main);fra.e46,bel.e46
-eure;E46;;Caen, FRA (ring);fra.e46cae
+eure;E46;;Caen, FRA (loop);fra.e46cae
 eure;E47;;Denmark;dnk.e47
-eure;E47;;Germany;deu.e47
-eure;E48;;;deu.e48,cze.e48
-eure;E49;;;deu.e49,cze.e49,aut.e49
-eure;E50;;;fra.e50,deu.e50,cze.e50,svk.e50,ukr.e50,rus.e50
-eure;E51;;;deu.e51
-eure;E52;;;fra.e52,deu.e52,aut.e52
-eure;E53;;;cze.e53,deu.e53
-eure;E54;;;fra.e54,deu.e54lor,che.e54,deu.e54
+eure;E47;;Germany;deush.e47
+eure;E48;;;deuby.e48,cze.e48
+eure;E49;;;deust.e49,deusn.e49rab,deust.e49gro,deusn.e49sch,deust.e49rub,deusn.e49weh,deust.e49mas,deusn.e49kle,deust.e49gun,deusn.e49alt,deust.e49wei,deuth.e49,deusn.e49,cze.e49,aut.e49
+eure;E50;;;fra.e50,deusl.e50,deurp.e50,deubw.e50man,deuhe.e50,deubw.e50,deuby.e50,cze.e50,svk.e50,ukr.e50,rus.e50
+eure;E51;;;deube.e51,deubb.e51,deust.e51,deusn.e51dob,deust.e51loh,deusn.e51,deust.e51rub,deusn.e51weh,deust.e51mas,deusn.e51kle,deust.e51gun,deusn.e51alt,deust.e51wei,deuth.e51,deuby.e51
+eure;E52;;;fra.e52,deubw.e52,deuby.e52neu,deubw.e52lan,deuby.e52,aut.e52
+eure;E53;;;cze.e53,deuby.e53
+eure;E54;;;fra.e54,deubw.e54,che.e54,deubw.e54sin,deuby.e54lin,deubw.e54leu,deuby.e54
 eure;E55;;Denmark;dnk.e55
-eure;E55;;Germany - Italy;deu.e55,cze.e55,aut.e55,ita.e55
-eure;E55;;Berlin, DEU (ring);deu.e55ber
+eure;E55;;Germany - Italy;deumv.e55,deubb.e55,deusn.e55,cze.e55,aut.e55,ita.e55
 eure;E55;;Greece;grc.e55
-eure;E56;;;deu.e56,aut.e56
+eure;E55;;Berlin (loop), DEU;deubb.e55ora,deube.e55,deubb.e55neu
+eure;E56;;;deuby.e56,aut.e56
 eure;E57;;;aut.e57,svn.e57
 eure;E58;;;aut.e58,svk.e58,ukr.e58muk,rou.e58,mda.e58,ukr.e58,rus.e58
 eure;E59;;;cze.e59,aut.e59,svn.e59,hrv.e59
-eure;E60;;France - Romania;fra.e60,che.e60,aut.e60inn,deu.e60,aut.e60,hun.e60,rou.e60
+eure;E60;;France - Romania;fra.e60,che.e60,aut.e60inn,deuby.e60,aut.e60,hun.e60,rou.e60
 eure;E60;;Georgia - Azerbaijan;geo.e60,aze.e60
 eure;E60;;Turkmenistan - Kyrgyzstan;tkm.e60,uzb.e60,tjk.e60,kgz.e60
 eure;E61;;;aut.e61,svn.e61,ita.e61,svn.e61koz,hrv.e61
@@ -126,7 +126,7 @@ eure;E67;;;est.e67,lva.e67,ltu.e67,pol.e67,cze.e67
 eure;E68;;;hun.e68,rou.e68
 eure;E69;;;nor.e69
 eure;E69;;Honningsvåg, NOR (branch);nor.e69hon
-eure;E70;;Spain - Bulgaria;esp.e70,fra.e70,ita.e70,svn.e70,hrv.e70,srb.e70,rou.e70,bgr.e70
+eure;E70;;Spain - Bulgaria;espga.e70,espas.e70,espcb.e70,esppv.e70,fra.e70,ita.e70,svn.e70,hrv.e70,srb.e70,rou.e70,bgr.e70
 eure;E70;;Bordeaux, FRA (ring);fra.e70bor
 eure;E70;;Turkey - Georgia;tur.e70,geo.e70
 eure;E71;;;svk.e71,hun.e71,hrv.e71
@@ -135,18 +135,18 @@ eure;E73;;;hun.e73,hrv.e73,bih.e73,hrv.e73plo
 eure;E74;;;fra.e74nic,ita.e74ven,fra.e74,ita.e74
 eure;E75;;Norway - Finland;nor.e75,fin.e75
 eure;E75;;Poland - Greece;pol.e75,cze.e75,svk.e75,hun.e75,srb.e75,mkd.e75,grc.e75
-eure;E75;;Belgrade;srb.e75bel
-eure;E75;;Thessaloniki;grc.e75the
 eure;E75;;Kriti, GRC;grc.e75ira
+eure;E75;;Belgrade (loop);srb.e75bel
+eure;E75;;Thessaloniki (branch);grc.e75the
 eure;E76;;;ita.e76
 eure;E77;;Pskov, RUS - Kaliningrad, RUS;rus.e77,est.e77,lva.e77,ltu.e77,rus.e77kal
 eure;E77;;Poland - Hungary;pol.e77,svk.e77,hun.e77
 eure;E78;;;ita.e78
 eure;E79;;;hun.e79,rou.e79,bgr.e79,grc.e79
-eure;E80;;Portugal - Italy;prt.e80,esp.e80,fra.e80,ita.e80
+eure;E80;;Portugal - Italy;prt.e80,espcl.e80,esppv.e80arm,espcl.e80peu,esppv.e80,fra.e80,ita.e80
 eure;E80;;Croatia - Turkey;hrv.e80,mne.e80,srb.e80rib,rks.e80,srb.e80,bgr.e80,tur.e80
 eure;E81;;;ukr.e81,rou.e81
-eure;E82;;;prt.e82,esp.e82
+eure;E82;;;prt.e82,espcl.e82
 eure;E83;;;bgr.e83
 eure;E84;;;tur.e84
 eure;E85;;;ltu.e85,blr.e85,ukr.e85,rou.e85,bgr.e85,grc.e85
@@ -155,9 +155,9 @@ eure;E87;;Ukraine - E. Romania;ukr.e87ode,mda.e87,ukr.e87,mda.e87giu,rou.e87gal
 eure;E87;;S. Romania - N. Turkey;rou.e87,bgr.e87,tur.e87kes
 eure;E87;;Turkey;tur.e87
 eure;E88;;;tur.e88
-eure;E88;;Ankara (ring);tur.e88ank
+eure;E88;;Ankara (loop);tur.e88ank
 eure;E89;;;tur.e89
-eure;E90;;Portugal - Spain;prt.e90,esp.e90
+eure;E90;;Portugal - Spain;prt.e90,espex.e90,espcm.e90tal,espmd.e90,espcm.e90,espcl.e90,espar.e90,espct.e90
 eure;E90;;Sicilia, ITA;ita.e90pal
 eure;E90;;S. Italy;ita.e90
 eure;E90;;Greece - W. Turkey;grc.e90,tur.e90kes
@@ -189,9 +189,9 @@ eure;E136;;;nor.e136
 eure;E201;;;irl.e201
 eure;E231;;;nld.e231
 eure;E232;;;nld.e232
-eure;E233;;;nld.e233,deu.e233
-eure;E234;;;deu.e234
-eure;E251;;;deu.e251
+eure;E233;;;nld.e233,deuni.e233
+eure;E234;;;deuni.e234cux,deuhb.e234but,deuni.e234spn,deuhb.e234leh,deuni.e234spw,deuhb.e234bhv,deuni.e234sch,deuhb.e234,deuni.e234oyt,deuhb.e234mah,deuni.e234
+eure;E251;;;deumv.e251,deubb.e251
 eure;E261;;;pol.e261
 eure;E262;;;lva.e262,ltu.e262,rus.e262
 eure;E263;;;est.e263
@@ -202,8 +202,8 @@ eure;E272;;;ltu.e272
 eure;E311;;;nld.e311
 eure;E312;;;nld.e312
 eure;E313;;;bel.e313
-eure;E314;;;bel.e314,nld.e314,deu.e314
-eure;E331;;;deu.e331
+eure;E314;;;bel.e314,nld.e314,deunw.e314
+eure;E331;;;deunw.e331,deuhe.e331die,deunw.e331war,deuhe.e331
 eure;E371;;;pol.e371,svk.e371
 eure;E372;;;pol.e372,ukr.e372
 eure;E373;;;pol.e373,ukr.e373
@@ -214,13 +214,13 @@ eure;E402;;;fra.e402
 eure;E403;;;bel.e403
 eure;E411;;;bel.e411,fra.e411
 eure;E420;;(Main);bel.e420,fra.e420
-eure;E420;;Charleroi (ring);bel.e420cha
+eure;E420;;Charleroi (loop);bel.e420cha
 eure;E421;;;bel.e421,lux.e421
-eure;E422;;;deu.e422
+eure;E422;;;deurp.e422,deusl.e422
 eure;E429;;;bel.e429
-eure;E441;;;deu.e441
+eure;E441;;;deuby.e441,deusn.e441
 eure;E442;;;cze.e442,svk.e442
-eure;E451;;;deu.e451
+eure;E451;;;deuhe.e451
 eure;E461;;;cze.e461,aut.e461
 eure;E462;;;cze.e462,pol.e462
 eure;E471;;;ukr.e471
@@ -228,17 +228,17 @@ eure;E501;;;fra.e501
 eure;E502;;;fra.e502
 eure;E511;;;fra.e511
 eure;E512;;;fra.e512
-eure;E531;;;deu.e531
-eure;E532;;;deu.e532
-eure;E533;;;deu.e533,aut.e533
-eure;E552;;;deu.e552,aut.e552
+eure;E531;;;deubw.e531
+eure;E532;;;deuby.e532
+eure;E533;;;deuby.e533,aut.e533
+eure;E552;;;deuby.e552,aut.e552
 eure;E551;;;cze.e551
 eure;E571;;;svk.e571
 eure;E572;;;svk.e572
 eure;E573;;;ukr.e573,hun.e573
 eure;E574;;;rou.e574
 eure;E575;;(Main);svk.e575,hun.e575
-eure;E575;;Gyor (ring);hun.e575gyo
+eure;E575;;Gyor (loop);hun.e575gyo
 eure;E576;;;rou.e576
 eure;E577;;;rou.e577
 eure;E578;;;rou.e578
@@ -255,7 +255,7 @@ eure;E606;;;fra.e606
 eure;E607;;;fra.e607
 eure;E611;;;fra.e611
 eure;E612;;;ita.e612
-eure;E641;;;aut.e641,deu.e641,aut.e641sal
+eure;E641;;;aut.e641,deuby.e641,aut.e641sal
 eure;E651;;;aut.e651
 eure;E652;;;aut.e652,svn.e652
 eure;E653;;;svn.e653,hun.e653
@@ -279,10 +279,10 @@ eure;E763;;;srb.e763,mne.e763
 eure;E771;;;rou.e771,srb.e771
 eure;E772;;;bgr.e772
 eure;E773;;;bgr.e773
-eure;E801;;;prt.e801,esp.e801
+eure;E801;;;prt.e801,espga.e801
 eure;E802;;;prt.e802
-eure;E803;;;esp.e803
-eure;E804;;;esp.e804
+eure;E803;;;espcl.e803,espex.e803,espan.e803
+eure;E804;;;esppv.e804,espcl.e804,espri.e804,espnc.e804sar,espri.e804cal,espnc.e804,espar.e804
 eure;E805;;;prt.e805
 eure;E806;;;prt.e806
 eure;E821;;;ita.e821
@@ -300,8 +300,8 @@ eure;E852;;;mkd.e852
 eure;E853;;;grc.e853
 eure;E871;;;mkd.e871,bgr.e871
 eure;E881;;;tur.e881
-eure;E901;;;esp.e901
-eure;E902;;;esp.e902
+eure;E901;;;espmd.e901,espcm.e901,espvc.e901
+eure;E902;;;espan.e902
 eure;E931;;;ita.e931
 eure;E932;;;ita.e932
 eure;E933;;;ita.e933

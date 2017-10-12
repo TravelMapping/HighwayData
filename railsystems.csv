@@ -1,4 +1,4 @@
-# included one active system, with connected routes, because there are likely assumptions that
+﻿# included one active system, with connected routes, because there are likely assumptions that
 # one must exist in the update code
 cantch;CAN;Trans-Canada Highway;red;2;active
 englu;GBR;London Underground;magenta;3;preview
@@ -10,19 +10,4 @@ enghx;GBR;Heathrow Express;blue;1;preview
 englo;GBR;London Overground;magenta;3;preview
 engtfl;GBR;Transport for London Rail;magenta;3;preview
 usamnmt;USA;Minnesota Metro Transit;green;4;devel
-# SPAIN SPLIT
-espab;ESP;Spain Autovias (Boundaries);blue;1;active
-eursfb;ESP;Spain Named Freeways (Boundaries);teal;2;active
-eureb;ESP;Spain E Roads (Boundaries);green;3;active
-espnb;ESP;Spain N Roads (Boundaries);lightsalmon;4;preview
-# GERMANY SPLIT
-deuac;DEU;Germany Autobahnen (Boundaries);blue;1;active
-eursfc;DEU;Germany Named Freeways (Boundaries);teal;2;active
-eurec;DEU;Germany E Roads (Boundaries);green;3;active
-deubc;DEU;Germany Bundesstraßen (Boundaries);lightsalmon;4;preview
-deubystc;DEU-BY;Bavaria Staatsstraßen (Boundaries);yellow;5;preview
-deuhelc;DEU-HE;Hesse Landesstraßen (Boundaries);yellow;5;preview
-deunwlc;DEU-NW;North Rhine-Westphalia Landesstraßen (Boundaries);yellow;5;preview
-#deunwlc;DEU-NW;North Rhine-Westphalia Landesstraßen (Boundaries);yellow;5;devel
-deubwl;DEU;Baden-Württemberg Landesstraßen;yellow;5;preview
-#deubwl;DEU;Baden-Württemberg Landesstraßen;yellow;5;devel
+
