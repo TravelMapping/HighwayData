@@ -14,4 +14,4 @@ A full list of current `Landesstraßen B` is listed in the navigation block `ehe
 
 
 **NOTES TO ROUTES:**
-- `B38` Freistadt bypass was opened in November 2016; old route is called `B38a` on OSM but I have no proof for this numbering.
+- 
