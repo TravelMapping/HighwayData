@@ -503,6 +503,12 @@
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2017-11-14;Iceland;TH1;isl.th001;Relocated onto former TH92 and TH96 between Eglisstathir and Breithdalsvik
+2017-11-14;Iceland;TH92;isl.th092;Truncated from Eglistathir to former TH96/new TH1 near Reythdarfjorthur
+2017-11-14;Iceland;TH92;isl.th092;Relocated into new North Fjord Tunnel near Eskifjorthur.
+2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Eglisstathir and Breithdalsvik
+2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
+2017-11-14;Iceland;TH950;isl.th950;New route replacing former section of TH92 in Eskifjorthur
 2017-09-27;Ireland;M17;irl.m017;New Route
 2017-09-27;Ireland;M18;irl.m018;Route extended at north end from exit 16 to exit 18
 2017-09-27;Ireland;N17;irl.n017;Route truncated at south end from M6 to the southern junction with the N83 and extended at south end to M17
@@ -1805,8 +1811,8 @@
 2017-11-03;(USA) North Carolina;US 158;nc.us158;Rerouted to bypass Reidsville to the south and east via NC 87 and US 29 instead of US 29 Bus and NC 14, all points between US29Bus and US29 are changed
 2017-10-19;(USA) North Carolina;I-87;nc.i087;newly designated to replace I-495
 2017-10-19;(USA) North Carolina;I-495;;removed - redesignated as I-87
-2017-10-19;(USA) North Carolina;I-87FutRoc;nc.i087futroc;newly designated to replace I-495FutRoc
-2017-10-19;(USA) North Carolina;I-495FutRoc;;removed - redesignated as I-87FutRoc
+2017-10-19;(USA) North Carolina;I-87 Future (Rocky Mount);nc.i087futroc;newly designated to replace I-495FutRoc
+2017-10-19;(USA) North Carolina;I-495 Future (Rocky Mount);;removed - redesignated as I-87FutRoc
 2017-10-19;(USA) North Carolina;NC 143 Business;nc.nc143busrob;completely reworked - was shown erroneously on a completely different route
 2017-06-18;(USA) North Carolina;I-785;nc.i785;New route
 2017-06-18;(USA) North Carolina;I-73 Future (West Greensboro);nc.i073futwgr;Extended as new construction to US 220 north of Summerfield
@@ -2009,21 +2015,21 @@
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
-2017-05-17;(USA) Utah;UT66;ut.ut066;Route extended at north end from I-84 exit 103 to the onslip to I-84 3/4 of a mile to the east.
-2017-05-17;(USA) Utah;UT48;ut.ut048;Route truncated at west end from Bingham Canyon Mine to UT156
-2017-05-17;(USA) Utah;UT73 (Farfield);ut.ut073;Route truncated at east end from US89 to UT145
-2017-05-17;(USA) Utah;UT73 (Lehi);ut.ut073leh;New Route
-2017-05-17;(USA) Utah;UT90;ut.ut090;New Route
-2017-05-17;(USA) Utah;UT93;ut.ut093;New Route
-2017-05-17;(USA) Utah;UT140;ut.ut140;Route truncated at west end from UT68 to 800W
-2017-05-17;(USA) Utah;UT145;ut.ut145;Route extended at west end from UT68 to UT73
-2017-05-17;(USA) Utah;UT151;ut.ut151;Route extended at east end from I-15 to US89
-2017-05-17;(USA) Utah;UT176;ut.ut176;New Route
-2017-05-17;(USA) Utah;UT197;;Route Deleted
-2017-05-17;(USA) Utah;UT209;ut.ut209;Route extended from 5600W to Bingham Canyon Mine
-2017-05-17;(USA) Utah;UT212;;Route Deleted
-2016-01-31;(USA) Utah;UT7;ut.ut007;Extended east from Exit 10 (Warner Valley Road) to Sand Hollow Road, merged with former Sand Hollow segment
-2016-01-31;(USA) Utah;UT7 (Sand Hollow);;Route deleted (merged into main route)
+2017-05-17;(USA) Utah;UT 66;ut.ut066;Route extended at north end from I-84 exit 103 to the onslip to I-84 3/4 of a mile to the east.
+2017-05-17;(USA) Utah;UT 48;ut.ut048;Route truncated at west end from Bingham Canyon Mine to UT156
+2017-05-17;(USA) Utah;UT 73 (Farfield);ut.ut073;Route truncated at east end from US89 to UT145
+2017-05-17;(USA) Utah;UT 73 (Lehi);ut.ut073leh;New Route
+2017-05-17;(USA) Utah;UT 90;ut.ut090;New Route
+2017-05-17;(USA) Utah;UT 93;ut.ut093;New Route
+2017-05-17;(USA) Utah;UT 140;ut.ut140;Route truncated at west end from UT68 to 800W
+2017-05-17;(USA) Utah;UT 145;ut.ut145;Route extended at west end from UT68 to UT73
+2017-05-17;(USA) Utah;UT 151;ut.ut151;Route extended at east end from I-15 to US89
+2017-05-17;(USA) Utah;UT 176;ut.ut176;New Route
+2017-05-17;(USA) Utah;UT 197;;Route Deleted
+2017-05-17;(USA) Utah;UT 209;ut.ut209;Route extended from 5600W to Bingham Canyon Mine
+2017-05-17;(USA) Utah;UT 212;;Route Deleted
+2016-01-31;(USA) Utah;UT 7;ut.ut007;Extended east from Exit 10 (Warner Valley Road) to Sand Hollow Road, merged with former Sand Hollow segment
+2016-01-31;(USA) Utah;UT 7 (Sand Hollow);;Route deleted (merged into main route)
 2016-08-16;(USA) Vermont;Vermont 7B (Clarendon);vt.vt007bcla;Truncated back to its northern junction with US 7
 2016-10-01;(USA) Virginia;US 11;va.us011;Swapped the VA117_N and VA117_S waypoint labels
 2016-05-15;(USA) Virginia;I-95;va.i095;previous Exit 74B is actually 74C in the field and a new point for actual 74B was added
@@ -2040,7 +2046,8 @@
 2016-11-26;(USA) Washington;WA 823;wa.wa823;Removed from 1st Street and Naches Avenue, and relocated onto Jim Clements Way between 1st Street and Naches Avenue
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quary Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
-2016-05-01;(USA) Washington;US395 Future (Spokane);wa.us395futspo;New Route
+2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2017-11-15;(USA) West Virginia;WV 17 Truck (Stollings);wv.wv017trksto;Added route
 2017-11-03;(USA) West Virginia;WV 10;wv.wv010;Removed from Hanging Rock Road (now CR 210/25) between Logan & Man, and relocated onto a new parallel 4-lane highway to the the south between Hanging Rock Road (HanRockRd_E) in Man, & Stratton Street (StrSt) in Logan.
 2017-10-11;(USA) West Virginia;WV 12;wv.wv012;Corrected ending labels along multiplex with WV 3. Flipped both 'WV3_W' & 'WV3_E' so that they match the correct dirrection WV 3 leaves WV 12 on each side.
 2017-08-05;(USA) West Virginia;WV 93;wv.wv093;Extended eastward from former eastern end (now 'US50_W') along US 50 and former WV 972 to a new eastern terminus at US 220.
@@ -2055,7 +2062,9 @@
 2015-11-29;(USA) West Virginia;WV 93;wv.wv093;Relocated route near Bismarck from the now abandoned old road and slightly to the south onto a brand new 4-lane US 48 Corridor H alignment between an intersection with CR 90/1 and the now closed alignment of WV 93 (*OldWV93_W)
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
-2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra).
+2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2017-11-14;(USA) Wisconsin;WI 108;wi.wi108;Removed from road, now County C, between West Salem and Burr Oak via Mindoro and routed onto old County C between West Salem and Burr Oak
+2017-11-14;(USA) Wisconsin;WI 32;wi.wi032;Removed from Main Street between Hamilton and Goold streets, and from Goold Street between Main Street and Douglas Avenue, and relocated onto Hamilton Street between Main Street and Douglas Avenue and Douglas Avenue northwest to Goold Street. Renamed point DouAve->GooSt
 2017-10-26;(USA) Wisconsin;WI 162;wi.wi162;Moved off part of Depot Street onto Swain Street and Main Street in Chaseburg
 2017-09-19;(USA) Wisconsin;US 12;wi.us012;Closed intersection *US12BusWBa_E. Added closed point *OldUS12_Bar.
 2017-09-19;(USA) Wisconsin;US 12 Business (West Baraboo);;Deleted route. Most of route incorporated into US 12 Business (Baraboo).
