@@ -8,4 +8,5 @@
 
 
 **NOTES TO ROUTES:**
+- `L93` Sinnersdorf bypass u/c; completion date: Late 2018
 - `L117` Hückelhoven bypass u/c; completion date: 2020

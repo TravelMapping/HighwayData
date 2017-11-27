@@ -21,3 +21,4 @@
 - `Fv256` according to wikipedia description (and GM) is `Fv319` according to vegvesen.no and OSM; not drafted
 - `Fv312` is indicated different on wikipedia but OSM, GM and (old) GSV show it like other signed Fv roads
 - `Fv313` is interrupted because the Holmestrandtunnelen is closed since 2012
+- `Fv568` has a short segment on Fedje island but I couldn't see any sign on GSV
