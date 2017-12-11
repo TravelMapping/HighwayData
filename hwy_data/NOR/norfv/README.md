@@ -23,3 +23,4 @@
 - `Fv313` is interrupted because the Holmestrandtunnelen is closed since 2012
 - `Fv568` has a short segment on Fedje island but I couldn't see any sign on GSV
 - `Fv714` still u/c till 2017/18 (new route drafted)
+- `Fv867` northern extension u/c (Kvernsundtunnelen), to be completed 2018
