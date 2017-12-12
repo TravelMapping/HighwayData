@@ -54,6 +54,8 @@
 2016-01-12;Belgium;Ring Mons Est;bel.ringmonse;New Route
 2016-01-12;Belgium;Ring Mons Ouest;bel.ringmonso;New Route
 2015-07-24;Belgium;A601;;Route deleted
+2017-12-11;Bosnia and Herzegovina;A1 (Odzak);bih.a001odz;New Route
+2017-12-11;Bosnia and Herzegovina;Gradski Autoput Sarajevo;bih.graautsar;Route extended at east end from M113 to R901
 2017-10-04;Bosnia and Herzegovina;Autoput Banja Luka - Doboj (Banja Luka);bih.autbldobban;New Route
 2016-09-11;Bosnia and Herzegovina;Autoput Banja Luka - Doboj (Doboj);bih.autbldob;New Route
 2016-09-08;Bosnia and Herzegovina;Gradski Autoput Sarajevo;bih.graautsar;New Route
@@ -103,8 +105,6 @@
 2015-08-19;(Canada) New Brunswick;NB 935;nb.nb935;Removed from a closed roadway through the Shorebird Reserve along Shepody Bay and relocated onto a bypass about 1/4 km inland, between waypoints OldNB935_W and OldNB935_E.
 2015-08-18;(Canada) New Brunswick;NB 2;nb.nb002;Moved from Madawaska Ave. to new freeway between QC/NB border and exit 1
 2015-08-18;(Canada) New Brunswick;TCH (Main);nb.tchmai;Moved from Madawaska Ave. to new freeway between QC/NB border and exit 1
-2017-12-08;(Canada) Northwest Territories;NT 10;nt.nt010;New route
-2017-12-08;(Canada) Northwest Territories;NT 1;nt.nt001;West end truncated from Wrigley village centre, to Tulita winter road entrance southeast of Wrigley
 2016-11-19;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from closed two-lane highway and the surface road through Port Mouton village (now partially NS3), and relocated onto the northwestern Port Mouton bypass between closed intersections labeled *OldNS103_Sum & *OldNS103_PMo
 2016-11-19;(Canada) Nova Scotia;NS 104;ns.ns104;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-11-19;(Canada) Nova Scotia;NS 3 (Liverpool);ns.ns003liv;West end removed from a closed roadway between a point labeled *OldNS3 and the closed former alignment of NS 103, and relocated onto the surface road through Port Mouton village and a new access road to NS 103 Exit 21
@@ -347,75 +347,75 @@
 2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
-2017-12-09;(Germany) Schleswig-Holstein;A21;deush.a021;Route extended at north end from temporary south of Nettelsee end to exit 6
 2017-10-06;Germany;All routes;;All routes split into 16 regions
-2017-06-26;(Germany) North Rhine-Westphalia;Mercatorstraße Köln;deunw.k008;New Route
-2017-06-26;(Germany) North Rhine-Westphalia;Chorweiler Zubringer Köln;deunw.chozub;New Route
-2017-06-15;(Germany) Hesse;Autobahnzubringer Erlensee;deuhe.k854;New Route
-2017-03-10;(Germany) Bavaria;Zirndorfer Straße, Zirndorf;deuby.fu6;New Route
-2017-01-15;(Germany) North Rhine-Westphalia;A44;deunw.a448wit;Route renamed to A448 including new exit numbering 8 to 12 instead of 42 to 46
-2017-01-15;(Germany) North Rhine-Westphalia;A448;deunw.a448;Route extended at eastern end from exit 5 to 6
-2016-10-21;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route moved from B31n to B31
-2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
-2016-09-21;(Germany) Thuringia;Hannoversche Straße Erfurt;deuth.k035;New Route
-2016-09-21;(Germany) Lower Saxony;Industriestraße Mitte Salzgitter;deuni.indstrmit;New Route
-2016-09-21;(Germany) Lower Saxony;Industriestraße Nord Salzgitter;deuni.indstrnord;New Route
-2016-09-21;(Germany) North Rhine-Westphalia;Universitätsstraße Bochum;deunw.k003;New Route
-2016-09-04;(Germany) Bremen;Autobahnzubringer Bremen-Hemelingen;deuhb.autzubhem;New Route
-2016-09-04;(Germany) North Rhine-Westphalia;Querspange Unna;deunw.quespaunna;New Route
-2016-08-08;(Germany) North Rhine-Westphalia;Autobahnzubringer Köln-Ehrenfeld;deunw.k004;New Route
-2016-08-08;(Germany) Bavaria;Frankenschnellweg Nürnberg;deuby.n004;New Route
-2016-08-08;(Germany) North Rhine-Westphalia;Industriestraße Köln;deunw.indstrkol;New Route
-2016-08-08;(Germany) North Rhine-Westphalia;Mallinckrodtstraße Dortmund;deunw.malstrdor;New Route
-2016-08-08;(Germany) North Rhine-Westphalia;Münchener Straße Düsseldorf;deunw.munstr;New Route
-2016-08-08;(Germany) Lower Saxony;Nordtangente Oldenburg;deuni.nordtanold;New Route
-2016-08-08;(Germany) North Rhine-Westphalia;Rheinallee/Rheinkniebrücke Düsseldorf;deunw.rhebrudus;New Route
-2016-08-08;(Germany) Baden-Württemberg;Südtangente Karlsruhe;deubw.sudtankar;New Route
-2016-08-08;(Germany) Bavaria;Südwesttangente Fürth - Nürnberg;deuby.sudtanfur;New Route
-2015-12-21;(Germany) Brandenburg;A14 (Garlin);deubb.a014;New Route
-2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
-2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
-2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
-2015-09-15;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;New Route
-2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
-2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route extended at east end from exit 5 to exit 6
-2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route relabeled exit 1 as exit 2, and exit 2 as exit 3
-2015-09-15;(Germany) North Rhine-Westphalia;A30;deunw.a030;Route extended at east end from exit 31 to exit 32
-2015-09-15;(Germany) North Rhine-Westphalia;A30 (Bad Oeynhausen);;Route deleted
-2015-09-15;(Germany) Thuringia;A4;deuth.a004;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between exits 51 and 53
-2015-09-15;(Germany) North Rhine-Westphalia;A4;deunw.a004;Route relocated from old route (now demolished) to new route via between exits 7 and 9
-2015-09-15;(Germany) North Rhine-Westphalia;A43;deunw.a043;Route truncated at north end from B51 to exit 2
-2015-09-15;(Germany) Hesse;A44 (Soest);deunw.a044;Route extended at west end from exit 52 to exit 51
-2015-09-15;(Germany) North Rhine-Westphalia;A44 (Velbert);deunw.a044vel;Route extended at east end from exit 38 to exit 41
-2015-09-15;(Germany) Hesse;A44 (Hessisch Lichtenau);deuhe.a044hes;Route extended at west end from exit 77 to exit 76
-2015-09-15;(Germany) North Rhine-Westphalia;A448;deunw.a448;New Route
-2015-09-15;(Germany) Bavaria;A45;deuby.a045;Relabeled exits 45b as 47, 45a as 46, 44b as 45 and 44a as 44
-2015-09-15;(Germany) Hesse;A45;deuhe.a045sel;Relabeled exits 47 as 49 and 46 as 48
-2015-09-15;(Germany) North Rhine-Westphalia;A46 (Hagen);deunw.a046hag;Route extended at west end from exit 42 to exit 41
-2015-09-15;(Germany) North Rhine-Westphalia;A59 (Bonn);deunw.a059bon;Exit 42 relabeled as exit 43, exit 41a relabeled exit 42
-2015-09-15;(Germany) Baden-Württemberg;A5AST;deubw.a005ast;New Route
-2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
-2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
-2015-09-15;(Germany) Thuringia;A71;deuth.a071;Route extended at north end from exit 5 to exit 1, including Heldrungen section
-2015-09-15;(Germany) Thuringia;A71 (Heldrungen);;Route merged into main A71 route
-2015-09-15;(Germany) Baden-Württemberg;A98 (Laufenburg);deubw.a098lau;New Route
-2015-09-15;(Germany) Baden-Württemberg;A98 (Tiengen);deubw.a098tie;New Route
-2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
-2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
-2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
-2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
-2015-09-15;(Germany) North Rhine-Westphalia;E40;deunw.e40;Route relocated from old route (now demolished) to new route via between A4 exits 7 and 9
-2015-09-15;(Germany) Thuringia;E40;deuth.e40;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between A4 exits 51 and 53
-2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
-2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
-2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
-2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
-2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
-2015-09-10;(Germany) Bremen;A281;deuhb.a281;Route extended at northern end from exit 4 to exit 3
-2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
-2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
-2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
-2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2017-06-26;Germany;Mercatorstraße Köln;deu.k008;New Route
+2017-06-26;Germany;Chorweiler Zubringer Köln;deu.chozub;New Route
+2017-06-15;Germany;Autobahnzubringer Erlensee;deu.k854;New Route
+2017-03-10;Germany;Zirndorfer Straße, Zirndorf;deu.fu6;New Route
+2017-01-15;Germany;A44;deu.a448wit;Route renamed to A448 including new exit numbering 8 to 12 instead of 42 to 46
+2017-01-15;Germany;A448;deu.a448;Route extended at eastern end from exit 5 to 6
+2016-10-21;Germany;E54;deu.e54;Route moved from B31n to B31
+2016-09-21;Germany;Autobahnzubringer Berlin-Schmargendorf;deu.autzubsch;New Route
+2016-09-21;Germany;Hannoversche Straße Erfurt;deu.k035;New Route
+2016-09-21;Germany;Industriestraße Mitte Salzgitter;deu.indstrmit;New Route
+2016-09-21;Germany;Industriestraße Nord Salzgitter;deu.indstrnord;New Route
+2016-09-21;Germany;Universitätsstraße Bochum;deu.k003;New Route
+2016-09-04;Germany;Autobahnzubringer Bremen-Hemelingen;deu.autzubhem;New Route
+2016-09-04;Germany;Querspange Unna;deu.quespaunna;New Route
+2016-08-08;Germany;Autobahnzubringer Köln-Ehrenfeld;deu.k004;New Route
+2016-08-08;Germany;Flughafenzubringer München;deu.st2584;New Route
+2016-08-08;Germany;Flughafenzubringer München AST;deu.st2584ast;New Route
+2016-08-08;Germany;Frankenschnellweg Nürnberg;deu.n004;New Route
+2016-08-08;Germany;Industriestraße Köln;deu.indstrkol;New Route
+2016-08-08;Germany;Mallinckrodtstraße Dortmund;deu.malstrdor;New Route
+2016-08-08;Germany;Münchener Straße Düsseldorf;deu.munstrdus;New Route
+2016-08-08;Germany;Nordtangente Oldenburg;deu.nordtanold;New Route
+2016-08-08;Germany;Rheinallee/Rheinkniebrücke Düsseldorf;deu.rhebrudus;New Route
+2016-08-08;Germany;Südtangente Karlsruhe;deu.sudtankar;New Route
+2016-08-08;Germany;Südwesttangente Fürth - Nürnberg;deu.sudtanfur;New Route
+2015-12-21;Germany;A14 (Garlin);deu.a014gar;New Route
+2015-12-21;Germany;A14 (Schwerin);deu.a014sch;Route extended at south end from exit 7 to exit 9
+2015-10-26;Germany;A23;deu.a023;Route extended at north end from exit 10 to exit 2
+2015-10-26;Germany;A23 (Heide);;Route merged into main A23
+2015-09-15;Germany;A14 (Colbitz);deu.a014col;New Route
+2015-09-15;Germany;A23 (Heide);deu.a023hei;Route extended at south end from exit 8 to exit 9
+2015-09-15;Germany;A26;deu.a026;Route extended at east end from exit 5 to exit 6
+2015-09-15;Germany;A26;deu.a026;Route relabeled exit 1 as exit 2, and exit 2 as exit 3
+2015-09-15;Germany;A30;deu.a030;Route extended at east end from exit 31 to exit 32
+2015-09-15;Germany;A30 (Bad Oeynhausen);;Route deleted
+2015-09-15;Germany;A4;deu.a004;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between exits 51 and 53
+2015-09-15;Germany;A4 (Koln);deu.a004kol;Route relocated from old route (now demolished) to new route via between exits 7 and 9
+2015-09-15;Germany;A43;deu.a043;Route truncated at north end from B51 to exit 2
+2015-09-15;Germany;A44 (Kassel);deu.a044;Route extended at west end from exit 52 to exit 51
+2015-09-15;Germany;A44 (Velbert);deu.a044vel;Route extended at east end from exit 38 to exit 41
+2015-09-15;Germany;A44 (Walburg);deu.a044wal;Route extended at west end from exit 77 to exit 76
+2015-09-15;Germany;A448;deu.a448;New Route
+2015-09-15;Germany;A45;deu.a045;Relabeled exits 47 as 49, 46 as 48, 45b as 47, 45a as 46, 44b as 45 and 44a as 44
+2015-09-15;Germany;A46 (Hagen);deu.a046hag;Route extended at west end from exit 42 to exit 41
+2015-09-15;Germany;A59 (Bonn);deu.a059bon;Exit 42 relabeled as exit 43, exit 41a relabeled exit 42
+2015-09-15;Germany;A5AST;deu.a005ast;New Route
+2015-09-15;Germany;A66;deu.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
+2015-09-15;Germany;A66 (Eichenzell);;Route merged into main A66 route
+2015-09-15;Germany;A71;deu.a071;Route extended at north end from exit 5 to exit 1, including Heldrungen section
+2015-09-15;Germany;A71 (Heldrungen);;Route merged into main A71 route
+2015-09-15;Germany;A98 (Laufenburg);deu.a098lau;New Route
+2015-09-15;Germany;A98 (Tiengen);deu.a098tie;New Route
+2015-09-15;Germany;E22;deu.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
+2015-09-15;Germany;E22;deu.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2015-09-15;Germany;E26;deu.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
+2015-09-15;Germany;E36;deu.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2015-09-15;Germany;E40;deu.e40;Route relocated from old route (now demolished) to new route via between A4 exits 7 and 9
+2015-09-15;Germany;E40;deu.e40;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between A4 exits 51 and 53
+2015-09-15;Germany;E42;deu.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
+2015-09-15;Germany;E422;deu.e422;Route extended at south end from exit 150 of the A1 to the A620
+2015-09-15;Germany;E54;deu.e54;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
+2015-09-15;Germany;E54 (Lorrach);deu.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
+2015-09-15;Germany;E54 (Lorrach);deu.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2015-09-10;Germany;A281;deu.a281;Route extended at northern end from exit 4 to exit 3
+2015-09-10;Germany;A480 (Aßlar);deu.a480ass;Route extended at east end from exit 2 to L3053
+2015-09-10;Germany;A524;deu.a524;Route extended at west end from exit 3 to exit 2
+2015-09-10;Germany;A544;deu.a544;Route re-entered
+2015-09-10;Germany;A562;deu.a562;Route re-entered
 2017-12-07;Greece;A52;grc.a052;New Route
 2017-12-07;Greece;E55;grc.e55;Route relocated from EO5 and onto A5/A52 between the E05/A52 junction and A5 exit 9
 2017-08-05;Greece;A5 (Patras);grc.a005;Route extended at northern end from exit 17 to exit 19 (for the A2)
@@ -1461,6 +1461,8 @@
 2015-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+2017-12-11;(UK) Scotland;A8082;New Route
+2017-12-11;(UK) Scotland;A8082 (Torvean);New Route
 2017-08-30;(UK) Scotland;M90;sct.m090;Route extended at south end from exit 1C (formerly exit 1) to exit 1A
 2017-08-30;(UK) Scotland;E15;sct.e15;Route removed from A9000 Forth Road Bridge and relocated onto M90 Queensferry Crossing between M90 exit 1A and A9000
 2017-08-30;(UK) Scotland;A90 (Edinburgh);sct.a0090edi;Route truncated at north end from M90 at Admiralty junction (now exit 1C) to M90 at Echline Junction (exit 1A)
@@ -1614,8 +1616,6 @@
 2015-08-03;(USA) Indiana;US 24;in.us024;Relocated from Monticello Road onto Hoosier Heartland Highway between MonRd_W and MonRd_E
 2015-08-03;(USA) Indiana;US 31;in.us031;Relocated from Dixie Highway onto freeway between exit 240 and 246
 2015-08-03;(USA) Indiana;US 35;in.us035;Relocated from Monticello Road and onto Hoosier Heartland Highway between MonRd_W and MonRd_E
-2017-12-08;(USA) Iowa;US 61;ia.us061;Relocated onto parallel four-lane alignment from Louisa/Muscatine county line to near 145th Street
-2017-12-08;(USA) Iowa;IA 92;ia.ia092;Relocated onto parallel four-lane alignment from Louisa/Muscatine county line to south junction US 61
 2016-12-21;(USA) Iowa;US 34 Business (Glenwood);;Deleted route
 2016-12-21;(USA) Iowa;IA 100;ia.ia100;Extended west from Edgewood Road to Covington Road
 2016-06-20;(USA) Iowa;IA 192;;Deleted route
@@ -1815,7 +1815,6 @@
 2016-06-30;(USA) New Hampshire;Circumferential Highway;nh.cirhwy;Route added
 2016-03-17;(USA) New Hampshire;I-93;nh.i093;Northbound roadway relocated approximately 0.2 mi westward immediately parallel to southbound roadway, between a point south of Exit 3 (labeled *OldI-93) and Exit 3. Southbound roadway unaffected
 2016-03-17;(USA) New Hampshire;NH 111;nh.nh111;Removed from Enterprise Drive and relocated onto Indian Rock Road between Enterprise Drive and I-93
-2017-12-08;(USA) New Jersey;NJ 133;nj.nj133;Extended east from NJ 33 to I-95
 2017-05-01;(USA) New Jersey;NJ 15;nj.nj015;South end removed from Clinton St (including a demolished section underpassing US 46) and Bergen St between Richboynton Rd and US 46 at Bergen St, and relocated onto a southwesterly realignment of Clinton St between Richboynton Rd and an at-grade T-intersection with US 46.
 2016-11-16;(USA) New Jersey;NJ 18;nj.nj018;Extended north from Buckingham Drive to I-287
 2016-11-16;(USA) New Jersey;NJ 19;nj.nj019;South end removed from the Garden State Parkway access ramps between The Broad Street ramps and the Garden State Parkway, and relocated onto Broad Street between the GSP ramps and Colfax Avenue
@@ -1964,6 +1963,7 @@
 2016-01-28;(USA) Pennsylvania;PA 441;pa.pa441;Removed from Locust St and 3rd St and relocated onto a newly-constructed northerly extension of Front St, between Locust St and US 30
 2015-12-29;(USA) Pennsylvania;PA 980;pa.pa980;Removed from a closed roadway parallel to the Montour Trail to the southwest, and relocated onto a direct beeline connection between the new four-way intersection at PA 50 and a closed intersection, labeled *OldPA980, about 160 feet south.
 2015-10-26;(USA) Pennsylvania;US 209 Truck (Brodheadsville);pa.us209trkbro;Added route
+2017-12-11;(USA) Rhode Island;I-295;ri.i295;Relabeled exits from sequential to mileage-based. In-use labels that have moved include 7, moved from US 44 (now labeled 12) to Scituate Ave, and 6, moved from the US 6 freeway (now labeled 9A) to RI 14.
 2017-08-09;(USA) Rhode Island;RI 51;;Route deleted.
 2017-08-09;(USA) Rhode Island;RI 114;ri.ri114;Removed from Mill St and High St in Cumberland, and relocated onto Broad Street and Dexter St (RI 123) between Mill St and High St (waypoint RI123_E).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
