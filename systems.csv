@@ -111,6 +111,7 @@ mnem;MNE;Montenegro Magistralni Put (old);lightsalmon;4;active
 nama;NAM;Namibia A Roads;blue;1;active
 nlda;NLD;Netherlands Autosnelwegen;blue;1;active
 nldr;NLD;Netherlands Rijkswegen;lightsalmon;4;active
+nldp;NLD;Netherlands Provinciale Wegen;yellow;5;active
 nlds;NLD;Netherlands Stadsroutes;yellow;5;active
 norrv;NOR;Norway Riksveier;lightsalmon;4;active
 nzlmot;NZL;New Zealand Motorways;blue;1;active
@@ -205,6 +206,7 @@ asiahr;ASI;UNESCAP Asian Highways (for review);red;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;red;3;preview
 beln;BEL;Belgium Gewestwegen / Route Nationale;yellow;4;preview
 bihm;BIH;Bosnia and Herzegovina Magistrale;lightsalmon;4;preview
+canmbw;CAN;Winnipeg City Routes;yellow;5;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;brown;4;preview
 canqc;CAN;Québec Provincial Routes;brown;4;preview
 chng;CHN;China National Expressways;blue;1;preview
@@ -213,6 +215,7 @@ deub;DEU;Germany Bundesstraßen;lightsalmon;4;preview
 deubwl;DEU-BW;Baden-Württemberg Landesstraßen;yellow;5;preview
 deubyst;DEU-BY;Bavaria Staatsstraßen;yellow;5;preview
 deuhel;DEU-HE;Hesse Landesstraßen;yellow;5;preview
+deunwl;DEU-NW;North Rhine-Westphalia Landesstraßen;yellow;5;preview
 deurpl;DEU-RP;Rhineland-Palatinate Landesstraßen;yellow;5;preview
 deusll;DEU-SL;Saarland Landesstraßen 1. Ordnung;yellow;5;preview
 espn;ESP;Spain Carretera Nacionales;lightsalmon;4;preview
@@ -240,7 +243,7 @@ korex;KOR;(South) Korean Expressways;blue;1;preview
 lkaa;LKA;Sri Lanka A Roads;lightsalmon;4;preview
 ltuk;LTU;Lithuania Krašto Keliai;yellow;5;preview
 mnem2;MNE;Montenegro Magistralni Put (new);lightsalmon;4;preview
-nldp;NLD;Netherlands Provinciale Wegen;yellow;5;preview
+nldrw;NLD;Netherlands Ringwegen;yellow;5;preview
 nplh;NPL;Nepal Highways;lightsalmon;4;preview
 norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
 phle;PHL;Philippines Expressways;blue;1;preview
@@ -262,14 +265,12 @@ usaush;USA;United States Historic Highways;brown;4;preview
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
 #bihm2;BIH;Bosnia and Herzegovina Magistrale (new);lightsalmon;4;devel
-canmbw;CAN;Winnipeg City Routes;yellow;5;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 cansk;CAN;Saskatchewan Provincial Highways;brown;4;devel
 #deubbl;DEU-BB;Brandenburg Landesstraßen;yellow;5;devel
 #deumvl;DEU-MV;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;devel
 deunil;DEU-NI;Lower Saxony Landesstraßen;yellow;5;devel
-deunwl;DEU-NW;North Rhine-Westphalia Landesstraßen;yellow;5;devel
 #deusns;DEU-SN;Saxony Staatsstraßen;yellow;5;devel
 #deustl;DEU-ST;Saxony-Anhalt Landesstraßen;yellow;5;devel
 #deushl;DEU-SH;Schleswig-Holstein Landesstraßen;yellow;5;devel
@@ -279,6 +280,7 @@ deuthl;DEU-TH;Thuringia Landesstraßen;yellow;5;devel
 #espib;ESP;Balearic Islands Red Primaria;yellow;5;devel
 #espmc;ESP;Region of Murcia Red de Primer Nivel;yellow;5;devel
 grceo;GRC;Greece Ethniki Odos;lightsalmon;4;devel
+islf;ISL;Iceland Fjallvegur;yellow;5;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 namb;NAM;Namibia B Roads;lightsalmon;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
