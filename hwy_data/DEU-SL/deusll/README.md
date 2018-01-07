@@ -8,4 +8,4 @@
 
 
 **NOTES TO ROUTES:**
--
+- `Landesstraßen 2. Ordnung` (L201+) are maintained by the districts (Landkreise), only `Landesstraßen 1. Ordnung` (L101-L178) are maintained by the state
