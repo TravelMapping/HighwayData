@@ -420,7 +420,7 @@ List of islth routes with notes:
 933	Done
 934	Done	
 935	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
-936	Signed as F936 from S96. Not signed from TH1.
+936	Signed as F936 from TH1. Not signed from TH95.
 937	Done
 938	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 939	Done
