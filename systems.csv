@@ -140,9 +140,11 @@ srbb;SRB;Serbia Državni Put;lightsalmon;4;active
 svkd;SVK;Slovakia Diaľnica;blue;1;active
 svkr;SVK;Slovakia Rýchlostná Cesta;teal;2;active
 svki;SVK;Slovakia Cesta I. Triedy;lightsalmon;4;active
+svkii;SVK;Slovakia Cesta II. Triedy;yellow;5;active
 svna;SVN;Slovenia Avtocesta;blue;1;active
 svnh;SVN;Slovenia Hitra Cesta;teal;2;active
 svng;SVN;Slovenia Glavne Ceste;lightsalmon;4;active
+svnr;SVN;Slovenia Regionalna Ceste;yellow;5;active
 swer;SWE;Sweden Riksvägar;lightsalmon;4;active
 swel;SWE;Sweden Primära Länsvägar;yellow;5;active
 turo;TUR;Turkey Otoyol;blue;1;active
@@ -215,6 +217,7 @@ bihm;BIH;Bosnia and Herzegovina Magistrale;lightsalmon;4;preview
 canmbw;CAN;Winnipeg City Routes;yellow;5;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;brown;4;preview
 canqc;CAN;Québec Provincial Routes;brown;4;preview
+cansk;CAN;Saskatchewan Provincial Highways 1-399;brown;4;preview
 chng;CHN;China National Expressways;blue;1;preview
 czeii;CZE;Czechia Silnice II. Třídy;yellow;5;preview
 deub;DEU;Germany Bundesstraßen;lightsalmon;4;preview
@@ -223,9 +226,11 @@ deubwl;DEU;Baden-Württemberg Landesstraßen;yellow;5;preview
 deubyst;DEU;Bavaria Staatsstraßen;yellow;5;preview
 deuhhr;DEU;Hamburg Ringstraßen;yellow;5;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
+deunil;DEU;Lower Saxony Landesstraßen;yellow;5;preview
 deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;preview
 deurpl;DEU;Rhineland-Palatinate Landesstraßen;yellow;5;preview
 deusll;DEU;Saarland Landesstraßen 1. Ordnung;yellow;5;preview
+deusns;DEU;Saxony Staatsstraßen;yellow;5;preview
 engb;GBR;Great Britain B Roads (Southeastern England);yellow;5;preview
 espan;ESP;Andalusia Red Básica;yellow;5;preview
 espar;ESP;Aragon Red Básica;yellow;5;preview
@@ -256,8 +261,6 @@ norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
 phle;PHL;Philippines Expressways;blue;1;preview
 poldw1;POL;Poland Droga Wojewódzka 100-199;yellow;5;preview
 sctb;GBR;Great Britain B Roads (Scotland & Northern England);yellow;5;preview
-svkii;SVK;Slovakia Cesta II. Triedy;yellow;5;preview
-svnr;SVN;Slovenia Regionalna Ceste;yellow;5;preview
 usaak;USA;Alaska State Highways;brown;4;preview
 usaca;USA;California State Highways;brown;4;preview
 usaga;USA;Georgia State Highways;brown;4;preview
@@ -265,6 +268,7 @@ usafl;USA;Florida State Highways;brown;4;preview
 usanp;USA;United States Select National Park Highways;brown;4;preview
 usapr;USA;Puerto Rico Territorial Highways;brown;4;preview
 usasc;USA;South Carolina State Highways;brown;4;preview
+wlsb;GBR;Great Britain B Roads (Wales & Western England);yellow;5;preview
 zafn;ZAF;South Africa National Highways;lightsalmon;4;preview
 usaush;USA;United States Historic Highways;brown;4;preview
 #Devel Systems
@@ -274,20 +278,17 @@ asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
 canabs;CAN;Alberta Provincial Highways 500-986;yellow;5;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
-cansk;CAN;Saskatchewan Provincial Highways;brown;4;devel
-#deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;devel
-deunil;DEU;Lower Saxony Landesstraßen;yellow;5;devel
-#deusns;DEU;Saxony Staatsstraßen;yellow;5;devel
+deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;devel
 #deustl;DEU;Saxony-Anhalt Landesstraßen;yellow;5;devel
 #deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;devel
 deuthl;DEU;Thuringia Landesstraßen;yellow;5;devel
 #espga;ESP;Galicia Red Primaria Básica;yellow;5;devel
 #gbrb;GBR;Great Britain B Roads;yellow;5;devel
-#wlsb;GBR;Great Britain B Roads (Wales & Central England);yellow;5;devel
 grceo;GRC;Greece Ethniki Odos;lightsalmon;4;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 namb;NAM;Namibia B Roads;lightsalmon;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
+nirb;GBR;Northern Ireland B Roads;yellow;5;devel
 nzlsh;NZL;New Zealand State Highways;lightsalmon;4;devel
 #poldw2;POL;Poland Droga Wojewódzka 200-299;yellow;5;devel
 #poldw3;POL;Poland Droga Wojewódzka 300-399;yellow;5;devel
