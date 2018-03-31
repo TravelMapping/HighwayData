@@ -8,4 +8,4 @@
 
 
 **NOTES TO ROUTES:**
--
+- 2-digit routes are `Landesstraßen 1. Ordnung` and 3-digit routes are `Landesstraßen 2. Ordnung` but all are maintained by the state
