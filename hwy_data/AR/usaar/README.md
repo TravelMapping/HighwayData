@@ -8,6 +8,8 @@ AR18 intersects AR 181 twice in Mississippi County; both junctions are signed "A
 
 AR32 intersects US 278 twice in Hempstead County; both junctions are signed "AR 32 East"
 
+AR35 is unsigned in Sheridan between US167Bus_N and US167_S but follows a path that was a single route before the bypass was built
+
 To be determined:
 
 Signage for 4S is "Spur 4S": treat as Spur 4S or normal 4S?
