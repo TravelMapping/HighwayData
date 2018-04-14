@@ -6,6 +6,8 @@ AR9S in Izard County has 3 legs, all signed AR9S: 2 horizontal (AR9SMel) and 1 v
 
 AR18 intersects AR 181 twice in Mississippi County; both junctions are signed "AR 181 East"
 
+AR32 intersects US 278 twice in Hempstead County; both junctions are signed "AR 32 East"
+
 To be determined:
 
 Signage for 4S is "Spur 4S": treat as Spur 4S or normal 4S?
