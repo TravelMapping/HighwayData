@@ -12,7 +12,7 @@ AR35 is unsigned in Sheridan between US167Bus_N and US167_S but follows a path t
 
 AR43 intersects AR7 twice in Harrison; both junctions are signed "AR 43 South"
 
-The two segments of AR244 are separated by a gap (along AR59) longer than either segment
+The two segments of AR244 in Washington County are separated by a gap (along AR59) longer than either segment
 
 AR253 intersects AR45 twice in Sebastian County; both junctions are signed "AR 253 North"
 
