@@ -23,3 +23,5 @@ similar for 7S, 7T
 
 AR43 in OK (westward bend along OK20)
 
+AR75S is signed "Truck AR 75S"
+
