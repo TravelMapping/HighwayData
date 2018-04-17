@@ -16,6 +16,8 @@ The two segments of AR244 in Washington County are separated by a gap (along AR5
 
 AR253 intersects AR45 twice in Sebastian County; both junctions are signed "AR 253 North"
 
+AR88Alt is AR88 (Altheimer)
+
 To be determined:
 
 Signage for 4S is "Spur 4S": treat as Spur 4S or normal 4S?
@@ -24,6 +26,4 @@ similar for 7S, 7T
 AR43 in OK (westward bend along OK20)
 
 AR75S is signed "Truck AR 75S"
-
-AR88Alt is AR88 (Altheimer)
 
