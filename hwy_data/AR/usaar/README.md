@@ -18,6 +18,8 @@ AR253 intersects AR45 twice in Sebastian County; both junctions are signed "AR 2
 
 AR88Alt is AR88 (Altheimer)
 
+AR92 is signed N-S south of the AR9 concurrency and E-W east of it
+
 To be determined:
 
 Signage for 4S is "Spur 4S": treat as Spur 4S or normal 4S?
