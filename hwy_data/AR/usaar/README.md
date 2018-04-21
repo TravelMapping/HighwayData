@@ -2,6 +2,8 @@ Unsigned concurrencies are treated as gaps between separate routes unless the co
 
 General notes:
 
+Instead of Alternate, Business, Truck, or Spur banners, auxiliary routes are posted with suffixes (i.e. AR 00 Business = "AR 00B"). Route names for these auxiliary routes follow the same convention (AR00B instead of AR00Bus, with or without city label). Signage for some spurs is "Spur #S": this is treated as a bannerless #S (similar situation with at least one truck route)
+
 AR9S in Izard County has 3 legs, all signed AR9S: 2 horizontal (AR9SMel) and 1 vertical (AR9SIza)
 
 AR18 intersects AR181 twice in Mississippi County; both junctions are signed "AR 181 East"
@@ -23,9 +25,6 @@ AR92 is signed N-S south of the AR9 concurrency and E-W east of it
 AR94 is unsigned from AR340 to the Missouri state line
 
 To be determined:
-
-Signage for 4S is "Spur 4S": treat as Spur 4S or normal 4S?
-similar for 7S, 7T
 
 AR43 in OK (westward bend along OK20)
 
