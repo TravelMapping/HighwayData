@@ -1,6 +1,6 @@
-Unsigned concurrencies are treated as gaps between separate routes unless the concurrency follows a single route between splits in the same county
+Unsigned concurrencies are treated as gaps between separate routes unless the concurrency follows a single route between splits in the same county.
 
-Instead of Alternate, Business, Truck, or Spur banners, auxiliary routes are posted with suffixes (i.e. AR 00 Business = "AR 00B"). Route names for these auxiliary routes follow the same convention (AR00B instead of AR00Bus, with or without city label). Signage for some spurs is "Spur #S": this is treated as a bannerless #S (similar situation with at least one truck route)
+Instead of Alternate, Business, Truck, or Spur banners, auxiliary routes are posted with suffixes (i.e. AR 00 Business = "AR 00B"). Route names for these auxiliary routes follow the same convention (AR00B instead of AR00Bus, with or without city label). Signage for some spurs is "Spur #S": this is treated as a bannerless #S (similar situation with at least one truck route).
 
 Notes:
 
