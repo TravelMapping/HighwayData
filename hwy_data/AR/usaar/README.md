@@ -24,6 +24,8 @@ AR92 is signed N-S south of the AR9 concurrency and E-W east of it
 
 AR94 is unsigned from AR340 to the Missouri state line
 
+AR100 intersects AR365 twice in Pulaski County; both junctions are signed "AR 100 East" and the gap is longer than either segment of AR100
+
 To be determined:
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
