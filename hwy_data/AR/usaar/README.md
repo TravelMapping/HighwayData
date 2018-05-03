@@ -2,7 +2,6 @@ Unsigned concurrencies are treated as gaps between separate routes unless the co
 
 Instead of Alternate, Business, Truck, or Spur banners, auxiliary routes are posted with suffixes (i.e. AR 00 Business = "AR 00B"). Route names for these auxiliary routes follow the same convention (AR00B instead of AR00Bus, with or without city label). Signage for some spurs is "Spur #S": this is treated as a bannerless #S (similar situation with at least one truck route).
 
-
 Notes:
 
 AR9S in Izard County has 3 legs, all signed AR9S: 2 horizontal (AR9SMel) and 1 vertical (AR9SIza)
@@ -30,7 +29,6 @@ AR100 intersects AR365 twice in Pulaski County; both junctions are signed "AR 10
 The two segments of AR127 in Madison County are separated by a gap (along AR23) longer than either segment
 
 AR285 intersects both US65 and AR124 twice, via three separate segments, so these are being treated separately since it is not clear that AR285 is concurrent with either of them
-
 
 To be determined:
 
