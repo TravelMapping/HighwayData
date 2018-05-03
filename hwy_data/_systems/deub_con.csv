@@ -54,6 +54,7 @@ deub;B8;;Emmerich;deunw.b008emm
 deub;B8;;Dinslaken;deunw.b008din
 deub;B8;;Düsseldorf;deunw.b008dus
 deub;B8;;Köln;deunw.b008
+deub;B8;;Köln-Mülheim;deunw.b008mul
 deub;B8;;Limburg;deunw.b008hen,deurp.b008,deuhe.b008
 deub;B8;;Frankfurt;deuhe.b008fra
 deub;B8;;Aschaffenburg;deuby.b008asc
@@ -62,14 +63,13 @@ deub;B8;;Würzburg;deuby.b008wur
 deub;B8;;Nürnberg;deuby.b008nur
 deub;B8;;Neumarkt;deuby.b008neu
 deub;B8;;Straubing;deuby.b008
-deub;B8;AST;Köln-Mülheim;deunw.b008ast
 deub;B8n;;;deunw.b008n
 deub;B9;;Geldern;deunw.b009
 deub;B9;;Dormagen;deunw.b009dor
+deub;B9;;Köln;deunw.b009kol
 deub;B9;;Koblenz;deunw.b009bon,deurp.b009kob
 deub;B9;;Ludwigshafen;deurp.b009
-deub;B9;AST;Köln;deunw.b009ast
-deub;B9;AST;Speyer;deurp.b009ast
+deub;B9;;Speyer;deurp.b009spe
 deub;B10;;Lebach;deusl.b010
 deub;B10;;Pirmasens;deurp.b010
 deub;B10;;Stuttgart;deurp.b010wor,deubw.b010,deuby.b010
@@ -215,9 +215,9 @@ deub;B57;;Erkelenz;deunw.b057
 deub;B58;;;deunw.b058
 deub;B59;;Mönchengladbach;deunw.b059mon
 deub;B59;;Köln;deunw.b059
-deub;B61;;;deuni.b061,deunw.b061
-deub;B61;AST;Porta Westfalia;deunw.b061astpor
-deub;B61;AST;Bielefeld;deunw.b061ast
+deub;B61;;(Main);deuni.b061,deunw.b061
+deub;B61;;Porta Westfalia;deunw.b061por
+deub;B61;;Bielefeld;deunw.b061bie
 deub;B61n;;;deunw.b061n
 deub;B62;;Kirchhain;deurp.b062,deunw.b062,deuhe.b062,deuth.b062
 deub;B62;;Zella-Mehlis;deuth.b062zel
@@ -227,8 +227,8 @@ deub;B62;AST;Friedewald;deuhe.b062ast
 deub;B63;;Hamm;deunw.b063
 deub;B63;;Wickede;deunw.b063wic
 deub;B64;;;deunw.b064,deuni.b064
-deub;B65;;;deuni.b065ess,deunw.b065,deuni.b065
-deub;B65;AST;Minden;deunw.b065ast
+deub;B65;;(Main);deuni.b065ess,deunw.b065,deuni.b065
+deub;B65;;Minden;deunw.b065min
 deub;B66;;;deunw.b066
 deub;B66n;;;deunw.b066n
 deub;B67;;(Main);deunw.b067
