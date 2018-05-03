@@ -26,6 +26,8 @@ AR94 is unsigned from AR340 to the Missouri state line
 
 AR100 intersects AR365 twice in Pulaski County; both junctions are signed "AR 100 East" and the gap is longer than either segment of AR100
 
+AR285 intersects both US65 and AR124 twice, via three separate segments, so these are being treated separately since it is not clear that AR285 is concurrent with either of them
+
 To be determined:
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
