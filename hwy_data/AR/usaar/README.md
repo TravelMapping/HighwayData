@@ -26,7 +26,7 @@ AR94 is unsigned from AR340 to the Missouri state line
 
 AR100 intersects AR365 twice in Pulaski County; both junctions are signed "AR 100 East" and the gap is longer than either segment of AR100
 
-The two segments of AR127 in Madison County are separated by a gap (along AR23) longer than either segment
+The three segments of AR127 in Madison County are separated by gaps (along AR23) longer than any segment
 
 AR285 intersects both US65 and AR124 twice, via three separate segments, so these are being treated separately since it is not clear that AR285 is concurrent with either of them
 
