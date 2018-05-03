@@ -32,6 +32,8 @@ AR285 intersects both US65 and AR124 twice, via three separate segments, so thes
 
 To be determined:
 
+How to order routes (ordering alphabetically puts some segments of AR##Cityname in between segments of AR##B and AR##S)
+
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
 
 AR75S is signed "Truck AR 75S"
