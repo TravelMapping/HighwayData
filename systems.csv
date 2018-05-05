@@ -1,5 +1,4 @@
 ﻿System;CountryCode;Name;Color;Tier;Level
-abwrt;NLD;Aruba Routes;lightsalmon;4;active
 alba;ALB;Albania Autoudhë;blue;1;active
 albsh;ALB;Albania Rrugë Shtetërore;lightsalmon;4;active
 andcg;AND;Andorra Carreteras Generales;lightsalmon;4;active
@@ -43,6 +42,7 @@ czed;CZE;Czechia Dálnice;blue;1;active
 czei;CZE;Czechia Silnice I. Třídy;lightsalmon;4;active
 deua;DEU;Germany Autobahnen;blue;1;active
 dnkpr;DNK;Denmark Primærruter;lightsalmon;4;active
+frolv;DNK;Faroe Islands Routes;lightsalmon;4;active
 dnksr;DNK;Denmark Sekundærrute;yellow;5;active
 eure;EUR;UNECE International 'E' Roads;green;3;active
 eursf;EUR;Europe Select Named Freeways;teal;2;active
@@ -114,6 +114,7 @@ mkda;MKD;Macedonia Magistrale;lightsalmon;4;active
 mnem;MNE;Montenegro Magistralni Put;lightsalmon;4;active
 nama;NAM;Namibia A Roads;blue;1;active
 nlda;NLD;Netherlands Autosnelwegen;blue;1;active
+abwrt;NLD;Aruba Routes;lightsalmon;4;active
 nldr;NLD;Netherlands Rijkswegen;lightsalmon;4;active
 nldp;NLD;Netherlands Provinciale Wegen;yellow;5;active
 nldrw;NLD;Netherlands Ringwegen;yellow;5;active
@@ -253,7 +254,6 @@ espnc;ESP;Navarre Carreteras de Interés de la Comunidad Foral;yellow;5;preview
 esppv;ESP;Basque Country Oinarrizko Sarea;yellow;5;preview
 espri;ESP;La Rioja Red Regional Básica;yellow;5;preview
 espvc;ESP;Valencian Community Red Básica;yellow;5;preview
-frolv;DNK;Faroe Islands Routes;lightsalmon;4;preview
 gbnb;GBR;Great Britain B Roads;yellow;5;preview
 gbrtr;GBR;UK Tourist and Scenic Routes;brown;5;preview
 index;IND;India National Expressways;blue;1;preview
@@ -265,6 +265,7 @@ lkaa;LKA;Sri Lanka A Roads;lightsalmon;4;preview
 nirb;GBR;Northern Ireland B Roads;yellow;5;preview
 nplh;NPL;Nepal Highways;lightsalmon;4;preview
 norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
+nzlsh;NZL;New Zealand State Highways;lightsalmon;4;preview
 phle;PHL;Philippines Expressways;blue;1;preview
 poldw1;POL;Poland Droga Wojewódzka 100-199;yellow;5;preview
 usaca;USA;California State Highways;brown;4;preview
@@ -288,7 +289,6 @@ grceo;GRC;Greece Ethniki Odos;lightsalmon;4;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 namb;NAM;Namibia B Roads;lightsalmon;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
-nzlsh;NZL;New Zealand State Highways;lightsalmon;4;devel
 #poldw2;POL;Poland Droga Wojewódzka 200-299;yellow;5;devel
 #poldw3;POL;Poland Droga Wojewódzka 300-399;yellow;5;devel
 #poldw4;POL;Poland Droga Wojewódzka 400-499;yellow;5;devel
