@@ -38,4 +38,6 @@ AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state 
 
 AR75S is signed "Truck AR 75S"
 
+AR151 in usaar is longer than the AR151 in usansf and deserves to be free of a suffix, but is correcting this worth the trouble?
+
 N end of AR162 (maps show continuing to I-40 along US71B)
