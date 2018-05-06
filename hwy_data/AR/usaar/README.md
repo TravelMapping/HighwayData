@@ -38,3 +38,4 @@ AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state 
 
 AR75S is signed "Truck AR 75S"
 
+N end of AR162 (maps show continuing to I-40 along US71B)
