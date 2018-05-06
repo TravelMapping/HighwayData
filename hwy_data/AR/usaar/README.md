@@ -28,7 +28,7 @@ AR100 intersects AR365 twice in Pulaski County; both junctions are signed "AR 10
 
 The two segments of AR127 in Madison County are separated by a gap (along AR23) longer than either segment
 
-Two segments of AR160 in Calhoun, Bradley, and Ashley Counties are separated by a gap (along AR8) that is only 4 miles long across the Bradley-Ashley county line, so they have been joined (as AR160)
+Two segments of AR160 in Calhoun, Bradley, and Ashley Counties are separated by a gap (along AR8) that is only 4 miles long across the Bradley-Ashley county line, so they have been joined (as AR160Her)
 
 AR285 intersects both US65 and AR124 twice, via three separate segments, so these are being treated separately since it is not clear that AR285 is concurrent with either of them
 
