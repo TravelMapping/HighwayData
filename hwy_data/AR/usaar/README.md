@@ -30,6 +30,8 @@ The two segments of AR127 in Madison County are separated by a gap (along AR23) 
 
 Two segments of AR160 in Calhoun, Bradley, and Ashley Counties are separated by a gap (along AR8) that is only 4 miles long across the Bradley-Ashley county line, so they have been joined (as AR160Her)
 
+The two segments of AR200 in Nevada County are separated by a gap (along US371) longer than either segment
+
 AR285 intersects both US65 and AR124 twice, via three separate segments, so these are being treated separately since it is not clear that AR285 is concurrent with either of them
 
 **To be determined:**
