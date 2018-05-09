@@ -40,6 +40,9 @@ AR264Sil is signed E-W with W end at Brashears Rd
 
 The two segments of AR277 in Desha County are separated by a gap (along US165) longer than either segment
 
+Two segments of AR295 in Madison County are separated by a gap (along AR16) longer than either segment
+
+
 **To be determined:**
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
