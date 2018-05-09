@@ -36,6 +36,8 @@ AR285 intersects both US65 and AR124 twice, via three separate segments, so thes
 
 Two segments of AR234 in Little River and Sevier Counties are separated by a gap (along US71) that is only 5 miles long across the county line, so they have been joined (as AR234)
 
+AR264Sil is signed E-W with W end at Brashears Rd
+
 **To be determined:**
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
