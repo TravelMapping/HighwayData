@@ -42,6 +42,7 @@ The two segments of AR277 in Desha County are separated by a gap (along US165) l
 
 Two segments of AR295 in Madison County are separated by a gap (along AR16) longer than either segment
 
+Per USGS 1:2400 topo map, AR296's west end is on the TX/AR state line
 
 **To be determined:**
 
