@@ -34,6 +34,16 @@ AR253 intersects AR45 twice in Sebastian County; both junctions are signed "AR 2
 
 AR285 intersects both US65 and AR124 twice, via three separate segments, so these are being treated separately since it is not clear that AR285 is concurrent with either of them
 
+Two segments of AR234 in Little River and Sevier Counties are separated by a gap (along US71) that is only 5 miles long across the county line, so they have been joined (as AR234)
+
+AR264Sil is signed E-W with W end at Brashears Rd
+
+The two segments of AR277 in Desha County are separated by a gap (along US165) longer than either segment
+
+Two segments of AR295 in Madison County are separated by a gap (along AR16) longer than either segment
+
+Per USGS 1:2400 topo map, AR296's west end is on the TX/AR state line
+
 **To be determined:**
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
