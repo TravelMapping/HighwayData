@@ -44,6 +44,8 @@ Two segments of AR295 in Madison County are separated by a gap (along AR16) long
 
 Per USGS 1:2400 topo map, AR296's west end is on the TX/AR state line
 
+AR312 intersects AR18 twice in Mississippi County; both junctions are signed "AR 312 East"
+
 **To be determined:**
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
