@@ -48,6 +48,8 @@ AR312 intersects AR18 twice in Mississippi County; both junctions are signed "AR
 
 Two segments of AR333 in Searcy County are separated by a gap (along US65) longer than either segment
 
+AR391 stub N of I-40 is unsigned
+
 **To be determined:**
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
