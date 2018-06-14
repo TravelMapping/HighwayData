@@ -52,6 +52,8 @@ AR391 stub N of I-40 is unsigned
 
 AR922-1A is signed AR722-1A on US165, which is the only signage viewable on GMSV
 
+AR933-1 and AR933-2 are signed at AR9 & AR5, respectively, but imagery is too blurry to determine if they are signed -1/-2 or -1A/-2A
+
 **To be determined:**
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
