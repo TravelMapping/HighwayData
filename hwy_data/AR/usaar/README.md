@@ -63,3 +63,5 @@ AR75S is signed "Truck AR 75S"
 AR151 in usaar is longer than the AR151 in usansf and deserves to be free of a suffix, but is correcting this worth the trouble?
 
 N end of AR162 (maps show continuing to I-40 along US71B)
+
+N end of AR926 (no imagery besides jct with US270, not shown in ArDOT maps)
