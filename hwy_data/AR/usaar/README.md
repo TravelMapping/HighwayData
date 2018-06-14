@@ -50,7 +50,7 @@ Two segments of AR333 in Searcy County are separated by a gap (along US65) longe
 
 AR391 stub N of I-40 is unsigned
 
-AR922-1 is signed AR722-1 on US165, which is the only signage viewable on GMSV
+AR922-1A is signed AR722-1A on US165, which is the only signage viewable on GMSV
 
 **To be determined:**
 
