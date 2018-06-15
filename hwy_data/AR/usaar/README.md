@@ -30,6 +30,8 @@ Two segments of AR160 in Calhoun, Bradley, and Ashley Counties are separated by 
 
 The two segments of AR200 in Nevada County are separated by a gap (along US371) longer than either segment
 
+AR212Gou is longer than AR212 (Star City), but AR212 (Staves) has the name AR212Sta
+
 The two segments of AR244 in Washington County are separated by a gap (along AR59) longer than either segment
 
 AR253 intersects AR45 twice in Sebastian County; both junctions are signed "AR 253 North"
