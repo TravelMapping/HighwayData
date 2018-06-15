@@ -54,6 +54,8 @@ AR922-1A is signed AR722-1A on US165, which is the only signage viewable on GMSV
 
 AR933-1 and AR933-2 are signed at AR9 & AR5, respectively, but imagery is too blurry to determine if they are signed -1/-2 or -1A/-2A
 
+All 32 AR980 routes have a suffix so that renaming will not be necessary if any change length or are (de)commissioned in the future
+
 **To be determined:**
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
