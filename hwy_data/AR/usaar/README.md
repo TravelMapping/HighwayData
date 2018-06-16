@@ -14,6 +14,8 @@ AR35 is unsigned in Sheridan between US167Bus_N and US167_S but follows a path t
 
 AR43 intersects AR7 twice in Harrison; both junctions are signed "AR 43 South"
 
+AR75S (Parkin) is signed with a Truck banner and behaves like a truck route but nevertheless says AR75S in the shield
+
 AR88Alt is AR88 (Altheimer)
 
 AR92 is signed N-S south of the AR9 concurrency and E-W east of it
@@ -27,6 +29,8 @@ The two segments of AR127 in Madison County are separated by a gap (along AR23) 
 Two segments of AR160 in Calhoun, Bradley, and Ashley Counties are separated by a gap (along AR8) that is only 4 miles long across the Bradley-Ashley county line, so they have been joined (as AR160Her)
 
 The two segments of AR200 in Nevada County are separated by a gap (along US371) longer than either segment
+
+AR212Gou is longer than AR212 (Star City), but AR212 (Staves) has the name AR212Sta
 
 The two segments of AR244 in Washington County are separated by a gap (along AR59) longer than either segment
 
@@ -53,6 +57,8 @@ AR391 stub N of I-40 is unsigned
 AR922-1A is signed AR722-1A on US165, which is the only signage viewable on GMSV
 
 AR933-1 and AR933-2 are signed at AR9 & AR5, respectively, but imagery is too blurry to determine if they are signed -1/-2 or -1A/-2A
+
+All 32 AR980 routes have a suffix so that renaming will not be necessary if any change length or are (de)commissioned in the future
 
 **To be determined:**
 
