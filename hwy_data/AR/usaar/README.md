@@ -14,8 +14,6 @@ AR35 is unsigned in Sheridan between US167Bus_N and US167_S but follows a path t
 
 AR43 intersects AR7 twice in Harrison; both junctions are signed "AR 43 South"
 
-AR75S (Parkin) is signed with a Truck banner and behaves like a truck route but nevertheless says AR75S in the shield
-
 AR88Alt is AR88 (Altheimer)
 
 AR92 is signed N-S south of the AR9 concurrency and E-W east of it
