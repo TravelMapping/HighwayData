@@ -28,6 +28,8 @@ Two segments of AR160 in Calhoun, Bradley, and Ashley Counties are separated by 
 
 The two segments of AR200 in Nevada County are separated by a gap (along US371) longer than either segment
 
+AR212Gou is longer than AR212 (Star City), but AR212 (Staves) has the name AR212Sta
+
 The two segments of AR244 in Washington County are separated by a gap (along AR59) longer than either segment
 
 AR253 intersects AR45 twice in Sebastian County; both junctions are signed "AR 253 North"
@@ -44,6 +46,18 @@ Two segments of AR295 in Madison County are separated by a gap (along AR16) long
 
 Per USGS 1:2400 topo map, AR296's west end is on the TX/AR state line
 
+AR312 intersects AR18 twice in Mississippi County; both junctions are signed "AR 312 East"
+
+Two segments of AR333 in Searcy County are separated by a gap (along US65) longer than either segment
+
+AR391 stub N of I-40 is unsigned
+
+AR922-1A is signed AR722-1A on US165, which is the only signage viewable on GMSV
+
+AR933-1 and AR933-2 are signed at AR9 & AR5, respectively, but imagery is too blurry to determine if they are signed -1/-2 or -1A/-2A
+
+All 32 AR980 routes have a suffix so that renaming will not be necessary if any change length or are (de)commissioned in the future
+
 **To be determined:**
 
 AR43 in OK (westward bend along OK20): AR43 is concurrent with OK20 along state line, but bends west for some distance to be totally within OK, so should have points where it crosses state line; no corresponding state-line points exist in OK20 file
@@ -53,3 +67,5 @@ AR75S is signed "Truck AR 75S"
 AR151 in usaar is longer than the AR151 in usansf and deserves to be free of a suffix, but is correcting this worth the trouble?
 
 N end of AR162 (maps show continuing to I-40 along US71B)
+
+N end of AR926 (no imagery besides jct with US270, not shown in ArDOT maps)
