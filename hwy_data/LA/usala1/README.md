@@ -4,4 +4,6 @@ LA26 is signed W-E at its west end and S-N at its south end.
 
 LA29Spr is the western segment of LA26 (Chataignier St) within the one-way pair of US167/LA10 in Ville Platte.
 
+LA44 is signed W-E at its east end and S-N at its north end.
+
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
