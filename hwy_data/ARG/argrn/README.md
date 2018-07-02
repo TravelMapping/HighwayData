@@ -4,6 +4,7 @@
 
 **SOURCES:**
 - https://es.wikipedia.org/wiki/Rutas_nacionales_de_Argentina
+- https://es.wikipedia.org/wiki/Anexo:Primeras_rutas_nacionales_de_la_Argentina
 - https://es.wikipedia.org/wiki/Anexo:Autopistas_de_Argentina
 
 
@@ -14,3 +15,4 @@
 - RNA011 is only signed at RN11 (GSV) but clearly described on OSM and wikipedia
 
 - !! RNA001 et cetera must still being checked if signed !!
+- ?? RNV146 to be added ?? (signed)
