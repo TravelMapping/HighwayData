@@ -8,6 +8,8 @@ LA44 is signed W-E at its east end and S-N at its north end.
 
 LA77 is signed along LA77 Spur, and the adjacent section of LA77 is unsigned.
 
+LA124's route through Harrisonburg is not completely clear since LA8 was routed onto a new bridge.
+
 LA141's two segments are supposedly LA141-1 and LA141-2 now. GMSV imagery is old.
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
