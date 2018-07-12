@@ -20,6 +20,8 @@ Both LA655 and LA655 Spur are signed LA655, so the shorter leg on the west side 
 
 The northern end of LA731 is unclear.
 
+Both LA758 and LA758 Spur are signed LA758, so the short segment connecting the main route to LA29 was drafted as the spur.
+
 LA987-3 and LA987-3 Spur are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road will be drafted as LA987-3 Spur.
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
