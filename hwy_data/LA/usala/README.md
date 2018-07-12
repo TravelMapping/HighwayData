@@ -10,7 +10,7 @@ LA77 is signed along LA77 Spur, and the adjacent section of LA77 is unsigned.
 
 LA124's route through Harrisonburg is not completely clear since LA8 was routed onto a new bridge.
 
-The northern segment of LA486 is (mostly) unsigned.
+The northern segment of LA486 is (mostly) unsigned, so it has not been included in the file.
 
 The western end of LA611-1 is unclear.
 
