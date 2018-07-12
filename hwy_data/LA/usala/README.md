@@ -12,6 +12,8 @@ LA124's route through Harrisonburg is not completely clear since LA8 was routed 
 
 The northern segment of LA486 is (mostly) unsigned.
 
+The western end of LA611-1 is unclear.
+
 LA987-3 and LA987-3Spr are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road will be drafted as LA987-3Spr.
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
