@@ -14,6 +14,8 @@ The northern segment of LA486 is (mostly) unsigned.
 
 The western end of LA611-1 is unclear.
 
-LA987-3 and LA987-3Spr are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road will be drafted as LA987-3Spr.
+Both LA655 and LA655 Spur are signed LA655, so the shorter leg on the west side of Bayou Lafourche was drafted as the spur.
+
+LA987-3 and LA987-3 Spur are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road will be drafted as LA987-3 Spur.
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
