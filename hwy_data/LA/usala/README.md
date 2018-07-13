@@ -10,10 +10,20 @@ LA77 is signed along LA77 Spur, and the adjacent section of LA77 is unsigned.
 
 LA124's route through Harrisonburg is not completely clear since LA8 was routed onto a new bridge.
 
-The northern segment of LA486 is (mostly) unsigned.
+The northern segment of LA486 is (mostly) unsigned, so it has not been included in the file.
 
 The western end of LA611-1 is unclear.
 
-LA987-3 and LA987-3Spr are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road will be drafted as LA987-3Spr.
+Both LA631 and LA631 Spur are signed LA631, so the shorter leg at the west end was drafted as the spur.
+
+Both LA655 and LA655 Spur are signed LA655, so the shorter leg on the west side of Bayou Lafourche was drafted as the spur.
+
+The northern end of LA731 is unclear.
+
+Both LA758 and LA758 Spur are signed LA758, so the short segment connecting the main route to LA29 was drafted as the spur.
+
+The northern end of LA807 is unclear. It no longer reaches the state line.
+
+LA987-3 and LA987-3 Spur are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road will be drafted as LA987-3 Spur.
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
