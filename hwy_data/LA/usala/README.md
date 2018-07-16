@@ -41,6 +41,9 @@ LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of
 
 Both LA1077 and LA1077 Spur are signed LA1077, so the very short leg diverging to the northwest was drafted as the spur.
 
+The northern end of LA1129 is unclear.
+
+
 **Unknown routes**
 
 These routes are documented in LA DOTD's State Route Report (2018) but are not shown on maps.
@@ -49,6 +52,7 @@ These routes are documented in LA DOTD's State Route Report (2018) but are not s
 1018-3<br>
 1018-4<br>
 1018-5
+
 
 **Sources**
 
