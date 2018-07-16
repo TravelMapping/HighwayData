@@ -14,6 +14,10 @@ These routes are documented in LA DOTD's State Route Report (2018) but are not s
 
 **Notes**
 
+LA DOTD is in the midst (early stages) of a "right-sizing" program aimed at reducing the total state highway mileage by 25% or more. This process would eliminate and/or shorten many of the highways in the set. Any reports of signs being changed, or removed from former state highways, will be appreciated. More info can be found at the links below:
+http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Documents/Right-Sizing%20the%20State%20Highway%20System.pdf
+http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Pages/default.aspx (maps indicating route status available via links at upper left)
+
 LA8 is signed well along I-49, and signed partially along LA1, between I-49(103) and LA1200. The segment linking I-49 exit 103 to LA1 is considered LA8Spr by LA DOTD but is not signed as such, so it is not included in the set. Some LA8 signs remain on LA1, at least one with a TO banner, so these are being treated as remnants of a past routing.
 
 LA26 is signed W-E at its west end and S-N at its south end.
