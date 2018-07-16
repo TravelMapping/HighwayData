@@ -1,23 +1,11 @@
-**Sources**
-
-State Route Report: http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Data_Collection/Inventory%20Reports/State%20Routes%20Report%2020180208.pdf<br>
-District & Parish Maps: http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Data_Collection/Mapping/Pages/State_District_Parish_Maps.aspx
-
-**Unknown routes**
-
-These routes are documented in LA DOTD's State Route Report (2018) but are not shown on maps.
-
-467-1<br>
-1018-3<br>
-1018-4<br>
-1018-5
-
-**Notes**
+**Notes (general)**
 
 LA DOTD is in the midst (early stages) of a "right-sizing" program aimed at reducing the total state highway mileage by 25% or more. This process would eliminate and/or shorten many of the highways in the set. Any reports of signs being changed, or removed from former state highways, will be appreciated. More info can be found at the links below:
 
 http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Documents/Right-Sizing%20the%20State%20Highway%20System.pdf
 http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Pages/default.aspx (maps indicating route status available via links at upper left)
+
+**Notes (individual highways)**
 
 LA8 is signed well along I-49, and signed partially along LA1, between I-49(103) and LA1200. The segment linking I-49 exit 103 to LA1 is considered LA8Spr by LA DOTD but is not signed as such, so it is not included in the set. Some LA8 signs remain on LA1, at least one with a TO banner, so these are being treated as remnants of a past routing.
 
@@ -50,3 +38,18 @@ Given the lack of GMSV for the area, LA897-1 thru 897-6 are drafted according to
 LA987-3 and LA987-3 Spur are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road was drafted as LA987-3 Spur.
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
+
+**Unknown routes**
+
+These routes are documented in LA DOTD's State Route Report (2018) but are not shown on maps.
+
+467-1<br>
+1018-3<br>
+1018-4<br>
+1018-5
+
+**Sources**
+
+State Route Report: http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Data_Collection/Inventory%20Reports/State%20Routes%20Report%2020180208.pdf<br>
+District & Parish Maps: http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Data_Collection/Mapping/Pages/State_District_Parish_Maps.aspx
+
