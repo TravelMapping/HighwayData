@@ -37,7 +37,9 @@ Given the lack of GMSV for the area, LA897-1 thru 897-6 are drafted according to
 
 LA987-3 and LA987-3 Spur are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road was drafted as LA987-3 Spur.
 
-LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
+LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 were drafted separately.
+
+Both LA1077 and LA1077 Spur are signed LA1077, so the very short leg diverging to the northwest was drafted as the spur.
 
 **Unknown routes**
 
