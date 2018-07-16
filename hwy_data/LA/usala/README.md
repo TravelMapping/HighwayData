@@ -26,6 +26,6 @@ The northern end of LA807 is unclear. It no longer reaches the state line.
 
 Given the lack of GMSV for the area, LA897-1 thru 897-6 are drafted according to best guesses from http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Data_Collection/Mapping/District%20Maps/District_58.pdf. LA DOTD has been contacted for further information.
 
-LA987-3 and LA987-3 Spur are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road will be drafted as LA987-3 Spur.
+LA987-3 and LA987-3 Spur are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road was drafted as LA987-3 Spur.
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 will be drafted separately.
