@@ -1,3 +1,18 @@
+**Sources**
+
+State Route Report: http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Data_Collection/Inventory%20Reports/State%20Routes%20Report%2020180208.pdf
+District & Parish Maps: http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Data_Collection/Mapping/Pages/State_District_Parish_Maps.aspx
+
+**Unknown routes**
+
+These routes are documented in LA DOTD's State Route Report (2018) but are not shown on maps.
+467-1
+1018-3
+1018-4
+1018-5
+
+**Notes**
+
 LA8 is signed well along I-49, and signed partially along LA1, between I-49(103) and LA1200. The segment linking I-49 exit 103 to LA1 is considered LA8Spr by LA DOTD but is not signed as such, so it is not included in the set. Some LA8 signs remain on LA1, at least one with a TO banner, so these are being treated as remnants of a past routing.
 
 LA26 is signed W-E at its west end and S-N at its south end.
