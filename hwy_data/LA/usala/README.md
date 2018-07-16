@@ -41,6 +41,8 @@ LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of
 
 Both LA1077 and LA1077 Spur are signed LA1077, so the very short leg diverging to the northwest was drafted as the spur.
 
+The northern end of LA1093-1 is unclear.
+
 The northern end of LA1129 is unclear.
 
 
