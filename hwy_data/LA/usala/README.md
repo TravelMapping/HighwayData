@@ -45,6 +45,8 @@ The northern end of LA1093-1 is unclear.
 
 The northern end of LA1129 is unclear.
 
+Both LA1194 and LA1194 Spur are signed LA1194, so the spur was assigned to segment shown on DOTD maps as the spur.
+
 
 **Unknown routes**
 
