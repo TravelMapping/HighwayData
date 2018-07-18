@@ -59,6 +59,9 @@ Both LA1194 and LA1194 Spur are signed LA1194, so the spur was assigned to segme
 
 LA1208-4 was signed as part of LA1208-1 in the most recent GMSV imagery (June 2015).
 
+The northern end of LA1255 is unclear.
+
+
 **Unknown routes**
 
 These routes are documented in LA DOTD's State Route Report (2018) but are not shown on maps.
