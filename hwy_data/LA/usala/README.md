@@ -5,6 +5,16 @@ LA DOTD is in the midst (early stages) of a "right-sizing" program aimed at redu
 http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Documents/Right-Sizing%20the%20State%20Highway%20System.pdf
 http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Pages/default.aspx (maps indicating route status available via links at upper left)
 
+When available, GMSV imagery was used to ensure highways were signed. In cases where imagery was not available (or predated a highway's designation), signage was assumed. Field checking these routes would be appreciated:
+
+547<br>
+826<br>
+897-4<br>
+897-5<br>
+1266<br>
+3102
+
+
 **Notes (individual highways)**
 
 LA8 is signed well along I-49, and signed partially along LA1, between I-49(103) and LA1200. The segment linking I-49 exit 103 to LA1 is considered LA8Spr by LA DOTD but is not signed as such, so it is not included in the set. Some LA8 signs remain on LA1, at least one with a TO banner, so these are being treated as remnants of a past routing.
