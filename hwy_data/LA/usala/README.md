@@ -61,6 +61,8 @@ LA1208-4 was signed as part of LA1208-1 in the most recent GMSV imagery (June 20
 
 The northern end of LA1255 is unclear.
 
+Both LA3000 and LA3000 Spur are signed LA3000, so the spur was assigned to segment shown on DOTD maps as the spur.
+
 
 **Unknown routes**
 
