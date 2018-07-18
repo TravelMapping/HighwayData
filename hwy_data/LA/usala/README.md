@@ -47,6 +47,7 @@ The northern end of LA1129 is unclear.
 
 Both LA1194 and LA1194 Spur are signed LA1194, so the spur was assigned to segment shown on DOTD maps as the spur.
 
+LA1208-4 was signed as part of LA1208-1 in the most recent GMSV imagery (June 2015).
 
 **Unknown routes**
 
