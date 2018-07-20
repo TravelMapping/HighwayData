@@ -65,6 +65,8 @@ Both LA3000 and LA3000 Spur are signed LA3000, so the spur was assigned to segme
 
 Both ends of LA 3046 are unclear. Signage is minimal but there are no other numbers assigned to Causeway Blvd, which is considered a state highway for most of its length according to maps. The south end of the Lake Pontchartrain Causeway deserves another look as well.
 
+The westhern end of LA3258 is unclear.
+
 **Unknown routes**
 
 These routes are documented in LA DOTD's State Route Report (2018) but are not shown on maps.
