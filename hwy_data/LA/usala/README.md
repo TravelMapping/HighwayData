@@ -63,6 +63,7 @@ The northern end of LA1255 is unclear.
 
 Both LA3000 and LA3000 Spur are signed LA3000, so the spur was assigned to segment shown on DOTD maps as the spur.
 
+Both ends of LA 3046 are unclear. Signage is minimal but there are no other numbers assigned to Causeway Blvd, which is considered a state highway for most of its length according to maps.
 
 **Unknown routes**
 
