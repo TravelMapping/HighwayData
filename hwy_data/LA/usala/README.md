@@ -1,6 +1,6 @@
 **Notes (general)**
 
-LA DOTD is in the midst (early stages) of a "right-sizing" program aimed at reducing the total state highway mileage by 25% or more. This process would eliminate and/or shorten many of the highways in the set. Any reports of signs being changed, or removed from former state highways, will be appreciated. More info can be found at the links below:
+LA DOTD is in the midst (early stages) of a "right-sizing" program aimed at reducing the total state highway mileage by 25% or more. This process will eliminate or shorten many of the highways in the set. Any reports of signs being changed, or removed from former state highways, will be appreciated. More info can be found at the links below:
 
 http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Documents/Right-Sizing%20the%20State%20Highway%20System.pdf
 http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Pages/default.aspx (maps indicating route status available via links at upper left)
