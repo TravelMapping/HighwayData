@@ -67,6 +67,8 @@ Both ends of LA 3046 are unclear. Signage is minimal but there are no other numb
 
 Both LA3100 and LA3100 Spur are signed LA3100, so the spur was assigned to segment shown on DOTD maps as the spur.
 
+The eastern end of LA3156 is unclear.
+
 The western end of LA3258 is unclear.
 
 **Unknown routes**
