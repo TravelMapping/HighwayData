@@ -1,6 +1,6 @@
 **Notes (general)**
 
-LA DOTD is in the midst (early stages) of a "right-sizing" program aimed at reducing the total state highway mileage by 25% or more. This process would eliminate and/or shorten many of the highways in the set. Any reports of signs being changed, or removed from former state highways, will be appreciated. More info can be found at the links below:
+LA DOTD is in the midst (early stages) of a "right-sizing" program aimed at reducing the total state highway mileage by 25% or more. This process will eliminate or shorten many of the highways in the set. Any reports of signs being changed, or removed from former state highways, will be appreciated. More info can be found at the links below:
 
 http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Documents/Right-Sizing%20the%20State%20Highway%20System.pdf
 http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Road_Transfer/Pages/default.aspx (maps indicating route status available via links at upper left)
@@ -63,6 +63,13 @@ The northern end of LA1255 is unclear.
 
 Both LA3000 and LA3000 Spur are signed LA3000, so the spur was assigned to segment shown on DOTD maps as the spur.
 
+Both ends of LA 3046 are unclear. Signage is minimal but there are no other numbers assigned to Causeway Blvd, which is considered a state highway for most of its length according to maps. The south end of the Lake Pontchartrain Causeway deserves another look as well.
+
+Both LA3100 and LA3100 Spur are signed LA3100, so the spur was assigned to segment shown on DOTD maps as the spur.
+
+The eastern end of LA3156 is unclear.
+
+The western end of LA3258 is unclear.
 
 **Unknown routes**
 
