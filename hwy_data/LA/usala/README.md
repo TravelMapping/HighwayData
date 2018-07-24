@@ -11,6 +11,9 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 826<br>
 897-4<br>
 897-5<br>
+1018-3<br>
+1018-4<br>
+1018-5<br>
 1266<br>
 3102
 
@@ -28,6 +31,8 @@ LA44 is signed W-E at its east end and S-N at its north end.
 LA77 is signed along LA77 Spur, and the adjacent section of LA77 is unsigned.
 
 LA124's route through Harrisonburg is not completely clear since LA8 was routed onto a new bridge.
+
+LA467-1 is documented in LA DOTD's State Route Report (2018) but not shown on maps.
 
 The northern segment of LA486 is (mostly) unsigned, so it has not been included in the file.
 
@@ -70,15 +75,6 @@ Both LA3100 and LA3100 Spur are signed LA3100, so the spur was assigned to segme
 The eastern end of LA3156 is unclear.
 
 The western end of LA3258 is unclear.
-
-**Unknown routes**
-
-These routes are documented in LA DOTD's State Route Report (2018) but are not shown on maps.
-
-467-1<br>
-1018-3<br>
-1018-4<br>
-1018-5
 
 
 **Sources**
