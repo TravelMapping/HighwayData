@@ -28,7 +28,6 @@
 
 
 **NOTES TO ROUTES:**
-- `B28` should be rerouted in "Mid 2016" but I couldn't find any reliable info how it should be changed and it seems that it's still discussed, no final decision.
 - `B83` b/n B7 and A49 in Kassel is still B road according to `Netzknotenkarte` from 2016!?
 - `B109` Schönerlinder Straße, Berlin should be rededicated after renovation completion: http://www.berlin.de/senuvk/bauen/strassenbau/b109/
 - `B611` just north of A2 exit Vlotho-West was opened in August 2016 but it's not yet updated on OSM (or GM), and I'm not exactly sure where the end point is. It has a length of 700m only and the next section is expected to be opened in 2019 (4.5km).

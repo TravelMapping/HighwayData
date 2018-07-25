@@ -1,5 +1,4 @@
 ﻿System;CountryCode;Name;Color;Tier;Level
-abwrt;NLD;Aruba Routes;lightsalmon;4;active
 alba;ALB;Albania Autoudhë;blue;1;active
 albsh;ALB;Albania Rrugë Shtetërore;lightsalmon;4;active
 andcg;AND;Andorra Carreteras Generales;lightsalmon;4;active
@@ -43,6 +42,7 @@ czed;CZE;Czechia Dálnice;blue;1;active
 czei;CZE;Czechia Silnice I. Třídy;lightsalmon;4;active
 deua;DEU;Germany Autobahnen;blue;1;active
 dnkpr;DNK;Denmark Primærruter;lightsalmon;4;active
+frolv;DNK;Faroe Islands Routes;lightsalmon;4;active
 dnksr;DNK;Denmark Sekundærrute;yellow;5;active
 eure;EUR;UNECE International 'E' Roads;green;3;active
 eursf;EUR;Europe Select Named Freeways;teal;2;active
@@ -114,6 +114,7 @@ mkda;MKD;Macedonia Magistrale;lightsalmon;4;active
 mnem;MNE;Montenegro Magistralni Put;lightsalmon;4;active
 nama;NAM;Namibia A Roads;blue;1;active
 nlda;NLD;Netherlands Autosnelwegen;blue;1;active
+abwrt;NLD;Aruba Routes;lightsalmon;4;active
 nldr;NLD;Netherlands Rijkswegen;lightsalmon;4;active
 nldp;NLD;Netherlands Provinciale Wegen;yellow;5;active
 nldrw;NLD;Netherlands Ringwegen;yellow;5;active
@@ -140,11 +141,14 @@ srbb;SRB;Serbia Državni Put;lightsalmon;4;active
 svkd;SVK;Slovakia Diaľnica;blue;1;active
 svkr;SVK;Slovakia Rýchlostná Cesta;teal;2;active
 svki;SVK;Slovakia Cesta I. Triedy;lightsalmon;4;active
+svkii;SVK;Slovakia Cesta II. Triedy;yellow;5;active
 svna;SVN;Slovenia Avtocesta;blue;1;active
 svnh;SVN;Slovenia Hitra Cesta;teal;2;active
 svng;SVN;Slovenia Glavne Ceste;lightsalmon;4;active
+svnr;SVN;Slovenia Regionalna Ceste;yellow;5;active
 swer;SWE;Sweden Riksvägar;lightsalmon;4;active
 swel;SWE;Sweden Primära Länsvägar;yellow;5;active
+tjkrb;TJK;Tajikistan РБ Roads;lightsalmon;4;active
 turo;TUR;Turkey Otoyol;blue;1;active
 tuna;TUN;Tunisia Autoroutes;blue;1;active
 twnf;CHN;Taiwan National Freeways;blue;1;active
@@ -156,6 +160,7 @@ usansf;USA;United States Select Numbered State Freeways;teal;3;active
 usasf;USA;United States Select Named Freeways;teal;3;active
 usaus;USA;United States Numbered Highways;red;2;active
 usausb;USA;United States Auxiliary Numbered Highways;magenta;3;active
+usaak;USA;Alaska State Highways;brown;4;active
 usaaz;USA;Arizona State Highways;brown;4;active
 usaco;USA;Colorado State Highways;brown;4;active
 usact;USA;Connecticut State Highways;brown;4;active
@@ -212,9 +217,13 @@ asiahr;ASI;UNESCAP Asian Highways (for review);red;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;red;3;preview
 beln;BEL;Belgium Gewestwegen / Route Nationale;yellow;4;preview
 bihm;BIH;Bosnia and Herzegovina Magistrale;lightsalmon;4;preview
+blzar;BLZ;Belize National Routes;lightsalmon;4;preview
+blzd;BLZ;Belize District Routes;brown;5;preview
+canabs;CAN;Alberta Provincial Highways 500-986;yellow;5;preview
 canmbw;CAN;Winnipeg City Routes;yellow;5;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;brown;4;preview
 canqc;CAN;Québec Provincial Routes;brown;4;preview
+cansk;CAN;Saskatchewan Provincial Highways 1-399;brown;4;preview
 chng;CHN;China National Expressways;blue;1;preview
 czeii;CZE;Czechia Silnice II. Třídy;yellow;5;preview
 deub;DEU;Germany Bundesstraßen;lightsalmon;4;preview
@@ -223,10 +232,14 @@ deubwl;DEU;Baden-Württemberg Landesstraßen;yellow;5;preview
 deubyst;DEU;Bavaria Staatsstraßen;yellow;5;preview
 deuhhr;DEU;Hamburg Ringstraßen;yellow;5;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
+deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;preview
+deunil;DEU;Lower Saxony Landesstraßen;yellow;5;preview
 deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;preview
 deurpl;DEU;Rhineland-Palatinate Landesstraßen;yellow;5;preview
+deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;preview
 deusll;DEU;Saarland Landesstraßen 1. Ordnung;yellow;5;preview
-engb;GBR;Great Britain B Roads (Southeastern England);yellow;5;preview
+deusns;DEU;Saxony Staatsstraßen;yellow;5;preview
+deustl;DEU;Saxony-Anhalt Landesstraßen;yellow;5;preview
 espan;ESP;Andalusia Red Básica;yellow;5;preview
 espar;ESP;Aragon Red Básica;yellow;5;preview
 espas;ESP;Asturias Red Regional;yellow;5;preview
@@ -243,52 +256,47 @@ espnc;ESP;Navarre Carreteras de Interés de la Comunidad Foral;yellow;5;preview
 esppv;ESP;Basque Country Oinarrizko Sarea;yellow;5;preview
 espri;ESP;La Rioja Red Regional Básica;yellow;5;preview
 espvc;ESP;Valencian Community Red Básica;yellow;5;preview
-frolv;DNK;Faroe Islands Routes;lightsalmon;4;preview
+gbnb;GBR;Great Britain B Roads;yellow;5;preview
 gbrtr;GBR;UK Tourist and Scenic Routes;brown;5;preview
+imnb;IMN;Isle of Man B Roads;yellow;5;preview
 index;IND;India National Expressways;blue;1;preview
 islf;ISL;Iceland Fjallvegir;yellow;5;preview
 itass;ITA;Italy Strade Statale;lightsalmon;4;preview
 jama;JAM;Jamaica A Roads;brown;4;preview
+jeyb;JEY;Jersey B Roads;yellow;5;preview
 jpne;JPN;Japan Expressways;blue;1;preview
 lkaa;LKA;Sri Lanka A Roads;lightsalmon;4;preview
+nirb;GBR;Northern Ireland B Roads;yellow;5;preview
 nplh;NPL;Nepal Highways;lightsalmon;4;preview
 norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
+nzlsh;NZL;New Zealand State Highways;lightsalmon;4;preview
 phle;PHL;Philippines Expressways;blue;1;preview
 poldw1;POL;Poland Droga Wojewódzka 100-199;yellow;5;preview
-sctb;GBR;Great Britain B Roads (Scotland & Northern England);yellow;5;preview
-svkii;SVK;Slovakia Cesta II. Triedy;yellow;5;preview
-svnr;SVN;Slovenia Regionalna Ceste;yellow;5;preview
-usaak;USA;Alaska State Highways;brown;4;preview
+rusa;RUS;Russia Access Roads;lightsalmon;4;preview
+usaar;USA;Arkansas State Highways;brown;4;preview
 usaca;USA;California State Highways;brown;4;preview
 usaga;USA;Georgia State Highways;brown;4;preview
 usafl;USA;Florida State Highways;brown;4;preview
+usala;USA;Louisiana State Highways;brown;4;preview
 usanp;USA;United States Select National Park Highways;brown;4;preview
+usanyp;USA;New York Parkways;teal;2;preview
 usapr;USA;Puerto Rico Territorial Highways;brown;4;preview
 usasc;USA;South Carolina State Highways;brown;4;preview
 zafn;ZAF;South Africa National Highways;lightsalmon;4;preview
 usaush;USA;United States Historic Highways;brown;4;preview
 #Devel Systems
+argrn;ARG;Argentina Rutas Nacionales;lightsalmon;4;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
 #bihm2;BIH;Bosnia and Herzegovina Magistrale (new);lightsalmon;4;devel
-canabs;CAN;Alberta Provincial Highways 500-986;yellow;5;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
-cansk;CAN;Saskatchewan Provincial Highways;brown;4;devel
-#deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;devel
-deunil;DEU;Lower Saxony Landesstraßen;yellow;5;devel
-#deusns;DEU;Saxony Staatsstraßen;yellow;5;devel
-#deustl;DEU;Saxony-Anhalt Landesstraßen;yellow;5;devel
-#deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;devel
 deuthl;DEU;Thuringia Landesstraßen;yellow;5;devel
 #espga;ESP;Galicia Red Primaria Básica;yellow;5;devel
-#gbrb;GBR;Great Britain B Roads;yellow;5;devel
-#wlsb;GBR;Great Britain B Roads (Wales & Central England);yellow;5;devel
 grceo;GRC;Greece Ethniki Odos;lightsalmon;4;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 namb;NAM;Namibia B Roads;lightsalmon;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
-nzlsh;NZL;New Zealand State Highways;lightsalmon;4;devel
 #poldw2;POL;Poland Droga Wojewódzka 200-299;yellow;5;devel
 #poldw3;POL;Poland Droga Wojewódzka 300-399;yellow;5;devel
 #poldw4;POL;Poland Droga Wojewódzka 400-499;yellow;5;devel
@@ -298,7 +306,5 @@ nzlsh;NZL;New Zealand State Highways;lightsalmon;4;devel
 #poldw8;POL;Poland Droga Wojewódzka 800-899;yellow;5;devel
 #poldw9;POL;Poland Droga Wojewódzka 900-999;yellow;5;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
-rusa;RUS;Russia Access Roads;lightsalmon;4;devel
+turd;TUR;Turkey Devlet Yolları;lightsalmon;4;devel
 usaas;USA;American Samoa Territorial Highways;brown;4;devel
-usala1;USA;Louisiana State Highways 1-499;brown;4;devel
-usanyp;USA;New York Parkways;teal;2;devel
