@@ -7,4 +7,4 @@
 
 
 **NOTES TO ROUTES:**
-- 
+- To be checked if new roads are opened: https://www.skyscrapercity.com/showpost.php?p=149164679&postcount=1625 (June 2018)

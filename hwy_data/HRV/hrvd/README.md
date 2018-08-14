@@ -20,3 +20,4 @@
 - `D431` is 400m only, exact location unknown
 - `D537` extension is u/c (to be opened Mid 2017)
 - `D538` extension is u/c (to be opened Mid 2017)
+- `D126`/`D315` routing in Trogir after completion of Novi Ciovski most bridge?

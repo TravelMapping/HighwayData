@@ -11,6 +11,7 @@
 **NOTES TO ROUTES:**
 - `L378`, `L379`, `L384` and `B464` in Reutlingen changed in early 2018?
 - `L575` is signed `K2879`, not drafted
+- `L599` Brühl/Ketsch/Hockenheim?
 - `L602` Huttenheim - Rußheim u/c (to be opened late 2019)
 - `L1106` Nordhausen bypass u/c
 - `L1183` Darmsheim bypass u/c
