@@ -16,6 +16,7 @@ deub;B2;;Hof;deuth.b002gef,deuby.b002hof
 deub;B2;;Bayreuth;deuby.b002bay
 deub;B2;;Augsburg;deuby.b002
 deub;B2;;Weilheim;deuby.b002wei
+deub;B2;;Zedtwitz;deuby.b002zed
 deub;B2n;;;deust.b002n
 deub;B2R;;;deuby.b002r
 deub;B3;;Buchholz;deuni.b003buc
@@ -34,7 +35,7 @@ deub;B4;;Nürnberg;deuby.b004nur
 deub;B4R;;;deuby.b004r
 deub;B5;;Husum;deush.b005
 deub;B5;;Hamburg;deuhh.b005
-deub;B5;;Lauenburg;deush.b005lau,deumv.b005,deubb.b005gro
+deub;B5;;Lauenburg;deush.b005lau,deumv.b005
 deub;B5;;Garlin;deubb.b005gar
 deub;B5;;Berlin;deubb.b005,deube.b005,deubb.b005mun
 deub;B6;;Bremerhaven;deuhb.b006bhv,deuni.b006lox
@@ -74,6 +75,7 @@ deub;B9;;Speyer;deurp.b009spe
 deub;B10;;Lebach;deusl.b010
 deub;B10;;Pirmasens;deurp.b010
 deub;B10;;Stuttgart;deurp.b010wor,deubw.b010,deuby.b010
+deub;B10;;Gingen;deubw.b010gin
 deub;B11;;Regen;deuby.b011reg
 deub;B11;;Landshut;deuby.b011lan
 deub;B11;;Wolfratshausen;deuby.b011
@@ -96,6 +98,7 @@ deub;B14;;Ansbach;deuby.b014ans
 deub;B14;;Lauf an der Pegnitz;deuby.b014
 deub;B15;;Hof;deuby.b015hof
 deub;B15;;Tirschenreuth;deuby.b015tir
+deub;B15;;Altenstadt;deuby.b015alt
 deub;B15;;Landshut;deuby.b015
 deub;B15a;;;deuby.b015a
 deub;B15n;;;deuby.b015n
@@ -110,7 +113,8 @@ deub;B19;;Würzburg;deuby.b019wur
 deub;B19;;Schwäbisch Hall;deubw.b019
 deub;B19;;Sonthofen;deuby.b019
 deub;B20;;;deuby.b020
-deub;B21;;;deuby.b021
+deub;B21;;(Main);deuby.b021
+deub;B21;;Schwarzbach;deuby.b021sch
 deub;B22;;Bamberg;deuby.b022bam
 deub;B22;;Weiden;deuby.b022
 deub;B22;AST;Bamberg;deuby.b022ast
@@ -128,10 +132,13 @@ deub;B27;;Jestetten;deubw.b027jes
 deub;B27a;;Kornwestheim;deubw.b027a
 deub;B27a;;Stuttgart;deubw.b027astu
 deub;B28;;Freudenstadt;deubw.b028
+deub;B28;;Kehl;deubw.b028keh
+deub;B28;;Kork;deubw.b028kor
 deub;B28;;Reutlingen;deubw.b028reu,deuby.b028
 deub;B29;;;deubw.b029,deuby.b029
 deub;B30;;;deuby.b030,deubw.b030
 deub;B31;;Freiburg;deubw.b031
+deub;B31;;Überlingen;deubw.b031ube
 deub;B31;;Friedrichshafen;deubw.b031fri,deuby.b031
 deub;B31a;;;deubw.b031a
 deub;B31n;;;deubw.b031n
@@ -151,6 +158,7 @@ deub;B34;AST;Waldshut;deubw.b034ast
 deub;B35;;;deurp.b035,deubw.b035
 deub;B35a;;;deubw.b035a
 deub;B36;;Mannheim;deubw.b036man
+deub;B36;;Mannheim-Oststadt;deubw.b036ost
 deub;B36;;Karlsruhe;deubw.b036
 deub;B37;;Kaiserslautern;deurp.b037
 deub;B37;;Mannheim;deurp.b037lud,deubw.b037man
@@ -636,7 +644,8 @@ deub;B461;;;deuni.b461
 deub;B462;;;deubw.b462
 deub;B463;;Calw;deubw.b463
 deub;B463;;Balingen;deubw.b463bal
-deub;B464;;;deubw.b464
+deub;B464;;Sindelfingen;deubw.b464
+deub;B464;;Reutlingen;deubw.b464reu
 deub;B465;;;deubw.b465
 deub;B466;;(Main);deubw.b466,deuby.b466
 deub;B466;;Donzdorf;deubw.b466don
