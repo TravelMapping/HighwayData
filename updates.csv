@@ -427,6 +427,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2018-08-24;(Germany) North Rhine-Westphalia;A448 (Witten);deunw.a448wit;Route extended at west end from exit 8a to exit 7a
 2018-06-30;(Germany) North Rhine-Westphalia;A44 (Aachen);deunw.a044aac;Route extended at north end from exit 10 to exit 13
 2018-06-30;(Germany) North Rhine-Westphalia;A44 (Hackhausen);;Route merged into A44 (Aachen)
 2018-04-14;(Germany) North Rhine-Westphalia;A44 (Velbert);deunw.a044vel;Route extended at west end from exit 36 to exit 35
@@ -2111,16 +2112,18 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
-2018-08-19;(USA) Nevada;US 93 Business (Wendover);;Route Deleted
-2018-08-09;(USA) Nevada;I-11;nv.i011;Extended route to Arizona border.
-2018-08-09;(USA) Nevada;US 93;nv.us093;Amended route to new I-11 alignment.
-2018-08-09;(USA) Nevada;US 95;nv.us095;Amended route to new I-11 alignment.
+2018-08-23;(USA) Nevada;NV 172;nv.nv172;Truncated west end from I-11 exit 14 to I-11 exit 2
+2018-08-23;(USA) Nevada;US 93 Truck (Laughlin);nv.us093trklau;Truncated north end from Boulder City Parkway to I-11 exit 14
+2018-08-23;(USA) Nevada;I-11 Future (Hoover Dam);(NONE);Deleted route (folded into I-11)
+2018-08-19;(USA) Nevada;US 93 Business (Wendover);(NONE);Route Deleted
+2018-08-09;(USA) Nevada;I-11;nv.i011;Extended route south to Arizona border
+2018-08-09;(USA) Nevada;US 93;nv.us093;Relocated from Boulder City Parkway to new I-11 freeway, between exits 2 and 15B
+2018-08-09;(USA) Nevada;US 95;nv.us095;Relocated from Old US 95 and part of Boulder City Parkway, to I-11 freeway between exits 14 and 15B
 2018-08-09;(USA) Nevada;US 93 Business (Boulder City);nv.us093busbou;New route
-2018-08-09;(USA) Nevada;NV 172;nv.nv172;Amended route to old US 95 alignment.
-2015-08-03;(USA) Nevada;I-11 Future (Hoover Dam);nv.i011futhoo;Deleted route.
+2018-08-09;(USA) Nevada;NV 172;nv.nv172;Amended route to old US 95 alignment
 2017-10-08;(USA) Nevada;I-11;nv.i011;New route
 2017-10-08;(USA) Nevada;I-515;nv.i515;Truncated route to Exit 61 per I-11 designation
-2017-10-08;(USA) Nevada;I-11 Future (Henderson);;Deleted route
+2017-10-08;(USA) Nevada;I-11 Future (Henderson);(NONE);Deleted route
 2017-09-26;(USA) Nevada;NV 439;nv.nv439;Extended to US 50.
 2017-09-04;(USA) Nevada;I-580;nv.i580;extended at south end from exit 38 to US50/395 junction
 2017-09-04;(USA) Nevada;US 50;nv.us050;rerouted onto I-580 from Stewart St and Fairview Lane between exit 38 and south end of interstate
@@ -2193,6 +2196,7 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2018-08-24;(USA) North Carolina;US 70 Business (Beaufort);nc.us070busbea;New route, note the westernmost segment along Turner St was not mainline US 70 prior
 2018-06-23;(USA) North Carolina;US 70;nc.us070;Moved onto new bypass around Beaufort with Radio Island Rd and Live Oak St as the boundary points
 2018-05-05;(USA) North Carolina;I-840 Future (West Greensboro);;Deleted route - redesignated as I-840
 2018-05-05;(USA) North Carolina;I-840;nc.i840;Route added, replacing I-840FutWGr
@@ -2328,6 +2332,7 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2018-08-24;(USA) South Carolina;I-385 Business (Greenville);;Route deleted
 2018-03-08;(USA) South Carolina;SC 34 Truck (Camden);sc.sc034trkcam;Route added
 2018-03-08;(USA) South Carolina;US 1 Truck (Camden);sc.us001trkcam;Route added
 2018-03-08;(USA) South Carolina;US 521 Truck (E Camden);sc.us521trkeca;Route added
@@ -2434,7 +2439,7 @@ date;region;route;root;description
 2018-08-20;(USA) Utah;UT 103;ut.ut103;Route truncated at east end from M Street to I-15
 2018-08-19;(USA) Utah;US 93 Business (Wendover);;Route Deleted
 2018-08-18;(USA) Utah;UT 92;ut.ut092;Route extended at west end from I-15 to Ashton Boulevard
-2018-08-18;(USA) Utah;UT 190;ut.190;Route extended at east end from Brighton Resort to Guardsman Pass
+2018-08-18;(USA) Utah;UT 190;ut.ut190;Route extended at east end from Brighton Resort to Guardsman Pass
 2018-08-15;(USA) Utah;UT 34;ut.ut034;Route extended at east end from I-15 to River Road
 2018-08-15;(USA) Utah;UT 151;ut.ut151;Route truncated at east end from US 89 to I-15
 2018-08-11;(USA) Utah;I-84BL (Brigham City);;Route Deleted
