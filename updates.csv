@@ -1,4 +1,4 @@
-﻿date;region;route;root;description
+date;region;route;root;description
 2018-05-15;Albania;SH93;alb.sh093;New Route
 2016-03-12;Albania;A1 (Thumane);alb.a001thu;New Route
 2016-03-12;Albania;A3;;Route Deleted
@@ -92,6 +92,7 @@
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and relocated onto A4 between the former junction between the A3 and N8 east of Generalovo (labeled *N8_GenE) and the junction between the A4 and N8 next to the Turkish border
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
 2015-07-22;Bulgaria;E85;bgr.e85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
+2015-08-22;(Canada) Alberta;AB 58;ab.ab058;Removed from 98 Avenue and relocated onto AB35 and a northeastern bypass, between western & eastern closed intersections with 98 Avenue.
 2015-08-13;(Canada) British Columbia;TCH 1 Business (Chase BC);bc.tchbuscha;New route
 2018-03-28;(Canada) Manitoba;MB 17;mb.mb017;North end extended from 150 N to MB 224
 2018-04-04;(Canada) New Brunswick;NB 11;nb.nb011;South end removed from a demolished four-lane divided highway and NB 132 between a point south of Exit 2 (labelled *OldNB11) and Exit 31 of NB 15, and relocated onto a four-lane divided bypass connecting to NB 15 at a high-speed directional interchange about 1 km west of existing Exit 31.
@@ -408,6 +409,7 @@
 2018-01-14;(Germany) Bremen;Autobahnzubringer Bremen-Arsten;deuhb.autzubars;New Route
 2016-09-04;(Germany) Bremen;Autobahnzubringer Bremen-Hemelingen;deuhb.autzubhem;New Route
 2015-09-10;(Germany) Bremen;A281;deuhb.a281;Route extended at northern end from exit 4 to exit 3
+2018-08-22;(Germany) Hesse;E44;deuhe.e44;Route relocated from through Heckholzhausen and onto new B49 bypass between Heckholzhausen-West and Heckholzhausen-East
 2018-04-14;(Germany) Hesse;A44 (Hessisch Lichtenau);deuhe.a044hes;Route extended at east end from exit 78 to exit 79
 2017-06-15;(Germany) Hesse;Autobahnzubringer Erlensee;deuhe.k854;New Route
 2015-09-15;(Germany) Hesse;A44 (Hessisch Lichtenau);deuhe.a044hes;Route extended at west end from exit 77 to exit 76
@@ -425,6 +427,7 @@
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2018-08-24;(Germany) North Rhine-Westphalia;A448 (Witten);deunw.a448wit;Route extended at west end from exit 8a to exit 7a
 2018-06-30;(Germany) North Rhine-Westphalia;A44 (Aachen);deunw.a044aac;Route extended at north end from exit 10 to exit 13
 2018-06-30;(Germany) North Rhine-Westphalia;A44 (Hackhausen);;Route merged into A44 (Aachen)
 2018-04-14;(Germany) North Rhine-Westphalia;A44 (Velbert);deunw.a044vel;Route extended at west end from exit 36 to exit 35
@@ -927,6 +930,8 @@
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route 
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2018-08-23;Poland;S12;pol.s012;Route extended at west end from DK17 to DW738
+2018-08-23;Poland;DK12;pol.dk012;Route truncated at east end from S12/S17 at Jastkow to DW738
 2018-08-14;Poland;DK80;pol.dk080;Route removed from Ulica Toronska and Ulica Fordonska and relocated onto Ulica Artyleryjska and Ulica Kamienna between DK25 and Ulica Fordonska
 2018-07-20;Poland;S8 (Zambrów);pol.s008zam;Route extended at west end from Prosienica to the DK50
 2018-07-20;Poland;S8 (Ostrów Mazowiecka);pol.s008zam;Route merged into Zambrów section
@@ -2107,12 +2112,15 @@
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
-2018-08-09;(USA) Nevada;I-11;nv.i011;Extended route to Arizona border.
-2018-08-09;(USA) Nevada;US 93;nv.us093;Amended route to new I-11 alignment.
-2018-08-09;(USA) Nevada;US 95;nv.us095;Amended route to new I-11 alignment.
+2018-08-23;(USA) Nevada;NV 172;nv.nv172;Truncated west end from I-11 exit 14 to I-11 exit 2
+2018-08-23;(USA) Nevada;US 93 Truck (Laughlin);nv.us093trklau;Truncated north end from Boulder City Parkway to I-11 exit 14
+2018-08-23;(USA) Nevada;I-11 Future (Hoover Dam);;Deleted route (folded into I-11)
+2018-08-19;(USA) Nevada;US 93 Business (Wendover);;Route Deleted
+2018-08-09;(USA) Nevada;I-11;nv.i011;Extended route south to Arizona border
+2018-08-09;(USA) Nevada;US 93;nv.us093;Relocated from Boulder City Parkway to new I-11 freeway, between exits 2 and 15B
+2018-08-09;(USA) Nevada;US 95;nv.us095;Relocated from Old US 95 and part of Boulder City Parkway, to I-11 freeway between exits 14 and 15B
 2018-08-09;(USA) Nevada;US 93 Business (Boulder City);nv.us093busbou;New route
-2018-08-09;(USA) Nevada;NV 172;nv.nv172;Amended route to old US 95 alignment.
-2015-08-03;(USA) Nevada;I-11 Future (Hoover Dam);nv.i011futhoo;Deleted route.
+2018-08-09;(USA) Nevada;NV 172;nv.nv172;Amended route to old US 95 alignment
 2017-10-08;(USA) Nevada;I-11;nv.i011;New route
 2017-10-08;(USA) Nevada;I-515;nv.i515;Truncated route to Exit 61 per I-11 designation
 2017-10-08;(USA) Nevada;I-11 Future (Henderson);;Deleted route
@@ -2148,6 +2156,7 @@
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2018-08-22;(USA) New York;LaSalle Expressway;ny.lasexpy;Route added
 2018-07-21;(USA) New York;NY 85;ny.ny085;West end extended from CR 351 to CR 353.
 2018-06-26;(USA) New York;NY 266;ny.ny.ny266;South end truncated from NY 5 to I-190 Exit 8.
 2018-06-25;(USA) New York;Bronx River Parkway;ny.brorivpkwy;North end truncated from NY 22 to Taconic State Parkway.
@@ -2187,6 +2196,7 @@
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2018-08-24;(USA) North Carolina;US 70 Business (Beaufort);nc.us070busbea;New route, note the westernmost segment along Turner St was not mainline US 70 prior
 2018-06-23;(USA) North Carolina;US 70;nc.us070;Moved onto new bypass around Beaufort with Radio Island Rd and Live Oak St as the boundary points
 2018-05-05;(USA) North Carolina;I-840 Future (West Greensboro);;Deleted route - redesignated as I-840
 2018-05-05;(USA) North Carolina;I-840;nc.i840;Route added, replacing I-840FutWGr
@@ -2298,6 +2308,7 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing. 
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset. 
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond. 
+2018-08-14;(USA) Pennsylvania;PA 10;pa.pa010;Extended south from PA 472 to Market Street.
 2018-08-14;(USA) Pennsylvania;I-476;pa.i476;Relabeled exits 18A -> 19 & 19 -> 20A to correctly match signage in the area.
 2018-06-25;(USA) Pennsylvania;PA 53;pa.pa053;Removed from Maple St and PA 350 and relocated onto Front St and Presqueisle St between East Maple St and PA 350/504.
 2018-06-25;(USA) Pennsylvania;PA 153;pa.pa153;Swapped point labels US322_E and US322_W.
@@ -2321,6 +2332,7 @@
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2018-08-24;(USA) South Carolina;I-385 Business (Greenville);;Route deleted
 2018-03-08;(USA) South Carolina;SC 34 Truck (Camden);sc.sc034trkcam;Route added
 2018-03-08;(USA) South Carolina;US 1 Truck (Camden);sc.us001trkcam;Route added
 2018-03-08;(USA) South Carolina;US 521 Truck (E Camden);sc.us521trkeca;Route added
@@ -2424,6 +2436,10 @@
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2018-08-20;(USA) Utah;UT 103;ut.ut103;Route truncated at east end from M Street to I-15
+2018-08-19;(USA) Utah;US 93 Business (Wendover);;Route Deleted
+2018-08-18;(USA) Utah;UT 92;ut.ut092;Route extended at west end from I-15 to Ashton Boulevard
+2018-08-18;(USA) Utah;UT 190;ut.ut190;Route extended at east end from Brighton Resort to Guardsman Pass
 2018-08-15;(USA) Utah;UT 34;ut.ut034;Route extended at east end from I-15 to River Road
 2018-08-15;(USA) Utah;UT 151;ut.ut151;Route truncated at east end from US 89 to I-15
 2018-08-11;(USA) Utah;I-84BL (Brigham City);;Route Deleted
