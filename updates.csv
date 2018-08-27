@@ -1,4 +1,4 @@
-date;region;route;root;description
+﻿date;region;route;root;description
 2018-05-15;Albania;SH93;alb.sh093;New Route
 2016-03-12;Albania;A1 (Thumane);alb.a001thu;New Route
 2016-03-12;Albania;A3;;Route Deleted
@@ -930,6 +930,7 @@ date;region;route;root;description
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route 
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2018-08-26;Poland;DK75;pol.dk075;Route removed from DK94 and relocated onto A4 between DW963 and western junction with DK94
 2018-08-23;Poland;S12;pol.s012;Route extended at west end from DK17 to DW738
 2018-08-23;Poland;DK12;pol.dk012;Route truncated at east end from S12/S17 at Jastkow to DW738
 2018-08-14;Poland;DK80;pol.dk080;Route removed from Ulica Toronska and Ulica Fordonska and relocated onto Ulica Artyleryjska and Ulica Kamienna between DK25 and Ulica Fordonska
@@ -1903,8 +1904,8 @@ date;region;route;root;description
 2018-06-10;(USA) Kentucky;US 68 Business (Millersburg);ky.us068busmil;Route added
 2018-06-10;(USA) Kentucky;KY 1879;ky.ky1879;Extended at south end to US 68 Business (Millersburg)
 2018-06-10;(USA) Kentucky;KY 1893;ky.ky1893;Extended at east end to US 68 Business (Millersburg)
-2018-05-31;(USA) Kentucky;KY 1051;ky.ky1051;Route deleted (now part of KY 313)
-2018-05-31;(USA) Kentucky;KY 448;ky.ky0079;Truncated at east end to KY 313
+2018-05-31;(USA) Kentucky;KY 1051;;Route deleted (now part of KY 313)
+2018-05-31;(USA) Kentucky;KY 448;ky.ky0448;Truncated at east end to KY 313
 2018-05-31;(USA) Kentucky;KY 313;ky.ky0313;Extended at north end to Indiana state line following former routing of KY 448, KY 1051, and KY 79
 2018-05-31;(USA) Kentucky;KY 79;ky.ky0079;Truncated at north end from Indiana state line to KY 313
 2018-01-12;(USA) Kentucky;US 31E;ky.us031e;Removed from Old Louisville Rd, Salt River Rd, and Kimbly Creek Rd south of Mount Washington and relocated onto new parallel alignment between OldLouRd & KY523_N
@@ -2095,6 +2096,7 @@ date;region;route;root;description
 2015-09-06;(USA) Missouri;US 169 Spur (Smithville);mo.us169sprsmi;Extended route south on Bridge St. from Route F to Church St.
 2015-09-06;(USA) Missouri;US 36 Business (Chillicothe);mo.us036buschi;Relocated from frontage road west of US 65, to US 65 between frontage road and US 36
 2015-09-06;(USA) Missouri;US 36 Spur (Utica);;Deleted route
+2018-08-26;(USA) Montana;SR336;mt.sr336;Route truncated at east end from ND border to Road 616 in Ollie
 2018-07-09;(USA) Montana;SR323;mt.mt323;Route renumbered MT323
 2018-05-15;(USA) Montana;SR375;mt.sr375;New Route
 2018-01-28;(USA) Montana;I-115;mt.i115;Route extended at east end from exit 1 to Clark Street
@@ -2114,8 +2116,8 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
 2018-08-23;(USA) Nevada;NV 172;nv.nv172;Truncated west end from I-11 exit 14 to I-11 exit 2
 2018-08-23;(USA) Nevada;US 93 Truck (Laughlin);nv.us093trklau;Truncated north end from Boulder City Parkway to I-11 exit 14
-2018-08-23;(USA) Nevada;I-11 Future (Hoover Dam);;Deleted route (folded into I-11)
-2018-08-19;(USA) Nevada;US 93 Business (Wendover);;Route Deleted
+2018-08-23;(USA) Nevada;I-11 Future (Hoover Dam);(NONE);Deleted route (folded into I-11)
+2018-08-19;(USA) Nevada;US 93 Business (Wendover);(NONE);Route Deleted
 2018-08-09;(USA) Nevada;I-11;nv.i011;Extended route south to Arizona border
 2018-08-09;(USA) Nevada;US 93;nv.us093;Relocated from Boulder City Parkway to new I-11 freeway, between exits 2 and 15B
 2018-08-09;(USA) Nevada;US 95;nv.us095;Relocated from Old US 95 and part of Boulder City Parkway, to I-11 freeway between exits 14 and 15B
@@ -2123,7 +2125,7 @@ date;region;route;root;description
 2018-08-09;(USA) Nevada;NV 172;nv.nv172;Amended route to old US 95 alignment
 2017-10-08;(USA) Nevada;I-11;nv.i011;New route
 2017-10-08;(USA) Nevada;I-515;nv.i515;Truncated route to Exit 61 per I-11 designation
-2017-10-08;(USA) Nevada;I-11 Future (Henderson);;Deleted route
+2017-10-08;(USA) Nevada;I-11 Future (Henderson);(NONE);Deleted route
 2017-09-26;(USA) Nevada;NV 439;nv.nv439;Extended to US 50.
 2017-09-04;(USA) Nevada;I-580;nv.i580;extended at south end from exit 38 to US50/395 junction
 2017-09-04;(USA) Nevada;US 50;nv.us050;rerouted onto I-580 from Stewart St and Fairview Lane between exit 38 and south end of interstate
@@ -2308,6 +2310,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing. 
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset. 
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond. 
+2018-08-26;(USA) Pennsylvania;PA 27;pa.pa027;Extended west of Park Ave to US 6/US 19 in Meadville via North St, Market St, Terrace St, and Reynolds Ave.
 2018-08-14;(USA) Pennsylvania;PA 10;pa.pa010;Extended south from PA 472 to Market Street.
 2018-08-14;(USA) Pennsylvania;I-476;pa.i476;Relabeled exits 18A -> 19 & 19 -> 20A to correctly match signage in the area.
 2018-06-25;(USA) Pennsylvania;PA 53;pa.pa053;Removed from Maple St and PA 350 and relocated onto Front St and Presqueisle St between East Maple St and PA 350/504.
