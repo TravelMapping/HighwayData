@@ -866,6 +866,7 @@
 2015-07-28;Netherlands;A261;;Route deleted
 2015-07-28;Netherlands;A4 (Bergen op Zoom);nld.a004ber;Route extended at north end from N259 to A29/A59, including Dinteloord section
 2015-07-28;Netherlands;A4 (Dintleloord);;Route merged with Bergen op Zoom section
+2018-09-03;Norway;E39 (Bergen);nor.e39ber;Route removed from Steinestovegen and relocated onto Eikastunnelen between eastern junction with the E16 and western junction with Steinestovegen
 2017-09-28;Norway;Oslo - Kristiansand Motorvei (Oslo);nor.oslokrimot;Route extended at west end from exit 45 to exit 48
 2017-12-07;Norway;E45;nor.e45;New Route
 2017-12-07;Norway;E134;nor.e134;Route extended at east end from E18 exit 25 to the E6
@@ -1704,7 +1705,10 @@
 2015-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
-2018-07-09;(UK) Scotland;A90 (Dyce spur);sct.a0090dyc;New Route
+2018-09-03;(UK) Scotland;A90 (Dundee);sct.a0090;Route truncated at north end from A98 to northern junction with A92 at Stonehaven
+2018-09-03;(UK) Scotland;A90 (Dyce spur / Peterhead);sct.a0090pet;Route renamed as Peterhead section and extended at north end from A92 (formerly A90) at Blackdog to A98
+2018-09-03;(UK) Scotland;A90;sct.a0092;Route extended at north end (along former A90) from A90 at Stonehaven to A90 at Blackdog
+2018-07-09;(UK) Scotland;A90 (Dyce spur);sct.a0090pet;New Route
 2018-01-03;(UK) Scotland;A8082;sct.a8082;Route extended at east end from B861 to A9
 2017-12-11;(UK) Scotland;A8082;sct.a8082;New Route
 2017-12-11;(UK) Scotland;A8082 (Torvean);sct.a8082tor;New Route
@@ -1839,6 +1843,8 @@
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2018-09-05;(USA) Illinois;IL 3;il.il003;Removed from one block of Holmes Street and one block of State Street and moved onto one block of Swanwick Street and one block of Stacy Street in Chester
+2018-09-05;(USA) Illinois;IL 150;il.il150;Relocated IL3_N point one block to Stacy Street. Old point now HolSt
 2018-05-31;(USA) Illinois;IL 110;il.il110;Extended along Macomb bypass from US 136 to US 67
 2018-05-31;(USA) Illinois;IL 336;il.il336;Extended along Macomb bypass from US 136 to US 67
 2018-03-23;(USA) Illinois;IL 15;il.il015;Removed from Missouri Avenue west of 9th/10th Streets and moved onto 9th/10th Streets, Broadway, and Main Street/Barack Obama Avenue to I-55
@@ -2093,11 +2099,14 @@
 2018-08-03;(USA) Minnesota;MN 275;;Deleted route
 2018-08-29;(USA) Minnesota;MN 62;mn.mn062;Route extended east to I-494 along the former MN 110
 2018-08-29;(USA) Minnesota;MN 110;;Deleted route due to extension of MN 62
+2018-09-03;(USA) Minnesota;MN 101;mn.mn101ch2;Created separate MN 101 list in Chanhassen due to recent truncations resulting in a non-continuous route
+2018-09-02;(USA) Minnesota;US 169 Business (Shakopee);mn.us169bussha;Created route
 2018-05-05;(USA) Mississippi;I-269;ms.i269;Extended west to MS 305/Exit 9
 2018-04-11;(USA) Mississippi;US 278;ms.us278;Relocated onto Corridor V through southern Tupelo
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2018-09-09;(USA) Missouri;MO 177;mo.mo177;Removed from Morgan Oak Street, Spanish Street, Main Street, and Big Bend Road and moved onto Sprigg Street and Lexington Avenue from near MO 34/74 to north side of Cape Girardeau
 2018-06-28;(USA) Missouri;US 67 Business (Fredericktown);mo.us067busfre;Moved south end of Business US 67 down Murry Mill Road to intersect US 67 at former MOsA_Mad
 2018-03-21;(USA) Missouri;MO 121;mo.mo121;Rerouted from entrance of Wallace State Park into park, instead of along MOsHH
 2016-11-18;(USA) Missouri;MO 138;mo.mo138;Corrected west endpoint
@@ -2327,7 +2336,9 @@
 2017-09-06;(USA) Oregon;US 30 Business (Huntington);us.or030bushun;Added route.
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing. 
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset. 
-2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond. 
+2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2018-09-06;(USA) Pennsylvania;PA 23 Alternate Truck (King of Prussia);pa.pa023alttrkkop.wpt; Route added
+2018-09-06;(USA) Pennsylvania;PA 160 Truck (Wilmore);pa.pa160trkwil.wpt; Route added
 2018-08-26;(USA) Pennsylvania;PA 27;pa.pa027;Extended west of Park Ave to US 6/US 19 in Meadville via North St, Market St, Terrace St, and Reynolds Ave.
 2018-08-14;(USA) Pennsylvania;PA 10;pa.pa010;Extended south from PA 472 to Market Street.
 2018-08-14;(USA) Pennsylvania;I-476;pa.i476;Relabeled exits 18A -> 19 & 19 -> 20A to correctly match signage in the area.
