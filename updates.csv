@@ -833,6 +833,9 @@
 2018-08-13;Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
 2018-01-05;Montenegro;Magistralni Put;mnem;Re-entered all routes
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
+2018-09-09;Netherlands;N307;nld.n307;Route extended at west end from truncated at west end from A6 to N506 junction at Enkhuizen
+2018-09-09;Netherlands;N302 (Harderwijk);nld.n302;Route truncated at west end from A6 to N506 junction at Enkhuizen, route signed N307 now
+2018-09-09;Netherlands;N302 (Hoorn);nld.n302hoo;Remainder from A7 to N506 junction at Enkhuizen due to N307 renumbering
 2018-07-17;Netherlands;N194;nld.n194;New route
 2018-07-17;Netherlands;N507;;Deleted route, partially N194 now
 2018-07-17;Netherlands;N243;nld.n243;Route truncated at east end from N247 to former N507, N194 now
@@ -1843,6 +1846,8 @@
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2018-09-10;(USA) Illinois;IL 83;il.i083;Removed from Cal Sag Road between 127th Street and IL 50 and moved onto 127th Street and IL 50
+2018-09-10;(USA) Illinois;IL 50;il.il050;Moved IL83_N to 127th Street (old point now CalSagRd)
 2018-09-05;(USA) Illinois;IL 3;il.il003;Removed from one block of Holmes Street and one block of State Street and moved onto one block of Swanwick Street and one block of Stacy Street in Chester
 2018-09-05;(USA) Illinois;IL 150;il.il150;Relocated IL3_N point one block to Stacy Street. Old point now HolSt
 2018-05-31;(USA) Illinois;IL 110;il.il110;Extended along Macomb bypass from US 136 to US 67
@@ -1915,6 +1920,12 @@
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2018-09-09;(USA) Kentucky;I-69 Future (Mayfield, KY);ky.i069fut;Truncated at north end to Exit 21
+2018-09-08;(USA) Kentucky;KY 3536;ky.ky3536;Route added along former route of KY 30
+2018-09-08;(USA) Kentucky;Purchase Pkwy;ky.purpkwy;Truncated at north end to Exit 21
+2018-09-08;(USA) Kentucky;I-69;ky.i069;Extended at south end to Exit 21 along former route of Purchase Pkwy
+2018-09-08;(USA) Kentucky;KY 1523;ky.ky1523;Extended at east end to I-24/69 along former route of Purchase Pkwy
+2018-09-08;(USA) Kentucky;US 45 Bypass (Mayfield, KY);;Route deleted
 2018-09-03;(USA) Kentucky;KY 8;ky.ky0008;Removed from route along Ohio River (now KY 8 Business Bellevue, KY 6335, and part of KY 445) and relocated onto US27 between US27/8Bus & KY445_S
 2018-09-03;(USA) Kentucky;KY 8 Business (Bellevue);ky.ky0008busbel;Route added along former route of KY 8 through Bellevue and Dayton
 2018-09-03;(USA) Kentucky;KY 445;ky.ky0445;Extended at south end to new junction with KY 8 following former route of KY 8
@@ -2106,6 +2117,7 @@
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2018-09-09;(USA) Missouri;MO 177;mo.mo177;Removed from Morgan Oak Street, Spanish Street, Main Street, and Big Bend Road and moved onto Sprigg Street and Lexington Avenue from near MO 34/74 to north side of Cape Girardeau
 2018-06-28;(USA) Missouri;US 67 Business (Fredericktown);mo.us067busfre;Moved south end of Business US 67 down Murry Mill Road to intersect US 67 at former MOsA_Mad
 2018-03-21;(USA) Missouri;MO 121;mo.mo121;Rerouted from entrance of Wallace State Park into park, instead of along MOsHH
 2016-11-18;(USA) Missouri;MO 138;mo.mo138;Corrected west endpoint
@@ -2184,6 +2196,8 @@
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2018-09-09;(USA) New York;PA 434 (Barryville);ny.pa434bar;Route added
+2018-09-09;(USA) New York;PA 44 (Ceres);ny.pa044cer;Route added
 2018-08-22;(USA) New York;LaSalle Expressway;ny.lasexpy;Route added
 2018-07-21;(USA) New York;NY 85;ny.ny085;West end extended from CR 351 to CR 353.
 2018-06-26;(USA) New York;NY 266;ny.ny.ny266;South end truncated from NY 5 to I-190 Exit 8.
@@ -2291,6 +2305,8 @@
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2018-09-09;(USA) Ohio;OH 269;oh.oh269;Removed from Castalia St, Northwest St, and Southwest St and relocated onto Sandusky St between Southwest St and Robert Ave
+2018-09-09;(USA) Ohio;US 20;oh.us020;OH269 point moved from Northwest St/Southwest St to Sandusky St
 2017-04-03;(USA) Ohio;I-480 (Warrensville Heights);oh.i480war;Route added
 2017-04-03;(USA) Ohio;OH 67 Truck (Kenton);oh.oh067trkken;Route added
 2017-04-03;(USA) Ohio;OH 31 Truck (Kenton);oh.oh031trkken;Route added
@@ -2335,7 +2351,10 @@
 2017-09-06;(USA) Oregon;US 30 Business (Huntington);us.or030bushun;Added route.
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing. 
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset. 
-2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond. 
+2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2018-09-09;(USA) Pennsylvania;US 202 Alternate Truck (North Wales);pa.us202alttrknor; Route added
+2018-09-06;(USA) Pennsylvania;PA 23 Alternate Truck (King of Prussia);pa.pa023alttrkkop; Route added
+2018-09-06;(USA) Pennsylvania;PA 160 Truck (Wilmore);pa.pa160trkwil; Route added
 2018-08-26;(USA) Pennsylvania;PA 27;pa.pa027;Extended west of Park Ave to US 6/US 19 in Meadville via North St, Market St, Terrace St, and Reynolds Ave.
 2018-08-14;(USA) Pennsylvania;PA 10;pa.pa010;Extended south from PA 472 to Market Street.
 2018-08-14;(USA) Pennsylvania;I-476;pa.i476;Relabeled exits 18A -> 19 & 19 -> 20A to correctly match signage in the area.
