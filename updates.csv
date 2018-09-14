@@ -831,6 +831,7 @@
 2018-08-13;Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2018-09-13;(Mexico) Estado de Mexico;MEX 15D;mexemex.mex015d;East end extended from MEX 55 to MEX 40D.
 2018-01-05;Montenegro;Magistralni Put;mnem;Re-entered all routes
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
 2018-09-09;Netherlands;N307;nld.n307;Route extended at west end from truncated at west end from A6 to N506 junction at Enkhuizen
@@ -938,6 +939,10 @@
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route 
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2018-09-12;Poland;S7 (Tokarnia);pol.s007tok;New Route
+2018-09-12;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7 between DW763 and Brzegi
+2018-09-12;Poland;DK7 (Brzegi);pol.dk007brz;New Route
+2018-09-12;Poland;DK7 (Checiny);pol.dk007che;Route truncated at south end from western DK78 junction to DW763
 2018-08-28;Poland;S3 (Legnica);pol.s003leg;Route extended at north end from DW323 at Chrosnik to DW323 north of Lubin
 2018-08-28;Poland;E65;pol.e65;Route removed from DW323 (former DK3) and onto S3 between Chrosnik and north of Lubin
 2018-08-28;Poland;DK3 (Polkowice);pol.dk003;Route truncated at south end from DW323 at Chrosnik to DW323 north of Lubin
@@ -1192,6 +1197,9 @@
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2018-09-12;Serbia;A1 (Presevo);srb.a001pre;Route extended at north end from the R258 south of Bujanovac to the B44 south of Vladicin Han
+2018-09-12;Serbia;A1 (Vranje);srb.a001pre;Route merged into Presevo section
+2018-09-12;Serbia;E75;srb.e75;Route removed off R258 and relocated onto A1 between A1 exits 59 and 61
 2017-09-18;Serbia;A4 (Bela Palanka);srb.a004bel;Route extended at east end from former junction east of Bela Palanka to Stanicenje
 2017-09-18;Serbia;A4 (Pirot);srb.a004pir;New Route
 2017-09-18;Serbia;E80;srb.e80;Route removed from R259 and located onto A4 between Pirot and Gradinje
@@ -1708,9 +1716,10 @@
 2015-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+2018-09-12;(UK) Scotland;A7071;sct.a7071;New Route
 2018-09-03;(UK) Scotland;A90 (Dundee);sct.a0090;Route truncated at north end from A98 to northern junction with A92 at Stonehaven
 2018-09-03;(UK) Scotland;A90 (Dyce spur / Peterhead);sct.a0090pet;Route renamed as Peterhead section and extended at north end from A92 (formerly A90) at Blackdog to A98
-2018-09-03;(UK) Scotland;A90;sct.a0092;Route extended at north end (along former A90) from A90 at Stonehaven to A90 at Blackdog
+2018-09-03;(UK) Scotland;A92;sct.a0092;Route extended at north end (along former A90) from A90 at Stonehaven to A90 at Blackdog
 2018-07-09;(UK) Scotland;A90 (Dyce spur);sct.a0090pet;New Route
 2018-01-03;(UK) Scotland;A8082;sct.a8082;Route extended at east end from B861 to A9
 2017-12-11;(UK) Scotland;A8082;sct.a8082;New Route
@@ -1846,6 +1855,8 @@
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2018-09-10;(USA) Illinois;IL 83;il.i083;Removed from Cal Sag Road between 127th Street and IL 50 and moved onto 127th Street and IL 50
+2018-09-10;(USA) Illinois;IL 50;il.il050;Moved IL83_N to 127th Street (old point now CalSagRd)
 2018-09-05;(USA) Illinois;IL 3;il.il003;Removed from one block of Holmes Street and one block of State Street and moved onto one block of Swanwick Street and one block of Stacy Street in Chester
 2018-09-05;(USA) Illinois;IL 150;il.il150;Relocated IL3_N point one block to Stacy Street. Old point now HolSt
 2018-05-31;(USA) Illinois;IL 110;il.il110;Extended along Macomb bypass from US 136 to US 67
@@ -2350,6 +2361,7 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing. 
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset. 
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2018-09-15;(USA) Pennsylvania;PA 743 Truck (Hershey);pa.pa743trkher; Route added
 2018-09-09;(USA) Pennsylvania;US 202 Alternate Truck (North Wales);pa.us202alttrknor; Route added
 2018-09-06;(USA) Pennsylvania;PA 23 Alternate Truck (King of Prussia);pa.pa023alttrkkop; Route added
 2018-09-06;(USA) Pennsylvania;PA 160 Truck (Wilmore);pa.pa160trkwil; Route added
@@ -2541,6 +2553,7 @@
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quary Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2018-09-12;(USA) West Virginia;OH 833;wv.oh833;Added route
 2017-11-15;(USA) West Virginia;WV 17 Truck (Stollings);wv.wv017trksto;Added route
 2017-11-03;(USA) West Virginia;WV 10;wv.wv010;Removed from Hanging Rock Road (now CR 210/25) between Logan & Man, and relocated onto a new parallel 4-lane highway to the the south between Hanging Rock Road (HanRockRd_E) in Man, & Stratton Street (StrSt) in Logan.
 2017-10-11;(USA) West Virginia;WV 12;wv.wv012;Corrected ending labels along multiplex with WV 3. Flipped both 'WV3_W' & 'WV3_E' so that they match the correct dirrection WV 3 leaves WV 12 on each side.
