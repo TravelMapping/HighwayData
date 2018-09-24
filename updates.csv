@@ -942,7 +942,7 @@
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
 2018-09-19;Poland;S3 (Szczecin);pol.s003;Route extended at south end from DW297 to exit 43
-2018-09-19;Poland;S8 (Zambrów);pol.s008;Route extended at south end from exit 78 to exit 75
+2018-09-19;Poland;S8 (Zambrów);pol.s008zam;Route extended at south end from exit 78 to exit 75
 2018-09-19;Poland;E65;pol.e65;Route removed from DW333 and relocated onto S3 between S3 exits 38 and 43
 2018-09-19;Poland;DK3 (Polkowice);pol.dk003;Route truncated at north end from DW297 to S3 exit 43
 2018-09-19;Poland;DK8 (Dybki);pol.dk008dyb;Route truncated at north end from DK50 to DW694
@@ -2373,6 +2373,9 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing. 
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset. 
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2018-09-24;(USA) Pennsylvania;I-276;pa.i276;Truncated at its east end to I-95(Exit 40) at newly opened interchange.
+2018-09-24;(USA) Pennsylvania;I-295;pa.i295;Extended into PA onto the former routing of I-95 north of I-276 (PA Turnpike).
+2018-09-24;(USA) Pennsylvania;I-95;pa.i095;Rerouted to follow I-276 (PA Turnpike) from newly opened interchange to the continuation of I-95 at the PA/NJ Line.
 2018-09-20;(USA) Pennsylvania;US 1 Alternate Truck (Philadelphia);pa.us001alttrkphi; Route added
 2018-09-20;(USA) Pennsylvania;PA 743 Truck (Hershey);pa.pa743trkher; Route added
 2018-09-09;(USA) Pennsylvania;US 202 Alternate Truck (North Wales);pa.us202alttrknor; Route added
