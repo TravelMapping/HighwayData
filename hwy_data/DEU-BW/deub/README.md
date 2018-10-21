@@ -10,8 +10,10 @@
 
 
 * ADDITIONAL SOURCES BY STATES:
-- http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=k_vms_detailnetz_wms_spatial@senstadt / https://de.wikipedia.org/wiki/%C3%9Cbergeordnetes_Stra%C3%9Fennetz_von_Berlin#/media/File:Berlin_Stra%C3%9Fenverkehr_Kategorie_I_und_II.png
+- http://www.svz-bw.de/verkehrszaehlung.html
+- http://www.svz-bw.de/info_vm.html
+- https://www.geoportal-bw.de/
 
 
 **NOTES TO ROUTES:**
-- `B109` Schönerlinder Straße, Berlin should be rededicated after renovation completion: http://www.berlin.de/senuvk/bauen/strassenbau/b109/ (to be completed by July 2019, still in mauttabelle.de)
+- BW `B295` Ditzingen - Leonberg is still in mauttabelle.de but it should finally be rededicated on 1st Januar 2019. It's already unsigned for a long time (not in HB)
