@@ -9,4 +9,3 @@
 
 **NOTES TO ROUTES:**
 - New L50 route south of Bernburg?
-- L63 Brumby bypass u/c
