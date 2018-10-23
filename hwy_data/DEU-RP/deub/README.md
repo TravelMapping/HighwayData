@@ -10,8 +10,9 @@
 
 
 * ADDITIONAL SOURCES BY STATES:
-- http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=k_vms_detailnetz_wms_spatial@senstadt / https://de.wikipedia.org/wiki/%C3%9Cbergeordnetes_Stra%C3%9Fennetz_von_Berlin#/media/File:Berlin_Stra%C3%9Fenverkehr_Kategorie_I_und_II.png
+- https://lbm.rlp.de/de/service/informationsmaterial/strassenkarte-rheinland-pfalz/
+- http://www.geoportal.rlp.de/portal/karten.html
 
 
 **NOTES TO ROUTES:**
-- `B109` Schönerlinder Straße, Berlin should be rededicated after renovation completion: http://www.berlin.de/senuvk/bauen/strassenbau/b109/ (to be completed by July 2019, still in mauttabelle.de)
+- 
