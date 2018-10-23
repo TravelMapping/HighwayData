@@ -10,8 +10,9 @@
 
 
 * ADDITIONAL SOURCES BY STATES:
-- http://fbinter.stadt-berlin.de/fb/index.jsp?loginkey=showMap&mapId=k_vms_detailnetz_wms_spatial@senstadt / https://de.wikipedia.org/wiki/%C3%9Cbergeordnetes_Stra%C3%9Fennetz_von_Berlin#/media/File:Berlin_Stra%C3%9Fenverkehr_Kategorie_I_und_II.png
+- http://bb-viewer.geobasis-bb.de/strassennetz/
+- http://www.ls.brandenburg.de/cms/detail.php/bb1.c.260097.de
 
 
 **NOTES TO ROUTES:**
-- `B109` Schönerlinder Straße, Berlin should be rededicated after renovation completion: http://www.berlin.de/senuvk/bauen/strassenbau/b109/ (to be completed by July 2019, still in mauttabelle.de)
+- `B5` Karstädt is not in mauttabelle.de (September 2018) but OSM, geoportal and Netzknotenkarte Prignitz district still indicate it being `B5`. I think it's correct because e.g. Geoportal has the northern segement of former `B5` already as `L132`
