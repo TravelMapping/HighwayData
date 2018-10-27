@@ -8,7 +8,7 @@ chng;G6;;;chnbj.g06,chnhe.g06,chnnm.g06,chnnx.g06,chngs.g06,chnqh.g06
 chng;G6;;Hainan;chnqh.g06hai
 chng;G7;;Beijing;chnbj.g07
 chng;G7;;Zhangshanyingzhen;chnbj.g07zha,chnhe.g07
-chng;G7;;Hohhot;chnnm.g07
+chng;G7;;Hohhot;chnnm.g07,chngs.g07,chnxj.g07
 chng;G10;;Munganjiang;chnhl.g10
 chng;G10;;Daqing;chnhl.g10daq,chnnm.g10
 chng;G11;;Mudanjiang;chnhl.g11
@@ -16,7 +16,8 @@ chng;G11;;Dalian;chnln.g11,chnjl.g11
 chng;G12;;;chnjl.g12,chnnm.g12
 chng;G15;;Shenyang;chnln.g15
 chng;G15;;Shanghai;chnsd.g15,chnjs.g15,chnsh.g15,chnzj.g15,chnfj.g15,chngd.g15
-chng;G16;;;chnln.g16,chnnm.g16
+chng;G16;;Chifeng;chnln.g16,chnnm.g16sij,chnln.g16jia,chnnm.g16
+chng;G16;;Xilinhot;chnnm.g16xil
 chng;G18;;;chnsd.g18,chnhe.g18hua,chntj.g18,chnhe.g18,chnsx.g18,chnnm.g18
 chng;G20;;;chnsd.g20,chnhe.g20,chnsx.g20,chnsn.g20,chnnx.g20
 chng;G22;;Qingdao;chnsd.g22
@@ -46,6 +47,7 @@ chng;G60;;;chnsh.g60,chnzj.g60,chnjx.g60,chnhn.g60,chngz.g60,chnyn.g60
 chng;G65;;Xi'an;chnnm.g65,chnsn.g65
 chng;G65;;Chongqing;chnhn.g65,chnsc.g65,chncq.g65
 chng;G65;;Guilin;chngx.g65
+chng;G69;;Lingwu;chnnx.g69
 chng;G69;;Xi'an;chnsn.g69
 chng;G69;;Fuling;chncq.g69
 chng;G69;;Chengguan;chngx.g69
@@ -67,16 +69,15 @@ chng;G85;;Chongqing;chncq.g85,chnsc.g85,chnyn.g85
 chng;G91;;;chnln.g91
 chng;G92;;;chnzj.g92
 chng;G93;;;chnsc.g93sui,chncq.g93,chnsc.g93
-chng;G94;;Zhongshan;chngd.g94
-chng;G94;;Dongguan;chngd.g94don
+chng;G94;;;chngd.g94
 chng;G95;;;chnhe.g95
 chng;G98;;;chnhi.g98
 chng;G1N;;;chnhe.g01n
 chng;G0102;;;chnjl.g0102
-chng;G4W;;;chngd.g04w
 chng;G4W2;;;chnhb.g04w2
 chng;G4W3;;;chngd.g04w3
 chng;G0401;;;chnhn.g0401
+chng;G0425;;;chngd.g0425
 chng;G5N;;;chnhe.g05n,chnsx.g05n
 chng;G0501;;;chnsx.g0501
 chng;G0501;;;chnsx.g0511
@@ -85,6 +86,7 @@ chng;G0601;;Yinchuan;chnnx.g0601
 chng;G0613;;;chnqh.g0613
 chng;G1001;;;chnhl.g1001
 chng;G1011;;;chnhl.g1011
+chng;G1012;;;chnhl.g1012
 chng;G1111;;;chnhl.g1111
 chng;G1112;;;chnjl.g1112
 chng;G1113;;;chnln.g1113
@@ -110,6 +112,10 @@ chng;G1514;;;chnjx.g1514,chnfj.g1514
 chng;G1517;;;chnfj.g1517
 chng;G1801;;;chnsx.g1801
 chng;G1811;;;chnhe.g1811
+chng;G1816;;Zhongchuan;chngs.g1816
+chng;G1816;;Xixia;chnnx.g1816
+chng;G1817;;Wusitai;chnnm.g1817wus
+chng;G1817;;Alxa;chnnm.g1817,chnnx.g1817
 chng;G2001;;Jinan;chnsd.g2001
 chng;G2001;;Taiyuan;chnsx.g2001
 chng;G2002;;;chnsx.g2002
@@ -128,10 +134,10 @@ chng;G2516;;;chnhe.g2516,chnsx.g2516
 chng;G30N;;;chnsn.g30n
 chng;G3001;;Zhengzhou;chnha.g3001
 chng;G3001;;Xi'an;chnsn.g3001
+chng;G3001;;Urumqi;chnxj.g3001
 chng;G3011;;Guanzhou;chngs.g3011
 chng;G3011;;Tuanjiexian;chngs.g3011tua,chnqh.g3011
 chng;G3012;;;chnxj.g3012
-chng;G3012;;Yarkant;chnxj.g3012yar
 chng;G3013;;;chnxj.g3013
 chng;G3014;;;chnxj.g3014
 chng;G3015;;;chnxj.g3015
@@ -152,7 +158,8 @@ chng;G4215;;;chnsc.g4215,chngz.g4215
 chng;G4216;;;chnsc.g4216,chnyn.g4216
 chng;G4501;;;chnbj.g4501
 chng;G4511;;;chnjx.g4511,chngd.g4511
-chng;G4512;;;chnjl.g4512
+chng;G4512;;;chnhl.g4512,chnjl.g4512
+chng;G4513;;;chnln.g4513
 chng;G50S;;;chncq.g50s
 chng;G5001;;;chncq.g5001
 chng;G5011;;;chnah.g5011
@@ -161,6 +168,7 @@ chng;G5013;;;chncq.g5013
 chng;G5501;;;chnsx.g5501
 chng;G5502;;;chnsx.g5502
 chng;G5503;;;chnsx.g5503
+chng;G5511;;;chnnm.g5511
 chng;G5512;;;chnsx.g5512,chnha.g5512
 chng;G5513;;;chnhn.g5513
 chng;G5515;;;chnsc.g5515
