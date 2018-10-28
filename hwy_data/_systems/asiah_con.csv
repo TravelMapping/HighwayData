@@ -1,15 +1,15 @@
 systemName;route;banner;groupName;roots
 asiah;AH1;;Korea;kor.ah001
+asiah;AH1;;East Asia;chnln.ah001
 asiah;AH1;;South and West Asia;pak.ah001,afg.ah001,irn.ah001,tur.ah001
 asiah;AH2;;South East Asia;sgp.ah002,mys.ah002
 asiah;AH2;;South West Asia;pak.ah002,irn.ah002
-asiah;AH3;;;rus.ah003,mng.ah003
+asiah;AH3;;;rus.ah003,mng.ah003,chnnm.ah003
 asiah;AH4;;;rus.ah004,mng.ah004,chnxj.ah004,pak.ah004
 asiah;AH5;;Central Asia;chnxj.ah005,kaz.ah005,kgz.ah005,kaz.ah005shy,uzb.ah005,tkm.ah005
 asiah;AH5;;West Asia;aze.ah005,geo.ah005,tur.ah005
 asiah;AH6;;Korea;kor.ah006
-asiah;AH6;;Ussuriysk, RUS;rus.ah006uss
-asiah;AH6;;Moscow, RUS;rus.ah006irk,kaz.ah006,rus.ah006
+asiah;AH6;;;rus.ah006uss,chnhl.ah006,chnnm.ah006,rus.ah006irk,kaz.ah006,rus.ah006
 asiah;AH6;;Vladivostock, RUS (branch);rus.ah006vla
 asiah;AH6;;Nakhodka, RUS (branch);rus.ah006nak
 asiah;AH6;;Chelyabinsk, RUS (ring);rus.ah006che
@@ -21,8 +21,10 @@ asiah;AH8;;Moskva, RUS (ring);rus.ah008mos
 asiah;AH18;;;mys.ah018
 asiah;AH30;;;rus.ah030
 asiah;AH31;;Russia;rus.ah031
-asiah;AH32;;;mng.ah032
-asiah;AH35;;;mng.ah035
+asiah;AH31;;China;chnhl.ah031,chnjl.ah031,chnln.ah031
+asiah;AH32;;;chnjl.ah032,chnnm.ah032,mng.ah032
+asiah;AH33;;;chnhl.ah033
+asiah;AH35;;;mng.ah035,chnnm.ah035,chnln.ah035jia,chnnm.ah035sij,chnln.ah035
 asiah;AH43;;Sri Lanka;lka.ah043
 asiah;AH43;;Kandy, LKA (branch);lka.ah043kan
 asiah;AH44;;;lka.ah044
