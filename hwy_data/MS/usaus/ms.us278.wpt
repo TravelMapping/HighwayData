@@ -58,7 +58,7 @@ MS35_S http://www.openstreetmap.org/?lat=34.308668&lon=-89.962406
 MS725 http://www.openstreetmap.org/?lat=34.311327&lon=-89.950132
 US51 http://www.openstreetmap.org/?lat=34.311469&lon=-89.944468
 KeatRd http://www.openstreetmap.org/?lat=34.309980&lon=-89.930263
-I-55(243) http://www.openstreetmap.org/?lat=34.309767&lon=-89.918976
+I-55 +I-55(243) http://www.openstreetmap.org/?lat=34.309931&lon=-89.919378
 MtOlivRd http://www.openstreetmap.org/?lat=34.309838&lon=-89.889064
 +x11 http://www.openstreetmap.org/?lat=34.311858&lon=-89.871039
 GoodHopeRd http://www.openstreetmap.org/?lat=34.319692&lon=-89.859924
@@ -85,7 +85,7 @@ CR405 http://www.openstreetmap.org/?lat=34.352790&lon=-89.467249
 CR421 http://www.openstreetmap.org/?lat=34.324512&lon=-89.389143
 MS336_W http://www.openstreetmap.org/?lat=34.304733&lon=-89.276276
 ThaxRd http://www.openstreetmap.org/?lat=34.288566&lon=-89.177570
-OxfSt +Old6Pon_W http://www.openstreetmap.org/?lat=34.280730&lon=-89.126244
+MS338_W +Old6Pon_W http://www.openstreetmap.org/?lat=34.280730&lon=-89.126244
 MS336_E http://www.openstreetmap.org/?lat=34.283957&lon=-89.104829
 MS336Pon http://www.openstreetmap.org/?lat=34.285145&lon=-89.099722
 +x19 http://www.openstreetmap.org/?lat=34.285943&lon=-89.088092
@@ -96,31 +96,25 @@ MS345 http://www.openstreetmap.org/?lat=34.289559&lon=-88.994193
 MS9 http://www.openstreetmap.org/?lat=34.291403&lon=-88.970118
 +x22 http://www.openstreetmap.org/?lat=34.289701&lon=-88.957844
 RowRd http://www.openstreetmap.org/?lat=34.274666&lon=-88.945441
-LonRd +Old6Pon_E http://www.openstreetmap.org/?lat=34.260019&lon=-88.932824
-MS76Pon http://www.openstreetmap.org/?lat=34.236641&lon=-88.901410
-MS342 http://www.openstreetmap.org/?lat=34.235151&lon=-88.886390
-CR41 http://www.openstreetmap.org/?lat=34.235506&lon=-88.825235
-McPhRd http://www.openstreetmap.org/?lat=34.242814&lon=-88.799057
-ColeyRd http://www.openstreetmap.org/?lat=34.250087&lon=-88.772750
-+x23 http://www.openstreetmap.org/?lat=34.250335&lon=-88.763309
-NatTraPkwy http://www.openstreetmap.org/?lat=34.252339&lon=-88.757193
-ThomSt http://www.openstreetmap.org/?lat=34.255585&lon=-88.746357
-LumpAv http://www.openstreetmap.org/?lat=34.256152&lon=-88.737302
-+x24 http://www.openstreetmap.org/?lat=34.256152&lon=-88.726273
-NellSt http://www.openstreetmap.org/?lat=34.257234&lon=-88.723161
-MS145 http://www.openstreetmap.org/?lat=34.257341&lon=-88.715608
-GreenSt http://www.openstreetmap.org/?lat=34.257500&lon=-88.707047
-US45/6 http://www.openstreetmap.org/?lat=34.257454&lon=-88.693917
-+x25 http://www.openstreetmap.org/?lat=34.246362&lon=-88.694773
-EasBlvd http://www.openstreetmap.org/?lat=34.235643&lon=-88.700427
-GreSt http://www.openstreetmap.org/?lat=34.209564&lon=-88.707848
+MS338_E +Old6Pon_E http://www.openstreetmap.org/?lat=34.260019&lon=-88.932824
+OldMS6 +MS76Pon http://www.openstreetmap.org/?lat=34.236641&lon=-88.901410
+MS342 http://www.openstreetmap.org/?lat=34.22585&lon=-88.88642
++x23 http://www.openstreetmap.org/?lat=34.22103&lon=-88.86965
++x24 http://www.openstreetmap.org/?lat=34.22120&lon=-88.83511
+CR41 http://www.openstreetmap.org/?lat=34.21736&lon=-88.81961
+BisRd http://www.openstreetmap.org/?lat=34.21237&lon=-88.78401
+NatTraPkwy http://www.openstreetmap.org/?lat=34.21244&lon=-88.78171
+GraDr http://www.openstreetmap.org/?lat=34.21108&lon=-88.76659
+ThoSt http://www.openstreetmap.org/?lat=34.20928&lon=-88.74622
+MS145 http://www.openstreetmap.org/?lat=34.20998&lon=-88.71994
+US45_N +GreSt http://www.openstreetmap.org/?lat=34.209564&lon=-88.707848
 VerPlaRd http://www.openstreetmap.org/?lat=34.192316&lon=-88.706725
 BreRd http://www.openstreetmap.org/?lat=34.153732&lon=-88.702535
 US45AltSha http://www.openstreetmap.org/?lat=34.116892&lon=-88.701290
 MS145Net_N http://www.openstreetmap.org/?lat=34.093473&lon=-88.641174
 MS145Net_S http://www.openstreetmap.org/?lat=34.068934&lon=-88.626486
-+x26 http://www.openstreetmap.org/?lat=34.051308&lon=-88.631773
-+x27 http://www.openstreetmap.org/?lat=34.005712&lon=-88.632309
++x28 http://www.openstreetmap.org/?lat=34.051308&lon=-88.631773
++x29 http://www.openstreetmap.org/?lat=34.005712&lon=-88.632309
 US45/41 http://www.openstreetmap.org/?lat=33.997140&lon=-88.627500
 CenGroRd http://www.openstreetmap.org/?lat=33.989132&lon=-88.573880
 MLKingDr http://www.openstreetmap.org/?lat=33.977513&lon=-88.495173
@@ -132,12 +126,12 @@ HatRd http://www.openstreetmap.org/?lat=33.949127&lon=-88.424191
 BurrRd http://www.openstreetmap.org/?lat=33.938411&lon=-88.399129
 OldQuiRd http://www.openstreetmap.org/?lat=33.922138&lon=-88.374496
 AthQuiRd http://www.openstreetmap.org/?lat=33.916084&lon=-88.361363
-+x28 http://www.openstreetmap.org/?lat=33.902906&lon=-88.347502
-+x29 http://www.openstreetmap.org/?lat=33.901232&lon=-88.336000
++x30 http://www.openstreetmap.org/?lat=33.902906&lon=-88.347502
++x31 http://www.openstreetmap.org/?lat=33.901232&lon=-88.336000
 MS8 http://www.openstreetmap.org/?lat=33.897777&lon=-88.329563
 SpluRd http://www.openstreetmap.org/?lat=33.887339&lon=-88.309221
-+x30 http://www.openstreetmap.org/?lat=33.883456&lon=-88.297420
-+x31 http://www.openstreetmap.org/?lat=33.882815&lon=-88.281755
++x32 http://www.openstreetmap.org/?lat=33.883456&lon=-88.297420
++x33 http://www.openstreetmap.org/?lat=33.882815&lon=-88.281755
 WolfeRd http://www.openstreetmap.org/?lat=33.883225&lon=-88.274760
 GatBotRd http://www.openstreetmap.org/?lat=33.885701&lon=-88.231974
 MS/AL http://www.openstreetmap.org/?lat=33.885736&lon=-88.229978

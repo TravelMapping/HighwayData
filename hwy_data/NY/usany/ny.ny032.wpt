@@ -1,4 +1,4 @@
-NY17 http://www.openstreetmap.org/?lat=41.316314&lon=-74.133339
+NY17 http://www.openstreetmap.org/?lat=41.316336&lon=-74.133468
 SmiCloRd http://www.openstreetmap.org/?lat=41.331762&lon=-74.121408
 +X01 http://www.openstreetmap.org/?lat=41.343748&lon=-74.127245
 +X02 http://www.openstreetmap.org/?lat=41.358278&lon=-74.117374
@@ -7,9 +7,10 @@ TroBroRd http://www.openstreetmap.org/?lat=41.373254&lon=-74.101067
 PleHillRd http://www.openstreetmap.org/?lat=41.403509&lon=-74.078043
 QuaAve http://www.openstreetmap.org/?lat=41.430553&lon=-74.053645
 NY94/300 http://www.openstreetmap.org/?lat=41.454488&lon=-74.057250
-NY17K http://www.openstreetmap.org/?lat=41.500981&lon=-74.025664
-US9W http://www.openstreetmap.org/?lat=41.500713&lon=-74.021373
-I-84/9W http://www.openstreetmap.org/?lat=41.519471&lon=-74.020343
+NY17K_W +NY17K http://www.openstreetmap.org/?lat=41.500981&lon=-74.025664
+US9W_New +US9W http://www.openstreetmap.org/?lat=41.500713&lon=-74.021373
+I-84 +I-84/9W http://www.openstreetmap.org/?lat=41.519471&lon=-74.020343
+US9W_Bal http://www.openstreetmap.org/?lat=41.520210&lon=-74.020772
 GidAve http://www.openstreetmap.org/?lat=41.525891&lon=-74.033518
 NY300 http://www.openstreetmap.org/?lat=41.551969&lon=-74.063387
 PlaArdRd http://www.openstreetmap.org/?lat=41.616867&lon=-74.076154
@@ -23,10 +24,10 @@ NY213_W http://www.openstreetmap.org/?lat=41.847375&lon=-74.074910
 DeWLakeRd http://www.openstreetmap.org/?lat=41.887443&lon=-74.043560
 NY213 http://www.openstreetmap.org/?lat=41.927596&lon=-74.010494
 Bro http://www.openstreetmap.org/?lat=41.930001&lon=-74.005655
-I-587/28 http://www.openstreetmap.org/?lat=41.932563&lon=-74.011374
+I-587/28 http://www.openstreetmap.org/?lat=41.932454&lon=-74.011459
 AlbAve http://www.openstreetmap.org/?lat=41.939041&lon=-74.002447
-US9W_S http://www.openstreetmap.org/?lat=41.941648&lon=-73.987083
-US9W_N http://www.openstreetmap.org/?lat=41.943851&lon=-73.983736
+US9W_Kin +US9W_S http://www.openstreetmap.org/?lat=41.941648&lon=-73.987083
+US9W_EKi +US9W_N http://www.openstreetmap.org/?lat=41.943851&lon=-73.983736
 MainSt http://www.openstreetmap.org/?lat=41.962542&lon=-73.970733
 NY199 http://www.openstreetmap.org/?lat=41.977730&lon=-73.970904
 KukLn http://www.openstreetmap.org/?lat=41.998240&lon=-73.969145
@@ -62,10 +63,12 @@ NY335 http://www.openstreetmap.org/?lat=42.607911&lon=-73.819124
 US9W_Bet http://www.openstreetmap.org/?lat=42.616528&lon=-73.785467
 US9W_Ken http://www.openstreetmap.org/?lat=42.620918&lon=-73.778386
 NY144 http://www.openstreetmap.org/?lat=42.619428&lon=-73.766305
-+X08 http://www.openstreetmap.org/?lat=42.633527&lon=-73.763731
-I-787(2) http://www.openstreetmap.org/?lat=42.635400&lon=-73.760061
-+X09 http://www.openstreetmap.org/?lat=42.637663&lon=-73.755920
-US20_W http://www.openstreetmap.org/?lat=42.645797&lon=-73.754933
+PeaSt http://www.openstreetmap.org/?lat=42.633393&lon=-73.763785
+I-787(2) http://www.openstreetmap.org/?lat=42.635419&lon=-73.759959
+ChuSt http://www.openstreetmap.org/?lat=42.637560&lon=-73.755888
+GreSt_N http://www.openstreetmap.org/?lat=42.641291&lon=-73.754665
+MorAve http://www.openstreetmap.org/?lat=42.641871&lon=-73.756794
+US20_W http://www.openstreetmap.org/?lat=42.645760&lon=-73.754815
 US20_E http://www.openstreetmap.org/?lat=42.647186&lon=-73.754236
 NY5 http://www.openstreetmap.org/?lat=42.649869&lon=-73.752787
 US9 http://www.openstreetmap.org/?lat=42.654285&lon=-73.750019
@@ -74,12 +77,14 @@ NY378 http://www.openstreetmap.org/?lat=42.698202&lon=-73.719485
 NY155 http://www.openstreetmap.org/?lat=42.723460&lon=-73.703434
 NY2 http://www.openstreetmap.org/?lat=42.730086&lon=-73.701503
 23rdSt http://www.openstreetmap.org/?lat=42.732817&lon=-73.701224
+TibAve http://www.openstreetmap.org/?lat=42.749939&lon=-73.700693
 DykeAve http://www.openstreetmap.org/?lat=42.762069&lon=-73.699830
+BriAve http://www.openstreetmap.org/?lat=42.769585&lon=-73.698542
 NY470 http://www.openstreetmap.org/?lat=42.774198&lon=-73.697619
 NY787 http://www.openstreetmap.org/?lat=42.775563&lon=-73.697319
-+X10 http://www.openstreetmap.org/?lat=42.786634&lon=-73.694358
-+X11 http://www.openstreetmap.org/?lat=42.791805&lon=-73.684058
-US4_S http://www.openstreetmap.org/?lat=42.790141&lon=-73.678350
+VanAve http://www.openstreetmap.org/?lat=42.785957&lon=-73.694342
+8thSt http://www.openstreetmap.org/?lat=42.791714&lon=-73.683746
+US4_Wat +US4_S http://www.openstreetmap.org/?lat=42.790141&lon=-73.678350
 SchLn http://www.openstreetmap.org/?lat=42.819502&lon=-73.666248
 LowNewTRd http://www.openstreetmap.org/?lat=42.841769&lon=-73.675561
 NY146 http://www.openstreetmap.org/?lat=42.888606&lon=-73.689981
@@ -89,8 +94,10 @@ HalHouRd http://www.openstreetmap.org/?lat=42.930222&lon=-73.667150
 LakeRd http://www.openstreetmap.org/?lat=42.937889&lon=-73.654747
 StiBriRd http://www.openstreetmap.org/?lat=42.938941&lon=-73.651893
 StrLn http://www.openstreetmap.org/?lat=42.956988&lon=-73.636487
-US4_N http://www.openstreetmap.org/?lat=42.971622&lon=-73.633375
+US4_Sti +US4_N http://www.openstreetmap.org/?lat=42.972294&lon=-73.633069
+BillSmiRd http://www.openstreetmap.org/?lat=42.984535&lon=-73.649409
 NY423 http://www.openstreetmap.org/?lat=42.984798&lon=-73.667107
+LohRd http://www.openstreetmap.org/?lat=43.016415&lon=-73.646722
 CR69 http://www.openstreetmap.org/?lat=43.050302&lon=-73.638783
 CR68 http://www.openstreetmap.org/?lat=43.070507&lon=-73.635478
 US4_Sch http://www.openstreetmap.org/?lat=43.096941&lon=-73.582606

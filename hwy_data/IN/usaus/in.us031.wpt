@@ -3,7 +3,7 @@ CouAve http://www.openstreetmap.org/?lat=38.272048&lon=-85.749815
 10thAve http://www.openstreetmap.org/?lat=38.279469&lon=-85.750029
 BroStaWay +I-65(1) http://www.openstreetmap.org/?lat=38.289145&lon=-85.757110
 EasBlvd +I-65(2) http://www.openstreetmap.org/?lat=38.294762&lon=-85.757014
-IN131 +I-65(4) http://www.openstreetmap.org/?lat=38.319008&lon=-85.753162
+I-65(4) +IN131 http://www.openstreetmap.org/?lat=38.319008&lon=-85.753162
 WatSt http://www.openstreetmap.org/?lat=38.353470&lon=-85.745502
 IN60 +BeanRd http://www.openstreetmap.org/?lat=38.370833&lon=-85.746446
 IN311 http://www.openstreetmap.org/?lat=38.395962&lon=-85.758677
@@ -15,13 +15,13 @@ IN356 http://www.openstreetmap.org/?lat=38.648852&lon=-85.774684
 IN56 http://www.openstreetmap.org/?lat=38.685644&lon=-85.778461
 CofPotRd http://www.openstreetmap.org/?lat=38.726635&lon=-85.783138
 IN256 http://www.openstreetmap.org/?lat=38.742369&lon=-85.804596
-I-65(36) http://www.openstreetmap.org/?lat=38.780517&lon=-85.829487
+I-65(36) http://www.openstreetmap.org/?lat=38.780492&lon=-85.829488
 MainSt_Cro http://www.openstreetmap.org/?lat=38.795002&lon=-85.839615
 CR400S http://www.openstreetmap.org/?lat=38.822858&lon=-85.837126
 IN250 http://www.openstreetmap.org/?lat=38.843518&lon=-85.822792
 CR1240E http://www.openstreetmap.org/?lat=38.903624&lon=-85.820432
 FarRd http://www.openstreetmap.org/?lat=38.921924&lon=-85.833650
-US50 http://www.openstreetmap.org/?lat=38.959075&lon=-85.834680
+US50 http://www.openstreetmap.org/?lat=38.959142&lon=-85.834680
 CR800S http://www.openstreetmap.org/?lat=39.085337&lon=-85.836782
 IN7 http://www.openstreetmap.org/?lat=39.166736&lon=-85.841503
 IN46 http://www.openstreetmap.org/?lat=39.172925&lon=-85.841718
@@ -30,19 +30,19 @@ WasSt http://www.openstreetmap.org/?lat=39.232087&lon=-85.921111
 IN11_S http://www.openstreetmap.org/?lat=39.240962&lon=-85.937762
 LowRd http://www.openstreetmap.org/?lat=39.244385&lon=-85.941882
 IN11_N http://www.openstreetmap.org/?lat=39.255585&lon=-85.941453
-I-65(76) http://www.openstreetmap.org/?lat=39.304716&lon=-85.962439
+I-65(76) http://www.openstreetmap.org/?lat=39.304749&lon=-85.962396
 IN252_E http://www.openstreetmap.org/?lat=39.359155&lon=-85.985355
 IN252_W http://www.openstreetmap.org/?lat=39.411794&lon=-85.996428
 CR300S http://www.openstreetmap.org/?lat=39.433773&lon=-86.007972
 MauRd http://www.openstreetmap.org/?lat=39.460053&lon=-86.049600
-IN44 http://www.openstreetmap.org/?lat=39.480096&lon=-86.064105
+JefSt  +IN44 http://www.openstreetmap.org/?lat=39.480096&lon=-86.064105
 WhiRd http://www.openstreetmap.org/?lat=39.549853&lon=-86.086979
 MadAve +IN431_S http://www.openstreetmap.org/?lat=39.604564&lon=-86.106977
 MainSt_Gre http://www.openstreetmap.org/?lat=39.613557&lon=-86.115947
 CouLineRd_S http://www.openstreetmap.org/?lat=39.635506&lon=-86.126804
 SouRd http://www.openstreetmap.org/?lat=39.664385&lon=-86.147232
 IN135 http://www.openstreetmap.org/?lat=39.693154&lon=-86.148734
-2(465) +I-465(2) http://www.openstreetmap.org/?lat=39.698965&lon=-86.148820
+2(465) +I-465(2) http://www.openstreetmap.org/?lat=39.699064&lon=-86.148820
 53(465) +I-465(53) http://www.openstreetmap.org/?lat=39.703423&lon=-86.108265
 52(465) +I-465(52) http://www.openstreetmap.org/?lat=39.703588&lon=-86.082516
 +X6 http://www.openstreetmap.org/?lat=39.712700&lon=-86.056681
@@ -86,10 +86,10 @@ W550N http://www.openstreetmap.org/?lat=40.382873&lon=-86.127234
 IN18 http://www.openstreetmap.org/?lat=40.584757&lon=-86.127448
 IN218_E http://www.openstreetmap.org/?lat=40.660978&lon=-86.128049
 IN218_W http://www.openstreetmap.org/?lat=40.677091&lon=-86.128135
-US31BusPer_S http://www.openstreetmap.org/?lat=40.725633&lon=-86.126032
-US24Bus http://www.openstreetmap.org/?lat=40.751581&lon=-86.127663
+US31BusPer_S http://www.openstreetmap.org/?lat=40.725600&lon=-86.126118
+US24Bus http://www.openstreetmap.org/?lat=40.751646&lon=-86.127577
 191 +US24 http://www.openstreetmap.org/?lat=40.772027&lon=-86.128263
-MexRd http://www.openstreetmap.org/?lat=40.843717&lon=-86.128435
+MexRd http://www.openstreetmap.org/?lat=40.843814&lon=-86.128478
 IN16 http://www.openstreetmap.org/?lat=40.865659&lon=-86.136718
 1000N http://www.openstreetmap.org/?lat=40.909426&lon=-86.159248
 CR1200N http://www.openstreetmap.org/?lat=40.938545&lon=-86.168518
@@ -116,8 +116,8 @@ VetPkwy http://www.openstreetmap.org/?lat=41.376680&lon=-86.282330
 257 +IN23 http://www.openstreetmap.org/?lat=41.641105&lon=-86.297650
 259 +IN123 http://www.openstreetmap.org/?lat=41.653611&lon=-86.321940
 260 +IN2_E http://www.openstreetmap.org/?lat=41.671726&lon=-86.340823
-262 +US20_W http://www.openstreetmap.org/?lat=41.705825&lon=-86.339836
+262 +US20_W http://www.openstreetmap.org/?lat=41.705857&lon=-86.339836
 263A +NimPky http://www.openstreetmap.org/?lat=41.722451&lon=-86.339407
 263B +I-80/90 http://www.openstreetmap.org/?lat=41.725910&lon=-86.339364
-264 +US31BusSou_N http://www.openstreetmap.org/?lat=41.736927&lon=-86.339450
-IN/MI http://www.openstreetmap.org/?lat=41.760155&lon=-86.331390
+264 +US31BusSou_N http://www.openstreetmap.org/?lat=41.736959&lon=-86.339407
+IN/MI http://www.openstreetmap.org/?lat=41.760156&lon=-86.331393

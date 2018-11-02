@@ -1,9 +1,11 @@
-System;Route;Banner;Name;Roots
+systemName;route;banner;groupName;roots
 usaco;CO1;;;co.co001
 usaco;CO2;;;co.co002
 usaco;CO3;;;co.co003
 usaco;CO5;;;co.co005
-usaco;CO7;;;co.co007
+usaco;CO7;;Estes Park;co.co007
+usaco;CO7;;Lafayette;co.co007laf
+usaco;CO7;Bus;Allenspark;co.co007busall
 usaco;CO8;;;co.co008
 usaco;CO9;;;co.co009
 usaco;CO10;;;co.co010
@@ -23,8 +25,7 @@ usaco;CO30;;;co.co030
 usaco;CO35;;;co.co035
 usaco;CO36;;;co.co036
 usaco;CO39;;;co.co039
-usaco;CO40;;Byers;co.co040bye
-usaco;CO40;;Deer Trail;co.co040
+usaco;CO40;;Byers;co.co040
 usaco;CO40;;Agate;co.co040aga
 usaco;CO40;;Limon;co.co040lim
 usaco;CO41;;;co.co041
@@ -37,9 +38,10 @@ usaco;CO52;;;co.co052
 usaco;CO53;;;co.co053
 usaco;CO55;;;co.co055
 usaco;CO56;;;co.co056
-usaco;CO57;;;co.co057
+usaco;CO58;;;co.co058
 usaco;CO59;;;co.co059
-usaco;CO60;;;co.co060
+usaco;CO60;;Loveland;co.co060lov
+usaco;CO60;;Milliken;co.co060
 usaco;CO61;;;co.co061
 usaco;CO62;;;co.co062
 usaco;CO63;;;co.co063
@@ -47,6 +49,7 @@ usaco;CO64;;;co.co064
 usaco;CO65;;;co.co065
 usaco;CO66;;;co.co066
 usaco;CO67;Flo;Florence;co.co067flo
+usaco;CO67;;Victor;co.co067vic
 usaco;CO67;;Woodland Park;co.co067
 usaco;CO67;Sed;Sedalia;co.co067sed
 usaco;CO69;;;co.co069
@@ -55,14 +58,15 @@ usaco;CO72;;;co.co072
 usaco;CO74;;;co.co074
 usaco;CO75;;;co.co075
 usaco;CO78;;;co.co078
-usaco;CO78;Business;Beulah;co.co078busbeu
+usaco;CO78;Bus;Beulah;co.co078busbeu
 usaco;CO79;;;co.co079
 usaco;CO82;;;co.co082
 usaco;CO83;;;co.co083
 usaco;CO86;;;co.co086
 usaco;CO88;;;co.co088
 usaco;CO89;;;co.co089
-usaco;CO90;;;co.co090
+usaco;CO90;;Bedrock;co.co090
+usaco;CO90;;Montrose;co.co090mon
 usaco;CO91;;;co.co091
 usaco;CO92;;;co.co092
 usaco;CO93;;;co.co093
@@ -73,7 +77,8 @@ usaco;CO97;;;co.co097
 usaco;CO100;;;co.co100
 usaco;CO101;;;co.co101
 usaco;CO103;;;co.co103
-usaco;CO105;;;co.co105
+usaco;CO105;;Monument;co.co105
+usaco;CO105;;Sedalia;co.co105sed
 usaco;CO109;;;co.co109
 usaco;CO112;;;co.co112
 usaco;CO113;;;co.co113
@@ -85,7 +90,8 @@ usaco;CO120;;;co.co120
 usaco;CO121;;;co.co121
 usaco;CO125;;;co.co125
 usaco;CO127;;;co.co127
-usaco;CO128;;;co.co128
+usaco;CO128;;Interlocken;co.co128
+usaco;CO128;;The Ranch;co.co128ran
 usaco;CO131;;;co.co131
 usaco;CO133;;;co.co133
 usaco;CO134;;;co.co134
@@ -109,7 +115,6 @@ usaco;CO172;;;co.co172
 usaco;CO177;;;co.co177
 usaco;CO183;;;co.co183
 usaco;CO184;;;co.co184
-usaco;CO187;;;co.co187
 usaco;CO194;;;co.co194
 usaco;CO196;;;co.co196
 usaco;CO202;;;co.co202
@@ -141,3 +146,5 @@ usaco;CO391;;;co.co391
 usaco;CO392;;;co.co392
 usaco;CO394;;;co.co394
 usaco;CO402;;;co.co402
+usaco;CO470;;;co.co470
+usaco;COE470;;;co.coe470

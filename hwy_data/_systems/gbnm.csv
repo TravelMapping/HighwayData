@@ -1,21 +1,21 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbnm;ENG;M1;;;;eng.m001;
 gbnm;ENG;M2;;;;eng.m002;
 gbnm;ENG;M3;;;;eng.m003;
-gbnm;ENG;M4;;;;eng.m004;
-gbnm;WLS;M4;;;;wls.m004;
-gbnm;ENG;M4;;Hea;Heathrow Airport;eng.m004hea;
+gbnm;ENG;M4;;;London - South Wales Motorway;eng.m004;
+gbnm;WLS;M4;;;London - South Wales Motorway;wls.m004;
+gbnm;ENG;M4;;Hea;Heathrow Airport Spur;eng.m004hea;
 gbnm;ENG;M5;;;;eng.m005;
 gbnm;ENG;M6;;;;eng.m006;
-gbnm;ENG;M6;Tol;Bir;Birmingham;eng.m006tolbir;
-gbnm;SCT;M8;;Liv;Livingston;sct.m008liv;
-gbnm;SCT;M8;;;Glasgow;sct.m008;
+gbnm;ENG;M6;Tol;;Birmingham Northern Relief Road;eng.m006tol;M6TolBir
+gbnm;SCT;M8;;;;sct.m008;M8Liv
 gbnm;SCT;M9;;;;sct.m009;
 gbnm;ENG;M11;;;;eng.m011;
 gbnm;ENG;M18;;;;eng.m018;
 gbnm;ENG;M20;;;;eng.m020;
 gbnm;ENG;M23;;;;eng.m023;
-gbnm;ENG;M25;;;;eng.m025;
+gbnm;ENG;M25;;;London Orbital;eng.m025;
+gbnm;ENG;M25;Spr;Orp;Orpington Spur;eng.m025sprorp;
 gbnm;ENG;M26;;;;eng.m026;
 gbnm;ENG;M27;;;;eng.m027;
 gbnm;ENG;M32;;;;eng.m032;
@@ -29,7 +29,8 @@ gbnm;ENG;M50;;;;eng.m050;
 gbnm;ENG;M53;;;;eng.m053;
 gbnm;ENG;M54;;;;eng.m054;
 gbnm;ENG;M55;;;;eng.m055;
-gbnm;ENG;M56;;;;eng.m056;
+gbnm;ENG;M56;;;North Cheshire Motorway;eng.m056;
+gbnm;ENG;M56;Spr;Bow;Bowdon Spur;eng.m056sprbow;
 gbnm;ENG;M57;;;;eng.m057;
 gbnm;ENG;M58;;;;eng.m058;
 gbnm;ENG;M60;;;;eng.m060;
@@ -43,9 +44,9 @@ gbnm;SCT;M73;;;;sct.m073;
 gbnm;SCT;M74;;;;sct.m074;
 gbnm;SCT;M77;;;;sct.m077;
 gbnm;SCT;M80;;;;sct.m080;M80Den
-gbnm;SCT;M90;;Squ;South Queensferry;sct.m090squ;
-gbnm;SCT;M90;;;;sct.m090;
-gbnm;SCT;M90;;Per;Perth;sct.m090per;
+gbnm;SCT;M90;;Squ;Forth Road Bridge Southern Approach;sct.m090squ;
+gbnm;SCT;M90;;;Inverkeithing - Perth Motorway;sct.m090;
+gbnm;SCT;M90;;Per;Broxburn Spur;sct.m090per;
 gbnm;ENG;M180;;;;eng.m180;
 gbnm;ENG;M181;;;;eng.m181;
 gbnm;ENG;M271;;;;eng.m271;

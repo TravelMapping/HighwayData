@@ -43,16 +43,16 @@ MorAve http://www.openstreetmap.org/?lat=25.235578&lon=-80.433298
 CardSouRd http://www.openstreetmap.org/?lat=25.434200&lon=-80.474285
 FL997 http://www.openstreetmap.org/?lat=25.437062&lon=-80.474878
 FL9336 http://www.openstreetmap.org/?lat=25.447859&lon=-80.475108
-FL821 +FL821T http://www.openstreetmap.org/?lat=25.453064&lon=-80.475151
-FL821(1) +FL821T(1) http://www.openstreetmap.org/?lat=25.455200&lon=-80.475159
+FLTpk +FL821 +FL821T http://www.openstreetmap.org/?lat=25.453064&lon=-80.475151
+FLTpk(1) +FL821(1) http://www.openstreetmap.org/?lat=25.455200&lon=-80.475159
 312thSt http://www.openstreetmap.org/?lat=25.477244&lon=-80.465061
-288thSt +SW288thSt http://www.openstreetmap.org/?lat=25.499330&lon=-80.446269
+288thSt http://www.openstreetmap.org/?lat=25.499330&lon=-80.446269
 137thAve http://www.openstreetmap.org/?lat=25.534627&lon=-80.412805
 216thSt +SW216thSt http://www.openstreetmap.org/?lat=25.566250&lon=-80.381663
 211thSt http://www.openstreetmap.org/?lat=25.571704&lon=-80.376320
 FL989 http://www.openstreetmap.org/?lat=25.575725&lon=-80.372404
 CarBlvd http://www.openstreetmap.org/?lat=25.579741&lon=-80.368466
-FL821(12A) http://www.openstreetmap.org/?lat=25.582148&lon=-80.366165
+FLTpk(12A) +FL821(12A) http://www.openstreetmap.org/?lat=25.582148&lon=-80.366165
 FL994 http://www.openstreetmap.org/?lat=25.596121&lon=-80.355326
 184thSt http://www.openstreetmap.org/?lat=25.598610&lon=-80.354186
 FL992 http://www.openstreetmap.org/?lat=25.628945&lon=-80.341065
@@ -62,23 +62,24 @@ FL826_S http://www.openstreetmap.org/?lat=25.678208&lon=-80.317900
 FL94 http://www.openstreetmap.org/?lat=25.688853&lon=-80.308382
 FL878 http://www.openstreetmap.org/?lat=25.693368&lon=-80.302892
 FL986 http://www.openstreetmap.org/?lat=25.704295&lon=-80.289700
-FL959 http://www.openstreetmap.org/?lat=25.707600&lon=-80.285500
+FL959 http://www.openstreetmap.org/?lat=25.707550&lon=-80.285516
 StaDr http://www.openstreetmap.org/?lat=25.717096&lon=-80.273728
 FL953 http://www.openstreetmap.org/?lat=25.726525&lon=-80.261680
 FL976 http://www.openstreetmap.org/?lat=25.735200&lon=-80.250700
 FL9 http://www.openstreetmap.org/?lat=25.739932&lon=-80.237837
-16thAve +SW3rdAve +SW16thAve http://www.openstreetmap.org/?lat=25.746540&lon=-80.219781
+16thAve http://www.openstreetmap.org/?lat=25.746540&lon=-80.219781
 I-95 +I-95(0) http://www.openstreetmap.org/?lat=25.749548&lon=-80.211313
-FL913 http://www.openstreetmap.org/?lat=25.750420&lon=-80.203983
-15thRd +SW15thRd http://www.openstreetmap.org/?lat=25.757974&lon=-80.192886
-FL972 http://www.openstreetmap.org/?lat=25.761687&lon=-80.191870
-US41_W http://www.openstreetmap.org/?lat=25.766637&lon=-80.190590
-FL970 +I-95(2A) http://www.openstreetmap.org/?lat=25.771786&lon=-80.190161
+I-95(1A) http://www.openstreetmap.org/?lat=25.752817&lon=-80.205230
++X000(I95) http://www.openstreetmap.org/?lat=25.756730&lon=-80.200152
+I-95(1B) http://www.openstreetmap.org/?lat=25.766687&lon=-80.200316
+I-95(2A) http://www.openstreetmap.org/?lat=25.772670&lon=-80.198800
+MiaAve http://www.openstreetmap.org/?lat=25.771784&lon=-80.193522
+BriAve +FL970 http://www.openstreetmap.org/?lat=25.771786&lon=-80.190161
 BisBlvd http://www.openstreetmap.org/?lat=25.771863&lon=-80.187243
 FlaSt +OldFL968 http://www.openstreetmap.org/?lat=25.774320&lon=-80.187475
-FL886 +PortBlvd http://www.openstreetmap.org/?lat=25.779700&lon=-80.188914
-I-395(2B) +I-395(2) http://www.openstreetmap.org/?lat=25.785976&lon=-80.189091
-15thSt +NE15thSt http://www.openstreetmap.org/?lat=25.789558&lon=-80.189100
+FL886 http://www.openstreetmap.org/?lat=25.779700&lon=-80.188914
+I-395 +I-395(2) +I-395(2B) http://www.openstreetmap.org/?lat=25.785976&lon=-80.189091
+15thSt http://www.openstreetmap.org/?lat=25.789558&lon=-80.189100
 US27 http://www.openstreetmap.org/?lat=25.810615&lon=-80.189456
 38thSt http://www.openstreetmap.org/?lat=25.812419&lon=-80.189265
 FL944 http://www.openstreetmap.org/?lat=25.825515&lon=-80.186918
@@ -90,7 +91,7 @@ FL922 http://www.openstreetmap.org/?lat=25.889393&lon=-80.163749
 FL916 http://www.openstreetmap.org/?lat=25.899927&lon=-80.160550
 FL826_N http://www.openstreetmap.org/?lat=25.926100&lon=-80.153796
 FL860 http://www.openstreetmap.org/?lat=25.947440&lon=-80.146994
-FL856 http://www.openstreetmap.org/?lat=25.955143&lon=-80.146800
+FL856 http://www.openstreetmap.org/?lat=25.955094&lon=-80.146827
 IvesDaiRd +FL854 http://www.openstreetmap.org/?lat=25.963632&lon=-80.146865
 FL858 http://www.openstreetmap.org/?lat=25.985662&lon=-80.142367
 FL824 http://www.openstreetmap.org/?lat=25.996737&lon=-80.142689
@@ -108,24 +109,24 @@ FL84 http://www.openstreetmap.org/?lat=26.092786&lon=-80.136546
 FLA1A_N +FLA1AFor_S http://www.openstreetmap.org/?lat=26.100277&lon=-80.136780
 FL736 http://www.openstreetmap.org/?lat=26.107667&lon=-80.136973
 FL842 http://www.openstreetmap.org/?lat=26.122440&lon=-80.137270
-6thSt +NE6thSt http://www.openstreetmap.org/?lat=26.129925&lon=-80.137507
+6thSt http://www.openstreetmap.org/?lat=26.129925&lon=-80.137507
 FL838_W http://www.openstreetmap.org/?lat=26.137048&lon=-80.136324
 FL838_E http://www.openstreetmap.org/?lat=26.137400&lon=-80.121167
 FL816 http://www.openstreetmap.org/?lat=26.167193&lon=-80.116867
 FL870 http://www.openstreetmap.org/?lat=26.189600&lon=-80.114888
 BayDr http://www.openstreetmap.org/?lat=26.204147&lon=-80.108633
-FL814 http://www.openstreetmap.org/?lat=26.231761&lon=-80.102815
-FL844 http://www.openstreetmap.org/?lat=26.250118&lon=-80.101026
+AtlBlvd +FL814 http://www.openstreetmap.org/?lat=26.231761&lon=-80.102815
+FL844 http://www.openstreetmap.org/?lat=26.250069&lon=-80.101013
 CopRd http://www.openstreetmap.org/?lat=26.258854&lon=-80.099773
 FL834 http://www.openstreetmap.org/?lat=26.275479&lon=-80.097440
 10thSt http://www.openstreetmap.org/?lat=26.305063&lon=-80.092890
 FL810 http://www.openstreetmap.org/?lat=26.318000&lon=-80.090761
 18thSt http://www.openstreetmap.org/?lat=26.330210&lon=-80.090823
 CamReal http://www.openstreetmap.org/?lat=26.340944&lon=-80.086193
-PalParkRd +FL798 +CR798 http://www.openstreetmap.org/?lat=26.350500&lon=-80.086400
+PalParkRd +FL798 http://www.openstreetmap.org/?lat=26.350500&lon=-80.086400
 FL808 http://www.openstreetmap.org/?lat=26.361772&lon=-80.082369
 FL800 http://www.openstreetmap.org/?lat=26.386060&lon=-80.076521
-FL794 http://www.openstreetmap.org/?lat=26.394609&lon=-80.076591
+FL794 http://www.openstreetmap.org/?lat=26.394633&lon=-80.076570
 CR782 http://www.openstreetmap.org/?lat=26.439754&lon=-80.071243
 FL806 http://www.openstreetmap.org/?lat=26.461660&lon=-80.067541
 WooRd http://www.openstreetmap.org/?lat=26.514554&lon=-80.058990
@@ -137,7 +138,7 @@ OceAve http://www.openstreetmap.org/?lat=26.584418&lon=-80.051936
 CR812 http://www.openstreetmap.org/?lat=26.586745&lon=-80.051982
 FL5 http://www.openstreetmap.org/?lat=26.592161&lon=-80.052419
 12thAve http://www.openstreetmap.org/?lat=26.601349&lon=-80.057266
-6thAve +6thAveS http://www.openstreetmap.org/?lat=26.608587&lon=-80.057604
+6thAve http://www.openstreetmap.org/?lat=26.608587&lon=-80.057604
 FL802 http://www.openstreetmap.org/?lat=26.616265&lon=-80.057346
 10thAve http://www.openstreetmap.org/?lat=26.627581&lon=-80.056947
 FL882 http://www.openstreetmap.org/?lat=26.655051&lon=-80.056008
@@ -156,22 +157,22 @@ PoiDr http://www.openstreetmap.org/?lat=26.736242&lon=-80.052824
 CR702 http://www.openstreetmap.org/?lat=26.752868&lon=-80.056161
 FL708/A1A http://www.openstreetmap.org/?lat=26.783404&lon=-80.054800
 FL850 http://www.openstreetmap.org/?lat=26.807389&lon=-80.055876
-FL786/A1A +FL876/A1A http://www.openstreetmap.org/?lat=26.844134&lon=-80.061280
-OceDr +FLA1AJun +CRA1AJun_S http://www.openstreetmap.org/?lat=26.862807&lon=-80.055469
-DonRosRd http://www.openstreetmap.org/?lat=26.881589&lon=-80.056442
+FL786/A1A http://www.openstreetmap.org/?lat=26.844134&lon=-80.061280
+OceDr http://www.openstreetmap.org/?lat=26.862807&lon=-80.055469
+DonRossRd http://www.openstreetmap.org/?lat=26.881589&lon=-80.056442
 FL706 http://www.openstreetmap.org/?lat=26.933955&lon=-80.080869
-OceBlvd +FLA1AJup_S +CRA1AJup_N http://www.openstreetmap.org/?lat=26.944237&lon=-80.084555
-FL811 +FL811/A1A http://www.openstreetmap.org/?lat=26.952300&lon=-80.085190
+OceBlvd http://www.openstreetmap.org/?lat=26.944237&lon=-80.084555
+FL811 http://www.openstreetmap.org/?lat=26.952300&lon=-80.085190
 TeqDr http://www.openstreetmap.org/?lat=26.959300&lon=-80.084745
 +X012(US1) http://www.openstreetmap.org/?lat=27.041917&lon=-80.114654
 CRA1A http://www.openstreetmap.org/?lat=27.045637&lon=-80.119922
 CR708 http://www.openstreetmap.org/?lat=27.059458&lon=-80.136638
 OspSt http://www.openstreetmap.org/?lat=27.098860&lon=-80.159310
 CovRd http://www.openstreetmap.org/?lat=27.133924&lon=-80.206777
-FL714 http://www.openstreetmap.org/?lat=27.177949&lon=-80.236805
+FL714 http://www.openstreetmap.org/?lat=27.177925&lon=-80.236773
 CutRd http://www.openstreetmap.org/?lat=27.186839&lon=-80.245592
 FL76 http://www.openstreetmap.org/?lat=27.191100&lon=-80.253056
-FL707 http://www.openstreetmap.org/?lat=27.212532&lon=-80.259979
+DixHwy http://www.openstreetmap.org/?lat=27.212532&lon=-80.259979
 WriBlvd http://www.openstreetmap.org/?lat=27.215893&lon=-80.261116
 FL732 http://www.openstreetmap.org/?lat=27.245518&lon=-80.272317
 FL716 http://www.openstreetmap.org/?lat=27.271057&lon=-80.288351
@@ -182,8 +183,8 @@ CR611 http://www.openstreetmap.org/?lat=27.410712&lon=-80.325924
 FL70 http://www.openstreetmap.org/?lat=27.425314&lon=-80.325945
 CR605 http://www.openstreetmap.org/?lat=27.439629&lon=-80.325900
 FL68 http://www.openstreetmap.org/?lat=27.446996&lon=-80.325983
-FLA1A_VerS +FLA1AFtP_S http://www.openstreetmap.org/?lat=27.455150&lon=-80.327241
-FLA1A_VerN +FLA1AFtP_N http://www.openstreetmap.org/?lat=27.470128&lon=-80.333847
+FLA1A_VerS http://www.openstreetmap.org/?lat=27.455150&lon=-80.327241
+FLA1A_VerN http://www.openstreetmap.org/?lat=27.470128&lon=-80.333847
 FL608 http://www.openstreetmap.org/?lat=27.484393&lon=-80.340805
 FL615 http://www.openstreetmap.org/?lat=27.498543&lon=-80.345424
 CR614 http://www.openstreetmap.org/?lat=27.520700&lon=-80.355608
@@ -262,9 +263,9 @@ FL312 http://www.openstreetmap.org/?lat=29.866800&lon=-81.323091
 FL207 http://www.openstreetmap.org/?lat=29.881204&lon=-81.325157
 US1BusStA_S http://www.openstreetmap.org/?lat=29.891018&lon=-81.324655
 CasDr +WCasDr http://www.openstreetmap.org/?lat=29.899073&lon=-81.319784
-SanCarAve +WSanCAve http://www.openstreetmap.org/?lat=29.908954&lon=-81.321694
+SanCarAve http://www.openstreetmap.org/?lat=29.908954&lon=-81.321694
 FL16 +FL16/1BusStA_N http://www.openstreetmap.org/?lat=29.916822&lon=-81.324610
-US1BusStA_N +OldUS1Bus_N http://www.openstreetmap.org/?lat=29.923464&lon=-81.325100
+US1BusStA_N http://www.openstreetmap.org/?lat=29.923464&lon=-81.325100
 LewSpdwy http://www.openstreetmap.org/?lat=29.940358&lon=-81.335014
 IntGolPky http://www.openstreetmap.org/?lat=30.013000&lon=-81.392526
 CR210_W http://www.openstreetmap.org/?lat=30.080751&lon=-81.454619
@@ -293,7 +294,7 @@ IndDr http://www.openstreetmap.org/?lat=30.325136&lon=-81.657973
 BaySt +OldUS17_S http://www.openstreetmap.org/?lat=30.326073&lon=-81.657348
 FL228_E http://www.openstreetmap.org/?lat=30.327226&lon=-81.657018
 US90_W http://www.openstreetmap.org/?lat=30.331375&lon=-81.655810
-US17/23 +US17/23_S http://www.openstreetmap.org/?lat=30.332495&lon=-81.655492
+US17/23 http://www.openstreetmap.org/?lat=30.332495&lon=-81.655492
 8thSt http://www.openstreetmap.org/?lat=30.345748&lon=-81.653982
 US17/1Alt +US17/1Alt_N http://www.openstreetmap.org/?lat=30.356400&lon=-81.653926
 PeaSt http://www.openstreetmap.org/?lat=30.356356&lon=-81.658486

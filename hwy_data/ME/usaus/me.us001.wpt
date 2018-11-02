@@ -24,7 +24,7 @@ StoSt http://www.openstreetmap.org/?lat=43.385343&lon=-70.541866
 ME35_N http://www.openstreetmap.org/?lat=43.387431&lon=-70.537784
 ME35_S http://www.openstreetmap.org/?lat=43.387805&lon=-70.537030
 LogCabRd http://www.openstreetmap.org/?lat=43.424582&lon=-70.513971
-BidCon +BidConn +PreSt http://www.openstreetmap.org/?lat=43.469304&lon=-70.484676
+BidCon +BidConn http://www.openstreetmap.org/?lat=43.469304&lon=-70.484676
 ME111_W http://www.openstreetmap.org/?lat=43.482950&lon=-70.471362
 ME111_E http://www.openstreetmap.org/?lat=43.483701&lon=-70.470627
 SouSt_Bid http://www.openstreetmap.org/?lat=43.492573&lon=-70.461899
@@ -34,14 +34,14 @@ LinSt_Sac http://www.openstreetmap.org/?lat=43.499110&lon=-70.450634
 ME112 http://www.openstreetmap.org/?lat=43.501072&lon=-70.443456
 MainSt_Sac http://www.openstreetmap.org/?lat=43.501272&lon=-70.442555
 ME5_S http://www.openstreetmap.org/?lat=43.511242&lon=-70.432792
-I-195 http://www.openstreetmap.org/?lat=43.511929&lon=-70.432022
+I-195 http://www.openstreetmap.org/?lat=43.511927&lon=-70.432019
 ME98 http://www.openstreetmap.org/?lat=43.546371&lon=-70.412493
 ME9_Sca http://www.openstreetmap.org/?lat=43.570691&lon=-70.387731
 HaiPkwy http://www.openstreetmap.org/?lat=43.584215&lon=-70.360436
 ME114/207 http://www.openstreetmap.org/?lat=43.590152&lon=-70.334473
 ScaCon +ScaConn http://www.openstreetmap.org/?lat=43.603485&lon=-70.318508
 PleHillRd http://www.openstreetmap.org/?lat=43.611254&lon=-70.312972
-MTARd http://www.openstreetmap.org/?lat=43.619270&lon=-70.306578
+MTAppRd +MTARd http://www.openstreetmap.org/?lat=43.619270&lon=-70.306578
 ME9_SPo http://www.openstreetmap.org/?lat=43.620357&lon=-70.304818
 RumSt http://www.openstreetmap.org/?lat=43.628566&lon=-70.294132
 Bro +Bway http://www.openstreetmap.org/?lat=43.630174&lon=-70.292158
@@ -66,7 +66,7 @@ PorSt http://www.openstreetmap.org/?lat=43.792573&lon=-70.188662
 ME115 http://www.openstreetmap.org/?lat=43.801363&lon=-70.186028
 EMainSt http://www.openstreetmap.org/?lat=43.805420&lon=-70.173562
 ME88_N http://www.openstreetmap.org/?lat=43.806814&lon=-70.169806
-I-295(17) http://www.openstreetmap.org/?lat=43.808177&lon=-70.166073
+I-295(17) http://www.openstreetmap.org/?lat=43.807871&lon=-70.166577
 SFreRd http://www.openstreetmap.org/?lat=43.817548&lon=-70.145168
 OCRd_Fre http://www.openstreetmap.org/?lat=43.828304&lon=-70.134273
 DesRd http://www.openstreetmap.org/?lat=43.842482&lon=-70.118737
@@ -127,7 +127,7 @@ ButLn http://www.openstreetmap.org/?lat=44.091288&lon=-69.146018
 US1AltRoc_S http://www.openstreetmap.org/?lat=44.101732&lon=-69.117908
 ME73 http://www.openstreetmap.org/?lat=44.102133&lon=-69.109025
 NMainSt http://www.openstreetmap.org/?lat=44.109374&lon=-69.109712
-US1AltRoc_N +US1AltRoc_N/17 http://www.openstreetmap.org/?lat=44.115352&lon=-69.104819
+US1AltRoc_N http://www.openstreetmap.org/?lat=44.115321&lon=-69.104819
 OCRd_RocN http://www.openstreetmap.org/?lat=44.143506&lon=-69.089026
 PasAve http://www.openstreetmap.org/?lat=44.179902&lon=-69.080832
 ME90_E http://www.openstreetmap.org/?lat=44.185835&lon=-69.082289
@@ -146,7 +146,7 @@ NorAve http://www.openstreetmap.org/?lat=44.408432&lon=-68.993239
 ConSt http://www.openstreetmap.org/?lat=44.412141&lon=-69.005084
 ME52_N http://www.openstreetmap.org/?lat=44.418119&lon=-69.019074
 ME3_W http://www.openstreetmap.org/?lat=44.423697&lon=-69.021435
-ME7/137 http://www.openstreetmap.org/?lat=44.431236&lon=-69.017787
+ME7/137 http://www.openstreetmap.org/?lat=44.431236&lon=-69.017784
 HighSt http://www.openstreetmap.org/?lat=44.432033&lon=-69.015427
 ME141 http://www.openstreetmap.org/?lat=44.434331&lon=-69.004569
 +x9 http://www.openstreetmap.org/?lat=44.428628&lon=-68.983213
@@ -281,7 +281,7 @@ US2_E http://www.openstreetmap.org/?lat=46.124117&lon=-67.839718
 US2Alt http://www.openstreetmap.org/?lat=46.123939&lon=-67.841220
 BanSt http://www.openstreetmap.org/?lat=46.125281&lon=-67.841660
 US2_W http://www.openstreetmap.org/?lat=46.127984&lon=-67.842207
-I-95(302) http://www.openstreetmap.org/?lat=46.139553&lon=-67.839935
+I-95(302) http://www.openstreetmap.org/?lat=46.139501&lon=-67.839884&zoom=15
 LudRd http://www.openstreetmap.org/?lat=46.142816&lon=-67.840405
 BRd http://www.openstreetmap.org/?lat=46.146388&lon=-67.840399
 CarRd_Lit http://www.openstreetmap.org/?lat=46.198131&lon=-67.841263
@@ -323,7 +323,7 @@ BeaRd_Con http://www.openstreetmap.org/?lat=46.979681&lon=-68.034709
 JemRd http://www.openstreetmap.org/?lat=46.995922&lon=-68.027387
 VaiHillRd http://www.openstreetmap.org/?lat=47.077597&lon=-67.986832
 CasRd http://www.openstreetmap.org/?lat=47.140085&lon=-67.950085
-US1AltVB http://www.openstreetmap.org/?lat=47.153566&lon=-67.930441
+US1AltVB http://www.openstreetmap.org/?lat=47.153624&lon=-67.930398
 BriSt http://www.openstreetmap.org/?lat=47.157418&lon=-67.935719
 ChaSt http://www.openstreetmap.org/?lat=47.170435&lon=-67.944748
 +x45 http://www.openstreetmap.org/?lat=47.202767&lon=-67.978812

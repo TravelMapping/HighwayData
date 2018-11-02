@@ -1,4 +1,4 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 usai;AK;I-A1;;;;ak.ia001;
 usai;AK;I-A2;;;;ak.ia002;
 usai;AK;I-A3;;;;ak.ia003;
@@ -25,7 +25,9 @@ usai;LA;I-10;;;;la.i010;
 usai;MS;I-10;;;;ms.i010;
 usai;AL;I-10;;;;al.i010;
 usai;FL;I-10;;;;fl.i010;
+usai;NV;I-11;;;;nv.i011;I-11FutHoo
 usai;LA;I-12;;;;la.i012;
+usai;TX;I-14;;;;tx.i014;
 usai;CA;I-15;;;;ca.i015;
 usai;NV;I-15;;;;nv.i015;
 usai;AZ;I-15;;;;az.i015;
@@ -41,6 +43,8 @@ usai;MS;I-20;;;;ms.i020;
 usai;AL;I-20;;;;al.i020;
 usai;GA;I-20;;;;ga.i020;
 usai;SC;I-20;;;;sc.i020;
+usai;MS;I-22;;;;ms.i022;I-22FutTup
+usai;AL;I-22;;;;al.i022;I-22FutJas
 usai;IL;I-24;;;;il.i024;
 usai;KY;I-24;;;;ky.i024;
 usai;TN;I-24;;;Nashville, TN;tn.i024;
@@ -124,7 +128,7 @@ usai;MD;I-68;;;;md.i068;
 usai;TX;I-69;;;Houston, TX;tx.i069;I-69Sug
 usai;MS;I-69;;;;ms.i069;
 usai;KY;I-69;;;;ky.i069;I-69FutMad
-usai;IN;I-69;;Whe;Wheatonville, IN;in.i069whe;
+usai;IN;I-69;;Whe;Wheatonville, IN;in.i069whe;I-164
 usai;IN;I-69;;;Fort Wayne, IN;in.i069;
 usai;MI;I-69;;;;mi.i069;
 usai;TX;I-69C;;;;tx.i069c;
@@ -145,7 +149,7 @@ usai;KY;I-71;;;;ky.i071;
 usai;OH;I-71;;;;oh.i071;
 usai;MO;I-72;;;;mo.i072;
 usai;IL;I-72;;;;il.i072;
-usai;NC;I-73;;;;nc.i073;I-73Gre,I-73FutGre,I-73_N,I-73FutEll
+usai;NC;I-73;;;;nc.i073;I-73Gre,I-73FutGre,I-73_N,I-73FutEll,I-73FutWGr
 usai;IA;I-74;;;;ia.i074;
 usai;IL;I-74;;;;il.i074;
 usai;IN;I-74;;;;in.i074;
@@ -213,6 +217,7 @@ usai;NY;I-86;;;Jamestown, NY;ny.i086;
 usai;PA;I-86;;SWa;South Waverly, PA;pa.i086swa;
 usai;NY;I-86;;Bin;Binghamton, NY;ny.i086bin;I-86_E
 usai;NY;I-87;;;;ny.i087;
+usai;NC;I-87;;;;nc.i087;I-495
 usai;IL;I-88;;;;il.i088;
 usai;NY;I-88;;;;ny.i088;
 usai;NH;I-89;;;;nh.i089;
@@ -252,7 +257,6 @@ usai;DC;I-95;;;;dc.i095;
 usai;MD;I-95;;;;md.i095;
 usai;DE;I-95;;;;de.i095;
 usai;PA;I-95;;;;pa.i095;
-usai;NJ;I-95;;Tre;Trenton, NJ;nj.i095tre;I-95_M
 usai;NJ;I-95;;;New Brunswick, NJ;nj.i095;
 usai;NJ;I-95;;Sec;Secaucus, NJ;nj.i095sec;I-95_W
 usai;NY;I-95;;;;ny.i095;
@@ -283,7 +287,6 @@ usai;NC;I-140;;;;nc.i140;
 usai;MO;I-155;;;;mo.i155;
 usai;TN;I-155;;;;tn.i155;
 usai;IL;I-155;;;;il.i155;
-usai;IN;I-164;;;;in.i164;
 usai;AL;I-165;;;;al.i165;
 usai;TX;I-169;;;;tx.i169;
 usai;MO;I-170;;;;mo.i170;
@@ -382,7 +385,8 @@ usai;VA;I-295;;;;va.i295;
 usai;MD;I-295;;;;md.i295;
 usai;DC;I-295;;;;dc.i295;
 usai;DE;I-295;;;;de.i295;
-usai;NJ;I-295;;;;nj.i295;
+usai;NJ;I-295;;;;nj.i295;I-95_M,I-95Tre
+usai;PA;I-295;;;;pa.i295;
 usai;NY;I-295;;;;ny.i295;
 usai;RI;I-295;;;;ri.i295;
 usai;MA;I-295;;;;ma.i295;
@@ -447,13 +451,13 @@ usai;PA;I-476;;;;pa.i476;
 usai;NY;I-478;;;;ny.i478;
 usai;NE;I-480;;;;ne.i480;
 usai;IA;I-480;;;;ia.i480;
-usai;OH;I-480;;;;oh.i480;
+usai;OH;I-480;;;Cleveland, OH;oh.i480;
+usai;OH;I-480;;War;Warrensville Heights, OH;oh.i480war;
 usai;NY;I-481;;;;ny.i481;
 usai;NC;I-485;;;;nc.i485;
 usai;OH;I-490;;;;oh.i490;
 usai;NY;I-490;;;;ny.i490;
 usai;MN;I-494;;;;mn.i494;
-usai;NC;I-495;;;;nc.i495;
 usai;VA;I-495;;;;va.i495;
 usai;DC;I-495;;;;dc.i495;
 usai;MD;I-495;;;;md.i495;
@@ -524,6 +528,7 @@ usai;CA;I-710;;;;ca.i710;
 usai;AL;I-759;;;;al.i759;
 usai;CA;I-780;;;;ca.i780;
 usai;NY;I-781;;;;ny.i781;
+usai;NC;I-785;;;;nc.i785;
 usai;NY;I-787;;;;ny.i787;
 usai;NY;I-790;;;;ny.i790;
 usai;WI;I-794;;;;wi.i794;
@@ -531,6 +536,8 @@ usai;MD;I-795;;;;md.i795;
 usai;NC;I-795;;;;nc.i795;
 usai;CA;I-805;;;;ca.i805;
 usai;TX;I-820;;;;tx.i820;
+usai;TN;I-840;;;;tn.i840;TN840,TN840WNa
+usai;NC;I-840;;;;nc.i840;I-840FutWGr
 usai;IN;I-865;;;;in.i865;
 usai;NY;I-878;;;;ny.i878;
 usai;CA;I-880;;;;ca.i880;

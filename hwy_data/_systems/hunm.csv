@@ -1,4 +1,4 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
+﻿systemName;region;route;banner;abbrev;city;root;altRouteNames
 hunm;HUN;M0;;;;hun.m000;M0NBu
 hunm;HUN;M1;;;;hun.m001;
 hunm;HUN;M2;;;;hun.m002;
@@ -10,7 +10,8 @@ hunm;HUN;M8;;;;hun.m008;
 hunm;HUN;M9;;;;hun.m009;
 hunm;HUN;M15;;;;hun.m015;
 hunm;HUN;M19;;;;hun.m019;
-hunm;HUN;M30;;;;hun.m030;
+hunm;HUN;M30;;;Miskolc;hun.m030;
+hunm;HUN;M30;;Tor;Tornyosnémeti;hun.m030tor;
 hunm;HUN;M31;;;;hun.m031;
 hunm;HUN;M35;;;;hun.m035;
 hunm;HUN;M43;;;;hun.m043;
@@ -18,5 +19,4 @@ hunm;HUN;M51;;;;hun.m051;
 hunm;HUN;M60;;;;hun.m060;
 hunm;HUN;M70;;;;hun.m070;
 hunm;HUN;M85;;;;hun.m085;
-hunm;HUN;M86;;Cso;Csorna;hun.m086cso;
-hunm;HUN;M86;;;Szombathely;hun.m086;
+hunm;HUN;M86;;;;hun.m086;M86Cso

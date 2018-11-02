@@ -1,9 +1,8 @@
-﻿System;Region;Route;Banner;Abbrev;City;Fileroot;AltRouteNames
+﻿systemName;region;route;banner;abbrev;city;root;altRouteNames
 prta;PRT;A1;;;;prt.a001;
 prta;PRT;A2;;;;prt.a002;
 prta;PRT;A3;;;;prt.a003;
-prta;PRT;A4;;;Valongo;prt.a004;
-prta;PRT;A4;;Bra;Bragança;prt.a004bra;A4Lam,A4Mir
+prta;PRT;A4;;;;prt.a004;A4Bra,A4Lam,A4Mir
 prta;PRT;A5;;;;prt.a005;
 prta;PRT;A6;;;;prt.a006;
 prta;PRT;A7;;;;prt.a007;
@@ -28,6 +27,7 @@ prta;PRT;A23;;;;prt.a023;
 prta;PRT;A24;;;;prt.a024;
 prta;PRT;A25;;;;prt.a025;
 prta;PRT;A26;;;;prt.a026;
+prta;PRT;A26-1;;;;prt.a026_1;
 prta;PRT;A27;;;;prt.a027;
 prta;PRT;A28;;;;prt.a028;
 prta;PRT;A29;;;;prt.a029;
@@ -35,15 +35,8 @@ prta;PRT;A30;;;;prt.a030;
 prta;PRT;A31;;;;prt.a031;
 prta;PRT;A32;;;;prt.a032;
 prta;PRT;A33;;;;prt.a033;A33Sob
-prta;PRT;A34;;;;prt.a034;
-prta;PRT;A35;;;;prt.a035;
-prta;PRT;A36;;;;prt.a036;
-prta;PRT;A37;;;;prt.a037;
-prta;PRT;A38;;;;prt.a038;
-prta;PRT;A39;;;;prt.a039;
-prta;PRT;A40;;;;prt.a040;
 prta;PRT;A41;;;;prt.a041;
 prta;PRT;A42;;;;prt.a042;
 prta;PRT;A43;;;;prt.a043;
 prta;PRT;A44;;;;prt.a044;
-prta;PRT;VRI;;;;prt.avri;
+prta;PRT;VRI;;;'Via Regional Interior';prt.avri;

@@ -1,30 +1,25 @@
-System;Route;Banner;Name;Roots
+systemName;route;banner;groupName;roots
 usaush;US6;His;Santa Clarita, CA;ca.us006hissan
 usaush;US6;His;Council Bluffs, IA;ia.us006hiscou
-usaush;US6;His;Redfield, IA;ia.us006hisred
+usaush;US6;His;Atlantic, IA;ia.us006hisatl
+usaush;US6;His;Brooklyn, IA;ia.us006hisbro
 usaush;US6;His;Durant, IA;ia.us006hisdur
 usaush;US6;His;Provincetown, MA;ma.us006hispro
-usaush;US20;His;Lusk, WY;wy.us020hislus
+usaush;US10;His;Ritzville, WA;wa.us010hisrit
+usaush;US20;His;Crawford, NE;ne.us020hiscra
 usaush;US20;His;Rushville, NE;ne.us020hisrus
-usaush;US20;His;Epworth, IA;ia.us020hisepw
-usaush;US20;His;Norwalk, OH;oh.us020hisnor
 usaush;US20;His;Painesville, OH;oh.us020hispai
-usaush;US20;His;North East, PA;pa.us020hisnor
-usaush;US20;His;Bridgewater, NY;ny.us020hisbri
-usaush;US20;His;New Lebanon, NY;ny.us020hisnew
-usaush;US20;His;Becket, MA;ma.us020hisbec
-usaush;US20;His;Marlborough, MA;ma.us020hismar
-usaush;US20;His;Sudbury, MA;ma.us020hissud
-usaush;US20;His;Weston, MA;ma.us020hiswes
-usaush;US20;His;Waltham, MA;ma.us020hiswal
+usaush;US20;His;Huntingdon, MA;ma.us020hishun
 usaush;US30;His;Columbia River, OR;or.us030hiscol
+usaush;US40;His;Dixon, CA;ca.us040hisdix
+usaush;US40;His;Sacramento, CA;ca.us040hissac
 usaush;US40;His;Roseville, CA;ca.us040hisros
 usaush;US40;His;Auburn, CA;ca.us040hisaub
 usaush;US40;His;Truckee, CA;ca.us040histru
 usaush;US41;His;Adairsville, GA;ga.us041hisada
 usaush;US66;His;Hollywood, CA;ca.us066hishol
+usaush;US66;His;South Pasadena, CA;ca.us066hisspa
 usaush;US66;His;Azusa, CA;ca.us066hisazu
-usaush;US66;His;Cajon Pass, CA;ca.us066hiscaj
 usaush;US66;His;Barstow, CA;ca.us066hisbar
 usaush;US66;His;Needles, CA;ca.us066hisnee
 usaush;US66;His;Kingman, AZ;az.us066hiskin
@@ -47,6 +42,16 @@ usaush;US66;His;Groom, TX;tx.us066hisgro
 usaush;US66;His;Alanreed, TX;tx.us066hisala
 usaush;US66;His;McLean, TX;tx.us066hismcl
 usaush;US66;His;Shamrock, TX;tx.us066hissha
+usaush;US66;His;Erick, OK;ok.us066hiseri
+usaush;US66;His;Clinton, OK;ok.us066hiscli
+usaush;US66;His;Weatherford, OK;ok.us066hiswea
+usaush;US66;His;El Reno, OK;ok.us066hiselr
+usaush;US66;His;Lake Overholser, OK;ok.us066hislko
+usaush;US66;His;Tulsa, OK;ok.us066histul
+usaush;US66;His;(1926-1932) Tulsa, OK;ok.us066hisntu
+usaush;US66;His;Chelsea, OK;ok.us066hische
+usaush;US66;His;Vinita, OK;ok.us066hisvin
+usaush;US66;His;Miami, OK;ok.us066hismia
 usaush;US66;His;St Louis, MO;ks.us066hisgal,mo.us066hisstl,il.us066hischi
 usaush;US66;His;(1940-1975) Joplin;mo.us066hisejo
 usaush;US66;His;(1930-1955) Joplin;mo.us066hisnjo
@@ -56,12 +61,13 @@ usaush;US66;His;(1926-1928) Springfield;mo.us066hisesp
 usaush;US66;His;Laquey;mo.us066hislaq
 usaush;US66;His;(1926-1933) Manchester;mo.us066hisman
 usaush;US66;His;(1936-1965) Florissant;mo.us066hisflo
-usaush;US66;His;(1940-1977) Livingstone, IL;il.us066hisliv
-usaush;US66;His;(1926-1930) Carlingville, IL;il.us066hiscar
+usaush;US66;His;(1940-1977) Livingston, IL;il.us066hisliv
+usaush;US66;His;(1926-1930) Carlinville, IL;il.us066hiscar
 usaush;US66;His;(1930-1940) Mount Olive, IL;il.us066hismou
-usaush;US66;His;(1930-1940) Lichfield, IL;il.us066hislic
+usaush;US66;His;(1930-1940) Litchfield, IL;il.us066hislit
 usaush;US66;His;(Spur) Willamsville, IL;il.us066hissprwil
 usaush;US66;His;(1930-1940) Lincoln, IL;il.us066hislin
+usaush;US66;His;(Spur) Chain of Rocks, IL;il.us066hissprcha
 usaush;US80;His;San Diego, CA;ca.us080hissan
 usaush;US80;His;El Cajon, CA;ca.us080hiscaj
 usaush;US80;His;Jacumba, CA;ca.us080hisjac
@@ -71,10 +77,18 @@ usaush;US80;His;Winterhaven, CA;ca.us080hiswin
 usaush;US89A;His;Clarkdale, AZ;az.us089ahiscla
 usaush;US99;His;Indio, CA;ca.us099hisind
 usaush;US99;His;Los Angeles, CA;ca.us099hislos
+usaush;US99;His;Tulare, CA;ca.us099histul
+usaush;US99;His;Red Bluff, CA;ca.us099hisrbl
 usaush;US99;His;Dunsmuir, CA;ca.us099hisdun
 usaush;US99;His;Weed, CA;ca.us099hiswee
 usaush;US99;His;Myrtle Creek, OR;or.us099hismyr
+usaush;US99;His;Federal Way, WA;wa.us099hisfed
+usaush;US99W;His;Williams, CA;ca.us099whiswlm
+usaush;US99W;His;Willows, CA;ca.us099whiswlw
 usaush;US101;His;San Diego, CA;ca.us101hissan
+usaush;US101;His;Paso Robles, CA;ca.us101hispas
 usaush;US395;His;San Diego, CA;ca.us395hissan
 usaush;US395;His;Poway, CA;ca.us395hispow
 usaush;US395;His;Temecula, CA;ca.us395histem
+usaush;US395;His;Riverside, CA;ca.us395hisriv
+usaush;US441;His;Clarksville, GA;ga.us441hiscla

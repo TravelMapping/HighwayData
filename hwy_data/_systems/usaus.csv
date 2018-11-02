@@ -1,4 +1,4 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 usaus;FL;US1;;;;fl.us001;
 usaus;GA;US1;;;;ga.us001;
 usaus;SC;US1;;;;sc.us001;
@@ -38,7 +38,7 @@ usaus;VT;US5;;;;vt.us005;
 usaus;CA;US6;;;;ca.us006;
 usaus;NV;US6;;;;nv.us006;
 usaus;UT;US6;;;;ut.us006;
-usaus;CO;US6;;;;co.us006;
+usaus;CO;US6;;;;co.us006;US6BypGra
 usaus;NE;US6;;;;ne.us006;
 usaus;IA;US6;;;;ia.us006;
 usaus;IL;US6;;;;il.us006;
@@ -475,7 +475,8 @@ usaus;ND;US85;;;;nd.us085;
 usaus;TX;US87;;;;tx.us087;
 usaus;NM;US87;;;;nm.us087;
 usaus;CO;US87;;;;co.us087;
-usaus;WY;US87;;;;wy.us087;
+usaus;WY;US87;;;Cheyenne;wy.us087;
+usaus;WY;US87;She;;Sheridan;wy.us087she;
 usaus;MT;US87;;;;mt.us087;
 usaus;AZ;US89;;;;az.us089;
 usaus;UT;US89;;;;ut.us089;
@@ -494,7 +495,7 @@ usaus;AZ;US93;;;;az.us093;
 usaus;NV;US93;;;;nv.us093;
 usaus;ID;US93;;;;id.us093;
 usaus;MT;US93;;;;mt.us093;
-usaus;AZ;US95;;;;az.us095;
+usaus;AZ;US95;;;;az.us095;US95TrkSan
 usaus;CA;US95;;;;ca.us095;
 usaus;NV;US95;;;;nv.us095;
 usaus;ID;US95;;;;id.us095;
@@ -639,7 +640,6 @@ usaus;VA;US220;;;;va.us220;
 usaus;WV;US220;;;;wv.us220;
 usaus;MD;US220;;;;md.us220;
 usaus;PA;US220;;;;pa.us220;
-usaus;NY;US220;;;;ny.us220;
 usaus;FL;US221;;;;fl.us221;
 usaus;GA;US221;;;;ga.us221;
 usaus;SC;US221;;;;sc.us221;

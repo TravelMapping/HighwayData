@@ -29,6 +29,7 @@ KY2442 http://www.openstreetmap.org/?lat=37.157598&lon=-83.766154
 KY2440_N http://www.openstreetmap.org/?lat=37.158880&lon=-83.766203
 KY3472 http://www.openstreetmap.org/?lat=37.159143&lon=-83.766193
 KY638 http://www.openstreetmap.org/?lat=37.162398&lon=-83.767162
+KY3560 http://www.openstreetmap.org/?lat=37.180899&lon=-83.771272
 KY3473 http://www.openstreetmap.org/?lat=37.187236&lon=-83.777418
 KY3477 http://www.openstreetmap.org/?lat=37.215245&lon=-83.786781
 US421_N http://www.openstreetmap.org/?lat=37.230136&lon=-83.783686
@@ -50,13 +51,16 @@ BetBowRd http://www.openstreetmap.org/?lat=37.440451&lon=-83.681788
 KY1938 http://www.openstreetmap.org/?lat=37.459803&lon=-83.687282
 KY28/30 http://www.openstreetmap.org/?lat=37.475880&lon=-83.675652
 KY3504 http://www.openstreetmap.org/?lat=37.479592&lon=-83.704748
-KY30_W http://www.openstreetmap.org/?lat=37.483134&lon=-83.714404
+OldKY30_W +KY30_W http://www.openstreetmap.org/?lat=37.483134&lon=-83.714404
+*OldKY11_S http://www.openstreetmap.org/?lat=37.485251&lon=-83.721188
+KY30 http://www.openstreetmap.org/?lat=37.485801&lon=-83.722945
+*OldKY11_N http://www.openstreetmap.org/?lat=37.487285&lon=-83.722743
 HumRd http://www.openstreetmap.org/?lat=37.511360&lon=-83.734703
 KY3332 http://www.openstreetmap.org/?lat=37.533212&lon=-83.730369
 KY587 http://www.openstreetmap.org/?lat=37.542808&lon=-83.728738
-KY3150_S http://www.openstreetmap.org/?lat=37.553968&lon=-83.715262
-KY3150_N http://www.openstreetmap.org/?lat=37.561283&lon=-83.707280
-KY3150 http://www.openstreetmap.org/?lat=37.567066&lon=-83.711314
+KY3150_A http://www.openstreetmap.org/?lat=37.553968&lon=-83.715262
+KY3150_B http://www.openstreetmap.org/?lat=37.561283&lon=-83.707280
+KY3150_C http://www.openstreetmap.org/?lat=37.567066&lon=-83.711314
 KY1411 http://www.openstreetmap.org/?lat=37.568460&lon=-83.707108
 KY52_E http://www.openstreetmap.org/?lat=37.568732&lon=-83.706636
 KY52_W http://www.openstreetmap.org/?lat=37.573052&lon=-83.706422
@@ -73,7 +77,7 @@ ComMtnPkwy http://www.openstreetmap.org/?lat=37.796899&lon=-83.703804
 KY15_S http://www.openstreetmap.org/?lat=37.798187&lon=-83.703547
 KY77 http://www.openstreetmap.org/?lat=37.814768&lon=-83.718824
 +X609058 http://www.openstreetmap.org/?lat=37.825752&lon=-83.728867
-SouForkRd http://www.openstreetmap.org/?lat=37.823480&lon=-83.753242
+KY1639 +SouForkRd http://www.openstreetmap.org/?lat=37.823480&lon=-83.753242
 CowCreRd http://www.openstreetmap.org/?lat=37.828802&lon=-83.767920
 KY613 http://www.openstreetmap.org/?lat=37.840970&lon=-83.771803
 HalBraRd http://www.openstreetmap.org/?lat=37.828667&lon=-83.786942
@@ -101,11 +105,12 @@ KY686_N http://www.openstreetmap.org/?lat=38.074130&lon=-83.948266
 I-64(110) http://www.openstreetmap.org/?lat=38.077901&lon=-83.949409
 US460_W http://www.openstreetmap.org/?lat=38.088027&lon=-83.950160
 KY537 http://www.openstreetmap.org/?lat=38.129662&lon=-83.958764
-KY3289 http://www.openstreetmap.org/?lat=38.176840&lon=-83.947177
-KY1198_W http://www.openstreetmap.org/?lat=38.195022&lon=-83.938293
-KY1198_E http://www.openstreetmap.org/?lat=38.201463&lon=-83.928895
-KY36_E http://www.openstreetmap.org/?lat=38.205814&lon=-83.920569
-KY36_W http://www.openstreetmap.org/?lat=38.235821&lon=-83.905807
+FaiRd http://www.openstreetmap.org/?lat=38.171134&lon=-83.953223
+KY3289 http://www.openstreetmap.org/?lat=38.177009&lon=-83.947864
+KY1198_W http://www.openstreetmap.org/?lat=38.195612&lon=-83.938894
+KY1198_E http://www.openstreetmap.org/?lat=38.202938&lon=-83.929721
+KY36_E http://www.openstreetmap.org/?lat=38.206910&lon=-83.922114
+KY36_W http://www.openstreetmap.org/?lat=38.234405&lon=-83.904219
 KY1106 http://www.openstreetmap.org/?lat=38.243205&lon=-83.876603
 KY1325_S http://www.openstreetmap.org/?lat=38.279494&lon=-83.807359
 KY1325_N http://www.openstreetmap.org/?lat=38.282964&lon=-83.806329
@@ -125,5 +130,5 @@ StrRunPk http://www.openstreetmap.org/?lat=38.563435&lon=-83.762941
 KY419 http://www.openstreetmap.org/?lat=38.575179&lon=-83.778048
 KY1448_W http://www.openstreetmap.org/?lat=38.602249&lon=-83.763070
 KY9/1448 http://www.openstreetmap.org/?lat=38.603121&lon=-83.761997
-KY2519 http://www.openstreetmap.org/?lat=38.637288&lon=-83.754101
+KY2519 http://www.openstreetmap.org/?lat=38.637535&lon=-83.754299
 US62/10 +US62/68Bus http://www.openstreetmap.org/?lat=38.639642&lon=-83.756880

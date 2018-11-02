@@ -1,6 +1,6 @@
-US1 http://www.openstreetmap.org/?lat=40.886022&lon=-73.827996
+US1 http://www.openstreetmap.org/?lat=40.886005&lon=-73.827868
 ESanBlvd http://www.openstreetmap.org/?lat=40.901480&lon=-73.821023
-CroPkwy http://www.openstreetmap.org/?lat=40.923111&lon=-73.822739
+CroCouPkwy +CroPkwy http://www.openstreetmap.org/?lat=40.923111&lon=-73.822739
 WinHillRd http://www.openstreetmap.org/?lat=40.946114&lon=-73.820443
 MillRd http://www.openstreetmap.org/?lat=40.956081&lon=-73.813705
 CraRd http://www.openstreetmap.org/?lat=40.988726&lon=-73.796604
@@ -9,7 +9,7 @@ NY125 http://www.openstreetmap.org/?lat=41.029223&lon=-73.765168
 NY119 http://www.openstreetmap.org/?lat=41.034882&lon=-73.763494
 I-287 http://www.openstreetmap.org/?lat=41.045812&lon=-73.769503
 CenWestPkwy http://www.openstreetmap.org/?lat=41.055198&lon=-73.766520
-BroRivPkwy http://www.openstreetmap.org/?lat=41.072719&lon=-73.761671
+BroRivPkwy http://www.openstreetmap.org/?lat=41.072723&lon=-73.761810
 +X01 http://www.openstreetmap.org/?lat=41.087147&lon=-73.755856
 +X02 http://www.openstreetmap.org/?lat=41.093600&lon=-73.743646
 +X03 http://www.openstreetmap.org/?lat=41.102833&lon=-73.738689
@@ -36,7 +36,7 @@ HarRd http://www.openstreetmap.org/?lat=41.343003&lon=-73.656271
 US202_W http://www.openstreetmap.org/?lat=41.352555&lon=-73.663094
 US6_Bre http://www.openstreetmap.org/?lat=41.394646&lon=-73.606853
 SodRd http://www.openstreetmap.org/?lat=41.398287&lon=-73.600282
-I-684(10) http://www.openstreetmap.org/?lat=41.396127&lon=-73.595159
+I-684(10) http://www.openstreetmap.org/?lat=41.394325&lon=-73.596339
 MilRd http://www.openstreetmap.org/?lat=41.415263&lon=-73.574624
 NY312 http://www.openstreetmap.org/?lat=41.428522&lon=-73.577263
 DoaRd http://www.openstreetmap.org/?lat=41.435102&lon=-73.575311
@@ -59,7 +59,8 @@ SheHillRd http://www.openstreetmap.org/?lat=41.703678&lon=-73.585117
 +X07 http://www.openstreetmap.org/?lat=41.714827&lon=-73.586640
 SNelHillRd http://www.openstreetmap.org/?lat=41.729657&lon=-73.579988
 SchSt http://www.openstreetmap.org/?lat=41.739105&lon=-73.580128
-NY343_W http://www.openstreetmap.org/?lat=41.745013&lon=-73.584452
+OldRte22_Dov http://www.openstreetmap.org/?lat=41.745013&lon=-73.584452
+NY343_W http://www.openstreetmap.org/?lat=41.758608&lon=-73.580351
 SouPk http://www.openstreetmap.org/?lat=41.774960&lon=-73.575804
 SSinRd http://www.openstreetmap.org/?lat=41.784801&lon=-73.556535
 OldRte22_Was http://www.openstreetmap.org/?lat=41.791137&lon=-73.552995
@@ -79,7 +80,7 @@ CatRd http://www.openstreetmap.org/?lat=42.016524&lon=-73.528833
 CR3 http://www.openstreetmap.org/?lat=42.073884&lon=-73.537931
 WeedMineRd http://www.openstreetmap.org/?lat=42.105434&lon=-73.540184
 NY344 http://www.openstreetmap.org/?lat=42.118599&lon=-73.528823
-NY344Cop +OldRte22_Cop http://www.openstreetmap.org/?lat=42.125474&lon=-73.525357
+NY344Cop http://www.openstreetmap.org/?lat=42.125586&lon=-73.525389
 FarmRd http://www.openstreetmap.org/?lat=42.137680&lon=-73.527439
 BlaGroRd http://www.openstreetmap.org/?lat=42.154130&lon=-73.520164
 YonRd http://www.openstreetmap.org/?lat=42.156500&lon=-73.516270
@@ -93,11 +94,12 @@ NY203 http://www.openstreetmap.org/?lat=42.312402&lon=-73.473237
 +X13 http://www.openstreetmap.org/?lat=42.328252&lon=-73.459568
 SpeRd http://www.openstreetmap.org/?lat=42.337008&lon=-73.419882
 StaLineRd +MA102 http://www.openstreetmap.org/?lat=42.349815&lon=-73.415623
-I-90(B3) http://www.openstreetmap.org/?lat=42.357894&lon=-73.427253
+I-90 +I-90(B3) http://www.openstreetmap.org/?lat=42.357688&lon=-73.427210
 TunHillRd http://www.openstreetmap.org/?lat=42.377029&lon=-73.428867
 NY295 http://www.openstreetmap.org/?lat=42.394067&lon=-73.412147
 US20_W http://www.openstreetmap.org/?lat=42.464119&lon=-73.396869
 US20_E http://www.openstreetmap.org/?lat=42.471084&lon=-73.386226
+OldUS20 http://www.openstreetmap.org/?lat=42.473917&lon=-73.381462
 OldPostRd http://www.openstreetmap.org/?lat=42.479298&lon=-73.373308
 WyoRd http://www.openstreetmap.org/?lat=42.517789&lon=-73.360133
 KnaRd http://www.openstreetmap.org/?lat=42.532212&lon=-73.358116
@@ -191,10 +193,7 @@ I-87(38) http://www.openstreetmap.org/?lat=44.714263&lon=-73.464031
 NY374 http://www.openstreetmap.org/?lat=44.717282&lon=-73.470619
 AshRd http://www.openstreetmap.org/?lat=44.758010&lon=-73.472486
 DurRd http://www.openstreetmap.org/?lat=44.766732&lon=-73.491658
-NY456 http://www.openstreetmap.org/?lat=44.775331&lon=-73.491604
+SpelRd http://www.openstreetmap.org/?lat=44.775331&lon=-73.491604
 +X33 http://www.openstreetmap.org/?lat=44.853120&lon=-73.516774
-NY191 http://www.openstreetmap.org/?lat=44.895867&lon=-73.549433
-US11_N http://www.openstreetmap.org/?lat=44.960365&lon=-73.581533
-US11_S http://www.openstreetmap.org/?lat=44.960334&lon=-73.587284
-+X34 http://www.openstreetmap.org/?lat=44.996429&lon=-73.588314
-NY/QC http://www.openstreetmap.org/?lat=45.004516&lon=-73.603055
+MinFarmRd http://www.openstreetmap.org/?lat=44.895867&lon=-73.549433
+US11 +US11_N http://www.openstreetmap.org/?lat=44.960365&lon=-73.581533

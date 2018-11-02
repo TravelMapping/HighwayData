@@ -1,4 +1,4 @@
-System;Route;Banner;Name;Roots
+systemName;route;banner;groupName;roots
 usafl;FLA1A;;Key West;fl.fla1akey
 usafl;FLA1A;;Fort Lauderdale;fl.fla1afor
 usafl;FLA1A;;North Palm Beach;fl.fla1anor
@@ -24,7 +24,7 @@ usafl;FL13;;;fl.fl013
 usafl;FL14;;;fl.fl014
 usafl;FL15;;Okeechobee;fl.fl015
 usafl;FL15;;Orlando;fl.fl015orl
-usafl;FL15A;;;fl.fl015a
+usafl;FL15A;;DeLand;fl.fl015a
 usafl;FL16;;;fl.fl016
 usafl;FL17;;Sebring;fl.fl017seb
 usafl;FL17;;;fl.fl017
@@ -32,25 +32,26 @@ usafl;FL18;;;fl.fl018
 usafl;FL19;;;fl.fl019
 usafl;FL20;;Blountstown;fl.fl020
 usafl;FL20;;High Springs;fl.fl020hig
-usafl;FL20;;Gainsville;fl.fl020gai
+usafl;FL20;;Gainesville;fl.fl020gai
 usafl;FL21;;;fl.fl021
 usafl;FL22;;;fl.fl022
 usafl;FL23;;;fl.fl023
 usafl;FL24;;;fl.fl024
-usafl;FL24A;;;fl.fl024a
+usafl;FL24A;;Gainesville;fl.fl024a
 usafl;FL25;;;fl.fl025
 usafl;FL26;;;fl.fl026
-usafl;FL26A;;;fl.fl026a
+usafl;FL26A;;Gainesville;fl.fl026a
 usafl;FL29;;;fl.fl029
-usafl;FL30;;;fl.fl030
+usafl;FL30;;Panama City Beach (West);fl.fl030
+usafl;FL30;;Panama City Beach (East);fl.fl030pcb
 usafl;FL30A;;Port St. Joe;fl.fl030apor
-usafl;FL30E;;;fl.fl030e
+usafl;FL30E;;Saint Joseph Bay Aquatic Preserve;fl.fl030e
 usafl;FL31;;;fl.fl031
 usafl;FL33;;;fl.fl033
 usafl;FL35;;;fl.fl035
 usafl;FL37;;;fl.fl037
 usafl;FL39;;;fl.fl039
-usafl;FL39A;;;fl.fl039a
+usafl;FL39A;;Plant City;fl.fl039a
 usafl;FL40;;;fl.fl040
 usafl;FL44;;;fl.fl044
 usafl;FL44;;New Smyrna Beach;fl.fl044nsb
@@ -60,11 +61,11 @@ usafl;FL46;;;fl.fl046
 usafl;FL47;;;fl.fl047
 usafl;FL48;;;fl.fl048
 usafl;FL50;;;fl.fl050
-usafl;FL50A;;;fl.fl050a
+usafl;FL50A;;Brooksville;fl.fl050a
 usafl;FL51;;;fl.fl051
 usafl;FL52;;;fl.fl052
 usafl;FL53;;;fl.fl053
-usafl;FL54;;;fl.fl054
+usafl;FL54;;Seven Springs;fl.fl054
 usafl;FL54;;Zephyrhills;fl.fl054zep
 usafl;FL56;;;fl.fl056
 usafl;FL59;;;fl.fl059
@@ -84,7 +85,7 @@ usafl;FL73;;;fl.fl073
 usafl;FL76;;;fl.fl076
 usafl;FL77;;;fl.fl077
 usafl;FL78;;North Fort Myers;fl.fl078nfm
-usafl;FL78;;;fl.fl078
+usafl;FL78;;Moore Haven;fl.fl078
 usafl;FL79;;;fl.fl079
 usafl;FL80;;Fort Myers;fl.fl080for
 usafl;FL80;;;fl.fl080
@@ -92,7 +93,7 @@ usafl;FL81;;;fl.fl081
 usafl;FL82;;;fl.fl082
 usafl;FL83;;;fl.fl083
 usafl;FL84;;Naples;fl.fl084nap
-usafl;FL84;;;fl.fl084
+usafl;FL84;;Fort Lauderdale;fl.fl084
 usafl;FL85;;;fl.fl085
 usafl;FL87;;;fl.fl087
 usafl;FL89;;;fl.fl089
@@ -104,15 +105,14 @@ usafl;FL102;;;fl.fl102
 usafl;FL103;;;fl.fl103
 usafl;FL104;;;fl.fl104
 usafl;FL105;;;fl.fl105
-usafl;FL109;;;fl.fl109
-usafl;FL109;;University Blvd N;fl.fl109uni
+usafl;FL109;;Jacksonville;fl.fl109
+usafl;FL109;;Arlington;fl.fl109arl
 usafl;FL111;;;fl.fl111
-usafl;FL112;;;fl.fl112
+usafl;FL112;;Miami;fl.fl112
+usafl;FL112;;Miami Beach;fl.fl112mia
 usafl;FL113;;;fl.fl113
-usafl;FL114;;;fl.fl114
-usafl;FL115;;;fl.fl115
+usafl;FL115;;Jacksonville;fl.fl115
 usafl;FL115;;Callahan;fl.fl115cal
-usafl;FL115A;;;fl.fl115a
 usafl;FL116;;;fl.fl116
 usafl;FL117;;;fl.fl117
 usafl;FL120;;;fl.fl120
@@ -124,60 +124,56 @@ usafl;FL128;;;fl.fl128
 usafl;FL129;;;fl.fl129
 usafl;FL134;;;fl.fl134
 usafl;FL136;;;fl.fl136
-usafl;FL139;;;fl.fl139
 usafl;FL143;;;fl.fl143
 usafl;FL145;;Fort Walton Beach;fl.fl145fwb
-usafl;FL145;;;fl.fl145
+usafl;FL145;;Madison;fl.fl145
 usafl;FL152;;;fl.fl152
 usafl;FL155;;;fl.fl155
 usafl;FL159;;;fl.fl159
-usafl;FL162;;;fl.fl162
+usafl;FL160;;;fl.fl160
 usafl;FL166;;;fl.fl166
 usafl;FL173;;;fl.fl173
-usafl;FL187;;;fl.fl187
 usafl;FL188;;;fl.fl188
 usafl;FL189;;Fort Walton Beach;fl.fl189fwb
-usafl;FL189;;;fl.fl189
+usafl;FL189;;Baker;fl.fl189
 usafl;FL190;;;fl.fl190
 usafl;FL196;;;fl.fl196
-usafl;FL200;;;fl.fl200
+usafl;FL200;;Ocala;fl.fl200
+usafl;FL200;;Fernandina Beach;fl.fl200fer
 usafl;FL202;;;fl.fl202
 usafl;FL206;;;fl.fl206
 usafl;FL207;;;fl.fl207
 usafl;FL208;;;fl.fl208
 usafl;FL211;;;fl.fl211
-usafl;FL212;;;fl.fl212
 usafl;FL222;;;fl.fl222
 usafl;FL224;;;fl.fl224
 usafl;FL226;;;fl.fl226
 usafl;FL228;;Macclenny;fl.fl228mac
-usafl;FL228;;;fl.fl228
-usafl;FL228A;;;fl.fl228a
+usafl;FL228;;Jacksonville;fl.fl228
 usafl;FL230;;;fl.fl230
-usafl;FL231;;;fl.fl231
+usafl;FL231;;Brooker;fl.fl231
 usafl;FL231;;Lake Butler;fl.fl231lak
 usafl;FL235;;;fl.fl235
 usafl;FL238;;;fl.fl238
+usafl;FL243;;;fl.fl243
 usafl;FL247;;;fl.fl247
-usafl;FL249;;;fl.fl249
-usafl;FL261;;;fl.fl261
 usafl;FL263;;;fl.fl263
 usafl;FL265;;;fl.fl265
-usafl;FL267;;;fl.fl267
+usafl;FL267;;Hilliardville;fl.fl267
 usafl;FL267;;Quincy;fl.fl267qui
+usafl;FL269;;;fl.fl269
 usafl;FL273;;;fl.fl273
 usafl;FL276;;;fl.fl276
 usafl;FL277;;;fl.fl277
 usafl;FL281;;;fl.fl281
 usafl;FL285;;;fl.fl285
 usafl;FL289;;;fl.fl289
-usafl;FL290;;;fl.fl290
 usafl;FL291;;;fl.fl291
 usafl;FL292;;;fl.fl292
 usafl;FL293;;;fl.fl293
 usafl;FL294;;;fl.fl294
-usafl;FL295;;;fl.fl295
-usafl;FL295;;N New Warrington Rd;fl.fl295nnw
+usafl;FL295;;Pensacola;fl.fl295
+usafl;FL295;;West Pensacola;fl.fl295wpe
 usafl;FL296;;;fl.fl296
 usafl;FL297;;;fl.fl297
 usafl;FL298;;;fl.fl298
@@ -186,25 +182,22 @@ usafl;FL312;;;fl.fl312
 usafl;FL320;;;fl.fl320
 usafl;FL326;;;fl.fl326
 usafl;FL327;;;fl.fl327
-usafl;FL329;;;fl.fl329
 usafl;FL331;;;fl.fl331
 usafl;FL345;;;fl.fl345
 usafl;FL349;;;fl.fl349
 usafl;FL363;;;fl.fl363
 usafl;FL366;;;fl.fl366
 usafl;FL368;;;fl.fl368
-usafl;FL369;;;fl.fl369
 usafl;FL371;;;fl.fl371
 usafl;FL373;;;fl.fl373
-usafl;FL375;;;fl.fl375
-usafl;FL377;;;fl.fl377
+usafl;FL388;;;fl.fl388
 usafl;FL389;;;fl.fl389
 usafl;FL390;;;fl.fl390
 usafl;FL391;;;fl.fl391
 usafl;FL392A;;;fl.fl392a
 usafl;FL393;;;fl.fl393
-usafl;FL397;;Eglin Air Force Base;fl.fl397eaf
-usafl;FL397;;;fl.fl397
+usafl;FL397;;Eglin Air Force Base (South);fl.fl397eaf
+usafl;FL397;;Eglin Air Force Base (North);fl.fl397
 usafl;FL400;;;fl.fl400
 usafl;FL401;;;fl.fl401
 usafl;FL404;;;fl.fl404
@@ -212,7 +205,6 @@ usafl;FL405;;;fl.fl405
 usafl;FL406;;;fl.fl406
 usafl;FL407;;;fl.fl407
 usafl;FL408;;;fl.fl408
-usafl;FL408;Spr;;fl.fl408spr
 usafl;FL414;;;fl.fl414
 usafl;FL415;;;fl.fl415
 usafl;FL416;;;fl.fl416
@@ -231,34 +223,33 @@ usafl;FL437;;;fl.fl437
 usafl;FL438;;;fl.fl438
 usafl;FL441;;;fl.fl441
 usafl;FL442;;;fl.fl442
+usafl;FL451;;;fl.fl451
+usafl;FL453;;;fl.fl453
 usafl;FL464;;;fl.fl464
 usafl;FL471;;;fl.fl471
 usafl;FL472;;;fl.fl472
 usafl;FL482;;;fl.fl482
 usafl;FL483;;;fl.fl483
 usafl;FL492;;;fl.fl492
-usafl;FL500;;;fl.fl500
-usafl;FL500A;;;fl.fl500a
+usafl;FL500A;;Tavares;fl.fl500atav
 usafl;FL501;;;fl.fl501
 usafl;FL507;;;fl.fl507
 usafl;FL508;;;fl.fl508
 usafl;FL510;;;fl.fl510
 usafl;FL513;;;fl.fl513
 usafl;FL514;;;fl.fl514
-usafl;FL517;;;fl.fl517
 usafl;FL518;;;fl.fl518
 usafl;FL519;;;fl.fl519
 usafl;FL520;;;fl.fl520
 usafl;FL524;;;fl.fl524
 usafl;FL526;;;fl.fl526
-usafl;FL527;;;fl.fl527
+usafl;FL527;;Orlando;fl.fl527
+usafl;FL527;;Winter Park;fl.fl527win
 usafl;FL528;;;fl.fl528
-usafl;FL530;;;fl.fl530
-usafl;FL533;;;fl.fl533
 usafl;FL535;;;fl.fl535
 usafl;FL536;;;fl.fl536
 usafl;FL539;;;fl.fl539
-usafl;FL540;;;fl.fl540
+usafl;FL540;;Lakeland;fl.fl540
 usafl;FL540;;Cypress Gardens;fl.fl540cyp
 usafl;FL542;;;fl.fl542
 usafl;FL544;;;fl.fl544
@@ -268,7 +259,6 @@ usafl;FL549;;;fl.fl549
 usafl;FL551;;;fl.fl551
 usafl;FL552;;;fl.fl552
 usafl;FL553;;;fl.fl553
-usafl;FL555;;;fl.fl555
 usafl;FL559;;;fl.fl559
 usafl;FL563;;;fl.fl563
 usafl;FL566;;;fl.fl566
@@ -285,26 +275,21 @@ usafl;FL581;;;fl.fl581
 usafl;FL582;;;fl.fl582
 usafl;FL583;;;fl.fl583
 usafl;FL584;;;fl.fl584
-usafl;FL585;;;fl.fl585
 usafl;FL586;;;fl.fl586
 usafl;FL589;;;fl.fl589
-usafl;FL590;;;fl.fl590
+usafl;FL590;;Clearwater;fl.fl590
 usafl;FL590;;Bridgeport;fl.fl590bri
-usafl;FL592;;;fl.fl592
 usafl;FL594;;;fl.fl594
 usafl;FL595;;;fl.fl595
 usafl;FL597;;;fl.fl597
-usafl;FL599;;;fl.fl599
-usafl;FL600;;Tampa;fl.fl600tam
-usafl;FL600;;;fl.fl600
 usafl;FL607;;;fl.fl607
 usafl;FL608;;;fl.fl608
 usafl;FL614;;;fl.fl614
 usafl;FL615;;;fl.fl615
 usafl;FL616;;;fl.fl616
 usafl;FL618;;;fl.fl618
+usafl;FL620;;;fl.fl620
 usafl;FL636;;;fl.fl636
-usafl;FL651;;;fl.fl651
 usafl;FL655;;;fl.fl655
 usafl;FL656;;;fl.fl656
 usafl;FL659;;;fl.fl659
@@ -315,7 +300,6 @@ usafl;FL678;;;fl.fl678
 usafl;FL679;;;fl.fl679
 usafl;FL681;;;fl.fl681
 usafl;FL682;;;fl.fl682
-usafl;FL683;;;fl.fl683
 usafl;FL684;;;fl.fl684
 usafl;FL685;;;fl.fl685
 usafl;FL686;;;fl.fl686
@@ -324,12 +308,10 @@ usafl;FL688;;;fl.fl688
 usafl;FL693;;;fl.fl693
 usafl;FL694;;;fl.fl694
 usafl;FL699;;;fl.fl699
-usafl;FL700;;Dade City;fl.fl700dad
-usafl;FL700;;;fl.fl700
+usafl;FL700;;Canal Point;fl.fl700
 usafl;FL700;;Brooksville;fl.fl700bro
 usafl;FL704;;;fl.fl704
 usafl;FL706;;;fl.fl706
-usafl;FL707;;;fl.fl707
 usafl;FL708;;;fl.fl708
 usafl;FL710;;;fl.fl710
 usafl;FL713;;;fl.fl713
@@ -339,8 +321,8 @@ usafl;FL716;;;fl.fl716
 usafl;FL717;;;fl.fl717
 usafl;FL727;;;fl.fl727
 usafl;FL729;;;fl.fl729
-usafl;FL732;;;fl.fl732
-usafl;FL732;;Jensen Beach;fl.fl732jen
+usafl;FL732;;Jensen Beach (West);fl.fl732
+usafl;FL732;;Jensen Beach (East);fl.fl732jen
 usafl;FL736;;;fl.fl736
 usafl;FL739;;;fl.fl739
 usafl;FL742;;;fl.fl742
@@ -354,3 +336,84 @@ usafl;FL789;;;fl.fl789
 usafl;FL794;;;fl.fl794
 usafl;FL800;;;fl.fl800
 usafl;FL802;;;fl.fl802
+usafl;FL804;;;fl.fl804
+usafl;FL806;;;fl.fl806
+usafl;FL807;;;fl.fl807
+usafl;FL808;;;fl.fl808
+usafl;FL809;;;fl.fl809
+usafl;FL810;;;fl.fl810
+usafl;FL811;;Oakland Park;fl.fl811oak
+usafl;FL811;;Deerfield Beach;fl.fl811dee
+usafl;FL811;;Jupiter;fl.fl811
+usafl;FL812;;;fl.fl812
+usafl;FL814;;;fl.fl814
+usafl;FL816;;;fl.fl816
+usafl;FL817;;;fl.fl817
+usafl;FL818;;;fl.fl818
+usafl;FL820;;Pembroke Pines;fl.fl820
+usafl;FL820;;Hollywood;fl.fl820hol
+usafl;FL822;;;fl.fl822
+usafl;FL823;;;fl.fl823
+usafl;FL824;;;fl.fl824
+usafl;FL825;;Three Lakes;fl.fl825
+usafl;FL825;;Tamiami;fl.fl825tam
+usafl;FL826;;;fl.fl826
+usafl;FL834;;;fl.fl834
+usafl;FL836;;;fl.fl836
+usafl;FL838;;;fl.fl838
+usafl;FL842;;Fort Lauderdale;fl.fl842
+usafl;FL842;;East Fort Lauderdale;fl.fl842efl
+usafl;FL844;;;fl.fl844
+usafl;FL845;;;fl.fl845
+usafl;FL847;;;fl.fl847
+usafl;FL848;;;fl.fl848
+usafl;FL849;;;fl.fl849
+usafl;FL850;;;fl.fl850
+usafl;FL852;;;fl.fl852
+usafl;FL856;;;fl.fl856
+usafl;FL858;;;fl.fl858
+usafl;FL860;;;fl.fl860
+usafl;FL865;;Fort Myers Beach;fl.fl865
+usafl;FL865;;Fort Myers;fl.fl865for
+usafl;FL867;;;fl.fl867
+usafl;FL869;;;fl.fl869
+usafl;FL870;;;fl.fl870
+usafl;FL874;;;fl.fl874
+usafl;FL878;;;fl.fl878
+usafl;FL882;;;fl.fl882
+usafl;FL884;;;fl.fl884
+usafl;FL886;;;fl.fl886
+usafl;FL887;;;fl.fl887
+usafl;FL907;;;fl.fl907
+usafl;FL907A;;;fl.fl907a
+usafl;FL909;;North Miami;fl.fl909nmi
+usafl;FL909;;North Miami Beach;fl.fl909
+usafl;FL915;;;fl.fl915
+usafl;FL916;;;fl.fl916
+usafl;FL922;;;fl.fl922
+usafl;FL924;;;fl.fl924
+usafl;FL925;;;fl.fl925
+usafl;FL932;;;fl.fl932
+usafl;FL933;;;fl.fl933
+usafl;FL934;;;fl.fl934
+usafl;FL944;;;fl.fl944
+usafl;FL948;;;fl.fl948
+usafl;FL951;;Marco Island;fl.fl951
+usafl;FL951;;Naples;fl.fl951nap
+usafl;FL953;;;fl.fl953
+usafl;FL959;;;fl.fl959
+usafl;FL960;;;fl.fl960
+usafl;FL968;;;fl.fl968
+usafl;FL969;;;fl.fl969
+usafl;FL970;;;fl.fl970
+usafl;FL972;;;fl.fl972
+usafl;FL973;;;fl.fl973
+usafl;FL976;;;fl.fl976
+usafl;FL985;;;fl.fl985
+usafl;FL986;;;fl.fl986
+usafl;FL989;;;fl.fl989
+usafl;FL990;;;fl.fl990
+usafl;FL992;;;fl.fl992
+usafl;FL994;;;fl.fl994
+usafl;FL997;;;fl.fl997
+usafl;FL9336;;;fl.fl9336

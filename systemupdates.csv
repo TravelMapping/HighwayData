@@ -1,4 +1,292 @@
-﻿YYYY-MM-DD;Country/Region;System;Description;StatusChange
+﻿date;region;systemName;description;statusChange
+2018-11-01;South Africa;zafn;South Africa National Highways;active
+2018-10-22;Poland;poldw5;Poland Droga Wojewódzka 500-599;preview
+2018-10-22;Poland;poldw9;Poland Droga Wojewódzka 900-999;preview
+2018-10-19;Poland;poldw3;Poland Droga Wojewódzka 300-399;preview
+2018-10-19;Poland;poldw4;Poland Droga Wojewódzka 400-499;preview
+2018-10-14;Germany;deub;Germany Bundesstraßen;active
+2018-09-03;Poland;poldw7;Poland Droga Wojewódzka 700-799;preview
+2018-08-27;(Germany) Thuringia;deuthl;Thuringia Landesstraßen;preview
+2018-08-25;Poland;poldw2;Poland Droga Wojewódzka 200-299;preview
+2018-08-15;(Canada) Manitoba;canmbp;Manitoba Provincial Roads;preview
+2018-07-22;(USA) Louisiana;usala;Louisiana State Highways;preview
+2018-07-14;Russia;rusa;Russia Access Roads;preview
+2018-07-09;Tajikistan;tjkrb;Tajikistan РБ Roads;active
+2018-06-26;Tajikistan;tjkrb;Tajikistan РБ Roads;preview
+2018-06-15;(USA) New York;usanyp;New York Parkways;preview
+2018-06-15;(USA) Arkansas;usaar;Arkansas State Highways;preview
+2018-05-27;Isle of Man;imnb;Isle of Man B Roads;preview
+2018-05-27;Jersey;jeyb;Jersey B Roads;preview
+2018-05-24;(Germany) Schleswig-Holstein;deushl;Schleswig-Holstein Landesstraßen;preview
+2018-05-03;(Denmark) Faroe Islands;frolv;Faroe Islands Landsvegur;active
+2018-05-03;New Zealand;nzlsh;New Zealand State Highways;preview
+2018-05-01;(Germany) Saxony-Anhalt;deustl;Saxony-Anhalt Landesstraßen;preview
+2018-04-07;Belize;blzar;Belize National Routes;preview
+2018-04-07;Belize;blzd;Belize District Routes;preview
+2018-04-03;United Kingdom;gbnb;Great Britain B Roads;preview
+2018-04-03;(UK) England;engb;Great Britain B Roads (Southeastern England);merged
+2018-04-03;(UK) Scotland;sctb;Great Britain B Roads (Scotland & Northern England);merged
+2018-04-03;(UK) Wales;wlsb;Great Britain B Roads (Wales & Western England);merged
+2018-03-26;(Canada) Alberta;canabs;Alberta Provincial Highways 500-986;preview
+2018-03-25;(Germany) Mecklenburg-Western Pomerania;deumvl;Mecklenburg-Western Pomerania Landesstraßen;preview
+2018-03-24;(UK) Northern Ireland;nirb;Northern Ireland B Roads;preview
+2018-03-23;(USA) Alaska;usaak;Alaska State Highways;active
+2018-03-11;(Germany) Saxony;deusns;Saxony Staatsstraßen;preview
+2018-03-11;Slovakia;svkii;Slovakia Cesta II. Triedy;active
+2018-03-11;Slovenia;svnr;Slovenia Regionalna Ceste;active
+2018-03-10;(UK) Wales;wlsb;Great Britain B Roads (Wales & Western England);preview
+2018-03-03;(Canada) Saskatchewan;cansk;Saskatchewan Provincial Highways 1-399;preview
+2018-02-25;(Germany) Lower Saxony;deunil;Lower Saxony Landesstraßen;preview
+2018-02-11;Iceland;islf;Iceland Fjallvegir;preview
+2018-02-10;(UK) England;engb;Great Britain B Roads (Southeastern England);preview
+2018-02-09;(South) Korea;korex;Korean Expressways;active
+2018-01-27;(Germany) Hamburg;deuhhr;Hamburg Ringstraßen;preview
+2018-01-26;(Germany) Brandenburg;deubbl;Brandenburg Landesstraßen;preview
+2018-01-22;Lithuania;ltuk;Lithuania Krašto Keliai;active
+2018-01-05;Estonia;estt;Estonia Tugimaanteed;active
+2018-01-05;(USA) Montana;usamts;Montana Secondary State Highways;active
+2018-01-05;Spain;espn;Spain Carretera Nacionales;active
+2018-01-05;Montenegro;mnem;Montenegro Magistralni Put;re-entered
+2018-01-05;(Spain) Canary Islands;espcn;Canary Islands Red Regional;preview
+2018-01-05;(Spain) Balearic Islands;espib;Balearic Islands Red Primaria;preview
+2018-01-05;(Spain) Region of Murcia;espmc;Region of Murcia Red de Primer Nivel;preview
+2018-01-02;Netherlands;nldrw;Netherlands Ringwegen;active
+2017-12-31;Netherlands;nldp;Netherlands Provinciale Wegen;active
+2017-12-29;Netherlands;nldrw;Netherlands Ringwegen;preview
+2017-12-28;(Germany) North Rhine-Westphalia;deunwl;North Rhine-Westphalia Landesstraßen;preview
+2017-12-24;(Canada) Manitoba;canmbw;Winnipeg City Routes;preview
+2017-12-16;(Germany) Saarland;deusll;Saarland Landesstraßen 1. Ordnung;preview
+2017-12-12;(Spain) Andalusia;espan;Andalusia Red Básica;preview
+2017-12-12;(Spain) Aragon);espar;Aragon Red Básica;preview
+2017-12-12;(Spain) Valencian Community;espvc;Valencian Community Red Básica;preview
+2017-12-12;Montenegro;mnem2;Montenegro Magistralni Put (new);preview
+2017-12-11;Norway;norfv;Norway Primære Fylkesveier;preview
+2017-12-03;(Germany) Rhineland-Palatinate;deurpl;Rhineland-Palatinate Landesstraßen;preview
+2017-11-27;(Spain) Asturias;espas;Asturias Red Regional;preview
+2017-11-27;(Spain) Cantabria;espcb;Cantabria Red Primaria;preview
+2017-11-27;(Spain) Castile and Leon;espcl;Castile and Leon Red Básica;preview
+2017-11-27;(Spain) Castilla-La Mancha;espcm;Castilla-La Mancha Red Básica;preview
+2017-11-27;(Spain) Catalonia;espct;Catalonia Xarxa Básica;preview
+2017-11-27;(Spain) Extremadura;espex;Extremadura Red Básica;preview
+2017-11-27;(Spain) Community of Madrid;espmd;Community of Madrid Red Principal;preview
+2017-11-27;(Spain) Navarre;espnc;Navarre Carreteras de Interés de la Comunidad Foral;preview
+2017-11-27;(Spain) Basque Country;esppv;Basque Country Oinarrizko Sarea;preview
+2017-11-27;(Spain) La Rioja;espri;La Rioja Red Regional Básica;preview
+2017-10-06;Germany;deua;German Autobahnen;re-entered
+2017-10-06;Germany;deub;Germany Bundesstraßen;re-entered
+2017-10-06;(Germany) Bavaria;deubyst;Bavaria Staatsstraßen;re-entered
+2017-10-06;(Germany) Hesse;deuhel;Hesse Landesstraßen;re-entered
+2017-10-06;Germany;eure;UNECE International 'E' Roads (Germany);re-entered
+2017-10-06;Germany;eursf;Europe Select Named Freeways (Germany);re-entered
+2017-10-06;Spain;espa;Spain Autopista / Autovia;re-entered
+2017-10-06;Spain;espn;Spain Carretera Nacionales;re-entered
+2017-10-06;Spain;eure;UNECE International 'E' Roads (Spain);re-entered
+2017-10-06;Spain;eursf;Europe Select Named Freeways (Spain);re-entered
+2017-10-06;(Germany) Baden-Württemberg;deubwl;Baden-Württemberg Landesstraßen;preview
+2017-09-29;Indonesia;idnjt;Indonesia Jalan Tol;active
+2017-09-29;(China) Hong Kong;hkgrt;Hong Kong Routes;active
+2017-09-29;(UK) Scotland;sctb;Great Britain B Roads (Scotland & Northern England);preview
+2017-09-18;Albania;albsh;Albania Rrugë Shtetërore;active
+2017-09-18;(China) Taiwan;twnf;Taiwan National Freeways;active
+2017-09-18;Ireland;irlr;Ireland Regional Roads;active
+2017-09-18;Serbia;srbb;Serbia Državni Put;active
+2017-09-18;(Denmark) Faroe Islands;frolv;Faroe Islands Landsvegur;preview
+2017-09-18;Slovenia;svnr;Slovenia Regionalna Ceste;preview
+2017-09-06;Iran;irnf;Iran Freeways;active
+2017-09-06;Malaysia;myse;Malaysia Expressways;active
+2017-09-06;New Zealand;nzlmot;New Zealand Motorways;active
+2017-09-06;Pakistan;pakm;Pakistan Motorways;active
+2017-09-06;Sri Lanka;lkae;Sri Lanka Expressways;active
+2017-09-06;Israel;isrh;Israel Highways;active
+2017-09-06;Afghanistan;asiah;UNESCAP Asian Highways;active
+2017-09-06;Iran;asiah;UNESCAP Asian Highways;active
+2017-09-06;Pakistan;asiah;UNESCAP Asian Highways;active
+2017-09-06;USA;usaush;United States Historic US Routes;preview
+2017-09-06;Sweden;swel;Sweden Primära Länsvägar;active
+2017-09-02;Japan;jpne;Japan Expressways;preview
+2017-08-27;Iceland;islth;Iceland Þjóðvegir;active
+2017-08-23;(USA) Tennessee;usatn;Tennessee State Highways;active
+2017-08-23;(USA) Florida;usafl;Florida State Highways;preview
+2017-08-21;(Canada) New Brunswick;cannb;New Brunswick Provincial Highways;split
+2017-08-21;(Canada) New Brunswick;cannba;New Brunswick Arterial Highways;active
+2017-08-21;(Canada) New Brunswick;cannbc;New Brunswick Collector Highways;active
+2017-08-21;(Canada) New Brunswick;cannbl;New Brunswick Local Highways;active
+2017-08-15;USA;usanp;United States Select National Park Highways;preview
+2017-08-15;Italy;itass;Italy Strada Statale;preview
+2017-08-10;Austria;autb;Austria Landesstraßen B;active
+2017-07-30;Denmark;dnksr;Denmark Sekundærrute;active
+2017-07-29;Portugal;prtic;Portugal Itinerários Complementares;active
+2017-07-28;Croatia;hrvd;Croatia Državne Ceste;active
+2017-07-25;Belgium;beln;Belgium Gewestwegen / Route Nationale;preview
+2017-07-19;Switzerland;cheh;Switzerland Hauptstrassen;active
+2017-07-09;Gabon;gaba;Gabon Autoroutes;active
+2017-07-09;Namibia;nama;Namibia A Roads;active
+2017-07-09;Senegal;sena;Senegal Autoroutes;active
+2017-07-09;Tunisia;tuna;Tunisia Autoroutes;active
+2017-07-09;Slovakia;svkii;Slovakia Cesta II. Triedy;preview
+2017-07-09;South Africa;zafn;South Africa National Highways;preview
+2017-07-05;(Canada) Manitoba;canmb;Manitoba Provincial Trunk Highways;active
+2017-06-16;Czechia;czei;Czechia Silnice I. Třídy;active
+2017-06-16;(Germany) Hesse;deuhel;Hesse Landesstraßen;preview
+2017-06-13;Barbados;brbh;Barbados Highways;active
+2017-06-13;Namibia;nama;Namibia A Roads;preview
+2017-06-13;Nepal;nplh;Nepal Highways;preview
+2017-06-13;Poland;poldw1;Poland Droga Wojewódzka 100-199;preview
+2017-06-01;Israel;isrh;Israel Highways;preview
+2017-05-30;(USA) Virginia;usava;Virginia State Highways;active
+2017-05-29;(Canada) Quebec;canqc;Quebec Provincial Routes;preview
+2017-05-13;Netherlands;nlds;Netherlands Stadsroutes;active
+2017-05-06;(USA) California;usaca;California State Highways;preview
+2017-05-06;(Canada) British Columbia;canbc;British Columbia Provincial Highways;active
+2017-05-05;(USA) Puerto Rico;usapr;Puerto Rico Territorial Highways;preview
+2017-04-22;Portugal;prtic;Portugal Itinerários Complementares;preview
+2017-04-20;(China) Xinjiang;asiah;UNESCAP Asian Highways;active
+2017-04-20;Mongolia;asiah;UNESCAP Asian Highways;active
+2017-04-20;Russia;asiah;UNESCAP Asian Highways;active
+2017-04-20;Denmark;dnksr;Denmark Sekundærrute;preview
+2017-04-11;(USA) Wyoming;usawy;Wyoming State Highways;active
+2017-04-08;Ireland;irlr;Ireland Regional Roads;preview
+2017-04-08;Ireland;irlr1;Ireland Regional Roads 1xx;merged
+2017-04-08;Ireland;irlr2;Ireland Regional Roads 2xx;merged
+2017-04-08;Ireland;irlr3;Ireland Regional Roads 3xx;merged
+2017-04-08;Ireland;irlr4;Ireland Regional Roads 4xx;merged
+2017-04-08;Ireland;irlr5;Ireland Regional Roads 5xx;merged
+2017-04-08;Ireland;irlr6;Ireland Regional Roads 6xx;merged
+2017-04-08;Ireland;irlr7;Ireland Regional Roads 7xx;merged
+2017-04-08;Ireland;irlr8;Ireland Regional Roads 8xx;merged
+2017-04-08;Ireland;irlr9;Ireland Regional Roads 9xx;merged
+2017-04-06;Ireland;irlr3;Ireland Regional Roads 3xx;preview
+2017-04-06;Ireland;irlr4;Ireland Regional Roads 4xx;preview
+2017-04-02;Singapore;sgpex;Singapore Expressways;active
+2017-03-30;Ireland;irlr1;Ireland Regional Roads 1xx;preview
+2017-03-30;Ireland;irlr2;Ireland Regional Roads 2xx;preview
+2017-03-30;Ireland;irlr5;Ireland Regional Roads 5xx;preview
+2017-03-30;Ireland;irlr6;Ireland Regional Roads 6xx;preview
+2017-03-30;Ireland;irlr7;Ireland Regional Roads 7xx;preview
+2017-03-30;Ireland;irlr8;Ireland Regional Roads 8xx;preview
+2017-03-30;Ireland;irlr9;Ireland Regional Roads 9xx;preview
+2017-03-26;(Germany) Bavaria;deubyst;Bavaria Staatsstraßen;preview
+2017-03-21;Spain;espn;Spain Carretera Nacionales;preview
+2017-02-28;Gabon;gaba;Gabon Autoroutes;preview
+2017-02-28;Senegal;sena;Senegal Autoroutes;preview
+2017-02-28;Sri Lanka;lkaa;Sri Lanka A Roads;preview
+2017-02-13;Iceland;islth;Iceland Þjóðvegir;preview
+2017-02-03;(Canada) Newfoundland and Labrador;cannl;Newfoundland and Labrador Provincial Highways;preview
+2017-01-27;Estonia;estt;Estonia Tugimaanteed;preview
+2017-01-20;(USA) Georgia;usaga;Georgia State Highways;preview
+2017-01-18;(USA) Tennessee;usatn;Tennessee State Highways;preview
+2017-01-18;Lithuania;ltuk;Lithuania Krašto Keliai;preview
+2017-01-10;Kosovo;rksn;Kosovo National Roads;active
+2017-01-10;Macedonia;mkda;Macedonia Magistrale;active
+2017-01-10;Montenegro;mnem;Montenegro Magistralni Put;active
+2016-12-27;Sweden;swel;Sweden Primära Länsvägar;preview
+2016-12-18;Netherlands;nlds;Netherlands Stadsroutes;preview
+2016-12-14;Netherlands;nldr;Netherlands Rijkswegen;active
+2016-12-14;Netherlands;nldp;Netherlands Provinciale Wegen;preview
+2016-12-03;Czechia;czeii;Czechia Silnice II. Třídy;preview
+2016-11-30;(Canada) Manitoba;canmb;Manitoba Provincial Trunk Highways;preview
+2016-11-29;(Canada) Alberta;canab;Alberta Provincial Highways 1-216;active
+2016-11-25;Bulgaria;bgri;Bulgaria First and Second Class Roads;active
+2016-11-25;Hungary;hunf;Hungary Főútjai;active
+2016-11-25;Moldova;mdam;Moldova Magistrale;active
+2016-11-25;Portugal;prtip;Portugal Itinerários Principais;active
+2016-11-25;Portugal;prtve;Madeira Via Expresso;active
+2016-11-25;Slovakia;svki;Slovakia Cesta I. Triedy;active
+2016-11-24;Kazakhstan;asiah;UNESCAP Asian Highways;active
+2016-11-24;Kyrgyzstan;asiah;UNESCAP Asian Highways;active
+2016-11-24;Tajikistan;asiah;UNESCAP Asian Highways;active
+2016-11-24;Turkmenistan;asiah;UNESCAP Asian Highways;active
+2016-11-24;Uzbekistan;asiah;UNESCAP Asian Highways;active
+2016-11-24;Georgia;cisa;Central Asian doroga nacional'nogo znacenija;active
+2016-11-24;Tajikistan;cisa;Central Asian doroga nacional'nogo znacenija;active
+2016-11-24;Turkmenistan;cisa;Central Asian doroga nacional'nogo znacenija;active
+2016-11-24;Uzbekistan;cisa;Central Asian doroga nacional'nogo znacenija;active
+2016-11-24;Kazakhstan;cism;Central Asian Magistral;active
+2016-11-24;Tajikistan;cism;Central Asian Magistral;active
+2016-11-24;Turkmenistan;cism;Central Asian Magistral;active
+2016-11-24;Uzbekistan;cism;Central Asian Magistral;active
+2016-11-24;Kazakhstan;kaza;Kazakhstan Main Roads;active
+2016-11-24;Kyrgyzstan;kgzem;Kyrgyzstan ЭМ Roads;active
+2016-11-24;Russia;rusm;Russia Moskva Roads;active
+2016-11-13;Croatia;hrvd;Croatia Državne Ceste;preview
+2016-11-05;(USA) Kentucky;usaky;Kentucky State Highways 1-1499;extended
+2016-11-05;(USA) Kentucky;usaky4;Kentucky State Highways 1500-1999;merged
+2016-11-05;(USA) Kentucky;usaky5;Kentucky State Highways 2000-2499;merged
+2016-11-05;(USA) Kentucky;usaky6;Kentucky State Highways 2500-2999;merged
+2016-11-05;(USA) Kentucky;usaky7;Kentucky State Highways 3000-3499;merged
+2016-11-05;(USA) Kentucky;usaky8;Kentucky State Highways 3500-6183;merged
+2016-11-01;Armenia;asiah;UNESCAP Asian Highways;active
+2016-11-01;Azerbaijan;asiah;UNESCAP Asian Highways;active
+2016-11-01;Georgia;asiah;UNESCAP Asian Highways;active
+2016-11-01;Turkey;asiah;UNESCAP Asian Highways;active
+2016-11-01;Armenia;armm;Armenia Magistrale;active
+2016-11-01;Azerbaijan;azem;Azerbaijan Magistrale;active
+2016-11-01;Georgia;geos;Georgia Sakartvelo Roads;active
+2016-11-01;Kazakhstan;kaza;Kazakhstan Main Roads;preview
+2016-11-01;Kyrgyzstan;kgzem;Kyrgyzstan ЭМ Roads;preview
+2016-10-27;(Netherlands) Aruba;abwrt;Aruba Routes;active
+2016-10-24;Sweden;swer;Sweden Riksvägar;active
+2016-10-10;Asia;cisa;Central Asian doroga nacional'nogo znacenija;preview
+2016-10-09;Asia;asiahr;UNESCAP Asian Highways (for review);split
+2016-10-09;Poland;poldk;Poland Drogi Krajowa;active
+2016-10-02;Norway;norrv;Norway Riksveier;active
+2016-09-18;Portugal;prtve;Madeira Via Expresso;preview
+2016-09-18;Russia;rusm;Russia Moskva Roads;preview
+2016-09-15;Slovenia;svng;Slovenia Glavne Ceste;active
+2016-09-15;Asia;asiahp;UNESCAP Asian Highways (for preview);split
+2016-09-09;Bosnia and Herzegovina;bihm;Bosnia and Herzegovina Magistrale;preview
+2016-09-01;Asia;asim;ESCWA Arab Mashreq International Road Network;preview
+2016-09-01;Belarus;blrm;Belarus Magistral;active
+2016-09-01;Israel;isrf;Israel Freeways;active
+2016-09-01;Morocco;mara;Morocco Autoroutes;active
+2016-09-01;Portugal;prtip;Portugal Itinerários Principais;preview
+2016-09-01;Ukraine;ukrm;Ukraine Mezdunarodnyj;active
+2016-08-29;Czechia;czei;Czechia Silnice I. Třídy;preview
+2016-08-21;Austria;autb;Austria Landesstraßen B;preview
+2016-08-14;(USA) Indiana;usain;Indiana State Routes;active
+2016-08-10;Switzerland;cheh;Switzerland Hauptstrassen;preview
+2016-08-07;Sweden;swer;Sweden Riksvägar;preview
+2016-07-19;Germany;deub;Germany Bundesstraßen;extended
+2016-07-19;Germany;deub0;Germany Bundesstraßen 1-99;merged
+2016-07-19;Germany;deub1;Germany Bundesstraßen 100-199;merged
+2016-07-19;Germany;deub2;Germany Bundesstraßen 200-299;merged
+2016-07-19;Germany;deub3;Germany Bundesstraßen 300-399;merged
+2016-07-19;Germany;deub4;Germany Bundesstraßen 400-499;merged
+2016-07-19;Germany;deub5;Germany Bundesstraßen 500-999;merged
+2016-07-06;(USA) Colorado;usaco;Colorado State Highways;active
+2016-07-04;Germany;deub3;Germany Bundesstraßen 300-399;preview
+2016-07-02;Germany;deub2;Germany Bundesstraßen 200-299;preview
+2016-06-26;Germany;deub5;Germany Bundesstraßen 500-999;preview
+2016-06-23;Germany;deub1;Germany Bundesstraßen 100-199;preview
+2016-06-21;Andorra;andcg;Andorra Carreteras Generales;active
+2016-06-21;Cyprus;cypb;Cyprus B Roads;active
+2016-06-21;Estonia;estt;Estonia Põhimaanteed;active
+2016-06-21;Luxembourg;luxn;Luxembourg Nationalstroossen;active
+2016-06-21;Malta;mltt;Malta Arterial Roads;active
+2016-06-21;Romania;roudn;Romania Drumuri Naţionales;active
+2016-06-21;Hungary;hunf;Hungary Főútjai;preview
+2016-06-21;Poland;poldk;Poland Drogi Krajowa;preview
+2016-06-21;Serbia;srbb;Serbia Državni Put;preview
+2016-06-21;Slovakia;svki;Slovakia First Class Roads;preview
+2016-06-17;Germany;deub0;Germany Bundesstraßen 1-99;preview
+2016-06-08;(USA) Texas;usatx;Texas State Highways;active
+2016-06-08;(USA) Texas;usatxl;Texas State Highway Loops;active
+2016-06-08;(USA) Texas;usatxs;Texas State Highway Spurs;active
+2016-06-06;Slovenia;svng;Slovenia Glavne Ceste;preview
+2016-06-03;Norway;norrv;Norway Riksveier;preview
+2016-05-23;(USA) Kentucky;usaky8;Kentucky State Highways 3500-6183;preview
+2016-05-22;(USA) Kentucky;usaky7;Kentucky State Highways 3000-3499;preview
+2016-05-21;(USA) Kentucky;usaky6;Kentucky State Highways 2500-2999;preview
+2016-05-17;(USA) Kentucky;usaky5;Kentucky State Highways 2000-2499;preview
+2016-05-11;(USA) Kentucky;usaky4;Kentucky State Highways 1500-1999;preview
+2016-05-08;Indonesia;idnjt;Indonesia Jalan Tol;preview
+2016-05-01;Asia;cism;Central Asian Magistral;preview
+2016-05-01;Israel;isrf;Israel Freeways;preview
+2016-05-01;New Zealand;nzlmot;New Zealand Motorways;preview
+2016-05-01;Philippines;phle;Philippines Expressways;preview
+2016-05-01;United Kingdom;gbrtr;UK Tourist and Scenic Routes;preview
+2016-04-21;China;chng;China National Expressways;preview
+2016-04-21;India;index;India National Expressways;preview
 2016-04-05;Barbados;brbh;Barbados Highways;preview
 2016-03-31;Belgium;belr;Belgium Ringwegen;active
 2016-03-31;Denmark;dnkpr;Denmark Primærruter;active
@@ -25,7 +313,7 @@
 2016-03-31;(USA) US Virgin Islands;usavi;US Virgin Islands Territorial Highways;active
 2016-03-23;Bulgaria;bgri;Bulgaria First Class Roads;preview
 2016-03-23;Cyprus;cypb;Cyprus B Roads;preview
-2016-03-23;Malta;mltt;Malta Trig;preview
+2016-03-23;Malta;mltt;Malta Arterial Roads;preview
 2016-03-22;(USA) Kentucky;usaky;Kentucky State Highways 1-1499;extended
 2016-03-22;(USA) Kentucky;usaky3;Kentucky State Highways 1000-1499;merged
 2016-03-21;Albania;albsh;Albania Rrugë Shtetërore;preview

@@ -76,8 +76,8 @@ ChrRd http://www.openstreetmap.org/?lat=39.159632&lon=-111.750934
 UT137_N http://www.openstreetmap.org/?lat=39.171594&lon=-111.705723
 MarRd http://www.openstreetmap.org/?lat=39.212505&lon=-111.688213
 200S http://www.openstreetmap.org/?lat=39.262513&lon=-111.637080
-UT290_S  +UT290 http://www.openstreetmap.org/?lat=39.359885&lon=-111.586976
-UT290_N http://www.openstreetmap.org/?lat=39.361677&lon=-111.587191
+400S_Eph http://www.openstreetmap.org/?lat=39.352655&lon=-111.587196
+CenSt http://www.openstreetmap.org/?lat=39.359777&lon=-111.587148
 PioCemRd http://www.openstreetmap.org/?lat=39.377933&lon=-111.586590
 UT132 http://www.openstreetmap.org/?lat=39.421898&lon=-111.559038
 UT117_S http://www.openstreetmap.org/?lat=39.481057&lon=-111.521702
@@ -108,8 +108,10 @@ UT114_S http://www.openstreetmap.org/?lat=40.233756&lon=-111.667560
 1230N http://www.openstreetmap.org/?lat=40.250675&lon=-111.667593
 UT265 http://www.openstreetmap.org/?lat=40.273419&lon=-111.684673
 UT52 http://www.openstreetmap.org/?lat=40.311882&lon=-111.701539
-UT146 http://www.openstreetmap.org/?lat=40.357991&lon=-111.739036
+UT129_S http://www.openstreetmap.org/?lat=40.351850&lon=-111.731654
+100E_Ple +UT146 http://www.openstreetmap.org/?lat=40.357991&lon=-111.739036
 UT114_N http://www.openstreetmap.org/?lat=40.359045&lon=-111.740785
+UT129_N http://www.openstreetmap.org/?lat=40.370122&lon=-111.769177
 UT180 http://www.openstreetmap.org/?lat=40.373964&lon=-111.785470
 UT74 http://www.openstreetmap.org/?lat=40.376816&lon=-111.795985
 UT145 http://www.openstreetmap.org/?lat=40.376931&lon=-111.811842
@@ -119,27 +121,31 @@ UT85_W http://www.openstreetmap.org/?lat=40.412941&lon=-111.872706
 I-15(282) http://www.openstreetmap.org/?lat=40.413561&lon=-111.868887
 I-15(284) http://www.openstreetmap.org/?lat=40.431400&lon=-111.890945
 +I-15(X21) http://www.openstreetmap.org/?lat=40.458387&lon=-111.914491
-I-15(288) http://www.openstreetmap.org/?lat=40.484037&lon=-111.899014
+I-15(288) http://www.openstreetmap.org/?lat=40.484026&lon=-111.898867
 I-15(289) http://www.openstreetmap.org/?lat=40.504337&lon=-111.891203
 I-15(291) http://www.openstreetmap.org/?lat=40.526783&lon=-111.891203
 UT71_E http://www.openstreetmap.org/?lat=40.526773&lon=-111.888558
-UT151 http://www.openstreetmap.org/?lat=40.558898&lon=-111.890881
+UT175 http://www.openstreetmap.org/?lat=40.544330&lon=-111.891203
+10600S +UT151 http://www.openstreetmap.org/?lat=40.558898&lon=-111.890881
 UT209 http://www.openstreetmap.org/?lat=40.588113&lon=-111.890903
 UT48 http://www.openstreetmap.org/?lat=40.620850&lon=-111.890645
 I-215 +I-215(11) http://www.openstreetmap.org/?lat=40.631868&lon=-111.889572
-UT173 http://www.openstreetmap.org/?lat=40.656225&lon=-111.888456
+UT173 http://www.openstreetmap.org/?lat=40.656083&lon=-111.888302
 UT266 http://www.openstreetmap.org/?lat=40.674373&lon=-111.888392
 UT171 http://www.openstreetmap.org/?lat=40.699845&lon=-111.888392
 I-80 +I-80(124) http://www.openstreetmap.org/?lat=40.718315&lon=-111.888328
+UT201 http://www.openstreetmap.org/?lat=40.725469&lon=-111.888246
 1300S http://www.openstreetmap.org/?lat=40.741632&lon=-111.888295
 UT269 http://www.openstreetmap.org/?lat=40.757465&lon=-111.888295
-UT186_S +UT186 http://www.openstreetmap.org/?lat=40.760667&lon=-111.888306
+UT186_S +UT186 http://www.openstreetmap.org/?lat=40.760642&lon=-111.888235
+UT270 http://www.openstreetmap.org/?lat=40.760586&lon=-111.893907
 300W/400S +UT184_S http://www.openstreetmap.org/?lat=40.760716&lon=-111.899700
 NTem_W +NTmpl_W http://www.openstreetmap.org/?lat=40.771556&lon=-111.899765
 UT268 http://www.openstreetmap.org/?lat=40.782402&lon=-111.899775
 UT186_N +UT184_N http://www.openstreetmap.org/?lat=40.794026&lon=-111.903509
 ChiSt http://www.openstreetmap.org/?lat=40.806257&lon=-111.917853
-I-15(312) http://www.openstreetmap.org/?lat=40.818843&lon=-111.917424
+I-15(312) http://www.openstreetmap.org/?lat=40.819014&lon=-111.917113
++X132809 http://www.openstreetmap.org/?lat=40.823106&lon=-111.916170
 I-15(312A) http://www.openstreetmap.org/?lat=40.831931&lon=-111.915836
 UT93 http://www.openstreetmap.org/?lat=40.861611&lon=-111.896428
 UT68_S http://www.openstreetmap.org/?lat=40.868337&lon=-111.892233
@@ -149,19 +155,19 @@ I-15(317A) http://www.openstreetmap.org/?lat=40.902031&lon=-111.891975
 I-15(319) http://www.openstreetmap.org/?lat=40.921490&lon=-111.891031
 I-15(322) http://www.openstreetmap.org/?lat=40.969530&lon=-111.892061
 I-15(324) http://www.openstreetmap.org/?lat=40.986766&lon=-111.901245
-UT225 http://www.openstreetmap.org/?lat=40.991237&lon=-111.902876
+UT225 http://www.openstreetmap.org/?lat=40.991202&lon=-111.902793
 UT106_N http://www.openstreetmap.org/?lat=41.000792&lon=-111.907725
 UT272/273 http://www.openstreetmap.org/?lat=41.011382&lon=-111.912017
 UT109 http://www.openstreetmap.org/?lat=41.066175&lon=-111.910697
 UT193 http://www.openstreetmap.org/?lat=41.107554&lon=-111.909828
 UT60 http://www.openstreetmap.org/?lat=41.128140&lon=-111.908208
-I-84 +I-84(87) http://www.openstreetmap.org/?lat=41.137393&lon=-111.913991
+I-84 +I-84(87) http://www.openstreetmap.org/?lat=41.137352&lon=-111.913952
 UT203 http://www.openstreetmap.org/?lat=41.155006&lon=-111.939772
 AdaAve +AdamsAve http://www.openstreetmap.org/?lat=41.170481&lon=-111.968633
-UT26 http://www.openstreetmap.org/?lat=41.200445&lon=-111.971004
+UT26 http://www.openstreetmap.org/?lat=41.200414&lon=-111.970965
 UT79 http://www.openstreetmap.org/?lat=41.210244&lon=-111.970800
 UT53 http://www.openstreetmap.org/?lat=41.222778&lon=-111.970521
-UT39 http://www.openstreetmap.org/?lat=41.244329&lon=-111.970049
+UT39 http://www.openstreetmap.org/?lat=41.244302&lon=-111.969955
 UT235 http://www.openstreetmap.org/?lat=41.259219&lon=-111.969727
 UT204 http://www.openstreetmap.org/?lat=41.271307&lon=-111.977645
 UT134 http://www.openstreetmap.org/?lat=41.306867&lon=-112.005669
@@ -174,8 +180,8 @@ UT90 http://www.openstreetmap.org/?lat=41.499522&lon=-111.992322
 700N http://www.openstreetmap.org/?lat=41.510634&lon=-111.944332
 +X17 http://www.openstreetmap.org/?lat=41.603698&lon=-111.977441
 +X18 http://www.openstreetmap.org/?lat=41.604148&lon=-111.944160
-UT23 http://www.openstreetmap.org/?lat=41.616116&lon=-111.933507
-UT101 http://www.openstreetmap.org/?lat=41.644873&lon=-111.914173
+UT23 http://www.openstreetmap.org/?lat=41.616029&lon=-111.933436
+UT101 http://www.openstreetmap.org/?lat=41.644825&lon=-111.914034
 UT252 http://www.openstreetmap.org/?lat=41.697109&lon=-111.860175
 UT165 http://www.openstreetmap.org/?lat=41.717502&lon=-111.835477
 UT238 http://www.openstreetmap.org/?lat=41.725990&lon=-111.835220

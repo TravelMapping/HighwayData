@@ -3,16 +3,18 @@ itaa;ITA;A1;;;Autostrada del Sole;ita.a001;
 itaa;ITA;A1;;Mil;Raccordo Milano-Piazzale Corvetto;ita.a001mil;
 itaa;ITA;A1;;Sas;Raccordo Autostradale Sasso Marconi;ita.a001sas;
 itaa;ITA;A1;Var;Val;Variante di Valico;ita.a001varval;
-itaa;ITA;A1;;NRo;Diramazione Roma nord;ita.a001nro;
-itaa;ITA;A1;;SRo;Diramazione Roma sud;ita.a001sro;
+itaa;ITA;A1;;NRo;Diramazione Roma Nord;ita.a001nro;
+itaa;ITA;A1;;SRo;Diramazione Roma Sud;ita.a001sro;
 itaa;ITA;A1;;Cap;Diramazione Capodichino;ita.a001cap;
-itaa;ITA;A3;;;Autostrada Napoli - Salerno - Reggio Calabria;ita.a003;
+itaa;ITA;A2;;;Autostrada del Mediterraneo;ita.a002;
+itaa;ITA;A2;Racc;Reg;Raccordo Reggio Calabria;ita.a002raccreg;A2RacReg
+itaa;ITA;A3;;;Autostrada Meridionali;ita.a003;
 itaa;ITA;A4;;;Autostrada Serenissima;ita.a004;
 itaa;ITA;A4;;Chi;Raccordo Est di Chivasso;ita.a004chi;
 itaa;ITA;A4A5;;;Diramazione Ivrea-Santhià;ita.a004a005;
 itaa;ITA;A4A26;;;Diramazione Stroppiana-Santhià;ita.a004a026;
 itaa;ITA;A5;;;Autostrada della Valle d'Aosta;ita.a005;
-itaa;ITA;A6;;;Autostrada la Verdemare;ita.a006;A55Mon
+itaa;ITA;A6;;;Autostrada la Verdemare;ita.a006;
 itaa;ITA;A6;;Fos;Diramazione per Fossano;ita.a006fos;
 itaa;ITA;A7;;;Autostrada dei Giovi;ita.a007;
 itaa;ITA;A7A26;;;Diramazione Predosa-Bettole;ita.a007a026;
@@ -23,9 +25,9 @@ itaa;ITA;A10;;;Autostrada dei Fiori;ita.a010;
 itaa;ITA;A11;;;Autostrada Firenze-Mare;ita.a011;
 itaa;ITA;A11;;Via;Diramazione Lucca-Viareggio;ita.a011via;A11A12
 itaa;ITA;A12;;;Autostrada Azzurra (Genoa);ita.a012;
-itaa;ITA;A12;;Pis;Raccordo autostradale di Pisa;ita.a012pis;
+itaa;ITA;A12;;Pis;Raccordo Autostradale di Pisa;ita.a012pis;
 itaa;ITA;A12;;Liv;Diramazione per Livorno;ita.a012liv;
-itaa;ITA;A12;;Cit;Autostrada Azzurra (Civitavecchia);ita.a012cit;
+itaa;ITA;A12;;Civ;Autostrada Azzurra (Civitavecchia);ita.a012civ;A12Cit
 itaa;ITA;A13;;;Autostrada Bologna - Padova;ita.a013;
 itaa;ITA;A13;;Pad;Diramazione per Padova sud;ita.a013pad;
 itaa;ITA;A13;;Fer;Diramazione per Ferrara;ita.a013fer;RAFerPor
@@ -39,13 +41,13 @@ itaa;ITA;A15;;Ler;Raccordo La Spezia-Lerici;ita.a015ler;
 itaa;ITA;A16;;;Autostrada dei Due Mari;ita.a016;
 itaa;ITA;A18;;;Autostrada Messina - Catinia;ita.a018;
 itaa;ITA;A18;;Sir;Autostrada Siracusa - Gela;ita.a018sir;
-itaa;ITA;A18;Dir;;Diramazione per Catania;ita.a018dircat;A18Cat
+itaa;ITA;A18;Dir;Cat;Diramazione per Catania;ita.a018dircat;A18Cat,A18Dir
 itaa;ITA;A19;;;Autostrada Palermo - Catinia;ita.a019;A19Pal
 itaa;ITA;A19;;Cal;Raccordo Caltanissetta;ita.a019cal;
 itaa;ITA;A20;;;Autostrada Messina - Palermo;ita.a020;
 itaa;ITA;A21;;;Autostrada dei Vini;ita.a021;
 itaa;ITA;A21;;Cor;Diramazione per Fiorenzuola;ita.a021cor;
-itaa;ITA;A21;Racc;Bre;Raccordo autostradale Ospitaletto-Montichiari;ita.a021bre;A21Bre
+itaa;ITA;A21;Racc;Bre;Raccordo autostradale Ospitaletto-Montichiari;ita.a021raccbre;A21Bre,A21RacBre
 itaa;ITA;A22;;;Autostrada del Brennero;ita.a022;
 itaa;ITA;A23;;;Autostrada Alpe-Adria;ita.a023;
 itaa;ITA;A24;;;Autostrada dei Parchi;ita.a024;
@@ -63,7 +65,7 @@ itaa;ITA;A32;;;Autostrada del Frejus;ita.a032;
 itaa;ITA;A33;;Ast;Autostrada Asti - Cuneo (Asti);ita.a033ast;
 itaa;ITA;A33;;;Autostrada Asti - Cuneo (Cuneo);ita.a033;
 itaa;ITA;A34;;;Autostrada Villesse - Goriza;ita.a034;RAVilGor
-itaa;ITA;A35;;;Autostrada BreBeMi;ita.a035;
+itaa;ITA;A35;;;Autostrada 'BreBeMi';ita.a035;
 itaa;ITA;A36;;;Autostrada Pedemontana Lombarda;ita.a036;
 itaa;ITA;A50;;;Tangenziale Ovest di Milano;ita.a050;
 itaa;ITA;A51;;;Tangenziale Est di Milano;ita.a051;
@@ -72,8 +74,9 @@ itaa;ITA;A52;;Rho;Tangenziale Nord di Milano (Rho);ita.a052rho;
 itaa;ITA;A53;;;Raccordo Autostradale Bereguardo - Pavia;ita.a053;
 itaa;ITA;A54;;;Tangenziale di Pavia;ita.a054;
 itaa;ITA;A55;;;Tangenziale di Torino;ita.a055;A55Sto
-itaa;ITA;A55;;Pin;Diramazione per Pinerolo;ita.a055pin;
 itaa;ITA;A55;;Riv;Tangenziale di Torino (Rivoli);ita.a055riv;
+itaa;ITA;A55;;Mon;Diramazione per Moncalieri;ita.a055mon;
+itaa;ITA;A55;;Pin;Diramazione per Pinerolo;ita.a055pin;
 itaa;ITA;A55;;Fal;Raccordo della Falchera;ita.a055fal;
 itaa;ITA;A56;;;Tangenziale di Napoli;ita.a056;
 itaa;ITA;A57;;;Tangenziale di Mestre;ita.a057;
