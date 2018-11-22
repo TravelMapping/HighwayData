@@ -4,8 +4,8 @@ DW651_E http://www.openstreetmap.org/?lat=54.253681&lon=23.076074
 DW651_W http://www.openstreetmap.org/?lat=54.253079&lon=23.075688
 Szw http://www.openstreetmap.org/?lat=54.138607&lon=22.958379
 DW652 http://www.openstreetmap.org/?lat=54.111345&lon=22.930484
-DW653 http://www.openstreetmap.org/?lat=54.101608&lon=22.939153
-UliZah http://www.openstreetmap.org/?lat=54.094185&lon=22.943144
+DW653_E +DW653 http://www.openstreetmap.org/?lat=54.101608&lon=22.939153
+DW653_W +UliZah http://www.openstreetmap.org/?lat=54.095871&lon=22.941856
 UliWojPol_N http://www.openstreetmap.org/?lat=54.070696&lon=22.933381
 DW662 http://www.openstreetmap.org/?lat=54.039699&lon=22.939582
 DW655 http://www.openstreetmap.org/?lat=54.049865&lon=22.891645
@@ -13,7 +13,7 @@ DW655 http://www.openstreetmap.org/?lat=54.049865&lon=22.891645
 +X534656 http://www.openstreetmap.org/?lat=53.994804&lon=22.814569
 S61_S http://www.openstreetmap.org/?lat=53.970729&lon=22.785387
 +X710608 http://www.openstreetmap.org/?lat=53.951136&lon=22.811565
-DW664 http://www.openstreetmap.org/?lat=53.913464&lon=22.835984
+Jan +DW664 http://www.openstreetmap.org/?lat=53.913464&lon=22.835984
 +X528223 http://www.openstreetmap.org/?lat=53.867763&lon=22.890615
 DK16_W http://www.openstreetmap.org/?lat=53.844476&lon=22.944860
 DK16/61 http://www.openstreetmap.org/?lat=53.831941&lon=22.959666
@@ -61,15 +61,15 @@ DK63 http://www.openstreetmap.org/?lat=52.980406&lon=22.212639
 Szu http://www.openstreetmap.org/?lat=52.910584&lon=22.098570
 Pro http://www.openstreetmap.org/?lat=52.867860&lon=22.015915
 UliArmKra http://www.openstreetmap.org/?lat=52.827869&lon=21.938539
-DW677 http://www.openstreetmap.org/?lat=52.818624&lon=21.889229
+DW627 +DW677 http://www.openstreetmap.org/?lat=52.818624&lon=21.889229
 DK60 http://www.openstreetmap.org/?lat=52.799687&lon=21.869745
-78(S8) +DK50_E http://www.openstreetmap.org/?lat=52.784395&lon=21.858759
-77(S8) +Nag http://www.openstreetmap.org/?lat=52.757256&lon=21.796017
+78(S8) http://www.openstreetmap.org/?lat=52.784395&lon=21.858759
+77(S8) http://www.openstreetmap.org/?lat=52.757256&lon=21.796017
 76(S8) http://www.openstreetmap.org/?lat=52.721231&lon=21.709843
-75(S8) +DW694 http://www.openstreetmap.org/?lat=52.691965&lon=21.648560
+75(S8) http://www.openstreetmap.org/?lat=52.691965&lon=21.648560
 74(S8) http://www.openstreetmap.org/?lat=52.668562&lon=21.597705
 73(S8) http://www.openstreetmap.org/?lat=52.648313&lon=21.554178
-Nat +Bia http://www.openstreetmap.org/?lat=52.621067&lon=21.499687
+Nat http://www.openstreetmap.org/?lat=52.621067&lon=21.499687
 DK62 http://www.openstreetmap.org/?lat=52.587836&lon=21.498914
 War http://www.openstreetmap.org/?lat=52.556740&lon=21.460568
 +X102 http://www.openstreetmap.org/?lat=52.551619&lon=21.442566
@@ -79,16 +79,16 @@ UliKos http://www.openstreetmap.org/?lat=52.472514&lon=21.327875
 UliPre http://www.openstreetmap.org/?lat=52.459880&lon=21.296225
 DW636 http://www.openstreetmap.org/?lat=52.448065&lon=21.263137
 UliKSteWys http://www.openstreetmap.org/?lat=52.433049&lon=21.229041
-62(S8) +DW635 +UliJozPil http://www.openstreetmap.org/?lat=52.397706&lon=21.201296
+62(S8) http://www.openstreetmap.org/?lat=52.397706&lon=21.201296
 61(S8) http://www.openstreetmap.org/?lat=52.371460&lon=21.189022
 +X627604 http://www.openstreetmap.org/?lat=52.359772&lon=21.185846
 +60(S8) http://www.openstreetmap.org/?lat=52.352486&lon=21.165848
 59(S8) http://www.openstreetmap.org/?lat=52.321806&lon=21.145077
 +X901545 http://www.openstreetmap.org/?lat=52.311417&lon=21.122932
-R1(S8) +DW629_N http://www.openstreetmap.org/?lat=52.307377&lon=21.092291
+R1(S8) http://www.openstreetmap.org/?lat=52.307377&lon=21.092291
 UliGle http://www.openstreetmap.org/?lat=52.306721&lon=21.060834
 UliMar http://www.openstreetmap.org/?lat=52.294412&lon=21.016073
-DW633 http://www.openstreetmap.org/?lat=52.290396&lon=21.002727
+DW801 +DW633 http://www.openstreetmap.org/?lat=52.290396&lon=21.002727
 DK7_MarN http://www.openstreetmap.org/?lat=52.284280&lon=20.988693
 DW637 http://www.openstreetmap.org/?lat=52.273305&lon=20.966978
 UliWlaBro http://www.openstreetmap.org/?lat=52.267724&lon=20.959275
@@ -107,34 +107,33 @@ DW721 http://www.openstreetmap.org/?lat=52.106189&lon=20.837202
 DW720 http://www.openstreetmap.org/?lat=52.093416&lon=20.811989
 UliMaz http://www.openstreetmap.org/?lat=52.027558&lon=20.669446
 UliGra_S http://www.openstreetmap.org/?lat=52.009718&lon=20.608463
-DW579 http://www.openstreetmap.org/?lat=52.001581&lon=20.559454
-DK50_W http://www.openstreetmap.org/?lat=51.982131&lon=20.521517
-+X296074 http://www.openstreetmap.org/?lat=51.977691&lon=20.507355
-Pow http://www.openstreetmap.org/?lat=51.936910&lon=20.477657
-DK70 http://www.openstreetmap.org/?lat=51.919047&lon=20.455384
-Kow http://www.openstreetmap.org/?lat=51.889259&lon=20.419121
+419(S8) +DW579 http://www.openstreetmap.org/?lat=52.001634&lon=20.559229
+416(S8) http://www.openstreetmap.org/?lat=51.982052&lon=20.521431
++X296074 http://www.openstreetmap.org/?lat=51.977691&lon=20.507205
+409(S8) http://www.openstreetmap.org/?lat=51.937730&lon=20.478430
+407(S8) http://www.openstreetmap.org/?lat=51.919040&lon=20.455534
+403(S8) http://www.openstreetmap.org/?lat=51.889259&lon=20.419121
 +X352 http://www.openstreetmap.org/?lat=51.876517&lon=20.389209
-Bab http://www.openstreetmap.org/?lat=51.843653&lon=20.360799
-*WolBab http://www.openstreetmap.org/?lat=51.839119&lon=20.347581
+396(S8) http://www.openstreetmap.org/?lat=51.843944&lon=20.361528
 +X354 http://www.openstreetmap.org/?lat=51.826575&lon=20.325007
-Jul http://www.openstreetmap.org/?lat=51.803573&lon=20.300503
-DK72 http://www.openstreetmap.org/?lat=51.772965&lon=20.274067
-*DW726 http://www.openstreetmap.org/?lat=51.756086&lon=20.257201
-UliKat http://www.openstreetmap.org/?lat=51.749166&lon=20.245013
-PodDuze http://www.openstreetmap.org/?lat=51.705199&lon=20.220251
-WolJag http://www.openstreetmap.org/?lat=51.676787&lon=20.186691
-UliKonKika http://www.openstreetmap.org/?lat=51.656238&lon=20.152745
-Lub http://www.openstreetmap.org/?lat=51.623958&lon=20.095668
-Jak http://www.openstreetmap.org/?lat=51.590509&lon=20.043440
-DK48 http://www.openstreetmap.org/?lat=51.565173&lon=20.021296
-TomMaz_E http://www.openstreetmap.org/?lat=51.549751&lon=19.988894
-*TomMaz http://www.openstreetmap.org/?lat=51.527997&lon=19.944735
-TomMaz_W http://www.openstreetmap.org/?lat=51.524953&lon=19.939156
-Stu http://www.openstreetmap.org/?lat=51.509063&lon=19.894481
-UliMod http://www.openstreetmap.org/?lat=51.493328&lon=19.834142
-Pol http://www.openstreetmap.org/?lat=51.473097&lon=19.800797
-*UliWol http://www.openstreetmap.org/?lat=51.446358&lon=19.757280
-DK91_S http://www.openstreetmap.org/?lat=51.443603&lon=19.723120
+390(S8) http://www.openstreetmap.org/?lat=51.803573&lon=20.300503
+386(S8) http://www.openstreetmap.org/?lat=51.772965&lon=20.274067
+382(S8) http://www.openstreetmap.org/?lat=51.749166&lon=20.245013
+377(S8) http://www.openstreetmap.org/?lat=51.703736&lon=20.220037
+373(S8) http://www.openstreetmap.org/?lat=51.677824&lon=20.188065
+370(S8) http://www.openstreetmap.org/?lat=51.655226&lon=20.151029
+364(S8) http://www.openstreetmap.org/?lat=51.623958&lon=20.095668
+359(S8) http://www.openstreetmap.org/?lat=51.590149&lon=20.042646
+356(S8) http://www.openstreetmap.org/?lat=51.565173&lon=20.021296
++X242980 http://www.openstreetmap.org/?lat=51.556082&lon=20.004430
+353(S8) http://www.openstreetmap.org/?lat=51.549791&lon=19.989088
+349(S8) http://www.openstreetmap.org/?lat=51.524953&lon=19.939156
+345(S8) http://www.openstreetmap.org/?lat=51.510025&lon=19.896154
+341(S8) http://www.openstreetmap.org/?lat=51.492927&lon=19.832811
+338(S8) http://www.openstreetmap.org/?lat=51.473578&lon=19.801655
+335(S8) http://www.openstreetmap.org/?lat=51.460077&lon=19.780712
++X333910 http://www.openstreetmap.org/?lat=51.446224&lon=19.756079
+330(S8) +DK91_S http://www.openstreetmap.org/?lat=51.443603&lon=19.723120
 S8/91 http://www.openstreetmap.org/?lat=51.442105&lon=19.668832
 Sro http://www.openstreetmap.org/?lat=51.531441&lon=19.629564
 25(A1) http://www.openstreetmap.org/?lat=51.548603&lon=19.604158
@@ -178,7 +177,7 @@ S11 http://www.openstreetmap.org/?lat=51.315808&lon=18.009510
 +X699959 http://www.openstreetmap.org/?lat=51.303602&lon=17.791328
 DW449 http://www.openstreetmap.org/?lat=51.300489&lon=17.767510
 +X325039 http://www.openstreetmap.org/?lat=51.293942&lon=17.728072
-DW448 +UliOle http://www.openstreetmap.org/?lat=51.295471&lon=17.679449
+DW448 http://www.openstreetmap.org/?lat=51.295471&lon=17.679449
 +X983044 http://www.openstreetmap.org/?lat=51.305023&lon=17.603831
 Szc_W http://www.openstreetmap.org/?lat=51.285273&lon=17.573962
 +X801228 http://www.openstreetmap.org/?lat=51.258343&lon=17.541625
@@ -186,7 +185,7 @@ UliCie http://www.openstreetmap.org/?lat=51.231384&lon=17.477102
 DK25 http://www.openstreetmap.org/?lat=51.227192&lon=17.439251
 +X1 http://www.openstreetmap.org/?lat=51.234434&lon=17.402258
 DW340 http://www.openstreetmap.org/?lat=51.229100&lon=17.369342
-DW368 +Sma http://www.openstreetmap.org/?lat=51.227582&lon=17.361188
+DW368 http://www.openstreetmap.org/?lat=51.227582&lon=17.361188
 +X649412 http://www.openstreetmap.org/?lat=51.221803&lon=17.324538
 +X713149 http://www.openstreetmap.org/?lat=51.229650&lon=17.246046
 UliWro http://www.openstreetmap.org/?lat=51.225055&lon=17.170258
@@ -218,8 +217,8 @@ UliZdr http://www.openstreetmap.org/?lat=50.685393&lon=16.820154
 +X414 http://www.openstreetmap.org/?lat=50.669837&lon=16.831527
 UliWar_KS http://www.openstreetmap.org/?lat=50.608381&lon=16.824102
 DW382_W http://www.openstreetmap.org/?lat=50.599447&lon=16.805391
-DW385_W +DW385 http://www.openstreetmap.org/?lat=50.589776&lon=16.806915
-DW382/DW385 +DW382_E http://www.openstreetmap.org/?lat=50.580430&lon=16.803718
+DW385_W http://www.openstreetmap.org/?lat=50.589776&lon=16.806915
+DW382/DW385 http://www.openstreetmap.org/?lat=50.580430&lon=16.803718
 +X415 http://www.openstreetmap.org/?lat=50.567620&lon=16.789041
 +X416 http://www.openstreetmap.org/?lat=50.544145&lon=16.799212
 UliFab http://www.openstreetmap.org/?lat=50.507068&lon=16.751404
