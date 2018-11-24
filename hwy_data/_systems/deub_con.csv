@@ -117,7 +117,7 @@ deub;B21;;(Main);deuby.b021
 deub;B21;;Schwarzbach;deuby.b021sch
 deub;B22;;Bamberg;deuby.b022bam
 deub;B22;;Weiden;deuby.b022
-deub;B22;AST;Bamberg;deuby.b022ast
+deub;B22;;Bamberg-South;deuby.b022bas
 deub;B23;;;deuby.b023
 deub;B25;;;deuby.b025
 deub;B26;;Aschaffenurg;deuhe.b026,deuby.b026
@@ -182,11 +182,11 @@ deub;B42;;Weiterstadt;deuhe.b042wei
 deub;B42a;;;deuhe.b042a
 deub;B43;;Rüsselsheim;deuhe.b043rus
 deub;B43;;Offenbach;deuhe.b043
-deub;B43;AST;Kelsterbach;deuhe.b043ast
+deub;B43;;Kelsterbach;deuhe.b043kel
 deub;B43a;;;deuhe.b043a
 deub;B44;;Mannheim;deuhe.b044,deubw.b044,deurp.b044lud
 deub;B44;;Rheingönheim;deurp.b044
-deub;B44;AST;Gernsheim;deuhe.b044ast
+deub;B44;;Gernsheim;deuhe.b044ger
 deub;B45;;;deuhe.b045,deubw.b045ebe,deuhe.b045hir,deubw.b045moo,deuhe.b045nec,deubw.b045
 deub;B47;;Monsheim;deurp.b047
 deub;B47;;Bensheim;deurp.b047wor,deuhe.b047,deuby.b047,deubw.b047
@@ -227,13 +227,14 @@ deub;B59;;Mönchengladbach;deunw.b059mon
 deub;B59;;Köln;deunw.b059
 deub;B61;;(Main);deuni.b061,deunw.b061
 deub;B61;;Porta Westfalia;deunw.b061por
+deub;B61;;Bad Oeynhausen;deunw.b061oey
 deub;B61;;Bielefeld;deunw.b061bie
 deub;B61n;;;deunw.b061n
 deub;B62;;Kirchhain;deurp.b062,deunw.b062,deuhe.b062,deuth.b062
 deub;B62;;Zella-Mehlis;deuth.b062zel
-deub;B62;AST;Siegen;deunw.b062ast
-deub;B62;AST;Eiserfeld;deunw.b062asteis
-deub;B62;AST;Friedewald;deuhe.b062ast
+deub;B62;;Siegen;deunw.b062sie
+deub;B62;;Eiserfeld;deunw.b062eis
+deub;B62;;Friedewald;deuhe.b062fri
 deub;B63;;Hamm;deunw.b063
 deub;B63;;Wickede;deunw.b063wic
 deub;B64;;;deunw.b064,deuni.b064
@@ -266,6 +267,7 @@ deub;B77;;(Main);deush.b077
 deub;B77;;Schleswig;deush.b077sch
 deub;B79;;;deuni.b079,deust.b079
 deub;B80;;Hannoversch Münden;deuhe.b080,deuni.b080,deuhe.b080wit,deuth.b080
+deub;B80;;Hedemünden;deuni.b080hed
 deub;B80;;Halle (Saale);deust.b080
 deub;B81;;;deust.b081,deuth.b081
 deub;B82;;(Main);deuni.b082
@@ -321,8 +323,8 @@ deub;B108;;;deumv.b108
 deub;B109;;Pasewalk;deumv.b109,deubb.b109
 deub;B109;;Berlin, Schönerlinder Straße;deube.b109sch
 deub;B109;;Berlin, Prenzlauer Promenade;deube.b109
-deub;B110;;;deumv.b110
-deub;B110;AST;Sanitz;deumv.b110ast
+deub;B110;;(Main);deumv.b110
+deub;B110;;Sanitz;deumv.b110san
 deub;B111;;;deumv.b111
 deub;B112;;;deubb.b112
 deub;B113;;;deumv.b113,deubb.b113
@@ -370,12 +372,13 @@ deub;B186;;;deusn.b186
 deub;B187;;;deust.b187,deubb.b187
 deub;B187a;;Zerbst;deust.b187a
 deub;B187a;;Aken;deust.b187aake
-deub;B188;;;deuni.b188,deust.b188,deubb.b188
-deub;B188;AST;Rathenow;deubb.b188ast
+deub;B188;;(Main);deuni.b188,deust.b188,deubb.b188
+deub;B188;;Rathenow;deubb.b188rat
 deub;B189;;;deubb.b189,deust.b189
 deub;B190;;;deust.b190
 deub;B191;;Uelzen;deuni.b191,deumv.b191dom
 deub;B191;;Parchim;deumv.b191
+deub;B191;;Plau am See;deumv.b191pla
 deub;B192;;;deumv.b192
 deub;B193;;;deumv.b193
 deub;B194;;;deumv.b194
@@ -405,6 +408,7 @@ deub;B212;;;deuhb.b212
 deub;B212;;(Main);deuni.b212
 deub;B212;;Berne;deuni.b212ber
 deub;B213;;Haselünne;deuni.b213
+deub;B213;;Nordhorn;deuni.b213nor
 deub;B213;;Ganderkesee;deuni.b213gan
 deub;B214;;;deuni.b214
 deub;B215;;;deuni.b215
@@ -422,6 +426,7 @@ deub;B224;;Solingen;deunw.b224sol
 deub;B225;;;deunw.b225
 deub;B226;;(Main);deunw.b226
 deub;B226;;Bochum;deunw.b226boc
+deub;B226;;Wetter;deunw.b226wet
 deub;B227;;Gelsenkirchen;deunw.b227gel
 deub;B227;;Essen;deunw.b227ess
 deub;B227;;Heiligenhaus;deunw.b227
@@ -444,8 +449,8 @@ deub;B242;;;deuni.b242,deust.b242
 deub;B243;;(Main);deuni.b243,deuth.b243
 deub;B243;;Großwechsungen;deuth.b243gro
 deub;B243a;;;deuni.b243a
-deub;B244;;;deuni.b244,deust.b244
-deub;B244;AST;Wernigerode;deust.b244ast
+deub;B244;;(Main);deuni.b244,deust.b244
+deub;B244;;Wernigerode;deust.b244wer
 deub;B245;;;deust.b245
 deub;B245a;;;deuni.b245ahel,deust.b245ahar,deuni.b245a,deust.b245a
 deub;B246;;Oschersleben;deust.b246osc
@@ -475,8 +480,10 @@ deub;B259;;;deurp.b259
 deub;B260;;;deurp.b260,deuhe.b260
 deub;B261;;;deurp.b261
 deub;B262;;;deurp.b262,deuhe.b262
+deub;B263;;;deuhe.b263
 deub;B264;;Aachen;deunw.b264aac
-deub;B264;;Düren;deunw.b264
+deub;B264;;Düren (Main);deunw.b264
+deub;B264;;Düren-North;deunw.b264dur
 deub;B264;;Köln;deunw.b264kol
 deub;B265;;;deunw.b265,deurp.b265
 deub;B266;;;deunw.b266
@@ -488,6 +495,7 @@ deub;B268;;;deurp.b268,deusl.b268
 deub;B269;;Birkenfeld;deurp.b269
 deub;B269;;Lebach;deusl.b269
 deub;B269;;Ittersdorf;deusl.b269itt
+deub;B269;;Lisdorf;deusl.b269lis
 deub;B269;;Überherrn;deusl.b269ube
 deub;B270;;;deurp.b270
 deub;B271;;(Main);deurp.b271
@@ -521,6 +529,7 @@ deub;B289;;Kulmbach;deuby.b289
 deub;B290;;;deubw.b290
 deub;B291;;;deubw.b291
 deub;B292;;Boxberg;deubw.b292box
+deub;B292;;Adelsheim;deubw.b292ade
 deub;B292;;Mosbach;deubw.b292
 deub;B293;;;deubw.b293
 deub;B294;;;deubw.b294
@@ -567,8 +576,8 @@ deub;B326;;Düsseldorf;deunw.b326
 deub;B326;;Wuppertal;deunw.b326wup
 deub;B327;;Koblenz;deurp.b327kob
 deub;B327;;Koblenz-Oberwerth;deurp.b327obe
-deub;B327;;Emmelshausen;deurp.b327
-deub;B327;;Thalfang;deurp.b327tha
+deub;B327;;Kastellaun;deurp.b327kas
+deub;B327;;Thalfang;deurp.b327
 deub;B378;;;deubw.b378
 deub;B388;;Vilsbiburg;deuby.b388
 deub;B388;;Untergriesbach;deuby.b388unt
@@ -598,7 +607,8 @@ deub;B415;;;deubw.b415
 deub;B416;;;deurp.b416
 deub;B417;;;deurp.b417,deuhe.b417
 deub;B418;;;deurp.b418
-deub;B419;;;deurp.b419,deusl.b419
+deub;B419;;(Main);deurp.b419,deusl.b419
+deub;B419;;Perl;deusl.b419per
 deub;B420;;;deurp.b420,deusl.b420
 deub;B421;;Hillesheim;deunw.b421los,deurp.b421hal,deunw.b421,deurp.b421hil
 deub;B421;;Zell (Mosel);deurp.b421
@@ -652,8 +662,7 @@ deub;B463;;Balingen;deubw.b463bal
 deub;B464;;Sindelfingen;deubw.b464
 deub;B464;;Reutlingen;deubw.b464reu
 deub;B465;;;deubw.b465
-deub;B466;;(Main);deubw.b466,deuby.b466
-deub;B466;;Donzdorf;deubw.b466don
+deub;B466;;;deubw.b466,deuby.b466
 deub;B466a;;;deubw.b466a
 deub;B467;;;deubw.b467
 deub;B468;;;deuby.b468
@@ -676,7 +685,8 @@ deub;B483;;;deunw.b483
 deub;B484;;Overath;deunw.b484
 deub;B484;;Lohmar;deunw.b484loh
 deub;B485;;;deuhe.b485
-deub;B486;;;deuhe.b486
+deub;B486;;(Main);deuhe.b486
+deub;B486;;Mörfelden;deuhe.b486mor
 deub;B487;;;deuhe.b487
 deub;B489;;;deuhe.b489
 deub;B491;;;deubw.b491
