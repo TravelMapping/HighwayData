@@ -10,10 +10,6 @@
 
 
 **NOTES TO ROUTES:**
-- `L575` is signed `K2879`, not drafted
-- `L599` Brühl/Ketsch/Hockenheim?
 - `L602` Huttenheim - Rußheim u/c (to be opened late 2019)
 - `L1106` Nordhausen bypass u/c
 - `L1129` Pleidelsheim is wrong on OSM. The bypass is still NOT yet dedicated `L1129` (https://www.openstreetmap.org/changeset/52770646)
-- `L1361`/`L361` Nagold to be checked
-- `B32` Bad Saulgau bypass dedication including `L280`, `L283` and `L285` to be checked later again
