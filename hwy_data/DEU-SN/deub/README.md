@@ -14,5 +14,4 @@
 
 
 **NOTES TO ROUTES:**
-- `B96` Hoyerswerda bypass was partially opened in August 2018 (remaining section Summer 2019) but there's no info how `B96` should be routed meanwhile, western segment of old `B96` will be `S108` --> `B96` still on old route in HB for the time being
 - `B173` 2km segment west of Treuen was rededicated to district road on 1st January 2016 (also OSM) but it's still in mauttabelle.de (not in HB)
