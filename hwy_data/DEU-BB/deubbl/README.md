@@ -10,4 +10,3 @@
 
 **NOTES TO ROUTES:**
 - `Landesstraßen 1. Ordnung` (L10-L99) and `Landesstraßen 2. Ordnung` (L100+) are maintained by the state
-- Former `B96` Cottbuser Straße through Finsterwalde is dedicated as Landesstraße but I don't know the number (likely not L60)
