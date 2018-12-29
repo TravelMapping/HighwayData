@@ -1,4 +1,4 @@
-System;Region;Route;Banner;Abbreviation;City;FIlename;AltRouteNames
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 usaoh;OH;OH2;;;;oh.oh002;
 usaoh;OH;OH3;;;;oh.oh003;
 usaoh;OH;OH4;;;;oh.oh004;
@@ -15,12 +15,12 @@ usaoh;OH;OH13;;;;oh.oh013;
 usaoh;OH;OH13;Trk;Man;Mansfield;oh.oh013trkman;
 usaoh;OH;OH14;;;;oh.oh014;
 usaoh;OH;OH15;;;;oh.oh015;
-usaoh;OH;OH15;AltTrk;Def;Defiance;oh.oh015trkaltdef;
+usaoh;OH;OH15;AltTrk;Def;Defiance;oh.oh015alttrkdef;
 usaoh;OH;OH16;;;;oh.oh016;
 usaoh;OH;OH17;;;;oh.oh017;
 usaoh;OH;OH17;Trk;Gar;Garfield Heights;oh.oh017trkgar;
 usaoh;OH;OH18;;;;oh.oh018;
-usaoh;OH;OH18;AltTrk;Def;Defiance;oh.oh018trkaltdef;
+usaoh;OH;OH18;AltTrk;Def;Defiance;oh.oh018alttrkdef;
 usaoh;OH;OH18;Bus;Nor;North Baltimore;oh.oh018busnor;
 usaoh;OH;OH18;Trk;Hic;Hicksville;oh.oh018trkhic;
 usaoh;OH;OH19;;;;oh.oh019;
@@ -36,7 +36,7 @@ usaoh;OH;OH32;;;;oh.oh032;
 usaoh;OH;OH34;;;;oh.oh034;
 usaoh;OH;OH37;;;;oh.oh037;
 usaoh;OH;OH37;Alt;Del;Delaware;oh.oh037altdel;
-usaoh;OH;OH37;Tmp;Del;Delaware;oh.oh037tmpdel;
+usaoh;OH;OH37;TmpTrk;Del;Delaware;oh.oh037tmptrkdel;OH37TmpDel
 usaoh;OH;OH38;;;;oh.oh038;OH238
 usaoh;OH;OH38;Trk;Lon;London;oh.oh038trklon;
 usaoh;OH;OH39;;;;oh.oh039;
@@ -64,9 +64,10 @@ usaoh;OH;OH63;;;;oh.oh063;
 usaoh;OH;OH64;;;;oh.oh064;
 usaoh;OH;OH65;;;;oh.oh065;
 usaoh;OH;OH66;;;;oh.oh066;
-usaoh;OH;OH66;AltTrk;Def;Defiance;oh.oh066trkaltdef;
+usaoh;OH;OH66;AltTrk;Def;Defiance;oh.oh066alttrkdef;
 usaoh;OH;OH66;Trk;Def;Defiance;oh.oh066trkdef;
 usaoh;OH;OH67;;;;oh.oh067;
+usaoh;OH;OH67;Trk;Ken;Kenton;oh.oh067trkken;
 usaoh;OH;OH72;;;;oh.oh072;
 usaoh;OH;OH73;;;;oh.oh073;
 usaoh;OH;OH73;Trk;Fra;Franklin;oh.oh073trkfra;
@@ -543,6 +544,8 @@ usaoh;OH;OH800;;;;oh.oh800;
 usaoh;OH;OH807;;;;oh.oh807;
 usaoh;OH;OH814;;;;oh.oh814;
 usaoh;OH;OH821;;;;oh.oh821;
+usaoh;OH;OH823;;;;oh.oh823;
+usaoh;WV;OH833;;;;wv.oh833;
 usaoh;OH;OH833;;;;oh.oh833;
 usaoh;OH;OH835;;;;oh.oh835;
 usaoh;OH;OH844;;;;oh.oh844;

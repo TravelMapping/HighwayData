@@ -1,10 +1,11 @@
-﻿System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
+﻿systemName;region;route;banner;abbrev;city;root;altRouteNames
 pols;POL;S1;;;Dąbrowa Górnicza;pol.s001;
 pols;POL;S1;;Bie;Bielsko-Biala;pol.s001bie;S69,S69Bie
 pols;POL;S1;;Mil;Milówka;pol.s001mil;S69Mil
 pols;POL;S2;;;;pol.s002;
 pols;POL;S3;;Ost;Ostromice;pol.s003ost;
 pols;POL;S3;;;Szczecin;pol.s003;S3Zie
+pols;POL;S3;;Leg;Legnica;pol.s003leg;
 pols;POL;S5;;Swi;Świecie;pol.s005swi;
 pols;POL;S5;;Byd;Bydgoszcz;pol.s005byd;
 pols;POL;S5;;Poz;Poznań;pol.s005poz;
@@ -13,33 +14,27 @@ pols;POL;S5;;Raw;Rawicz;pol.s005raw;
 pols;POL;S6;;Now;Nowogard;pol.s006now;
 pols;POL;S6;;Slu;Słupsk;pol.s006slu;
 pols;POL;S6;;;Gdańsk;pol.s006;
-pols;POL;S7;;Gda;Gdańsk;pol.s007gda;
-pols;POL;S7;;NDG;Nowy Dwor Gdanski;pol.s007ndg;
-pols;POL;S7;;Elb;Elbląg;pol.s007elb;S7Mil
-pols;POL;S7;;Ols;Olsztynek;pol.s007ols;
+pols;POL;S7;;Elb;Elbląg;pol.s007elb;S7Mil,DK7Ryc,S7Ost,S7Ols,SK7Ost,DK7Jaz,S7NDG,DK7Kie,S7Gda
 pols;POL;S7;;Plo;Płońsk;pol.s007plo;
 pols;POL;S7;;NDw;Nowy Dwór Mazowiecki;pol.s007ndw;
 pols;POL;S7;;NWa;(North) Warszawa;pol.s007nwa;
 pols;POL;S7;;War;(South) Warszawa;pol.s007war;
-pols;POL;S7;;;Białobrzegi;pol.s007;
-pols;POL;S7;;Kie;Kielce;pol.s007kie;
-pols;POL;S7;;Jed;Jedrzejow;pol.s007jed;
+pols;POL;S7;;;Radom;pol.s007;S7Szy
+pols;POL;S7;;Kie;Kielce;pol.s007kie;S7Tok,DK7Brz,S7Jed
 pols;POL;S7;;EKr;(East) Kraków;pol.s007ekr;
 pols;POL;S7;;Lub;Lubień;pol.s007lub;
 pols;POL;S8;;Tyn;Tyniec Maly;pol.s008tyn;
 pols;POL;S8;;Ole;Oleśnica;pol.s008ole;
 pols;POL;S8;;Tom;Tomaszow Mazowiecki;pol.s008tom;
-pols;POL;S8;;War;Warszawa;pol.s008war;S8Zab
-pols;POL;S8;;;Wyszków;pol.s008;
-pols;POL;S8;;Ost;Ostrów Mazowiecka;pol.s008ost;
-pols;POL;S8;;Zam;Zambrów;pol.s008zam;
-pols;POL;S8;;Jez;Jeżewo;pol.s008jez;
+pols;POL;S8;;;Warszawa;pol.s008;S8War,S8Zab,S8Jez,S8Ost,S8Zam,DK8Rut,DK8Szu,DK8Dyb
 pols;POL;S10;;Sta;Stargard Szczeciński;pol.s010sta;
 pols;POL;S10;;Wyr;Wyrzysk;pol.s010wyr;
 pols;POL;S10;;Byd;Bydgoszcz;pol.s010byd;
 pols;POL;S10;;;Toruń;pol.s010;
 pols;POL;S11;;;Poznań;pol.s011;S11Rok
+pols;POL;S11;;Jar;Jarocin;pol.s011jar;
 pols;POL;S11;;Ost;Ostrów Wielkopolski;pol.s011ost;
+pols;POL;S11;;Kep;Kepno;pol.s011kep;
 pols;POL;S12;;;;pol.s012;
 pols;POL;S14;;;;pol.s014;
 pols;POL;S16;;;;pol.s016;

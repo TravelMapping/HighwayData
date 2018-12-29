@@ -1,9 +1,8 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
-gbnam;ENG;A1;M;Ste;"Herts N-S Motorway";eng.a001mste;
-gbnam;ENG;A1;M;Pet;"Alconbury - Peterborough Motorway";eng.a001mpet;
-gbnam;ENG;A1;M;Don;"Doncaster Bypass";eng.a001mdon;
-gbnam;ENG;A1;M;;"Darrington - Leeming Motorway";eng.a001m;A1MFer
-gbnam;ENG;A1;M;Dur;"Durham Motorway";eng.a001mdur;
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnam;ENG;A1;M;Ste;Herts N-S Motorway;eng.a001mste;
+gbnam;ENG;A1;M;Pet;Alconbury - Peterborough Motorway;eng.a001mpet;
+gbnam;ENG;A1;M;Don;Doncaster Bypass;eng.a001mdon;
+gbnam;ENG;A1;M;;Darrington - Birtley Motorway;eng.a001m;A1MFer,A1MDur,A1Sco
 gbnam;ENG;A3;M;;;eng.a003m;A3MWat
 gbnam;SCT;A8;M;;;sct.a008m;
 gbnam;ENG;A38;M;;;eng.a038m;A38MBir
@@ -20,6 +19,6 @@ gbnam;ENG;A308;M;;;eng.a308m;A308MMai
 gbnam;ENG;A329;M;;;eng.a329m;A329MWin
 gbnam;ENG;A404;M;;;eng.a404m;A404MMai
 gbnam;ENG;A601;M;;;eng.a601m;A601MCar
-gbnam;ENG;A627;M;;"Rochdale - Oldham Motorway";eng.a627m;A627MOld
-gbnam;ENG;A627;M;Sla;"Slattocks Link";eng.a627msla;
+gbnam;ENG;A627;M;;Rochdale - Oldham Motorway;eng.a627m;A627MOld
+gbnam;ENG;A627;M;Sla;Slattocks Link;eng.a627msla;
 gbnam;SCT;A823;M;;;sct.a823m;A823MDun

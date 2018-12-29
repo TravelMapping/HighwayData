@@ -1,6 +1,6 @@
 List of islth routes with notes:
 
-1	Done. Will need to revise (along with any other affected routes) once Vaðlaheiðargöng opens.
+1	  Done. Will need to revise (along with any other affected routes) once Vaðlaheiðargöng opens.
 22	Unsigned (assumed)
 25	Done
 26	Done
@@ -15,12 +15,12 @@ List of islth routes with notes:
 38	Done
 39	Done
 40	Done
-41	Done. Vegagerdin Map shows ending at 40. However, is signed at Snorabraut. Federal style signage exists as far wast as Aegisgata - assumed to end there.
+41	Done. Vegagerdin Map shows ending at S40. However, is signed at Snorabraut. Federal style signage exists as far wast as Aegisgata - assumed to end there.
 42	Done
 43	Done
 44	Done
 45	Done
-46	Done. Not on Vegagerdin map, signed from 41 and from Njardarbraut.
+46	Done. Not on Vegagerdin map, signed from S41 and from Njardarbraut.
 47	Done
 48	Done
 49	Done
@@ -62,7 +62,7 @@ List of islth routes with notes:
 203	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
 204	Done
 205	Done
-206	Done. Transition to F206 where Vegagerdin map shows it. There is no signage at this point, SV does not continue much further down road so cannot confirm if any exists elsewhere. Signage from 1 shows 206 to F206.
+206	Done. Transition to F206 where Vegagerdin map shows it. There is no signage at this point, SV does not continue much further down road so cannot confirm if any exists elsewhere. Signage from S1 shows 206 to F206.
 208sva	Done
 208	Done
 209	Done
@@ -115,7 +115,7 @@ List of islth routes with notes:
 312	Done
 314	Done
 316	Done. Unnumbered on Vegagerdin map, assumed to end at last fork in road.
-318	Done. Unnumbered on Vegagerdin map, assumed to end at Langholt since this is the listed control city from 1.
+318	Done. Unnumbered on Vegagerdin map, assumed to end at Langholt since this is the listed control city from TH1.
 321	Done. Unnumbered on Vegagerdin map, assumed to end at T at far end of road.
 322	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
 324	Done
@@ -160,8 +160,8 @@ List of islth routes with notes:
 408	Done
 410	Done. Not on Vegagerdin map. Signed both ways from 412 junction but no signage east of here. Assumed to end at Austurkor (next junction).
 411	Done. Discontinuous eastern segment is unsigned. Construction is underway to connect the two segments. Will need to determine if signage is extended.
-412	Done. Not on Vegagerdin map. Signed as far west as Baejarbraut. Not signed at 40. Assumed to end at Litlatun (halfway between 40 and Baejarbraut).
-413	Done. Vegagerdin Map shows ending at 41, signed going west at Dalvegur and nothing west of there. Assumed to end at Skemmurvegur (next intersection).
+412	Done. Not on Vegagerdin map. Signed as far west as Baejarbraut. Not signed at S40. Assumed to end at Litlatun (halfway between S40 and Baejarbraut).
+413	Done. Vegagerdin Map shows ending at S41, signed going west at Dalvegur and nothing west of there. Assumed to end at Skemmurvegur (next intersection).
 414	Unsigned
 415	Done
 416	Unsigned
@@ -251,8 +251,8 @@ List of islth routes with notes:
 609	Unsigned and unnumbered on Vegagerdin map
 610	Unsigned
 612	Done
-614	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
-615	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
+614	Unsigned (https://www.youtube.com/watch?v=jBgl-6-Qq4w&list=PLqhmrnMAqnkbiK9jnS0oJdnVPgdrcuaNo&index=5)
+615	Confirmed signed 1/1/18 - added (https://www.youtube.com/watch?v=jBgl-6-Qq4w&list=PLqhmrnMAqnkbiK9jnS0oJdnVPgdrcuaNo&index=5)
 617	Done
 619	Done
 620	Unsigned
@@ -262,7 +262,7 @@ List of islth routes with notes:
 624	Done
 625	Done
 627	Unsigned
-629 Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
+629 	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 630	Done
 631	Unsigned
 632	Done. Signed from 61, unnumbered on Vegagerdin map. Assumed to end at what OSM shows as end of road.
@@ -298,7 +298,7 @@ List of islth routes with notes:
 726	Done
 727	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 731	Done
-733	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
+733	Confirmed signed 2/4/18 - added (https://commons.wikimedia.org/wiki/File:Iceland_4721.JPG)
 734	Done. Shown by Vegagerdin map and OSM as converting to F734 at bridge over Strangakvisl. However, there are several unbridged streams north of this point, which are charactaristic of F-roads. Also, there is a 4-way junction with 756 north of this point, which while it is marked on Vegagerdin map as 756 is known to be signed from 35 as F756. 734 is therefore assumed to convert to F734 at Fossar, where quality of road visibly downgrades and OSM changes the road class.
 735	Done
 741	Done
@@ -329,7 +329,7 @@ List of islth routes with notes:
 786	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 787	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 788	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
-789 	Done	
+789 Done	
 793	Done
 801	Unsigned (assumed)
 802	Done
@@ -394,7 +394,7 @@ List of islth routes with notes:
 882	Unsigned (assumed)
 883	Unsigned
 884	Unsigned
-886	Unsigned (assumed)
+886	Unsigned (https://www.youtube.com/watch?v=vhMuhzPnIMY&index=4&list=PLqhmrnMAqnkZbOh1TPQXWaKqQmK0e3A23)
 887	Unsigned (assumed)
 888	Unsigned (assumed)
 890	Unsigned
@@ -420,7 +420,7 @@ List of islth routes with notes:
 933	Done
 934	Done	
 935	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
-936	Signed as F936 from 96. Not signed from 1. Omitted due to being signed as an F road.
+936	Signed as F936 from TH1. Not signed from TH95.
 937	Done
 938	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 939	Done
@@ -429,23 +429,22 @@ List of islth routes with notes:
 946	Done
 951	Unsigned and unnumbered on Vegagerdin Map
 952	Unsigned
-953   Done
-954  Done. Vegagerdin map shows as ending at Eskifjordur city limits, but is signed at intersection with 92, so plotted with west end at 92. East end plotted where Vegagerdin map shows designation changing from 954 to 958 (assumed to be unsigned, see below).
-955   Done
-958   Assumed to be unsigned since it does not begin or end at an intersection and, while there is no SV, neither intermediate intersection appears from satellite imagery to have any large signs.
+953	Done
+954 Done. Vegagerdin map shows as ending at Eskifjordur city limits, but is signed at intersection with 92, so plotted with west end at 92. East end plotted where Vegagerdin map shows designation changing from S954 to S958 (assumed to be unsigned, see below).
+955	Done
+958	Assumed to be unsigned since it does not begin or end at an intersection and, while there is no SV, neither intermediate intersection appears from satellite imagery to have any large signs.
 962	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
 964	Done
 966	Done. Part of road is missing from OSM, coords for point +X04 taken from Vegagerdin map
-981 Unsigned
+981	Unsigned
 982	Done
 983	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 984	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
+986	Done - added 2/4/18, was missed in initial system drafting
 998	Unsigned
 5317	Done
 
 There are many 4-digit numbered routes on the Vegagerdin Map, OSM, etc. 5317 is the only one I have any evidence is signed in the field. It seems like they are not supposed to be and either 5317 is signed in error (from both ends!) or is an odd exception.
-
-F-prefix roads: omitted from this system. May be a separate system for later.
 
 Sources for point coordinates:
 - OSM/Mapnik (www.openstreetmap.org) via CHM waypoint editor (http://cmap.m-plex.com/tools/wpteditv3/wptedit.html)
@@ -460,3 +459,54 @@ Sources for place names, street names, route numbers, and whether they are signe
 - original reasearch based on personal observations and photos taken during trip to Iceland 9/25-10/1/2016
 - other sources as noted in route list
 (use of non-free and non-open sources justified by lack of copyrightability of facts under US law)
+
+
+List of islf routes with notes:
+
+F26	Done
+F66	Done
+F88	Done
+F206	Done
+F207	Done
+F208	Done
+F210	Done
+F223	Done
+F224	Done
+F225	Done
+F228	Done
+F229	Done
+F232	Done
+F233	Done
+F235	Done
+F249	Done
+F261	Done
+F333	Done
+F335	Done
+F337	Done
+F338	Done
+F347	Done
+F508	Done
+F575	Done
+F578	Done
+F586	Done
+F649	Done
+F734	Done
+F735
+F752
+F756	Done
+F821
+F839
+F881
+F894	Done
+F899
+F902
+F903
+F905
+F909
+F910	Done
+F923
+F936
+F946
+F959	Probably unsigned
+F980
+F985

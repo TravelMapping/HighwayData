@@ -1,4 +1,4 @@
-System;Route;Banner;Name;Roots
+systemName;route;banner;groupName;roots
 usausb;US1;Alt;Jacksonville, FL;fl.us001altjac
 usausb;US1;Bus;St. Augustine, FL;fl.us001bussta
 usausb;US1;Bus;Waycross, GA;ga.us001busway
@@ -6,6 +6,7 @@ usausb;US1;Bus;Swainsboro, GA;ga.us001busswa
 usausb;US1;Bus;Wadley, GA;ga.us001buswad
 usausb;US1;Bus;Louisville, GA;ga.us001buslou
 usausb;US1;Trk;Aiken, SC;sc.us001trkaik
+usausb;US1;Trk;Camden, SC;sc.us001trkcam
 usausb;US1;Trk;Cheraw, SC;sc.us001trkche
 usausb;US1;Alt;Wake Forest, NC;nc.us001altwak
 usausb;US1;Alt;Franklinton, NC;nc.us001altfra
@@ -16,6 +17,8 @@ usausb;US1;Bus;Fredericksburg, VA;va.us001busfre
 usausb;US1;Alt;Washington, DC;dc.us001altwas,md.us001altwas
 usausb;US1;Alt;Baltimore, MD;md.us001altbal
 usausb;US1;Bus;Bel Air, MD;md.us001busbel
+usausb;US1;AltTrk;Philadelphia, PA;pa.us001alttrkphi
+usausb;US1;AltTrk;West Grove, PA;pa.us001alttrkwes
 usausb;US1;Bus;Penndel, PA;pa.us001buspen
 usausb;US1;Bus;Trenton, NJ;nj.us001bustre
 usausb;US1;Trk;Jersey City, NJ;nj.us001trkjer
@@ -56,7 +59,7 @@ usausb;US6;Alt;Rocky River, OH;oh.us006altroc
 usausb;US6;Bus;Napoleon, OH;oh.us006busnap
 usausb;US6;Bus;Warren, PA;pa.us006buswar
 usausb;US6;Bus;Tunkhannock, PA;pa.us006bustun
-usausb;US6;Bus;Scranton, PA;pa.us006busscr
+usausb;US6;Bus;Carbondale, PA;pa.us006buscar
 usausb;US6;Alt;Garrison, NY;ny.us006altgar
 usausb;US6;Trk;Fort Montgomery, NY;ny.us006trkfor
 usausb;US6;Alt;Johnston, RI;ri.us006altjoh
@@ -64,7 +67,6 @@ usausb;US7;Alt;Burlington, VT;vt.us007altbur
 usausb;US9;Bus;Lewes, DE;de.us009buslew
 usausb;US9;Trk;Georgetown, DE;de.us009trkgeo
 usausb;US9;Trk;Jersey City, NJ;nj.us009trkjer
-usausb;US10;Bus;Neillsville, WI;wi.us010busnei
 usausb;US10;Bus;Reed City, MI;mi.us010busree
 usausb;US10;Bus;Clare, MI;mi.us010buscla
 usausb;US10;Bus;Midland, MI;mi.us010busmid
@@ -77,7 +79,6 @@ usausb;US11;Trk;Staunton, VA;va.us011trksta
 usausb;US11E;Bus;Greeneville, TN;tn.us011ebusgre
 usausb;US12;Bus;Missoula, MT;mt.us012busmis
 usausb;US12;Bus;Helena, MT;mt.us012bushel
-usausb;US12;Bus;West Baraboo, WI;wi.us012buswba
 usausb;US12;Bus;Baraboo, WI;wi.us012busbar
 usausb;US12;Bus;Sauk City, WI;wi.us012bussau
 usausb;US12;Bus;Whitewater, WI;wi.us012buswhi
@@ -95,14 +96,17 @@ usausb;US13;Alt;Woodside, DE;de.us013altwoo
 usausb;US13;Alt;Dover, DE;de.us013altdov
 usausb;US13;Bus;Bridgeville, DE;de.us013busbri
 usausb;US13;Bus;Wilmington, DE;de.us013buswil
+usausb;US13;AltTrk;Bensalem, PA;pa.us013alttrkben
 usausb;US14;Alt;Powell, WY;wy.us014altpow
 usausb;US14;Bus;Sheridan, WY;wy.us014busshe
 usausb;US14;Alt;Deadwood, SD;sd.us014altdea
 usausb;US14;Byp;Brookings, SD;sd.us014bypbro
 usausb;US14;Trk;Pierre, SD;sd.us014trkpie
+usausb;US14;Bus;Dodge Center, MN;mn.us014busdod
 usausb;US15;Bus;Hartsville, SC;sc.us015bushar
 usausb;US15;Bus;Laurinburg, NC;nc.us015buslau
 usausb;US15;Bus;Durham, NC;nc.us015busdur
+usausb;US15;Alt;Farmville, VA;va.us015altfar
 usausb;US15;Bus;Keysville, VA;va.us015buskey
 usausb;US15;Bus;Farmville, VA;va.us015busfar
 usausb;US15;Bus;Culpeper, VA;va.us015buscul
@@ -161,12 +165,12 @@ usausb;US19;Bus;Lebanon, VA;va.us019busleb
 usausb;US19;Bus;Tazewell, VA;va.us019bustaz
 usausb;US19;Trk;Bristol, VA;va.us019trkbri
 usausb;US19;Trk;Pittsburgh, PA;pa.us019trkpit
-usausb;US19;Trk;Harlansburg, PA;pa.us019trkhar
 usausb;US20;Bus;Toledo, OR;or.us020bustol
 usausb;US20;Bus;Idaho Falls, ID;id.us020busida
 usausb;US20;Bus;Rigby, ID;id.us020busrig
 usausb;US20;Bus;St. Anthony, ID;id.us020bussta
 usausb;US20;Bus;Casper, WY;wy.us020buscas
+usausb;US20;Bus;Douglas, WY;wy.us020busdou
 usausb;US20;Bus;South Sioux City, NE;ne.us020busssc,ia.us020bussio
 usausb;US20;Bus;Fort Dodge, IA;ia.us020busfor
 usausb;US20;Bus;Freeport, IL;il.us020busfre
@@ -219,6 +223,7 @@ usausb;US25;Bus;Richmond, KY;ky.us025busric
 usausb;US25;Bus;Dry Ridge, KY;ky.us025busdry
 usausb;US26;Bus;Ririe, ID;id.us026busrir
 usausb;US26;Bus;Casper, WY;wy.us026buscas
+usausb;US26;Bus;Douglas, WY;wy.us026busdou
 usausb;US27;Alt;Perry, FL;fl.us027altper
 usausb;US27;Alt;Newnan, GA;ga.us027altnew
 usausb;US27;Bus;Attapulus, GA;ga.us027busatt
@@ -248,9 +253,9 @@ usausb;US29;Bus;Madison, VA;va.us029busmad
 usausb;US29;Bus;Culpeper, VA;va.us029buscul
 usausb;US29;Bus;Remington, VA;va.us029busrem
 usausb;US29;Bus;Warrenton, VA;va.us029buswar
+usausb;US30;Bus;Huntington, OR;or.us030bushun
 usausb;US30;Bus;Ontario, OR;or.us030busont
 usausb;US30;Byp;Portland, OR;or.us030byppor
-usausb;US30;Bus;Lava Hot Springs, ID;id.us030buslav
 usausb;US30;Bus;Rock Springs, WY;wy.us030busroc
 usausb;US30;Bus;Rawlins, WY;wy.us030busraw
 usausb;US30;Byp;Kemmerer, WY;wy.us030bypkem
@@ -261,7 +266,7 @@ usausb;US30;Alt;Dalton, OH;oh.us030altdal
 usausb;US30;Bus;Bedford, PA;pa.us030busbed
 usausb;US30;Bus;Everett, PA;pa.us030buseve
 usausb;US30;Bus;Downingtown, PA;pa.us030busdow
-usausb;US30;Trk;Imperial, PA;pa.us030trkimp
+usausb;US30;BusTrk;Downingtown, PA;pa.us030bustrkdow
 usausb;US31;Alt;Nashville, TN;tn.us031altnas
 usausb;US31;AltBus;Lewisburg, TN;tn.us031altbuslew
 usausb;US31;Bus;Franklin, TN;tn.us031busfra
@@ -326,11 +331,10 @@ usausb;US42;Trk;Mansfield, OH;oh.us042trkman
 usausb;US45;Alt;West Point, MS;ms.us045altwpt
 usausb;US45;Byp;Jackson, TN;tn.us045bypjac
 usausb;US45;Bus;Paducah, KY;ky.us045buspad
-usausb;US45;Byp;Mayfield, KY;ky.us045bypmay
 usausb;US45;Bus;New London, WI;wi.us045busnew
 usausb;US45E;Bus;Martin, TN;tn.us045ebusmar
 usausb;US45W;Bus;Humboldt, TN;tn.us045wbushum
-usausb;US49;Bus;Helena, AR;ar.us049bushel
+usausb;US49;Bus;Helena-West Helena, AR;ar.us049bushel
 usausb;US49;Bus;Brookland, AR;ar.us049busbro
 usausb;US49;Bus;Paragould, AR;ar.us049buspar
 usausb;US49;Spr;Paragould, AR;ar.us049sprpar
@@ -367,7 +371,6 @@ usausb;US52;Trk;Bluefield, WV;wv.us052trkblu
 usausb;US52;Bus;Mount Airy, NC;nc.us052busmou
 usausb;US52;Bus;Albemarle, NC;nc.us052busalb
 usausb;US52;Bus;Darlington, SC;sc.us052busdar
-usausb;US52;Spr;Charleston, SC;sc.us052sprcha
 usausb;US52;Trk;Cheraw, SC;sc.us052trkche
 usausb;US52;Trk;Florence, SC;sc.us052trkflo
 usausb;US53;Bus;Eau Claire, WI;wi.us053buseau
@@ -462,12 +465,14 @@ usausb;US62;Spr;Berryville, AR;ar.us062sprber
 usausb;US62;Spr;Pyatt, AR;ar.us062sprpya
 usausb;US62;Trk;Elizabethtown, KY;ky.us062trkeli
 usausb;US62;Trk;Lawrenceburg, KY;ky.us062trklaw
+usausb;US62;Trk;Princeton, KY;ky.us062trkpri
 usausb;US62;Bus;Sharon, PA;pa.us062bussha
 usausb;US62;Bus;Niagara Falls, NY;ny.us062busnia
 usausb;US63;Bus;Hermitage, AR;ar.us063busher
 usausb;US63;Bus;Warren, AR;ar.us063buswar
 usausb;US63;Bus;Pine Bluff, AR;ar.us063buspin
 usausb;US63;Bus;Marked Tree, AR;ar.us063busmar
+usausb;US63;Bus;Jonesboro, AR;ar.us063busjon
 usausb;US63;Bus;Bono, AR;ar.us063busbon
 usausb;US63;Bus;Hoxie, AR;ar.us063bushox
 usausb;US63;Bus;Hardy, AR;ar.us063bushar
@@ -489,6 +494,7 @@ usausb;US64;Bus;Parkin, AR;ar.us064buspar
 usausb;US64;Bus;Earle, AR;ar.us064busear
 usausb;US64;Bus;Crawfordsville, AR;ar.us064buscra
 usausb;US64;Spr;Wynne, AR;ar.us064sprwyn
+usausb;US64;Spr;Marion, AR;ar.us064sprmar
 usausb;US64;Bus;Whiteville, TN;tn.us064buswhi
 usausb;US64;Bus;Selmer, TN;tn.us064bussel
 usausb;US64;Bus;Fayetteville, TN;tn.us064busfay
@@ -547,6 +553,7 @@ usausb;US68;Bus;Auburn, KY;ky.us068busaub
 usausb;US68;Bus;Bowling Green, KY;ky.us068busbow
 usausb;US68;Bus;Glasgow, KY;ky.us068busgla
 usausb;US68;Bus;Paris, KY;ky.us068buspar
+usausb;US68;Bus;Millersburg, KY;ky.us068busmil
 usausb;US68;Bus;Old Washington, KY;ky.us068busold
 usausb;US68;Byp;Hopkinsville, KY;ky.us068byphop
 usausb;US68;Trk;Glasgow, KY;ky.us068trkgla
@@ -584,6 +591,7 @@ usausb;US70;Bus;Smithfield, NC;nc.us070bussmi
 usausb;US70;Byp;Goldsboro, NC;nc.us070bypgol
 usausb;US70;Bus;Goldsboro, NC;nc.us070busgol
 usausb;US70;Bus;Kinston, NC;nc.us070buskin
+usausb;US70;Bus;Beaufort, NC;nc.us070busbea
 usausb;US70;Byp;Smithfield, NC;nc.us070bypsmi
 usausb;US70;Trk;Morganton, NC;nc.us070trkmor
 usausb;US71;Bus;Waldron, AR;ar.us071buswal
@@ -603,6 +611,7 @@ usausb;US74;Alt;Pembroke, NC;nc.us074altpem
 usausb;US74;Bus;Forest City, NC;nc.us074busfor
 usausb;US74;Bus;Shelby, NC;nc.us074busshe
 usausb;US74;Bus;Kings Mountain, NC;nc.us074buskin
+usausb;US74;Byp;Monroe, NC;nc.us074bypmon
 usausb;US74;Bus;Rockingham, NC;nc.us074busroc
 usausb;US74;Bus;Laurinburg, NC;nc.us074buslau
 usausb;US74;Bus;Whiteville, NC;nc.us074buswhi
@@ -629,7 +638,6 @@ usausb;US77;Bus;Victoria, TX;tx.us077busvic
 usausb;US77;Bus;Yoakum, TX;tx.us077busyoa
 usausb;US77;Bus;Waco, TX;tx.us077buswac
 usausb;US77;Trk;El Dorado, KS;ks.us077trkeld
-usausb;US78;Alt;Jasper, AL;al.us078altjas
 usausb;US78;Bus;Athens, GA;ga.us078busath
 usausb;US78;Bus;Washington, GA;ga.us078buswas
 usausb;US78;Bus;Blackville, SC;sc.us078busbla
@@ -638,6 +646,7 @@ usausb;US79;Bus;Taylor, TX;tx.us079bustay
 usausb;US79;Bus;Henderson, TX;tx.us079bushen
 usausb;US79;Bus;Carthage, TX;tx.us079buscar
 usausb;US79;Trk;Minden, LA;la.us079trkmin
+usausb;US79;Trk;Homer, LA;la.us079trkhom
 usausb;US79;Bus;Magnolia, AR;ar.us079busmag
 usausb;US79;Bus;Camden, AR;ar.us079buscam
 usausb;US79;Bus;Bearden, AR;ar.us079busbea
@@ -647,7 +656,6 @@ usausb;US79;Bus;Pine Bluff, AR;ar.us079buspin
 usausb;US79;Bus;Stuttgart, AR;ar.us079busstu
 usausb;US79;Bus;Clarendon, AR;ar.us079buscla
 usausb;US79;Byp;Humboldt, TN;tn.us079byphum
-usausb;US79;Trk;Russellville, KY;ky.us079trkrus
 usausb;US80;Trk;Minden, LA;la.us080trkmin
 usausb;US80;Trk;Gibsland, LA;la.us080trkgib
 usausb;US80;Trk;Arcadia, LA;la.us080trkarc
@@ -663,7 +671,6 @@ usausb;US82;Bus;Holiday, TX;tx.us082bushol
 usausb;US82;Bus;Paris, TX;tx.us082buspar
 usausb;US82;Bus;Clarksville, TX;tx.us082buscla
 usausb;US82;Bus;Avery, TX;tx.us082busave
-usausb;US82;Bus;Stamps, AR;ar.us082bussta
 usausb;US82;Bus;Magnolia, AR;ar.us082busmag
 usausb;US82;Bus;El Dorado, AR;ar.us082buseld
 usausb;US82;Bus;Montrose, AR;ar.us082busmon
@@ -699,6 +706,7 @@ usausb;US87;Bus;Big Spring, TX;tx.us087busbig
 usausb;US87;Bus;Lamesa, TX;tx.us087buslam
 usausb;US87;Bus;Dalhart, TX;tx.us087busdal
 usausb;US87;Bus;Cheyenne, WY;wy.us087busche
+usausb;US87;Bus;Douglas, WY;wy.us087busdou
 usausb;US87;Bus;Casper, WY;wy.us087buscas
 usausb;US87;Bus;Buffalo, WY;wy.us087busbuf
 usausb;US87;Bus;Sheridon, WY;wy.us087busshe
@@ -716,9 +724,9 @@ usausb;US90;Alt;Pensacola, FL;fl.us090altpen
 usausb;US90;Alt;Jacksonville, FL;fl.us090altjac
 usausb;US92;Trk;Kissimmee, FL;fl.us092trkkis
 usausb;US92;Trk;Orlando, FL;fl.us092trkorl
+usausb;US93;Bus;Boulder City, NV;nv.us093busbou
 usausb;US93;Trk;Laughlin, NV;az.us093trklau,nv.us093trklau
 usausb;US93;Alt;Wendover, NV;nv.us093altwen
-usausb;US93;Bus;Wendover, NV;nv.us093buswen,ut.us093buswen
 usausb;US93;Bus;Twin Falls, ID;id.us093bustwi
 usausb;US93;Alt;Kalispell, MT;mt.us093altkal
 usausb;US93;Bus;Missoula, MT;mt.us093busmis
@@ -740,7 +748,6 @@ usausb;US97;Alt;Entiat, WA;wa.us097altent
 usausb;US97;Bus;Cashmere, WA;wa.us097buscas
 usausb;US97;Bus;Okanogan, WA;wa.us097busoka
 usausb;US97;Spr;Orondo, WA;wa.us097sproro
-usausb;US98;Alt;Fairhope, AL;al.us098altfai
 usausb;US98;Trk;Mobile, AL;al.us098trkmob
 usausb;US98;Bus;Pensacola, FL;fl.us098buspen
 usausb;US98;Bus;Panama City, FL;fl.us098buspan
@@ -840,6 +847,7 @@ usausb;US169;Alt;Nowata, OK;ok.us169altnow
 usausb;US169;Bus;Garnett, KS;ks.us169busgar
 usausb;US169;Spr;Smithville, MO;mo.us169sprsmi
 usausb;US169;Bus;Fort Dodge, IA;ia.us169busfor
+usausb;US169;Bus;Shakopee, MN;mn.us169bussha
 usausb;US171;Bus;Zwolle, LA;la.us171buszwo
 usausb;US175;Bus;Athens, TX;tx.us175busath
 usausb;US175;Bus;Mabank, TX;tx.us175busmab
@@ -854,6 +862,7 @@ usausb;US181;Bus;Karnes City, TX;tx.us181buskar
 usausb;US183;Bus;Gonzales, TX;tx.us183busgon
 usausb;US183;Bus;Seymour, TX;tx.us183bussey
 usausb;US183;Byp;Hays, KS;ks.us183byphay
+usausb;US189;Bus;Evanston, WY;wy.us189buseva
 usausb;US190;Bus;Copperas Cove, TX;tx.us190buscop
 usausb;US190;Bus;Killeen, TX;tx.us190buskil
 usausb;US190;Bus;Heidenheimer, TX;tx.us190bushei
@@ -865,6 +874,8 @@ usausb;US191;Bus;Helper, UT;ut.us191bushel
 usausb;US191;Bus;Lewiston, MT;mt.us191buslew
 usausb;US195;Spr;Lewiston, ID;id.us195sprlew,wa.us195spruni
 usausb;US201;Alt;Skowhegan, ME;me.us201altsko
+usausb;US202;Bus;Montgomeryville, PA;pa.us202busmon
+usausb;US202;AltTrk;North Wales, PA;pa.us202alttrknor
 usausb;US202;Alt;Garrison, NY;ny.us202altgar
 usausb;US209;Trk;Brodheadsville, PA;pa.us209trkbro
 usausb;US209;Bus;Stroudsburg, PA;pa.us209busstr
@@ -905,6 +916,7 @@ usausb;US221;Bus;Bedford, VA;va.us221busbed
 usausb;US222;Bus;Reading, PA;pa.us222busrea
 usausb;US223;Bus;Adrian, MI;mi.us223busadr
 usausb;US231;Bus;Dothan, AL;al.us231busdot
+usausb;US231;Bus;Ozark, AL;al.us231busoza
 usausb;US231;Bus;Shelbyville, TN;tn.us231busshe
 usausb;US231;Bus;Bowling Green, KY;ky.us231busbow
 usausb;US250;Bus;New Philadelphia, OH;oh.us250busnew
@@ -916,7 +928,6 @@ usausb;US258;Bus;Farmville, NC;nc.us258busfar
 usausb;US258;Trk;Snow Hill, NC;nc.us258trksno
 usausb;US258;Bus;Franklin, VA;va.us258busfra
 usausb;US258;Bus;Smithfield, VA;va.us258bussmi
-usausb;US258;BusAlt;Smithfield, VA;va.us258busaltsmi
 usausb;US259;Bus;Kilgore, TX;tx.us259buskil
 usausb;US264;Alt;Wilson, NC;nc.us264altwil
 usausb;US264;Bus;Belhaven, NC;nc.us264busbel
@@ -944,6 +955,7 @@ usausb;US277;Bus;Seymour, TX;tx.us277bussey
 usausb;US278;Bus;Hope, AR;ar.us278bushop
 usausb;US278;Bus;Camden, AR;ar.us278buscam
 usausb;US278;Bus;Warren, AR;ar.us278buswar
+usausb;US278;Byp;Monticello, AR;ar.us278bypmon
 usausb;US278;Bus;Rockmart, GA;ga.us278busroc
 usausb;US278;Byp;Warrenton, GA;ga.us278bypwar
 usausb;US278;Bus;Hilton Head, SC;sc.us278bushil
@@ -980,7 +992,6 @@ usausb;US301;Bus;Rocky Mount, NC;nc.us301busroc
 usausb;US301;Bus;Halifax, NC;nc.us301bushal
 usausb;US301;Alt;Petersburg, VA;va.us301altpet
 usausb;US301;Bus;Bowling Green, VA;va.us301busbow
-usausb;US302;Bus;Bartlett, NH;nh.us302busbar
 usausb;US302;Trk;Littleton, NH;nh.us302trklit
 usausb;US319;Bus;Moultrie, GA;ga.us319busmou
 usausb;US321;Bus;Winnsboro, SC;sc.us321buswin
@@ -1084,6 +1095,7 @@ usausb;US521;Bus;Andrews, SC;sc.us521busand
 usausb;US521;Bus;Kershaw, SC;sc.us521busker
 usausb;US521;Bus;Lancaster, SC;sc.us521buslan
 usausb;US521;Trk;Camden, SC;sc.us521trkcam
+usausb;US521;Trk;East Camden, SC;sc.us521trkeca
 usausb;US522;Bus;Washington, VA;va.us522buswas
 usausb;US601;Bus;Kershaw, SC;sc.us601busker
 usausb;US601;Trk;Orangeburg, SC;sc.us601trkora

@@ -26,9 +26,11 @@ HagMurRd http://www.openstreetmap.org/?lat=34.836674&lon=-78.252826
 EdmMatRd http://www.openstreetmap.org/?lat=34.860284&lon=-78.263018
 MouGilRd http://www.openstreetmap.org/?lat=34.914346&lon=-78.254263
 US701_S http://www.openstreetmap.org/?lat=34.965153&lon=-78.305258
+TramRd http://www.openstreetmap.org/?lat=34.981616&lon=-78.320339
 NC24_E http://www.openstreetmap.org/?lat=34.986805&lon=-78.326683
 NC24_W http://www.openstreetmap.org/?lat=34.995067&lon=-78.337326
 US701_N http://www.openstreetmap.org/?lat=35.006325&lon=-78.340148
+NorBlvd http://www.openstreetmap.org/?lat=35.015220&lon=-78.344658
 KitForkRd http://www.openstreetmap.org/?lat=35.052886&lon=-78.374394
 +x10 http://www.openstreetmap.org/?lat=35.107690&lon=-78.398888
 NC242_S http://www.openstreetmap.org/?lat=35.145600&lon=-78.456373
@@ -57,13 +59,16 @@ PlaRd http://www.openstreetmap.org/?lat=35.556418&lon=-79.286029
 +x20 http://www.openstreetmap.org/?lat=35.574493&lon=-79.308978
 PitGolRd http://www.openstreetmap.org/?lat=35.603080&lon=-79.321670
 NC902 http://www.openstreetmap.org/?lat=35.631367&lon=-79.368346
-ChaAve http://www.openstreetmap.org/?lat=35.694188&lon=-79.427580
-US64 http://www.openstreetmap.org/?lat=35.734216&lon=-79.431850
-OldUS421_Lib http://www.openstreetmap.org/?lat=35.813620&lon=-79.554040
-NC49 http://www.openstreetmap.org/?lat=35.823172&lon=-79.573202
-NC62 http://www.openstreetmap.org/?lat=35.914357&lon=-79.674826
-+x30 http://www.openstreetmap.org/?lat=35.955861&lon=-79.694304
-I-85(126) http://www.openstreetmap.org/?lat=35.998702&lon=-79.752116
+168 +ChaAve http://www.openstreetmap.org/?lat=35.694188&lon=-79.427580
+171 +US64 http://www.openstreetmap.org/?lat=35.734216&lon=-79.431850
+174 http://www.openstreetmap.org/?lat=35.763953&lon=-79.474017
+180 +OldUS421_Lib http://www.openstreetmap.org/?lat=35.813620&lon=-79.554040
+NC49 http://www.openstreetmap.org/?lat=35.823276&lon=-79.573545
+OldLibRd http://www.openstreetmap.org/?lat=35.848322&lon=-79.605199
+190 +NC62 http://www.openstreetmap.org/?lat=35.914357&lon=-79.674826
+194 http://www.openstreetmap.org/?lat=35.963295&lon=-79.703617
+196 http://www.openstreetmap.org/?lat=35.982762&lon=-79.737360
+197 +I-85(126) http://www.openstreetmap.org/?lat=35.998702&lon=-79.752116
 I-85(124) http://www.openstreetmap.org/?lat=36.000681&lon=-79.792070
 I-85(122) http://www.openstreetmap.org/?lat=36.002903&lon=-79.827604
 I-73(97A) http://www.openstreetmap.org/?lat=36.003530&lon=-79.846240
@@ -78,7 +83,8 @@ I-40(211) http://www.openstreetmap.org/?lat=36.075083&lon=-79.942317
 I-40(210) http://www.openstreetmap.org/?lat=36.080633&lon=-79.959655
 I-40(208) http://www.openstreetmap.org/?lat=36.092147&lon=-79.996262
 I-40(206) http://www.openstreetmap.org/?lat=36.097626&lon=-80.014758
-I-40BL(16) +I-40Bus(16) http://www.openstreetmap.org/?lat=36.112501&lon=-80.060592
+I-40BL(17) http://www.openstreetmap.org/?lat=36.106450&lon=-80.045946
+*I-40BL(16) +I-40Bus(16) http://www.openstreetmap.org/?lat=36.112501&lon=-80.060592
 I-40BL(15) http://www.openstreetmap.org/?lat=36.113194&lon=-80.064111
 I-40BL(14) http://www.openstreetmap.org/?lat=36.110247&lon=-80.091233
 I-40BL(10) http://www.openstreetmap.org/?lat=36.111322&lon=-80.165005
@@ -95,30 +101,32 @@ I-40BL(4A) http://www.openstreetmap.org/?lat=36.092320&lon=-80.269117
 I-40BL(3B) http://www.openstreetmap.org/?lat=36.094020&lon=-80.279031
 I-40BL(3A) http://www.openstreetmap.org/?lat=36.092078&lon=-80.286713
 I-40BL(2) +I-40Bus(2) http://www.openstreetmap.org/?lat=36.084101&lon=-80.306711
-I-40(188) http://www.openstreetmap.org/?lat=36.072100&lon=-80.326195
-JonRd http://www.openstreetmap.org/?lat=36.072603&lon=-80.338469
-PeaHavRd http://www.openstreetmap.org/?lat=36.072672&lon=-80.357620
-LewCleRd http://www.openstreetmap.org/?lat=36.077000&lon=-80.388894
-WilRd http://www.openstreetmap.org/?lat=36.090560&lon=-80.430254
-ShaRd http://www.openstreetmap.org/?lat=36.100842&lon=-80.468738
-DinBotRd http://www.openstreetmap.org/?lat=36.106494&lon=-80.518960
-SpeBriRd http://www.openstreetmap.org/?lat=36.117320&lon=-80.544902
-WalRd http://www.openstreetmap.org/?lat=36.113558&lon=-80.588332
-US601 http://www.openstreetmap.org/?lat=36.118966&lon=-80.660151
-ReaRd http://www.openstreetmap.org/?lat=36.118888&lon=-80.702208
-US21 http://www.openstreetmap.org/?lat=36.116262&lon=-80.772107
-I-77 http://www.openstreetmap.org/?lat=36.121792&lon=-80.813885
-BroRd http://www.openstreetmap.org/?lat=36.130570&lon=-80.842263
-DenRd http://www.openstreetmap.org/?lat=36.142432&lon=-80.894362
-CliRd http://www.openstreetmap.org/?lat=36.154249&lon=-80.930647
+238 +I-40(188) http://www.openstreetmap.org/?lat=36.072100&lon=-80.326195
+239 +JonRd http://www.openstreetmap.org/?lat=36.072603&lon=-80.338469
+240 +PeaHavRd http://www.openstreetmap.org/?lat=36.072698&lon=-80.357738
+242 +LewCleRd http://www.openstreetmap.org/?lat=36.077087&lon=-80.389033
+244 +WilRd http://www.openstreetmap.org/?lat=36.090603&lon=-80.430372
+246 +ShaRd http://www.openstreetmap.org/?lat=36.100842&lon=-80.468738
+249 +DinBotRd http://www.openstreetmap.org/?lat=36.106459&lon=-80.519089
+251 +SpeBriRd http://www.openstreetmap.org/?lat=36.117355&lon=-80.545041
+253 +WalRd http://www.openstreetmap.org/?lat=36.113619&lon=-80.588429
+256 http://www.openstreetmap.org/?lat=36.118554&lon=-80.639923
+257 +US601 http://www.openstreetmap.org/?lat=36.118966&lon=-80.660151
+259 +ReaRd http://www.openstreetmap.org/?lat=36.119365&lon=-80.703098
+263 +US21 http://www.openstreetmap.org/?lat=36.116262&lon=-80.772107
+264 http://www.openstreetmap.org/?lat=36.119060&lon=-80.793476
+265 +I-77 http://www.openstreetmap.org/?lat=36.121792&lon=-80.813885
+267 +BroRd http://www.openstreetmap.org/?lat=36.130570&lon=-80.842263
+270 +DenRd http://www.openstreetmap.org/?lat=36.142501&lon=-80.894469
+272 +CliRd http://www.openstreetmap.org/?lat=36.154258&lon=-80.930776
 +x50 http://www.openstreetmap.org/?lat=36.161225&lon=-80.946729
 +x51 http://www.openstreetmap.org/?lat=36.161853&lon=-80.980482
-RedWhiRd http://www.openstreetmap.org/?lat=36.154050&lon=-80.993593
-WinGapRd http://www.openstreetmap.org/?lat=36.150368&lon=-81.018097
-US421Bus/115 http://www.openstreetmap.org/?lat=36.136670&lon=-81.103027
-BruMouRd http://www.openstreetmap.org/?lat=36.134513&lon=-81.146629
-NC16/18 http://www.openstreetmap.org/?lat=36.136731&lon=-81.161231
-NC268 http://www.openstreetmap.org/?lat=36.141063&lon=-81.173376
+276 +RedWhiRd http://www.openstreetmap.org/?lat=36.154050&lon=-80.993593
+277 +WinGapRd http://www.openstreetmap.org/?lat=36.150368&lon=-81.018097
+282 +US421Bus/115 http://www.openstreetmap.org/?lat=36.136670&lon=-81.103027
+285 +BruMouRd http://www.openstreetmap.org/?lat=36.134513&lon=-81.146629
+286A +NC16/18 http://www.openstreetmap.org/?lat=36.136731&lon=-81.161231
+286B +NC268 http://www.openstreetmap.org/?lat=36.141063&lon=-81.173376
 US421BusWil http://www.openstreetmap.org/?lat=36.150229&lon=-81.185993
 NC16 http://www.openstreetmap.org/?lat=36.149814&lon=-81.231505
 +x60 http://www.openstreetmap.org/?lat=36.142985&lon=-81.289623

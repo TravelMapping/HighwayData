@@ -1,11 +1,10 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteNames
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 grca;GRC;A1;;;(main);grc.a001;A1Ath,A1Kat,A1Lar,A1Par
 grca;GRC;A1;;The;Thessaloniki (spur);grc.a001the;
 grca;GRC;A2;;;;grc.a002;
+grca;GRC;A3;;;;grc.a003;
 grca;GRC;A4;;;;grc.a004;
-grca;GRC;A5;;;Agrinio;grc.a005;
-grca;GRC;A5;;Art;Arta;grc.a005art;
-grca;GRC;A5;;Pat;Patras;grc.a005pat;
+grca;GRC;A5;;;Patras;grc.a005;A5Pat,A5Art
 grca;GRC;A5;;Kal;Kaliva;grc.a005kal;
 grca;GRC;A6;;;;grc.a006;
 grca;GRC;A7;;;;grc.a007;A7Tho
@@ -14,10 +13,10 @@ grca;GRC;A11;;;;grc.a011;
 grca;GRC;A12;;;;grc.a012;
 grca;GRC;A23;;;;grc.a023;
 grca;GRC;A24;;;;grc.a024;
-grca;GRC;A25;;Sid;Sidirokastro;grc.a025sid;A25Pro,A25Pal
-grca;GRC;A25;;;Lagkadas;grc.a025;
+grca;GRC;A25;;;;grc.a025;A25Sid,A25Pro,A25Pal
 grca;GRC;A27;;;;grc.a027;
 grca;GRC;A29;;;;grc.a029;A29Arg
+grca;GRC;A52;;;;grc.a052;
 grca;GRC;A62;;;;grc.a062;
 grca;GRC;A64;;;;grc.a064;
 grca;GRC;A65;;;;grc.a065;

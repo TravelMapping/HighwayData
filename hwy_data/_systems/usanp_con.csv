@@ -1,49 +1,127 @@
-System;Route;Banner;Name;Roots
+﻿systemName;route;banner;groupName;roots
+usanp;CadSumRd;;Cadillac Summit Road, Acadia NP;me.cadsumrd
+usanp;ParHillRd;;Paradise Hill Road, Acadia NP;me.parhillrd
+usanp;ParkLpRd;;Park Loop Road, Acadia NP;me.parklprd
+usanp;SchLpRd;;Schoodic Loop Road, Acadia NP;me.schlprd
 usanp;ArcSceDr;;Arches NP Scenic Drive;ut.arcscedr
+usanp;BadLpRd;;Badlands Loop Road, Badlands NP;sd.badlprd
 usanp;BalWasPkwy;;Baltimore-Washington Parkway;md.balwaspkwy
-usanp;BeaDr;;Beach Drive;dc.beadr,md.beadr
-usanp;BigOakRd;;Big Oak Flat Road, Yosemite NP;ca.bigoakrd
-usanp;BlueRidPkwy;;Blue Ridge Parkway;nc.blueridpkwy,va.blueridpkwy
-usanp;BryCynSceDr;;Bryce Canyon Scenic Drive;ut.brycynscedr
-usanp;ClaBarPkwy;;Clara Barton Parkway;md.clabarpkwy,dc.clabarpkwy
-usanp;ColPkwy;;Colonial Parkway;va.colpkwy
-usanp;CraCrkRd;;Crater Creek Road;or.cracrkrd
-usanp;CraLakeHwy;;Crater Lake Highway;or.cralakehwy
-usanp;CraLakeRimDr;;Crater Lake Rim Drive;or.cralakerimdr
-usanp;EEntR;;East Entrance Road, Yellowstone;wy.eentrd
-usanp;ElPorRd;;El Portal Road, Yosemite NP;ca.elporrd
-usanp;FallRivRd;;Fall River Road, Rocky Mtns NP;co.fallrivrd
-usanp;FooPkwyW;;Foothills Parkway (West);tn.foopkwyw
-usanp;FooPkwyE;;Foothills Parkway (East);tn.foopkwye
-usanp;GenHwy;;Generals Highway, Kings Canyon and Sequoia NPs;ca.genhwy
-usanp;GWMemPkwy;;George Washington Mem Pkwy (Mount Vernon);va.gwmempkwymtv
-usanp;GWMemPkwy;;George Washington Mem Pkwy (Rosslyn);va.gwmempkwycry,dc.gwmempkwy,va.gwmempkwy
-usanp;GoiSunRd;;Going-to-the-Sun Rd, Glacier NP;mt.goisunrd
-usanp;GraLpRd;;Grand Loop Road, Yellowstone;wy.gralprd
-usanp;IslSkySceDr;;Island In The Sky Scenic Drive;ut.islskyscedr
-usanp;RocMemPkwy;;John D. Rockefeller, Jr. Memorial Parkway;wy.rocmempkwy
-usanp;KinCanRd;;Kings Canyon Road, Kings Canyon NP;ca.kincanrd
-usanp;KolCynRd;;Kolob Canyons Road;ut.kolcynrd
-usanp;KolTerRd;;Kolob Terrace Road;ut.kolterrd
-usanp;LasPeakHwy;;Lassen Peak Highway, Lassen Volcanic NP;ca.laspeakhwy
 usanp;MainParkRd;;Main Park Road, Big Bend NP;tx.mainparkrd
-usanp;MainParkRd;;Main Park Road, Everglades NP;fl.mainparkrd
-usanp;NatTraPkwy;;Natchez Trace Parkway;ms.nattrapkwy,al.nattrapkwy,tn.nattrapkwy
-usanp;NeeSceDr;;The Needles Scenic Drive;ut.neescedr
-usanp;NCynRd;;Norris Canyon Road, Yellowstone;wy.norcynrd
-usanp;NEntR;;North Entrance Road, Yellowstone;wy.nentrd,mt.nentrd
-usanp;NEEntR;;Northeast Entrance Road, Yellowstone;wy.neentrd,mt.neentrd
-usanp;PetForRd;;Petrified Forest Road;az.petforrd
+usanp;RGVlgRd;;Rio Grande Village Road, Big Bend NP;tx.rgvlgrd
+usanp;RossMaxDr;;Ross Maxwell Scenic Drive, Big Bend NP;tx.rossmaxdr
+usanp;SouRimDr;;South Rim Drive, Black Canyon of the Gunnison NP;co.sourimdr
+usanp;BlueRidPkwy;;Blue Ridge Parkway;nc.blueridpkwy,va.blueridpkwy
+usanp;LinFalRd;;Linville Falls Road;nc.linfalrd
+usanp;MillMtnPkwy;;Mill Mountain Parkway;va.millmtnpkwy
+usanp;PeaRd;;Peaks Road;va.peard
+usanp;RoaRivPkwy;;Roanoke River Parkway;va.roarivpkwy
+usanp;BryCynSceDr;;Bryce Canyon NP Scenic Drive;ut.brycynscedr
+usanp;IslSkySceDr;;Island In The Sky Scenic Drive, Canyonlands NP;ut.islskyscedr
+usanp;NeeSceDr;;The Needles Scenic Drive, Canyonlands NP;ut.neescedr
+usanp;NRimDr;;North Rim Drive, Canyon de Chelly NM;az.nrimdr
+usanp;SRimDr;;South Rim Drive, Canyon de Chelly NM;az.srimdr
+usanp;CapReefSceDr;;Capitol Reef Scenic Drive, Capital Reef NP;ut.capreefscedr
+usanp;ReefTopCir;;Reef Top Circle, Carlsbad Caverns NP;nm.reeftopcir
+usanp;ParkCenRd;;Park Central Road, Catoctin Mountain Park;md.parcenrd
+usanp;ChaCanRd;;Chaco Canyon Road, Chaco Culture NHP;nm.chacanrd
+usanp;ChaEntRd;;Chaco Entrance Road, Chaco Culture NHP;nm.chaentrd
+usanp;ChaLoopRd;;Chaco Loop Road, Chaco Culture NHP;nm.chalooprd
+usanp;LafHwy;;Layfayette Highway, Chickamauga & Chattanooga NMP;ga.lafhwy
+usanp;PerRd;;Perimeter Road, Chickasaw NRA;ok.perrd
+usanp;BonCanRd;;Bonita Canyon Road, Chiricahau NM;az.boncanrd
+usanp;ClaBarPkwy;;Clara Barton Parkway;md.clabarpkwy,dc.clabarpkwy
+usanp;ColPkwy;;Colonial Parkway, Colonial NHP;va.colpkwy
+usanp;RimRockDr;;Rim Rock Drive, Colorado NM;co.rimrockdr
+usanp;MonCanRd;;Montezuma Canyon Road, Coronado NM;az.moncanrd
+usanp;CraCrkRd;;Crater Creek Road, Crater Lake NP;or.cracrkrd
+usanp;CraLakeHwy;;Crater Lake Highway, Crater Lake NP;or.cralakehwy
 usanp;PinRd;;Pinnacles Road, Crater Lake NP;or.pinrd
-usanp;RGVlgRd;;Rio Grande Village Road;tx.rgvlgrd
-usanp;RockCrkPkwy;;Rock Creek and Potomac Parkway;dc.rockcrkpkwy
-usanp;RossMaxDr;;Ross Maxwell Scenic Drive;tx.rossmaxdr
-usanp;SkyDr;;Skyline Drive;va.skydr
-usanp;SEntR;;South Entrance Road, Yellowstone;wy.sentrd
-usanp;SpoRunPkwy;;Spout Run Parkway;va.sporunpkwy
+usanp;CraLakeRimDr;;Rim Drive, Crater Lake NP;or.cralakerimdr
+usanp;BadRd;;Badwater Road, Death Valley NP;ca.badrd
+usanp;DayPassRd;;Daylight Pass Road, Death Valley NP;ca.daypassrd,nv.daypassrd
+usanp;ScoCasRd;;Scotty's Castle Road, Death Valley NP;ca.scocasrd
+usanp;NP602;;NPS602, Delaware Gap NRA;nj.nps602
+usanp;NP615;;NPS615, Delaware Gap NRA;nj.nps615
+usanp;OldMineRd;;Old Mine Road, Delaware Gap NRA;nj.oldminerd
+usanp;RivRd;;River Road, Delaware Gap NRA;pa.rivrd
+usanp;ParkRd;;Park Road, Denali NP;ak.parkrd
+usanp;MinSumRd;;Minaret Summit Road, Devil's Postpile NM;ca.minsumrd
+usanp;DevTowRd;;Devil's Tower Road, Devil's Tower NM;wy.devtowrd
+usanp;CubCreRd;;Cub Creek Road, Dinosaur NM;ut.cubcrerd
+usanp;HarCorRd;;Harpers Corner Road, Dinosaur NM;co.harcorrd,ut.harcorrd,co.harcorrdhar
+usanp;DinParkRd;;Dinosaur Park Road, Dinosaur NM;co.dinparkrd
+usanp;MainParkRd;;Main Park Road, Everglades NP;fl.mainparkrd
+usanp;GWMemPkwy;;George Washington Memorial Parkway (Mount Vernon);va.gwmempkwymtv
+usanp;GWMemPkwy;;George Washington Memorial Parkway (Rosslyn);va.gwmempkwycry,dc.gwmempkwy,va.gwmempkwy
+usanp;GoiSunRd;;Going-to-the-Sun Rd, Glacier NP;mt.goisunrd
+usanp;TwoMedRd;;Two Medicine Road, Glacier NP;mt.twomedrd
+usanp;EntRd;;Entrance Road, Great Basin NP;nv.entrd
+usanp;WhePeakSD;;Wheeler Peak Scenic Drive, Great Basin NP;nv.whepeaksd
+usanp;MooWilRd;;Moose-Wilson Road, Grand Teton NP;wy.moowilrd
+usanp;TetParkRd;;Teton Park Road, Grand Teton NP;wy.tetparkrd
+usanp;ParkRd;;Park Road, Great Sand Dunes NP;co.parkrd
+usanp;CadCoveLpRd;;Cades Cove Loop Road, Gt Smoky Mtns NP;tn.cadcovelprd
+usanp;CliDomeRd;;Clingmans Dome Access Road, Great Smoky Mtns NP;tn.clidomerdnew,nc.clidomerdluf,tn.clidomerd,nc.clidomerd,tn.clidomerdcol,nc.clidomerdcli
+usanp;FooPkwyW;;Foothills Parkway, Great Smoky Mtns NP (West);tn.foopkwyw
+usanp;FooPkwyE;;Foothills Parkway, Great Smoky Mtns NP (East);tn.foopkwye
+usanp;GatByp;;Gatlinburg Bypass, Great Smoky Mountains NP;tn.gatbyp
+usanp;HeiRidRd;;Heintooga Ridge Road, Great Smoky Mtns NP;nc.henridrd
+usanp;LauCreRd;;Laurel Creek Road, Great Smoky Mountains NP;tn.laucrerd
+usanp;LitRivGorRd;;Little River Gorge Road, Gt Smoky Mtns NP;tn.litrivgorrd
+usanp;TowEntRd;;Townsend Entrance Road, Gt Smoky Mtns NP;tn.towentrd
+usanp;CraRd;;Crater Road, Haleakalā NP;hi.crard
+usanp;ChaCraRd;;Chain of Craters Road, Hawai'i Volcanoes NP;hi.chacrard
+usanp;CraRimDr;;Crater Rim Drive, Hawai'i Volcanoes NP;hi.crarimdr
+usanp;RocMemPkwy;;John D. Rockefeller, Jr. Memorial Parkway;wy.rocmempkwy
+usanp;ParkBlvd;;Park Boulevard, Joshua Tree NP;ca.parkblvd
+usanp;PinBasRd;;Pinto Basin Road, Joshua Tree NP;ca.pinbasrd
+usanp;GenHwy;;Generals Highway, Kings Canyon and Sequoia NPs;ca.genhwy
+usanp;KinCanRd;;Kings Canyon Road, Kings Canyon NP (Grant Grove);ca.kincanrd
+usanp;KinCanRdCed;;Kings Canyon Road, Kings Canyon NP (Cedar Grove);ca.kincanrdced
+usanp;ParkRd;;Park Road, Kings Mountain NMP;sc.parkrd
+usanp;WooTra;;Woodlands Trace, Land between the Lakes NRA;tn.wootra,ky.wootra
+usanp;LasPeakHwy;;Lassen Peak Highway, Lassen Volcanic NP;ca.laspeakhwy
+usanp;BatRd;;Battlefield Road, Little Bighorn Battlefield NM;mt.batrd
+usanp;BroRd;;Brownsville Road, Mammoth Cave NP;ky.brord
+usanp;CaveCityRd;;Cave City Road, Mammoth Cave NP;ky.cavecityrd
+usanp;GreRivFerRd;;Green River Ferry Road, Mammoth Cave NP (Mammoth Cave);ky.grerivferrd
+usanp;GreRivFerRd;;Green River Ferry Road, Mammoth Cave NP (Maple Springs);ky.grerivferrdmap
+usanp;MamCavePkwy;;Mammoth Cave Parkway, Mammoth Cave NP;ky.mamcavepkwy
+usanp;ParkCityRd;;Park City Road, Mammoth Cave NP;ky.parkcityrd
+usanp;MesaVerRd;;Mesa Verde Road, Mesa Verde NP;co.mesaverrd
 usanp;SteCynRd;;Stevens Canyon Road, Mount Rainer NP;wa.stecynrd
+usanp;SunParkRd;;Sunrise Park Road, Mount Rainer NP;wa.sunparkrd
+usanp;NatTraPkwy;;Natchez Trace Parkway;ms.nattrapkwy,al.nattrapkwy,tn.nattrapkwy
+usanp;BriViewDr;;Bridge View Drive, Natural Bridges NM;ut.briviewdr
+usanp;HurRidRd;;Hurricane Ridge Road, Olympic NP;wa.hurridrd
+usanp;UppHohRd;;Upper Hoh Road, Olympic NP;wa.upphohrd
+usanp;SieRd;;Siege Road, Petersburg National Battlefield;va.sierd
+usanp;PetForRd;;Petrified Forest Road, Petrified Forest NP;az.petforrd
+usanp;BeaDr;;Beach Drive, Rock Creek Park;dc.beadr,md.beadr
+usanp;RockCrkPkwy;;Rock Creek and Potomac Parkway, Rock Creek Park;dc.rockcrkpkwy
+usanp;BearLakeRd;;Bear Lake Road, Rocky Mountain NP;co.bearlakerd
+usanp;FallRivRd;;Fall River Road, Rocky Mountain NP;co.fallrivrd
+usanp;OldOreTrl;;Old Oregon Trail, Scotts Bluff NM;ne.oldoretrl
+usanp;SkyDr;;Skyline Drive, Shenandoah NP;va.skydr
+usanp;SpoRunPkwy;;Spout Run Parkway;va.sporunpkwy
 usanp;SuiPkwy;;Suitland Parkway;dc.suipkwy,md.suipkwy
+usanp;LoopRd;;Loop Road, Sunset Crater & Wupatki NMs;az.looprd
+usanp;EastRivRd;;East River Road, Theodore Roosevelt NP (S Unit);nd.eastrivrd
+usanp;SceDr;;Scenic Drive, Theodore Roosevelt NP (N Unit);nd.scedr
+usanp;SceLpDr;;Scenic Loop Drive, Theodore Roosevelt NP (S Unit);nd.scelpdr
+usanp;WalCanRd;;Walnut Canyon Road, Walnut Canyon NM;az.walcanrd
+usanp;DunDr;;Dunes Drive, White Sands NM;nm.dundr
+usanp;EEntRd;;East Entrance Road, Yellowstone NP;wy.eentrd
+usanp;GraLpRd;;Grand Loop Road, Yellowstone NP;wy.gralprd
+usanp;NCynRd;;Norris Canyon Road, Yellowstone NP;wy.norcynrd
+usanp;NEntR;;North Entrance Road, Yellowstone NP;wy.nentrd,mt.nentrd
+usanp;NEEntR;;Northeast Entrance Road, Yellowstone NP;wy.neentrd,mt.neentrd
+usanp;SEntR;;South Entrance Road, Yellowstone NP;wy.sentrd
+usanp;WEntR;;West Entrance Road, Yellowstone NP;mt.wentrd,wy.wentrd
+usanp;BigOakRd;;Big Oak Flat Road, Yosemite NP;ca.bigoakrd
+usanp;ElPorRd;;El Portal Road, Yosemite NP;ca.elporrd
 usanp;TioPassRd;;Tioga Pass Road, Yosemite NP;ca.tiopassrd
 usanp;WawRd;;Wawona Road, Yosemite NP;ca.wawrd
-usanp;WEntR;;West Entrance Road, Yellowstone;mt.wentrd,wy.wentrd
-usanp;ZionCynDr;;Zion Canyon Scenic Drive;ut.zioncyndr
+usanp;KolCynRd;;Kolob Canyons Road, Zion NP;ut.kolcynrd
+usanp;KolTerRd;;Kolob Terrace Roadm Zion NP;ut.kolterrd
+usanp;ZionCynDr;;Zion Canyon Scenic Drive, Zion NP;ut.zioncyndr

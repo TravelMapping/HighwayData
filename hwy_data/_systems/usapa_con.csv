@@ -1,4 +1,4 @@
-System;Route;Banner;Name;Roots
+systemName;route;banner;groupName;roots
 usapa;PA3;;;pa.pa003
 usapa;PA5;;;pa.pa005
 usapa;PA5;Alt;Erie;pa.pa005alteri
@@ -13,6 +13,7 @@ usapa;PA17;;;pa.pa017
 usapa;PA18;;;pa.pa018
 usapa;PA21;;;pa.pa021
 usapa;PA23;;;pa.pa023
+usapa;PA23;AltTrk;King of Prussia;pa.pa023alttrkkop
 usapa;PA24;;;pa.pa024
 usapa;PA25;;;pa.pa025
 usapa;PA26;;;pa.pa026
@@ -22,8 +23,10 @@ usapa;PA28;;;pa.pa028
 usapa;PA28;Trk;Brookville;pa.pa028trkbro
 usapa;PA29;;Phoenixville;pa.pa029pho
 usapa;PA29;;Tunkhannock;pa.pa029
+usapa;PA29;Trk;Macungie;pa.pa029trkmac
 usapa;PA31;;;pa.pa031
 usapa;PA32;;;pa.pa032
+usapa;PA32;AltTrk;Morrisville;pa.pa032alttrkmor
 usapa;PA33;;;pa.pa033
 usapa;PA34;;;pa.pa034
 usapa;PA35;;;pa.pa035
@@ -34,7 +37,7 @@ usapa;PA41;;;pa.pa041
 usapa;PA42;;;pa.pa042
 usapa;PA42;Trk;Eagles Mere;pa.pa042trkeag
 usapa;PA43;;;pa.pa043
-usapa;PA44;;;pa.pa044
+usapa;PA44;;;pa.pa044,ny.pa044cer
 usapa;PA45;;;pa.pa045
 usapa;PA45;Trk;Spruce Creek;pa.pa045trkspr
 usapa;PA46;;;pa.pa046
@@ -43,6 +46,7 @@ usapa;PA49;;;pa.pa049
 usapa;PA50;;;pa.pa050
 usapa;PA51;;;pa.pa051
 usapa;PA52;;;pa.pa052
+usapa;PA52;AltTrk;Thornbury Township;pa.pa052alttrktho
 usapa;PA53;;;pa.pa053
 usapa;PA54;;;pa.pa054
 usapa;PA56;;;pa.pa056
@@ -51,14 +55,14 @@ usapa;PA58;;;pa.pa058
 usapa;PA59;;;pa.pa059
 usapa;PA60;;;pa.pa060
 usapa;PA61;;;pa.pa061
-usapa;PA61;Trk;Sunbury;pa.pa061trksun
+usapa;PA61;Trk;(South) Sunbury;pa.pa061trkssu
+usapa;PA61;Trk;(North) Sunbury;pa.pa061trknsu
 usapa;PA63;;;pa.pa063
 usapa;PA64;;;pa.pa064
 usapa;PA65;;;pa.pa065
 usapa;PA65;Trk;McKees Rocks;pa.pa065trkmck
-usapa;PA65;Trk;New Castle;pa.pa065trknew
 usapa;PA66;;;pa.pa066
-usapa;PA66;Alt;East Vandergrift;pa.pa066alteva
+usapa;PA66;Alt;Vandergrift;pa.pa066altvan
 usapa;PA66;Bus;Greensburg;pa.pa066busgre
 usapa;PA68;;;pa.pa068
 usapa;PA69;;;pa.pa069
@@ -127,6 +131,7 @@ usapa;PA156;;;pa.pa156
 usapa;PA157;;;pa.pa157
 usapa;PA158;;;pa.pa158
 usapa;PA160;;;pa.pa160
+usapa;PA160;Trk;Wilmore;pa.pa160trkwil
 usapa;PA162;;;pa.pa162
 usapa;PA163;;;pa.pa163
 usapa;PA164;;;pa.pa164
@@ -186,7 +191,7 @@ usapa;PA248;;;pa.pa248
 usapa;PA249;;;pa.pa249
 usapa;PA251;;;pa.pa251
 usapa;PA252;;;pa.pa252
-usapa;PA252;Trk;Newtown Square;pa.pa252trknew
+usapa;PA252;AltTrk;Newtown Square;pa.pa252alttrknew
 usapa;PA253;;;pa.pa253
 usapa;PA254;;;pa.pa254
 usapa;PA255;;;pa.pa255
@@ -213,8 +218,8 @@ usapa;PA288;;;pa.pa288
 usapa;PA290;;;pa.pa290
 usapa;PA291;;;pa.pa291
 usapa;PA292;;;pa.pa292
-usapa;PA295;;;pa.pa295
 usapa;PA296;;;pa.pa296
+usapa;PA297;;;pa.pa297
 usapa;PA304;;;pa.pa304
 usapa;PA305;;;pa.pa305
 usapa;PA307;;;pa.pa307
@@ -235,6 +240,7 @@ usapa;PA325;;;pa.pa325
 usapa;PA326;;;pa.pa326
 usapa;PA328;;;pa.pa328
 usapa;PA329;;;pa.pa329
+usapa;PA329;Trk;Northampton;pa.pa329trknor
 usapa;PA331;;;pa.pa331
 usapa;PA332;;;pa.pa332
 usapa;PA333;;;pa.pa333
@@ -290,6 +296,8 @@ usapa;PA417;;;pa.pa417
 usapa;PA418;;;pa.pa418
 usapa;PA419;;;pa.pa419
 usapa;PA420;;;pa.pa420
+usapa;PA420;AltTrk;Prospect Park;pa.pa420alttrkpro
+usapa;PA420;AltTrk;Ridley Township;pa.pa420alttrkrid
 usapa;PA423;;;pa.pa423
 usapa;PA424;;;pa.pa424
 usapa;PA425;;;pa.pa425
@@ -299,7 +307,7 @@ usapa;PA427;;;pa.pa427
 usapa;PA428;;;pa.pa428
 usapa;PA430;;;pa.pa430
 usapa;PA433;;;pa.pa433
-usapa;PA434;;;pa.pa434
+usapa;PA434;;;pa.pa434,ny.pa434bar
 usapa;PA435;;;pa.pa435
 usapa;PA436;;;pa.pa436
 usapa;PA437;;;pa.pa437
@@ -328,7 +336,6 @@ usapa;PA481;;;pa.pa481
 usapa;PA484;;;pa.pa484
 usapa;PA487;;;pa.pa487
 usapa;PA488;;;pa.pa488
-usapa;PA488;Trk;Ellwood City;pa.pa488trkell
 usapa;PA491;;;pa.pa491
 usapa;PA492;;;pa.pa492
 usapa;PA501;;;pa.pa501
@@ -384,7 +391,6 @@ usapa;PA652;;;pa.pa652
 usapa;PA653;;;pa.pa653
 usapa;PA654;;;pa.pa654
 usapa;PA655;;;pa.pa655
-usapa;PA655;Trk;Belleville;pa.pa655trkbel
 usapa;PA660;;;pa.pa660
 usapa;PA662;;;pa.pa662
 usapa;PA663;;;pa.pa663
@@ -398,6 +404,8 @@ usapa;PA706;;;pa.pa706
 usapa;PA711;;;pa.pa711
 usapa;PA711;Trk;Connellsville;pa.pa711trkcon
 usapa;PA715;;;pa.pa715
+usapa;PA715;Trk;(North) Tannersville;pa.pa715trknta
+usapa;PA715;Trk;(South) Tannersville;pa.pa715trksta
 usapa;PA718;;;pa.pa718
 usapa;PA722;;;pa.pa722
 usapa;PA724;;;pa.pa724
@@ -407,6 +415,7 @@ usapa;PA737;;;pa.pa737
 usapa;PA739;;;pa.pa739
 usapa;PA741;;;pa.pa741
 usapa;PA743;;;pa.pa743
+usapa;PA743;Trk;Hershey;pa.pa743trkher
 usapa;PA747;;;pa.pa747
 usapa;PA756;;;pa.pa756
 usapa;PA760;;;pa.pa760
@@ -424,6 +433,7 @@ usapa;PA832;;;pa.pa832
 usapa;PA837;;;pa.pa837
 usapa;PA839;;;pa.pa839
 usapa;PA841;;;pa.pa841
+usapa;PA841;AltTrk;West Grove;pa.pa841alttrkwes
 usapa;PA842;;;pa.pa842
 usapa;PA844;;;pa.pa844
 usapa;PA845;;;pa.pa845
@@ -465,6 +475,7 @@ usapa;PA917;;;pa.pa917
 usapa;PA921;;;pa.pa921
 usapa;PA924;;;pa.pa924
 usapa;PA926;;;pa.pa926
+usapa;PA926;AltTrk;Thornbury Township;pa.pa926alttrktho
 usapa;PA928;;;pa.pa928
 usapa;PA934;;;pa.pa934
 usapa;PA940;;;pa.pa940
@@ -486,6 +497,7 @@ usapa;PA978;;;pa.pa978
 usapa;PA980;;;pa.pa980
 usapa;PA981;;;pa.pa981
 usapa;PA982;;;pa.pa982
+usapa;PA982;Trk;Derry;pa.pa982trkder
 usapa;PA985;;;pa.pa985
 usapa;PA987;;;pa.pa987
 usapa;PA989;;;pa.pa989

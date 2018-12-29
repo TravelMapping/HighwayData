@@ -11,7 +11,7 @@ B3407 http://www.openstreetmap.org/?lat=51.431819&lon=-0.554273
 A328 http://www.openstreetmap.org/?lat=51.424758&lon=-0.570810
 B389 http://www.openstreetmap.org/?lat=51.409058&lon=-0.592275
 A329 http://www.openstreetmap.org/?lat=51.406430&lon=-0.596405
-B383_S +B383 http://www.openstreetmap.org/?lat=51.393111&lon=-0.628475
+B383_S http://www.openstreetmap.org/?lat=51.393111&lon=-0.628475
 B383_N http://www.openstreetmap.org/?lat=51.392317&lon=-0.630147
 A330 http://www.openstreetmap.org/?lat=51.385836&lon=-0.645358
 B3020 http://www.openstreetmap.org/?lat=51.375926&lon=-0.672998
@@ -28,7 +28,7 @@ A327_N http://www.openstreetmap.org/?lat=51.319911&lon=-0.868886
 B3016_N http://www.openstreetmap.org/?lat=51.318490&lon=-0.880880
 A323 http://www.openstreetmap.org/?lat=51.305637&lon=-0.901051
 B3011 http://www.openstreetmap.org/?lat=51.304661&lon=-0.904688
-B3016_S +B3016 http://www.openstreetmap.org/?lat=51.295136&lon=-0.913914
+B3016_S http://www.openstreetmap.org/?lat=51.295136&lon=-0.913914
 B3349 http://www.openstreetmap.org/?lat=51.286769&lon=-0.954704
 ElmsRd http://www.openstreetmap.org/?lat=51.282528&lon=-0.962495
 A287 http://www.openstreetmap.org/?lat=51.275400&lon=-0.978294
@@ -72,19 +72,21 @@ B3092 http://www.openstreetmap.org/?lat=51.005282&lon=-2.287403
 A357 http://www.openstreetmap.org/?lat=50.979846&lon=-2.398185
 PurCau http://www.openstreetmap.org/?lat=50.961262&lon=-2.436249
 LowGun http://www.openstreetmap.org/?lat=50.966123&lon=-2.462939
-B3145_E +B3145 http://www.openstreetmap.org/?lat=50.956561&lon=-2.499754
+B3145_E http://www.openstreetmap.org/?lat=50.956561&lon=-2.499754
 B3145_S http://www.openstreetmap.org/?lat=50.952479&lon=-2.513691
-B3415_N http://www.openstreetmap.org/?lat=50.951263&lon=-2.517157
+B3145_N http://www.openstreetmap.org/?lat=50.951263&lon=-2.517157
 B3148 http://www.openstreetmap.org/?lat=50.950262&lon=-2.521319
 A352 http://www.openstreetmap.org/?lat=50.948949&lon=-2.530851
 UndHol http://www.openstreetmap.org/?lat=50.940934&lon=-2.600584
 A37_N http://www.openstreetmap.org/?lat=50.943723&lon=-2.634960
-LysRd http://www.openstreetmap.org/?lat=50.937322&lon=-2.637861
+A3088_E +LysRd http://www.openstreetmap.org/?lat=50.937322&lon=-2.637861
 A37_S http://www.openstreetmap.org/?lat=50.932008&lon=-2.643574
-A3088 +A3088_W http://www.openstreetmap.org/?lat=50.927878&lon=-2.661873
+A3088_W +A3088 http://www.openstreetmap.org/?lat=50.927878&lon=-2.661873
 ChiHol http://www.openstreetmap.org/?lat=50.916706&lon=-2.714782
 A3066 http://www.openstreetmap.org/?lat=50.900724&lon=-2.752613
-A356 http://www.openstreetmap.org/?lat=50.884727&lon=-2.795817
+A356_N http://www.openstreetmap.org/?lat=50.884896&lon=-2.795506
+A356_S http://www.openstreetmap.org/?lat=50.883638&lon=-2.797265
++X884764 http://www.openstreetmap.org/?lat=50.887198&lon=-2.838035
 ChiDown http://www.openstreetmap.org/?lat=50.883407&lon=-2.877045
 B3167 http://www.openstreetmap.org/?lat=50.875907&lon=-2.902880
 A358 http://www.openstreetmap.org/?lat=50.873690&lon=-2.959911
@@ -93,9 +95,11 @@ Tau http://www.openstreetmap.org/?lat=50.884933&lon=-3.010068
 JamLn http://www.openstreetmap.org/?lat=50.866635&lon=-3.054542
 A303_W http://www.openstreetmap.org/?lat=50.862298&lon=-3.111944
 A35 http://www.openstreetmap.org/?lat=50.804129&lon=-3.180655
++X150747 http://www.openstreetmap.org/?lat=50.801948&lon=-3.199425
 A375 http://www.openstreetmap.org/?lat=50.795892&lon=-3.208110
-B3177 http://www.openstreetmap.org/?lat=50.782877&lon=-3.249035
-GosRd http://www.openstreetmap.org/?lat=50.772220&lon=-3.283199
+B3177_W http://www.openstreetmap.org/?lat=50.782877&lon=-3.249035
++X139799 http://www.openstreetmap.org/?lat=50.781629&lon=-3.263927
+B3177_E http://www.openstreetmap.org/?lat=50.772220&lon=-3.283199
 +X08 http://www.openstreetmap.org/?lat=50.760381&lon=-3.323838
 B3174 http://www.openstreetmap.org/?lat=50.751465&lon=-3.332801
 +X09 http://www.openstreetmap.org/?lat=50.732408&lon=-3.378455
@@ -130,9 +134,9 @@ Alt http://www.openstreetmap.org/?lat=50.596955&lon=-4.509753
 Can http://www.openstreetmap.org/?lat=50.578802&lon=-4.541130
 Bol http://www.openstreetmap.org/?lat=50.564595&lon=-4.564583
 +X20 http://www.openstreetmap.org/?lat=50.539290&lon=-4.591985
-StBre http://www.openstreetmap.org/?lat=50.532812&lon=-4.631065
-Bis http://www.openstreetmap.org/?lat=50.508971&lon=-4.659973
-+X23 http://www.openstreetmap.org/?lat=50.494757&lon=-4.688845
+StBre http://www.openstreetmap.org/?lat=50.532689&lon=-4.631323
+Bis http://www.openstreetmap.org/?lat=50.510349&lon=-4.657162
+BodAir http://www.openstreetmap.org/?lat=50.505894&lon=-4.670370
 A38_N http://www.openstreetmap.org/?lat=50.480941&lon=-4.698629
 A38_S http://www.openstreetmap.org/?lat=50.459580&lon=-4.693394
 +X24 http://www.openstreetmap.org/?lat=50.442830&lon=-4.709345
@@ -154,11 +158,13 @@ A3047_E http://www.openstreetmap.org/?lat=50.255933&lon=-5.196831
 CloHil http://www.openstreetmap.org/?lat=50.243678&lon=-5.233869
 TolRd http://www.openstreetmap.org/?lat=50.228749&lon=-5.283396
 A3047_W http://www.openstreetmap.org/?lat=50.217396&lon=-5.319686
++X707824 http://www.openstreetmap.org/?lat=50.204484&lon=-5.386519
 B3301 http://www.openstreetmap.org/?lat=50.196976&lon=-5.398470
 +X28 http://www.openstreetmap.org/?lat=50.180189&lon=-5.408525
 A3074 http://www.openstreetmap.org/?lat=50.174329&lon=-5.440912
 B3309 http://www.openstreetmap.org/?lat=50.145680&lon=-5.480214
 A394 http://www.openstreetmap.org/?lat=50.134348&lon=-5.490772
+JelWay http://www.openstreetmap.org/?lat=50.129321&lon=-5.512723
 B3311 http://www.openstreetmap.org/?lat=50.126661&lon=-5.524366
 TreRd http://www.openstreetmap.org/?lat=50.129526&lon=-5.542196
 B3312 http://www.openstreetmap.org/?lat=50.125489&lon=-5.549426

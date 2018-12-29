@@ -13,14 +13,14 @@ A814_E http://www.openstreetmap.org/?lat=55.931847&lon=-4.503236
 A814_W http://www.openstreetmap.org/?lat=55.935164&lon=-4.527011
 B830 http://www.openstreetmap.org/?lat=55.953189&lon=-4.555550
 A813 http://www.openstreetmap.org/?lat=55.956840&lon=-4.562588
-B857 +A812 http://www.openstreetmap.org/?lat=55.963206&lon=-4.586148
+B857 http://www.openstreetmap.org/?lat=55.963206&lon=-4.586148
 A811 http://www.openstreetmap.org/?lat=55.998381&lon=-4.597092
 A818 http://www.openstreetmap.org/?lat=56.026498&lon=-4.633999
-B832 http://www.openstreetmap.org/?lat=56.048938&lon=-4.646873
+B832 http://www.openstreetmap.org/?lat=56.048896&lon=-4.646814
 A817 http://www.openstreetmap.org/?lat=56.059099&lon=-4.645972
 GlenLuss http://www.openstreetmap.org/?lat=56.102109&lon=-4.642067
 +X01 http://www.openstreetmap.org/?lat=56.168016&lon=-4.672880
-A83 http://www.openstreetmap.org/?lat=56.203219&lon=-4.710817
+A83 http://www.openstreetmap.org/?lat=56.203061&lon=-4.710871
 +X02 http://www.openstreetmap.org/?lat=56.215105&lon=-4.695625
 +X03 http://www.openstreetmap.org/?lat=56.245401&lon=-4.716225
 +X04 http://www.openstreetmap.org/?lat=56.282248&lon=-4.700603
@@ -32,7 +32,7 @@ A85_E http://www.openstreetmap.org/?lat=56.394287&lon=-4.626102
 A85_W http://www.openstreetmap.org/?lat=56.438868&lon=-4.717083
 +X08 http://www.openstreetmap.org/?lat=56.442189&lon=-4.711676
 +X09 http://www.openstreetmap.org/?lat=56.462111&lon=-4.716396
-B8074 http://www.openstreetmap.org/?lat=56.508128&lon=-4.768152
+B8074 http://www.openstreetmap.org/?lat=56.508051&lon=-4.768259
 +X10 http://www.openstreetmap.org/?lat=56.539138&lon=-4.766093
 +X11 http://www.openstreetmap.org/?lat=56.567145&lon=-4.738197
 +X12 http://www.openstreetmap.org/?lat=56.571920&lon=-4.759355
@@ -44,7 +44,7 @@ GleEstRd http://www.openstreetmap.org/?lat=56.654103&lon=-4.861450
 OldGleRd http://www.openstreetmap.org/?lat=56.664576&lon=-5.039721
 +X17 http://www.openstreetmap.org/?lat=56.661227&lon=-5.069847
 +X18 http://www.openstreetmap.org/?lat=56.680610&lon=-5.095596
-B863_S http://www.openstreetmap.org/?lat=56.681364&lon=-5.107441
+B863_S http://www.openstreetmap.org/?lat=56.681408&lon=-5.107500
 +X19 http://www.openstreetmap.org/?lat=56.677262&lon=-5.140808
 A828 http://www.openstreetmap.org/?lat=56.684593&lon=-5.174003
 +X20 http://www.openstreetmap.org/?lat=56.686502&lon=-5.181684
@@ -55,10 +55,10 @@ A861 http://www.openstreetmap.org/?lat=56.722359&lon=-5.232368
 LunRd http://www.openstreetmap.org/?lat=56.815233&lon=-5.116496
 CarWay http://www.openstreetmap.org/?lat=56.820629&lon=-5.107774
 BelRd http://www.openstreetmap.org/?lat=56.821434&lon=-5.094459
-A830 http://www.openstreetmap.org/?lat=56.834607&lon=-5.075684
+A830 http://www.openstreetmap.org/?lat=56.834654&lon=-5.075566
 AonMor http://www.openstreetmap.org/?lat=56.862816&lon=-5.015173
 A86 http://www.openstreetmap.org/?lat=56.892925&lon=-4.920244
-B8004 http://www.openstreetmap.org/?lat=56.899090&lon=-4.943891
+B8004 http://www.openstreetmap.org/?lat=56.899035&lon=-4.943644
 +X22 http://www.openstreetmap.org/?lat=56.918748&lon=-4.945049
 GlenGloyRd http://www.openstreetmap.org/?lat=56.934626&lon=-4.922905
 +X23 http://www.openstreetmap.org/?lat=56.949421&lon=-4.919472
@@ -77,7 +77,7 @@ OldMainRd http://www.openstreetmap.org/?lat=57.153119&lon=-4.678760
 +X29 http://www.openstreetmap.org/?lat=57.159427&lon=-4.659919
 +X30 http://www.openstreetmap.org/?lat=57.187158&lon=-4.619408
 +X31 http://www.openstreetmap.org/?lat=57.202457&lon=-4.607906
-A887 http://www.openstreetmap.org/?lat=57.214543&lon=-4.617262
+A887 http://www.openstreetmap.org/?lat=57.214560&lon=-4.617385
 +X32 http://www.openstreetmap.org/?lat=57.214403&lon=-4.594860
 All http://www.openstreetmap.org/?lat=57.236241&lon=-4.557610
 +X33 http://www.openstreetmap.org/?lat=57.268741&lon=-4.506884
@@ -88,11 +88,10 @@ A831 http://www.openstreetmap.org/?lat=57.337455&lon=-4.480019
 +X34 http://www.openstreetmap.org/?lat=57.340605&lon=-4.428263
 ObarIth http://www.openstreetmap.org/?lat=57.383054&lon=-4.374447
 BhuDhu http://www.openstreetmap.org/?lat=57.444730&lon=-4.293980
-GenBooRd http://www.openstreetmap.org/?lat=57.463627&lon=-4.249263
-+A8082 http://www.openstreetmap.org/?lat=57.465081&lon=-4.242311
+A8082_W http://www.openstreetmap.org/?lat=57.464013&lon=-4.246838
+A8082_E http://www.openstreetmap.org/?lat=57.465081&lon=-4.242311
 B861 http://www.openstreetmap.org/?lat=57.476043&lon=-4.230809
 A862 http://www.openstreetmap.org/?lat=57.480230&lon=-4.237504
-B9161 http://www.openstreetmap.org/?lat=57.482641&lon=-4.230573
+B865 http://www.openstreetmap.org/?lat=57.482641&lon=-4.230573
 HarRd http://www.openstreetmap.org/?lat=57.485767&lon=-4.220703
 A9 http://www.openstreetmap.org/?lat=57.491657&lon=-4.215435
-

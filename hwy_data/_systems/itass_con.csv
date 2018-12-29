@@ -1,0 +1,552 @@
+﻿System;Route;Banner;Name;Roots
+itass;SS1;;Civitavecchia;ita.ss001civ
+itass;SS1;;Grosseto;ita.ss001
+itass;SS1;;Livorno;ita.ss001liv
+itass;SS1;;Rapallo;ita.ss001rap
+itass;SS1;;Savona;ita.ss001sav
+itass;SS1;Bis;Monte Romano;ita.ss001bismon
+itass;SS1;Dir;Vado Ligure;ita.ss001dirvad
+itass;SS1;Dir;Grimaldi;ita.ss001dirgri
+itass;SS1;Var;La Spezia;ita.ss001varspe
+itass;SS3;;Narni;ita.ss003nar
+itass;SS3;;Foligno;ita.ss003
+itass;SS3;Bis;Peruga;ita.ss003bisper
+itass;SS4;;;ita.ss004
+itass;SS4;Dir;Passo Corese;ita.ss004dirpas
+itass;SS4;Racc;Monticelli;ita.ss004raccmon
+itass;SS5;;Oricola;ita.ss005ori
+itass;SS5;;Avezzano;ita.ss005
+itass;SS5;Qua;Tagliacozzo;ita.ss005quatag
+itass;SS6;;;ita.ss006
+itass;SS6;Dir;Venafro;ita.ss006dirven
+itass;SS7;;Terracina;ita.ss007
+itass;SS7;;Caserta;ita.ss007cas
+itass;SS7;;Benevento;ita.ss007ben
+itass;SS7;;Taranto;ita.ss007tar
+itass;SS7;Bis;Acerra;ita.ss007bisace
+itass;SS7;Dir;Terracina;ita.ss007dirter
+itass;SS7;Dir;Conza della Campania;ita.ss007dircon
+itass;SS7;Qua;Mondragone;ita.ss007quamon
+itass;SS7;Racc;Terracina;ita.ss007raccter
+itass;SS7;Racc;Villaggio Coppola;ita.ss007raccvil
+itass;SS7;Racc;Miglionico;ita.ss007raccmig
+itass;SS7;Racc;Palagianello;ita.ss007raccpal
+itass;SS7;Ter;Mandura;ita.ss007terman
+itass;SS7;Var;Formia;ita.ss007varfor
+itass;SS9;;Gambettola;ita.ss009gam
+itass;SS9;;Forlimpopoli;ita.ss009for
+itass;SS9;;Imola;ita.ss009imo
+itass;SS9;;Castelfranco Emilia;ita.ss009cas
+itass;SS9;;Rubiera;ita.ss009rub
+itass;SS9;;Sant'Ilario d'Enza;ita.ss009sie
+itass;SS9;;Fidenza;ita.ss009fid
+itass;SS9;;Lodi;ita.ss009
+itass;SS9;Dir;Lodi;ita.ss009dirlod
+itass;SS9;Var;Tangenziale Nord;ita.ss009varnor
+itass;SS9;Var;Tangenziale Sud;ita.ss009varsud
+itass;SS12;;Pisa;ita.ss012pis
+itass;SS12;;Lucca;ita.ss012luc
+itass;SS12;;Modena;ita.ss012mod
+itass;SS12;;Ostiglia;ita.ss012ost
+itass;SS12;;Trento;ita.ss012
+itass;SS12;;Sterzing;ita.ss012ste
+itass;SS12;Dir;Pievepelago;ita.ss012dirpie
+itass;SS12;Racc;Brixen;ita.ss012raccbri
+itass;SS12;Radd;San Guilliano Terme;ita.ss012raddsgt
+itass;SS12;Var;Ponte a Moriano;ita.ss012varmor
+itass;SS12;Var;Mirandola;ita.ss012varmir
+itass;SS12;Var;Isola della Scala;ita.ss012variso
+itass;SS13;;Mogliano Veneto;ita.ss013mog
+itass;SS13;;Conegliano;ita.ss013
+itass;SS13;;Tarvisio;ita.ss013tar
+itass;SS14;;San Donà di Piave;ita.ss014
+itass;SS14;;San Michele al Tagliamento;ita.ss014smt
+itass;SS14;;Trieste;ita.ss014tri
+itass;SS14;Racc;Monfalcone;ita.ss014raccmon
+itass;SS14;Var;Musile di Piave;ita.ss014varmus
+itass;SS14;Var;San Donà di Piave;ita.ss014varsdp
+itass;SS14;Var;Portogruaro;ita.ss014varpor
+itass;SS16;;Rovigo;ita.ss016rov
+itass;SS16;;Ravenna;ita.ss016
+itass;SS16;;Ortona;ita.ss016ort
+itass;SS16;;Bari;ita.ss016bar
+itass;SS16;;Brindisi;ita.ss016bri
+itass;SS16;;(North) Lecce;ita.ss016nle
+itass;SS16;;Lecce;ita.ss016lec
+itass;SS16;Dir;Pescara;ita.ss016dirpes
+itass;SS16;Dir;Palombare;ita.ss016dirpal
+itass;SS17;;L'Aquila;ita.ss017
+itass;SS17;;Isernia;ita.ss017ise
+itass;SS17;;San Marco la Catola;ita.ss017smc
+itass;SS17;;Foggia;ita.ss017fog
+itass;SS17;Var;Forli del Sanno;ita.ss017varfor
+itass;SS17;Var;Volturara;ita.ss017varvol
+itass;SS18;;Salerno;ita.ss018sal
+itass;SS18;;Vibo Valentina;ita.ss018
+itass;SS18;Var;Omigananao Salento;ita.ss018varomi
+itass;SS19;;;ita.ss019
+itass;SS20;;Borgo San Dalmazzo;ita.ss020
+itass;SS20;;Ventimiglia;ita.ss020ven
+itass;SS21;;;ita.ss021
+itass;SS24;;;ita.ss024
+itass;SS25;;;ita.ss025
+itass;SS26;;Ivrea;ita.ss026
+itass;SS26;;Derby;ita.ss026der
+itass;SS26;Dir;Courmayeur;ita.ss026dircou
+itass;SS27;;Saint Bernard;ita.ss027
+itass;SS27;;Variney;ita.ss027var
+itass;SS27;Var;Gignod;ita.ss027vargig
+itass;SS28;;Mondovi;ita.ss028
+itass;SS28;;Cesio;ita.ss028ces
+itass;SS28;;Imperia;ita.ss028imp
+itass;SS28;Var;Pieve di Teco;ita.ss028varpie
+itass;SS28;Var;Chiusanico;ita.ss028varchi
+itass;SS29;;;ita.ss029
+itass;SS29;Var;Carcare;ita.ss029varcar
+itass;SS30;;;ita.ss030
+itass;SS32;;;ita.ss032
+itass;SS33;;;ita.ss033
+itass;SS34;;;ita.ss034
+itass;SS36;;;ita.ss036
+itass;SS36;Racc;Lecco;ita.ss036racclec
+itass;SS37;;;ita.ss037
+itass;SS38;;;ita.ss038
+itass;SS38;Dir;Tirano;ita.ss038dirtir
+itass;SS38;Dir;Stelvio;ita.ss038dirste
+itass;SS38;Var;Delebio;ita.ss038vardel
+itass;SS39;;;ita.ss039
+itass;SS40;;;ita.ss040
+itass;SS41;;;ita.ss041
+itass;SS42;;Bergamo;ita.ss042ber
+itass;SS42;;Bozen;ita.ss042
+itass;SS42;Dir;Trescore Balneario;ita.ss042dirtre
+itass;SS43;;;ita.ss043
+itass;SS43;Dir;Cavareno;ita.ss043dircav
+itass;SS43;Racc;Sarnonico;ita.ss043raccsar
+itass;SS44;;;ita.ss044
+itass;SS44;Bis;Timmelsjoch;ita.ss044bistim
+itass;SS45;;;ita.ss045
+itass;SS45;Bis;Lago di Garda;ita.ss045bisgar
+itass;SS45;Ter;Vobarno;ita.ss045tervob
+itass;SS45;Var;Molassana;ita.ss045varmol
+itass;SS46;;;ita.ss046
+itass;SS47;;;ita.ss047
+itass;SS48;;;ita.ss048
+itass;SS48;Bis;Schluderbach;ita.ss048bissch
+itass;SS49;;;ita.ss049
+itass;SS49;Bis;Schabs;ita.ss049bissch
+itass;SS50;;Mezzano;ita.ss050mez
+itass;SS50;;Belluno;ita.ss050
+itass;SS50;BisVar;Feltre;ita.ss050bisvarfel
+itass;SS51;;;ita.ss051
+itass;SS51;Bis;Lozzo di Cadore;ita.ss051bisloz
+itass;SS52;;;ita.ss052
+itass;SS52;Bis;Plöckenpass;ita.ss052bisplo
+itass;SS52;BisDir;Tolmezzo;ita.ss052bisdirtol
+itass;SS53;;;ita.ss053
+itass;SS54;;Cividale del Friuli;ita.ss054
+itass;SS54;;Tarvisio;ita.ss054tar
+itass;SS54;Dir;Gagliano;ita.ss054dirgag
+itass;SS55;;;ita.ss055
+itass;SS58;;;ita.ss058
+itass;SS62;;;ita.ss062
+itass;SS63;;;ita.ss063
+itass;SS64;;Berzantina;ita.ss064ber
+itass;SS64;;Vergato;ita.ss064
+itass;SS64;;Altedo;ita.ss064alt
+itass;SS64;Var;Molinaccio;ita.ss064varmol
+itass;SS64;Var;Sasso Marconi;ita.ss064varsas
+itass;SS67;;Empoli;ita.ss067emp
+itass;SS67;;Compiobbi;ita.ss067com
+itass;SS67;;Pontassieve;ita.ss067
+itass;SS67;;Ravenna;ita.ss067rav
+itass;SS67;Bis;Livorno;ita.ss067bisliv
+itass;SS67;Var;Le Falle;ita.ss067varfal
+itass;SS72;;;ita.ss072
+itass;SS73;;Arezzo;ita.ss073
+itass;SS73;;Sansepolcro;ita.ss073san
+itass;SS73;Bis;San Giustino;ita.ss073bissgi
+itass;SS73;Bis;Fano;ita.ss073bisfan
+itass;SS73;BisVar;Urbino;ita.ss073bisvarurb
+itass;SS73;Var;Palazzo del Pero;ita.ss073varpal
+itass;SS75;;;ita.ss075
+itass;SS76;;;ita.ss076
+itass;SS76;Dir;Castelferretti;ita.ss076dircas
+itass;SS77;;Foligno;ita.ss077fol
+itass;SS77;;Civitanova Marche;ita.ss077
+itass;SS77;Var;Polverina;ita.ss077varpol
+itass;SS79;;;ita.ss079
+itass;SS79;Bis;Terni;ita.ss079bister
+itass;SS80;;;ita.ss080
+itass;SS80;Racc;Mosciano Sant'Angelo;ita.ss080raccmsa
+itass;SS80;Var;Teramo;ita.ss080varter
+itass;SS81;;;ita.ss081
+itass;SS83;;;ita.ss083
+itass;SS84;;;ita.ss084
+itass;SS85;;;ita.ss085
+itass;SS85;Var;Venafro;ita.ss085varven
+itass;SS87;;Vinchiaturo;ita.ss087vin
+itass;SS87;;Termoli;ita.ss087
+itass;SS89;;;ita.ss089
+itass;SS89;Dir;Monte Sant'Angelo;ita.ss089dirmsa
+itass;SS90;;;ita.ss090
+itass;SS90;Bis;Benevento;ita.ss090bisben
+itass;SS90;Dir;Grottaminarda;ita.ss090dirgro
+itass;SS90;Var;Grottaminarda;ita.ss090vargro
+itass;SS91;;;ita.ss091
+itass;SS91;Racc;Contursi Terme;ita.ss091racccon
+itass;SS92;;;ita.ss092
+itass;SS93;;;ita.ss093
+itass;SS94;;;ita.ss094
+itass;SS94;Dir;Baragiano;ita.ss094dirbar
+itass;SS95;;Tito;ita.ss095
+itass;SS95;;Brienza;ita.ss095bri
+itass;SS95;Var;Satriano di Lucania;ita.ss095varsat
+itass;SS96;;;ita.ss096
+itass;SS96;Bis;Borgo Taccone;ita.ss096bisbor
+itass;SS99;;;ita.ss099
+itass;SS100;;;ita.ss100
+itass;SS101;;;ita.ss101
+itass;SS106;;Catanzaro;ita.ss106
+itass;SS106;;Trebisacce;ita.ss106tre
+itass;SS106;;Rocco Imperial Marina;ita.ss106rim
+itass;SS106;Tar;Taranto;ita.ss106tar
+itass;SS106;Dir;Palagiano;ita.ss106dirpal
+itass;SS106;Radd;Rossano Stazione;ita.ss106raddros
+itass;SS106;Var;Siderno;ita.ss106varsid
+itass;SS106;Var;Catanzaro;ita.ss106varcat
+itass;SS106;Var;Montegiordano;ita.ss106varmon
+itass;SS106;Var;Nova Siri Scalo;ita.ss106varnss
+itass;SS107;;;ita.ss107
+itass;SS108;Bis;Lago Arvo;ita.ss108bisarv
+itass;SS109;;;ita.ss109
+itass;SS109;Bis;Catanzaro;ita.ss109biscat
+itass;SS109;BisDir;Catanzaro;ita.ss109bisdircat
+itass;SS113;;;ita.ss113
+itass;SS113;Dir;Torre Faro;ita.ss113dirtor
+itass;SS114;;;ita.ss114
+itass;SS114;Dir;Lentini;ita.ss114dirlen
+itass;SS115;;;ita.ss115
+itass;SS115;Dir;Marinella di Selinunte;ita.ss115dirmar
+itass;SS115;Dir;Mazara del Vallo;ita.ss115dirmaz
+itass;SS115;Ter;Porto Empedocle;ita.ss115terpor
+itass;SS115;Qua;Agrigento;ita.ss115quaagr
+itass;SS116;;;ita.ss116
+itass;SS117;;;ita.ss117
+itass;SS117;Bis;Gela;ita.ss117bisgel
+itass;SS117;Ter;Nicosia;ita.ss117ternic
+itass;SS118;;;ita.ss118
+itass;SS119;;;ita.ss119
+itass;SS119;Dir;Santa Ninfa;ita.ss119dirsan
+itass;SS120;;;ita.ss120
+itass;SS120;Racc;Tremonzelli;ita.ss120racctre
+itass;SS121;;;ita.ss121
+itass;SS122;;;ita.ss122
+itass;SS122;Bis;Caltanissetta;ita.ss122biscal
+itass;SS122;Ter;Canicatti;ita.ss122tercan
+itass;SS123;;;ita.ss123
+itass;SS124;;;ita.ss124
+itass;SS125;;Foxi;ita.ss125fox
+itass;SS125;;Tertenia;ita.ss125ter
+itass;SS125;;Olbia;ita.ss125
+itass;SS125;Dir;Arbatax;ita.ss125dirarb
+itass;SS125;Var;Murera;ita.ss125varmur
+itass;SS125;Var;Bari;ita.ss125varbar
+itass;SS126;;;ita.ss126
+itass;SS126;Dir;Cadesedda;ita.ss126dircad
+itass;SS127;;;ita.ss127
+itass;SS127;Bis;Alghero;ita.ss127bisalg
+itass;SS128;;;ita.ss128
+itass;SS128;Bis;Othieri;ita.ss128bisoth
+itass;SS129;;;ita.ss129
+itass;SS129;Bis;Bosa;ita.ss129bisbos
+itass;SS130;;;ita.ss130
+itass;SS130;Dir;Muristenis;ita.ss130dirmur
+itass;SS131;;;ita.ss131
+itass;SS131;Bis;Itiri Cannedu;ita.ss131bisiti
+itass;SS131;Dir;Olbia;ita.ss131dirolb
+itass;SS131;Dir;Cagliari;ita.ss131dircag
+itass;SS132;;;ita.ss132
+itass;SS133;;;ita.ss133
+itass;SS133;Bis;Lungoni;ita.ss133bislun
+itass;SS134;;;ita.ss134
+itass;SS145;;Castellammare di Stabia;ita.ss145
+itass;SS145;;Sorrento;ita.ss145sor
+itass;SS145;Var;Vico Equense;ita.ss145varvic
+itass;SS150;;;ita.ss150
+itass;SS153;;;ita.ss153
+itass;SS158;;;ita.ss158
+itass;SS163;;;ita.ss163
+itass;SS166;;;ita.ss166
+itass;SS169;;;ita.ss169
+itass;SS170;Dir;Andria;ita.ss170dirand
+itass;SS172;;;ita.ss172
+itass;SS172;Dir;Fasano;ita.ss172dirfas
+itass;SS177;;;ita.ss177
+itass;SS179;;;ita.ss179
+itass;SS179;Dir;Albi;ita.ss179diralb
+itass;SS182;;Vibo Valentia;ita.ss182
+itass;SS182;;Chiaravalle Centrale;ita.ss182chi
+itass;SS185;;;ita.ss185
+itass;SS186;;;ita.ss186
+itass;SS187;;;ita.ss187
+itass;SS188;;;ita.ss188
+itass;SS188;Dir;Vita;ita.ss188dirvit
+itass;SS188;Dir;Campofiorito;ita.ss188dircam
+itass;SS189;;;ita.ss189
+itass;SS190;;;ita.ss190
+itass;SS191;;;ita.ss191
+itass;SS192;;;ita.ss192
+itass;SS193;;;ita.ss193
+itass;SS194;;;ita.ss194
+itass;SS195;;;ita.ss195
+itass;SS195;Racc;Casteddu;ita.ss195racccas
+itass;SS196;;;ita.ss196
+itass;SS196;Dir;Serramanna;ita.ss196dirser
+itass;SS197;;;ita.ss197
+itass;SS198;;;ita.ss198
+itass;SS199;;;ita.ss199
+itass;SS200;;;ita.ss200
+itass;SS202;;;ita.ss202
+itass;SS202;Dir;Padriciano;ita.ss202dirpad
+itass;SS205;;;ita.ss205
+itass;SS212;Ben;Benevento;ita.ss212ben
+itass;SS212;;Reino;ita.ss212
+itass;SS212;Var;Pietrelcina;ita.ss212varpie
+itass;SS219;;;ita.ss219
+itass;SS223;;;ita.ss223
+itass;SS231;;;ita.ss231
+itass;SS233;;;ita.ss233
+itass;SS237;;;ita.ss237
+itass;SS237;Dir;Ca'Rossa;ita.ss237dircar
+itass;SS238;;;ita.ss238
+itass;SS238;Dir;Fondo;ita.ss238dirfon
+itass;SS239;;;ita.ss239
+itass;SS240;;;ita.ss240
+itass;SS240;Dir;Arco;ita.ss240dirarc
+itass;SS240;Var;Mori;ita.ss240varmor
+itass;SS241;;;ita.ss241
+itass;SS242;;;ita.ss242
+itass;SS242;Dir;Leitach;ita.ss242dirlei
+itass;SS243;;;ita.ss243
+itass;SS244;;;ita.ss244
+itass;SS249;;;ita.ss249
+itass;SS256;;;ita.ss256
+itass;SS260;;;ita.ss260
+itass;SS268;;;ita.ss268
+itass;SS268;Racc;Palma Campania;ita.ss268raccpal
+itass;SS272;;;ita.ss272
+itass;SS274;;;ita.ss274
+itass;SS275;;;ita.ss275
+itass;SS276;;;ita.ss276
+itass;SS280;;;ita.ss280
+itass;SS280;Dir;Catanzaro;ita.ss280dircat
+itass;SS283;;Guardia Piemontese;ita.ss283gua
+itass;SS283;;Spezzano Albanese;ita.ss283
+itass;SS283;Var;Ghiandaro;ita.ss283varghi
+itass;SS284;;;ita.ss284
+itass;SS285;;;ita.ss285
+itass;SS286;;;ita.ss286
+itass;SS287;;;ita.ss287
+itass;SS288;;;ita.ss288
+itass;SS289;;;ita.ss289
+itass;SS290;;;ita.ss290
+itass;SS291;;;ita.ss291
+itass;SS291;Dir;Calich;ita.ss291dircal
+itass;SS291;Var;Sassari;ita.ss291varsas
+itass;SS292;;;ita.ss292
+itass;SS292;Dir;Putumajore;ita.ss292dirput
+itass;SS293;;;ita.ss293
+itass;SS295;;;ita.ss295
+itass;SS301;;;ita.ss301
+itass;SS303;;;ita.ss303
+itass;SS309;;;ita.ss309
+itass;SS309;Dir;Ravenna;ita.ss309dirrav
+itass;SS318;;;ita.ss318
+itass;SS318;Dir;Petrignano;ita.ss318dirpet
+itass;SS335;;;ita.ss335
+itass;SS335;Dir;Gad;ita.ss335dirgad
+itass;SS336;;;ita.ss336
+itass;SS336;Dir;Malpensa;ita.ss336dirmal
+itass;SS336;Dir;Vanzaghello;ita.ss336dirvan
+itass;SS337;;;ita.ss337
+itass;SS340;;;ita.ss340
+itass;SS340;Dir;Gravedona;ita.ss340dirgra
+itass;SS341;;;ita.ss341
+itass;SS342;;;ita.ss342
+itass;SS344;;Induno Olona;ita.ss344
+itass;SS344;;Besano;ita.ss344bes
+itass;SS344;Var;Arcisate;ita.ss344vararc
+itass;SS346;;;ita.ss346
+itass;SS347;;;ita.ss347
+itass;SS349;;;ita.ss349
+itass;SS349;Dir;Nosellari;ita.ss349dirnos
+itass;SS350;;;ita.ss350
+itass;SS372;;;ita.ss372
+itass;SS379;;;ita.ss379
+itass;SS385;;;ita.ss385
+itass;SS386;;;ita.ss386
+itass;SS387;;;ita.ss387
+itass;SS388;;;ita.ss388
+itass;SS389;;Bitzi;ita.ss389
+itass;SS389;;Arthana;ita.ss389art
+itass;SS389;Dir;Udduso;ita.ss389dirudd
+itass;SS389;Dir;Fonni;ita.ss389dirfon
+itass;SS389;Var;Mamujada;ita.ss389varmam
+itass;SS390;;;ita.ss390
+itass;SS391;;;ita.ss391
+itass;SS392;;;ita.ss392
+itass;SS394;;;ita.ss394
+itass;SS398;;;ita.ss398
+itass;SS400;;;ita.ss400
+itass;SS401;;;ita.ss401
+itass;SS401;Dir;Rocchetta Sant'Antonio;ita.ss401dirrsa
+itass;SS407;;;ita.ss407
+itass;SS410;;;ita.ss410
+itass;SS410;Dir;Canicatti;ita.ss410dircan
+itass;SS417;;;ita.ss417
+itass;SS421;;;ita.ss421
+itass;SS423;;;ita.ss423
+itass;SS425;;;ita.ss425
+itass;SS427;;;ita.ss427
+itass;SS434;;;ita.ss434
+itass;SS442;;;ita.ss442
+itass;SS448;;;ita.ss448
+itass;SS466;;;ita.ss466
+itass;SS481;;;ita.ss481
+itass;SS494;;;ita.ss494
+itass;SS508;;;ita.ss508
+itass;SS514;;;ita.ss514
+itass;SS516;;;ita.ss516
+itass;SS516;Dir;Liettoli;ita.ss516dirlie
+itass;SS517;Dir;Torre Orsala;ita.ss517dirtor
+itass;SS517;Var;Caselle in Pittari;ita.ss517varcas
+itass;SS526;;;ita.ss526
+itass;SS531;;;ita.ss531
+itass;SS534;;;ita.ss534
+itass;SS537;;;ita.ss537
+itass;SS547;;;ita.ss547
+itass;SS554;;;ita.ss554
+itass;SS557;;;ita.ss557
+itass;SS560;;;ita.ss560
+itass;SS561;;;ita.ss561
+itass;SS575;;;ita.ss575
+itass;SS576;;;ita.ss576
+itass;SS585;;;ita.ss585
+itass;SS585;Dir;Lauria;ita.ss585dirlau
+itass;SS591;Bis;Orio al Serio;ita.ss591bisori
+itass;SS597;;Piaghe;ita.ss597pia
+itass;SS597;;Chilivani;ita.ss597chi
+itass;SS597;;Belchidda;ita.ss597
+itass;SS598;;;ita.ss598
+itass;SS612;;;ita.ss612
+itass;SS612;Dir;Castello di Fiemme;ita.ss612dircas
+itass;SS613;;;ita.ss613
+itass;SS616;;;ita.ss616
+itass;SS616;Dir;Altilia;ita.ss616diralt
+itass;SS620;;;ita.ss620
+itass;SS621;;;ita.ss621
+itass;SS622;;;ita.ss622
+itass;SS624;;;ita.ss624
+itass;SS626;;;ita.ss626
+itass;SS626;Dir;Ravanusa;ita.ss626dirrav
+itass;SS629;;;ita.ss629
+itass;SS640;;;ita.ss640
+itass;SS640;Dir;Caltanissetta;ita.ss640dircal
+itass;SS641;;;ita.ss641
+itass;SS643;;;ita.ss643
+itass;SS644;;;ita.ss644
+itass;SS645;;;ita.ss645
+itass;SS647;;;ita.ss647
+itass;SS647;Dir;Riccia;ita.ss647dirric
+itass;SS647;Dir;Ripalimosani;ita.ss647dirrip
+itass;SS650;;;ita.ss650
+itass;SS652;;;ita.ss652
+itass;SS653;;;ita.ss653
+itass;SS655;;;ita.ss655
+itass;SS658;;;ita.ss658
+itass;SS659;;;ita.ss659
+itass;SS660;;;ita.ss660
+itass;SS672;;;ita.ss672
+itass;SS673;;;ita.ss673
+itass;SS673;Dir;Foggia;ita.ss673dirfog
+itass;SS674;;;ita.ss674
+itass;SS675;;;ita.ss675
+itass;SS675;Bis;Terni;ita.ss675bister
+itass;SS675;Dir;San Pellegrino;ita.ss675dirsan
+itass;SS679;;;ita.ss679
+itass;SS680;;;ita.ss680
+itass;SS681;;;ita.ss681
+itass;SS682;;;ita.ss682
+itass;SS682;Dir;San Ferdinando;ita.ss682dirsan
+itass;SS683;;;ita.ss683
+itass;SS683;Var;Caltagirone;ita.ss683varcal
+itass;SS684;;;ita.ss684
+itass;SS684;Dir;Bazzano;ita.ss684dirbaz
+itass;SS685;;;ita.ss685
+itass;SS687;;;ita.ss687
+itass;SS688;;;ita.ss688
+itass;SS689;;;ita.ss689
+itass;SS690;;;ita.ss690
+itass;SS691;;;ita.ss691
+itass;SS692;;;ita.ss692
+itass;SS693;;;ita.ss693
+itass;SS694;;;ita.ss694
+itass;SS695;;;ita.ss695
+itass;SS696;;;ita.ss696
+itass;SS696;Dir;Celano;ita.ss696dircel
+itass;SS697;;;ita.ss697
+itass;SS698;;;ita.ss698
+itass;SS699;;;ita.ss699
+itass;SS700;;;ita.ss700
+itass;SS701;;;ita.ss701
+itass;SS702;;;ita.ss702
+itass;SS703;;;ita.ss703
+itass;SS704;;;ita.ss704
+itass;SS705;;;ita.ss705
+itass;SS705;Dir;Confreria;ita.ss705dircon
+itass;SS706;;;ita.ss706
+itass;SS707;;;ita.ss707
+itass;SS708;;;ita.ss708
+itass;SS709;;;ita.ss709
+itass;SS710;;;ita.ss710
+itass;SS711;;;ita.ss711
+itass;SS712;;;ita.ss712
+itass;SS713;;Vazzano;ita.ss713vaz
+itass;SS713;;Simbario;ita.ss713
+itass;SS713;Dir;Serra San Bruno;ita.ss713dirssb
+itass;SS713;Dir;Brognaturo;ita.ss713dirbro
+itass;SS714;;;ita.ss714
+itass;SS714;Dir;Villa Verlengia;ita.ss714dirvil
+itass;SS714;Dir;Pineta;ita.ss714dirpin
+itass;SS714;Dir;Francavilla al Mare;ita.ss714dirfra
+itass;SS715;;;ita.ss715
+itass;SS716;;;ita.ss716
+itass;SS717;;;ita.ss717
+itass;SS718;;;ita.ss718
+itass;SS720;;;ita.ss720
+itass;SS721;;;ita.ss721
+itass;SS722;;;ita.ss722
+itass;SS723;;;ita.ss723
+itass;SS723;Dir;Ferrara;ita.ss723dirfer
+itass;SS724;;;ita.ss724
+itass;SS724;Dir;Modena;ita.ss724dirmod
+itass;SS725;;;ita.ss725
+itass;SS726;;;ita.ss726
+itass;SS727;;;ita.ss727
+itass;SS727;Bis;Forli;ita.ss727bisfor
+itass;SS729;;Aldara;ita.ss729
+itass;SS729;;Oscheri;ita.ss729osc
+itass;SS729;;Olbia;ita.ss729olb
+itass;SS730;;;ita.ss730
+itass;SS731;;;ita.ss731
+itass;SS732;;;ita.ss732
+itass;SS733;;;ita.ss733
+itass;SS734;;;ita.ss734
+itass;SS735;;;ita.ss735
+itass;SS736;;;ita.ss736
+itass;SS737;;;ita.ss737
+itass;SS738;;;ita.ss738
+itass;SS739;;;ita.ss739
+itass;SS740;;;ita.ss740
+itass;SS741;;;ita.ss741

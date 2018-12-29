@@ -1,4 +1,4 @@
-System;Route;Banner;Name;Roots
+systemName;route;banner;groupName;roots
 usaky;KY1;;;ky.ky0001
 usaky;KY2;;;ky.ky0002
 usaky;KY3;;;ky.ky0003
@@ -8,6 +8,7 @@ usaky;KY6;;;ky.ky0006
 usaky;KY7;;;ky.ky0007
 usaky;KY8;;Covington;ky.ky0008
 usaky;KY8;;Vanceburg;ky.ky0008van
+usaky;KY8;Bus;Bellevue;ky.ky0008busbel
 usaky;KY8S;;South Portsmouth;ky.ky0008sspo
 usaky;KY9;;;ky.ky0009
 usaky;KY10;;;ky.ky0010
@@ -151,6 +152,7 @@ usaky;KY137;;Birdsville;ky.ky0137
 usaky;KY137;;Carrsville;ky.ky0137car
 usaky;KY138;;;ky.ky0138
 usaky;KY139;;;ky.ky0139
+usaky;KY139;Trk;Princeton;ky.ky0139trkpri
 usaky;KY140;;;ky.ky0140
 usaky;KY141;;;ky.ky0141
 usaky;KY142;;;ky.ky0142
@@ -305,6 +307,7 @@ usaky;KY290;;;ky.ky0290
 usaky;KY291;;;ky.ky0291
 usaky;KY292;;;ky.ky0292
 usaky;KY293;;;ky.ky0293
+usaky;KY293;Trk;Princeton;ky.ky0293trkpri
 usaky;KY294;;;ky.ky0294
 usaky;KY295;;;ky.ky0295
 usaky;KY296;;;ky.ky0296
@@ -1030,7 +1033,6 @@ usaky;KY1047;;;ky.ky1047
 usaky;KY1048;;;ky.ky1048
 usaky;KY1049;;;ky.ky1049
 usaky;KY1050;;;ky.ky1050
-usaky;KY1051;;;ky.ky1051
 usaky;KY1053;;;ky.ky1053
 usaky;KY1054;;;ky.ky1054
 usaky;KY1055;;;ky.ky1055
@@ -1649,7 +1651,6 @@ usaky;KY1718;;;ky.ky1718
 usaky;KY1720;;;ky.ky1720
 usaky;KY1721;;;ky.ky1721
 usaky;KY1722;;;ky.ky1722
-usaky;KY1723;;;ky.ky1723
 usaky;KY1724;;;ky.ky1724
 usaky;KY1725;;;ky.ky1725
 usaky;KY1726;;;ky.ky1726
@@ -1920,7 +1921,6 @@ usaky;KY2019;;;ky.ky2019
 usaky;KY2020;;;ky.ky2020
 usaky;KY2021;;;ky.ky2021
 usaky;KY2022;;;ky.ky2022
-usaky;KY2023;;;ky.ky2023
 usaky;KY2024;;;ky.ky2024
 usaky;KY2025;;;ky.ky2025
 usaky;KY2026;;;ky.ky2026
@@ -2030,6 +2030,7 @@ usaky;KY2168;;;ky.ky2168
 usaky;KY2169;;;ky.ky2169
 usaky;KY2170;;;ky.ky2170
 usaky;KY2171;;;ky.ky2171
+usaky;KY2179;;;ky.ky2179
 usaky;KY2181;;;ky.ky2181
 usaky;KY2183;;;ky.ky2183
 usaky;KY2184;;;ky.ky2184
@@ -2075,10 +2076,10 @@ usaky;KY2248;;;ky.ky2248
 usaky;KY2249;;;ky.ky2249
 usaky;KY2250;;;ky.ky2250
 usaky;KY2253;;;ky.ky2253
+usaky;KY2259;;;ky.ky2259
 usaky;KY2260;;;ky.ky2260
 usaky;KY2261;;;ky.ky2261
 usaky;KY2262;;;ky.ky2262
-usaky;KY2263;;;ky.ky2263
 usaky;KY2266;;;ky.ky2266
 usaky;KY2267;;;ky.ky2267
 usaky;KY2268;;;ky.ky2268
@@ -2100,17 +2101,19 @@ usaky;KY2288;;;ky.ky2288
 usaky;KY2289;;;ky.ky2289
 usaky;KY2290;;;ky.ky2290
 usaky;KY2292;;;ky.ky2292
-usaky;KY2293;;;ky.ky2293
 usaky;KY2295;;;ky.ky2295
 usaky;KY2297;;;ky.ky2297
 usaky;KY2298;;;ky.ky2298
 usaky;KY2303;;;ky.ky2303
 usaky;KY2304;;;ky.ky2304
+usaky;KY2308;;;ky.ky2308
+usaky;KY2309;;;ky.ky2309
 usaky;KY2310;;;ky.ky2310
 usaky;KY2313;;;ky.ky2313
 usaky;KY2314;;;ky.ky2314
 usaky;KY2318;;;ky.ky2318
 usaky;KY2320;;;ky.ky2320
+usaky;KY2324;;;ky.ky2324
 usaky;KY2325;;;ky.ky2325
 usaky;KY2326;;;ky.ky2326
 usaky;KY2328;;;ky.ky2328
@@ -2136,7 +2139,6 @@ usaky;KY2373;;;ky.ky2373
 usaky;KY2375;;;ky.ky2375
 usaky;KY2376;;;ky.ky2376
 usaky;KY2377;;;ky.ky2377
-usaky;KY2380;;;ky.ky2380
 usaky;KY2381;;;ky.ky2381
 usaky;KY2383;;;ky.ky2383
 usaky;KY2384;;;ky.ky2384
@@ -2173,7 +2175,6 @@ usaky;KY2432;;;ky.ky2432
 usaky;KY2433;;;ky.ky2433
 usaky;KY2435;;;ky.ky2435
 usaky;KY2436;;;ky.ky2436
-usaky;KY2437;;;ky.ky2437
 usaky;KY2438;;;ky.ky2438
 usaky;KY2439;;;ky.ky2439
 usaky;KY2440;;;ky.ky2440
@@ -2316,6 +2317,7 @@ usaky;KY2814;;;ky.ky2814
 usaky;KY2815;;;ky.ky2815
 usaky;KY2817;;;ky.ky2817
 usaky;KY2820;;;ky.ky2820
+usaky;KY2821;;;ky.ky2821
 usaky;KY2822;;;ky.ky2822
 usaky;KY2828;;;ky.ky2828
 usaky;KY2830;;;ky.ky2830
@@ -2434,7 +2436,6 @@ usaky;KY3066;;;ky.ky3066
 usaky;KY3067;;;ky.ky3067
 usaky;KY3068;;;ky.ky3068
 usaky;KY3070;;;ky.ky3070
-usaky;KY3072;;;ky.ky3072
 usaky;KY3073;;;ky.ky3073
 usaky;KY3074;;;ky.ky3074
 usaky;KY3075;;;ky.ky3075
@@ -2468,6 +2469,7 @@ usaky;KY3140;;;ky.ky3140
 usaky;KY3141;;;ky.ky3141
 usaky;KY3143;;;ky.ky3143
 usaky;KY3144;;;ky.ky3144
+usaky;KY3145;;;ky.ky3145
 usaky;KY3146;;;ky.ky3146
 usaky;KY3147;;;ky.ky3147
 usaky;KY3149;;;ky.ky3149
@@ -2794,14 +2796,17 @@ usaky;KY3545;;;ky.ky3545
 usaky;KY3548;;;ky.ky3548
 usaky;KY3549;;;ky.ky3549
 usaky;KY3550;;;ky.ky3550
+usaky;KY3552;;;ky.ky3552
 usaky;KY3571;;;ky.ky3571
 usaky;KY3600;;;ky.ky3600
 usaky;KY3606;;;ky.ky3606
 usaky;KY3608;;;ky.ky3608
 usaky;KY3611;;;ky.ky3611
+usaky;KY3629;;;ky.ky3629
 usaky;KY3630;;;ky.ky3630
 usaky;KY3677;;;ky.ky3677
 usaky;KY3716;;;ky.ky3716
+usaky;KY3886;;;ky.ky3886
 usaky;KY6011;;;ky.ky6011
 usaky;KY6016;;;ky.ky6016
 usaky;KY6017;;;ky.ky6017
@@ -2815,3 +2820,4 @@ usaky;KY6121;;;ky.ky6121
 usaky;KY6122;;;ky.ky6122
 usaky;KY6177;;;ky.ky6177
 usaky;KY6183;;;ky.ky6183
+usaky;KY6335;;;ky.ky6335
