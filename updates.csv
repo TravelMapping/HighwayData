@@ -257,9 +257,9 @@
 2015-07-28;Czechia;R43;cze.r043;New route
 2019-01-06;Denmark;SR565;dnk.sr565;New Route
 2019-01-06;Denmark;SR265;dnk.sr265;Route removed from through Næstved (Østre Ringvej and Ny Præstøvej) and onto Ring Syd and Vordingborgvej
-2019-01-06;Denmark;O2 (Roskilde);dnk.sro2nae;Route extended onto Østre Ringvej
+2019-01-06;Denmark;O2 (Roskilde);dnk.sro2ros;Route extended onto Østre Ringvej
 2019-01-06;Denmark;O2 (Næstved);dnk.sro2nae;Route extended to a full ring around Næstved
-2019-01-06;Denmark;O2 (Næstved (Ring Øst));;Merged into main route
+2019-01-06;Denmark;O2 (Næstved (Ring Øst));dnk.sro2nae;Merged into main route
 2019-01-01;Denmark;O2 (København);dnk.pro2kob;Route removed from through Hellerup (Tuborgvej, Strandvejen and Strandpromenaden), onto Helsingørmotorvejen and Nordhavnsvej
 2019-01-01;Denmark;SR225;dnk.sr225;Route removed from through Vig and onto northern bypass from Ravensbjergvej to Holækvej
 2018-09-30;Denmark;Holstebromotorvejen;dnk.holmothol;Route extended at north end from exit 20 to Hjermvej
@@ -2654,6 +2654,7 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing. 
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset. 
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2019-01-08;(USA) Pennsylvania;PA 116;pa.pa116;Relocated in Hanover to follow posted routing along Frederick St.  This breaks the concurrency with PA 194 as the route is now shown only following the routing of PA 194 NB (Frederick St).
 2018-12-30;(USA) Pennsylvania;PA 402 Truck (Hawley);pa.pa402trkhaw;Route added
 2018-12-25;(USA) Pennsylvania;PA 61;pa.pa061;Fixed route in Mount Carmel to follow 5th St, Market St, East Ave, West Ave, and Poplar St.
 2018-12-25;(USA) Pennsylvania;PA 147;pa.pa147;Fixed PA61_N and PA61_S labels as they were backwards.
