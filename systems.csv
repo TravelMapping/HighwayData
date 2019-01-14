@@ -49,6 +49,7 @@ deubwl;DEU;Baden-Württemberg Landesstraßen;yellow;5;active
 deubyst;DEU;Bavaria Staatsstraßen;yellow;5;active
 deuhhr;DEU;Hamburg Ringstraßen;yellow;5;active
 deunil;DEU;Lower Saxony Landesstraßen;yellow;5;active
+deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;active
 deusns;DEU;Saxony Staatsstraßen;yellow;5;active
 deuthl;DEU;Thuringia Landesstraßen;yellow;5;active
 dnkpr;DNK;Denmark Primærruter;lightsalmon;4;active
@@ -221,7 +222,7 @@ usawa;USA;Washington State Highways;brown;4;active
 usawv;USA;West Virginia State Highways;brown;4;active
 usawi;USA;Wisconsin State Highways;brown;4;active
 usawy;USA;Wyoming State Highways;brown;4;active
-zafn;ZAF;South Africa National Highways;lightsalmon;2;active
+zafn;ZAF;South Africa National Highways;green;3;active
 #Preview Systems
 asiahp;ASI;UNESCAP Asian Highways (for preview);red;3;preview
 asiahr;ASI;UNESCAP / ASEAN Asian Highways (for review);red;3;preview
@@ -229,6 +230,7 @@ asim;ASI;ESCWA Arab Mashreq International Road Network;red;3;preview
 beln;BEL;Belgium Gewestwegen / Route Nationale;yellow;4;preview
 blzar;BLZ;Belize National Routes;lightsalmon;4;preview
 blzd;BLZ;Belize District Routes;brown;5;preview
+bwaa;BWA;Botswana A Roads;green;4;preview
 canabs;CAN;Alberta Provincial Highways 500-986;yellow;5;preview
 canmbp;CAN;Manitoba Provincial Roads;yellow;5;preview
 canmbw;CAN;Winnipeg City Routes;yellow;5;preview
@@ -238,7 +240,6 @@ cansk;CAN;Saskatchewan Provincial Highways 1-399;brown;4;preview
 chng;CHN;China National Expressways;blue;1;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
 deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;preview
-deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;preview
 deurpl;DEU;Rhineland-Palatinate Landesstraßen;yellow;5;preview
 deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;preview
 deusll;DEU;Saarland Landesstraßen 1. Ordnung;yellow;5;preview
@@ -270,6 +271,10 @@ jama;JAM;Jamaica A Roads;brown;4;preview
 jeyb;JEY;Jersey B Roads;yellow;5;preview
 jpne;JPN;Japan Expressways;blue;1;preview
 lkaa;LKA;Sri Lanka A Roads;lightsalmon;4;preview
+lsoa;LSO;Lesotho A Roads;green;4;preview
+musm;MUS;Mauritius M Roads;green;3;preview
+musa;MUS;Mauritius A Roads;lightsalmon;4;preview
+namb;NAM;Namibia B Roads;green;4;preview
 nirb;GBR;Northern Ireland B Roads;yellow;5;preview
 nplh;NPL;Nepal Highways;lightsalmon;4;preview
 norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
@@ -277,6 +282,7 @@ nzlsh;NZL;New Zealand State Highways;lightsalmon;4;preview
 phle;PHL;Philippines Expressways;blue;1;preview
 poldw;POL;Poland Droga Wojewódzka;yellow;5;preview
 rusa;RUS;Russia Access Roads;lightsalmon;4;preview
+swzmr;SWZ;Eswatini Main Roads;green;4;preview
 usaal;USA;Alabama State Highways;brown;4;preview
 usaar;USA;Arkansas State Highways;brown;4;preview
 usaca;USA;California State Highways;brown;4;preview
@@ -288,7 +294,11 @@ usanyp;USA;New York Parkways;teal;2;preview
 usapr;USA;Puerto Rico Territorial Highways;brown;4;preview
 usasc;USA;South Carolina State Highways;brown;4;preview
 usaush;USA;United States Historic Highways;brown;4;preview
+zmbt;ZMB;Zambia Trunk Roads;green;4;preview
+zwea;ZWE;Zimbabwe A Roads;green;4;preview
 #Devel Systems
+afrtah;AFR;UNECA Trans-African Highways;red;2;devel
+afrrtr;AFR;SADC Regional Trunk Roads;lightsalmon;3;devel
 argrn;ARG;Argentina Rutas Nacionales;lightsalmon;4;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
@@ -296,8 +306,10 @@ cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 #espga;ESP;Galicia Red Primaria Básica;yellow;5;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
-namb;NAM;Namibia B Roads;lightsalmon;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
 turd;TUR;Turkey Devlet Yolları;lightsalmon;4;devel
 usaas;USA;American Samoa Territorial Highways;brown;4;devel
+#zafr;ZAF;South Africa Main Provincial Roads;yellow;4;devel
+#zafm;ZAF;South Africa Municipal Roads;yellow;5;devel
+zmbm;ZMB;Zambia Main Roads;yellow;5;devel
