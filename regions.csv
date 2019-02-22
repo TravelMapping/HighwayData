@@ -1,7 +1,6 @@
 ﻿code;name;country;continent;regionType
 AB;Alberta;CAN;NA;Province
 ABW;Aruba;NLD;NA;Constituent Country
-ACT;Australian Capital Territory;AUS;OCE;Territory
 AFG;Afghanistan;AFG;ASI;Country
 AFR;Africa;AFR;AFR;Continent
 AGO;Angola;AGO;AFR;Country
@@ -11,7 +10,6 @@ AL;Alabama;USA;NA;State
 ALA;Aland Islands;FIN;EUR;Autonomous Region
 ALB;Albania;ALB;EUR;Country
 AND;Andorra;AND;EUR;Country
-ANT;Northern Territory;AUS;OCE;Territory
 AR;Arkansas;USA;NA;State
 ARE;United Arab Emirates;ARE;ASI;Country
 ARG;Argentina;ARG;SA;Country
@@ -22,6 +20,18 @@ ATA;Antarctica;ATA;ATA;Continent
 ATF;French Southern Territories;FRA;ATA;Territory
 ATG;Antigua and Barbuda;ATG;NA;Country
 AUS;Australia;AUS;OCE;Country
+AUS-ACT;Australian Capital Territory;AUS;OCE;Territory
+AUS-ANT;Northern Territory;AUS;OCE;Territory
+AUS-CCK;Cocos (Keeling) Islands;AUS;OCE;External Territory
+AUS-CXR;Christmas Island;AUS;OCE;External Territory
+AUS-HMD;Heard Island and McDonald Islands;AUS;OCE;External Territory
+AUS-NFK;Norfolk Island;AUS;OCE;External Territory
+AUS-NSW;New South Wales;AUS;OCE;State
+AUS-QLD;Queensland;AUS;OCE;State
+AUS-SAS;South Australia;AUS;OCE;State
+AUS-TAS;Tasmania;AUS;OCE;State
+AUS-VIC;Victoria;AUS;OCE;State
+AUS-WAS;Western Australia;AUS;OCE;State
 AUT;Austria;AUT;EUR;Country
 AZ;Arizona;USA;NA;State
 AZE;Azerbaijan;AZE;ASI;Country
@@ -50,7 +60,6 @@ BWA;Botswana;BWA;AFR;Country
 CA;California;USA;NA;State
 CAF;Central African Republic;CAF;AFR;Country
 CAN;Canada;CAN;NA;Country
-CCK;Cocos (Keeling) Islands;AUS;OCE;External Territory
 CHE;Switzerland;CHE;EUR;Country
 CHL;Chile;CHL;SA;Country
 CHN;China;CHN;ASI;Country
@@ -99,7 +108,6 @@ CRM;Crimea;UKR;EUR;Autonomous Republic
 CT;Connecticut;USA;NA;State
 CUB;Cuba;CUB;NA;Country
 CUW;Curacao;NLD;NA;Constituent Country
-CXR;Christmas Island;AUS;OCE;External Territory
 CYM;Cayman Islands;GBR;NA;Overseas Territory
 CYP;Cyprus;CYP;ASI;Country
 CZE;Czechia;CZE;EUR;Country
@@ -184,7 +192,6 @@ GUF;French Guiana;FRA;SA;Overseas Region
 GUY;Guyana;GUY;SA;Country
 HI;Hawaii;USA;OCE;State
 HKG;Hong Kong;CHN;ASI;Special Administrative Region
-HMD;Heard Island and McDonald Islands;AUS;OCE;External Territory
 HND;Honduras;HND;NA;Country
 HRV;Croatia;HRV;EUR;Country
 HTI;Haiti;HTI;NA;Country
@@ -338,7 +345,6 @@ NCL;New Caledonia;FRA;OCE;Special Collectivity
 ND;North Dakota;USA;NA;State
 NE;Nebraska;USA;NA;State
 NER;Niger;NER;AFR;Country
-NFK;Norfolk Island;AUS;OCE;External Territory
 NGA;Nigeria;NGA;AFR;Country
 NH;New Hampshire;USA;NA;State
 NIC;Nicaragua;NIC;NA;Country
@@ -352,7 +358,6 @@ NOR;Norway;NOR;EUR;Country
 NPL;Nepal;NPL;ASI;Country
 NRU;Nauru;NRU;OCE;Country
 NS;Nova Scotia;CAN;NA;Province
-NSW;New South Wales;AUS;OCE;State
 NT;Northwest Territories;CAN;NA;Territory
 NU;Nunavut;CAN;NA;Territory
 NV;Nevada;USA;NA;State
@@ -382,7 +387,6 @@ PSE;Palestine;PSE;ASI;Country
 PYF;French Polynesia;FRA;OCE;Overseas Collectivity
 QAT;Qatar;QAT;ASI;Country
 QC;Quebec;CAN;NA;Province
-QLD;Queensland;AUS;OCE;State
 REU;Reunion;FRA;AFR;Overseas Region
 RI;Rhode Island;USA;NA;State
 RKS;Kosovo;RKS;EUR;Country
@@ -390,7 +394,6 @@ ROU;Romania;ROU;EUR;Country
 RUS;Russia;RUS;EUR;Country
 RWA;Rwanda;RWA;AFR;Country
 SA;South America;SA;SA;Continent
-SAS;South Australia;AUS;OCE;State
 SAU;Saudi Arabia;SAU;ASI;Country
 SC;South Carolina;USA;NA;State
 SCT;Scotland;GBR;EUR;Constituent Country
@@ -419,7 +422,6 @@ SWZ;Eswatini;SWZ;AFR;Country
 SXM;Sint Maarten;NLD;NA;Constituent Country
 SYC;Seychelles;SYC;AFR;Country
 SYR;Syria;SYR;ASI;Country
-TAS;Tasmania;AUS;OCE;State
 TCA;Turks and Caicos Islands;GBR;NA;Overseas Territory
 TCD;Chad;TCD;AFR;Country
 TGO;Togo;TGO;AFR;Country
@@ -450,12 +452,10 @@ VCT;Saint Vincent and the Grenadines;VCT;NA;Country
 VEN;Venezuela;VEN;SA;Country
 VGB;Virgin Islands (British);GBR;NA;Overseas Territory
 VI;Virgin Islands (US);USA;NA;Territory
-VIC;Victoria;AUS;OCE;State
 VNM;Vietnam;VNM;ASI;Country
 VT;Vermont;USA;NA;State
 VUT;Vanuatu;VUT;OCE;Country
 WA;Washington;USA;NA;State
-WAS;Western Australia;AUS;OCE;State
 WI;Wisconsin;USA;NA;State
 WLF;Wallis and Futuna;FRA;OCE;Overseas Collectivity
 WLS;Wales;GBR;EUR;Constituent Country

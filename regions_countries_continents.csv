@@ -1,7 +1,6 @@
 ﻿region_code;region_name;country_code;country_name;continent_code;continent_name
 AB;Alberta;CAN;Canada;NA;North America
 ABW;Aruba;NLD;Netherlands;NA;North America
-ACT;Australian Capital Territory;AUS;Australia;OCE;Oceania
 AFG;Afghanistan;AFG;Afghanistan;ASI;Asia
 AGO;Angola;AGO;Angola;AFR;Africa
 AIA;Anguilla;GBR;United Kingdom;NA;North America
@@ -10,7 +9,6 @@ AL;Alabama;USA;United States of America;NA;North America
 ALA;Åland Islands;FIN;Finland;EUR;Europe
 ALB;Albania;ALB;Albania;EUR;Europe
 AND;Andorra;AND;Andorra;EUR;Europe
-ANT;Northern Territory;AUS;Australia;OCE;Oceania
 AR;Arkansas;USA;United States of America;NA;North America
 ARE;United Arab Emirates;ARE;United Arab Emirates;ASI;Asia
 ARG;Argentina;ARG;Argentina;SA;South America
@@ -19,6 +17,18 @@ AS;American Samoa;USA;United States of America;OCE;Oceania
 ATA;Antarctica;ATA;Antarctica;ATA;Antarctica
 ATF;French Southern Territories;FRA;France;ATA;Antarctica
 ATG;Antigua and Barbuda;ATG;Antigua and Barbuda;NA;North America
+AUS-ACT;Australian Capital Territory;AUS;Australia;OCE;Oceania
+AUS-ANT;Northern Territory;AUS;Australia;OCE;Oceania
+AUS-CCK;Cocos (Keeling) Islands;AUS;Australia;OCE;Oceania
+AUS-CXR;Christmas Island;AUS;Australia;OCE;Oceania
+AUS-HMD;Heard Island and McDonald Islands;AUS;Australia;OCE;Oceania
+AUS-NFK;Norfolk Island;AUS;Australia;OCE;Oceania
+AUS-NSW;New South Wales;AUS;Australia;OCE;Oceania
+AUS-QLD;Queensland;AUS;Australia;OCE;Oceania
+AUS-SAS;Southern Australia;AUS;Australia;OCE;Oceania
+AUS-TAS;Tasmania;AUS;Australia;OCE;Oceania
+AUS-VIC;Victoria;AUS;Australia;OCE;Oceania
+AUS-WAS;Western Australia;AUS;Australia;OCE;Oceania
 AUT;Austria;AUT;Austria;EUR;Europe
 AZ;Arizona;USA;United States of America;NA;North America
 AZE;Azerbaijan;AZE;Azerbaijan;ASI;Asia
@@ -46,7 +56,6 @@ BVT;Bouvet Island;NOR;Norway;ATA;Antarctica
 BWA;Botswana;BWA;Botswana;AFR;Africa
 CA;California;USA;United States of America;NA;North America
 CAF;Central African Republic;CAF;Central African Republic;AFR;Africa
-CCK;Cocos (Keeling) Islands;AUS;Australia;OCE;Oceania
 CHE;Switzerland;CHE;Switzerland;EUR;Europe
 CHL;Chile;CHL;Chile;SA;South America
 CHN-AH;Anhui;CHN;China;ASI;Asia
@@ -94,7 +103,6 @@ CRM;Crimea;UKR;Ukraine;EUR;Europe
 CT;Connecticut;USA;United States of America;NA;North America
 CUB;Cuba;CUB;Cuba;NA;North America
 CUW;Curaçao;NLD;Netherlands;NA;North America
-CXR;Christmas Island;AUS;Australia;OCE;Oceania
 CYM;Cayman Islands;GBR;United Kingdom;NA;North America
 CYP;Cyprus;CYP;Cyprus;ASI;Asia
 CZE;Czechia;CZE;Czechia;EUR;Europe
@@ -142,7 +150,6 @@ GUF;French Guiana;FRA;France;SA;South America
 GUY;Guyana;GUY;Guyana;SA;South America
 HI;Hawaii;USA;United States of America;OCE;Oceania
 HKG;Hong Kong;CHN;China;ASI;Asia
-HMD;Heard Island and McDonald Islands;AUS;Australia;OCE;Oceania
 HND;Honduras;HND;Honduras;NA;North America
 HRV;Croatia;HRV;Croatia;EUR;Europe
 HTI;Haiti;HTI;Haiti;NA;North America
@@ -293,7 +300,6 @@ NCL;New Caledonia;FRA;France;OCE;Oceania
 ND;North Dakota;USA;United States of America;NA;North America
 NE;Nebraska;USA;United States of America;NA;North America
 NER;Niger;NER;Niger;AFR;Africa
-NFK;Norfolk Island;AUS;Australia;OCE;Oceania
 NGA;Nigeria;NGA;Nigeria;AFR;Africa
 NH;New Hampshire;USA;United States of America;NA;North America
 NIC;Nicaragua;NIC;Nicaragua;NA;North America
@@ -307,7 +313,6 @@ NOR;Norway;NOR;NorwayEUR;Europe;
 NPL;Nepal;NPL;NepalASI;Asia;
 NRU;Nauru;NRU;Nauru;OCE;Oceania
 NS;Nova Scotia;CAN;Canada;NA;North America
-NSW;New South Wales;AUS;Australia;OCE;Oceania
 NT;Northwest Territories;CAN;Canada;NA;North America
 NU;Nunavut;CAN;Canada;NA;North America
 NV;Nevada;USA;United States of America;NA;North America
@@ -336,14 +341,12 @@ PSE;Palestine;PSE;PalestineASI;Asia;
 PYF;French Polynesia;FRA;France;OCE;Oceania
 QAT;Qatar;QAT;Qatar;ASI;Asia
 QC;Québec;CAN;Canada;NA;North America
-QLD;Queensland;AUS;Australia;OCE;Oceania
 REU;Réunion;FRA;France;AFR;Africa
 RI;Rhode Island;USA;United States of America;NA;North America
 RKS;Kosovo;RKS;Kosovo;EUR;Europe
 ROU;Romania;ROU;Romania;EUR;Europe
 RUS;Russia;RUS;Russia;EUR;Europe
 RWA;Rwanda;RWA;Rwanda;AFR;Africa
-SAS;Southern Australia;AUS;Australia;OCE;Oceania
 SAU;Saudi Arabia;SAU;Saudi Arabia;ASI;Asia
 SC;South Carolina;USA;United States of America;NA;North America
 SCT;Scotland;GBR;United Kingdom;EUR;Europe
@@ -372,7 +375,6 @@ SWZ;Eswatini;SWZ;Eswatini;AFR;Africa
 SXM;Sint Maarten;NLD;Netherlands;NA;North America
 SYC;Seychelles;SYC;SeychellesAFR;Africa;
 SYR;Syria;SYR;Syria;ASI;Asia
-TAS;Tasmania;AUS;Australia;OCE;Oceania
 TCA;Turks and Caicos Islands;GBR;United Kingdom;NA;North America
 TCD;Chad;TCD;Chad;AFR;Africa
 TGO;Togo;TGO;Togo;AFR;Africa
@@ -402,12 +404,10 @@ VCT;Saint Vincent and the Grenadines;VCT;Saint Vincent and the Grenadines;NA;Nor
 VEN;Venezuela;VEN;Venezuela;SA;South America
 VGB;Virgin Islands (British);GBR;United Kingdom;NA;North America
 VI;Virgin Islands (US);USA;United States of America;NA;North America
-VIC;Victoria;AUS;Australia;OCE;Oceania
 VNM;Vietnam;VNM;Vietnam;ASI;Asia
 VT;Vermont;USA;United States of America;NA;North America
 VUT;Vanuatu;VUT;Vanuatu;OCE;Oceania
 WA;Washington;USA;United States of America;NA;North America
-WAS;Western Australia;AUS;Australia;OCE;Oceania
 WI;Wisconsin;USA;United States of America;NA;North America
 WLF;Wallis and Futuna;FRA;France;OCE;Oceania
 WLS;Wales;GBR;United Kingdom;EUR;Europe
