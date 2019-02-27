@@ -51,6 +51,7 @@ deuhhr;DEU;Hamburg Ringstraßen;yellow;5;active
 deunil;DEU;Lower Saxony Landesstraßen;yellow;5;active
 deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;active
 deusns;DEU;Saxony Staatsstraßen;yellow;5;active
+deustl;DEU;Saxony-Anhalt Landesstraßen;yellow;5;active
 deuthl;DEU;Thuringia Landesstraßen;yellow;5;active
 dnkpr;DNK;Denmark Primærruter;lightsalmon;4;active
 frolv;DNK;Faroe Islands Routes;lightsalmon;4;active
@@ -105,6 +106,7 @@ isrf;ISR;Israel Freeways;blue;1;active
 isrh;ISR;Israel Highways;lightsalmon;4;active
 itaa;ITA;Italy Autostrada;blue;1;active
 jamt;JAM;Jamaica Motorways;blue;1;active
+jama;JAM;Jamaica A Roads;brown;4;active
 jeya;JEY;Jersey A Roads;lightsalmon;4;active
 kaza;KAZ;Kazakhstan Main Roads;lightsalmon;4;active
 korex;KOR;(South) Korean Expressways;blue;1;active
@@ -231,7 +233,7 @@ asiahp;ASI;UNESCAP Asian Highways (for preview);red;3;preview
 asiahr;ASI;UNESCAP / ASEAN Asian Highways (for review);red;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;red;3;preview
 beln;BEL;Belgium Gewestwegen / Route Nationale;yellow;4;preview
-bdirn;BDI;Burundi Routes Nationale;green;4;preview
+bdirn;BDI;Burundi Routes Nationales;green;4;preview
 blzar;BLZ;Belize National Routes;lightsalmon;4;preview
 blzd;BLZ;Belize District Routes;brown;5;preview
 bwaa;BWA;Botswana A Roads;green;4;preview
@@ -242,12 +244,14 @@ cannl;CAN;Newfoundland and Labrador Provincial Highways;brown;4;preview
 canqc;CAN;Québec Provincial Routes;brown;4;preview
 cansk;CAN;Saskatchewan Provincial Highways 1-399;brown;4;preview
 chng;CHN;China National Expressways;blue;1;preview
+cogn;COG;Congo Routes Nationales;green;4;preview
+comrn;COM;Comoros Routes Nationales;green;4;preview
+cyma;GBR;Cayman Island A Roads;brown;4;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
 deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;preview
 deurpl;DEU;Rhineland-Palatinate Landesstraßen;yellow;5;preview
 deushl;DEU;Schleswig-Holstein Landesstraßen;yellow;5;preview
 deusll;DEU;Saarland Landesstraßen 1. Ordnung;yellow;5;preview
-deustl;DEU;Saxony-Anhalt Landesstraßen;yellow;5;preview
 espan;ESP;Andalusia Red Básica;yellow;5;preview
 espar;ESP;Aragon Red Básica;yellow;5;preview
 espas;ESP;Asturias Red Regional;yellow;5;preview
@@ -265,18 +269,20 @@ esppv;ESP;Basque Country Oinarrizko Sarea;yellow;5;preview
 espri;ESP;La Rioja Red Regional Básica;yellow;5;preview
 espvc;ESP;Valencian Community Red Básica;yellow;5;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;brown;5;preview
+gabn;GAB;Gabon Routes Nationales;green;4;preview
 gbnb;GBR;Great Britain B Roads;yellow;5;preview
 imnb;IMN;Isle of Man B Roads;yellow;5;preview
 index;IND;India National Expressways;blue;1;preview
 islf;ISL;Iceland Fjallvegir;yellow;5;preview
 itass;ITA;Italy Strade Statale;lightsalmon;4;preview
-jama;JAM;Jamaica A Roads;brown;4;preview
 jeyb;JEY;Jersey B Roads;yellow;5;preview
 jpne;JPN;Japan Expressways;blue;1;preview
 lkaa;LKA;Sri Lanka A Roads;lightsalmon;4;preview
 kena;KEN;Kenya A Roads;green;3;preview
 kenb;KEN;Kenya B Roads;yellow;4;preview
 lsoa;LSO;Lesotho Main Roads;green;4;preview
+marn;MAR;Morocco Routes Nationales;green;4;preview
+mozn;MOZ;Mozambique Estrada Nacional;green;4;preview
 musm;MUS;Mauritius Motorways;green;3;preview
 musa;MUS;Mauritius Primary Main Roads;lightsalmon;4;preview
 mwim;MWI;Malawi Main Roads;green;4;preview
@@ -289,9 +295,15 @@ phle;PHL;Philippines Expressways;blue;1;preview
 poldw;POL;Poland Droga Wojewódzka;yellow;5;preview
 rusa;RUS;Russia Access Roads;lightsalmon;4;preview
 rwanr;RWA;Rwanda National Roads;green;4;preview
+senn;SEN;Senegal Routes Nationales;green;4;preview
+stpen;STP;Sao Tome and Principe Estrada Nacional;green;4;preview
 swzmr;SWZ;Eswatini Main Roads;green;4;preview
+ttoh;TTO;Trinidad & Tobago Highways;red;3;preview
+ttomr;TTO;Trinidad & Tobago Main Roads;brown;4;preview
+tunrn;TUN;Tunisia Routes Nationales;green;4;preview
 tzat;TZA;Tanzania Trunk Roads;green;4;preview
 ugam;UGA;Uganda Motorways;blue;1;preview
+uryrn;URY;Uruguay Rutas Nacionales;green;4;preview
 usaal;USA;Alabama State Highways;brown;4;preview
 usaar;USA;Arkansas State Highways;brown;4;preview
 usaas;USA;American Samoa Territorial Highways;brown;4;preview
@@ -303,28 +315,31 @@ usanyp;USA;New York Parkways;teal;2;preview
 usapr;USA;Puerto Rico Territorial Highways;brown;4;preview
 usasc;USA;South Carolina State Highways;brown;4;preview
 usaush;USA;United States Historic Highways;brown;4;preview
+zafr;ZAF;South Africa Main Provincial Roads;yellow;4;preview
 zmbt;ZMB;Zambia Trunk Roads;green;4;preview
 zmbm;ZMB;Zambia Main Roads;yellow;5;preview
 zwea;ZWE;Zimbabwe A Roads;green;4;preview
 #Devel Systems
+#afrcu;AFR;UEMOA Community Roads;lightsalmon;3;devel
 afrtah;AFR;UNECA Trans-African Highways;red;2;devel
 afrrtr;AFR;SADC Regional Trunk Roads;lightsalmon;3;devel
-#ago;AGO;Angola Estrada Nacional;green;3;devel
-argrn;ARG;Argentina Rutas Nacionales;lightsalmon;4;devel
+#agoen;AGO;Angola Estrada Nacional;green;3;devel
+argrn;ARG;Argentina Rutas Nacionales;green;4;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
+ausa;AUS;Australia A Roads;green;3;devel
+ausab;AUS;Australia A Roads (Alt);red;4;devel
+ausb;AUS;Australia B Roads;yellow;4;devel
+ausm;AUS;Australia Motorways;blue;1;devel
+ausn;AUS;Australia National Roads;green;3;devel
+ausr;AUS;Australia Ring Roads;green;3;devel
+#brabr;BRA;Brazil Rodovias Federais;green;4;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
-#codn;COD;DRC Routes Nationale;green;4;devel
-#cogn;COD;Congo Routes Nationale;green;4;devel
-comrn;COM;Comoros Routes Nationale;green;4;devel
+codn;COD;DRC Routes Nationale;green;4;devel
+#ecue;ECU;Ecuador Primerias Red Vial Estatal;green;4;devel
 #espga;ESP;Galicia Red Primaria Básica;yellow;5;devel
-#gabn;GAB;Gabon Routes Nationale;green;4;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
-marn;MAR;Morocco National Roads;green;4;devel
-mozn;MOZ;Mozambique Estrada Nacional;green;4;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
 turd;TUR;Turkey Devlet Yolları;lightsalmon;4;devel
-#zafr;ZAF;South Africa Main Provincial Roads;yellow;4;devel
-#zafm;ZAF;South Africa Municipal Roads;yellow;5;devel
