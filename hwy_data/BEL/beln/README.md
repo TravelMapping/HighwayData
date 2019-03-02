@@ -55,10 +55,9 @@
 - `N802`, `N813`, `N824`, `N825`, `N858`, `N861`, `N862`, `N864`, `N867`, `N868`, `N869`, `N872`, `N876`, `N877` and `N880` are unsigned (mostly according to GSV but indicated on OSM/GM)
 - `N885` and `N887` are unsigned
 - `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM; not drafted
-- `N902` is unsigned
+--------- (checked from here to the end)
 - `N905` should be signed according to OSM and GM but not on GSV (`N80` towards `N80` and `N90` towards `N90` only)
-- `N908` should be signed according to OSM but not on GM or GSV (`N40` is indicated at `N96` junction once)
-- `N917` should be signed according to OSM but not on GM or GSV
-- `N955`, `N963` and `N969` should be signed according to OSM an GM but not on GSV
-- `N931` is not signed west of A4 according to GSV. GM shows two routes, OSM partially one of them but extends to a different route and ends
-- `N998` should be signed according to GM but not on OSM or GSV
+- `N917` should be signed according to OSM but not on GM or GSV (GSV shows a `N947` sign, wikisara also calls it `N947a`)
+- `N931` is not signed west of A4 according to GSV and OSM. GM shows two routes
+- `N955` route is different on OSM/GM and not signed on GSV (not drafted)
+- `N902`, `N963` and `N998` should be signed according to OSM an GM but not on GSV
