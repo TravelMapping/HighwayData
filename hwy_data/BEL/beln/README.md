@@ -43,21 +43,27 @@
 - `N518` is still u/c b/n N513_W and N58
 - `N521`, `N522`, `N540`, `N548`, `N555`, `N556`, `N578`, `N581` and `N585` are unsigned
 - `N542`, `N551`, `N560`, `N590` and `N598`: Should exist according to wegenwiki but no info about location
-- `N600` and `N603`: Should exist according to wegenwiki but no info about location
-- `N605`, `N607`, `N607a`, `N611`, `N613`, `N628`, `N630`, `N631`, `N635`, `N656`, `N661`, `N662`, `N664`, `N681` and `N686` are unsigned (mostly according to GSV but indicated on OSM/GM)
-- `N616` is signed concurrent on `N696` once!?
-- `N625` and `N665`: Should exist according to wegenwiki but no info about location
-- `N653` is not signed on the southern part but indicated on OSM and GM
-- `N731` and `N795`: Should exist according to wegenwiki but no info about location
-- `N732`, `N756`, `N764`, `N767`, `N768` and `N794` are unsigned (mostly according to GSV but indicated on OSM/GM)
-- `N772` is only signed once in Koersel; OSM indicates it from here to west, GM to west and south; not drafted
-- `N89`/`N820`/`N833`/`N834`/`N860` in La Roche-en-Ardenne: Signage has been changed as you can see on GSV. Moving the position and signs disappear... I've gone with OSM, no evidence that `N820` is really signed.
-- `N802`, `N813`, `N824`, `N825`, `N858`, `N861`, `N862`, `N864`, `N867`, `N868`, `N869`, `N872`, `N876`, `N877` and `N880` are unsigned (mostly according to GSV but indicated on OSM/GM)
-- `N885` and `N887` are unsigned
-- `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM; not drafted
+
 --------- (checked from here to the end)
-- `N905` should be signed according to OSM and GM but not on GSV (`N80` towards `N80` and `N90` towards `N90` only)
-- `N917` should be signed according to OSM but not on GM or GSV (GSV shows a `N947` sign, wikisara also calls it `N947a`)
+- `N72a`, `N630a`, `N635`, `N656`, `N861` and `N864` should be signed according to OSM but not on GM nor GSV
+- `N607`, `N661`, `N664`, `N686`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
+- `N631` was signed at both ends according to 2009 GSV but not indicated on OSM nor GM
+
+- `N653` is not signed on the southern part but indicated on OSM and GM
+- `N772` is also indicated on GM from Koersel to the south (not extended)
+- `N89`/`N820`/`N833`/`N834`/`N860` in La Roche-en-Ardenne: Signage has been changed as you can see on GSV. Moving the position and signs disappear... I've gone with OSM, no evidence that `N820` is really signed.
+- `N813` (partially P1 on signs) and `N862` (partially P7 on signs) should exist according to OSM but not on GM nor GSV
+- `N905` should exist according to OSM and GM but not on GSV (`N80` towards `N80` and `N90` towards `N90` only)
+- `N917` should exist according to OSM but not on GM or GSV (GSV shows a `N947` sign, wikisara also calls it `N947a`)
 - `N931` is not signed west of A4 according to GSV and OSM. GM shows two routes
-- `N955` route is different on OSM/GM and not signed on GSV (not drafted)
-- `N902`, `N963` and `N998` should be signed according to OSM an GM but not on GSV
+
+NOT DRAFTED:
+- `N605`, `N628` should exist according to wegenwiki and wikisara but not indicated on any map
+- `N607a`, `N756`, `N764` and `N824` should exist according to GM but not on OSM nor GSV
+- `N611` should exist according to wegenwiki and wikisara but not indicacted on any map, I guess it was renumbered to `N676` which has different routes on OSM and GM
+- `N616` is signed concurrent on `N696` once
+- `N600`, `N603`, `N625`, `N662`, `N665`, `N731`, `N767`, `N794` and `N795` should exist according to wegenwiki but no info about location
+- `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM
+- `N858` and `N885` are unsigned even on signs with other road numbers, only indicated on OSM but not on GM nor GSV
+- `N732`, `N867`, `N869` and `N887` are not indicated on OSM, GM nor GSV
+- `N955` route is different on OSM/GM and not signed on GSV
