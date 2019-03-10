@@ -1,8 +1,8 @@
 systemName;route;banner;groupName;roots
 afrrtr;RTR05;;Bukavu, DRC;cod.rtr05buk
-afrrtr;RTR05;;Kinshasa, DRC;cod.rtr05
-afrrtr;RTR05;;Nambia - Botswana;nam.rtr05,zaf.rtr05
+afrrtr;RTR05;;DRC - South Africa;cod.rtr05,ago.rtr05,nam.rtr05,zaf.rtr05
 afrrtr;RTR06;;;zaf.rtr06
+afrrtr;RTR07;;;ago.rtr07
 afrrtr;RTR10;;Monga, DRC;cod.rtr10mon
 afrrtr;RTR10;;Bondo, DRC;cod.rtr10bon
 afrrtr;RTR10;;Buta, DRC;cod.rtr10but
@@ -13,7 +13,7 @@ afrrtr;RTR15;;;tza.rtr15,zmb.rtr15,zwe.rtr15,bwa.rtr15,zaf.rtr15
 afrrtr;RTR16;;;zaf.rtr16
 afrrtr;RTR17;;;tza.rtr17
 afrrtr;RTR19;;;zmb.rtr19,mwi.rtr19
-afrrtr;RTR20;;;zmb.rtr20,mwi.rtr20,moz.rtr20
+afrrtr;RTR20;;;ago.rtr20,zmb.rtr20,mwi.rtr20,moz.rtr20
 afrrtr;RTR21;;;zmb.rtr21,moz.rtr21
 afrrtr;RTR22;;;zmb.rtr22,zwe.rtr22
 afrrtr;RTR24;;;zwe.rtr24
@@ -22,7 +22,7 @@ afrrtr;RTR26;;;zwe.rtr26,moz.rtr26
 afrrtr;RTR27;;;moz.rtr27
 afrrtr;RTR28;;;moz.rtr28,mwi.rtr28
 afrrtr;RTR29;;;mwi.rtr29,moz.rtr29
-afrrtr;RTR30;;;nam.rtr30,bwa.rtr30,zwe.rtr30,moz.rtr30
+afrrtr;RTR30;;;ago.rtr30,nam.rtr30,bwa.rtr30,zwe.rtr30,moz.rtr30
 afrrtr;RTR31;;;tza.rtr31
 afrrtr;RTR32;;;nam.rtr32
 afrrtr;RTR34;;;bwa.rtr34
@@ -33,11 +33,12 @@ afrrtr;RTR46;;;cod.rtr46
 afrrtr;RTR50;;;nam.rtr50,zaf.rtr50,lso.rtr50
 afrrtr;RTR100;;Gemena;cod.rtr100gem
 afrrtr;RTR100;;Buta;cod.rtr100
-afrrtr;RTR101;;;cod.rtr101
-afrrtr;RTR102;;;cod.rtr102
-afrrtr;RTR103;;;cod.rtr103
-afrrtr;RTR104;;;cod.rtr104
-afrrtr;RTR105;;;zmb.rtr105
+afrrtr;RTR101;;DRC;cod.rtr101
+afrrtr;RTR101;;Angola;ago.rtr101
+afrrtr;RTR102;;;cod.rtr102,ago.rtr102
+afrrtr;RTR103;;;cod.rtr103,ago.rtr103
+afrrtr;RTR104;;;ago.rtr104,cod.rtr104
+afrrtr;RTR105;;;zmb.rtr105,ago.rtr105
 afrrtr;RTR105A;;Lubunga, DRC;cod.rtr105alub
 afrrtr;RTR105A;;Yaleko, DRC;cod.rtr105ayal
 afrrtr;RTR105A;;Ikela, DRC;cod.rtr105aike
@@ -55,8 +56,12 @@ afrrtr;RTR121;;;tza.rtr121
 afrrtr;RTR122;;;tza.rtr122
 afrrtr;RTR123;;;mwi.rtr123
 afrrtr;RTR131;;;tza.rtr131
+afrrtr;RTR201;;;ago.rtr201
+afrrtr;RTR202;;Bundas, Angola;ago.rtr202
+afrrtr;RTR202;;Mainha, Angola;ago.rtr202mai
+afrrtr;RTR202;;Mucusso, Angola;ago.rtr202muc
 afrrtr;RTR203;;;cod.rtr203
-afrrtr;RTR204;;;cod.rtr204
+afrrtr;RTR204;;;ago.rtr204,cod.rtr204
 afrrtr;RTR214;;;mwi.rtr214,moz.rtr214
 afrrtr;RTR215;;;mwi.rtr215
 afrrtr;RTR301;;;nam.rtr301
@@ -64,6 +69,7 @@ afrrtr;RTR302;;;nam.rtr302
 afrrtr;RTR303;;;nam.rtr303,zmb.rtr303
 afrrtr;RTR307;;;zmb.rtr307
 afrrtr;RTR311;;;zwe.rtr311
+afrrtr;RTR312;;;zwe.rtr312
 afrrtr;RTR321;;;zwe.rtr321
 afrrtr;RTR322;;;zaf.rtr322
 afrrtr;RTR323;;;zwe.rtr323
