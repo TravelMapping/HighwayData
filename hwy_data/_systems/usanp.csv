@@ -1,4 +1,4 @@
-﻿systemName;region;route;banner;abbrev;city;root;altRouteNames
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 usanp;ME;CadSumRd;;;Cadillac Summit Road, Acadia NP;me.cadsumrd;
 usanp;ME;ParHillRd;;;Paradise Hill Road, Acadia NP;me.parhillrd;
 usanp;ME;ParkLpRd;;;Park Loop Road, Acadia NP;me.parklprd;
@@ -59,7 +59,7 @@ usanp;FL;MainParkRd;;;Main Park Road, Everglades NP;fl.mainparkrd;
 usanp;VA;GWMemPkwy;;MtV;George Washington Memorial Parkway (Mount Vernon);va.gwmempkwymtv;
 usanp;VA;GWMemPkwy;;Cry;George Washington Memorial Parkway (Crystal City);va.gwmempkwycry;
 usanp;DC;GWMemPkwy;;;George Washington Memorial Parkway;dc.gwmempkwy;
-usanp;VA;GWMemPkwy;;;George Washington Memorial Parkway (Langley);va.gwmempkwy;
+usanp;VA;GWMemPkwy;;;George Washington Memorial Parkway (Langley);va.gwmempkwy;GeoWasPkwy
 usanp;MT;GoiSunRd;;;Going-to-the-Sun Rd, Glacier NP;mt.goisunrd;
 usanp;MT;TwoMedRd;;;Two Medicine Road, Glacier NP;mt.twomedrd;
 usanp;NV;EntRd;;;Entrance Road, Great Basin NP;nv.entrd;
@@ -81,7 +81,7 @@ usanp;NC;HeiRidRd;;;Heintooga Ridge Road, Great Smoky Mountains NP;nc.henridrd;
 usanp;TN;LauCreRd;;;Laurel Creek Road, Great Smoky Mountains NP;tn.laucrerd;
 usanp;TN;LitRivGorRd;;;Little River Gorge Road, Gt Smoky Mtns NP;tn.litrivgorrd;
 usanp;TN;TowEntRd;;;Townsend Entrance Road, Gt Smoky Mtns NP;tn.towentrd;
-usanp;HI;CraRd;;;Crater Road, Haleakalā NP;hi.crard;
+usanp;HI;CraRd;;;Crater Road, Haleakal? NP;hi.crard;
 usanp;HI;ChaCraRd;;;Chain of Craters Road, Hawai'i Volcanoes NP;hi.chacrard;
 usanp;HI;CraRimDr;;;Crater Rim Drive, Hawai'i Volcanoes NP;hi.crarimdr;
 usanp;WY;RocMemPkwy;;;John D. Rockefeller Jr. Memorial Parkway;wy.rocmempkwy;
@@ -132,7 +132,7 @@ usanp;WY;EEntRd;;;East Entrance Road, Yellowstone NP;wy.eentrd;
 usanp;WY;GraLpRd;;;Grand Loop Road, Yellowstone NP;wy.gralprd;
 usanp;WY;NorCynRd;;;Norris Canyon Road, Yellowstone NP;wy.norcynrd;
 usanp;WY;NEntRd;;;North Entrance Road, Yellowstone NP;wy.nentrd;
-usanp;MT;NEntRd;;;North Entrance Road, Yellowstone NP;mt.nentrd;
+usanp;MT;NEntRd;;;North Entrance Road, Yellowstone NP;mt.nentrd;US212Yel,US212_W
 usanp;WY;NEEntRd;;;Northeast Entrance Road, Yellowstone NP;wy.neentrd;
 usanp;MT;NEEntRd;;;Northeast Entrance Road, Yellowstone NP;mt.neentrd;
 usanp;WY;SEntRd;;;South Entrance Road, Yellowstone NP;wy.sentrd;
@@ -145,3 +145,5 @@ usanp;CA;WawRd;;;Wawona Road, Yosemite NP;ca.wawrd;
 usanp;UT;KolCynRd;;;Kolob Canyons Road, Zion NP;ut.kolcynrd;
 usanp;UT;KolTerRd;;;Kolob Terrace Road, Zion NP;ut.kolterrd;
 usanp;UT;ZionCynDr;;;Zion Canyon Scenic Drive, Zion NP;ut.zioncyndr;
+usanp;AK;McCarRd;;;McCarthy Road, Wrangell-St. Elias NP;ak.mccarrd;
+usanp;AK;NabRd;;;Nabesna Road, Wrangell-St. Elias NP;ak.nabrd;
