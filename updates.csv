@@ -2613,6 +2613,9 @@
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2019-03-22;(USA) North Carolina;US 17 Business (Maysville);nc.us017busmay;New route
+2019-03-22;(USA) North Carolina;US 17;nc.us017;Routed onto new bypass of Maysville and partial new bypass of Pollocksville.  Note that this is new routing btw US17BusMay_S and NC 58_S and also btw LeesChaRd and MainSt, was NC 58 prior to these changes.  Old route through Maysville is now US 17 Business and old route through Pollocksville is no longer primary
+2019-03-22;(USA) North Carolina;NC58;nc.nc058;Routed onto new bypass of Pollocksville.  Note that this is new routing btw US17_N and LeesChaRd.  The old route includes new US 17 route btw NC58_N and MainSt
 2019-02-03;(USA) North Carolina;NC 140;;deleted - concurrent I-140 remains
 2019-02-03;(USA) North Carolina;I-140;nc.i140;extended east of I-40 replacing part of US 17
 2019-02-03;(USA) North Carolina;US 17;nc.us017;rerouted through Wilmington: points between US421_N and NC140 are the new routing which follows US 76, new routing, former US 17 Bus
@@ -2983,6 +2986,9 @@
 2018-12-08;(USA) Virgin Islands;VI 379;;Route extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2019-03-22;(USA) Virginia;VA 357;va.357;decommissioned
+2019-03-22;(USA) Virginia;VA 357Eas;va.357eas;decommissioned
+2019-03-22;(USA) Virginia;VA 37;va.037;extended to new endpoint at SR 642
 2019-02-03;(USA) Virginia;VA 237;va.va237;east truncated to VA 120
 2019-01-06;(USA) Virginia;George Washington Parkway;va.gwmempkwy;Route deleted (replaced by usanp version)
 2018-06-23;(USA) Virginia;VA 358;va.va358;Extended to actual endpoint
