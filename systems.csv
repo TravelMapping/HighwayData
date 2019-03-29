@@ -75,7 +75,6 @@ frht;FRA;Corsica Routes Territoriales;lightsalmon;4;active
 gufn;FRA;French Guiana Routes Nationales;lightsalmon;4;active
 pyft;FRA;French Polynesia Routes Territoriales;lightsalmon;4;active
 glpn;FRA;Guadeloupe Routes Nationales;lightsalmon;4;active
-hunf;HUN;Hungary Főútjai;lightsalmon;4;active
 mtqn;FRA;Martinique Routes Nationales;lightsalmon;4;active
 mytn;FRA;Mayotte Routes Nationales;lightsalmon;4;active
 nclt;FRA;New Caledonia Routes Territoriales;lightsalmon;4;active
@@ -96,6 +95,7 @@ hkgrt;CHN;Hong Kong Routes;teal;2;active
 hrva;HRV;Croatia Autocesta;blue;1;active
 hrvd;HRV;Croatia Državne Ceste;lightsalmon;4;active
 hunm;HUN;Hungary Autópálya;blue;1;active
+hunf;HUN;Hungary Főútjai;lightsalmon;4;active
 idnjt;IDN;Indonesia Jalan Tol;blue;1;active
 imna;IMN;Isle of Man A Roads;lightsalmon;4;active
 irlm;IRL;Ireland Motorways;blue;1;active
@@ -341,6 +341,30 @@ cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 codn;COD;DRC Routes Nationale;green;4;devel
 #ecue;ECU;Ecuador Primerias Red Vial Estatal;green;4;devel
 #espga;ESP;Galicia Red Primaria Básica;yellow;5;devel
+#fraarad;FRA;Auvergne-Rhône-Alpes Routes Départementales;yellow;5;devel
+#frabfcd;FRA;Bourgogne-Franche-Comté Routes Départementales;yellow;5;devel
+#frabred;FRA;Bretagne Routes Départementales;yellow;5;devel
+#fracvld;FRA;Centre-Val de Loire Routes Départementales;yellow;5;devel
+#fragesd;FRA;Grand-Est Routes Départementales;yellow;5;devel
+#frahdfd;FRA;Hauts-de-France Routes Départementales;yellow;5;devel
+#fraidfd;FRA;Île-de-France Routes Départementales;yellow;5;devel
+#franord;FRA;Normandie Routes Départementales;yellow;5;devel
+#franaqd;FRA;Nouvelle-Aquitaine Routes Départementales;yellow;5;devel
+#fraoccd;FRA;Occitanie Routes Départementales;yellow;5;devel
+#frapdld;FRA;Pays-de-la-Loire Routes Départementales;yellow;5;devel
+#frapacd;FRA;Provence-Alpes-Côte-d’Azur Routes Départementales;yellow;5;devel
+#glpd;FRA;Guadaloupe Routes Départementales;yellow;5;devel
+#gufd;FRA;French Guiana Routes Départementales;yellow;5;devel
 #lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
+#mtqd;FRA;Martinique Routes Départementales;yellow;5;devel
+#mytd;FRA;Mayotte Routes Départementales;yellow;5;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
+#reud;FRA;Reunion Routes Départementales;yellow;5;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
+#Test Systems
+eurer;EUR;IGNORE TEST E Roads with French Regions;green;3;preview
+eursfr;EUR;IGNORE TEST Europe Freeways with French Regions;teal;2;preview
+eurtrr;EUR;IGNORE TEST Europe Tourist with French Regions;brown;5;preview
+fraar;FRA;IGNORE TEST France Autoroutes with Regions;blue;1;preview
+franr;FRA;IGNORE TEST France Routes Nationales with Regions;lightsalmon;4;preview
+fracort;FRA;IGNORE TEST Corsica Routes Territoriales with Regions;lightsalmon;4;preview
