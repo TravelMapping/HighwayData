@@ -495,22 +495,22 @@ F578	Done
 F586	Done
 F649	Done
 F734	Done
-F735
-F752
+F735  Done
+F752  Done
 F756	Done
-F821
-F839
-F881
+F821  Done
+F839  Done
+F881  Done
 F894	Done
-F899
-F902
-F903
-F905
-F909
+F899  Done
+F902  Done
+F903  Done
+F905  Done
+F909  Done
 F910	Done
-F923
-F936
-F946
-F959	Probably unsigned
-F980
-F985
+F923  Done
+F936  Done
+F946  Done
+F959	Unsigned (assumed)
+F980  Done
+F985  Done
