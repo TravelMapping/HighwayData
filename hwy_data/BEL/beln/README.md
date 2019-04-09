@@ -36,6 +36,7 @@
 - `N8` route through Ieper should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
 - `N23` is not signed according to wegenwiki and not on any map
 - `N24` is not signed according to wegenwiki and only indicated on GM
+- `N34g` should exist (not being signed) according to wegenwiki (length of just 200m) and wikisara but it's not indicated on GSV nor GM and OSM seems to indicate it wrong (not from N34 to the station but from the station to the north)
 - `N34y` and `N34z` should be signed according to wegenwiki and wikisara but they are one-way lanes only and not on any map; opposite direction is signed `N34`
 - Spa-Francorchamps Circuit bypass should be signed `N62c` according to OSM and GM but not on GSV, included to `N62`
 - `N95a` and `N95b` should be signed according to wegenwiki and OSM but they are one-way lanes only; opposite direction is signed `N95`
