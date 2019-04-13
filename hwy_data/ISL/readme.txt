@@ -1,6 +1,6 @@
 List of islth routes with notes:
 
-1	  Done. Will need to revise (along with any other affected routes) once Vaðlaheiðargöng opens.
+1	  Done. Revised 2019-02-08 to reflect Vaðlaheiðargöng opening.
 22	Unsigned (assumed)
 25	Done
 26	Done
@@ -15,7 +15,7 @@ List of islth routes with notes:
 38	Done
 39	Done
 40	Done
-41	Done. Vegagerdin Map shows ending at S40. However, is signed at Snorabraut. Federal style signage exists as far wast as Aegisgata - assumed to end there.
+41	Done. Vegagerdin Map shows ending at TH40. However, is signed at Snorabraut. Federal style signage exists as far wast as Aegisgata - assumed to end there.
 42	Done
 43	Done
 44	Done
@@ -53,7 +53,8 @@ List of islth routes with notes:
 92	Done
 93	Done. According to Vegagerdin Map, follows Ranargata, Fjardargata, and Oldugata/Lonsleira forming 3/4 of a loop around the west/north of downtown Seydisfjordur. Signage in the field guides vehicles exiting the ferry terminal/customs house to turn left on Lonsleira and then right on Austurvegur to follow route 93, with no indication of route 93 heading in the other direction from the ferry terminal. Route is plotted to follow field signage rather than Vegagerdin map.
 94	Done
-96	Done
+95  Added 2017-11-14 as a result of TH1 reroute (new designation)
+96	Done. Deleted 2017-11-14 as a result of TH1 reroute.
 97	Done
 98	Done
 99	Done
@@ -66,7 +67,7 @@ List of islth routes with notes:
 208sva	Done
 208	Done
 209	Done
-210	Done
+210	Donehttps://www.youtube.com/channel/UC2A0ucPGn9DirZ4lUEGiYYQ
 211	Done
 212	Done
 214	Done
@@ -148,7 +149,7 @@ List of islth routes with notes:
 364	Done. Unnumbered on Vegagerdin map, assumed to end at last fork in road.
 365	Done
 366	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
-367 	Done
+367 Done
 374	Done
 375	Done. Unnumbered on Vegagerdin map, assumed to end where map shows federal maintenance ending.
 376	Unsigned
@@ -230,7 +231,7 @@ List of islth routes with notes:
 570	Done
 572	Done
 573	Unsigned
-574	Done
+574	Donehttps://www.youtube.com/channel/UC2A0ucPGn9DirZ4lUEGiYYQ
 576	Done. Signed from 54, unnumbered on Vegagerdin map. Assumed to end where Vegagerdin map shows federal maintenance ending.
 577	Done
 578ske	Done(Skeljaháls)
@@ -252,7 +253,7 @@ List of islth routes with notes:
 610	Unsigned
 612	Done
 614	Unsigned (https://www.youtube.com/watch?v=jBgl-6-Qq4w&list=PLqhmrnMAqnkbiK9jnS0oJdnVPgdrcuaNo&index=5)
-615	Confirmed signed 1/1/18 - added (https://www.youtube.com/watch?v=jBgl-6-Qq4w&list=PLqhmrnMAqnkbiK9jnS0oJdnVPgdrcuaNo&index=5)
+615	Confirmed signed 2018-01-01 - added (https://www.youtube.com/watch?v=jBgl-6-Qq4w&list=PLqhmrnMAqnkbiK9jnS0oJdnVPgdrcuaNo&index=5)
 617	Done
 619	Done
 620	Unsigned
@@ -262,7 +263,7 @@ List of islth routes with notes:
 624	Done
 625	Done
 627	Unsigned
-629 	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
+629 Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 630	Done
 631	Unsigned
 632	Done. Signed from 61, unnumbered on Vegagerdin map. Assumed to end at what OSM shows as end of road.
@@ -298,6 +299,7 @@ List of islth routes with notes:
 726	Done
 727	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 731	Done
+732 Mentioned on diagrammatic sign (https://commons.wikimedia.org/wiki/File:Iceland_4721.JPG) but not on Vegagerdin map and appears to be just a driveway. Omitted, will add if signage at junction is confirmed.
 733	Confirmed signed 2/4/18 - added (https://commons.wikimedia.org/wiki/File:Iceland_4721.JPG)
 734	Done. Shown by Vegagerdin map and OSM as converting to F734 at bridge over Strangakvisl. However, there are several unbridged streams north of this point, which are charactaristic of F-roads. Also, there is a 4-way junction with 756 north of this point, which while it is marked on Vegagerdin map as 756 is known to be signed from 35 as F756. 734 is therefore assumed to convert to F734 at Fossar, where quality of road visibly downgrades and OSM changes the road class.
 735	Done
@@ -361,6 +363,7 @@ List of islth routes with notes:
 831	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
 832	Done
 833	Done. Vegagerdin map shows ending at 836, however is signed in field past this point. Assumed to end at Illugastadir (the southbound control city).
+834 Done - added 2019-02-08, was missed in initial system drafting
 835	Done
 836	Done
 837	Unsigned
@@ -427,6 +430,7 @@ List of islth routes with notes:
 941	Done
 944	Done
 946	Done
+950 Added 2017-11-14, section of former TH92
 951	Unsigned and unnumbered on Vegagerdin Map
 952	Unsigned
 953	Done
@@ -440,7 +444,7 @@ List of islth routes with notes:
 982	Done
 983	Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 984	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
-986	Done - added 2/4/18, was missed in initial system drafting
+986	Done - added 2018-02-04, was missed in initial system drafting
 998	Unsigned
 5317	Done
 
@@ -491,22 +495,22 @@ F578	Done
 F586	Done
 F649	Done
 F734	Done
-F735
-F752
+F735  Done
+F752  Done
 F756	Done
-F821
-F839
-F881
+F821  Done
+F839  Done
+F881  Done
 F894	Done
-F899
-F902
-F903
-F905
-F909
+F899  Done
+F902  Done
+F903  Done
+F905  Done
+F909  Done
 F910	Done
-F923
-F936
-F946
-F959	Probably unsigned
-F980
-F985
+F923  Done
+F936  Done
+F946  Done
+F959	Unsigned (assumed)
+F980  Done
+F985  Done
