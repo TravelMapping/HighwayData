@@ -454,6 +454,11 @@
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2019-04-13;(Germany) Baden-Württemberg;B463 (Calw);deubw.b463;Route truncated at north end from A8 to B10/B294, relocated from B10/B294 to L1135 from through Pforzheim and onto Jahnstraße/Göthestraße
+2019-04-13;(Germany) Baden-Württemberg;B463 (Pforzheim);deubw.b463pfo;New route
+2019-04-13;(Germany) Baden-Württemberg;L1135;deubw.l1135;Route extended at west end from Kreuzstraße (old B463) to Janstraße (new B463)
+2019-04-10;(Germany) Baden-Württemberg;L532 (Mauer);;Route deleted
+2019-04-10;(Germany) Baden-Württemberg;L547;deubw.l0547;Route truncated at east end from former L532 in Mauer to B45
 2018-12-09;(Germany) Baden-Württemberg;B36 (Mannheim);deubw.b036man;Route relocated from through Neckarau and onto Ludwigshafener Straße and former B38a
 2018-12-09;(Germany) Baden-Württemberg;B38a;deubw.b038a;Route truncated at south end from Ludwigshafener Straße to B36 Casterfeldstraße (now B36)
 2018-11-25;(Germany) Baden-Württemberg;B30 (Ravensburg);deubw.b030rav;New Route
@@ -465,6 +470,8 @@
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2019-04-06;(Germany) Bavaria;B15;deuby.b015;Route truncted at north end from A93 Ponholz exit to B16 Regensburg (now St2397)
+2019-04-06;(Germany) Bavaria;St2397;deuby.st2397;Route extended at south end from A93 Ponholz exit to B16 Regensburg (former B15)
 2018-12-19;(Germany) Bavaria;Zubringer Flughafen München;deuby.zubflumun;New Route (former St2584)
 2018-11-24;(Germany) Bavaria;B15 (Landshut);deuby.b015;Route truncated at south end from A8 to St2080 at Pfaffenhofen
 2018-11-24;(Germany) Bavaria;B15 (Rosenheim North);deuby.b015ron;New route
@@ -489,6 +496,7 @@
 2018-01-14;(Germany) Bremen;Autobahnzubringer Bremen-Arsten;deuhb.autzubars;New Route
 2016-09-04;(Germany) Bremen;Autobahnzubringer Bremen-Hemelingen;deuhb.autzubhem;New Route
 2015-09-10;(Germany) Bremen;A281;deuhb.a281;Route extended at north end from exit 4 to exit 3
+2019-04-06;(Germany) Hesse;B27;deuhe.b027;Route removed from through Marzhausen (now L3238) and onto road to A38 exit Friedland
 2018-12-19;(Germany) Hesse;B44;deuhe.b044;Route removed from through Klein-Rohrheim and onto bypass from K203 to roundabout north of Groß-Rohrheim
 2018-10-14;(Germany) Hesse;A671;deuhe.a671;Route truncated at north end from exit 1 to exit 2 (B263 now)
 2018-08-22;(Germany) Hesse;E44;deuhe.e44;Route relocated from through Heckholzhausen and onto new B49 bypass between Heckholzhausen-West and Heckholzhausen-East
@@ -499,6 +507,10 @@
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2019-04-06;(Germany) Lower Saxony;B27 (Friedland);;Route deleted (L569, L564 or L568 now)
+2019-04-06;(Germany) Lower Saxony;L564;deuni.l564;Route extended at north end from L568 (former B27) to L569
+2019-04-06;(Germany) Lower Saxony;L568;deuni.l568;Route extended at west end from L564 (former B27) to Hesse border
+2019-04-06;(Germany) Lower Saxony;L569;deuni.l569;Route extended at west end from L564 (former B27) to B3
 2018-12-31;(Germany) Lower Saxony;A36;deuni.a036;New Route (former A395/B6)
 2018-12-31;(Germany) Lower Saxony;A369;deuni.a369;New Route (former B6)
 2018-12-31;(Germany) Lower Saxony;A395;deuni.a036;Route deleted (A36 now)
@@ -510,6 +522,7 @@
 2016-08-08;(Germany) Lower Saxony;Nordtangente Oldenburg;deuni.nordtanold;New Route
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route extended at east end from exit 5 to exit 6
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route relabeled exit 1 as exit 2, and exit 2 as exit 3
+2019-04-06;(Germany) Mecklenburg-Western Pomerania;B191 (Plau am See);;Route deleted
 2017-12-20;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 9 to the Brandenburg border
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
@@ -557,6 +570,7 @@
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2019-04-06;(Germany) Rhineland-Palatinate;B271 (Kirchheim);;Route deleted
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Main);deurp.b271;Route relocated from through Kirchheim and onto bypass
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Kirchheim);deurp.b271kir;Route relocated from northern section of the bypass and through Kirchheim
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
@@ -577,6 +591,7 @@
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
+2019-04-06;(Germany) Saxony-Anhalt;B180;deust.b180;Route truncated at north end from B246 Wanzleben to B81 Egeln
 2018-12-31;(Germany) Saxony-Anhalt;A36;deust.a036;New Route (former B6)
 2018-12-31;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from border to Lower Saxony to A14 junction (A36 now)
 2018-12-19;(Germany) Saxony-Anhalt;B79;deust.b079;Route removed from through Harsleben and onto the bypass
@@ -1127,6 +1142,12 @@
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2019-04-13;Poland;S61;pol.s061;Route extended at north end from exit 17 to exit 19
+2019-04-13;Poland;E67;pol.e67;Route removed from DK8 and relocated onto S61 between S61 exits 17 and 19
+2019-04-08;Poland;S6 (Nowogard);pol.s006now;Route extended at east end from Ulica 3 Maja to A6
+2019-04-08;Poland;E28;pol.e28;Route removed from former DK6 and relocated onto S6 between S3_N and Ulica 3 Maja
+2019-04-08;Poland;DK3 (Jelenia Gora);pol.dk003jel;Route truncated at north end from A4_W to DW323 and extended at north end from DW323 to S3
+2019-04-08;Poland;DK6 (Goleniow);pol.s006now;Route deleted
 2019-02-02;Poland;S16 (Olsztyn);pol.s016ols;New Route
 2019-02-02;Poland;S51 (Olsztyn);pol.s051ols;New Route
 2018-12-30;Poland;S5 (Poznan);pol.s005poz;Route extended at south end from exit 35 to exit 38
@@ -1366,7 +1387,10 @@
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
-2019-03-22;Romania;DN4;rou.dn004;Route extenden at south end from DN41 to the Port of Oltenita (End)
+2019-04-14;Romania;DN1T;rou.dn01t;New Route
+2019-04-14;Romania;DN7H;rou.dn07h;Route renamed (former DN1T)
+2019-04-13;Romania;DN1A;rou.dn01a;Route moved from through Sacele on the Sacele Bypass
+2019-03-22;Romania;DN4;rou.dn004;Route extended at south end from DN41 to the Port of Oltenita (End)
 2019-03-22;Romania;E85;rou.e85;Different route through Suceava (moved from Calea Obcinelor + Str. Poligonului to Blvd. 1 Mai + Calea Unirii + Str. Traian Vuia)
 2019-03-22;Romania;DN2;rou.dn002;Different route through Suceava (moved from Calea Obcinelor + Str. Poligonului to Blvd. 1 Mai + Calea Unirii + Str. Traian Vuia)
 2018-12-16;Romania;A3 (Iernut);rou.a003ier;New Route
@@ -1509,6 +1533,7 @@
 2018-01-03;(Spain) Asturias;A63;espas.a063;Route extended at west end from exit 27 to exit 30
 2019-02-29;(Spain) Basque Country;A636;esppv.a636;New Route
 2019-02-29;(Spain) Basque Country;GI632;esppv.a636;Route renumbered A636
+2019-04-10;(Spain) Castile and Leon;A11 (Burgo de Osma);espcl.a011bur;Route extended at east end from exit 211 to exit 203
 2018-07-18;(Spain) Castile and Leon;A60 (Villarente);espcl.a060;Route extended at south end from exit 123 to exit 103
 2018-11-04;(Spain) Castille-le-Manche;N344;espcm.n344;Route truncated at north end from A35 to A31
 2017-10-11;(Spain) Castille-le-Manche;TO21;espcm.to021;Route extended at east end from southern junction with N403 to A42
@@ -1518,6 +1543,7 @@
 2017-10-18;(Spain) La Rioja;A12;espri.a012;Route extended at east end from exit 94 (formerly exit 8) to Navarre border
 2017-10-18;(Spain) La Rioja;A12 (Lograno);espri.a012;Route merged into main route
 2017-10-06;(Spain) Region of Murcia;A33;espmc.a033;Route extended at north end from N344 to RM424
+2018-07-27;(Spain) Valencian Community;A33;espvc.a033;Route extended at south end from exit 82 to A31
 2018-07-27;(Spain) Valencian Community;A33;espvc.a033;Route extended at south end from exit 86 to exit 82
 2018-05-15;(Spain) Valencian Community;N344;espvc.n344;New Route
 2017-10-06;(Spain) Valencian Community;A33;espvc.a033;Route extended at north end from exit 89 to exit 90
@@ -1794,6 +1820,7 @@
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2019-04-07;Turkey;O7;tur.o007;Extended at east end from 21 to O4/O5.
 2019-03-19;Turkey;O5 (Balikesir);tur.o005bal;New Route (opened between exits 13 and 14))
 2019-03-18;Turkey;O5 (Akhisar branch);tur.o005akh;New Route (O5 Branch to the city of Akhisar)
 2019-03-18;Turkey;O5 (Anadolu Lisesi);tur.o005ana;Route extended at north end from D565 to O5Akh
@@ -2075,6 +2102,7 @@
 2016-07-30;(USA) Alabama;US 82;al.us082;Removed from AL 25 and AL 382 and relocated onto the northeastern Centreville bypass between AL 25 North and CR 20
 2016-07-30;(USA) Alabama;US 84 Business (Opp);;Route deleted
 2016-04-17;(USA) Alabama;US 431;al.us431;Relocated onto the Anniston Eastern Bypass and a 3-mile leg of I-20
+2019-04-09;(USA) Alaska;AK 10 (Childs Glacier);;Route deleted
 2018-12-26;(USA) Alaska;Walter J. Hickel Parkway;ak.hicpkwy;Route added (includes parts of Minnesota Dr. and O'Malley Rd. in Anchorage)
 2019-03-04;(USA) Alaska;McCarthy Road;ak.mccarrd;Route added in Wrangell-St. Elias NP
 2019-03-04;(USA) Alaska;Nabesna Road;ak.nabrd;Route added in Wrangell-St. Elias NP
@@ -2260,6 +2288,18 @@
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2019-04-14;(USA) Kentucky;KY 7;ky.ky0007;Corrected between KY557 and KY3353 to reflect realignment completed circa 2005
+2019-04-14;(USA) Kentucky;KY 32;ky.ky0032;Corrected between KY557 and KY7_N to reflect realignment completed circa 2005
+2019-04-14;(USA) Kentucky;KY 409;ky.ky0409;Corrected KY7 junction to reflect realignment completed circa 2005
+2019-04-14;(USA) Kentucky;KY 504;ky.ky0504;Corrected KY7 junction to reflect realignment completed circa 2005
+2019-04-14;(USA) Kentucky;KY 706;ky.ky0706;Corrected KY7 junction to reflect realignment completed circa 2005
+2019-04-14;(USA) Kentucky;KY 885;ky.ky0885;Corrected KY7 junction to reflect realignment completed circa 2005
+2019-04-14;(USA) Kentucky;KY 3353;ky.ky3353;Corrected KY7 junction to reflect realignment completed circa 2005
+2019-04-14;(USA) Kentucky;KY 32;ky.ky0032;Removed from old alignment and relocated onto new parallel alignment between TownHillRd and KY2565_S
+2019-04-14;(USA) Kentucky;KY 2503;ky.ky2503;Route added
+2019-04-14;(USA) Kentucky;KY 2506;ky.ky2506;Route added
+2019-04-14;(USA) Kentucky;KY 2507;ky.ky2507;Route added
+2019-04-14;(USA) Kentucky;KY 2508;ky.ky2508;Route added
 2019-03-23;(USA) Kentucky;KY 1021;ky.ky1021;Split at permanently closed bridge 700m N of KY 10
 2019-03-23;(USA) Kentucky;KY 1021 (Quincy);ky.ky1021qui;Route added
 2019-03-23;(USA) Kentucky;KY 3113;ky.ky3113;Route added
@@ -2622,6 +2662,8 @@
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2019-04-05;(USA) North Carolina;NC 24 Business (Autryville);nc.nc024busaut;New route
+2019-04-05;(USA) North Carolina;NC 24 Business (Roseboro);nc.nc024busros;New route
 2019-03-22;(USA) North Carolina;US 17 Business (Maysville);nc.us017busmay;New route
 2019-03-22;(USA) North Carolina;US 17;nc.us017;Routed onto new bypass of Maysville and partial new bypass of Pollocksville.  Note that this is new routing btw US17BusMay_S and NC 58_S and also btw LeesChaRd and MainSt, was NC 58 prior to these changes.  Old route through Maysville is now US 17 Business and old route through Pollocksville is no longer primary
 2019-03-22;(USA) North Carolina;NC58;nc.nc058;Routed onto new bypass of Pollocksville.  Note that this is new routing btw US17_N and LeesChaRd.  The old route includes new US 17 route btw NC58_N and MainSt
@@ -2764,6 +2806,7 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2019-04-13;(USA) Pennsylvania;I-376;pa.i376;Truncated Route to Exit 85 where it defaults onto US 22.
 2019-03-22;(USA) Pennsylvania;PA 523;pa.pa523; Extended to Logan Place (LogPl) in Confluence along PA 281 based on signage.
 2019-03-18;(USA) Pennsylvania;PA 381;pa.pa381;Realigned route onto new alignment at intersection with US 40 (between points *OldPA381 and US40).  The PA381_S point on US 40 was also marked as closed with PA381_N becoming an alternate label for PA 381.
 2019-03-11;(USA) Pennsylvania;I-476;pa.i476;Extended to US 6 WB/US 11 to match mile-marker signage.
@@ -2996,6 +3039,7 @@
 2018-12-08;(USA) Virgin Islands;VI 379;;Route extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2019-04-08;(USA) Virginia;WV 161 (Bishop, VA);va.wv161bis;Added route.
 2019-03-22;(USA) Virginia;VA 357;;decommissioned
 2019-03-22;(USA) Virginia;VA 357Eas;;decommissioned
 2019-03-22;(USA) Virginia;VA 37;va.va037;extended to new endpoint at SR 642
@@ -3027,6 +3071,9 @@
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quary Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2019-04-09;(USA) West Virginia;WV 310;wv.wv310;Extended northward from US 250 across a new bridge to an intersection with US 19.
+2019-04-08;(USA) West Virginia;WV 161 (Bishop, WV);wv.wv161bis;Added route.
+2019-04-08;(USA) West Virginia;WV 161;wv.wv161;Route truncated at the Southern end to the West Virginia/Virginia border in the town of Bishop. Remaining route split off into 2 other separate files.
 2019-03-18;(USA) West Virginia;WV 115;wv.wv115;Route extended at the Southern end at the interchange with US 340 to WV 9 near the WV-MD border.
 2019-03-13;(USA) West Virginia;WV 98;wv.wv098;Removed from the former South Chestnut Street Bridge (demolished mid-2000's) in Clarksburg, and rerouted onto the replacement bridge to the south between US19 (US19_N) & Veterans Park (*OldWV98_E).
 2018-09-12;(USA) West Virginia;OH 833;wv.oh833;Added route
