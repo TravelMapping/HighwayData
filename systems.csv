@@ -103,6 +103,7 @@ irln;IRL;Ireland National Roads;lightsalmon;4;active
 irlr;IRL;Ireland Regional Roads;yellow;5;active
 irnf;IRN;Iran Freeways;blue;1;active
 islth;ISL;Iceland Þjóðvegir;lightsalmon;4;active
+islf;ISL;Iceland Fjallvegir;yellow;5;active
 isrf;ISR;Israel Freeways;blue;1;active
 isrh;ISR;Israel Highways;lightsalmon;4;active
 itaa;ITA;Italy Autostrada;blue;1;active
@@ -255,7 +256,6 @@ cansk;CAN;Saskatchewan Provincial Highways 1-399;brown;4;preview
 chng;CHN;China National Expressways;blue;1;preview
 cogn;COG;Congo Routes Nationales;green;4;preview
 comrn;COM;Comoros Routes Nationales;green;4;preview
-cyma;GBR;Cayman Island A Roads;brown;4;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
 deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;preview
 deurpl;DEU;Rhineland-Palatinate Landesstraßen;yellow;5;preview
@@ -278,10 +278,11 @@ espri;ESP;La Rioja Red Regional Básica;yellow;5;preview
 espvc;ESP;Valencian Community Red Básica;yellow;5;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;brown;5;preview
 gabn;GAB;Gabon Routes Nationales;green;4;preview
+cyma;GBR;Cayman Island A Roads;brown;4;preview
 gbnb;GBR;Great Britain B Roads;yellow;5;preview
+nirb;GBR;Northern Ireland B Roads;yellow;5;preview
 imnb;IMN;Isle of Man B Roads;yellow;5;preview
 index;IND;India National Expressways;blue;1;preview
-islf;ISL;Iceland Fjallvegir;yellow;5;preview
 itass;ITA;Italy Strade Statale;lightsalmon;4;preview
 jeyb;JEY;Jersey B Roads;yellow;5;preview
 jpne;JPN;Japan Expressways;blue;1;preview
@@ -294,7 +295,6 @@ musm;MUS;Mauritius Motorways;green;3;preview
 musa;MUS;Mauritius Primary Main Roads;lightsalmon;4;preview
 mwim;MWI;Malawi Main Roads;green;4;preview
 namb;NAM;Namibia Major Routes;green;4;preview
-nirb;GBR;Northern Ireland B Roads;yellow;5;preview
 nplh;NPL;Nepal Highways;lightsalmon;4;preview
 norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
 nzlsh;NZL;New Zealand State Highways;lightsalmon;4;preview
@@ -339,27 +339,32 @@ ausb;AUS;Australia B Roads;yellow;4;devel
 cannf;CAN;Canada Select Named Freeways;teal;3;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 codn;COD;DRC Routes Nationale;green;4;devel
+#cuba;CUB;Cuba Autopista;blue;1;devel
 #ecue;ECU;Ecuador Primerias Red Vial Estatal;green;4;devel
 #espga;ESP;Galicia Red Primaria Básica;yellow;5;devel
 #fraarad;FRA;Auvergne-Rhône-Alpes Routes Départementales;yellow;5;devel
 #frabfcd;FRA;Bourgogne-Franche-Comté Routes Départementales;yellow;5;devel
-#frabred;FRA;Bretagne Routes Départementales;yellow;5;devel
+#frabred;FRA;Brittany Routes Départementales;yellow;5;devel
+#fracord;FRA;Corsica Routes Départementales;yellow;5;devel
 #fracvld;FRA;Centre-Val de Loire Routes Départementales;yellow;5;devel
 #fragesd;FRA;Grand-Est Routes Départementales;yellow;5;devel
 #frahdfd;FRA;Hauts-de-France Routes Départementales;yellow;5;devel
 #fraidfd;FRA;Île-de-France Routes Départementales;yellow;5;devel
-#franord;FRA;Normandie Routes Départementales;yellow;5;devel
+#franord;FRA;Normandy Routes Départementales;yellow;5;devel
 #franaqd;FRA;Nouvelle-Aquitaine Routes Départementales;yellow;5;devel
 #fraoccd;FRA;Occitanie Routes Départementales;yellow;5;devel
 #frapdld;FRA;Pays-de-la-Loire Routes Départementales;yellow;5;devel
 #frapacd;FRA;Provence-Alpes-Côte-d’Azur Routes Départementales;yellow;5;devel
 glpd;FRA;Guadaloupe Routes Départementales;yellow;5;devel
 gufd;FRA;French Guiana Routes Départementales;yellow;5;devel
-#lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
-#mtqd;FRA;Martinique Routes Départementales;yellow;5;devel
+mtqd;FRA;Martinique Routes Départementales;yellow;5;devel
 mytd;FRA;Mayotte Routes Départementales;yellow;5;devel
+reud;FRA;Reunion Routes Départementales;yellow;5;devel
+#irqf;IRQ;Iraq Freeways
+#lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
+#jamb;JAM;Jamaica B Roads;yellow;5;devel
+#naca;NA;Central America Highways;red;2;devel
 ngae;NGA;Nigeria Expressways;blue;1;devel
-#reud;FRA;Reunion Routes Départementales;yellow;5;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
 usatxre;USA;Texas Recreation Roads;yellow;5;devel
 #Test Systems
