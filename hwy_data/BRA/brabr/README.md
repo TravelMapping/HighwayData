@@ -10,3 +10,5 @@ Brazil Rodovias Federais
 
 
 **NOTES TO ROUTES:**
+- Signed very bad, wp label names of brabr routes only if confirmed by OSM, GM (and wikipedia if data available)
+- Signed very bad, wp label names of non-brabr routes only according to OSM
