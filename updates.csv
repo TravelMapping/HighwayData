@@ -527,6 +527,9 @@
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
 2019-04-06;(Germany) Lower Saxony;B27 (Friedland);;Route deleted (L569, L564 or L568 now)
+2019-06-20;(Germany) Lower Saxony;A33;deuni.a033;Route extended at north end from south of exit 6 to exit 5
+2019-06-20;(Germany) Lower Saxony;B51 (Bohmte);deuni.b051boh;Route relocated from through Belm and onto new bypass from L87 to new A33 end
+2019-06-20;(Germany) Lower Saxony;B51a;deuni.b051a;New Route (Belm through road)
 2019-04-06;(Germany) Lower Saxony;L564;deuni.l564;Route extended at north end from L568 (former B27) to L569
 2019-04-06;(Germany) Lower Saxony;L568;deuni.l568;Route extended at west end from L564 (former B27) to Hesse border
 2019-04-06;(Germany) Lower Saxony;L569;deuni.l569;Route extended at west end from L564 (former B27) to B3
@@ -709,6 +712,7 @@
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2019-06-23;Hungary;F448;hun.f448;New Route
 2018-12-23;Hungary;M4;hun.m004;New Route
 2018-12-23;Hungary;M35;hun.m035;Route extended at south end from exit 49 to M4
 2018-12-23;Hungary;E79;hun.e79;Route removed from F481/F47 and onto M35/M4 from Debrecen to Berettyóújfalu
@@ -2304,6 +2308,7 @@
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2019-06-23;(USA) Illinois;BL I-55 (Springfield);il.i055blspr;Relocated from one-way pair on Spruce/Myrtle streets and then 9th Street between Myrtle and Cook streets and relocated onto one-way pair of 5th/6th streets and Lawrence Avenue/Cook Street between same points
 2018-09-15;(USA) Illinois;I-294;il.i294;Relabeled 7->8 and 8->9
 2018-09-10;(USA) Illinois;IL 83;il.i083;Removed from Cal Sag Road between 127th Street and IL 50 and moved onto 127th Street and IL 50
 2018-09-10;(USA) Illinois;IL 50;il.il050;Moved IL83_N to 127th Street (old point now CalSagRd)
@@ -2558,6 +2563,7 @@
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2019-06-18;(USA) Maryland;MD 206;md.md206;Added route
 2019-05-22;(USA) Maryland;MD 639;md.md639;Added route
 2019-02-10;(USA) Maryland;MD 7 (Elkton);md.md007elk;Truncated at west end from MD213 to South Street
 2019-02-10;(USA) Maryland;MD 874;;Deleted route
@@ -2571,6 +2577,12 @@
 2017-06-09;(USA) Maryland;MD 351;;Deleted route
 2016-04-24;(USA) Maryland;MD 717;md.md717;Added route
 2015-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
+2019-06-23;(USA) Massachusetts;MA 38;ma.ma038;Removed from Main St and relocated onto Washington St and Skilling Rd, between Mount Pleasant St and Lake St in Winchester.
+2019-06-23;(USA) Massachusetts;MA 28;ma.ma028;Swapped positions of waypoint labels MA3_N and MA3_S.
+2019-06-22;(USA) Massachusetts;Soldiers Field Rd;ma.solfierd;Added route.
+2019-06-22;(USA) Massachusetts;Storrow Drive;ma.stodr;Added route.
+2019-06-22;(USA) Massachusetts;US 6;ma.us006;Waypoint MA105 moved from Spring St to Front St.
+2019-06-22;(USA) Massachusetts;MA 105;ma.ma105;South end removed from Spring St between Front St and US 6, and relocated onto Front St between Spring St and US 6.
 2018-07-25;(USA) Massachusetts;MA 116;ma.ma116;Waypoint MA141_E moved from Grattan St (now labeled GraSt) to Meadow St
 2018-07-25;(USA) Massachusetts;MA 141;ma.ma141;Removed from Grattan St between Meadow St and MA 116, and relocated onto Meadow St between Grattan St and MA 116
 2017-10-20;(USA) Massachusetts;MA 28;ma.ma028;Waypoint MA113 moved from Osgood St (now labeled OsgSt) to Hampshire St
@@ -2638,6 +2650,10 @@
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2019-06-23;(USA) Missouri;US 67 Business (Fredericktown);mo.us067busfre;Relocated south end from Route A at Cherokee Pass to US 67 interchange with Route E, removed segment along Murry Mill Road
+2019-06-23;(USA) Missouri;US 67 Business (Cherokee Point);mo.us067busche;Route added
+2019-06-23;(USA) Missouri;US 65 Business (Carrollton);;Route deleted
+2019-06-23;(USA) Missouri;US 65 Business (Trenton);;Route deleted
 2019-06-02;(USA) Missouri;US 65 Business (Branson);mo.us065busbra;Removed from Veterans Boulevard/Branson Landing Boulevard between MO 76 and MO248 and rerouted onto MO 76 between Veterans Boulevard and US 65
 2019-06-02;(USA) Missouri;MO 32 Business (Park Hills);mo.mo032buspar;Created route
 2019-06-02;(USA) Missouri;MO 165;mo.mo165;Removed segment between south junction MO 265 and US 65 (is now Taney County Road 105)
@@ -3049,8 +3065,9 @@
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2019-06-23;(USA) Tennessee;US 64 Bypass (Cleveland);tn.us064bypcle;Route extended at west end to I-75
 2019-01-01;(USA) Tennessee;TN 88 Truck (Bells);tn.tn088trkbel;Route added
-2018-11-04;(USA) Tennessee;I-269 Fut (Memphis);tn.i269futmem;truncated at south end from Exit 2 (TN 385) to Exit 19 (I-40)
+2018-11-04;(USA) Tennessee;I-269 Future (Memphis);tn.i269futmem;truncated at south end from Exit 2 (TN 385) to Exit 19 (I-40)
 2018-11-04;(USA) Tennessee;I-269;tn.i269;extended at north end from Exit 2 (TN 385) to Exit 19 (I-40)
 2018-04-01;(USA) Tennessee;TN 174;tn.tn174;extended at east end from TN 25 to Kentucky state line
 2018-04-01;(USA) Tennessee;TN 386;tn.tn386;extended at east end from TN 109 to TN 174
@@ -3079,6 +3096,7 @@
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2019-06-22;(USA) Texas;US 90;tx.us090;Reverted changes made 2017-06-11 that are still not signed: Removed from I-10 between exits 851 and 855, and relocated back onto College, Pearl, Park, and Willow Streets.
 2019-06-13;(USA) Texas;US 271 Business (Pittsburg);tx.us271buspit;Added route. Renamed from TX Loop 238.
 2019-06-13;(USA) Texas;TX 15;tx.tx015;West end removed from Main St between US 54 and Pearl St, and extended westward from Pearl St to US 287.
 2019-06-13;(USA) Texas;TX Loop 238;;Deleted route. Renamed to US 271 Business (Pittsburg).
@@ -3093,8 +3111,7 @@
 2019-06-12;(USA) Texas;TX Spur 1570;tx.sp1570;Route added
 2019-06-07;(USA) Texas;TX 45 (Bear Creek);tx.tx045bea;Extended eastward from TXLp 1 to FM 1826.
 2019-06-07;(USA) Texas;I-169;tx.i169;Extended southeastward from Old Alice Rd to FM 1847.
-2019-06-07;(USA) Texas;US 175;tx.us175;Removed from US 175 Business and relocated onto a southwestern divided bypass of Poynor.
-2019-06-07;(USA) Texas;US 175 Business (Poynor);tx.us175buspoy;Route Added.
+2019-06-07;(USA) Texas;US 175;tx.us175;Removed from a two-lane road through central Poynor between points labeled OldUS175_S & OldUS175_N, and relocated onto a southwestern divided bypass.
 2019-04-24;(USA) Texas;TXLp 49;tx.lp049;Extended north from I-20 to US 69
 2019-03-11;(USA) Texas;US 90;tx.us090;Extended west from I-10 to I-10 BL
 2017-12-12;(USA) Texas;Westpark Tollway;tx.westlwy;Extended west from TX 99 to FM 1463
@@ -3136,6 +3153,7 @@
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2019-06-18;(USA) Utah;UT 314;ut.ut314;New Route
 2019-05-15;(USA) Utah;UT 82;ut.ut082;Rerouted from 12800N onto 5400W at north end.
 2019-05-15;(USA) Utah;UT 83;ut.ut083;Route Truncated at south end from old UT 13 in Corinne to current UT 13 at 4800W.
 2019-05-15;(USA) Utah;UT 13;ut.ut013;Rerouted from Promontory Road onto 4800W north of Corinne.
