@@ -8,6 +8,6 @@
 
 **NOTES TO ROUTES:**
 - `D5` (short route to railroad station) is not signed (GSV, OSM) but indicated on GM, not in HB
-- `D20` is not signed but there are km posts. There's a `D61` sign at eastern-most wp but OSM and GM indicate it being `D5` all the way
+- `D20` is not signed but there are km posts. There's a `D61` sign at eastern-most wp but OSM and GM indicate it being `D20` all the way
 - `D26` (short route to railroad station) is not signed (GSV, GM) but indicated on OSM, not in HB
 - `D27` is indicated on OSM to be extended at west end to `D152` but not confirmed by GM, GSV nor wikisara
