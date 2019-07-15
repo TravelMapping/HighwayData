@@ -4,7 +4,8 @@
 
 **SOURCES:**
 - https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
-
+- https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-de-Marne_(94)
+- https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-d%27Oise_(95)
 
 **DEPARTMENT BORDER LABELS:**
 FRA-75 = `Par` = Paris
@@ -29,3 +30,9 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D54` is indicated on OSM and GM but I couldn't find signs on GSV
 - `D66` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
 - `D67` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
+- `D127` is indicated on OSM to be extended at east end onto Avenue Garennes up to `D36`/`D91` but not confirmed by GM/GSV/wikisara
+- `D134` is indicated on OSM to exist through Bois-d'Arcy too but not confirmed by GM/GSV/wikisara
+
+
+**TODO:**
+- Check wikisara `Liste des anciennes routes départementales` Yvelines
