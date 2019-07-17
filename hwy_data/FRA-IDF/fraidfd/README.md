@@ -32,6 +32,8 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D67` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
 - `D127` is indicated on OSM to be extended at east end onto Avenue Garennes up to `D36`/`D91` but not confirmed by GM/GSV/wikisara
 - `D134` is indicated on OSM to exist through Bois-d'Arcy too but not confirmed by GM/GSV/wikisara
+- `D161` is indicated on OSM to be extended at west end but not confirmed by GM, GSV nor wikisara
+- `D173` south end is at km 0 post
 
 
 **TODO:**
