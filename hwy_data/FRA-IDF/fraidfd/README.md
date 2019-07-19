@@ -3,20 +3,21 @@
 
 
 **SOURCES:**
-- https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
-- https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-de-Marne_(94)
-- https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-d%27Oise_(95)
+-
 
 **DEPARTMENT BORDER LABELS:**
 FRA-75 = `Par` = Paris
 FRA-77 = `SeM` = Seine-et-Marne
 FRA-78 = `Yvl` = Yvelines
+   https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
 FRA-91 = `Ess` = Essonne
 FRA-92 = `HdS` = Hauts-de-Seine
 FRA-93 = `SSD` = Seine-Saint-Denis
+   https://www.data.gouv.fr/fr/datasets/reseau-des-rues-departementales-1/
 FRA-94 = `VdM` = Val-de-Marne
+   https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-de-Marne_(94)
 FRA-95 = `VdO` = Val-d'Oise
-
+   https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-d%27Oise_(95)
 
 **NOTES TO ROUTES:**
 **FRA-78 - Yvelines:**
