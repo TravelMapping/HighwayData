@@ -35,6 +35,7 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D134` is indicated on OSM to exist through Bois-d'Arcy too but not confirmed by GM/GSV/wikisara
 - `D161` is indicated on OSM to be extended at west end but not confirmed by GM, GSV nor wikisara
 - `D173` south end is at km 0 post
+- `D317` is just a ramp of `D186`/`D307` interchange, not in HB
 
 
 **TODO:**
