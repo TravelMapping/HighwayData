@@ -44,6 +44,9 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D40` segment between `D932` and `D41` is indicated being `D41` on geoportal and GM but there is a `D40` sign on 2011 and 2018 GSV and it's also indicated being `D40` on OSM
 - `D402` is only indicated on 2011 and 2018 GSV, and on geoportal
 
+*FRA-94 - Val-de-Marne:*
+- wikisara overview is incomplete but route articles exist for almost all routes, added everything that is confirmed by OSM and GM
+
 
 **TODO:**
 - Check wikisara `Liste des anciennes routes départementales` Yvelines
