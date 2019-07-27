@@ -45,8 +45,11 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D402` is only indicated on 2011 and 2018 GSV, and on geoportal
 
 *FRA-94 - Val-de-Marne:*
-- wikisara overview is incomplete but route articles exist for almost all routes, added everything that is confirmed by OSM and GM
+- wikisara overview is incomplete, route articles exist for much more routes, added everything that is confirmed by OSM and GM
 
+*FRA-95 - Val-d'Oise:*
+- `D9E` is indicated on OSM and GM but it's missing on wikisara and I couldn't find anything on GSV, added though
+- `D23` is not signed but there is a SSD sign at junction with `D311`, in HB as `D234(93)`
 
 **TODO:**
 - Check wikisara `Liste des anciennes routes départementales` Yvelines
