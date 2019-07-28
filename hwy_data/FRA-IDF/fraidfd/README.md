@@ -50,6 +50,7 @@ FRA-95 = `VdO` = Val-d'Oise
 *FRA-95 - Val-d'Oise:*
 - `D9E` is indicated on OSM and GM but it's missing on wikisara and I couldn't find anything on GSV, added though
 - `D23` is not signed but there is a SSD sign at junction with `D311`, in HB as `D234(93)`
+- `D84B` not drafted since it's not indicated anywhere except of wikisara. It should end halfway between `B84B` and `D84`
 
 **TODO:**
 - Check wikisara `Liste des anciennes routes départementales` Yvelines
