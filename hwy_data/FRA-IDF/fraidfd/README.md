@@ -12,6 +12,7 @@ FRA-78 = `Yvl` = Yvelines
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
 FRA-91 = `Ess` = Essonne
 FRA-92 = `HdS` = Hauts-de-Seine
+   https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Hauts-de-Seine_(92)
 FRA-93 = `SSD` = Seine-Saint-Denis
    https://www.data.gouv.fr/fr/datasets/reseau-des-rues-departementales-1/
 FRA-94 = `VdM` = Val-de-Marne
@@ -36,6 +37,9 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D161` is indicated on OSM to be extended at west end but not confirmed by GM, GSV nor wikisara
 - `D173` south end is at km 0 post
 - `D317` is just a ramp of `D186`/`D307` interchange, not in HB
+
+*FRA-92 - Hauts-de-Seine:*
+- wikisara overview is very incomplete
 
 *FRA-93 - Seine-Saint-Denis:*
 - Many routes are still signed with their old `N` route numbering
