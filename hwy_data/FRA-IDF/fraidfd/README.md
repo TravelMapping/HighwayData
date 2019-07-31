@@ -55,7 +55,6 @@ FRA-95 = `VdO` = Val-d'Oise
 
 *FRA-94 - Val-de-Marne:*
 - wikisara overview is incomplete, route articles exist for much more routes, added everything that is confirmed by OSM and GM
-- `D515` (former `N515`) not drafted, see http://forum.travelmapping.net/index.php?topic=2976.msg14624#msg14624
 
 *FRA-95 - Val-d'Oise:*
 - `D9E` is indicated on OSM and GM but it's missing on wikisara and I couldn't find anything on GSV, added though
