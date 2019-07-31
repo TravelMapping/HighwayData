@@ -39,7 +39,12 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D317` is just a ramp of `D186`/`D307` interchange, not in HB
 
 *FRA-92 - Hauts-de-Seine:*
-- wikisara overview is very incomplete
+- wikisara overview is very incomplete, route articles exist for more routes, added everything that is confirmed by OSM and GM or GSV
+- `D4` routing not clear
+- `D13` is not indicated on OSM but on GM and GSV
+- `D913` extension not drafted (in HB as `N1013`)
+- `D992` extension not drafted (in HB as `N192`)
+- `D993` not drafted (in HB as `N13`)
 
 *FRA-93 - Seine-Saint-Denis:*
 - Many routes are still signed with their old `N` route numbering
@@ -50,6 +55,7 @@ FRA-95 = `VdO` = Val-d'Oise
 
 *FRA-94 - Val-de-Marne:*
 - wikisara overview is incomplete, route articles exist for much more routes, added everything that is confirmed by OSM and GM
+- `D515` (former `N515`) not drafted, see http://forum.travelmapping.net/index.php?topic=2976.msg14624#msg14624
 
 *FRA-95 - Val-d'Oise:*
 - `D9E` is indicated on OSM and GM but it's missing on wikisara and I couldn't find anything on GSV, added though
