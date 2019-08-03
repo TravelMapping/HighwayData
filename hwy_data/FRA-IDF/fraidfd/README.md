@@ -44,7 +44,7 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D13` is not indicated on OSM but on GM and GSV
 - `D913` extension not drafted (in HB as `N1013`)
 - `D992` extension not drafted (in HB as `N192`)
-- `D993` not drafted (in HB as `N13`)
+- `D993` not yet drafted (was in HB as `N13` but removed now, `N134` has been removed too) and general routing @ La Défense needs to be checked on HDX, see https://github.com/TravelMapping/HighwayData/pull/3031 and http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675
 
 *FRA-93 - Seine-Saint-Denis:*
 - Many routes are still signed with their old `N` route numbering
