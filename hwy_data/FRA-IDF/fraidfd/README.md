@@ -6,8 +6,9 @@
 -
 
 **DEPARTMENT BORDER LABELS:**
-FRA-75 = `Par` = Paris
+FRA-75 = `Par` = Paris does not have a D route network
 FRA-77 = `SeM` = Seine-et-Marne
+   wikisara articles (there is no list of all routes though)
 FRA-78 = `Yvl` = Yvelines
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
 FRA-91 = `Ess` = Essonne
@@ -21,6 +22,9 @@ FRA-95 = `VdO` = Val-d'Oise
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-d%27Oise_(95)
 
 **NOTES TO ROUTES:**
+*FRA-77 - Seine-et-Marne:*
+- There is no wikisara overview but route articles exist for many routes, added everything that is confirmed by OSM and GM or GSV
+
 *FRA-78 - Yvelines:*
 - `D5` (short route to railroad station) is not signed (GSV, OSM) but indicated on GM, not in HB
 - `D20` is not signed but there are km posts. There's a `D61` sign at eastern-most wp but OSM and GM indicate it being `D20` all the way
