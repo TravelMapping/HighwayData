@@ -24,6 +24,7 @@ FRA-95 = `VdO` = Val-d'Oise
 **NOTES TO ROUTES:**
 *FRA-77 - Seine-et-Marne:*
 - There is no wikisara overview but route articles exist for many routes, added everything that is confirmed by OSM and GM or GSV
+- `D34A` route is not clear
 
 *FRA-78 - Yvelines:*
 - `D5` (short route to railroad station) is not signed (GSV, OSM) but indicated on GM, not in HB
