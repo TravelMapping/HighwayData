@@ -6,8 +6,9 @@
 -
 
 **DEPARTMENT BORDER LABELS:**
-FRA-75 = `Par` = Paris
+FRA-75 = `Par` = Paris does not have a D route network
 FRA-77 = `SeM` = Seine-et-Marne
+   wikisara articles (there is no list of all routes though)
 FRA-78 = `Yvl` = Yvelines
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
 FRA-91 = `Ess` = Essonne
@@ -21,6 +22,10 @@ FRA-95 = `VdO` = Val-d'Oise
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-d%27Oise_(95)
 
 **NOTES TO ROUTES:**
+*FRA-77 - Seine-et-Marne:*
+- There is no wikisara overview but route articles exist for many routes, added everything that is confirmed by OSM and GM or GSV
+- `D34A` route is not clear
+
 *FRA-78 - Yvelines:*
 - `D5` (short route to railroad station) is not signed (GSV, OSM) but indicated on GM, not in HB
 - `D20` is not signed but there are km posts. There's a `D61` sign at eastern-most wp but OSM and GM indicate it being `D20` all the way
@@ -44,7 +49,7 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D13` is not indicated on OSM but on GM and GSV
 - `D913` extension not drafted (in HB as `N1013`)
 - `D992` extension not drafted (in HB as `N192`)
-- `D993` not drafted (in HB as `N13`)
+- `D993` not yet drafted (was in HB as `N13` but removed now, `N134` has been removed too) and general routing @ La Défense needs to be checked on HDX, see https://github.com/TravelMapping/HighwayData/pull/3031 and http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675
 
 *FRA-93 - Seine-Saint-Denis:*
 - Many routes are still signed with their old `N` route numbering
