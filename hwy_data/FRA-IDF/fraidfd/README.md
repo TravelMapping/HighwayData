@@ -2,16 +2,14 @@
 - http://forum.travelmapping.net/index.php?topic=2976
 
 
-**SOURCES:**
--
-
-**DEPARTMENT BORDER LABELS:**
+**DEPARTMENT BORDER LABELS AND SOURCES:**
 FRA-75 = `Par` = Paris does not have a D route network
 FRA-77 = `SeM` = Seine-et-Marne
    wikisara articles (there is no list of all routes though)
 FRA-78 = `Yvl` = Yvelines
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
 FRA-91 = `Ess` = Essonne
+   wikisara articles (there is no list of all routes though)
 FRA-92 = `HdS` = Hauts-de-Seine
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Hauts-de-Seine_(92)
 FRA-93 = `SSD` = Seine-Saint-Denis
