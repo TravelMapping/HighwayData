@@ -20,4 +20,5 @@ FRA-88 = `Vos` = Vosges
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-57 - Moselle:*
+- `D8A` is indicated on GM and wikisara but not on OSM/GSV. Added though.
