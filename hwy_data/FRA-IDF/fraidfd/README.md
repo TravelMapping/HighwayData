@@ -2,16 +2,14 @@
 - http://forum.travelmapping.net/index.php?topic=2976
 
 
-**SOURCES:**
--
-
-**DEPARTMENT BORDER LABELS:**
+**DEPARTMENT BORDER LABELS AND SOURCES:**
 FRA-75 = `Par` = Paris does not have a D route network
 FRA-77 = `SeM` = Seine-et-Marne
    wikisara articles (there is no list of all routes though)
 FRA-78 = `Yvl` = Yvelines
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
 FRA-91 = `Ess` = Essonne
+   wikisara articles (there is no list of all routes though)
 FRA-92 = `HdS` = Hauts-de-Seine
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Hauts-de-Seine_(92)
 FRA-93 = `SSD` = Seine-Saint-Denis
@@ -25,6 +23,9 @@ FRA-95 = `VdO` = Val-d'Oise
 *FRA-77 - Seine-et-Marne:*
 - There is no wikisara overview but route articles exist for many routes, added everything that is confirmed by OSM and GM or GSV
 - `D34A` route is not clear
+- `D127A` south of `D401` is only indicated on OSM, GSV2017 shows a `C1` sign
+- `D131` south of `D100` is only indicated on OSM
+- Routes `D4xx` through Melun are not indicated on GM
 
 *FRA-78 - Yvelines:*
 - `D5` (short route to railroad station) is not signed (GSV, OSM) but indicated on GM, not in HB
@@ -47,9 +48,8 @@ FRA-95 = `VdO` = Val-d'Oise
 - wikisara overview is very incomplete, route articles exist for more routes, added everything that is confirmed by OSM and GM or GSV
 - `D4` routing not clear
 - `D13` is not indicated on OSM but on GM and GSV
-- `D913` extension not drafted (in HB as `N1013`)
-- `D992` extension not drafted (in HB as `N192`)
-- `D993` not yet drafted (was in HB as `N13` but removed now, `N134` has been removed too) and general routing @ La Défense needs to be checked on HDX, see https://github.com/TravelMapping/HighwayData/pull/3031 and http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675
+- `D913` extension not drafted (in HB as `N1013`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
+- `D992` extension not drafted (in HB as `N192`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
 
 *FRA-93 - Seine-Saint-Denis:*
 - Many routes are still signed with their old `N` route numbering
