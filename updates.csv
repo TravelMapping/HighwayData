@@ -626,6 +626,7 @@
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2019-08-27;(Germany) Rhineland-Palatinate;B62a;deurp.b062a;New Route
 2019-04-06;(Germany) Rhineland-Palatinate;B271 (Kirchheim);;Route deleted
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Main);deurp.b271;Route relocated from through Kirchheim and onto bypass
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Kirchheim);deurp.b271kir;Route relocated from northern section of the bypass and through Kirchheim
@@ -648,6 +649,8 @@
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
+2019-08-24;(Germany) Saxony-Anhalt;B2;deust.b002;Route relocated from through Eutzsch and onto new bypass between L131 and B100
+2019-08-24;(Germany) Saxony-Anhalt;B100;deust.b100;Route relocated from through Eutzsch and onto new bypass west of junction with B2
 2019-04-06;(Germany) Saxony-Anhalt;B180;deust.b180;Route truncated at north end from B246 Wanzleben to B81 Egeln
 2018-12-31;(Germany) Saxony-Anhalt;A36;deust.a036;New Route (former B6)
 2018-12-31;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from border to Lower Saxony to A14 junction (A36 now)
@@ -1602,6 +1605,8 @@
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2019-08-26;Serbia;A2;srb.a002;Route extended at north end from former temporary terminus with B22 (labelled '*B22_N') to exit 2
+2019-08-26;Serbia;E763;srb.e763;Route removed from B22 and relocated onto B26/A2 between B22/B26 junction (labelled 'B22') and former temporary A2 terminus on B22 (labelled '*B22_N')
 2019-05-19;Serbia;A1 (Jagodina);srb.a001;Route extended at south end from exit 53 to the North Macedonian border
 2019-05-19;Serbia;A1 (Presevo);srb.a001;Route deleted (merged into Jagodina section)
 2019-05-19;Serbia;E75;srb.e75;Route removed from B44 and relocated onto A1 between A1 exits 53 and 56
@@ -1662,11 +1667,6 @@
 2017-03-22;Slovenia;G111;svn.g111;Route truncated at north end from H6 exit 2 to Polje Cesta
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
-2019-07-27;(Spain) Aragon;A21 (Santa Cilia);espar.a021san;New Route
-2019-03-21;(Spain) Aragon;A23 (Zaragoza);espar.a023;Route extended at north end from exit 375 to A1604
-2019-03-21;(Spain) Aragon;E7;espar.e7;Route removed from former N330 and relocated onto A23 between A1604 and A23 exit 375
-2019-03-21;(Spain) Aragon;N330 (Jaca);espar.n330jac;New Route
-2019-03-21;(Spain) Aragon;N330 (Zaragoza);espar.n330;Route truncated at north end from French border to HUV3145
 2019-05-17;(Spain) Andulucia;A7056 (Acceso al P.T.A.);espan.a7056;New Route
 2019-05-17;(Spain) Andulucia;A383 (Acceso Este a La Línea);espan.a383;New Route
 2019-05-17;(Spain) Andulucia;A483 (Autovía Bollullos del Condado-Matalascañas);espan.a483;New Route
@@ -1681,6 +1681,12 @@
 2019-05-04;(Spain) Andulucia;CA36;espan.ca036;New Route
 2018-07-24;(Spain) Andulucia;SE40 (Coria del Rio);espan.se040cor;New Route
 2017-10-13;(Spain) Andulucia;H30;espan.h030;Route extended at north end from Paseo Marina to A49
+2019-07-27;(Spain) Aragon;A21 (Santa Cilia);espar.a021san;New Route
+2019-03-21;(Spain) Aragon;A23 (Zaragoza);espar.a023;Route extended at north end from exit 375 to A1604
+2019-03-21;(Spain) Aragon;E7;espar.e7;Route removed from former N330 and relocated onto A23 between A1604 and A23 exit 375
+2019-03-21;(Spain) Aragon;N330 (Jaca);espar.n330jac;New Route
+2019-03-21;(Spain) Aragon;N330 (Zaragoza);espar.n330;Route truncated at north end from French border to HUV3145
+2019-08-26;(Spain) Asturias;Acceso al Aeropuerto de Asturias;espas.ai082;New Route
 2018-01-03;(Spain) Asturias;A63;espas.a063;Route extended at west end from exit 27 to exit 30
 2019-08-01;(Spain) Basque Country;BI631;esppv.bi631;Route extended at south end from eastern junction with N634 to AP8
 2019-08-01;(Spain) Basque Country;GI20;esppv.gi020;Waypoint label '10' moved from what is now '13' to what was '8'
@@ -2208,8 +2214,10 @@
 2015-07-25;(UK) England;Queensway Tunnel;eng.quetun;New Route
 2015-07-25;(UK) England;St Peter's Way;eng.stpetway;New Route
 2015-07-25;(UK) England;Thamesdown Drive;eng.thadr;New Route
+2019-08-26;(UK) Northern Ireland;A6;nir.a006;Route removed from B183 and relocated onto new construction between M22 junction 3 and 'B183_E'
+2019-08-26;(UK) Northern Ireland;E16;nir.e16;Route removed from B183 and relocated onto A6 between M22 junction 3 and 'B183_E'
 2019-07-18;(UK) Northern Ireland;A1;nir.a001;Route extended at north end from A11 to A6/A510 junction
-2019-07-18;(UK) Northern Ireland;A6;nir.a6;Route extended at east end from A11 to A1/A510 junction
+2019-07-18;(UK) Northern Ireland;A6;nir.a006;Route extended at east end from A11 to A1/A510 junction
 2019-07-18;(UK) Northern Ireland;A11;nir.a011;Route extended at west end from A510 to A1, and at east end from eastern junction with A2 to A24/A510 junction
 2019-07-18;(UK) Northern Ireland;A24;nir.a024;Route truncated at north end from A2 junction to A11/A510 junction
 2019-07-18;(UK) Northern Ireland;A501;nir.a501;Route extended at east end from western junction with A11 to A2/A11 junction
@@ -2356,6 +2364,7 @@
 2017-06-07;(USA) Connecticut;CT 2A;ct.ct002a;Relabeled exits from sequential to mileage-based, all numbered exits changed
 2016-02-12;(USA) Connecticut;Milford Parkway;ct.milpkwy;Route added
 2015-12-16;(USA) Connecticut;I-395;ct.i395;Relabeled exits from sequential to mileage-based, all numbers changed
+2019-08-25;(USA) Delaware;DE 34;;Route deleted.
 2019-03-11;(USA) Delaware;Puncheon Run Connector;de.punruncon;Route added (connects US 13 to DE 1(Exit 97) in Dover)
 2019-03-11;(USA) Delaware;DE 30;de.de030;Extended to DE 1 BUS (Milford) via Cedar Creek Rd.  The point that lined up with DE 1 was relocated to the Wilkins Rd (WilRd) intersection with DE1 as an alternate label.
 2019-02-26;(USA) Delaware;DE 41;de.de041;South end truncated from DE 141 (along former concurrency with DE 2) to DE 2/DE 62 intersection.
@@ -2633,6 +2642,8 @@
 2017-06-19;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended south from exit 215 to exit 211.
 2015-10-10;(USA) Louisiana;US 371;la.us371;Removed from LA 177 and US84 and relocated onto a new two-lane east-west roadway between the LA 177 north split and the US 84 / LA 1 junction.
 2015-09-03;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended north from exit 234 to the Arkansas state line.
+2019-08-30;(USA) Maine;US 2;me.us002;Waypoint label ME232 moved from Church Street to the 2015 Martin Memorial Bridge.
+2019-08-30;(USA) Maine;ME 232;me.me232;North end removed from the 1955 Martin Memorial Bridge between a point labeled *OldME232 and US 2 at Church St, and relocated onto the 2015 Martin Memorial Bridge approx. 600 feet upriver.
 2019-07-27;(USA) Maine;US 1 Bypass (Presque Isle);me.us001byppre;Added route
 2018-12-30;(USA) Maine;Park Loop Road, Acadia NP;me.parklprd;Truncated: beginning of route removed from Sieur de Monts Road between ME 3 and Park Loop Road.
 2018-09-02;(USA) Maine;ME 179;me.me179;South end removed from Falls Court and relocated onto a new southerly extension of North Street between US 1 Alternate and Falls Court.
@@ -2892,6 +2903,12 @@
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2019-08-24;(USA) North Carolina;NC 24;nc.nc024;rerouted onto newly constructed bypass of Troy with points between NC109_N and NC24Bus/27Bus being new location.  Former NC 24 segment is NC 24 Business
+2019-08-24;(USA) North Carolina;NC 27;nc.nc027;rerouted onto newly constructed bypass of Troy with points between NC109_N and NC24Bus/27Bus being new location.  Former NC 27 segment is NC 27 Business
+2019-08-24;(USA) North Carolina;NC 24 Business;nc.nc024bustro;new designation replacing NC 24 through Troy
+2019-08-24;(USA) North Carolina;NC 27 Business;nc.nc027bustro;new designation replacing NC 27 through Troy
+2019-08-24;(USA) North Carolina;NC 345;nc.nc345;extended by one waypoint to its actual southern endpoint
+2019-08-24;(USA) North Carolina;NC 903 Truck;nc.nc903trkrob;added NC 903 Truck in Robersonville
 2019-06-29;(USA) North Carolina;I-140;nc.i140;truncated back to I-40 with east of I-40 becoming NC 140
 2019-06-29;(USA) North Carolina;NC 140;nc.nc140;re-added to replace I-140 east of I-40 
 2019-04-27;(USA) North Carolina;NC 344;nc.nc344;extended to actual endpoint west of US 17
@@ -3043,6 +3060,10 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2019-08-27;(USA) Pennsylvania;PA 150;pa.pa150; Realigned between Church St (ChuSt_W) and Hanna St (HanSt) to reflect one-way routing at PA 120 in Lock Haven.
+2019-08-27;(USA) Pennsylvania;PA 244;pa.pa244; Relocated onto original alignment (done around 2011) between PA 449 and Commercial St (ComSt_N).
+2019-08-27;(USA) Pennsylvania;PA 44;pa.pa044; Relocated onto new alignment around PA 244 (done on 10-16-2018) between *OldPA44_A and *OldPA44_B.
+2019-08-27;(USA) Pennsylvania;PA 872;pa.pa872;Relocated onto new bridge around Portage Rd (PorRd) between *OldPA872_A and *OldPA872_B.
 2019-07-27;(USA) Pennsylvania;US 62 Business (Sharon);pa.us062bussha;Relocated off of Connelly Blvd (ConBlvd formerly IrvAve_S) to follow official routing on Irvine Ave to its southern terminus at US 62.
 2019-05-28;(USA) Pennsylvania;PA 879;pa.pa879;Relocated to correct alignment between I-80 and PA 970.
 2019-05-20;(USA) Pennsylvania;Airport Connector;pa.aircon;Route added.
@@ -3200,6 +3221,10 @@
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2019-08-22;(USA) Texas;I-69E (Robstown);tx.i069erob;Extended southward from the south end of US 77 Business (Robstown) to FM 2826.
+2019-08-22;(USA) Texas;TX 5;tx.tx005;Removed from a demolished two-lane section of McDonald St and approx. 0.2 mi of TX 121 and relocated onto a divided four-lane roadway to the east, between waypoint *OldTX5 and TX 121.
+2019-08-22;(USA) Texas;TX 121;tx.tx121;Waypoint label TX5_S moved approx 0.2 mi northeastward from a closed intersection now labeled *OldTX5.
+2019-08-22;(USA) Texas;TX Spur 359;;Route deleted
 2019-06-22;(USA) Texas;US 90;tx.us090;Reverted changes made 2017-06-11 that are still not signed: Removed from I-10 between exits 851 and 855, and relocated back onto College, Pearl, Park, and Willow Streets.
 2019-06-13;(USA) Texas;US 271 Business (Pittsburg);tx.us271buspit;Added route. Renamed from TX Loop 238.
 2019-06-13;(USA) Texas;TX 15;tx.tx015;West end removed from Main St between US 54 and Pearl St, and extended westward from Pearl St to US 287.
