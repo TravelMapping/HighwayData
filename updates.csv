@@ -141,6 +141,10 @@
 2015-08-18;(Canada) New Brunswick;TCH (Main);nb.tchmai;Moved from Madawaska Ave. to new freeway between QC/NB border and exit 1
 2017-12-08;(Canada) Northwest Territories;NT 10;nt.nt010;New route
 2017-12-08;(Canada) Northwest Territories;NT 1;nt.nt001;West end truncated from Wrigley village centre, to Tulita winter road entrance southeast of Wrigley
+2019-09-02;(Canada) Nova Scotia;NS 4 (Antigonish);ns.ns004ant;Removed from James Street, NS 245, NS 337, Saint Andrews Street and South River Road, and relocated onto the pre-2012 alignment of NS 104, directly from James Street to South River Road. East end truncated from NS104 Exit 35 to NS 316.
+2019-09-02;(Canada) Nova Scotia;NS 7;ns.ns007;East end truncated from James Street to NS 4.
+2019-09-02;(Canada) Nova Scotia;NS 245;ns.ns245;Extended eastward from NS 227 to NS 4.
+2019-09-02;(Canada) Nova Scotia;NS 337;ns.ns337;Extended southward from Saint Andrews Street to NS 245.
 2016-11-19;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from closed two-lane highway and the surface road through Port Mouton village (now partially NS3), and relocated onto the northwestern Port Mouton bypass between closed intersections labeled *OldNS103_Sum & *OldNS103_PMo
 2016-11-19;(Canada) Nova Scotia;NS 104;ns.ns104;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-11-19;(Canada) Nova Scotia;NS 3 (Liverpool);ns.ns003liv;West end removed from a closed roadway between a point labeled *OldNS3 and the closed former alignment of NS 103, and relocated onto the surface road through Port Mouton village and a new access road to NS 103 Exit 21
@@ -1713,6 +1717,7 @@
 2019-05-01;(Spain) Catalonia;C65;espct.c065;Route extended at south end from C31 to C250_S and at north end from C35 to AP7
 2019-04-22;(Spain) Catalonia;T11;espct.t011;Route extended at east end from A27 to N340
 2018-11-26;(Spain) Catalonia;A2 (Girona);espct.a002gir;Route extended at south end from exit 694 to exit 692
+2019-09-02;(Spain) Community of Madrid;A6;espmd.a006;Route extended at east end from exit 6 to Avenida de los Reyes Catolicos
 2019-08-31;(Spain) Extremadura;N532;espex.n532;New Route
 2019-06-24;(Spain) Galicia;AG46;espga.ag046;Route extended at west end from exit 6 to exit 12
 2019-06-03;(Spain) Galicia;A54;espga.a054;Route extended at east end from exit 93 to eastern junction with N547
@@ -1721,6 +1726,9 @@
 2017-10-18;(Spain) La Rioja;A12;espri.a012;Route extended at east end from exit 94 (formerly exit 8) to Navarre border
 2017-10-18;(Spain) La Rioja;A12 (Lograno);espri.a012;Route merged into main route
 2017-10-06;(Spain) Region of Murcia;A33;espmc.a033;Route extended at north end from N344 to RM424
+2019-09-01;(Spain) Valencian Community;CV10 (Autovía de la Plana);espvc.cv010;Route truncated at north end from Aeropuerto de Castellon-Costa Azahar to exit 41 and extended at north end from exit 41 to N232
+2019-09-01;(Spain) Valencian Community;CV31 (Distribuidor comarcal norte, Valencia);espvc.cv031;Route extended at north end from CV35 to CV310
+2019-09-01;(Spain) Valencian Community;CV35 (Autovía del Turia);espvc.cv035;Route extended at west end from CV394 to border with Castilla-La Mancha
 2019-08-02;(Spain) Valencian Community;V30;espvc.v030;Route extended at east end from exit 0A to Peurto
 2019-08-02;(Spain) Valencian Community;CV36;espvc.cv036;Route truncated at east end from Avinguda de les Tres Creus to V30
 2018-07-27;(Spain) Valencian Community;A33;espvc.a033;Route extended at south end from exit 82 to A31
@@ -3062,9 +3070,11 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
-2019-08-27;(USA) Pennsylvania;PA 150;pa.pa150; Realigned between Church St (ChuSt_W) and Hanna St (HanSt) to reflect one-way routing at PA 120 in Lock Haven.
-2019-08-27;(USA) Pennsylvania;PA 244;pa.pa244; Relocated onto original alignment (done around 2011) between PA 449 and Commercial St (ComSt_N).
-2019-08-27;(USA) Pennsylvania;PA 44;pa.pa044; Relocated onto new alignment around PA 244 (done on 10-16-2018) between *OldPA44_A and *OldPA44_B.
+2019-09-03;(USA) Pennsylvania;PA 282;pa.pa282;Fixed route so that labels go from west (PA 82) to east (US 30 BUS (Downingtown)).
+2019-09-03;(USA) Pennsylvania;PA 82 Alternate Truck (East Fallowfield Township);pa.pa082alttrkeas;Route added.
+2019-08-27;(USA) Pennsylvania;PA 150;pa.pa150;Realigned between Church St (ChuSt_W) and Hanna St (HanSt) to reflect one-way routing at PA 120 in Lock Haven.
+2019-08-27;(USA) Pennsylvania;PA 244;pa.pa244;Relocated onto original alignment (done around 2011) between PA 449 and Commercial St (ComSt_N).
+2019-08-27;(USA) Pennsylvania;PA 44;pa.pa044;Relocated onto new alignment around PA 244 (done on 10-16-2018) between *OldPA44_A and *OldPA44_B.
 2019-08-27;(USA) Pennsylvania;PA 872;pa.pa872;Relocated onto new bridge around Portage Rd (PorRd) between *OldPA872_A and *OldPA872_B.
 2019-07-27;(USA) Pennsylvania;US 62 Business (Sharon);pa.us062bussha;Relocated off of Connelly Blvd (ConBlvd formerly IrvAve_S) to follow official routing on Irvine Ave to its southern terminus at US 62.
 2019-05-28;(USA) Pennsylvania;PA 879;pa.pa879;Relocated to correct alignment between I-80 and PA 970.
@@ -3168,6 +3178,8 @@
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
+2019-09-02;(USA) South Dakota;SD 63;sd.sd063;Extended south from SD 44 to Norris, and merged with SD 63 (Parmalee)
+2019-09-02;(USA) South Dakota;SD 63 (Parmalee);;Merged into main SD63 route
 2017-12-17;(USA) South Dakota;SD 17;;Route deleted
 2017-07-15;(USA) South Dakota;SD 30;sd.sd030;Extended west from I-29 to Old US 77
 2016-10-16;(USA) South Dakota;I-90;sd.i090;Added closed Exit 66 (Ellsworth Road) and renumbered 66 to 67 (Liberty Blvd.)
