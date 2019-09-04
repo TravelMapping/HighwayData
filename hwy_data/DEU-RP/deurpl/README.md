@@ -10,4 +10,4 @@
 
 **NOTES TO ROUTES:**
 - `L52` extension in Koblenz u/c (to be completed by April 2020)
-- `L335` Marienfeld bypass and Miehlen bypass u/c (to be completed by 2021)
+- `L335` Marienfels bypass and Miehlen bypass u/c (to be completed by 2021)
