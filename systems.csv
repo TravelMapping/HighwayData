@@ -64,7 +64,12 @@ eursf;EUR;Europe Select Named Freeways;teal;2;active
 espa;ESP;Spain Autopista / Autovia;blue;1;active
 espn;ESP;Spain Carretera Nacionales;lightsalmon;4;active
 espan;ESP;Andalusia Red Básica Estructurante;yellow;5;active
+espar;ESP;Aragon Red Básica;yellow;5;active
 espct;ESP;Catalonia Xarxa Básica;red;5;active
+espnc;ESP;Navarre Carreteras de Interés de la Comunidad Foral;yellow;5;active
+esppv;ESP;Basque Country Oinarrizko Sarea;yellow;5;active
+espri;ESP;La Rioja Red Regional Básica;yellow;5;active
+espvc;ESP;Valencian Community Red Básica;yellow;5;active
 estp;EST;Estonia Põhimaanteed;lightsalmon;4;active
 estt;EST;Estonia Tugimaanteed;yellow;5;active
 finvt;FIN;Finland Valtatiet;lightsalmon;4;active
@@ -91,6 +96,7 @@ gbna;GBR;Great Britain A Roads;lightsalmon;4;active
 nirm;GBR;Northern Ireland Motorways;blue;1;active
 niram;GBR;Northern Ireland A Road (Motorways);blue;1;active
 nira;GBR;Northern Ireland A Roads;lightsalmon;4;active
+nirb;GBR;Northern Ireland B Roads;yellow;5;active
 gaba;GAB;Gabon Autoroutes;blue;1;active
 geos;GEO;Georgia Sakartvelo Roads;lightsalmon;4;active
 grca;GRC;Greece Autokinetodromos;blue;1;active
@@ -102,6 +108,7 @@ hunm;HUN;Hungary Autópálya;blue;1;active
 hunf;HUN;Hungary Főútjai;lightsalmon;4;active
 idnjt;IDN;Indonesia Jalan Tol;blue;1;active
 imna;IMN;Isle of Man A Roads;lightsalmon;4;active
+imnb;IMN;Isle of Man B Roads;yellow;5;active
 irlm;IRL;Ireland Motorways;blue;1;active
 irln;IRL;Ireland National Roads;lightsalmon;4;active
 irlr;IRL;Ireland Regional Roads;yellow;5;active
@@ -114,6 +121,7 @@ itaa;ITA;Italy Autostrada;blue;1;active
 jamt;JAM;Jamaica Motorways;blue;1;active
 jama;JAM;Jamaica A Roads;brown;4;active
 jeya;JEY;Jersey A Roads;lightsalmon;4;active
+jeyb;JEY;Jersey B Roads;yellow;5;active
 kaza;KAZ;Kazakhstan Main Roads;lightsalmon;4;active
 korex;KOR;(South) Korean Expressways;blue;1;active
 kgzem;KGZ;Kyrgyzstan ЭМ Roads;lightsalmon;4;active
@@ -263,20 +271,16 @@ cogn;COG;Congo Routes Nationales;green;4;preview
 comrn;COM;Comoros Routes Nationales;green;4;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
 deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;preview
-espar;ESP;Aragon Red Básica;yellow;5;preview
-espas;ESP;Asturias Red Regional;yellow;5;preview
+espas;ESP;Asturias Red Regional;yellow;5;active
 espcb;ESP;Cantabria Red Primaria;yellow;5;preview
 espcl;ESP;Castile and Leon Red Básica;yellow;5;preview
 espcm;ESP;Castilla-La Mancha Red Básica;yellow;5;preview
 espcn;ESP;Canary Islands Red Regional;yellow;5;preview
 espex;ESP;Extremadura Red Básica;yellow;5;preview
+espga;ESP;Galicia Red Primaria Básica;yellow;5;preview
 espib;ESP;Balearic Islands Red Primaria;yellow;5;preview
 espmc;ESP;Region of Murcia Red de Primer Nivel;yellow;5;preview
 espmd;ESP;Community of Madrid Red Principal;yellow;5;preview
-espnc;ESP;Navarre Carreteras de Interés de la Comunidad Foral;yellow;5;preview
-esppv;ESP;Basque Country Oinarrizko Sarea;yellow;5;preview
-espri;ESP;La Rioja Red Regional Básica;yellow;5;preview
-espvc;ESP;Valencian Community Red Básica;yellow;5;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;brown;5;preview
 fraidfd;FRA;Île-de-France Routes Départementales;yellow;5;preview
 glpd;FRA;Guadaloupe Routes Départementales;yellow;5;preview
@@ -287,11 +291,8 @@ reud;FRA;Reunion Routes Départementales;yellow;5;preview
 gabn;GAB;Gabon Routes Nationales;green;4;preview
 cyma;GBR;Cayman Island A Roads;brown;4;preview
 gbnb;GBR;Great Britain B Roads;yellow;5;preview
-nirb;GBR;Northern Ireland B Roads;yellow;5;preview
-imnb;IMN;Isle of Man B Roads;yellow;5;preview
 index;IND;India National Expressways;blue;1;preview
 itass;ITA;Italy Strade Statale;lightsalmon;4;preview
-jeyb;JEY;Jersey B Roads;yellow;5;preview
 jpne;JPN;Japan Expressways;blue;1;preview
 lkaa;LKA;Sri Lanka A Roads;lightsalmon;4;preview
 kena;KEN;Kenya A Roads;green;3;preview
@@ -349,7 +350,6 @@ cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 codn;COD;DRC Routes Nationale;green;4;devel
 #cuba;CUB;Cuba Autopista;blue;1;devel
 #ecue;ECU;Ecuador Primerias Red Vial Estatal;green;4;devel
-#espga;ESP;Galicia Red Primaria Básica;yellow;5;devel
 #fraarad;FRA;Auvergne-Rhône-Alpes Routes Départementales;yellow;5;devel
 #frabfcd;FRA;Bourgogne-Franche-Comté Routes Départementales;yellow;5;devel
 #frabred;FRA;Brittany Routes Départementales;yellow;5;devel
