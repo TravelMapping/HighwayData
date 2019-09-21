@@ -2,7 +2,7 @@
 
 This repository is for raw data used by the Travel Mapping project.
 
-Please help us improve our data by reporting any problems you notice with the data in [the project forum](http://tm.teresco.org/forum).
+Please help us improve our data by reporting any problems you notice with the data in [the project forum](http://forum.travelmapping.net/).
 
 In general, the project's data is in plain text files in two formats: CSV using semicolon separators, and WPT or "waypoint" files.  WPT files are required to contain only plain ASCII text.  Some CSV files can include non-ASCII characters, but should always use a UTF-8 encoding when such characters are used.
 

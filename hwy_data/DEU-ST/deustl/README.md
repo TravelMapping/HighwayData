@@ -1,5 +1,5 @@
 ﻿**FORUM THREAD:**
-- 
+- http://forum.travelmapping.net/index.php?topic=2829
 
 
 **SOURCES:**
@@ -9,4 +9,3 @@
 
 **NOTES TO ROUTES:**
 - New L50 route south of Bernburg?
-- L63 Brumby bypass u/c
