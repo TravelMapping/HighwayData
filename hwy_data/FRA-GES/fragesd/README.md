@@ -11,6 +11,7 @@ FRA-10 = `Aube` = Aube
 FRA-51 = `Mar` = Marne
 FRA-52 = `HMa` = Haute-Marne
 FRA-54 = `MeM` = Meurthe-et-Moselle
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(54) (edit url for other routes)
 FRA-55 = `Meu` = Meuse
 FRA-57 = `Mos` = Moselle
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(57) (edit url for other routes)
@@ -21,6 +22,12 @@ FRA-88 = `Vos` = Vosges
 
 
 **NOTES TO ROUTES:**
+*FRA-54 - Meurthe-et-Moselle:*
+- `D2H`, `D2M` and `D2N` are indicated on OSM and GSV but not on GM/wikisara. Added though.
+- `D2L` is indicated on OSM, GM and GSV but not on wikisara. Added though.
+- `D8`: Couldn't find on map!
+- It seems that some route segments are dedicated as M routes (not yet considered when drafting routes!): https://routes.fandom.com/wiki/M%C3%A9tropole_du_Grand_Nancy (`M2`, `M32`, `M71`, `M83`, `M112`, `M321`,`M400`,`M570`, `M974`)
+
 *FRA-57 - Moselle:*
 - `D8A` is indicated on GM and wikisara but not on OSM/GSV. Added though.
 - `D33` exist according to OSM and GSV but GM claims that the northern segment is `D82A`
