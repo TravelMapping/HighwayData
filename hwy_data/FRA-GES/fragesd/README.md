@@ -25,7 +25,8 @@ FRA-88 = `Vos` = Vosges
 *FRA-54 - Meurthe-et-Moselle:*
 - `D2H`, `D2M` and `D2N` are indicated on OSM and GSV but not on GM/wikisara. Added though.
 - `D2L` is indicated on OSM, GM and GSV but not on wikisara. Added though.
-- `D8`: Couldn't find on map!
+- `D22A` is indicated on GM, GSV and wikisara but not on OSM. Added though.
+- `D22E` is indicated on GM and wikisara but not on OSM or GSV. Not added.
 - It seems that some route segments are dedicated as M routes (not yet considered when drafting routes!): https://routes.fandom.com/wiki/M%C3%A9tropole_du_Grand_Nancy (`M2`, `M32`, `M71`, `M83`, `M112`, `M321`,`M400`,`M570`, `M974`)
 
 *FRA-57 - Moselle:*
