@@ -159,6 +159,8 @@ nldrw;NLD;Netherlands Ringwegen;yellow;5;active
 nlds;NLD;Netherlands Stadsroutes;yellow;5;active
 norrv;NOR;Norway Riksveier;lightsalmon;4;active
 nzlmot;NZL;New Zealand Motorways;blue;1;active
+nzlsh;NZL;New Zealand State Highways;lightsalmon;4;active
+nzltr;NZL;New Zealand Tourist Routes;brown;5;active
 pakm;PAK;Pakistan Motorways;blue;1;active
 pola;POL;Poland Autostrada;blue;1;active
 pols;POL;Poland Drogi Ekspresowa;teal;2;active
@@ -307,8 +309,6 @@ mwim;MWI;Malawi Main Roads;green;4;preview
 namb;NAM;Namibia Major Routes;green;4;preview
 nplh;NPL;Nepal Highways;lightsalmon;4;preview
 norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
-nzlsh;NZL;New Zealand State Highways;lightsalmon;4;preview
-nzltr;NZL;New Zealand Tourist Routes;brown;5;preview
 phle;PHL;Philippines Expressways;blue;1;preview
 roudj;ROU;Romania Drumuri Județene;yellow;5;preview
 rusa;RUS;Russia Access Roads;lightsalmon;4;preview
@@ -380,6 +380,7 @@ ngae;NGA;Nigeria Expressways;blue;1;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
 #usatxf;USA;Texas Farm to Market Roads 1-499;yellow;5;devel
 #usatxf2;USA;Texas Farm to Market Roads 500-999;yellow;5;devel
+#usatxr;USA;Texas Ranch to Market Roads;yellow;5;devel
 #Test Systems
 #eurer;EUR;IGNORE TEST E Roads with French Regions;green;3;preview
 #eursfr;EUR;IGNORE TEST Europe Freeways with French Regions;teal;2;preview
