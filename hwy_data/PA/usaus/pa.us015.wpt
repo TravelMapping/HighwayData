@@ -28,11 +28,12 @@ LowAllDr http://www.openstreetmap.org/?lat=40.222108&lon=-76.936698
 US11/581 http://www.openstreetmap.org/?lat=40.231698&lon=-76.932519
 PA641 http://www.openstreetmap.org/?lat=40.238570&lon=-76.934276
 MarSt_A http://www.openstreetmap.org/?lat=40.239804&lon=-76.934614
+CouClubRd http://www.openstreetmap.org/?lat=40.247484&lon=-76.932675
 21stSt http://www.openstreetmap.org/?lat=40.249242&lon=-76.922750
-HarTayBr http://www.openstreetmap.org/?lat=40.249615&lon=-76.921683
+HarTayBri_W +HarTayBr http://www.openstreetmap.org/?lat=40.249615&lon=-76.921683
 ErfRd http://www.openstreetmap.org/?lat=40.251171&lon=-76.912687
 FroSt_S http://www.openstreetmap.org/?lat=40.256632&lon=-76.900595
-HarTayBr_E http://www.openstreetmap.org/?lat=40.260474&lon=-76.904747
+HarTayBri_E +HarTayBr_E http://www.openstreetmap.org/?lat=40.260474&lon=-76.904747
 PA944 http://www.openstreetmap.org/?lat=40.277033&lon=-76.920578
 +X204 http://www.openstreetmap.org/?lat=40.285263&lon=-76.929531
 ValRd http://www.openstreetmap.org/?lat=40.308983&lon=-76.923225
@@ -40,7 +41,9 @@ I-81(65) http://www.openstreetmap.org/?lat=40.316784&lon=-76.920586
 +X205 http://www.openstreetmap.org/?lat=40.324134&lon=-76.913837
 PA850 http://www.openstreetmap.org/?lat=40.343535&lon=-76.929845
 +X01 http://www.openstreetmap.org/?lat=40.356076&lon=-76.935330
-SchRd http://www.openstreetmap.org/?lat=40.362434&lon=-77.019551
+SchRd_E http://www.openstreetmap.org/?lat=40.354567&lon=-76.971312
++X208 http://www.openstreetmap.org/?lat=40.356824&lon=-77.003340
+SchRd_W http://www.openstreetmap.org/?lat=40.362434&lon=-77.019551
 PA274 http://www.openstreetmap.org/?lat=40.388225&lon=-77.031777
 +X1A http://www.openstreetmap.org/?lat=40.396617&lon=-77.036385
 US22/322_E http://www.openstreetmap.org/?lat=40.421756&lon=-77.010394
@@ -69,6 +72,7 @@ PA304 http://www.openstreetmap.org/?lat=40.911356&lon=-76.853936
 PA45 http://www.openstreetmap.org/?lat=40.960282&lon=-76.892136
 PA192 http://www.openstreetmap.org/?lat=40.966802&lon=-76.892745
 ZeiRd http://www.openstreetmap.org/?lat=40.994559&lon=-76.872164
+ColJKRd http://www.openstreetmap.org/?lat=41.006328&lon=-76.868084
 PA642 http://www.openstreetmap.org/?lat=41.018937&lon=-76.868798
 NewColRd http://www.openstreetmap.org/?lat=41.041208&lon=-76.871019
 I-80 http://www.openstreetmap.org/?lat=41.052259&lon=-76.871713
@@ -81,6 +85,7 @@ PA54 http://www.openstreetmap.org/?lat=41.188253&lon=-76.913733
 +X207 http://www.openstreetmap.org/?lat=41.225974&lon=-76.938157
 PA554 http://www.openstreetmap.org/?lat=41.227008&lon=-76.989218
 PA654 http://www.openstreetmap.org/?lat=41.233792&lon=-76.994247
+2ndAve http://www.openstreetmap.org/?lat=41.234906&lon=-76.994939
 I-180(27A) +I-180(27) http://www.openstreetmap.org/?lat=41.238811&lon=-76.999129
 I-180(27B) http://www.openstreetmap.org/?lat=41.235896&lon=-77.006044
 I-180(28) http://www.openstreetmap.org/?lat=41.231196&lon=-77.019270
@@ -91,8 +96,12 @@ FoyAve http://www.openstreetmap.org/?lat=41.248737&lon=-77.047036
 BeaRunRd http://www.openstreetmap.org/?lat=41.292383&lon=-77.065015
 PA973 http://www.openstreetmap.org/?lat=41.320119&lon=-77.094586
 +X98 http://www.openstreetmap.org/?lat=41.341795&lon=-77.089348
-+X99 http://www.openstreetmap.org/?lat=41.350222&lon=-77.094366
++X98A http://www.openstreetmap.org/?lat=41.347061&lon=-77.093682
++X99 http://www.openstreetmap.org/?lat=41.349378&lon=-77.094471
++X99B http://www.openstreetmap.org/?lat=41.352096&lon=-77.093232
 LycCreRd http://www.openstreetmap.org/?lat=41.356789&lon=-77.085319
++X99C http://www.openstreetmap.org/?lat=41.364681&lon=-77.079805
++X99D http://www.openstreetmap.org/?lat=41.377112&lon=-77.067745
 PA14 http://www.openstreetmap.org/?lat=41.382447&lon=-77.060208
 *FourMileRd http://www.openstreetmap.org/?lat=41.417774&lon=-77.070251
 SteValRd http://www.openstreetmap.org/?lat=41.437233&lon=-77.098049
@@ -102,15 +111,27 @@ PA284 http://www.openstreetmap.org/?lat=41.494537&lon=-77.147799
 PA414 http://www.openstreetmap.org/?lat=41.560324&lon=-77.116296
 BloMouRd http://www.openstreetmap.org/?lat=41.588885&lon=-77.108719
 +X102 http://www.openstreetmap.org/?lat=41.607443&lon=-77.103952
-+X103 http://www.openstreetmap.org/?lat=41.624907&lon=-77.118702
++X103 http://www.openstreetmap.org/?lat=41.624907&lon=-77.118672
++X103A http://www.openstreetmap.org/?lat=41.628475&lon=-77.119206
++X103C http://www.openstreetmap.org/?lat=41.630095&lon=-77.118702
++X103E http://www.openstreetmap.org/?lat=41.639343&lon=-77.109778
++X103D http://www.openstreetmap.org/?lat=41.645081&lon=-77.098851
++X103B http://www.openstreetmap.org/?lat=41.659008&lon=-77.095031
 BooRunRd http://www.openstreetmap.org/?lat=41.672738&lon=-77.075564
 +X104 http://www.openstreetmap.org/?lat=41.681935&lon=-77.068791
 *WilRd +WilRd_N http://www.openstreetmap.org/?lat=41.691385&lon=-77.074081
++X104B http://www.openstreetmap.org/?lat=41.701101&lon=-77.071216
++X104A http://www.openstreetmap.org/?lat=41.718177&lon=-77.079282
++X104C http://www.openstreetmap.org/?lat=41.746570&lon=-77.067847
 US15BusMan_S http://www.openstreetmap.org/?lat=41.774542&lon=-77.072048
 US6 http://www.openstreetmap.org/?lat=41.803816&lon=-77.091652
 US15BusMan_N http://www.openstreetmap.org/?lat=41.823777&lon=-77.088058
++X104D http://www.openstreetmap.org/?lat=41.862152&lon=-77.111795
++X104E http://www.openstreetmap.org/?lat=41.879058&lon=-77.122280
 +X105 http://www.openstreetmap.org/?lat=41.886848&lon=-77.134409
 PA287 http://www.openstreetmap.org/?lat=41.930019&lon=-77.115355
++X105A http://www.openstreetmap.org/?lat=41.940398&lon=-77.110596
++X105B http://www.openstreetmap.org/?lat=41.953827&lon=-77.120445
 +X106 http://www.openstreetmap.org/?lat=41.972054&lon=-77.121845
 PA49 http://www.openstreetmap.org/?lat=41.992986&lon=-77.138797
 PA/NY http://www.openstreetmap.org/?lat=41.999699&lon=-77.135552

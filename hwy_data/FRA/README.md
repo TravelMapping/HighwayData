@@ -1,0 +1,102 @@
+﻿**FORUM THREAD:**
+- http://forum.travelmapping.net/index.php?topic=2976
+
+
+**DEPARTMENT BORDER LABELS:**
+*NUMERICAL ORDER*
+
+FRA-01 = `Ain` = Ain
+FRA-02 = `Ais` = Aisne
+FRA-03 = `All` = Allier
+FRA-04 = `AdH` = Alpes-de-Haute-Provence
+FRA-05 = `HAl` = Hautes-Alpes
+FRA-06 = `AlM` = Alpes-Maritimes
+FRA-07 = `Arc` = Ardèche
+FRA-08 = `Arn` = Ardennes
+FRA-09 = `Ari` = Ariège
+FRA-10 = `Aube` = Aube
+FRA-11 = `Aude` = Aude
+FRA-12 = `Avy` = Aveyron
+FRA-13 = `BdR` = Bouches-du-Rhône
+FRA-14 = `Cal` = Calvados
+FRA-15 = `Can` = Cantal
+FRA-16 = `Cha` = Charente
+FRA-17 = `ChM` = Charente-Maritime
+FRA-18 = `Che` = Cher
+FRA-19 = `Cor` = Corrèze
+
+FRA-21 = `CdO` = Côte-d’Or
+FRA-22 = `CdA` = Côtes-d’Armor
+FRA-23 = `Cre` = Creuse
+FRA-24 = `Dor` = Dordogne
+FRA-25 = `Dou` = Doubs
+FRA-26 = `Dro` = Drôme
+FRA-27 = `Eure` = Eure
+FRA-28 = `EuL` = Eure-et-Loir
+FRA-29 = `Fin` = Finistère
+FRA-30 = `Gard` = Gard
+FRA-31 = `HGa` = Haute-Garonne
+FRA-32 = `Gers` = Gers
+FRA-33 = `Gir` = Gironde
+FRA-34 = `Her` =  Hérault
+FRA-35 = `IeV` = Ille-et-Vilaine
+FRA-36 = `Ind` = Indre
+FRA-37 = `IeL` = Indre-et-Loire
+FRA-38 = `Ise` = Isère
+FRA-39 = `Jura` = Jura
+FRA-40 = `Lan` = Landes
+FRA-41 = `LeC` = Loir-et-Cher
+FRA-42 = `Loi` = Loire
+FRA-43 = `HLo` = Haute-Loire
+FRA-44 = `LoA` = Loire-Atlantique
+FRA-45 = `Lrt` = Loiret
+FRA-46 = `Lot` = Lot
+FRA-47 = `LeG` = Lot-et-Garonne
+FRA-48 = `Loz` = Lozère
+FRA-49 = `MeL` = Maine-et-Loire
+FRA-50 = `Man` = Manche
+FRA-51 = `Mar` = Marne
+FRA-52 = `HMa` = Haute-Marne
+FRA-53 = `May` = Mayenne
+FRA-54 = `MeM` = Meurthe-et-Moselle
+FRA-55 = `Meu` = Meuse
+FRA-56 = `Mor` = Morbihan
+FRA-57 = `Mos` = Moselle
+FRA-58 = `Nie` = Nièvre
+FRA-59 = `Nord` = Nord
+FRA-60 = `Oise` = Oise
+FRA-61 = `Orne` = Orne
+FRA-62 = `PdC` = Pas-de-Calais
+FRA-63 = `PdD` = Puy-de-Dôme
+FRA-64 = `PyA` = Pyrénées-Atlantiques
+FRA-65 = `HPy` = Hautes-Pyrénées
+FRA-66 = `PyO` = Pyrénées-Orientales
+FRA-67 = to be merged
+FRA-68 = to be merged
+FRA-69 = `Rho` = Rhône
+FRA-70 = `HSa` = Haute-Saône
+FRA-71 = `SeL` = Saône-et-Loire
+FRA-72 = `Sar` = Sarthe
+FRA-73 = `Sav` = Savoie
+FRA-74 = `HSa` = Haute-Savoie
+FRA-75 = `Par` = Paris
+FRA-76 = `SMt` = Seine-Maritime
+FRA-77 = `SeM` = Seine-et-Marne
+FRA-78 = `Yvl` = Yvelines
+FRA-79 = `DSe` = Deux-Sèvres
+FRA-80 = `Som` = Somme
+FRA-81 = `Tarn` = Tarn
+FRA-82 = `TeG` = Tarn-et-Garonne
+FRA-83 = `Var` = Var
+FRA-84 = `Vau` = Vau
+FRA-85 = `Ven` = Vendée
+FRA-86 = `Vie` = Vienne
+FRA-87 = `HVi` = Haute-Vienne
+FRA-88 = `Vos` = Vosges
+FRA-89 = `Yon` = Yonne
+FRA-90 = `TeB` = Territoire de Belfort
+FRA-91 = `Ess` = Essonne
+FRA-92 = `HdS` = Hauts-de-Seine
+FRA-93 = `SSD` = Seine-Saint-Denis
+FRA-94 = `VdM` = Val-de-Marne
+FRA-95 = `VdO` = Val-d'Oise
