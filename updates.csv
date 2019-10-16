@@ -213,7 +213,7 @@
 2015-08-18;(Canada) Quebec;A-73 (St-Georges);qc.a073stg;Route added
 2015-08-18;(Canada) Quebec;A-85 (Notre-Dame-du-Lac);qc.a085not;Route added
 2015-08-18;(Canada) Quebec;TCH (Main);qc.tchmai;East end moved to new A-85 freeway, from Ch. du Golf (OldQC185_D - exit 40), Ch. du Lac (OldQC185_C - *OldQC185_A), and Av. de la Madawaska (exit 14 - QC/NB border)
-2019-10-11;(Canada) Saskatchewan;SK7;sk.sk7;Relocated in Vanscoy (SW of Saskatoon) to new northern bypass, between OldSK7_W and OldSK7_E
+2019-10-11;(Canada) Saskatchewan;SK7;sk.sk007;Relocated in Vanscoy (SW of Saskatoon) to new northern bypass, between OldSK7_W and OldSK7_E
 2018-01-24;(Canada) Saskatchewan;TCH (Yellowhead);sk.tchyel;Moved from Old Highway 16 in Clavet (SE of Saskatoon) north to new highway opened in late 2016, between Forreiter Rd. (Range Road 3040) and Lehr Rd.
 2018-10-26;China (Heilongjiang);AH6;chnhl.ah006;New Route
 2018-10-26;China (Heilongjiang);AH31;chnhl.ah031;New Route
@@ -314,6 +314,7 @@
 2015-11-13;Czechia;R6 (Bošov);cze.r006bos;New Route
 2015-07-28;Czechia;Městský Okruh;cze.mo;New route
 2015-07-28;Czechia;R43;cze.r043;New route
+2019-10-15;Denmark;PR53;dnk.pr053;Route relocated from through Frederikssund and onto new bypass from roundabout with SR207/211 east of Frederikssund to Onsvedvej west of Kronprinsesse Marys bridge
 2019-09-20;Denmark;PR23;dnk.pr023;Route relocated from through Nørre Jernløse and onto new motorway bypass from Sønder Jernløse to Knabstrup
 2019-09-20;Denmark;Kalundborgmotorvejen;dnk.kalmot;Route extended at west end from Sønder Jernløse to Knabstrup
 2019-01-27;Denmark;PR52;dnk.pr052;Route relocated from Strandkærvej and Bjerrevej through Horsens and onto Vejlevejen and Ringvej Syd from SR459 to Bjerrevej
@@ -781,6 +782,8 @@
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2019-10-15;Hungary;M44;hun.m044;New Route
+2019-10-15;Hungary;F338;hun.f338;Route extended at north end from F36 to F38
 2019-09-12;Hungary;F651;hun.f651;New Route
 2019-09-09;Hungary;F45;hun.f045;Route truncated at south end from former F47 in Hódmezővásárhely to H4521
 2019-09-09;Hungary;F47;hun.f047;Route relocated from through Hódmezővásárhely and onto bypass from F472 to H4459
@@ -2949,6 +2952,7 @@
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2019-10-12;(USA) New York;I-895;ny.ny895;Renamed NY 895.
 2019-07-03;(USA) New York;I-781;ny.i781;East end truncated from Fort Drum entrance to US 11.
 2019-04-22;(USA) New York;I-587;ny.i587;West end truncated: removed from trumpet connection to I-87 mainline, with new terminus at trumpet's end at roundabout.
 2019-03-11;(USA) New York;NY 163;ny.ny163;North end truncated from NY 5S to NY 80.
@@ -3331,6 +3335,7 @@
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2019-10-12;(USA) Texas;TX Loop 375;tx.lp375;Extended northwestward from old south end at Santa Fe Street (intersection now closed) to new end at I-10 Exit 13.
 2019-09-09;(USA) Texas;TX 188;tx.tx188;Removed from a partially demolished two-lane roadway and relocated onto a widened, curve-straightened alignment to the south, between closed intersections west and east of FM 630.
 2019-08-22;(USA) Texas;I-69E (Robstown);tx.i069erob;Extended southward from the south end of US 77 Business (Robstown) to FM 2826.
 2019-08-22;(USA) Texas;TX 5;tx.tx005;Removed from a demolished two-lane section of McDonald St and approx. 0.2 mi of TX 121 and relocated onto a divided four-lane roadway to the east, between waypoint *OldTX5 and TX 121.
@@ -3393,6 +3398,8 @@
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2019-10-13;(USA) Utah;UT 268;ut.ut268;Route extended at west end from I-15 to 800W
+2019-10-13;(USA) Utah;UT 73 (Lehi);ut.ut073leh;Route extended at west end from I-15 to 850W
 2019-06-18;(USA) Utah;UT 314;ut.ut314;New Route
 2019-05-15;(USA) Utah;UT 82;ut.ut082;Rerouted from 12800N onto 5400W at north end.
 2019-05-15;(USA) Utah;UT 83;ut.ut083;Route Truncated at south end from old UT 13 in Corinne to current UT 13 at 4800W.
