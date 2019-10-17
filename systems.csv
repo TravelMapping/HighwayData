@@ -32,6 +32,7 @@ cannsc;CAN;Nova Scotia Collector Highways;yellow;5;active
 cannt;CAN;Northwest Territorial Highways;brown;4;active
 canon;CAN;Ontario King's Highways;brown;4;active
 canpe;CAN;Prince Edward Island Provincial Highways;brown;4;active
+cansk;CAN;Saskatchewan Provincial Highways 1-399;brown;4;active
 canyt;CAN;Yukon Territorial Highways;brown;4;active
 chea;CHE;Switzerland Autobahnen / Autoroutes;blue;1;active
 cheh;CHE;Switzerland Hauptstrassen;lightsalmon;4;active
@@ -69,9 +70,13 @@ espas;ESP;Asturias Red Regional;yellow;5;active
 espcb;ESP;Cantabria Red Primaria;yellow;5;active
 espcl;ESP;Castile and Leon Red Básica;yellow;5;active
 espcm;ESP;Castilla-La Mancha Red Básica;yellow;5;active
+espcn;ESP;Canary Islands Red Regional;yellow;5;active
 espct;ESP;Catalonia Xarxa Básica;red;5;active
 espex;ESP;Extremadura Red Básica;yellow;5;active
+espga;ESP;Galicia Red Primaria Básica;yellow;5;active
+espib;ESP;Balearic Islands Red Primaria;yellow;5;active
 espmc;ESP;Region of Murcia Red de Primer Nivel;yellow;5;active
+espmd;ESP;Community of Madrid Red Principal;yellow;5;active
 espnc;ESP;Navarre Carreteras de Interés de la Comunidad Foral;yellow;5;active
 esppv;ESP;Basque Country Oinarrizko Sarea;yellow;5;active
 espri;ESP;La Rioja Red Regional Básica;yellow;5;active
@@ -156,6 +161,8 @@ nldrw;NLD;Netherlands Ringwegen;yellow;5;active
 nlds;NLD;Netherlands Stadsroutes;yellow;5;active
 norrv;NOR;Norway Riksveier;lightsalmon;4;active
 nzlmot;NZL;New Zealand Motorways;blue;1;active
+nzlsh;NZL;New Zealand State Highways;lightsalmon;4;active
+nzltr;NZL;New Zealand Tourist Routes;brown;5;active
 pakm;PAK;Pakistan Motorways;blue;1;active
 pola;POL;Poland Autostrada;blue;1;active
 pols;POL;Poland Drogi Ekspresowa;teal;2;active
@@ -271,17 +278,13 @@ canmbp;CAN;Manitoba Provincial Roads;yellow;5;preview
 canmbw;CAN;Winnipeg City Routes;yellow;5;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;brown;4;preview
 canqc;CAN;Québec Provincial Routes;brown;4;preview
-cansk;CAN;Saskatchewan Provincial Highways 1-399;brown;4;preview
 chng;CHN;China National Expressways;blue;1;preview
 cogn;COG;Congo Routes Nationales;green;4;preview
 comrn;COM;Comoros Routes Nationales;green;4;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
 deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;preview
-espcn;ESP;Canary Islands Red Regional;yellow;5;preview
-espga;ESP;Galicia Red Primaria Básica;yellow;5;preview
-espib;ESP;Balearic Islands Red Primaria;yellow;5;preview
-espmd;ESP;Community of Madrid Red Principal;yellow;5;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;brown;5;preview
+fragesd57;FRA;Grand-Est Routes Départementales (Moselle);yellow;5;preview
 fraidfd;FRA;Île-de-France Routes Départementales;yellow;5;preview
 glpd;FRA;Guadaloupe Routes Départementales;yellow;5;preview
 gufd;FRA;French Guiana Routes Départementales;yellow;5;preview
@@ -305,8 +308,6 @@ mwim;MWI;Malawi Main Roads;green;4;preview
 namb;NAM;Namibia Major Routes;green;4;preview
 nplh;NPL;Nepal Highways;lightsalmon;4;preview
 norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
-nzlsh;NZL;New Zealand State Highways;lightsalmon;4;preview
-nzltr;NZL;New Zealand Tourist Routes;brown;5;preview
 phle;PHL;Philippines Expressways;blue;1;preview
 roudj;ROU;Romania Drumuri Județene;yellow;5;preview
 rusa;RUS;Russia Access Roads;lightsalmon;4;preview
@@ -357,12 +358,11 @@ codn;COD;DRC Routes Nationale;green;4;devel
 #fracord;FRA;Corsica Routes Départementales;yellow;5;devel
 #fracvld;FRA;Centre-Val de Loire Routes Départementales;yellow;5;devel
 #fragesd;FRA;Grand-Est Routes Départementales;yellow;5;devel
-fragesd57;FRA;Grand-Est Routes Départementales (Moselle);yellow;5;devel
 #fragesd08;FRA;Grand-Est Routes Départementales (Ardennes);yellow;5;devel
 #fragesd10;FRA;Grand-Est Routes Départementales (Aube);yellow;5;devel
 #fragesd51;FRA;Grand-Est Routes Départementales (Marne);yellow;5;devel
 #fragesd52;FRA;Grand-Est Routes Départementales (Haute-Marne);yellow;5;devel
-#fragesd54;FRA;Grand-Est Routes Départementales (Meurthe-et-Moselle);yellow;5;devel
+fragesd54;FRA;Grand-Est Routes Départementales (Meurthe-et-Moselle);yellow;5;devel
 #fragesd55;FRA;Grand-Est Routes Départementales (Meuse);yellow;5;devel
 #fragesd88;FRA;Grand-Est Routes Départementales (Vosges);yellow;5;devel
 #frahdfd;FRA;Hauts-de-France Routes Départementales;yellow;5;devel
@@ -379,10 +379,17 @@ ngae;NGA;Nigeria Expressways;blue;1;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
 #usatxf;USA;Texas Farm to Market Roads 1-499;yellow;5;devel
 #usatxf2;USA;Texas Farm to Market Roads 500-999;yellow;5;devel
+#usatxf3;USA;Texas Farm to Market Roads 1000-1499;yellow;5;devel
+#usatxf4;USA;Texas Farm to Market Roads 1500-1999;yellow;5;devel
+#usatxf5;USA;Texas Farm to Market Roads 2000-2499;yellow;5;devel
+#usatxf5;USA;Texas Farm to Market Roads 2500-2999;yellow;5;devel
+#usatxf6;USA;Texas Farm to Market Roads 3000-3499;yellow;5;devel
+#usatxf7;USA;Texas Farm to Market Roads 3500-4000;yellow;5;devel
+#usatxr;USA;Texas Ranch to Market Roads;yellow;5;devel
 #Test Systems
-#eurer;EUR;IGNORE TEST E Roads with French Regions;green;3;preview
-#eursfr;EUR;IGNORE TEST Europe Freeways with French Regions;teal;2;preview
-#eurtrr;EUR;IGNORE TEST Europe Tourist with French Regions;brown;5;preview
-#fraar;FRA;IGNORE TEST France Autoroutes with Regions;blue;1;preview
-#franr;FRA;IGNORE TEST France Routes Nationales with Regions;lightsalmon;4;preview
-#fracort;FRA;IGNORE TEST Corsica Routes Territoriales with Regions;lightsalmon;4;preview
+eurer;EUR;IGNORE TEST E Roads with French Regions;green;3;preview
+eursfr;EUR;IGNORE TEST Europe Freeways with French Regions;teal;2;preview
+eurtrr;EUR;IGNORE TEST Europe Tourist with French Regions;brown;5;preview
+fraar;FRA;IGNORE TEST France Autoroutes with Regions;blue;1;preview
+franr;FRA;IGNORE TEST France Routes Nationales with Regions;lightsalmon;4;preview
+fracort;FRA;IGNORE TEST Corsica Routes Territoriales with Regions;lightsalmon;4;preview
