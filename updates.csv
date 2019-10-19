@@ -269,7 +269,7 @@
 2017-10-08;Czechia;D3 (Borek);cze.d003bor;New route
 2017-10-08;Czechia;E55;cze.e55;Route relocated from former I3 (now II603) onto new D3 section and I34 north of České Budějovice
 2017-10-08;Czechia;I3;cze.i003;Route truncated at north end from D3 exit 104 to temporary D3 end at Bošilec
-2017-10-08;Czechia;I3;cze.i003;Route relocted onto new D3 section and I34 north of České Budějovice
+2017-10-08;Czechia;I3;cze.i003;Route relocated onto new D3 section and I34 north of České Budějovice
 2017-10-08;Czechia;I20;cze.i020;Route truncated at east end from eastern junction with I34 to I3
 2017-10-08;Czechia;D4;cze.d004;Route extended at south end from exit 41 to exit 45
 2017-10-08;Czechia;I4;cze.i004mil;Route truncated at norht end from D4 exit 41 to exit 45
@@ -513,7 +513,7 @@
 2015-07-25;France;A64 (Bayonne);fra.a064bay;New Route
 2015-07-25;France;A660;fra.a660;Route extended at west end from D650E3 to D652
 2015-07-25;France;A719;fra.a719;Route extended at east end from exit 15 to exit 16
-2015-07-25;France;A75;fra.a075;Route extened at south end from exit 59 to the A9, including former Béziers section
+2015-07-25;France;A75;fra.a075;Route extended at south end from exit 59 to the A9, including former Béziers section
 2015-07-25;France;A75 (Béziers);;Route merged with main A75 route
 2015-07-25;France;A89;fra.a089;Route extended at west end from exit 19.1 to exit 9, including former Périgueux section
 2015-07-25;France;A89 (Périgueux);;Route merged with main A89 route
@@ -545,13 +545,15 @@
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2019-10-18;(Germany) Bavaria;B279;deuby.b279;Route relocated from through Wegfurt and onto bypass
+2019-10-18;(Germany) Bavaria;St2303;deuby.st2303;Route relocated from through Rieneck and onto bypass from Hauptstraße to Burgsinner Straße
 2019-10-07;(Germany) Bavaria;A94 (Mühldorf);deuby.a094;Route extended at west end from exit 17 to B12
 2019-10-07;(Germany) Bavaria;A94 (München);deuby.a094;Route merged into main route due to opening from exit 13 to exit 17
 2019-10-07;(Germany) Bavaria;E552;deuby.e552;Route relocated from B12 and onto A94 from exit 12 to exit 17
 2019-08-14;(Germany) Bavaria;B2 (Bayreuth);deuby.b002bay;Route extended at north end from A9 exit 41 to roundabout with St2181 and St2460
 2019-08-14;(Germany) Bavaria;St2460;deuby.st2460;Route extended at south end from St2183 to B2
 2019-08-14;(Germany) Bavaria;St2181 (Main);deuby.st2181;Route extended at west end from St2163 to B2
-2019-04-06;(Germany) Bavaria;B15;deuby.b015;Route truncted at north end from A93 Ponholz exit to B16 Regensburg (now St2397)
+2019-04-06;(Germany) Bavaria;B15;deuby.b015;Route truncated at north end from A93 Ponholz exit to B16 Regensburg (now St2397)
 2019-04-06;(Germany) Bavaria;St2397;deuby.st2397;Route extended at south end from A93 Ponholz exit to B16 Regensburg (former B15)
 2018-12-19;(Germany) Bavaria;Zubringer Flughafen München;deuby.zubflumun;New Route (former St2584)
 2018-11-24;(Germany) Bavaria;B15 (Landshut);deuby.b015;Route truncated at south end from A8 to St2080 at Pfaffenhofen
@@ -577,6 +579,10 @@
 2018-01-14;(Germany) Bremen;Autobahnzubringer Bremen-Arsten;deuhb.autzubars;New Route
 2016-09-04;(Germany) Bremen;Autobahnzubringer Bremen-Hemelingen;deuhb.autzubhem;New Route
 2015-09-10;(Germany) Bremen;A281;deuhb.a281;Route extended at north end from exit 4 to exit 3
+2019-10-18;(Germany) Hamburg;A252;;Route deleted (B75 now)
+2019-10-18;(Germany) Hamburg;A253;;Route deleted (B75 now)
+2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
+2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
 2019-04-06;(Germany) Hesse;B27;deuhe.b027;Route removed from through Marzhausen (now L3238) and onto road to A38 exit Friedland
 2018-12-19;(Germany) Hesse;B44;deuhe.b044;Route removed from through Klein-Rohrheim and onto bypass from K203 to roundabout north of Groß-Rohrheim
 2018-10-14;(Germany) Hesse;A671;deuhe.a671;Route truncated at north end from exit 1 to exit 2 (B263 now)
@@ -588,7 +594,8 @@
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
-2018-07-14;(Germany) Lower Saxony;B403 (Nordhorn);deuni.b403nor;New Route
+2019-10-18;(Germany) Lower Saxony;B51a;;New deleted (downgraded to local road)
+2019-07-14;(Germany) Lower Saxony;B403 (Nordhorn);deuni.b403nor;New Route
 2019-09-08;(Germany) Lower Saxony;B51 (Bohmte);deuni.b051boh;Route relocated from through Belm and onto new bypass from B51a/K314 to L87
 2019-09-08;(Germany) Lower Saxony;B51a;deuni.b051a;Route extended at north end from L87 to B51
 2019-04-06;(Germany) Lower Saxony;B27 (Friedland);;Route deleted (L569, L564 or L568 now)
@@ -614,6 +621,7 @@
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2019-10-18;(Germany) North Rhine-Westphalia;B56 (Soller);deunw.b056sol;New Route
 2019-07-15;(Germany) North Rhine-Westphalia;B611;deunw.b611;New Route
 2019-01-19;(Germany) North Rhine-Westphalia;L675 (Herdecke);deunw.l675;Route truncated at east end from Ergste (B236) to Boele (L704)
 2019-01-19;(Germany) North Rhine-Westphalia;L675 (Schwerte);deunw.l675sch;New Route (split from main route, Ergste (B236) to Kabel (L674)
@@ -658,6 +666,7 @@
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2019-10-18;(Germany) Rhineland-Palatinate;B327 (Kastellaun);deurp.b327kas;Route relocated from through Gödenroth and onto bypass from west of Gödenroth to L216
 2019-08-27;(Germany) Rhineland-Palatinate;B62a;deurp.b062a;New Route
 2019-04-06;(Germany) Rhineland-Palatinate;B271 (Kirchheim);;Route deleted
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Main);deurp.b271;Route relocated from through Kirchheim and onto bypass
@@ -1206,7 +1215,7 @@
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
 2019-10-17;Norway;Sandvika - Skaret Motorvei;nor.sanskamot;New Route
 2019-10-17;Norway;E16 (Oslo (branch));nor.e16osl;Route relocated from through Sandvika and onto new motorway bypass from exit 1 to exit 2
-2019-10-17;Norway;R77;nor.r077;Route relocated onto new alignment through Kjernfjelltunnelen between E6 and west of Junkerdal
+2019-10-17;Norway;Rv77;nor.rv077;Route relocated onto new alignment through Kjernfjelltunnelen between E6 and west of Junkerdal
 2019-07-06;Norway;E18;nor.e18;Route relocated onto new alignment from former exit 67 to former exit 70, old alignment is Fv421 now
 2019-07-06;Norway;Oslo - Kristiansand Motorvei (Kristiansand);nor.oslokrimotkri;Route extended at north end from former exit 67 to former exit 70
 2019-04-28;Norway;Rv80;nor.rv080;Route relocated onto new alignment through Bodøtunnelen from Olav V gate to east of Bodøtunnelen
@@ -1861,7 +1870,7 @@
 2017-06-25;Spain;A51;esp.av020;Route renamed as AV20
 2017-06-25;Spain;AV20;esp.av020;New Route
 2017-06-24;Spain;A33 (La Font de la Figuera);esp.a033fon;New Route
-2017-04-28;Spain;A7 (Valencia);esp.a007val;Route extened at southern end from A35 to exit 491
+2017-04-28;Spain;A7 (Valencia);esp.a007val;Route extended at southern end from A35 to exit 491
 2017-04-28;Spain;A7 (Alcoi);esp.a007val;Route merged into A7 Valencia section
 2017-04-28;Spain;CV40;esp.a007val;Route merged into A7 Valencia section
 2017-01-12;Spain;CM43;esp.cm043;Route extended from exit 13 to CM4001
@@ -3560,6 +3569,7 @@
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2019-10-17;(USA) Wisconsin;US 51 Business (Stevens Point);wi.us051busste;Truncated from south junction I-39 to Minnesota Avenue at/near city limits of Whiting
 2019-03-24;(USA) Wisconsin;WI 794 Spur (Milwaukee);;Deleted route
 2019-03-10;(USA) Wisconsin;US 53 Business (Minong);wi.us053busmin;Restored route
 2018-10-23;(USA) Wisconsin;US 45 Business (New London);wi.us045busnew;Removed from Old US 45 north of WI 54 and rerouted on WI 54 east to US 45
