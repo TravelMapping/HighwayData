@@ -13,6 +13,7 @@
 - `N22`, `N200`, `N324`, `N344`, `N346`, `N360`, `N386`, `N470a`, `N496`, `N502`, `N509`, `N521`, `N555`, `N581`, `N607`, `N661`, `N664`, `N686`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
 
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
+- `N246` is signed at junction with `N6` according to GSV from 2017 and later (km 0 post) but only indicated on OSM, not sure about east end
 - `N266` is signed at junction with `N266` according to GSV but only indicated on OSM further to the north; drafted according to GM
 - `N290` is indicated `N296` on OSM but it's signed `N290` according to 2013/2018 GSV in Brussegem (not yet on 2009 GSV)
 - `N317` should exist according to OSM and GM but not on GSV; extends to west and east according to GM
