@@ -19,11 +19,11 @@ KY3044 http://www.openstreetmap.org/?lat=38.366560&lon=-84.441605
 KY1842_S http://www.openstreetmap.org/?lat=38.377966&lon=-84.415426
 KY1842_N http://www.openstreetmap.org/?lat=38.380085&lon=-84.412937
 KY3018 http://www.openstreetmap.org/?lat=38.376250&lon=-84.378819
-US62_E http://www.openstreetmap.org/?lat=38.376065&lon=-84.325004
-US27_S +US27/62_S http://www.openstreetmap.org/?lat=38.376999&lon=-84.312049
+US27/62 +US62_E http://www.openstreetmap.org/?lat=38.376065&lon=-84.325004
+US27Bus_S +US27/62_S +US27_S http://www.openstreetmap.org/?lat=38.376999&lon=-84.312049
 KY3016 http://www.openstreetmap.org/?lat=38.382949&lon=-84.305584
-KY2358 http://www.openstreetmap.org/?lat=38.387869&lon=-84.297849
-US27/36 +US27/62_N http://www.openstreetmap.org/?lat=38.389101&lon=-84.297618
+BriSt http://www.openstreetmap.org/?lat=38.387869&lon=-84.297849
+US27Bus/36 +US27/62_N +US27/36 http://www.openstreetmap.org/?lat=38.389101&lon=-84.297618
 KY982 http://www.openstreetmap.org/?lat=38.388865&lon=-84.294276
 KY1940 http://www.openstreetmap.org/?lat=38.376486&lon=-84.244194
 KY1771 http://www.openstreetmap.org/?lat=38.368276&lon=-84.216084
@@ -56,7 +56,6 @@ KY111 http://www.openstreetmap.org/?lat=38.392902&lon=-83.691444
 KY156 http://www.openstreetmap.org/?lat=38.372347&lon=-83.630590
 KY1013_W http://www.openstreetmap.org/?lat=38.318562&lon=-83.576775
 KY1013_E http://www.openstreetmap.org/?lat=38.307113&lon=-83.567505
-KY3303 http://www.openstreetmap.org/?lat=38.300512&lon=-83.570294
 RawRd http://www.openstreetmap.org/?lat=38.283637&lon=-83.567677
 KY1895 http://www.openstreetmap.org/?lat=38.255167&lon=-83.525319
 KY158 http://www.openstreetmap.org/?lat=38.242865&lon=-83.513217
@@ -77,7 +76,7 @@ SandGapRd http://www.openstreetmap.org/?lat=38.158283&lon=-83.216157
 SteColdRd http://www.openstreetmap.org/?lat=38.145391&lon=-83.187232
 BinFordRd http://www.openstreetmap.org/?lat=38.150724&lon=-83.175988
 SimLp http://www.openstreetmap.org/?lat=38.137797&lon=-83.103633
-KY7_N http://www.openstreetmap.org/?lat=38.131687&lon=-83.099256
+KY7_N http://www.openstreetmap.org/?lat=38.131147&lon=-83.098333
 KY557 http://www.openstreetmap.org/?lat=38.106602&lon=-83.118911
 KY7_S http://www.openstreetmap.org/?lat=38.087655&lon=-83.124146
 KY719 http://www.openstreetmap.org/?lat=38.068805&lon=-83.090200
@@ -103,7 +102,9 @@ KY3215 http://www.openstreetmap.org/?lat=38.069649&lon=-82.680874
 OldKY32_W http://www.openstreetmap.org/?lat=38.078121&lon=-82.658746
 OldKY32_E +KY3395 http://www.openstreetmap.org/?lat=38.085476&lon=-82.655205
 KY3396 http://www.openstreetmap.org/?lat=38.104508&lon=-82.636285
-US23 http://www.openstreetmap.org/?lat=38.104879&lon=-82.627444
-KY2565_S http://www.openstreetmap.org/?lat=38.105487&lon=-82.611995
+US23 http://www.openstreetmap.org/?lat=38.104989&lon=-82.626940
+TownHillRd http://www.openstreetmap.org/?lat=38.104989&lon=-82.623968
+KY2565_S http://www.openstreetmap.org/?lat=38.103934&lon=-82.613143
+OldKY32 http://www.openstreetmap.org/?lat=38.105470&lon=-82.612005
 KY2565_N http://www.openstreetmap.org/?lat=38.108358&lon=-82.607059
 KY3 http://www.openstreetmap.org/?lat=38.112241&lon=-82.608991

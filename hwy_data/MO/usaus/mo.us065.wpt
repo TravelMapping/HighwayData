@@ -5,8 +5,8 @@ MO265 http://www.openstreetmap.org/?lat=36.569554&lon=-93.250086
 +X01 http://www.openstreetmap.org/?lat=36.590791&lon=-93.230495
 US65BusBra/165 http://www.openstreetmap.org/?lat=36.610472&lon=-93.232234
 +X02 http://www.openstreetmap.org/?lat=36.622244&lon=-93.222599
-MO76 http://www.openstreetmap.org/?lat=36.644354&lon=-93.227491
-US65BusBra/248 http://www.openstreetmap.org/?lat=36.657282&lon=-93.221966
+US65BusBra/76 +MO76 http://www.openstreetmap.org/?lat=36.644354&lon=-93.227491
+MO248 +US65BusBra/248 http://www.openstreetmap.org/?lat=36.657282&lon=-93.221966
 BraHilPkwy http://www.openstreetmap.org/?lat=36.669400&lon=-93.221312
 MO465 http://www.openstreetmap.org/?lat=36.711272&lon=-93.220840
 US160 http://www.openstreetmap.org/?lat=36.749313&lon=-93.222803
@@ -21,7 +21,7 @@ US65BusOza_S http://www.openstreetmap.org/?lat=37.004917&lon=-93.229702
 US65BusOza/14 http://www.openstreetmap.org/?lat=37.023593&lon=-93.228714
 MOsJ/CC http://www.openstreetmap.org/?lat=37.070168&lon=-93.228693
 EEvaRd http://www.openstreetmap.org/?lat=37.100569&lon=-93.232330
-US60/65Bus +US65BusSpr/60 http://www.openstreetmap.org/?lat=37.127878&lon=-93.230860
+US60/65Bus http://www.openstreetmap.org/?lat=37.127878&lon=-93.230860
 EBatSt http://www.openstreetmap.org/?lat=37.157999&lon=-93.224466
 MOsD_Gre +MOsD_Spr http://www.openstreetmap.org/?lat=37.180313&lon=-93.224616
 US65BusSpr_N http://www.openstreetmap.org/?lat=37.209619&lon=-93.225979
@@ -35,7 +35,7 @@ MOsA/KK http://www.openstreetmap.org/?lat=37.328195&lon=-93.167979
 +X08 http://www.openstreetmap.org/?lat=37.369168&lon=-93.169470
 MO125 http://www.openstreetmap.org/?lat=37.385657&lon=-93.159117
 MOsAA_Dal http://www.openstreetmap.org/?lat=37.422611&lon=-93.145072
-MO215 +MO215/O http://www.openstreetmap.org/?lat=37.459564&lon=-93.139697
+MO215 http://www.openstreetmap.org/?lat=37.459564&lon=-93.139697
 MO38 http://www.openstreetmap.org/?lat=37.517394&lon=-93.138152
 +X09 http://www.openstreetmap.org/?lat=37.568698&lon=-93.137712
 +X10 http://www.openstreetmap.org/?lat=37.623307&lon=-93.104582
@@ -60,7 +60,7 @@ MO7_S http://www.openstreetmap.org/?lat=38.174546&lon=-93.318526
 WilDr http://www.openstreetmap.org/?lat=38.195671&lon=-93.324856
 MO83 http://www.openstreetmap.org/?lat=38.231582&lon=-93.358566
 MainSt http://www.openstreetmap.org/?lat=38.242604&lon=-93.360347
-MO7_N +US65Spr/7 http://www.openstreetmap.org/?lat=38.253499&lon=-93.364413
+MO7_N http://www.openstreetmap.org/?lat=38.253499&lon=-93.364413
 TruDamARd http://www.openstreetmap.org/?lat=38.265141&lon=-93.368565
 MOsT_Ben http://www.openstreetmap.org/?lat=38.311179&lon=-93.341528
 MOsH_Ben http://www.openstreetmap.org/?lat=38.376443&lon=-93.338181
@@ -94,9 +94,9 @@ US24_W http://www.openstreetmap.org/?lat=39.204923&lon=-93.502986
 CR516 http://www.openstreetmap.org/?lat=39.231999&lon=-93.512320
 +X19 http://www.openstreetmap.org/?lat=39.279142&lon=-93.512278
 CR403 http://www.openstreetmap.org/?lat=39.316221&lon=-93.495895
-US65BusCar/10 http://www.openstreetmap.org/?lat=39.338380&lon=-93.490584
+MO10 +US65BusCar/10 http://www.openstreetmap.org/?lat=39.338380&lon=-93.490584
 +X20 http://www.openstreetmap.org/?lat=39.351390&lon=-93.478546
-US24/65BusCar +US65BusCar/24 http://www.openstreetmap.org/?lat=39.359238&lon=-93.481647
+US 24_E +US24/65BusCar http://www.openstreetmap.org/?lat=39.359238&lon=-93.481647
 +X21 http://www.openstreetmap.org/?lat=39.402742&lon=-93.484983
 +X22 http://www.openstreetmap.org/?lat=39.421790&lon=-93.475671
 MOsW_Car http://www.openstreetmap.org/?lat=39.456226&lon=-93.476186
@@ -108,15 +108,15 @@ MOsH/J http://www.openstreetmap.org/?lat=39.659017&lon=-93.479115
 MOsZ_Liv http://www.openstreetmap.org/?lat=39.709209&lon=-93.555064
 US36 http://www.openstreetmap.org/?lat=39.773120&lon=-93.552693
 US36Bus http://www.openstreetmap.org/?lat=39.774984&lon=-93.552704
-MOsV_Liv +MOsV_Chi http://www.openstreetmap.org/?lat=39.796016&lon=-93.553702
+MOsV_Liv http://www.openstreetmap.org/?lat=39.796016&lon=-93.553702
 MO190 http://www.openstreetmap.org/?lat=39.818796&lon=-93.552264
 243rdSt http://www.openstreetmap.org/?lat=39.835317&lon=-93.540709
 MOsK_Liv http://www.openstreetmap.org/?lat=39.921273&lon=-93.540838
 MOsZ_Gru http://www.openstreetmap.org/?lat=39.992427&lon=-93.543413
 SE10thAve http://www.openstreetmap.org/?lat=39.995468&lon=-93.578743
 SE8thAve http://www.openstreetmap.org/?lat=40.059302&lon=-93.579719
-US65BusTre/6 http://www.openstreetmap.org/?lat=40.075223&lon=-93.592422
-US65BusTre_N http://www.openstreetmap.org/?lat=40.090138&lon=-93.598387
+MO6 +US65BusTre/6 http://www.openstreetmap.org/?lat=40.075223&lon=-93.592422
+28thSt +US65BusTre_N http://www.openstreetmap.org/?lat=40.090138&lon=-93.598387
 MOsA_Gru http://www.openstreetmap.org/?lat=40.133643&lon=-93.604202
 MOsO_Gru http://www.openstreetmap.org/?lat=40.163625&lon=-93.596478
 MOsB/C http://www.openstreetmap.org/?lat=40.248915&lon=-93.585759
