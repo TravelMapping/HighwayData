@@ -31,7 +31,7 @@
 
 **NOTES TO NOT DRAFTED ROUTES:**
 - `N149`, `N159`, `N183`, `N205`, `N206`, `N210`, `N215`, `N219`, `N220`, `N236`, `N247`, `N256`, `N259`, `N265`, `N274`, `N281`, `N289`, `N291`, `N292`, `N294`, `N295`, `N334`, `N335`, `N342`, `N359`, `N422`, `N473`, `N556`, `N756`, `N764` and `N824` should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
-- `N213`, `N214`, `N216`, `N224`, `N225`, `N228`, `N231`, `N235`, `N242`, `N244`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N378`, `N404`, `N426`, `N516`, `N522`, `N578`, `N605`, `N628`, `N732` `N869` and `N887` should exist according to wegenwiki and wikisara but not indicated on any map
+- `N213`, `N214`, `N216`, `N224`, `N225`, `N228`, `N231`, `N235`, `N242`, `N244`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N378`, `N404`, `N426`, `N516`, `N522`, `N578`, `N605`, `N628`, `N732` and `N869` should exist according to wegenwiki and wikisara but not indicated on any map
 - `N384`, `N542`, `N551`, `N560`, `N590`, `N598`, `N600`, `N625`, `N662`, `N665`, `N731`, `N767`, `N794`, `N795` and `N867` should exist according to wegenwiki but no info about location and not found on any map
 
 - `N8` route through Ieper should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
