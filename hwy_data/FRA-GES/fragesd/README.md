@@ -29,7 +29,8 @@ FRA-88 = `Vos` = Vosges
 - `D22E` is indicated on GM and wikisara but not on OSM or GSV. Not in HB.
 - `D33` and `D33A` are partially indicated on OSM and GM but there is only one `D33A` sign at the junction of both routes. Not in HB.
 - `D35`, `D41` and `D43` not yet added due to lack of info whether they exist at all and where
-- `D39` is indicated on OSM and GM (western Nancy) but not on wikisara nor GSV. Start and end point not clear. Not in HB.
+- `D39`, `D92A`, `D93`, `D92A`, `D92B` and `D92C` are indicated on OSM and GM (western Nancy) but not on wikisara nor GSV. Start and end points not clear. Not in HB. If they would exist they had most likely been renamed to Mxxx.
+- `D92` is indicated on OSM and GM through western Nancy but not on wikisara nor GSV. End point not clear, set to western city entrance.
 - It seems that some route segments are dedicated as M routes (not yet considered when drafting routes!): https://routes.fandom.com/wiki/M%C3%A9tropole_du_Grand_Nancy (`M2`, `M32`, `M71`, `M83`, `M112`, `M321`,`M400`,`M570`, `M974`)
 
 *FRA-57 - Moselle:*
