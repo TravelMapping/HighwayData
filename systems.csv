@@ -73,6 +73,8 @@ espcm;ESP;Castilla-La Mancha Red Básica;yellow;5;active
 espcn;ESP;Canary Islands Red Regional;yellow;5;active
 espct;ESP;Catalonia Xarxa Básica;red;5;active
 espex;ESP;Extremadura Red Básica;yellow;5;active
+espga;ESP;Galicia Red Primaria Básica;yellow;5;active
+espib;ESP;Balearic Islands Red Primaria;yellow;5;active
 espmc;ESP;Region of Murcia Red de Primer Nivel;yellow;5;active
 espmd;ESP;Community of Madrid Red Principal;yellow;5;active
 espnc;ESP;Navarre Carreteras de Interés de la Comunidad Foral;yellow;5;active
@@ -86,10 +88,10 @@ alavt;FIN;Åland Valtatiet;lightsalmon;4;active
 finkt;FIN;Finland Kantatiet;yellow;5;active
 alakt;FIN;Åland Kantatiet;yellow;5;active
 fraa;FRA;France Autoroutes;blue;1;active
-ncle;FRA;New Caledonia Voie Express;teal;2;active
 mtqa;FRA;Martinique Autoroutes;blue;1;active
+ncle;FRA;New Caledonia Voie Express;teal;2;active
 fran;FRA;France Routes Nationales;lightsalmon;4;active
-frht;FRA;Corsica Routes Territoriales;lightsalmon;4;active
+fracort;FRA;Corsica Routes Territoriales;lightsalmon;4;active
 gufn;FRA;French Guiana Routes Nationales;lightsalmon;4;active
 pyft;FRA;French Polynesia Routes Territoriales;lightsalmon;4;active
 glpn;FRA;Guadeloupe Routes Nationales;lightsalmon;4;active
@@ -281,9 +283,6 @@ cogn;COG;Congo Routes Nationales;green;4;preview
 comrn;COM;Comoros Routes Nationales;green;4;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
 deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;preview
-espga;ESP;Galicia Red Primaria Básica;yellow;5;preview
-espib;ESP;Balearic Islands Red Primaria;yellow;5;preview
-eursfg;ESP;Galicia VAC for merging into eursf;teal;2;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;brown;5;preview
 fragesd57;FRA;Grand-Est Routes Départementales (Moselle);yellow;5;preview
 fraidfd;FRA;Île-de-France Routes Départementales;yellow;5;preview
@@ -380,11 +379,10 @@ ngae;NGA;Nigeria Expressways;blue;1;devel
 rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
 #usatxf;USA;Texas Farm to Market Roads 1-499;yellow;5;devel
 #usatxf2;USA;Texas Farm to Market Roads 500-999;yellow;5;devel
+#usatxf3;USA;Texas Farm to Market Roads 1000-1499;yellow;5;devel
+#usatxf4;USA;Texas Farm to Market Roads 1500-1999;yellow;5;devel
+#usatxf5;USA;Texas Farm to Market Roads 2000-2499;yellow;5;devel
+#usatxf5;USA;Texas Farm to Market Roads 2500-2999;yellow;5;devel
+#usatxf6;USA;Texas Farm to Market Roads 3000-3499;yellow;5;devel
+#usatxf7;USA;Texas Farm to Market Roads 3500-4000;yellow;5;devel
 #usatxr;USA;Texas Ranch to Market Roads;yellow;5;devel
-#Test Systems
-#eurer;EUR;IGNORE TEST E Roads with French Regions;green;3;preview
-#eursfr;EUR;IGNORE TEST Europe Freeways with French Regions;teal;2;preview
-#eurtrr;EUR;IGNORE TEST Europe Tourist with French Regions;brown;5;preview
-#fraar;FRA;IGNORE TEST France Autoroutes with Regions;blue;1;preview
-#franr;FRA;IGNORE TEST France Routes Nationales with Regions;lightsalmon;4;preview
-#fracort;FRA;IGNORE TEST Corsica Routes Territoriales with Regions;lightsalmon;4;preview
