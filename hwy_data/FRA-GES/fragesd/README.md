@@ -31,6 +31,8 @@ FRA-88 = `Vos` = Vosges
 - `D35`, `D41` and `D43` not yet added due to lack of info whether they exist at all and where
 - `D39`, `D92A`, `D93`, `D92A`, `D92B` and `D92C` are indicated on OSM and GM (western Nancy) but not on wikisara nor GSV. Start and end points not clear. Not in HB. If they would exist they had most likely been renamed to Mxxx.
 - `D92` is indicated on OSM and GM through western Nancy but not on wikisara nor GSV. End point not clear, set to western city entrance.
+- `D199` end point is wild guess, only signed at roundabout with `D400`
+- `D974B` is the old alignment - bypass opened in 2018 or 2019 - which is still indicated being `D974` on OSM, to be checked before activation
 - It seems that some route segments are dedicated as M routes (not yet considered when drafting routes!): https://routes.fandom.com/wiki/M%C3%A9tropole_du_Grand_Nancy (`M2`, `M32`, `M71`, `M83`, `M112`, `M321`,`M400`,`M570`, `M974`)
 
 *FRA-57 - Moselle:*
