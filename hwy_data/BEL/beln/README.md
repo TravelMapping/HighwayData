@@ -35,7 +35,6 @@
 - `N384`, `N542`, `N551`, `N560`, `N590`, `N598`, `N600`, `N625`, `N662`, `N665`, `N731`, `N767`, `N794`, `N795` and `N867` should exist according to wegenwiki but no info about location and not found on any map
 
 - `N8` route through Ieper should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
-- `N23` is not signed according to wegenwiki and not on any map
 - `N24` is not signed according to wegenwiki and only indicated on GM
 - `N34g` should exist (not being signed) according to wegenwiki (length of just 200m) and wikisara but it's not indicated on GSV nor GM and OSM seems to indicate it wrong (not from N34 to the station but from the station to the north)
 - `N34y` and `N34z` should be signed according to wegenwiki and wikisara but they are one-way lanes only and not on any map; opposite direction is signed `N34`
