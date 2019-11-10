@@ -36,6 +36,9 @@ FRA-88 = `Vos` = Vosges
 - `D974B` is the old alignment - bypass opened in 2018 or 2019 - which is still indicated being `D974` on OSM, to be checked before activation
 - It seems that some route segments are dedicated as M routes (not yet considered when drafting routes!): https://routes.fandom.com/wiki/M%C3%A9tropole_du_Grand_Nancy (`M2`, `M32`, `M71`, `M83`, `M112`, `M321`,`M400`,`M570`, `M974`)
 
+*FRA-55 - Meuse:*
+- `D1916` is only signed `Voie Sacrée`, in HB as `fran` route `NVS`
+
 *FRA-57 - Moselle:*
 - `D8A` is indicated on GM and wikisara but not on OSM/GSV. Added though.
 - `D33` exist according to OSM and GSV but GM claims that the northern segment is `D82A`
@@ -46,4 +49,5 @@ FRA-88 = `Vos` = Vosges
 
 *FRA-88 - Vosges:*
 - `D2F` end not clear dur to lack of GSV coverage. It is signed at junction with `D2` (2011 GSV) and it is not signed at junction with `D9` (2018 GSV). It crosses the border to BFC and back to GES
-- `D9` extends into Meurthe-et-Moselle and back to Vosges. There are `D9` milepost in MeM. To be included.
+- `D9` extends into Meurthe-et-Moselle and back to Vosges. There are `D9` milepost in MeM. Included.
+- `D22` extends into Haute-Marne a little bit and back to Vosges. Included.
