@@ -51,3 +51,4 @@ FRA-88 = `Vos` = Vosges
 - `D2F` end not clear dur to lack of GSV coverage. It is signed at junction with `D2` (2011 GSV) and it is not signed at junction with `D9` (2018 GSV). It crosses the border to BFC and back to GES
 - `D9` extends into Meurthe-et-Moselle and back to Vosges. There are `D9` milepost in MeM. Included.
 - `D22` extends into Haute-Marne a little bit and back to Vosges. Included.
+- `D182` is signed at the border stone with both departements

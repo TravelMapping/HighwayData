@@ -1,7 +1,7 @@
 N57 http://www.openstreetmap.org/?lat=48.033646&lon=6.580296
 D417 http://www.openstreetmap.org/?lat=48.014932&lon=6.609371
 D466_N  D466 http://www.openstreetmap.org/?lat=47.998710&lon=6.619102
-D35A http://www.openstreetmap.org/?lat=47.988837&lon=6.621429
+D35A/D466 +D35A http://www.openstreetmap.org/?lat=47.988837&lon=6.621429
 +X28 http://www.openstreetmap.org/?lat=47.950199&lon=6.626580
 ToD466 +ToRueSin http://www.openstreetmap.org/?lat=47.936644&lon=6.639798
 +X01 http://www.openstreetmap.org/?lat=47.908425&lon=6.656964
@@ -12,8 +12,8 @@ D486_N http://www.openstreetmap.org/?lat=47.879927&lon=6.764620
 D486_S +D486 http://www.openstreetmap.org/?lat=47.878871&lon=6.765537
 D465 http://www.openstreetmap.org/?lat=47.855366&lon=6.819581
 D90 http://www.openstreetmap.org/?lat=47.859183&lon=6.824226
-D89_W http://www.openstreetmap.org/?lat=47.886640&lon=6.857762
-D89_E +RouSou http://www.openstreetmap.org/?lat=47.889449&lon=6.895165
+D89 +D89_W http://www.openstreetmap.org/?lat=47.886640&lon=6.857762
+RouSou +D89_E http://www.openstreetmap.org/?lat=47.889449&lon=6.895165
 +X06 http://www.openstreetmap.org/?lat=47.880621&lon=6.920207
 +X07 http://www.openstreetmap.org/?lat=47.884456&lon=6.920099
 +X10 http://www.openstreetmap.org/?lat=47.877520&lon=6.934175
