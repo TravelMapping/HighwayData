@@ -1,8 +1,8 @@
 GA/SC http://www.openstreetmap.org/?lat=32.103326&lon=-81.087350
 +X000(US17) http://www.openstreetmap.org/?lat=32.136846&lon=-81.052612
 SC315 +SC170Alt http://www.openstreetmap.org/?lat=32.153238&lon=-81.054786
-SC170_S http://www.openstreetmap.org/?lat=32.181837&lon=-81.078705
-SC170_N http://www.openstreetmap.org/?lat=32.203233&lon=-81.073220
+SC170_W +SC170_S http://www.openstreetmap.org/?lat=32.181837&lon=-81.078705
+SC170_E +SC170_N http://www.openstreetmap.org/?lat=32.203233&lon=-81.073220
 I-95(5) http://www.openstreetmap.org/?lat=32.273155&lon=-81.080604
 US321 http://www.openstreetmap.org/?lat=32.283780&lon=-81.081986
 SC46 http://www.openstreetmap.org/?lat=32.287232&lon=-81.081076
@@ -15,14 +15,14 @@ I-95(22) http://www.openstreetmap.org/?lat=32.500886&lon=-80.971599
 I-95(28) http://www.openstreetmap.org/?lat=32.579392&lon=-80.930411
 +X003(I95) http://www.openstreetmap.org/?lat=32.601747&lon=-80.900702
 I-95(33) http://www.openstreetmap.org/?lat=32.631551&lon=-80.881745
-US21/17Alt +US21/17Alt_N http://www.openstreetmap.org/?lat=32.640886&lon=-80.852869
+US21/17Alt http://www.openstreetmap.org/?lat=32.640886&lon=-80.852869
 +X001(US17) http://www.openstreetmap.org/?lat=32.601856&lon=-80.798435
 US21_S http://www.openstreetmap.org/?lat=32.601675&lon=-80.759484
 S-7-33 http://www.openstreetmap.org/?lat=32.643784&lon=-80.706716
 +X002(US17) http://www.openstreetmap.org/?lat=32.661995&lon=-80.656675
-SC303 http://www.openstreetmap.org/?lat=32.711874&lon=-80.607978
+SC303 http://www.openstreetmap.org/?lat=32.713103&lon=-80.606968
 S-15-14 http://www.openstreetmap.org/?lat=32.737056&lon=-80.587751
-SC64 http://www.openstreetmap.org/?lat=32.774133&lon=-80.460789
+SC64 http://www.openstreetmap.org/?lat=32.774024&lon=-80.460895
 +X003(US17) http://www.openstreetmap.org/?lat=32.762586&lon=-80.439266
 SC174 http://www.openstreetmap.org/?lat=32.755496&lon=-80.345991
 SC165 http://www.openstreetmap.org/?lat=32.776372&lon=-80.247747
@@ -39,8 +39,8 @@ US78 http://www.openstreetmap.org/?lat=32.796089&lon=-79.943836
 I-26(221) http://www.openstreetmap.org/?lat=32.797159&lon=-79.942918
 I-26(220) http://www.openstreetmap.org/?lat=32.803030&lon=-79.947531
 US52 http://www.openstreetmap.org/?lat=32.803538&lon=-79.945180
-US52Spr http://www.openstreetmap.org/?lat=32.804228&lon=-79.940905
-US52Spr_A http://www.openstreetmap.org/?lat=32.805016&lon=-79.933333
+MorDr +US52Spr http://www.openstreetmap.org/?lat=32.804228&lon=-79.940905
+EastBaySt +US52Spr_A http://www.openstreetmap.org/?lat=32.805016&lon=-79.933333
 SC703 http://www.openstreetmap.org/?lat=32.801096&lon=-79.901481
 HouNorBlvd http://www.openstreetmap.org/?lat=32.804451&lon=-79.891107
 I-526(30) http://www.openstreetmap.org/?lat=32.814111&lon=-79.849561
@@ -61,7 +61,7 @@ AirRd http://www.openstreetmap.org/?lat=33.317646&lon=-79.324926
 MarSt http://www.openstreetmap.org/?lat=33.350363&lon=-79.292936
 BouSt http://www.openstreetmap.org/?lat=33.363676&lon=-79.295380
 US521 http://www.openstreetmap.org/?lat=33.373669&lon=-79.288655
-US701/17Alt +US701/17Alt_N http://www.openstreetmap.org/?lat=33.375072&lon=-79.287810
+US701/17Alt http://www.openstreetmap.org/?lat=33.375072&lon=-79.287810
 StJamSt http://www.openstreetmap.org/?lat=33.367653&lon=-79.274282
 HobRd http://www.openstreetmap.org/?lat=33.364531&lon=-79.226983
 VanBlvd http://www.openstreetmap.org/?lat=33.412699&lon=-79.188015
@@ -76,8 +76,8 @@ SC707_Myr http://www.openstreetmap.org/?lat=33.684662&lon=-78.960094
 HarBlvd http://www.openstreetmap.org/?lat=33.703537&lon=-78.930920
 US501 http://www.openstreetmap.org/?lat=33.709047&lon=-78.914289
 CelCir +LoopRd http://www.openstreetmap.org/?lat=33.718667&lon=-78.884926
-GeoBisPkwy http://www.openstreetmap.org/?lat=33.739285&lon=-78.850322
-67thAveN http://www.openstreetmap.org/?lat=33.747172&lon=-78.836088
+RobGriPkwy +GeoBisPkwy http://www.openstreetmap.org/?lat=33.739285&lon=-78.850322
+67thAve +67thAveN http://www.openstreetmap.org/?lat=33.747172&lon=-78.836088
 82ndPkwy http://www.openstreetmap.org/?lat=33.761381&lon=-78.817066
 US17Bus_N http://www.openstreetmap.org/?lat=33.768846&lon=-78.804416
 SC22 http://www.openstreetmap.org/?lat=33.786900&lon=-78.776125
@@ -85,9 +85,9 @@ BarRBrgRd http://www.openstreetmap.org/?lat=33.799484&lon=-78.736560
 SC65 http://www.openstreetmap.org/?lat=33.807367&lon=-78.715280
 MainSt http://www.openstreetmap.org/?lat=33.828320&lon=-78.679951
 OldUS17 http://www.openstreetmap.org/?lat=33.841667&lon=-78.663054
-SC9_E http://www.openstreetmap.org/?lat=33.847337&lon=-78.652957
+SC9_S +SC9_E http://www.openstreetmap.org/?lat=33.847337&lon=-78.652957
 SC90 http://www.openstreetmap.org/?lat=33.859091&lon=-78.656675
-SC9_W http://www.openstreetmap.org/?lat=33.862767&lon=-78.657592
+SC9_N +SC9_W http://www.openstreetmap.org/?lat=33.862767&lon=-78.657592
 SC90_End http://www.openstreetmap.org/?lat=33.864862&lon=-78.645389
 SC179 http://www.openstreetmap.org/?lat=33.886777&lon=-78.597308
 SC/NC http://www.openstreetmap.org/?lat=33.895096&lon=-78.592415
