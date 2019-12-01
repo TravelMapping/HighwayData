@@ -11,11 +11,10 @@ eursf;AdaMot;;Ådalsmotorvejen;dnk.adamot
 eursf;AliLed;;Alingsåsleden, Göteborg;swe.aliled
 eursf;AmaMot;;Amagermotorvejen;dnk.amamot
 eursf;AngLed;;Ängelholmsleden, Helsingborg;swe.angled
-eursf;AntAixPro;;Antenne d'Aix-en-Provence;fra.antaixpro
-eursf;AntChiMaz;;Antenne de Chilly-Mazarin;fra.antchimaz
-eursf;AntMon;;Antenne de Montreuil;fra.antmon
-eursf;AntVil;;Antenne de Villemomble;fra.antvil
-eursf;D2701;;Antenne de Saran;fra.d2701
+eursf;AntAixPro;;Antenne d'Aix-en-Provence;frapac.antaixpro
+eursf;AntChiMaz;;Antenne de Chilly-Mazarin;fraidf.antchimaz
+eursf;AntVil;;Antenne de Villemomble;fraidf.antvil
+eursf;D2701;;Antenne de Saran;fracvl.d2701
 eursf;ArbVag;;Arbogavägen, Örebro;swe.arbvag
 eursf;ArhSMot;;Århus Syd Motorvejen;dnk.arhsmot
 eursf;ArlLed;;Arlandaleden, Stockholm;swe.arlled
@@ -29,6 +28,7 @@ eursf;K854;;Autobahnzubringer Erlensee;deuhe.k854
 eursf;K4;;Autobahnzubringer Köln-Ehrenfeld;deunw.k004
 eursf;AutBLDob;;Autoput Banja Luka - Doboj;bih.autbldob
 eursf;AutGraBL;;Autoput Gradiška - Banja Luka;bih.autgrabl
+eursf;AutSol;;Autoroute du Soleil, Lyon;fraara.autsol
 eursf;AutoStr;;Autostradan, Malmo;swe.autostr
 eursf;AutGalsIns;;Autostrasse Gals - Ins;che.autgalsins
 eursf;AutOenKlu;;Autostrasse Oensingen - Klus;che.autoenklu
@@ -48,11 +48,11 @@ eursf;AvtMajTer;;Avtopatishta Majka Tereza;mkd.avtmajter
 eursf;AvtGoceDel;;Avtopatishta Goce Delchev;mkd.avtgocedel
 eursf;AvtKhaDni;;Avtostrada Kharkiv - Dnipro;ukr.avtkhadni
 eursf;AvtKievBor;;Avtostrada Kiev - Boryspil;ukr.avtkievbor
-eursf;D383;;Boulevard Laurent Bonnevay, Lyon;fra.d383
-eursf;D651;;Boulevard Péripherique Est de Lille;fra.d651
-eursf;BP;;Boulevard Péripherique, Paris;fra.bp
-eursf;D301;;Boulevard Urbain Sud, Lyon;fra.d301
-eursf;BreBonSei;;Bretelle de Bonnières-sur-Seine;fra.brebonsei
+eursf;D383;;Boulevard Laurent Bonnevay, Lyon;fraara.d383
+eursf;D651;;Boulevard Péripherique Est de Lille;frahdf.d651
+eursf;BP;;Boulevard Péripherique, Paris;fraidf.bp
+eursf;D301;;Boulevard Urbain Sud, Lyon;fraara.d301
+eursf;BreBonSei;;Bretelle de Bonnières-sur-Seine;fraidf.brebonsei
 eursf;BreLau;;Bretelle Lausanne;che.brelau
 eursf;BroKarMot;;Bromölla - Karlshamn motorvägen;swe.brokarmot
 eursf;BulSunMot;;Bulltofta - Sunnanå motorvägen, Malmö;swe.bulsunmot
@@ -121,15 +121,15 @@ eursf;KunLed;;Kungälvsleden, Göteborg;swe.kunled
 eursf;KunBacLed;;Kunsbackaleden, Göteborg;swe.kunbacled
 eursf;KuoMoo;;Kuopion Moottoritie;fin.kuomoo
 eursf;LanVay;;Länsiväylä, Helsinki;fin.lanvay
-eursf;D901;;Le Fil d'Ariane, Toulouse;fra.d901
+eursf;D901;;Le Fil d'Ariane, Toulouse;fraocc.d901
 eursf;LekOreMot;;Lekhyttan - Örebro motorvägen;swe.lekoremot
 eursf;LenTie;;Lentpasemantie, Helsinki;fin.lentie
-eursf;LiaSOMans;;Liaison Sud-Ouest du Mans;fra.liasomans
+eursf;LiaSOMans;;Liaison Sud-Ouest du Mans;frapdl.liasomans
 eursf;LufVei;;Lufthavnveien, Gardemoen;nor.lufvei
 eursf;LundLinMot;;Lund - Linderöd motorvägen;swe.lundlinmot
 eursf;LunLed;;Lundbyleden, Göteborg;swe.lunled
 eursf;LynMot;;Lyngbymotorvejen;dnk.lynmot
-eursf;TEO;;Lyon Tangent Est-Ost;fra.teo
+eursf;TEO;;Lyon Tangent Est-Ost;fraara.teo
 eursf;MalStr;;Mallinckrodtstraße Dortmund;deunw.malstrdor
 eursf;IRingVag;;Malmo Inre Ringvagen;swe.inreringvag
 eursf;YRingVag;;Malmo Yttre Ringvagen;swe.yttringvag
@@ -180,7 +180,7 @@ eursf;OulMoo;;Ouluun moottoritie;fin.oulmoo
 eursf;ParBin;;Partihallsförbindelsen, Göteborg;swe.parbin
 eursf;PerTie;;Perämerentie;fin.pertie
 eursf;PerOdosThe;;Periphereiakḗ Odós Thessaloníkēs;grc.perodosthe
-eursf;D37;;Péripherique de Tours;fra.d037
+eursf;D37;;Péripherique de Tours;fracvl.d037
 eursf;PitNorMot;;Piteå - Norrfjärden motorvägen;swe.pitnormot
 eursf;ProRad;;Prosecká radiála, Praha;cze.prorad
 eursf;RadRad;;Radlická radiála, Praha;cze.radrad
@@ -188,11 +188,11 @@ eursf;RAPis;;R.A. di Pistoia;ita.rapis
 eursf;RARegCal;;R.A. di Reggio Calabria;ita.raregcal
 eursf;RheBru;;Rheinallee/Rheinkniebrücke Düsseldorf;deunw.rhebrudus
 eursf;Ring3;;Oslo Ring 3;nor.ring3
-eursf;D980;;Rocade Arc-en-Ciel, Toulouse;fra.d980
-eursf;RocEst;;Rocade Est du Calais;fra.rocest
-eursf;D652;;Rocade Nord Ouest, Lille;fra.d652
+eursf;D980;;Rocade Arc-en-Ciel, Toulouse;fraocc.d980
+eursf;RocEst;;Rocade Est du Calais;frahdf.rocest
+eursf;D652;;Rocade Nord Ouest, Lille;frahdf.d652
 eursf;V1.4;;Rolda do Real Clube Deportivo da Coruna;espga.v0014
-eursf;D64;;Route de Luxeuil, Lure;fra.d064
+eursf;D64;;Route de Luxeuil, Lure;frabfc.d064
 eursf;SGCFirLiv;;S.G.C. Firenze-Pisa-Livorno (Livorno);ita.sgcfirliv
 eursf;SGCFirPisa;;S.G.C. Firenze-Pisa-Livorno (Pisa);ita.sgcfirpisa
 eursf;SalLed;;Saltsjöbadsleden, Stockholm;swe.salled
@@ -229,7 +229,7 @@ eursf;TilWeg;;Tilburgseweg, Eindhoven;nld.tilweg
 eursf;TofJonMot;;Toftaholm - Jönköping motorvägen;swe.tofjonmot
 eursf;TreVag;;Trelleborgvägen, Malmo;swe.trevag
 eursf;TroLed;;Trollhättanleden, Göteborg;swe.troled
-eursf;TunPra;;Tunnel du Prado, Marseille;fra.tunpra
+eursf;TunPra;;Tunnel du Prado, Marseille;frapac.tunpra
 eursf;TunRd;;Tunnel Road, Heathrow;eng.tunrd
 eursf;TuuVay;;Tuusulanväylä, Helsinki;fin.tuuvay
 eursf;TyrVag;;Tyresövägen, Stockholm;swe.tyrvag
@@ -270,10 +270,10 @@ eursf;VG4.1;;Vía do Saines;espga.vg0041
 eursf;VilKauGre;;Vilnius - Kaunas Greitkelio;ltu.vilkaugre
 eursf;VilPanGre;;Vilnius - Panevezys Greitkelio;ltu.vilpangre
 eursf;K16;;Vingster Ring Köln;deunw.k016
-eursf;D137;;Voie Express Rennes - St Malo;fra.d137
-eursf;D902;;Voie Lactée, Toulouse;fra.d902
+eursf;D137;;Voie Express Rennes - St Malo;frabre.d137
+eursf;D902;;Voie Lactée, Toulouse;fraocc.d902
 eursf;VR1;;Via Rápida 1, Madeira;prt.vr001
-eursf;D656;;Voie Rapide Urbane, Roubaix;fra.d656
+eursf;D656;;Voie Rapide Urbane, Roubaix;frahdf.d656
 eursf;VysRad;;Vysočanská radiála, Praha;cze.vysrad
 eursf;WatWeg;;Waterlinieweg, Utrecht;nld.watweg
 eursf;WesVal;;Westerval, Enschede;nld.wesval
