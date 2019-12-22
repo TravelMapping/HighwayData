@@ -23,7 +23,6 @@ usausb;US1;Bus;Penndel, PA;pa.us001buspen
 usausb;US1;Bus;Trenton, NJ;nj.us001bustre
 usausb;US1;Trk;Jersey City, NJ;nj.us001trkjer
 usausb;US1;Alt;Stonington, CT;ct.us001altsto
-usausb;US1;Alt;Providence, RI;ri.us001altpro
 usausb;US1;Bus;Warwick, RI;ri.us001buswar
 usausb;US1;Byp;Portsmouth, NH;nh.us001byppor,me.us001byppor
 usausb;US1;Alt;York, ME;me.us001altyor
@@ -34,6 +33,7 @@ usausb;US1;Alt;Milbridge, ME;me.us001altmil
 usausb;US1;Alt;Machias, ME;me.us001altmac
 usausb;US1;Alt;Fort Fairfield, ME;me.us001altfor
 usausb;US1;Bus;Damariscotta, ME;me.us001busdam
+usausb;US1;Byp;Presque Isle, ME;me.us001byppre
 usausb;US2;Bus;Cashmere, WA;wa.us002buscas
 usausb;US2;Bus;Williston, ND;nd.us002buswil
 usausb;US2;Bus;Minot, ND;nd.us002busmin
@@ -47,6 +47,7 @@ usausb;US2;Trk;(South) St. Johnsbury, VT;vt.us002trkssj
 usausb;US2;Alt;Orono, ME;me.us002altoro
 usausb;US2;Alt;Houlton, ME;me.us002althou
 usausb;US3;Bus;Laconia, NH;nh.us003buslac
+usausb;US3;Trk;Northumberland, NH;nh.us003trknor
 usausb;US4;Bus;Rutland, VT;vt.us004busrut
 usausb;US5;Alt;St. Johnsbury, VT;vt.us005altstj
 usausb;US5;Trk;Newport, VT;vt.us005trknew
@@ -121,7 +122,6 @@ usausb;US16;Alt;Custer, SD;sd.us016altcus
 usausb;US16;Trk;Hill City, SD;sd.us016trkhil
 usausb;US16;Trk;Rapid City, SD;sd.us016trkrap
 usausb;US17;Trk;Kissimmee, FL;fl.us017trkkis
-usausb;US17;Trk;Orlando, FL;fl.us017trkorl
 usausb;US17;Alt;Summerville, SC;sc.us017altsum
 usausb;US17;AltTrk;Summerville, SC;sc.us017alttrksum
 usausb;US17;Bus;Myrtle Beach, SC;sc.us017busmyr
@@ -129,6 +129,7 @@ usausb;US17;Bus;Shallotte, NC;nc.us017bussha
 usausb;US17;Bus;Bolivia, NC;nc.us017busbol
 usausb;US17;Bus;Wilmington, NC;nc.us017buswlm
 usausb;US17;Bus;Jacksonville, NC;nc.us017busjac
+usausb;US17;Bus;Maysville, NC;nc.us017busmay
 usausb;US17;Bus;New Bern, NC;nc.us017busnew
 usausb;US17;Bus;Vanceboro, NC;nc.us017busvan
 usausb;US17;Bus;Washington, NC;nc.us017buswas
@@ -183,7 +184,6 @@ usausb;US20;Trk;Silver Creek, NY;ny.us020trksil
 usausb;US21;Bus;Beaufort, SC;sc.us021busbea
 usausb;US21;Bus;Orangeburg, SC;sc.us021busora
 usausb;US21;Bus;Fort Mill, SC;sc.us021busfor
-usausb;US21;Con;Columbia, SC;sc.us021concol
 usausb;US21;Bus;Elkin, NC;nc.us021buselg
 usausb;US22;Bus;Monroeville, PA;pa.us022busmon
 usausb;US22;Bus;Lewistown, PA;pa.us022buslew
@@ -200,6 +200,7 @@ usausb;US23;Bus;Pound, VA;va.us023buspou
 usausb;US23;Bus;Ashland, KY;ky.us023busash
 usausb;US23;Spr;Ashland, KY;ky.us023sprash
 usausb;US23;Trk;Portsmouth, OH;ky.us023trkpor,oh.us023trkpor
+usausb;US23;Bus;Portsmouth, OH;oh.us023buspor
 usausb;US23;Bus;Chillicothe, OH;oh.us023buschi
 usausb;US23;Bus;Ann Arbor, MI;mi.us023busann
 usausb;US23;Bus;Rogers City, MI;mi.us023busrog
@@ -235,6 +236,7 @@ usausb;US27;Bus;Buchanan, GA;ga.us027busbuc
 usausb;US27;Bus;Cedartown, GA;ga.us027busced
 usausb;US27;Bus;La Fayette, GA;ga.us027buslaf
 usausb;US27;Bus;Nicholasville, KY;ky.us027busnic
+usausb;US27;Bus;Cynthiana, KY;ky.us027buscyn
 usausb;US27;Trk;Cincinnati, OH;oh.us027trkcin
 usausb;US29;Trk;Union Springs, AL;al.us029trkuni
 usausb;US29;Alt;Atlanta, GA;ga.us029altatl
@@ -374,6 +376,7 @@ usausb;US52;Bus;Darlington, SC;sc.us052busdar
 usausb;US52;Trk;Cheraw, SC;sc.us052trkche
 usausb;US52;Trk;Florence, SC;sc.us052trkflo
 usausb;US53;Bus;Eau Claire, WI;wi.us053buseau
+usausb;US53;Bus;Minong, WI;wi.us053busmin
 usausb;US53;Bus;Solon Springs, WI;wi.us053bussol
 usausb;US53;Bus;Superior, WI;wi.us053bussup
 usausb;US54;Bus;El Paso, TX;tx.us054buselp
@@ -515,7 +518,6 @@ usausb;US64;Bus;Columbia, NC;nc.us064buscol
 usausb;US64;Byp;Manteo, NC;nc.us064bypman
 usausb;US64;Trk;Henderson, NC;nc.us064trkhen
 usausb;US64;Trk;Brevard, NC;nc.us064trkbre
-usausb;US64;Trk;Morganton, NC;nc.us064trkmor
 usausb;US65;Bus;Pine Bluff, AR;ar.us065buspin
 usausb;US65;Bus;Conway, AR;ar.us065buscon
 usausb;US65;Bus;Clinton, AR;ar.us065buscli
@@ -525,8 +527,6 @@ usausb;US65;Bus;Branson, MO;mo.us065busbra
 usausb;US65;Bus;Ozark, MO;mo.us065busoza
 usausb;US65;Bus;Springfield, MO;mo.us065busspr
 usausb;US65;Bus;Marshall, MO;mo.us065busmar
-usausb;US65;Bus;Carrollton, MO;mo.us065buscar
-usausb;US65;Bus;Trenton, MO;mo.us065bustre
 usausb;US67;Bus;Presidio, TX;tx.us067buspre
 usausb;US67;Bus;(West) San Angelo, TX;tx.us067bussaw
 usausb;US67;Bus;(East) San Angelo, TX;tx.us067bussae
@@ -542,6 +542,7 @@ usausb;US67;Bus;Datto, AR;ar.us067busdat
 usausb;US67;Spr;Walnut Ridge, AR;ar.us067sprwal
 usausb;US67;Bus;Poplar Bluff, MO;mo.us067buspop
 usausb;US67;Bus;Greenville, MO;mo.us067busgre
+usausb;US67;Bus;Cherokee Pass, MO;mo.us067busche
 usausb;US67;Bus;Fredericktown, MO;mo.us067busfre
 usausb;US67;Bus;Desloge, MO;mo.us067busdes
 usausb;US67;Bus;Roseville, IL;il.us067busros
@@ -591,9 +592,7 @@ usausb;US70;Bus;Smithfield, NC;nc.us070bussmi
 usausb;US70;Byp;Goldsboro, NC;nc.us070bypgol
 usausb;US70;Bus;Goldsboro, NC;nc.us070busgol
 usausb;US70;Bus;Kinston, NC;nc.us070buskin
-usausb;US70;Bus;Beaufort, NC;nc.us070busbea
 usausb;US70;Byp;Smithfield, NC;nc.us070bypsmi
-usausb;US70;Trk;Morganton, NC;nc.us070trkmor
 usausb;US71;Bus;Waldron, AR;ar.us071buswal
 usausb;US71;Bus;Fort Smith, AR;ar.us071busfor
 usausb;US71;Bus;Fayetteville, AR;ar.us071busfay
@@ -624,8 +623,6 @@ usausb;US75;Bus;Sioux City, IA;ia.us075bussio
 usausb;US75;Bus;Le Mars, IA;ia.us075buslem
 usausb;US76;Bus;Laurens, SC;sc.us076buslau
 usausb;US76;Bus;Sumter, SC;sc.us076bussum
-usausb;US76;Con;Columbia, SC;sc.us076concol
-usausb;US76;Trk;Anderson, SC;sc.us076trkand
 usausb;US76;Bus;Whiteville, NC;nc.us076buswhi
 usausb;US77;Alt;Cuero, TX;tx.us077altcue
 usausb;US77;Bus;Brownsville, TX;tx.us077busbro
@@ -706,6 +703,7 @@ usausb;US87;Bus;Big Spring, TX;tx.us087busbig
 usausb;US87;Bus;Lamesa, TX;tx.us087buslam
 usausb;US87;Bus;Dalhart, TX;tx.us087busdal
 usausb;US87;Bus;Cheyenne, WY;wy.us087busche
+usausb;US87;Bus;Wheatland, WY;wy.us087buswhe
 usausb;US87;Bus;Douglas, WY;wy.us087busdou
 usausb;US87;Bus;Casper, WY;wy.us087buscas
 usausb;US87;Bus;Buffalo, WY;wy.us087busbuf
@@ -723,7 +721,6 @@ usausb;US90;Bus;New Orleans, LA;la.us090busnew
 usausb;US90;Alt;Pensacola, FL;fl.us090altpen
 usausb;US90;Alt;Jacksonville, FL;fl.us090altjac
 usausb;US92;Trk;Kissimmee, FL;fl.us092trkkis
-usausb;US92;Trk;Orlando, FL;fl.us092trkorl
 usausb;US93;Bus;Boulder City, NV;nv.us093busbou
 usausb;US93;Trk;Laughlin, NV;az.us093trklau,nv.us093trklau
 usausb;US93;Alt;Wendover, NV;nv.us093altwen
@@ -737,7 +734,6 @@ usausb;US95;Trk;Hawthorne, NV;nv.us095trkhaw
 usausb;US95;Bus;Cottonwood, ID;id.us095buscot
 usausb;US95;Bus;Craigmont, ID;id.us095buscra
 usausb;US95;Bus;Winchester, ID;id.us095buswin
-usausb;US95;Spr;Payette, ID;id.us095sprpay
 usausb;US95;Spr;Weiser, ID;id.us095sprwei,or.us095sprwei
 usausb;US96;Bus;Silsbee, TX;tx.us096bussil
 usausb;US96;Bus;Buna, TX;tx.us096busbun
@@ -805,7 +801,6 @@ usausb;US129;Byp;Madison, GA;ga.us129bypmad
 usausb;US131;Bus;Constantine, MI;mi.us131buscon
 usausb;US131;Bus;Three Rivers, MI;mi.us131busthr
 usausb;US131;Bus;Kalamazoo, MI;mi.us131buskal
-usausb;US131;Bus;Grand Rapids, MI;mi.us131busgra
 usausb;US131;Bus;Big Rapids, MI;mi.us131busbig
 usausb;US131;Bus;Cadillac, MI;mi.us131buscad
 usausb;US131;Bus;Manton, MI;mi.us131busman
@@ -855,7 +850,6 @@ usausb;US175;Bus;Kemp, TX;tx.us175buskem
 usausb;US176;Trk;Holly Hill, SC;sc.us176trkhol
 usausb;US178;Bus;Greenwood, SC;sc.us178busgre
 usausb;US178;Bus;Orangeburg, SC;sc.us178busora
-usausb;US178;Trk;Anderson, SC;sc.us178trkand
 usausb;US181;Bus;Beeville, TX;tx.us181busbee
 usausb;US181;Bus;Kenedy, TX;tx.us181busken
 usausb;US181;Bus;Karnes City, TX;tx.us181buskar
@@ -877,7 +871,7 @@ usausb;US201;Alt;Skowhegan, ME;me.us201altsko
 usausb;US202;Bus;Montgomeryville, PA;pa.us202busmon
 usausb;US202;AltTrk;North Wales, PA;pa.us202alttrknor
 usausb;US202;Alt;Garrison, NY;ny.us202altgar
-usausb;US209;Trk;Brodheadsville, PA;pa.us209trkbro
+usausb;US206;Byp;Hillsborough, NJ;nj.us206byphil
 usausb;US209;Bus;Stroudsburg, PA;pa.us209busstr
 usausb;US209;Trk;Marshalls Creek, PA;pa.us209trkmar
 usausb;US211;Bus;Luray, VA;va.us211buslur
@@ -936,7 +930,8 @@ usausb;US270;Bus;Wewoka, OK;ok.us270buswew
 usausb;US270;Bus;Holdenville, OK;ok.us270bushol
 usausb;US270;Bus;Hot Springs, AR;ar.us270bushot
 usausb;US270;Bus;Malvern, AR;ar.us270busmal
-usausb;US271;Bus;Mt. Pleasant, TX;tx.us271busmtp
+usausb;US271;Bus;Pittsburg, TX;tx.us271buspit
+usausb;US271;Bus;Mount Pleasant, TX;tx.us271busmtp
 usausb;US271;Bus;Bogata, TX;tx.us271busbog
 usausb;US271;Bus;Deport, TX;tx.us271busdep
 usausb;US271;Bus;Paris, TX;tx.us271buspar
@@ -987,6 +982,7 @@ usausb;US287;Bus;Vernon, TX;tx.us287busver
 usausb;US287;Byp;Rawlins, WY;wy.us287bypraw
 usausb;US290;Bus;Brenham, TX;tx.us290busbre
 usausb;US290;Bus;Hempstead, TX;tx.us290bushem
+usausb;US301;Alt;Starke, FL;fl.us301altsta
 usausb;US301;Bus;Sylania, GA;ga.us301bussyl
 usausb;US301;Byp;Statesboro, GA;ga.us301bypsta
 usausb;US301;Bus;Rocky Mount, NC;nc.us301busroc
