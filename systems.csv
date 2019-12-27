@@ -51,6 +51,7 @@ deubbl;DEU;Brandenburg Landesstraßen;yellow;5;active
 deubwl;DEU;Baden-Württemberg Landesstraßen;yellow;5;active
 deubyst;DEU;Bavaria Staatsstraßen;yellow;5;active
 deuhhr;DEU;Hamburg Ringstraßen;yellow;5;active
+deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;active
 deunil;DEU;Lower Saxony Landesstraßen;yellow;5;active
 deunwl;DEU;North Rhine-Westphalia Landesstraßen;yellow;5;active
 deurpl;DEU;Rhineland-Palatinate Landesstraßen;yellow;5;active
@@ -195,6 +196,7 @@ swer;SWE;Sweden Riksvägar;lightsalmon;4;active
 swel;SWE;Sweden Primära Länsvägar;yellow;5;active
 tjkrb;TJK;Tajikistan Rohi Baynalmilali;lightsalmon;4;active
 turo;TUR;Turkey Otoyol;blue;1;active
+turd;TUR;Turkey Devlet Yolları;green;4;active
 tuna;TUN;Tunisia Autoroutes;blue;1;active
 twnf;CHN;Taiwan National Freeways;blue;1;active
 ukrm;UKR;Ukraine Mezdunarodnyj;lightsalmon;4;active
@@ -244,11 +246,13 @@ usaok;USA;Oklahoma State Highways;brown;4;active
 usaor;USA;Oregon State Routes;brown;4;active
 usapa;USA;Pennsylvania State Highways;brown;4;active
 usari;USA;Rhode Island State Highways;brown;4;active
+usasc;USA;South Carolina State Highways;brown;4;active
 usasd;USA;South Dakota State Highways;brown;4;active
 usatn;USA;Tennessee State Highways;brown;4;active
 usatx;USA;Texas State Highways;brown;4;active
 usatxl;USA;Texas State Highway Loops;brown;4;active
 usatxs;USA;Texas State Highway Spurs;brown;4;active
+usatxre;USA;Texas Recreation Roads;yellow;5;active
 usaut;USA;Utah State Highways;brown;4;active
 usava;USA;Virginia State Highways;brown;4;active
 usavt;USA;Vermont State Highways;brown;4;active
@@ -282,7 +286,6 @@ chng;CHN;China National Expressways;blue;1;preview
 cogn;COG;Congo Routes Nationales;green;4;preview
 comrn;COM;Comoros Routes Nationales;green;4;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
-deumvl;DEU;Mecklenburg-Western Pomerania Landesstraßen;yellow;5;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;brown;5;preview
 fragesd54;FRA;Grand-Est Routes Départementales (Meurthe-et-Moselle);yellow;5;preview
 fragesd57;FRA;Grand-Est Routes Départementales (Moselle);yellow;5;preview
@@ -318,7 +321,6 @@ rwanr;RWA;Rwanda National Roads;green;4;preview
 senn;SEN;Senegal Routes Nationales;green;4;preview
 stpen;STP;Sao Tome and Principe Estrada Nacional;green;4;preview
 swzmr;SWZ;Eswatini Main Roads;green;4;preview
-turd;TUR;Turkey Devlet Yolları;green;4;preview
 ttoh;TTO;Trinidad & Tobago Highways;red;3;preview
 ttomr;TTO;Trinidad & Tobago Main Roads;brown;4;preview
 tunrn;TUN;Tunisia Routes Nationales;green;4;preview
@@ -334,8 +336,6 @@ usafl;USA;Florida State Highways;brown;4;preview
 usala;USA;Louisiana State Highways;brown;4;preview
 usanyp;USA;New York Parkways;teal;2;preview
 usapr;USA;Puerto Rico Territorial Highways;brown;4;preview
-usasc;USA;South Carolina State Highways;brown;4;preview
-usatxre;USA;Texas Recreation Roads;yellow;5;preview
 usaush;USA;United States Historic Highways;brown;4;preview
 zafr;ZAF;South Africa Main Provincial Roads;yellow;4;preview
 zmbt;ZMB;Zambia Trunk Roads;green;4;preview
@@ -387,5 +387,5 @@ rusr;RUS;Russia Regional Roads;lightsalmon;4;devel
 #usatxf5;USA;Texas Farm to Market Roads 2000-2499;yellow;5;devel
 #usatxf5;USA;Texas Farm to Market Roads 2500-2999;yellow;5;devel
 #usatxf6;USA;Texas Farm to Market Roads 3000-3499;yellow;5;devel
-#usatxf7;USA;Texas Farm to Market Roads 3500-4000;yellow;5;devel
+#usatxf7;USA;Texas Farm to Market Roads 3500-7550;yellow;5;devel
 #usatxr;USA;Texas Ranch to Market Roads;yellow;5;devel
