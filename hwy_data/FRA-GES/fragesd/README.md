@@ -13,6 +13,7 @@ FRA-52 = `HMa` = Haute-Marne
 FRA-54 = `MeM` = Meurthe-et-Moselle
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(54) (edit url for other routes)
 FRA-55 = `Meu` = Meuse
+   no list available, just OSM,GM,...
 FRA-57 = `Mos` = Moselle
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(57) (edit url for other routes)
 FRA-67 = `Als` = Alsace = to be merged
@@ -38,6 +39,8 @@ FRA-88 = `Vos` = Vosges
 
 *FRA-55 - Meuse:*
 - `D1916` is only signed `Voie Sacrée`, in HB as `fran` route `NVS`
+- `D145x` routes are drafted as good as possible. OSM is partially incorrect, GSV not fully available
+- `D163B` is only indicated on GM but not on OSM nor OSM - not included
 
 *FRA-57 - Moselle:*
 - `D8A` is indicated on GM and wikisara but not on OSM/GSV. Added though.
