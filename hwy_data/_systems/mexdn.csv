@@ -8,7 +8,7 @@ mexdn;MEX-SON;MEX2D;;;;mexson.mex002d;
 mexdn;MEX-TAM;MEX2D;;;;mextam.mex002d;
 mexdn;MEX-TAM;MEX10D;;;;mextam.mex010d;
 mexdn;MEX-MICH;MEX14D;;;;mexmich.mex014d;
-mexdn;MEX-DF;MEX15D;;Mex;Ciudad de México;mexdf.mex015d;
+mexdn;MEX-DF;MEX15D;;Mex;Ciudad de México;mexdf.mex015d;MEX15DMex
 mexdn;MEX-EMEX;MEX15D;;Mex;Ciudad de México;mexemex.mex015dmex;
 mexdn;MEX-EMEX;MEX15D;;Mac;Macho de Agua;mexemex.mex015dmac;
 mexdn;MEX-MICH;MEX15D;;Mac;Macho de Agua;mexmich.mex015dmac;
@@ -16,7 +16,7 @@ mexdn;MEX-EMEX;MEX15D;;;Zinapécuaro;mexemex.mex015d;
 mexdn;MEX-MICH;MEX15D;;;Zinapécuaro;mexmich.mex015d;
 mexdn;MEX-JAL;MEX15D;;;Zinapécuaro;mexjal.mex015d;
 mexdn;MEX-JAL;MEX15D;;Teq;Tequila;mexjal.mex015dteq;
-mexdn;MEX-NAY;MEX15D;;;;mexnay.mex015d;
+mexdn;MEX-NAY;MEX15D;;;;mexnay.mex015d;MEX15DTeq
 mexdn;MEX-NAY;MEX15D;;Cha;Chapalilla;mexnay.mex015dcha;
 mexdn;MEX-NAY;MEX15D;;Tep;Tepic;mexnay.mex015dtep;
 mexdn;MEX-NAY;MEX15D;;Esc;Escuinapa de Hidalgo;mexnay.mex015desc;
@@ -45,7 +45,7 @@ mexdn;MEX-GTO;MEX43D;;;;mexgto.mex043d;
 mexdn;MEX-QRO;MEX45D;;;Salamanca;mexqro.mex045d;
 mexdn;MEX-GTO;MEX45D;;;Salamanca;mexgto.mex045d;
 mexdn;MEX-GTO;MEX45D;;Leo;León;mexgto.mex045dleo;
-mexdn;MEX-JAL;MEX45D;;;León;mexjal.mex045d;
+mexdn;MEX-JAL;MEX45D;;;León;mexjal.mex045d;MEX45DLeo
 mexdn;MEX-ZAC;MEX45D;;;Zacatecas;mexzac.mex045d;
 mexdn;MEX-ZAC;MEX45D;;Vic;Victor Rosales;mexzac.mex045dvic;
 mexdn;MEX-ZAC;MEX45D;;Fre;Fresnillo;mexzac.mex045dfre;
@@ -66,7 +66,7 @@ mexdn;MEX-DF;MEX57D;;;Cuautitlán Izcalli;mexdf.mex057d;
 mexdn;MEX-EMEX;MEX57D;;;Cuautitlán Izcalli;mexemex.mex057d;
 mexdn;MEX-HGO;MEX57D;;;Cuautitlán Izcalli;mexhgo.mex057d;
 mexdn;MEX-EMEX;MEX57D;;SJu;San Juan Del Río;mexemex.mex057dsju;
-mexdn;MEX-QRO;MEX57D;;;;mexqro.mex057d;
+mexdn;MEX-QRO;MEX57D;;;;mexqro.mex057d;MEX57DSJu
 mexdn;MEX-QRO;MEX57D;;Qro;Querétaro;mexqro.mex057dqro;
 mexdn;MEX-SLP;MEX57D;;;;mexslp.mex057d;
 mexdn;MEX-SLP;MEX57D;;Mat;Matehuala;mexslp.mex057dmat;
@@ -130,8 +130,8 @@ mexdn;MEX-CHIS;MEX145D;;;;mexchis.mex145d;
 mexdn;MEX-TAB;MEX145D;;;;mextab.mex145d;
 mexdn;MEX-VER;MEX145D;;Cho;Las Choapas;mexver.mex145dcho;
 mexdn;MEX-VER;MEX145D;;;;mexver.mex145d;
-mexdn;MEX-EMEX;MEX150D;;;;mexemex.mex150d;
-mexdn;MEX-PUE;MEX150D;;Tex;Texmelucan;mexpue.mex150dtex;
+mexdn;MEX-EMEX;MEX150D;;;;mexemex.mex150d;MEX150DIxt
+mexdn;MEX-PUE;MEX150D;;Tex;Texmelucan;mexpue.mex150dtex;MEX150DIxt
 mexdn;MEX-TLAX;MEX150D;;;Puebla;mextlax.mex150d;
 mexdn;MEX-PUE;MEX150D;;;Puebla;mexpue.mex150d;
 mexdn;MEX-VER;MEX150D;;;Puebla;mexver.mex150d;
@@ -140,7 +140,7 @@ mexdn;MEX-VER;MEX180D;;;Poza Rica;mexver.mex180d;
 mexdn;MEX-VER;MEX180D;;Ver;Veracruz;mexver.mex180dver;
 mexdn;MEX-VER;MEX180D;;Coa;Coatzacoalcos;mexver.mex180dcoa;
 mexdn;MEX-TAB;MEX180D;;;;mextab.mex180d;
-mexdn;MEX-TAB;MEX180D;;;Villahermosa;mextab.mex180dvil;
+mexdn;MEX-TAB;MEX180D;;Vil;Villahermosa;mextab.mex180dvil;
 mexdn;MEX-CAM;MEX180D;;;Campeche;mexcam.mex180d;
 mexdn;MEX-YUC;MEX180D;;;Cancún;mexyuc.mex180d;
 mexdn;MEX-QROO;MEX180D;;;Cancún;mexqroo.mex180d;
@@ -171,7 +171,7 @@ mexdn;MEX-HGO;MEXM40D;;Sah;Ciudad Sahagún;mexhgo.mexm040dsah;
 mexdn;MEX-TLAX;MEXM40D;;Sah;Ciudad Sahagún;mextlax.mexm040dsah;
 mexdn;MEX-HGO;MEXM40D;;Emi;Emiliano Zapata;mexhgo.mexm040demi;
 mexdn;MEX-TLAX;MEXM40D;;Emi;Emiliano Zapata;mextlax.mexm040demi;
-mexdn;MEX-HGO;MEXM40D;;;Calpulalpan;mexhgo.mexm040dcal;
+mexdn;MEX-HGO;MEXM40D;;Cal;Calpulalpan;mexhgo.mexm040dcal;
 mexdn;MEX-TLAX;MEXM40D;;;Calpulalpan;mextlax.mexm040d;
 mexdn;MEX-PUE;MEXM40D;;;Calpulalpan;mexpue.mexm040d;
 mexdn;MEX-COAH;MEXS30D;;;;mexcoah.mexs030d;
