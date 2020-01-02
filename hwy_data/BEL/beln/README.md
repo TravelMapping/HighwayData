@@ -9,7 +9,7 @@
 
 
 **NOTES TO DRAFTED ROUTES:**
-- `N60g`, `N72a`, `N388`, `N389`, `N408`, `N585`, `N630a`, `N635`, `N656`, `N861` and `N864` should be signed according to OSM but not on GM nor GSV
+- `N60g`, `N72a`, `N86f`, `N388`, `N389`, `N408`, `N585`, `N630a`, `N635`, `N656`, `N658`, `N861` and `N864` should be signed according to OSM but not on GM nor GSV
 - `N22`, `N200`, `N324`, `N344`, `N346`, `N360`, `N386`, `N470a`, `N496`, `N502`, `N509`, `N521`, `N555`, `N581`, `N607`, `N661`, `N664`, `N686`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
 
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
@@ -49,5 +49,4 @@
 - `N402` has a length of 0.17km only and is signed `N462`
 - `N616` is signed concurrent on `N696` once
 - `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM
-- `N858` and `N885` are unsigned even on signs with other road numbers, only indicated on OSM but not on GM nor GSV
 - `N955` route is different on OSM/GM and not signed on GSV
