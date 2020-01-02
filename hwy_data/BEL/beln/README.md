@@ -9,7 +9,7 @@
 
 
 **NOTES TO DRAFTED ROUTES:**
-- `N72a`, `N388`, `N389`, `N408`, `N585`, `N630a`, `N635`, `N656`, `N861` and `N864` should be signed according to OSM but not on GM nor GSV
+- `N60g`, `N72a`, `N86f`, `N90a`, `N388`, `N389`, `N408`, `N568b`, `N568d`, `N568e`, `N585`, `N630a`, `N635`, `N644` (Amay), `N656`, `N658`, `N683a`, `N861`, `N864` and `N947a` should be signed according to OSM but not on GM nor GSV
 - `N22`, `N200`, `N324`, `N344`, `N346`, `N360`, `N386`, `N470a`, `N496`, `N502`, `N509`, `N521`, `N555`, `N581`, `N607`, `N661`, `N664`, `N686`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
 
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
@@ -26,8 +26,8 @@
 - `N89`/`N820`/`N833`/`N834`/`N860` in La Roche-en-Ardenne: Signage has been changed as you can see on GSV. Moving the position and signs disappear... I've gone with OSM, no evidence that `N820` is really signed.
 - `N813` (partially P1 on signs) and `N862` (partially P7 on signs) should exist according to OSM but not on GM nor GSV
 - `N905` should exist according to OSM and GM but not on GSV (`N80` towards `N80` and `N90` towards `N90` only)
-- `N917` should exist according to OSM but not on GM or GSV (GSV shows a `N947` sign, wikisara also calls it `N947a`)
-- `N931` is not signed west of A4 according to GSV and OSM. GM shows two routes
+- `N917` should exist according to OSM but not on GM or GSV (GSV shows a `N947` sign)
+- `N966` should exist according to OSM but not on GM or GSV (added because it's mentioned in a 2019 news article about construction works)
 
 **NOTES TO NOT DRAFTED ROUTES:**
 - `N149`, `N159`, `N183`, `N205`, `N206`, `N210`, `N215`, `N219`, `N220`, `N236`, `N247`, `N256`, `N259`, `N265`, `N274`, `N281`, `N289`, `N291`, `N292`, `N294`, `N295`, `N334`, `N335`, `N342`, `N359`, `N422`, `N473`, `N556`, `N756`, `N764` and `N824` should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
@@ -49,5 +49,3 @@
 - `N402` has a length of 0.17km only and is signed `N462`
 - `N616` is signed concurrent on `N696` once
 - `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM
-- `N858` and `N885` are unsigned even on signs with other road numbers, only indicated on OSM but not on GM nor GSV
-- `N955` route is different on OSM/GM and not signed on GSV
