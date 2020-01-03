@@ -41,11 +41,11 @@
 - Spa-Francorchamps Circuit bypass should be signed `N62c` according to OSM and GM but not on GSV, included to `N62`
 - `N95a` and `N95b` should be signed according to wegenwiki and OSM but they are one-way lanes only; opposite direction is signed `N95`
 - `N96a` should be signed according to wegenwiki but not on any map
+- `N395a` and `N395b` are concurrent to R8, the northern carriageway is `N395a`, the southern carriageway `N395b`
+- `N402` has a length of 0.17km only and is signed `N462`
+- `N420` should exist according to wegenwiki but not indicated on any map
 - `N603` should exist according to wegenwiki but wikisara indicates it being the old numbering of new `N3g`
 - `N607a` should exist according to wikisara and GM but not on OSM nor GSV
 - `N611` should exist according to wegenwiki and wikisara but not indicacted on any map, I guess it was renumbered to `N676` which has different routes on OSM and GM
-- `N420` should exist according to wegenwiki but not indicated on any map
-- `N395a` and `N395b` are concurrent to R8, the northern carriageway is `N395a`, the southern carriageway `N395b`
-- `N402` has a length of 0.17km only and is signed `N462`
 - `N616` is signed concurrent on `N696` once
 - `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM
