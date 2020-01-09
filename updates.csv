@@ -663,6 +663,9 @@
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2020-01-06;(Germany) North Rhine-Westphalia;B7 (Warburg);deunw.b007war;Route truncated at west end from A46 exit 71 to B480 at Olsberg
+2020-01-06;(Germany) North Rhine-Westphalia;L743 (Meschede);deunw.l743;Route extended at east end from junction to A46 exit 71 to B7/B480 at Olsberg
+2020-01-06;(Germany) North Rhine-Westphalia;L743 (Velmede);deunw.l743vel;New Route from L743 to A46 exit 71
 2019-12-21;(Germany) North Rhine-Westphalia;L19;deunw.l019;Route extended at west end from Gladbacher Straße (former B221) to L117
 2019-12-21;(Germany) North Rhine-Westphalia;B221;deunw.b221;Route relocated from through Wassenberg and onto new bypass from K9 to L117
 2019-11-18;(Germany) North Rhine-Westphalia;A33;deunw.a033;Route extended at north end from exit 16 to border with Lower Saxony
@@ -1716,6 +1719,9 @@
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2020-01-07;Romania;DN58;rou.dn058;Extended north to Caransebes Bypass (DN6)
+2020-01-07;Romania;E70;rou.e70;Routed on Caransebes Bypass, it was before routed through the town
+2020-01-07;Romania;DN6;rou.dn006;Routed on Caransebes Bypass, it was before routed through the town
 2019-12-31;Romania;DN2P;rou.dn02p;New Route (Suceava bypass)
 2019-12-30;Romania;E671;rou.e671;Routed through Oradea, on DN79 and DN1 (it was before routed on the bypass)
 2019-12-28;Romania;E79;rou.e79;Routed through Oradea, on DN76 and DN1 (it was before routed on the bypass)
@@ -3443,6 +3449,7 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2020-01-06;(USA) Pennsylvania;PA 850;pa.pa850;Realigned route to show its concurrency with PA 75.
 2019-12-30;(USA) Pennsylvania;PA 93;pa.pa093;Relocated to correct route between Pine St and PA 487.
 2019-12-30;(USA) Pennsylvania;PA 93 Truck (North) Packer Township;pa.pa093trknpa;Route added.  This route is two-way between PA93_S and PA309/93TrkSPa.  It is northbound only from PA309/93TrkSPa to PA93_N.
 2019-12-30;(USA) Pennsylvania;PA 93 Truck (South) Packer Township;pa.pa093trkspa;Route added.  This route is southbound only.
@@ -3598,6 +3605,7 @@
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2020-01-05;(USA) Tennessee;US 41;tn.us041;Removed from US 64/US 72 and Betsy Pack Dr in Jasper and onto TN 28 and new alignment to the northeast of the city
 2019-12-11;(USA) Tennessee;US 31W;tn.us031w;TN109 waypoint moved from old location at Ronnie McDowell Pkwy to new location approximately 0.4 miles to the south
 2019-12-11;(USA) Tennessee;TN 109;tn.tn109;Removed from Ronnie McDowell Pkwy onto new alignment to the south and west, and extended at west end to I-65
 2019-11-30;(USA) Tennessee;TN 52;tn.tn052;Removed from Lake Ave and Main St in Celina and relocated onto Dow Ave & Brown St, following former routing of TN 52 Truck
@@ -3697,6 +3705,8 @@
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2020-01-06;(USA) Utah;UT 145;ut.ut145;Route extended to UT 85 over former UT 73
+2020-01-06;(USA) Utah;UT 73 (Fairfield);ut.ut073;Route truncated at east end to UT 85
 2019-10-28;(USA) Utah;UT 85;ut.ut085;Route extended south across concurrency with UT 68 to newly opened section of Mountain View Corridor.
 2019-10-13;(USA) Utah;UT 268;ut.ut268;Route extended at west end from I-15 to 800W
 2019-10-13;(USA) Utah;UT 73 (Lehi);ut.ut073leh;Route extended at west end from I-15 to 850W
@@ -3729,7 +3739,7 @@
 2018-07-25;(USA) Utah;UT 252;ut.ut252;Route extended at north end from Airport Road to US 89
 2017-05-17;(USA) Utah;UT 66;ut.ut066;Route extended at north end from I-84 exit 103 to the onslip to I-84 3/4 of a mile to the east.
 2017-05-17;(USA) Utah;UT 48;ut.ut048;Route truncated at west end from Bingham Canyon Mine to UT156
-2017-05-17;(USA) Utah;UT 73 (Farfield);ut.ut073;Route truncated at east end from US89 to UT145
+2017-05-17;(USA) Utah;UT 73 (Fairfield);ut.ut073;Route truncated at east end from US89 to UT145
 2017-05-17;(USA) Utah;UT 73 (Lehi);ut.ut073leh;New Route
 2017-05-17;(USA) Utah;UT 90;ut.ut090;New Route
 2017-05-17;(USA) Utah;UT 93;ut.ut093;New Route
