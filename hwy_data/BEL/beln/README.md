@@ -9,7 +9,7 @@
 
 
 **NOTES TO DRAFTED ROUTES:**
-- `N60g`, `N72a`, `N86f`, `N90a`, `N388`, `N389`, `N408`, `N568b`, `N568d`, `N568e`, `N585`, `N630a`, `N635`, `N644` (Amay), `N656`, `N658`, `N683a`, `N861`, `N864` and `N947a` should be signed according to OSM but not on GM nor GSV
+- `N60g`, `N72a`, `N86f`, `N90a`, `N388`, `N389`, `N408`, `N454a`, `N568b`, `N568d`, `N568e`, `N585`, `N630a`, `N635`, `N644` (Amay), `N656`, `N658`, `N683a`, `N861`, `N864` and `N947a` should be signed according to OSM but not on GM nor GSV
 - `N22`, `N200`, `N324`, `N344`, `N346`, `N360`, `N386`, `N470a`, `N496`, `N502`, `N509`, `N521`, `N555`, `N581`, `N607`, `N661`, `N664`, `N686`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
 
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
