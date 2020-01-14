@@ -266,6 +266,7 @@
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2020-01-12;Czechia;I16;cze.i016;Route relocated from through Slaný and onto bypass from I7 to III10142
 2019-12-21;Czechia;I11;cze.i011;Route relocated from through Ostrava and onto bypass from II465 exit to II647 exit
 2019-12-21;Czechia;II465;cze.ii465;Route extended at east end from junction at Josefovice to I11 exit Krásné Pole
 2019-12-18;Czechia;D48 (Chlebovice);cze.d048chl;Route extended at west end from exit 38 to II482
@@ -663,6 +664,14 @@
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2020-01-11;(Germany) North Rhine-Westphalia;L571;deunw.l571;Route relocated from through Osterwick and onto the northern bypass from K32 to L582
+2020-01-11;(Germany) North Rhine-Westphalia;B54 (Steinfurt);deunw.b054ste;New Route from Dutch border to York Ring in Münster (formerly segement of B54 main route)
+2020-01-11;(Germany) North Rhine-Westphalia;B54 (Münster);deunw.b054;Route truncated at north end the Dutch border to B51 in Münster
+2020-01-11;(Germany) North Rhine-Westphalia;L587 (Main);deunw.l587;Route truncated at south end from B51 to K6 York Ring in Münster
+2020-01-11;(Germany) North Rhine-Westphalia;B227 (Heiligenhaus);deunw.b227;Route truncated at east end from A44 exit 36 to L156 in Heiligenhaus
+2020-01-06;(Germany) North Rhine-Westphalia;B7 (Warburg);deunw.b007war;Route truncated at west end from A46 exit 71 to B480 at Olsberg
+2020-01-06;(Germany) North Rhine-Westphalia;L743 (Meschede);deunw.l743;Route extended at east end from junction to A46 exit 71 to B7/B480 at Olsberg
+2020-01-06;(Germany) North Rhine-Westphalia;L743 (Velmede);deunw.l743vel;New Route from L743 to A46 exit 71
 2019-12-21;(Germany) North Rhine-Westphalia;L19;deunw.l019;Route extended at west end from Gladbacher Straße (former B221) to L117
 2019-12-21;(Germany) North Rhine-Westphalia;B221;deunw.b221;Route relocated from through Wassenberg and onto new bypass from K9 to L117
 2019-11-18;(Germany) North Rhine-Westphalia;A33;deunw.a033;Route extended at north end from exit 16 to border with Lower Saxony
@@ -1716,6 +1725,9 @@
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2020-01-07;Romania;DN58;rou.dn058;Extended north to Caransebes Bypass (DN6)
+2020-01-07;Romania;E70;rou.e70;Routed on Caransebes Bypass, it was before routed through the town
+2020-01-07;Romania;DN6;rou.dn006;Routed on Caransebes Bypass, it was before routed through the town
 2019-12-31;Romania;DN2P;rou.dn02p;New Route (Suceava bypass)
 2019-12-30;Romania;E671;rou.e671;Routed through Oradea, on DN79 and DN1 (it was before routed on the bypass)
 2019-12-28;Romania;E79;rou.e79;Routed through Oradea, on DN76 and DN1 (it was before routed on the bypass)
@@ -2596,6 +2608,7 @@
 2015-07-25;(UK) Scotland;E16;sct.e16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
 2015-07-25;(UK) Scotland;E5 (Glasgow);sct.e5gla;New Route
 2015-07-25;(UK) Scotland;M74;sct.m074;Route extended at north end from non-junction with the M8 to exit 22 of the M8
+2020-01-10;(UK) Wales;A469 (Pengam);wls.a0469pen;Route added
 2019-02-14;(UK) Wales;A483;wls.a0483;Route removed from centre of Newtown and onto bypass between A489_W and A4811
 2019-02-14;(UK) Wales;A489;wls.a0489;Route removed from centre of Newtown and onto new bypass between A4811 and A483_N
 2019-02-14;(UK) Wales;A4811;wls.a4811;New Route
@@ -3274,6 +3287,7 @@
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2020-01-11;(USA) North Carolina;I-840;nc.i840;route extended to Lawndale Dr
 2019-12-13;(USA) North Carolina;US 70 Bus (Beaufort);;deleted - no longer a primary route
 2019-12-13;(USA) North Carolina;I-295 Future (Fayetteville);nc.i295futfay;route extended to Cliffdale Rd
 2019-12-13;(USA) North Carolina;NC 295;nc.nc295;route extended to Cliffdale Rd
@@ -3443,6 +3457,7 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2020-01-06;(USA) Pennsylvania;PA 850;pa.pa850;Realigned route to show its concurrency with PA 75.
 2019-12-30;(USA) Pennsylvania;PA 93;pa.pa093;Relocated to correct route between Pine St and PA 487.
 2019-12-30;(USA) Pennsylvania;PA 93 Truck (North) Packer Township;pa.pa093trknpa;Route added.  This route is two-way between PA93_S and PA309/93TrkSPa.  It is northbound only from PA309/93TrkSPa to PA93_N.
 2019-12-30;(USA) Pennsylvania;PA 93 Truck (South) Packer Township;pa.pa093trkspa;Route added.  This route is southbound only.
@@ -3698,6 +3713,8 @@
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2020-01-06;(USA) Utah;UT 145;ut.ut145;Route extended to UT 85 over former UT 73
+2020-01-06;(USA) Utah;UT 73 (Fairfield);ut.ut073;Route truncated at east end to UT 85
 2019-10-28;(USA) Utah;UT 85;ut.ut085;Route extended south across concurrency with UT 68 to newly opened section of Mountain View Corridor.
 2019-10-13;(USA) Utah;UT 268;ut.ut268;Route extended at west end from I-15 to 800W
 2019-10-13;(USA) Utah;UT 73 (Lehi);ut.ut073leh;Route extended at west end from I-15 to 850W
@@ -3730,7 +3747,7 @@
 2018-07-25;(USA) Utah;UT 252;ut.ut252;Route extended at north end from Airport Road to US 89
 2017-05-17;(USA) Utah;UT 66;ut.ut066;Route extended at north end from I-84 exit 103 to the onslip to I-84 3/4 of a mile to the east.
 2017-05-17;(USA) Utah;UT 48;ut.ut048;Route truncated at west end from Bingham Canyon Mine to UT156
-2017-05-17;(USA) Utah;UT 73 (Farfield);ut.ut073;Route truncated at east end from US89 to UT145
+2017-05-17;(USA) Utah;UT 73 (Fairfield);ut.ut073;Route truncated at east end from US89 to UT145
 2017-05-17;(USA) Utah;UT 73 (Lehi);ut.ut073leh;New Route
 2017-05-17;(USA) Utah;UT 90;ut.ut090;New Route
 2017-05-17;(USA) Utah;UT 93;ut.ut093;New Route
@@ -3867,19 +3884,20 @@
 2015-09-06;(USA) Wisconsin;WI 64;wi.wi064;Moved route in Antigo from 5th Avenue and Superior Street to northwest bypass from near County Road H/HH to US 45/WI 47
 2015-09-06;(USA) Wisconsin;WI 82;wi.wi082;Moved route in Mauston from Division St. and US 12 to Grayside and Union Sts.
 2015-09-06;(USA) Wisconsin;WI 95;wi.wi095;Extended route north from WI 73 to US 10 at Neillsville
+2020-01-09;(USA) Wyoming;US 30 Business (Green River);wy.us030busgre;New Route
 2019-12-31;(USA) Wyoming;Fossil Butte Road;wy.fosbutrd;Route added in Fossil Butte National Monument
 2019-12-31;(USA) Wyoming;Chicken Creek Road Scenic Drive;wy.chicrerdscedr;Route added in Fossil Butte National Monument
 2019-11-17;(USA) Wyoming;I-25 Business (Buffalo);wy.i025blbuf;Route rerouted at north end off of East Hart Street between the eastern junction with US16 and I-25 and relocated onto North Main Street between the eastern junction with US16 and I-90
 2019-11-10;(USA) Wyoming;US 87 Business (Wheatland);wy.us087buswhe;New Route
-2019-01-06;(USA) Wyoming;US14;wy.us014;Route truncated at west end from US89/191 to Yellowstone National Park Entrance
-2019-01-06;(USA) Wyoming;US16;wy.us016;Route truncated at west end from US89/191 to Yellowstone National Park Entrance
-2019-01-06;(USA) Wyoming;US20;wy.us020;Route truncated at west end from Montana border to Yellowstone National Park Entrance
-2019-01-06;(USA) Wyoming;US89;wy.us089;Route truncated at north end from Montana border to Yellowstone National Park Entrance
-2019-01-06;(USA) Wyoming;US191;wy.us191;Route truncated at north end from Montana border to Yellowstone National Park Entrance
-2019-01-06;(USA) Wyoming;US212 (Yellowstone National Park);wy.neentrd;Route deleted (replaced with Northeast Entrance Road)
-2019-01-06;(USA) Wyoming;US287;wy.us287;Route truncated at north end from Montana border to Yellowstone National Park Entrance
-2018-09-16;(USA) Wyoming;WY130;wy.wy130;Route removed from Clark Street and relocated onto Snowy Range Road between Clark Street and I-80 Business Loop
-2018-09-16;(USA) Wyoming;WY230;wy.wy230;Route removed from Clark Street and relocated onto Snowy Range Road between Clark Street and I-80 Business Loop
+2019-01-06;(USA) Wyoming;US 14;wy.us014;Route truncated at west end from US89/191 to Yellowstone National Park Entrance
+2019-01-06;(USA) Wyoming;US 16;wy.us016;Route truncated at west end from US89/191 to Yellowstone National Park Entrance
+2019-01-06;(USA) Wyoming;US 20;wy.us020;Route truncated at west end from Montana border to Yellowstone National Park Entrance
+2019-01-06;(USA) Wyoming;US 89;wy.us089;Route truncated at north end from Montana border to Yellowstone National Park Entrance
+2019-01-06;(USA) Wyoming;US 191;wy.us191;Route truncated at north end from Montana border to Yellowstone National Park Entrance
+2019-01-06;(USA) Wyoming;US 212 (Yellowstone National Park);wy.neentrd;Route deleted (replaced with Northeast Entrance Road)
+2019-01-06;(USA) Wyoming;US 287;wy.us287;Route truncated at north end from Montana border to Yellowstone National Park Entrance
+2018-09-16;(USA) Wyoming;WY 130;wy.wy130;Route removed from Clark Street and relocated onto Snowy Range Road between Clark Street and I-80 Business Loop
+2018-09-16;(USA) Wyoming;WY 230;wy.wy230;Route removed from Clark Street and relocated onto Snowy Range Road between Clark Street and I-80 Business Loop
 2018-01-12;(USA) Wyoming;US 189 Business (Evanston);wy.us189buseva;New Route
 2017-08-07;(USA) Wyoming;US 20 Business (Douglas);wy.us020busdou;New Route
 2017-08-07;(USA) Wyoming;US 26 Business (Douglas);wy.us026busdou;New Route
