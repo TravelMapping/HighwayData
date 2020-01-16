@@ -266,6 +266,7 @@
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2020-01-12;Czechia;I16;cze.i016;Route relocated from through Slaný and onto bypass from I7 to III10142
 2019-12-21;Czechia;I11;cze.i011;Route relocated from through Ostrava and onto bypass from II465 exit to II647 exit
 2019-12-21;Czechia;II465;cze.ii465;Route extended at east end from junction at Josefovice to I11 exit Krásné Pole
 2019-12-18;Czechia;D48 (Chlebovice);cze.d048chl;Route extended at west end from exit 38 to II482
@@ -663,6 +664,11 @@
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2020-01-11;(Germany) North Rhine-Westphalia;L571;deunw.l571;Route relocated from through Osterwick and onto the northern bypass from K32 to L582
+2020-01-11;(Germany) North Rhine-Westphalia;B54 (Steinfurt);deunw.b054ste;New Route from Dutch border to York Ring in Münster (formerly segement of B54 main route)
+2020-01-11;(Germany) North Rhine-Westphalia;B54 (Münster);deunw.b054;Route truncated at north end the Dutch border to B51 in Münster
+2020-01-11;(Germany) North Rhine-Westphalia;L587 (Main);deunw.l587;Route truncated at south end from B51 to K6 York Ring in Münster
+2020-01-11;(Germany) North Rhine-Westphalia;B227 (Heiligenhaus);deunw.b227;Route truncated at east end from A44 exit 36 to L156 in Heiligenhaus
 2020-01-06;(Germany) North Rhine-Westphalia;B7 (Warburg);deunw.b007war;Route truncated at west end from A46 exit 71 to B480 at Olsberg
 2020-01-06;(Germany) North Rhine-Westphalia;L743 (Meschede);deunw.l743;Route extended at east end from junction to A46 exit 71 to B7/B480 at Olsberg
 2020-01-06;(Germany) North Rhine-Westphalia;L743 (Velmede);deunw.l743vel;New Route from L743 to A46 exit 71
@@ -2602,6 +2608,7 @@
 2015-07-25;(UK) Scotland;E16;sct.e16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
 2015-07-25;(UK) Scotland;E5 (Glasgow);sct.e5gla;New Route
 2015-07-25;(UK) Scotland;M74;sct.m074;Route extended at north end from non-junction with the M8 to exit 22 of the M8
+2020-01-10;(UK) Wales;A469 (Pengam);wls.a0469pen;Route added
 2019-02-14;(UK) Wales;A483;wls.a0483;Route removed from centre of Newtown and onto bypass between A489_W and A4811
 2019-02-14;(UK) Wales;A489;wls.a0489;Route removed from centre of Newtown and onto new bypass between A4811 and A483_N
 2019-02-14;(UK) Wales;A4811;wls.a4811;New Route
@@ -2680,6 +2687,8 @@
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2020-01-14;(USA) California;Las Patrones Parkway;ca.laspatpkwy;Route added
+2020-01-14;(USA) California;US 395;ca.us395;In Kramer Junction, waypoint CA58 relocated about 0.3 mile north, from OldHwy58 to new CA 58 junction
 2019-10-11;(USA) California;I-5 Truck (Newhall);ca.i005trknew;Route added
 2018-10-01;(USA) California;Westside Parkway;ca.wespkwy;Route added
 2017-11-22;(USA) California;I-580;ca.i580;Waypoint 19B moved from I-980/CA 24 interchange in downtown Oakland west to added exit for CA 123, with old 19B renumbered 19C
@@ -3280,6 +3289,7 @@
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2020-01-11;(USA) North Carolina;I-840;nc.i840;route extended to Lawndale Dr
 2019-12-13;(USA) North Carolina;US 70 Bus (Beaufort);;deleted - no longer a primary route
 2019-12-13;(USA) North Carolina;I-295 Future (Fayetteville);nc.i295futfay;route extended to Cliffdale Rd
 2019-12-13;(USA) North Carolina;NC 295;nc.nc295;route extended to Cliffdale Rd
@@ -3833,6 +3843,7 @@
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2020-01-14;(USA) Wisconsin;WI 156;wi.wi156;Extended east from previous intersection with WI29/32 along Old 29 Drive and CR Y to new interchange with WI 29/32
 2019-10-17;(USA) Wisconsin;US 51 Business (Stevens Point);wi.us051busste;Truncated from south junction I-39 to Minnesota Avenue at/near city limits of Whiting
 2019-03-24;(USA) Wisconsin;WI 794 Spur (Milwaukee);;Deleted route
 2019-03-10;(USA) Wisconsin;US 53 Business (Minong);wi.us053busmin;Restored route
