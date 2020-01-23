@@ -14,7 +14,6 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 1018-3<br>
 1018-4<br>
 1018-5<br>
-1266<br>
 3102
 
 
