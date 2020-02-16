@@ -31,6 +31,7 @@ FRA-88 = `Vos` = Vosges
 - `D2A` is just a one-way street to the north in Wassy while the southbound street is `D2`, not included but threated as `D2` for wp location
 - `D65B` is indicated being `D65A` on OSM but GSV has only a `D65B` sign
 - `D65C` might be considered to be a ramp of the interchange of `D65` and `D65B` only but since it can be driven two-way with a redundant relation to the big interchange... Added
+- `D111` and `D157` are not signed through Saint-Dezier
 
 *FRA-54 - Meurthe-et-Moselle:*
 - `D2H`, `D2M` and `D2N` are indicated on OSM and GSV but not on GM/wikisara. Added though.
