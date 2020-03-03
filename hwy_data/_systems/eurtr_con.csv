@@ -56,9 +56,9 @@ eurtr;TerTie;;Tervantie (Kajaani);fin.tertie
 eurtr;ViaKar;;Via Karelia;fin.viakar
 eurtr;VKKTie;;Vihrean Kullan Kulttuurtie (Mantyharju);fin.vkktie
 eurtr;VKKTie;;Vihrean Kullan Kulttuurtie (Savonlinna);fin.vkktiesav
-eurtr;RouGraAlp;;Route des Grandes Alpes;fra.rougraalp
-eurtr;RouNap;;Route Napoléon;fra.rounap
-eurtr;RouVinAls;;Route des vins d'Alsace;fra.rouvinals
+eurtr;RouGraAlp;;Route des Grandes Alpes;fraara.rougraalp,frapac.rougraalp
+eurtr;RouNap;;Route Napoléon;fraara.rounap,frapac.rounap
+eurtr;RouVinAls;;Route des vins d'Alsace;frages.rouvinals
 eurtr;MalaPetBie;;Mała pętla bieszczadzka;pol.malapetbie
 eurtr;WiePetBie;;Wielka pętla bieszczadzka;pol.wiepetbie
 eurtr;AngCoaTR;;Angus Coastal Tourist Route;sct.angcoatr
@@ -102,13 +102,16 @@ eurtr;WhiSL;;Whitewater Scenic Loop;nir.whisl
 eurtr;AtlDr;;Atlantic Drive;irl.atldr
 eurtr;BanDr;;Bannow Drive;irl.bandr
 eurtr;BarDr;;Barrow Drive;irl.bardr
-eurtr;IE100;;Inis Eoghain 100;irl.ie100
+eurtr;BeaMil;;Bealach Mileata;irl.beamil
+eurtr;LakeDr;;Lake Drive;irl.lakedr
+eurtr;LConnDr;;Loch Conn Drive;irl.lconndr
 eurtr;LEskeDr;;Loch Eske Drive;irl.leskedr
 eurtr;LMaskDr;;Loch Mask Drive;irl.lmaskdr
+eurtr;LMelDr;;Loch Melvin Drive;irl.lmeldr
 eurtr;LoopHeadDr;;Loop Head Drive;irl.loopheaddr
 eurtr;MizHeadDr;;Mizen Head Drive;irl.mizheaddr
 eurtr;MtLeiDr;;Mount Leinster Heritage Drive;irl.mtleidr
-eurtr;BoyVlyDr;;Boyne Valley Drive;irl.boyvlydr
+eurtr;ParDr;;Parnell Drive;irl.pardr
 eurtr;RingBea;;Ring of Beara;irl.ringbea
 eurtr;RingHook;;Ring of Hook;irl.ringhook
 eurtr;RingKer;;Ring of Kerry;irl.ringker
@@ -124,27 +127,39 @@ eurtr;A1120TR;;A1120 Tourist Route;eng.a1120tr
 eurtr;AriCoaRt;;Arisaig Coastal Route;sct.aricoart
 eurtr;AssCoaRt;;Assynt Coastal Route;sct.asscoart
 eurtr;AyrCoaRt;;Ayrshire Coastal Route;sct.ayrcoart
+eurtr;BalSR;;Ballintempo Scenic Route;nir.balsr
 eurtr;BerCoaRt;;Berwickshire Coastal Route;sct.bercoart
-eurtr;DorEmboCR;;Dornoch and Embo Scenic Coastal Route;sct.dorembocr
-eurtr;DorFirTR;;Dornoch Firth Tourist Route;sct.dorfirtr
+eurtr;BoyVlyDr;;Boyne Valley Drive;irl.boyvlydr
+eurtr;BraDr;;Braveheart Drive;irl.bradr
+eurtr;BurHT;;Burns Heritage Trail;sct.burht
 eurtr;ClySLTrl;;Clyde Sea Lochs Trail;sct.clysltrl
 eurtr;CSSR;;Cotswolds Scarp Scenic Route;eng.cssr
+eurtr;DorEmboCR;;Dornoch and Embo Scenic Coastal Route;sct.dorembocr
+eurtr;DorFirTR;;Dornoch Firth Tourist Route;sct.dorfirtr
 eurtr;CoaTrl;;(East Lothian) Coastal Trail;sct.coatrl
 eurtr;HilTrl;;(East Lothian) Hillfoots Trail;sct.hiltrl
 eurtr;SalTrl;;(East Lothian) Saltire Trail;sct.saltrl
 eurtr;FfoFynGul;;Fford Fynyddig Gul;wls.ffofyngul
 eurtr;FfoMyn;;Fford Mynydd;wls.ffomyn
 eurtr;FosWay;;Fosse Way;eng.fosway
+eurtr;GalKiteTrl;;Galloway Kite Trail;sct.galkitetrl
 eurtr;HWTTE;;Hadrian's Wall Tourist Trail (Pennines);eng.hwtte
 eurtr;HWTTW;;Hadrian's Wall Tourist Trail (Solway Coast);eng.hwttw
+eurtr;IE100;;Inis Eoghain 100;irl.ie100
 eurtr;LanEndTR;;Land's End Tourist Route;eng.lanendtr
 eurtr;LCFG;;Llyn Clywedog Ffordd a Golygfeydd;wls.lcfg
+eurtr;LErneSR;;Loch Erne Scenic Route;nir.lernesr
+eurtr;LochNessTrl;;Loch Ness Trail;sct.lochnesstrl
 eurtr;LowFurCR;;Low Furness Coastal Route;eng.lowfurcr
 eurtr;MarSL;;Marlbank Scenic Loop;nir.marsl
+eurtr;MicColDr;;Michael Collins Drive;irl.miccoldr
+eurtr;OldLarRd;;Old Largs Road;sct.oldlarrd
 eurtr;PSWTR;;Porlock Scenic Woodland Toll Road;eng.pswtr
 eurtr;SnowRoaSR;;Snow Roads Scenic Route;sct.snowroasr
+eurtr;SolCoaHT;;Solway Coast Heritage Trail;sct.solcoaht
 eurtr;TawValTR;;Taw Valley Tourist Route;eng.tawvaltr
 eurtr;TroTrl;;Trossachs Trail;sct.trotrl
 eurtr;UttTR;;Uttlesford Tourist Route;eng.utttr
+eurtr;VicHT;;Victorian Heritage Trail;sct.vicht
 eurtr;WDevDr;;West Devon Drive;eng.wdevdr
 eurtr;WesRossCT;;Wester Ross Coastal Trail;sct.wesrossct
