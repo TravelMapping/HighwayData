@@ -31,6 +31,7 @@ FRA-88 = `Vos` = Vosges
 - Routes through Troyes are often signed inbound at `D610` ring road but not within the city. Only routes drafted through the city when the routing is obviously.
 - `D77` through BFC is signed a mileposts indicating `Aube`
 - `D79E` is only signed on 2010 GSV at `D179`
+- `D82` through BFC is signed a mileposts indicating `Aube`
 
 *FRA-52 - Haute-Marne:*
 - `D2A` is just a one-way street to the north in Wassy while the southbound street is `D2`, not included but threated as `D2` for wp location
