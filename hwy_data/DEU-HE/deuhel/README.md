@@ -8,4 +8,5 @@
 
 
 **NOTES TO ROUTES:**
+- `L3328` dedicated as local route as of 2020
 - `L3417` routing in Fulda seems to be not signed. According to mobil.hessen.de map, it starts at L3143 Abtstor and goes via Königstraße, Löherstraße, Rangstraße, Ronsbachstraße to B254/L3418 juction Frankfurter Straße/Mainstraße/Karl-Storch-Straße
