@@ -19,3 +19,4 @@ FRA-80 = `Som` = Somme
 **NOTES TO ROUTES:**
 *FRA-80 - Somme:*
 - OSM often indicates wrong numbers or misses many D routes (especially `D2xx`) which are clearly visible on GM and on 2018 or 2019 GSV - routes added according to GSV; it seems that the routes are newly dedicated as D routes
+- `D4929` was still signed according to 2015 GSV (OSM+GM confirm it) but the signs were removed according to 2017 GSV
