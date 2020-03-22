@@ -6,6 +6,8 @@
 - https://no.wikipedia.org/wiki/Fylkesvei
 - https://no.wikipedia.org/wiki/Kategori:Prim%C3%A6re_fylkesveier
 - https://www.vegvesen.no/vegkart/vegkart/
+*Regionreformen:*
+- https://vegvesen.maps.arcgis.com/apps/webappviewer/index.html?id=7ffd2bbd172448d1a912fe63787435e2
 
 
 **NOTES TO ROUTES:**
