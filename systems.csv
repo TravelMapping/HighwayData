@@ -13,6 +13,7 @@ azem;AZE;Azerbaijan Magistrale;lightsalmon;4;active
 bela;BEL;Belgium Autosnelwegen / Autoroutes;blue;1;active
 belb;BEL;Belgium Bretelles;teal;2;active
 belr;BEL;Belgium Ringwegen;lightsalmon;4;active
+beln;BEL;Belgium Gewestwegen / Route Nationale;yellow;5;active
 biha;BIH;Bosnia and Herzegovina Autoputevi;blue;1;active
 bihm;BIH;Bosnia and Herzegovina Magistrale;lightsalmon;4;active
 bgra;BGR;Bulgaria Avtomagistrala;blue;1;active
@@ -89,7 +90,7 @@ estp;EST;Estonia Põhimaanteed;lightsalmon;4;active
 estt;EST;Estonia Tugimaanteed;yellow;5;active
 finvt;FIN;Finland Valtatiet;lightsalmon;4;active
 alavt;FIN;Åland Valtatiet;lightsalmon;4;active
-finkt;FIN;Finland Kantatiet;yellow;5;active
+finkt;FIN;Finland Kantatiet;yellow;4;active
 alakt;FIN;Åland Kantatiet;yellow;5;active
 fraa;FRA;France Autoroutes;blue;1;active
 mtqa;FRA;Martinique Autoroutes;blue;1;active
@@ -146,10 +147,10 @@ ltuk;LTU;Lithuania Krašto Keliai;yellow;5;active
 luxa;LUX;Luxembourg Autobunnen;blue;1;active
 luxb;LUX;Luxembourg Schnellstroossen;teal;2;active
 luxn;LUX;Luxembourg Nationalstroossen;lightsalmon;4;active
-lvaa;LVA;Latvia Valsts Galvenie Autoceli;lightsalmon;4;active
+lvaa;LVA;Latvia Galvenie Autoceļi;lightsalmon;4;active
 mara;MAR;Morocco Autoroutes;blue;1;active
 marn;MAR;Morocco Routes Nationales;green;4;active
-mdam;MDA;Moldova Magistrale;lightsalmon;4;active
+mdam;MDA;Moldova Drum Expres;lightsalmon;4;active
 mexd;MEX;Mexico Federal Expressways;blue;1;active
 mexed;MEX;Mexico State Expressways;teal;3;active
 mltt;MLT;Malta Arterial Roads;lightsalmon;4;active
@@ -168,6 +169,7 @@ nzlmot;NZL;New Zealand Motorways;blue;1;active
 nzlsh;NZL;New Zealand State Highways;lightsalmon;4;active
 nzltr;NZL;New Zealand Tourist Routes;brown;5;active
 pakm;PAK;Pakistan Motorways;blue;1;active
+phle;PHL;Philippines Expressways;blue;1;active
 pola;POL;Poland Autostrada;blue;1;active
 pols;POL;Poland Drogi Ekspresowa;teal;2;active
 poldw;POL;Poland Droga Wojewódzka;yellow;5;active
@@ -216,6 +218,7 @@ usaco;USA;Colorado State Highways;brown;4;active
 usact;USA;Connecticut State Highways;brown;4;active
 usadc;USA;District of Columbia District Highways;brown;4;active
 usade;USA;Delaware State Highways;brown;4;active
+usaga;USA;Georgia State Highways;brown;4;active
 usagu;USA;Guam Territorial Highways;brown;4;active
 usahi;USA;Hawaii State Highways;brown;4;active
 usaia;USA;Iowa State Highways;brown;4;active
@@ -274,7 +277,7 @@ ausa;AUS;Australia A Roads;green;3;preview
 ausn;AUS;Australia National Roads;green;3;preview
 ausab;AUS;Australia A Roads (Alt);red;4;preview
 ausnb;AUS;Australia N Roads (Alt);red;4;preview
-beln;BEL;Belgium Gewestwegen / Route Nationale;yellow;5;preview
+ausqldtr;AUS;Queensland State Strategic Touring Routes;brown;5;preview
 bdirn;BDI;Burundi Routes Nationales;green;4;preview
 blzar;BLZ;Belize National Routes;lightsalmon;4;preview
 blzd;BLZ;Belize District Routes;brown;5;preview
@@ -288,12 +291,14 @@ cogn;COG;Congo Routes Nationales;green;4;preview
 comrn;COM;Comoros Routes Nationales;green;4;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;brown;5;preview
+finst;FIN;Finland Seututiet;brown;5;preview
 fragesd10;FRA;Grand-Est Routes Départementales (Aube);yellow;5;preview
 fragesd52;FRA;Grand-Est Routes Départementales (Haute-Marne);yellow;5;preview
 fragesd54;FRA;Grand-Est Routes Départementales (Meurthe-et-Moselle);yellow;5;preview
 fragesd55;FRA;Grand-Est Routes Départementales (Meuse);yellow;5;preview
 fragesd57;FRA;Grand-Est Routes Départementales (Moselle);yellow;5;preview
 fragesd88;FRA;Grand-Est Routes Départementales (Vosges);yellow;5;preview
+frahdfd80;FRA;Hauts-de-France Routes Départementales (Somme);yellow;5;preview
 fraidfd77;FRA;Île-de-France Routes Départementales (Seine-et-Marne);yellow;5;preview
 fraidfd78;FRA;Île-de-France Routes Départementales (Yvelines);yellow;5;preview
 fraidfd91;FRA;Île-de-France Routes Départementales (Essonne);yellow;5;preview
@@ -314,9 +319,11 @@ index;IND;India National Expressways;blue;1;preview
 itass;ITA;Italy Strade Statale;lightsalmon;4;preview
 jpne;JPN;Japan Expressways;blue;1;preview
 lkaa;LKA;Sri Lanka A Roads;lightsalmon;4;preview
+lvap;LVA;Latvia Reģionālie Autoceļi;yellow;5;preview
 kena;KEN;Kenya A Roads;green;3;preview
 kenb;KEN;Kenya B Roads;yellow;4;preview
 lsoa;LSO;Lesotho Main Roads;green;4;preview
+mdar;MDA;Moldova Drumuri Republicane;yellow;5;preview
 mexdfeje;MEX;Mexico City Ejes;yellow;5;preview
 mozn;MOZ;Mozambique Estrada Nacional;green;4;preview
 musm;MUS;Mauritius Motorways;green;3;preview
@@ -325,7 +332,6 @@ mwim;MWI;Malawi Main Roads;green;4;preview
 namb;NAM;Namibia Major Routes;green;4;preview
 nplh;NPL;Nepal Highways;lightsalmon;4;preview
 norfv;NOR;Norway Primære Fylkesveier;yellow;5;preview
-phle;PHL;Philippines Expressways;blue;1;preview
 rusa;RUS;Russia Access Roads;lightsalmon;4;preview
 rwanr;RWA;Rwanda National Roads;green;4;preview
 senn;SEN;Senegal Routes Nationales;green;4;preview
@@ -341,7 +347,6 @@ usaal;USA;Alabama State Highways;brown;4;preview
 usaar;USA;Arkansas State Highways;brown;4;preview
 usaas;USA;American Samoa Territorial Highways;brown;4;preview
 usaca;USA;California State Highways;brown;4;preview
-usaga;USA;Georgia State Highways;brown;4;preview
 usafl;USA;Florida State Highways;brown;4;preview
 usala;USA;Louisiana State Highways;brown;4;preview
 usanyp;USA;New York Parkways;teal;2;preview
@@ -395,7 +400,6 @@ frahdfd02;FRA;Hauts-de-France Routes Départementales (Aisne);yellow;5;devel
 #frahdfd59;FRA;Hauts-de-France Routes Départementales (Nord);yellow;5;devel
 #frahdfd60;FRA;Hauts-de-France Routes Départementales (Oise);yellow;5;devel
 #frahdfd62;FRA;Hauts-de-France Routes Départementales (Pas-de-Calais);yellow;5;devel
-frahdfd80;FRA;Hauts-de-France Routes Départementales (Somme);yellow;5;devel
 #franord14;FRA;Normandy Routes Départementales (Calvados);yellow;5;devel
 #franord27;FRA;Normandy Routes Départementales (Eure);yellow;5;devel
 #franord50;FRA;Normandy Routes Départementales (Manche);yellow;5;devel
@@ -405,7 +409,6 @@ frahdfd80;FRA;Hauts-de-France Routes Départementales (Somme);yellow;5;devel
 #frapdld;FRA;Pays-de-la-Loire Routes Départementales;yellow;5;devel
 #frapacd;FRA;Provence-Alpes-Côte-d’Azur Routes Départementales;yellow;5;devel
 #irqf;IRQ;Iraq Freeways
-#lvap;LVA;Valsts Pirmas Škiras Autoceli;yellow;5;devel
 #jamb;JAM;Jamaica B Roads;yellow;5;devel
 #mexdn;MEX;Mexico Federal Expressways (new);blue;1;devel
 #mexedn;MEX;Mexico State Expressways (new);teal;3;devel
