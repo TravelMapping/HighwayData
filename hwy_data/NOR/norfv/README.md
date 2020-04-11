@@ -1,11 +1,13 @@
 ﻿**FORUM THREAD:**
-- 
+- http://forum.travelmapping.net/index.php?topic=3000
 
 
 **SOURCES:**
 - https://no.wikipedia.org/wiki/Fylkesvei
 - https://no.wikipedia.org/wiki/Kategori:Prim%C3%A6re_fylkesveier
 - https://www.vegvesen.no/vegkart/vegkart/
+*Regionreformen:*
+- https://vegvesen.maps.arcgis.com/apps/webappviewer/index.html?id=7ffd2bbd172448d1a912fe63787435e2
 
 
 **NOTES TO ROUTES:**
@@ -22,5 +24,5 @@
 - `Fv312` is indicated different on wikipedia but OSM, GM and (old) GSV show it like other signed Fv roads
 - `Fv313` is interrupted because the Holmestrandtunnelen is closed since 2012
 - `Fv568` has a short segment on Fedje island but I couldn't see any sign on GSV
-- `Fv714` still u/c till 2017/18 (new route drafted)
+- `Fv714` still u/c till fall 2020 (new route drafted) https://www.trondelagfylke.no/vare-tjenester/prosjekter/prosjekter-i-trondelag/Fv_714_Laksevegen/
 - `Fv867` northern extension u/c (Kvernsundtunnelen), to be completed 2018
