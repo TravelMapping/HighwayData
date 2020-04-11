@@ -1,6 +1,7 @@
 systemName;route;banner;groupName;roots
 mexf;MEX1;;;mexbcs.mex001,mexbc.mex001
-mexf;MEX2;;Tijuana, BC - El Porvenir, CHIH;mexbc.mex002,mexson.mex002,mexchih.mex002
+mexf;MEX2;;Tijuana, BC - Santa Ana, SON;mexbc.mex002,mexson.mex002
+mexf;MEX2;;Imuris, SON - El Porvenir, CHIH;mexson.mex002agu,mexchih.mex002
 mexf;MEX2;;Ojinaga, CHIH;mexchih.mex002oji
 mexf;MEX2;;Ciudad Acuña, COAH - Playa Lauro Villar, TAM;mexcoah.mex002,mexnl.mex002,mextam.mex002
 mexf;MEX3;;;mexbc.mex003
@@ -21,6 +22,111 @@ mexf;MEX17;;;mexson.mex017
 mexf;MEX19;;;mexbcs.mex019
 mexf;MEX22;;Rincón de Romos - Ciénega Grande, AGS;mexags.mex022
 mexf;MEX22;;Ramal a San Carlos, BCS;mexbcs.mex022
+mexf;MEX23;;Chapala - Guadalajara, JAL;mexjal.mex023cha
+mexf;MEX23;;Guadalajara, JAL - Entronque Malpaso, ZAC;mexjal.mex023cri,mexzac.mex023,mexjal.mex023,mexzac.mex023tep
+mexf;MEX23;;Jerez - Fresnillo, ZAC;mexzac.mex023fre
+mexf;MEX23;;Mezquital - Durango, DGO;mexdgo.mex023mez
+mexf;MEX23;;Durango - Guanaceví, DGO;mexdgo.mex023
+mexf;MEX24;;Pericos - Badiraguato, SIN;mexsin.mex024
+mexf;MEX24;;Puerto Sabinal, SIN - Entronque Nuevo Palomas, CHIH;mexsin.mex024sab,mexdgo.mex024sab,mexchih.mex024ver,mexdgo.mex024,mexchih.mex024
+mexf;MEX25;;;mexags.mex025,mexzac.mex025laz,mexags.mex025cie,mexzac.mex025
 mexf;MEX26;;;mexnay.mex026
 mexf;MEX27;;;mexnay.mex027
+mexf;MEX29;;;mexcoah.mex029
+mexf;MEX30;;El Palmito - Bermejillo, DGO;mexdgo.mex030
+mexf;MEX30;;Torreón - Monclova, COAH;mexcoah.mex030
+mexf;MEX30;;San Pedro de las Colonias - Entronque La Cuchilla, COAH;mexcoah.mex030cuc
+mexf;MEX30;;Parás, NL - Nueva Ciudad Guerrero, TAM;mexnl.mex030,mextam.mex030
+mexf;MEX34;;;mexdgo.mex034
+mexf;MEX35;;Entronque Rinconada, MICH - Entronque Santa Rosa, JAL;mexmich.mex035,mexjal.mex035
+mexf;MEX35;;Montemorelos - China, NL;mexnl.mex035
+mexf;MEX36;;;mexdgo.mex036
+mexf;MEX37;;Playa Azul, MICH - Manuel Doblado, GTO;mexmich.mex037,mexgto.mex037ana,mexjal.mex037,mexgto.mex037man
+mexf;MEX37;;San Felipe, GTO - Entronque Cerro Gordo, SLP;mexgto.mex037,mexslp.mex037
+mexf;MEX40;;;mexsin.mex040,mexdgo.mex040,mexcoah.mex040,mexnl.mex040,mextam.mex040
+mexf;MEX41;;Tacámbaro - Opopeo, MICH;mexmich.mex041
+mexf;MEX41;;Entronque Cuerámaro, GTO - Carretera Federal 37, JAL;mexgto.mex041,mexjal.mex041
+mexf;MEX41;;Ramal a Manuel Doblado, GTO;mexgto.mex041man
+mexf;MEX43;;;mexmich.mex043,mexgto.mex043
+mexf;MEX44;;;mexzac.mex044
+mexf;MEX45;;Entronque Portezuelo, HGO - Entronque Pachuca, QRO;mexhgo.mex045,mexqro.mex045pal
+mexf;MEX45;;Querétaro, QRO - Ciudad Juárez, CHIH;mexqro.mex045,mexgto.mex045,mexjal.mex045,mexags.mex045,mexzac.mex045,mexdgo.mex045,mexchih.mex045
+mexf;MEX48;;;mexchih.mex048
+mexf;MEX49;;San Luis Potosí, SLP - Entronque Las Arcinas, ZAC;mexslp.mex049,mexzac.mex049sal,mexslp.mex049ant,mexzac.mex049gon,mexslp.mex049gon,mexzac.mex049pan
+mexf;MEX49;;Entronque La Chicharrona, ZAC - Jiménez, CHIH;mexzac.mex049,mexdgo.mex049,mexchih.mex049
+mexf;MEX51;;Iguala, GRO - Zitácuaro, MICH;mexgro.mex051,mexmich.mex051
+mexf;MEX51;;Entronque Huajúmbaro - Zinapécuaro, MICH;mexmich.mex051hua
+mexf;MEX51;;Maravatío, MICH - Entronque Ojuelos, JAL;mexmich.mex051mar,mexgto.mex051,mexjal.mex051
+mexf;MEX53;;;mexnl.mex053,mexcoah.mex053
+mexf;MEX54;;Colima, COL - Ciudad Guzmán, JAL;mexcol.mex054,mexjal.mex054ate
+mexf;MEX54;;Guadalajara, JAL - Saltillo, COAH;mexjal.mex054,mexzac.mex054,mexslp.mex054cos,mexzac.mex054zan,mexslp.mex054,mexzac.mex054tib,mexcoah.mex054
+mexf;MEX54;;Monterrey, NL - Ciudad Mier, TAM;mexnl.mex054,mextam.mex054
+mexf;MEX55;;;mexgro.mex055,mexemex.mex055,mexqro.mex055
+mexf;MEX57;;Entronque Jorobas, EMEX - Tula, HGO;mexemex.mex057,mexhgo.mex057
+mexf;MEX57;;Entronque Toluca, QRO - La Encantada, COAH;mexqro.mex057,mexgto.mex057,mexslp.mex057,mexnl.mex057,mexcoah.mex057hua
+mexf;MEX57;;Entronque Bella Unión - Piedras Negras, COAH;mexcoah.mex057
+mexf;MEX57;;Saltillo - Santa Cruz, COAH;mexcoah.mex057can
+mexf;MEX58;;;mexnl.mex058
+mexf;MEX62;;;mexzac.mex062,mexslp.mex062
+mexf;MEX63;;;mexslp.mex063
 mexf;MEX68;;;mexnay.mex068
+mexf;MEX69;;;mexqro.mex069,mexslp.mex069
+mexf;MEX70;;Mascota - Entronque Ameca, JAL;mexjal.mex070
+mexf;MEX70;;Jalpa, ZAC - Ojuelos, JAL;mexzac.mex070,mexags.mex070,mexjal.mex070oju
+mexf;MEX70;;San Luis Potosí, SLP - Tampico, TAM;mexslp.mex070,mexver.mex070,mextam.mex070tam
+mexf;MEX70;;Ciudad Victoria - Soto la Marina, TAM;mextam.mex070
+mexf;MEX71;;La Barca - Atotonilco, JAL;mexjal.mex071ato
+mexf;MEX71;;Ramal a Yahualica, JAL;mexjal.mex071
+mexf;MEX71;;Villa Hidalgo, JAL - Penitenciaría, AGS;mexjal.mex071hid,mexags.mex071tar
+mexf;MEX71;;Providencia, AGS - Luis Moya, ZAC;mexags.mex071,mexzac.mex071
+mexf;MEX80;;Barra de Navidad - Entronque Acatlán, JAL;mexjal.mex080hue
+mexf;MEX80;;Guadalajara, JAL - San Luis Potosí, SLP;mexjal.mex080,mexzac.mex080,mexslp.mex080esc
+mexf;MEX80;;Entronque Huizache, SLP - Antiguo Morelos, TAM;mexslp.mex080dom,mextam.mex080vig,mexslp.mex080,mextam.mex080for
+mexf;MEX80;;Ciudad Mante - Tampico, TAM;mextam.mex080
+mexf;MEX81;;;mextam.mex081
+mexf;MEX82;;;mextam.mex082
+mexf;MEX83;;;mextam.mex083
+mexf;MEX85;;;mexdf.mex085,mexemex.mex085,mexhgo.mex085,mexslp.mex085,mextam.mex085,mexnl.mex085,mextam.mex085lar
+mexf;MEX88;;;mexhgo.mex088,mextlax.mex088
+mexf;MEX90;;;mexjal.mex090,mexmich.mex090,mexgto.mex090
+mexf;MEX93;;;mexgro.mex093,mexpue.mex093
+mexf;MEX95;;;mexgro.mex095,mexmor.mex095,mexdf.mex095
+mexf;MEX97;;;mextam.mex097
+mexf;MEX98;;;mexcol.mex098
+mexf;MEX101;;;mexslp.mex101,mextam.mex101
+mexf;MEX102;;;mexslp.mex102,mexhgo.mex102
+mexf;MEX105;;;mexhgo.mex105,mexver.mex105
+mexf;MEX107;;;mextam.mex107
+mexf;MEX110;;Entronque Tecomán, COL - Entronque Estación Patti, MICH;mexcol.mex110,mexjal.mex110,mexmich.mex110
+mexf;MEX110;;Zamora - La Piedad, MICH;mexmich.mex110zam
+mexf;MEX110;;Los Infantes - San Luis de la Paz, GTO;mexgto.mex110
+mexf;MEX111;;;mexqro.mex111,mexgto.mex111
+mexf;MEX113;;;mexmor.mex113,mexemex.mex113,mexdf.mex113
+mexf;MEX115;;;mexmor.mex115,mexemex.mex115
+mexf;MEX117;;;mexpue.mex117,mextlax.mex117
+mexf;MEX119;;;mexpue.mex119pue,mextlax.mex119,mexpue.mex119,mexhgo.mex119
+mexf;MEX120;;Tepalcatepec - Quiroga, MICH;mexmich.mex120
+mexf;MEX120;;Entronque San José, MICH - La Noria, QRO;mexmich.mex120uru,mexgto.mex120,mexmich.mex120pal,mexqro.mex120gal
+mexf;MEX120;;San Juan del Río, QRO - Entronque Xilitla, SLP;mexqro.mex120,mexslp.mex120
+mexf;MEX121;;;mexpue.mex121,mextlax.mex121
+mexf;MEX125;;Pinotepa Nacional - Yucudaa, OAX;mexoax.mex125
+mexf;MEX125;;Huajuapan de León, OAX - Tehuacán, PUE;mexoax.mex125hua,mexpue.mex125
+mexf;MEX125;;Fortín de las Flores - Entronque Conejos, VER;mexver.mex125
+mexf;MEX126;;;mexmich.mex126
+mexf;MEX127;;San Andrés - Poza Rica, VER;mexver.mex127poz
+mexf;MEX127;;Tihuatlán - Entronque Canoas, VER;mexver.mex127
+mexf;MEX127;;Alamo, VER - Huejutla de Reyes, HGO;mexver.mex127ben,mexhgo.mex127
+mexf;MEX129;;;mexpue.mex129amo,mextlax.mex129,mexpue.mex129,mexver.mex129
+mexf;MEX130;;Pachuca, HGO - Cañada Rica, VER;mexhgo.mex130,mexpue.mex130,mexver.mex130
+mexf;MEX130;;Tihuatlán - Teayo, VER;mexver.mex130cas
+mexf;MEX131;;Puerto Escondido - Entronque La Y, OAX;mexoax.mex131
+mexf;MEX131;;Perote, VER - Teziutlán, PUE;mexver.mex131,mexpue.mex131
+mexf;MEX132;;;mexemex.mex132,mexhgo.mex132
+mexf;MEX134;;;mexgro.mex134,mexmich.mex134,mexgro.mex134cut,mexemex.mex134
+mexf;MEX135;;;mexoax.mex135
+mexf;MEX136;;;mexemex.mex136,mextlax.mex136,mexpue.mex136
+mexf;MEX140;;;mexpue.mex140,mexver.mex140
+mexf;MEX142;;;mexemex.mex142
+mexf;MEX144;;;mexpue.mex144
+mexf;MEX145;;;mexver.mex145,mexoax.mex145,mexver.mex145tie
+mexf;MEX147;;;mexoax.mex147pal,mexver.mex147,mexoax.mex147
