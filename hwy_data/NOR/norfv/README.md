@@ -12,7 +12,6 @@
 
 **NOTES TO ROUTES:**
 - All routes with 4-digit numbers are secondary fylkesveier; all 2-/3-digit Fv routes drafted
-- `Fv118` branch to `E6` exit 1 should be signed now but GSV is out-dated (2009/10), not drafted
 - `Fv155` segment from E18 to east of E6 is a municipal road of Oslo city and only signed with dotted frame which means "to Fv155" according to GSV from 2016; confirmed by vegvesen.no; segment not drafted
 - `Ring 2` (former `Fv161`) is a municipal road of Oslo city but signed like Fv routes; not drafted though
 - `Ring 1` is signed like `Ring 2` but state-owned `Rv162` according to wikipedia but no `Rv162` signs according to GSV from 2016
