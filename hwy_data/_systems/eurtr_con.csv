@@ -23,6 +23,7 @@ eurtr;AtlTv;;Atlanterhavsvegen Nasjonal Turistvei;nor.atltv
 eurtr;AurTv;;Aurlandsfjellet Nasjonal Turistvei;nor.aurtv
 eurtr;GSTv;;Gamle Strynefjellsveien Nasjonal Turistvei;nor.gstv
 eurtr;GauTv;;Gaularfjellet Nasjonal Turistvei;nor.gautv
+eurtr;GauTv;;Gaularfjellet Nasjonal Turistvei (Moskog);nor.gautvmos
 eurtr;GTTv;;Geiranger-Trollstigen Nasjonal Turistvei (Geiranger);nor.gttv
 eurtr;GTTv;;Geiranger-Trollstigen Nasjonal Turistvei (Trollstigen);nor.gttvtro
 eurtr;HarTv;;Hardanger Nasjonal Turistvei (Norheimsund);nor.hartv
@@ -39,16 +40,39 @@ eurtr;HelTv;;Helgelandskysten Nasjonal Turistvei (Jetvik);nor.heltvjet
 eurtr;HelTv;;Helgelandskysten Nasjonal Turistvei (Ørnes);nor.heltv
 eurtr;JaeTv;;Jæren Nasjonal Turistvei;nor.jaetv
 eurtr;LofTv;;Lofoten Nasjonal Turistvei;nor.loftv
+eurtr;LofTv;;Lofoten Nasjonal Turistvei (Eggum);nor.loftvegg
+eurtr;LofTv;;Lofoten Nasjonal Turistvei (Henningsvær);nor.loftvhen
+eurtr;LofTv;;Lofoten Nasjonal Turistvei (Nusfjord);nor.loftvnus
+eurtr;LofTv;;Lofoten Nasjonal Turistvei (Unstad);nor.loftvuns
+eurtr;LofTv;;Lofoten Nasjonal Turistvei (Utakleiv);nor.loftvuta
+eurtr;LofTv;;Lofoten Nasjonal Turistvei (Vikten);nor.loftvvik
 eurtr;RonTv;;Rondane Nasjonal Turistvei;nor.rontv
+eurtr;RonTv;;Rondane Nasjonal Turistvei (Muen);nor.rontvmue
 eurtr;RyfTv;;Ryfylke Nasjonal Turistvei (Jørpeland);nor.ryftvjor
 eurtr;RyfTv;;Ryfylke Nasjonal Turistvei (Hara);nor.ryftv
 eurtr;SenTv;;Senja Nasjonal Turistvei;nor.sentv
+eurtr;SenTv;;Senja Nasjonal Turistvei (Husøy);nor.sentvhus
+eurtr;SenTv;;Senja Nasjonal Turistvei (Mefjordver);nor.sentvmef
 eurtr;SogTv;;Sognefjellet Nasjonal Turistvei;nor.sogtv
 eurtr;ValTv;;Valdresflye Nasjonal Turistvei;nor.valtv
 eurtr;VarTv;;Varanger Nasjonal Turistvei;nor.vartv
 eurtr;HamHarTie;;Hameen Harkatie;fin.hamhartie
 eurtr;NLR;;Northern Lights Route (Tornio);fin.nlr
 eurtr;NLR;;Northern Lights Route (main);swe.nlr,fin.nlrkaa,nor.nlr
+eurtr;RanTie;;Rantatie;fin.rantie
+eurtr;SaaRenTie;;Saariston Rengastie (Turku);fin.saarentie
+eurtr;SaaRenTie;;Saariston Rengastie (Turku);fin.saarentienag
+eurtr;SaaRenTie;;Saariston Rengastie (Galtby);fin.saarentiegal
+eurtr;SaaRenTie;;Saariston Rengastie (Trask);fin.saarentietra
+eurtr;SaaRenTie;;Saariston Rengastie (Bjorko);fin.saarentiebjo
+eurtr;SaaRenTie;;Saariston Rengastie (Mossala);fin.saarentiemos
+eurtr;SaaRenTie;;Saariston Rengastie (Norrby);fin.saarentienor
+eurtr;SaaRenTie;;Saariston Rengastie (Jumo);fin.saarentiejum
+eurtr;PieRenTie;;Pieni Rengastie (Nagu);fin.pierentienag
+eurtr;PieRenTie;;Pieni Rengastie (Alakyla);fin.pierentieala
+eurtr;PieRenTie;;Pieni Rengastie (Rymattyla);fin.pierentie
+eurtr;VelRei;;Velkuan Reitti (Taivassalo);fin.velreitai
+eurtr;VelRei;;Velkuan Reitti (Livonsaari);fin.velrei
 eurtr;SinTie;;Sininentie;fin.sintie
 eurtr;TaiTie;;Taikayontie;fin.taitie
 eurtr;TerTie;;Tervantie (Vaala);fin.tertievaa
@@ -131,6 +155,7 @@ eurtr;BalSR;;Ballintempo Scenic Route;nir.balsr
 eurtr;BerCoaRt;;Berwickshire Coastal Route;sct.bercoart
 eurtr;BoyVlyDr;;Boyne Valley Drive;irl.boyvlydr
 eurtr;BraDr;;Braveheart Drive;irl.bradr
+eurtr;BurHT;;Burns Heritage Trail;sct.burht
 eurtr;ClySLTrl;;Clyde Sea Lochs Trail;sct.clysltrl
 eurtr;CSSR;;Cotswolds Scarp Scenic Route;eng.cssr
 eurtr;DorEmboCR;;Dornoch and Embo Scenic Coastal Route;sct.dorembocr
@@ -138,9 +163,11 @@ eurtr;DorFirTR;;Dornoch Firth Tourist Route;sct.dorfirtr
 eurtr;CoaTrl;;(East Lothian) Coastal Trail;sct.coatrl
 eurtr;HilTrl;;(East Lothian) Hillfoots Trail;sct.hiltrl
 eurtr;SalTrl;;(East Lothian) Saltire Trail;sct.saltrl
+eurtr;GtWestWay;;Great West Way;eng.gtwestway
 eurtr;FfoFynGul;;Fford Fynyddig Gul;wls.ffofyngul
 eurtr;FfoMyn;;Fford Mynydd;wls.ffomyn
 eurtr;FosWay;;Fosse Way;eng.fosway
+eurtr;GalKiteTrl;;Galloway Kite Trail;sct.galkitetrl
 eurtr;HWTTE;;Hadrian's Wall Tourist Trail (Pennines);eng.hwtte
 eurtr;HWTTW;;Hadrian's Wall Tourist Trail (Solway Coast);eng.hwttw
 eurtr;IE100;;Inis Eoghain 100;irl.ie100
@@ -151,11 +178,14 @@ eurtr;LochNessTrl;;Loch Ness Trail;sct.lochnesstrl
 eurtr;LowFurCR;;Low Furness Coastal Route;eng.lowfurcr
 eurtr;MarSL;;Marlbank Scenic Loop;nir.marsl
 eurtr;MicColDr;;Michael Collins Drive;irl.miccoldr
+eurtr;NECoaTrl;;North East Coastal Trail;sct.necoatrl
 eurtr;OldLarRd;;Old Largs Road;sct.oldlarrd
 eurtr;PSWTR;;Porlock Scenic Woodland Toll Road;eng.pswtr
 eurtr;SnowRoaSR;;Snow Roads Scenic Route;sct.snowroasr
+eurtr;SolCoaHT;;Solway Coast Heritage Trail;sct.solcoaht
 eurtr;TawValTR;;Taw Valley Tourist Route;eng.tawvaltr
 eurtr;TroTrl;;Trossachs Trail;sct.trotrl
 eurtr;UttTR;;Uttlesford Tourist Route;eng.utttr
+eurtr;VicHT;;Victorian Heritage Trail;sct.vicht
 eurtr;WDevDr;;West Devon Drive;eng.wdevdr
 eurtr;WesRossCT;;Wester Ross Coastal Trail;sct.wesrossct
