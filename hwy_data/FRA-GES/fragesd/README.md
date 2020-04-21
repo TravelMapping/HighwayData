@@ -7,6 +7,7 @@
 
 **DEPARTMENT BORDER LABELS:**
 FRA-08 = `Arn` = Ardennes
+   no list available, just OSM,GM,...
 FRA-10 = `Aube` = Aube
    no list available, just OSM,GM,...
 FRA-51 = `Mar` = Marne
