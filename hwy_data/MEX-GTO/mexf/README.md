@@ -1,4 +1,5 @@
 The following branches are not included:
+* Cortázar - Valle de Santiago: listed as partly federal in DV but nowhere else
 * route through San Miguel de Allende: no signage for a route that would have many turns
 * route through Uriangato: almost no 43 signs on a locally maintained (per GIS) route
 
