@@ -24,6 +24,7 @@ mexf;MEX14;;Uruapan - Morelia, MICH;mexmich.mex014
 mexf;MEX14;;Hermosillo - Moctezuma, SON;mexson.mex014
 mexf;MEX15;;;mexdf.mex015,mexemex.mex015,mexmich.mex015,mexjal.mex015,mexnay.mex015,mexsin.mex015,mexson.mex015
 mexf;MEX15;;Monumento - Valle de Bravo, EMEX;mexemex.mex015val
+mexf;MEX15;;Libramiento Norte de Zamora, JAL;mexjal.mex015zam
 mexf;MEX16;;;mexson.mex016,mexchih.mex016
 mexf;MEX17;;;mexson.mex017
 mexf;MEX19;;;mexbcs.mex019
@@ -52,6 +53,7 @@ mexf;MEX35;;Montemorelos - China, NL;mexnl.mex035
 mexf;MEX36;;;mexdgo.mex036
 mexf;MEX37;;Playa Azul, MICH - Manuel Doblado, GTO;mexmich.mex037,mexgto.mex037ana,mexjal.mex037,mexgto.mex037man
 mexf;MEX37;;San Felipe, GTO - Entronque Cerro Gordo, SLP;mexgto.mex037,mexslp.mex037
+mexf;MEX37;;Paso por Villa de Reyes, SLP;mexgto.mex037rey,mexslp.mex037rey
 mexf;MEX40;;;mexsin.mex040,mexdgo.mex040,mexcoah.mex040,mexnl.mex040,mextam.mex040
 mexf;MEX40;;Paso por Cuencamé, DGO;mexdgo.mex040cue
 mexf;MEX40;;Gómez Palacio - La Unión, DGO;mexdgo.mex040uni
@@ -64,6 +66,8 @@ mexf;MEX43;;;mexmich.mex043,mexgto.mex043
 mexf;MEX44;;;mexzac.mex044
 mexf;MEX45;;Entronque Portezuelo, HGO - Entronque Pachuca, QRO;mexhgo.mex045,mexqro.mex045pal
 mexf;MEX45;;Querétaro, QRO - Ciudad Juárez, CHIH;mexqro.mex045,mexgto.mex045,mexjal.mex045,mexags.mex045,mexzac.mex045,mexdgo.mex045,mexchih.mex045
+mexf;MEX45;;Ramal a Cortazar, GTO;mexgto.mex045cor
+mexf;MEX45;;Paso por Irapuato, GTO;mexgto.mex045ira
 mexf;MEX45;;Ramal a Aeropuerto Internacional de Aguascalientes, AGS;mexags.mex045aia
 mexf;MEX45;;Libramiento de Aguascalientes, AGS;mexags.mex045agu
 mexf;MEX45;;Paso por San Francisco de los Romo, AGS;mexags.mex045fra
@@ -79,14 +83,18 @@ mexf;MEX49;;Paso por Cuencamé, DGO;mexdgo.mex049cue
 mexf;MEX51;;Iguala, GRO - Zitácuaro, MICH;mexgro.mex051,mexmich.mex051
 mexf;MEX51;;Entronque Huajúmbaro - Zinapécuaro, MICH;mexmich.mex051hua
 mexf;MEX51;;Maravatío, MICH - Entronque Ojuelos, JAL;mexmich.mex051mar,mexgto.mex051,mexjal.mex051
+mexf;MEX51;;Salvatierra - Entronque Yuriria, GTO;mexgto.mex051yur
 mexf;MEX53;;;mexnl.mex053,mexcoah.mex053
 mexf;MEX54;;Colima, COL - Ciudad Guzmán, JAL;mexcol.mex054,mexjal.mex054ate
+mexf;MEX54;;Cuatro Caminos - San Pedro, JAL;mexjal.mex054tec
+mexf;MEX54;;Cuatro Caminos - Cerca Lisa, JAL;mexjal.mex054tux
 mexf;MEX54;;Guadalajara, JAL - Saltillo, COAH;mexjal.mex054,mexzac.mex054,mexslp.mex054cos,mexzac.mex054zan,mexslp.mex054,mexzac.mex054tib,mexcoah.mex054
 mexf;MEX54;;Monterrey, NL - Ciudad Mier, TAM;mexnl.mex054,mextam.mex054
 mexf;MEX55;;;mexgro.mex055,mexemex.mex055,mexqro.mex055
 mexf;MEX55;;Paso por Acambay, EMEX;mexemex.mex055aca
 mexf;MEX57;;Entronque Jorobas, EMEX - Tula, HGO;mexemex.mex057,mexhgo.mex057
 mexf;MEX57;;Entronque Toluca, QRO - La Encantada, COAH;mexqro.mex057,mexgto.mex057,mexslp.mex057,mexnl.mex057,mexcoah.mex057hua
+mexf;MEX57;;Ramal a San José Iturbide, GTO;mexcgto.mex057itu
 mexf;MEX57;;Entronque Bella Unión - Piedras Negras, COAH;mexcoah.mex057
 mexf;MEX57;;Saltillo - Santa Cruz, COAH;mexcoah.mex057can
 mexf;MEX57;;Paso por Monclova, COAH;mexcoah.mex057mon
@@ -114,6 +122,8 @@ mexf;MEX81;;;mextam.mex081
 mexf;MEX82;;;mextam.mex082
 mexf;MEX83;;;mextam.mex083
 mexf;MEX85;;;mexdf.mex085,mexemex.mex085,mexhgo.mex085,mexslp.mex085,mextam.mex085,mexnl.mex085,mextam.mex085lar
+mexf;MEX85;;Paso por Pachuca;mexhgo.mex085pac
+mexf;MEX85;;Paso por Actopan;mexhgo.mex085act
 mexf;MEX88;;;mexhgo.mex088,mextlax.mex088
 mexf;MEX90;;;mexjal.mex090,mexmich.mex090,mexgto.mex090
 mexf;MEX93;;;mexgro.mex093,mexpue.mex093
@@ -122,6 +132,7 @@ mexf;MEX95;;Libramiento Norte de Acapulco, GRO (Ramal a Bajos del Ejido);mexgro.
 mexf;MEX95;;Tierra Colorada - Cruz Grande, GRO;mexgro.mex095cru
 mexf;MEX95;;Chilpancingo - Chichihualco, GRO;mexgro.mex095chi
 mexf;MEX95;;Casa Verde - Filo de Caballos, GRO;mexgro.mex095fil
+mexf;MEX95;;Ramal a Lagunas de Zempoala, MOR;mexmor.mex095zem
 mexf;MEX97;;;mextam.mex097
 mexf;MEX98;;;mexcol.mex098
 mexf;MEX98;;Ramal a Cerro de los Juanes, COL;mexcol.mex098jua
@@ -132,8 +143,11 @@ mexf;MEX107;;;mextam.mex107
 mexf;MEX110;;Entronque Tecomán, COL - Entronque Estación Patti, MICH;mexcol.mex110,mexjal.mex110,mexmich.mex110
 mexf;MEX110;;Paso por La Salada, COL;mexcol.mex110sal
 mexf;MEX110;;Paso por Los Asmoles, COL;mexcol.mex110asm
+mexf;MEX110;;Entronque El Mirador - El Zapote, JAL;mexjal.mex110guz
 mexf;MEX110;;Zamora - La Piedad, MICH;mexmich.mex110zam
 mexf;MEX110;;Los Infantes - San Luis de la Paz, GTO;mexgto.mex110
+mexf;MEX110;;Santa Teresa - Silao, GTO;mexgto.mex110sil
+mexf;MEX110;;Ramal a Cañada de Moreno, GTO;mexgto.mex110mor
 mexf;MEX111;;;mexqro.mex111,mexgto.mex111
 mexf;MEX113;;;mexmor.mex113,mexemex.mex113,mexdf.mex113
 mexf;MEX115;;;mexmor.mex115,mexemex.mex115
@@ -171,7 +185,10 @@ mexf;MEX145;;;mexver.mex145,mexoax.mex145,mexver.mex145tie
 mexf;MEX147;;;mexoax.mex147pal,mexver.mex147,mexoax.mex147
 mexf;MEX150;;;mexpue.mex150,mexver.mex150
 mexf;MEX160;;;mexmor.mex160,mexpue.mex160
+mexf;MEX160;;Paso por Cuautla, MOR;mexmor.mex160cua
+mexf;MEX162;;;mexmor.mex162
 mexf;MEX166;;;mexgro.mex166,mexmor.mex166
+mexf;MEX166;;Michapa - Puente de Ixtla, MOR;mexmor.mex166ixt
 mexf;MEX175;;;mexoax.mex175,mexver.mex175
 mexf;MEX176;;;mexyuc.mex176
 mexf;MEX179;;;mexoax.mex179
@@ -198,10 +215,13 @@ mexf;MEX190;;Ramal a La Angostura, CHIS;mexchis.mex190ang
 mexf;MEX195;;;mexchis.mex195,mextab.mex195
 mexf;MEX199;;;mexchis.mex199
 mexf;MEX200;;Tepic, NAY - Salina Cruz, OAX;mexnay.mex200,mexjal.mex200,mexcol.mex200,mexmich.mex200,mexgro.mex200,mexoax.mex200
+mexf;MEX200;;Ramal a Tomatlán, JAL;mexjal.mex200tom
+mexf;MEX200;;Libramiento Melaque, JAL;mexjal.mex200mel
 mexf;MEX200;;Paso por Manzanillo, COL (Zona Hotelera);mexcol.mex200hot
 mexf;MEX200;;Paso por Manzanillo, COL (Centro);mexcol.mex200man
 mexf;MEX200;;Ramal a Cuyutlán, COL;mexcol.mex200cuy
 mexf;MEX200;;Ramal a Boca de Pascuales, COL;mexcol.mex200pas
+mexf;MEX200;;Ramal a Sicartsa, MICH;mexmich.mex200sic
 mexf;MEX200;;Ramal a la Unión, GRO;mexgro.mex200uni
 mexf;MEX200;;Paso por Barrio Viejo, GRO;mexgro.mex200vie
 mexf;MEX200;;Boulevard Ixtapa Zihuatanejo - Aeropuerto Internacional de Zihuatanejo, GRO;mexgro.mex200azw
