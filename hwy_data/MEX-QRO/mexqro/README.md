@@ -1,4 +1,5 @@
 The following routes are not included:
+* qro129 (San Javier - Altamira): not signed (as of 2013)
 
 Other notes on routes:
 * qro128's south end is at km 0
