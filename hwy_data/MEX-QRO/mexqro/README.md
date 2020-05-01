@@ -7,3 +7,5 @@ Other notes on routes:
 * qro131's west end is where the street becomes one-way; there is no signage to or from MEX120
 * qro131's east end is where pavement changes to stones
 * qro150 has no GMSV and may be unsigned
+* qro160's west end is where pavement changes to stones
+* qro161 has no GMSV east of QRO140; the east end is where pavement appears to change
