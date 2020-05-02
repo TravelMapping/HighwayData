@@ -9,3 +9,4 @@ Other notes on routes:
 * qro150 has no GMSV and may be unsigned
 * qro160's west end is where pavement changes to stones
 * qro161 has no GMSV east of QRO140; the east end is where pavement appears to change
+* qro180 has no GMSV
