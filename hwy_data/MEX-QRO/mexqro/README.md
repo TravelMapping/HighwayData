@@ -1,5 +1,7 @@
 The following routes are not included:
 * qro129 (San Javier - Altamira): not signed (as of 2013)
+* qro191 (El Lobo - Agua Zarca): not signed (as of 2019)
+* qro194 (Zoyapilca - Valle Verde or Rancho Nuevo): not signed (as of 2009)
 
 Other notes on routes:
 * qro128's south end is at km 0
@@ -10,3 +12,4 @@ Other notes on routes:
 * qro160's west end is where pavement changes to stones
 * qro161 has no GMSV east of QRO140; the east end is where pavement appears to change
 * qro180 has no GMSV; the east end is where it appears pavement may change on aerial photos
+* qro190's north end is where pavement changes to stones
