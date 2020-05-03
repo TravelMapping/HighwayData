@@ -31,4 +31,5 @@ Other notes on routes:
 * qro251's north end is where pavement ends, but may be too far north
 * qro260 has no GMSV and is unpaved (but signed)
 * qro400's north end is where km 0 would be; there's no signage in the area
+* qro411's south end is where pavement changes at km 26
 * qro432's south end may be wrong, but it matches the length of 1.4 km
