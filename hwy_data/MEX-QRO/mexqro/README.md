@@ -1,10 +1,14 @@
 The following routes are not included:
+* qro012 (Avenida de las Ciencias): not signed (as of 2019)
+* qro013 (Boulevard Villas del Mesón): not signed (as of 2019)
 * qro121 (San Juan del Río - El Sitio): not signed (as of 2009)
 * qro123 (Ramal a San Antonio): not signed (as of 2009)
 * qro125 (Ramal a Visthá): not signed (as of 2013)
 * qro129 (San Javier - Altamira): not signed (as of 2013)
 * qro191 (El Lobo - Agua Zarca): not signed (as of 2019)
 * qro194 (Zoyapilca - Valle Verde or Rancho Nuevo): not signed (as of 2009)
+* qro210 (La Piedad - El Rodeo): not signed (as of 2019)
+* qro435 (Ramal a La D): not signed (as of 2013)
 
 Other notes on routes:
 * qro110's north end is where pavement changes to stones
