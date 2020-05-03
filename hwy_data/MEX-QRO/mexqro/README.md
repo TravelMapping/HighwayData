@@ -23,3 +23,4 @@ Other notes on routes:
 * qro161 has no GMSV east of QRO140; the east end is where pavement appears to change
 * qro180 has no GMSV; the east end is where it appears pavement may change on aerial photos
 * qro190's north end is where pavement changes to stones
+* qro250 has no GMSV near the north end
