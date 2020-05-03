@@ -1,6 +1,7 @@
 The following routes are not included:
 * qro012 (Acceso a Juriquilla I/Avenida de las Ciencias): not signed (as of 2019)
 * qro013 (Acceso a Juriquilla II/Boulevard Villas del Mesón): not signed (as of 2019)
+* qro021 (Acceso a Los Olvera): not signed (as of 2019)
 * qro121 (San Juan del Río - El Sitio): not signed (as of 2009)
 * qro123 (Acceso a San Antonio): not signed (as of 2009)
 * qro125 (Acceso a Visthá): not signed (as of 2013)
@@ -12,6 +13,7 @@ The following routes are not included:
 * qro220 (Acceso a La Griega): not signed (as of 2019)
 * qro320 (Libramiento Amealco Oriente - Poniente): not signed (as of 2019)
 * qro435 (Acceso a La "D"): not signed (as of 2013)
+* qro530 (Acceso a Unidad Blanco): not signed (as of 2019)
 
 Other notes on routes:
 * qro110's north end is where pavement changes to stones
