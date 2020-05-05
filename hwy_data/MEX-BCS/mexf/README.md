@@ -14,6 +14,7 @@ The following branches are not included:
 * Ramal a Vizcaíno: not signed at east end; no GMSV
 * 1 (including Pichilingue branch) through La Paz: not signed
 * 19 through Cabo San Lucas: not signed
+* 19 through Todos Santos: not signed
 
 Other notes on routes:
 * mex001esc: the east end may be too far east
