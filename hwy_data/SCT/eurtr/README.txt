@@ -40,3 +40,12 @@ Road Trips
 	Heart200
 
 Other bits:
+	Arisaig Coastal Route
+	Assygnt Coastal Route
+	Ayrshire Coastal Route
+	Berwickshire Coastal Route
+	Dornoch & Embo Coastal Route
+	Dornoch Firth Tourist Route
+	Old Largs Road
+	A701 'Scenic Route to Edinburgh'
+	B8035 'Scenic Route to Salen'
