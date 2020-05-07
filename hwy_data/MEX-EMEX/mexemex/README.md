@@ -3,3 +3,4 @@ Notes on routes:
 * emex004 has no GMSV south of Pal or between EMEX3_W and Qui
 * emex006's route may be wrong north of Huixquilucan
 * emex007 has no GMSV between EMEX8 and EMEX10
+* emex008 has no GMSV
