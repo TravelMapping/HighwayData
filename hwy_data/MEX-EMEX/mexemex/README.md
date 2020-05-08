@@ -4,4 +4,4 @@ Notes on routes:
 * emex006's route may be wrong north of Huixquilucan
 * emex007 has no GMSV between EMEX8 and EMEX10
 * emex008 has no GMSV
-* emex010 has no GMSV between AlmAlq and EMEX12
+* emex010 has no GMSV between AlmAlq and EMEX12 or through Sultepec centro (or has signage been installed since 2009 taking it around on the libramiento?)
