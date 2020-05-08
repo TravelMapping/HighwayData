@@ -19,8 +19,10 @@ FRA-43 = `HLo` = Haute-Loire
 FRA-63 = `PdD` = Puy-de-Dôme
 FRA-69 = `Rho` = Rhône
 FRA-73 = `Sav` = Savoie
+   no list available, just OSM,GM,...
 FRA-74 = `HSa` = Haute-Savoie
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-73 - Savoie:*
+- OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV

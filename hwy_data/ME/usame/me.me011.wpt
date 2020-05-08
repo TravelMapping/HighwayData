@@ -3,7 +3,7 @@ HubRd http://www.openstreetmap.org/?lat=43.350753&lon=-70.928091
 LongSwaRd http://www.openstreetmap.org/?lat=43.380630&lon=-70.877566
 DepRd_Leb http://www.openstreetmap.org/?lat=43.412421&lon=-70.868377
 CreHillRd_E http://www.openstreetmap.org/?lat=43.423169&lon=-70.853799
-ME11A_SanS http://www.openstreetmap.org/?lat=43.426183&lon=-70.831046
+ME11A_San +ME11A_SanS http://www.openstreetmap.org/?lat=43.426183&lon=-70.831046
 MtHopeRd http://www.openstreetmap.org/?lat=43.422583&lon=-70.816444
 KimSt http://www.openstreetmap.org/?lat=43.435209&lon=-70.785647
 HanRidRd http://www.openstreetmap.org/?lat=43.439323&lon=-70.783839
@@ -46,7 +46,7 @@ QuaRdgRd http://www.openstreetmap.org/?lat=43.979186&lon=-70.528214
 ME121_Cas http://www.openstreetmap.org/?lat=43.982905&lon=-70.517517
 ME85 http://www.openstreetmap.org/?lat=43.986246&lon=-70.476201
 NRayRd http://www.openstreetmap.org/?lat=44.030194&lon=-70.432483
-WOHRd http://www.openstreetmap.org/?lat=44.034291&lon=-70.428978
+WOHillRd +WOHRd http://www.openstreetmap.org/?lat=44.034291&lon=-70.428978
 ME26 http://www.openstreetmap.org/?lat=44.075373&lon=-70.416409
 ME124 http://www.openstreetmap.org/?lat=44.111321&lon=-70.392036
 ME119 http://www.openstreetmap.org/?lat=44.088934&lon=-70.332925
@@ -67,11 +67,11 @@ ME126 http://www.openstreetmap.org/?lat=44.100623&lon=-70.215039
 VetMemBr http://www.openstreetmap.org/?lat=44.111993&lon=-70.208216
 MolWay http://www.openstreetmap.org/?lat=44.123713&lon=-70.201666
 SteRd_Lew http://www.openstreetmap.org/?lat=44.134667&lon=-70.195003
-WMainSt http://www.openstreetmap.org/?lat=44.182539&lon=-70.164072
-MainSt_GreW http://www.openstreetmap.org/?lat=44.187755&lon=-70.152624
+MeaHillRd http://www.openstreetmap.org/?lat=44.182936&lon=-70.163635
+MainSt_GreS http://www.openstreetmap.org/?lat=44.187755&lon=-70.152624
 PatRd http://www.openstreetmap.org/?lat=44.191467&lon=-70.142770
 AllPondRd http://www.openstreetmap.org/?lat=44.193709&lon=-70.136434
-MainSt_GreE http://www.openstreetmap.org/?lat=44.195817&lon=-70.130394
+MainSt_GreN http://www.openstreetmap.org/?lat=44.195817&lon=-70.130394
 LeeJctRd_Gre http://www.openstreetmap.org/?lat=44.202420&lon=-70.106034
 LeeJctRd_Lee http://www.openstreetmap.org/?lat=44.219892&lon=-70.091980
 ME106 http://www.openstreetmap.org/?lat=44.227335&lon=-70.081873
@@ -98,7 +98,7 @@ ME23_A http://www.openstreetmap.org/?lat=44.395775&lon=-69.802966
 OldRte27Rd http://www.openstreetmap.org/?lat=44.418628&lon=-69.827814
 DepRd_Bel http://www.openstreetmap.org/?lat=44.446595&lon=-69.832031
 ME27_N http://www.openstreetmap.org/?lat=44.463978&lon=-69.831486
-ME135_End http://www.openstreetmap.org/?lat=44.467630&lon=-69.824944
+ME135 http://www.openstreetmap.org/?lat=44.467630&lon=-69.824944
 ME8_N http://www.openstreetmap.org/?lat=44.500599&lon=-69.798203
 SumSt http://www.openstreetmap.org/?lat=44.542637&lon=-69.728020
 BelRd http://www.openstreetmap.org/?lat=44.540898&lon=-69.723439
@@ -160,7 +160,7 @@ ME11A_Bra http://www.openstreetmap.org/?lat=45.096117&lon=-68.954498
 DesRd http://www.openstreetmap.org/?lat=45.223240&lon=-68.973702
 ME6/16_E http://www.openstreetmap.org/?lat=45.230347&lon=-68.953446
 ME6/16_W http://www.openstreetmap.org/?lat=45.252255&lon=-68.986695
-PleSt_Milo http://www.openstreetmap.org/?lat=45.253154&lon=-68.986266
+PleSt_Mil http://www.openstreetmap.org/?lat=45.253154&lon=-68.986266
 HighSt_Bro http://www.openstreetmap.org/?lat=45.306055&lon=-69.035838
 RaiAve http://www.openstreetmap.org/?lat=45.349978&lon=-69.051293
 ChuSt http://www.openstreetmap.org/?lat=45.358972&lon=-69.037469
@@ -227,5 +227,5 @@ SolPondRd http://www.openstreetmap.org/?lat=47.155014&lon=-68.589465
 MicRd http://www.openstreetmap.org/?lat=47.168437&lon=-68.598359
 AroSchRd http://www.openstreetmap.org/?lat=47.204096&lon=-68.601857
 BraRd http://www.openstreetmap.org/?lat=47.241403&lon=-68.582019
-BriSt_FK http://www.openstreetmap.org/?lat=47.243016&lon=-68.581858
+BriSt_For +BriSt_FK http://www.openstreetmap.org/?lat=47.243016&lon=-68.581858
 US1 http://www.openstreetmap.org/?lat=47.251242&lon=-68.594384
