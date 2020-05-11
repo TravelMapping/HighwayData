@@ -7,6 +7,7 @@ The following branches are not included:
 * Ramal a Benjamín Hill: not signed
 * Ramal a Cananea: not signed
 * Ramal a Carbo: not signed
+* Ramal a Nacozari de García: a loop is signed at both ends but not in the middle
 * Ramal a San Ignacio: poorly signed
 
 Other notes on routes:
