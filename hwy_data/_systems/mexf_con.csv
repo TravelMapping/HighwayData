@@ -97,6 +97,7 @@ mexf;MEX45;;Paso por Rincon de Romos, AGS;mexags.mex045rom
 mexf;MEX45;;Cosio II, AGS - Límite Estado ZAC;mexags.mex045cos
 mexf;MEX45;;Boulevard Guadalupe - La Escondida, ZAC;mexzac.mex045zac
 mexf;MEX45;;Ramal a Aeropuerto Internacional de Zacatecas, ZAC;mexzac.mex045aiz
+mexf;MEX45;;Paso por Sombrerete, ZAC;mexzac.mex045som
 mexf;MEX45;;Paso por Nombre de Dios, DGO;mexdgo.mex045nom
 mexf;MEX45;;Libramiento de Durango, DGO;mexdgo.mex045dur
 mexf;MEX45;;Distribuidor Vial Presa Peña del Aguila, DGO;mexdgo.mex045mor
@@ -105,6 +106,7 @@ mexf;MEX48;;;mexchih.mex048
 mexf;MEX49;;San Luis Potosí, SLP - Entronque Las Arcinas, ZAC;mexslp.mex049,mexzac.mex049sal,mexslp.mex049ant,mexzac.mex049gon,mexslp.mex049gon,mexzac.mex049pan
 mexf;MEX49;;Paso por Mexquitic, SLP;mexslp.mex049mex
 mexf;MEX49;;Entronque La Chicharrona, ZAC - Jiménez, CHIH;mexzac.mex049,mexdgo.mex049,mexchih.mex049
+mexf;MEX49;;Paso por Río Grande, ZAC;mexzac.mex049gra
 mexf;MEX49;;Ramal a Santa Clara, DGO;mexdgo.mex049cla
 mexf;MEX49;;Paso por Cuencamé, DGO;mexdgo.mex049cue
 mexf;MEX51;;Iguala, GRO - Zitácuaro, MICH;mexgro.mex051,mexmich.mex051
@@ -118,6 +120,7 @@ mexf;MEX54;;Colima, COL - Ciudad Guzmán, JAL;mexcol.mex054,mexjal.mex054ate
 mexf;MEX54;;Cuatro Caminos - San Pedro, JAL;mexjal.mex054tec
 mexf;MEX54;;Cuatro Caminos - Cerca Lisa, JAL;mexjal.mex054tux
 mexf;MEX54;;Guadalajara, JAL - Saltillo, COAH;mexjal.mex054,mexzac.mex054,mexslp.mex054cos,mexzac.mex054zan,mexslp.mex054,mexzac.mex054tib,mexcoah.mex054
+mexf;MEX54;;Paso por Jalpa, ZAC;mexzac.mex054jal
 mexf;MEX54;;Ramal a Concepción del Oro, ZAC;mexzac.mex054oro
 mexf;MEX54;;Monterrey, NL - Ciudad Mier, TAM;mexnl.mex054,mextam.mex054
 mexf;MEX54;;Ramal a Aeropuerto Internacional de Monterrey, NL;mexnl.mex054aim
@@ -248,6 +251,8 @@ mexf;MEX121;;Teolocholco - Acuitlapilco, TLAX;mextlax.mex121xil
 mexf;MEX125;;Pinotepa Nacional - Yucudaa, OAX;mexoax.mex125
 mexf;MEX125;;Huajuapan de León, OAX - Tehuacán, PUE;mexoax.mex125hua,mexpue.mex125
 mexf;MEX125;;Fortín de las Flores - Entronque Conejos, VER;mexver.mex125
+mexf;MEX125;;Paso por Huatusco, VER;mexver.mex125hua
+mexf;MEX125;;Ramal a Colonia Manuel González, VER;mexver.mex125man
 mexf;MEX126;;;mexmich.mex126
 mexf;MEX126;;Maravatío - Contepec, MICH;mexmich.mex126mar
 mexf;MEX127;;San Andrés - Poza Rica, VER;mexver.mex127poz
@@ -290,6 +295,7 @@ mexf;MEX140;;;mexpue.mex140,mexver.mex140
 mexf;MEX140;;Ramal a Acatzingo, PUE;mexpue.mex140aca
 mexf;MEX140;;Entronque Zacatepec - Oriental, PUE;mexpue.mex140ori
 mexf;MEX140;;Tamarindo - Cardel, VER;mexver.mex140car
+mexf;MEX140;;Paso por Chichicaxtle, VER;mexver.mex140chi
 mexf;MEX140;;Paso por Cardel (Centro), VER;mexver.mex140cac
 mexf;MEX142;;;mexemex.mex142
 mexf;MEX142;;Paso por Ecatepec, EMEX;mexemex.mex142eca
@@ -323,14 +329,23 @@ mexf;MEX180;;Paso por Tuxpan, VER;mexver.mex180tux
 mexf;MEX180;;Poza Rica, VER - Puerto Juárez, QROO;mexver.mex180,mextab.mex180,mexcam.mex180,mexyuc.mex180,mexqroo.mex180
 mexf;MEX180;;Paso por Papantla, VER;mexver.mex180pap
 mexf;MEX180;;Gutiérrez Zamora - Tecolutla, VER;mexver.mex180tec
+mexf;MEX180;;La Guadalupe - Riachuelos, VER;mexver.mex180ria
 mexf;MEX180;;Paso por Cardel, VER;mexver.mex180car
 mexf;MEX180;;Ramal a Veracruz, VER;mexver.mex180ver
 mexf;MEX180;;Ramal a Hueyapan de Ocampo, VER;mexver.mex180hue
 mexf;MEX180;;Tenabo - Entronque Chencollí, CAM;mexcam.mex180che
 mexf;MEX180;;Ramal a Calkini, CAM - Maxcanú, YUC;mexcam.mex180bec,mexyuc.mex180max
+mexf;MEX180;;Paso por Halachó, YUC;mexyuc.mex180hal
+mexf;MEX180;;Paso por Kopomá, YUC;mexyuc.mex180kop
+mexf;MEX180;;Paso por Chocholá, YUC;mexyuc.mex180cho
 mexf;MEX180;;Paso por Umán, YUC;mexyuc.mex180uma
 mexf;MEX180;;Mérida - Tixkokob - Tekantó, YUC;mexyuc.mex180tek
+mexf;MEX180;;Paso por Tixpéhual - Tixkokob, YUC;mexyuc.mex180tix
+mexf;MEX180;;Paso por Tahmek, YUC;mexyuc.mex180tah
 mexf;MEX180;;Paso por Hoctún - Xocchel, YUC;mexyuc.mex180xoc
+mexf;MEX180;;Paso por Hoctún, YUC;mexyuc.mex180hoc
+mexf;MEX180;;Paso por Kantunil, YUC;mexyuc.mex180kan
+mexf;MEX180;;Paso por Ticuch, YUC;mexyuc.mex180tic
 mexf;MEX182;;;mexoax.mex182teo,mexpue.mex182,mexoax.mex182
 mexf;MEX184;;;mexyuc.mex184,mexqroo.mex184
 mexf;MEX185;;;mexoax.mex185,mexver.mex185
@@ -407,6 +422,9 @@ mexf;MEX225;;Jaritas - Ciudad Hidalgo, CHIS;mexchis.mex225hid
 mexf;MEX259;;;mexcam.mex259
 mexf;MEX261;;Francisco Escárcega - Champotón, CAM;mexcam.mex261pix
 mexf;MEX261;;Campeche, CAM - Progreso, YUC;mexcam.mex261,mexyuc.mex261
+mexf;MEX261;;Ramal a Zona Arqueológica de Uxmal, YUC;mexyuc.mex261uxm
+mexf;MEX261;;Paso por Muna, YUC;mexyuc.mex261mun
+mexf;MEX261;;Paso por Xtepen, YUC;mexyuc.mex261xte
 mexf;MEX261;;Paso por Umán, YUC;mexyuc.mex261uma
 mexf;MEX261;;Progreso - Puerto Yucalpetén, YUC;mexyuc.mex261yuc
 mexf;MEX281;;;mexyuc.mex281
