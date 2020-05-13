@@ -1,7 +1,10 @@
 The following branches are not included:
 * Gregorio García - Francisco I. Madero: very poorly signed; GIS and LRF only show federal maintenance in Durango
+* Ramal a Chupaderos: not signed
 * Ramal a Otinapa: only in DV, not LRF or GIS
-* route through Lerdo and Gomez Palacio: not enough signage to define
+* Ramal a Villa Ocampo: not signed
+* Tlahualilo-Cartagena: not signed
+* 40 through Lerdo and Gomez Palacio: not enough signage to define
 
 Other notes on routes:
 * mex024sab has no GMSV
