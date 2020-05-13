@@ -19,8 +19,15 @@ FRA-43 = `HLo` = Haute-Loire
 FRA-63 = `PdD` = Puy-de-Dôme
 FRA-69 = `Rho` = Rhône
 FRA-73 = `Sav` = Savoie
+   no list available, just OSM,GM,...
 FRA-74 = `HSa` = Haute-Savoie
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-73 - Savoie:*
+- OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV
+
+*FRA-74 - Haute-Savoie:*
+- OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV
+- `D19` in Gaillard is not indicated anywhere on 2019 GSV nor 2009 GSV but it is clearly indicated on OSM and GM, added!
+- `D909E` is indicated on OSM and GM but I couldn't find any sign. Route addded but needs to be checked again before activtion.

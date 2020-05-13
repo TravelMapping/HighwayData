@@ -7,6 +7,7 @@
 
 **DEPARTMENT BORDER LABELS:**
 FRA-08 = `Arn` = Ardennes
+   no list available, just OSM,GM,...
 FRA-10 = `Aube` = Aube
    no list available, just OSM,GM,...
 FRA-51 = `Mar` = Marne
@@ -27,10 +28,17 @@ FRA-88 = `Vos` = Vosges
 
 
 **NOTES TO ROUTES:**
+*FRA-10 - Aube:*
+- Routes through Troyes are often signed inbound at `D610` ring road but not within the city. Only routes drafted through the city when the routing is obviously.
+- `D77` through BFC is signed a mileposts indicating `Aube`
+- `D79E` is only signed on 2010 GSV at `D179`
+- `D82` through BFC is signed a mileposts indicating `Aube`
+
 *FRA-52 - Haute-Marne:*
 - `D2A` is just a one-way street to the north in Wassy while the southbound street is `D2`, not included but threated as `D2` for wp location
 - `D65B` is indicated being `D65A` on OSM but GSV has only a `D65B` sign
 - `D65C` might be considered to be a ramp of the interchange of `D65` and `D65B` only but since it can be driven two-way with a redundant relation to the big interchange... Added
+- `D111` and `D157` are not signed through Saint-Dezier
 
 *FRA-54 - Meurthe-et-Moselle:*
 - `D2H`, `D2M` and `D2N` are indicated on OSM and GSV but not on GM/wikisara. Added though.
