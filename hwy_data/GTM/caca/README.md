@@ -4,3 +4,4 @@ Notes on routes:
 * ca001: there is no GMSV of the Chimaltenango bypass, but there is a video on YouTube: http://www.youtube.com/watch?v=J2HJ2Uf23QI
 * ca001: there is no GMSV of the Barberena bypass, but there is a video on YouTube: http://www.youtube.com/watch?v=3AKlohkfElU
 * ca002: SCH3 is signed at Sam; is this a case of the map being wrong?
+* ca002: ESC26 does not appear to exist as a public road, so it's a shaping point.
