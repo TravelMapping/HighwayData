@@ -3,3 +3,4 @@ Notes on routes:
 * ca001: TOT22 is shown on maps (back to 2014) as paved, but it was a dirt track (impassable to cars?) in 2016. Hence it is a hidden shaping point.
 * ca001: there is no GMSV of the Chimaltenango bypass, but there is a video on YouTube: http://www.youtube.com/watch?v=J2HJ2Uf23QI
 * ca001: there is no GMSV of the Barberena bypass, but there is a video on YouTube: http://www.youtube.com/watch?v=3AKlohkfElU
+* ca002: SCH3 is signed at Sam; is this a case of the map being wrong?
