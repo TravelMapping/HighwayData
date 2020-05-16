@@ -6,4 +6,4 @@ Notes on routes:
 * ca002: SCH3 is signed at Sam; is this a case of the map being wrong?
 * ca002: ESC26 does not appear to exist as a public road, so it's a shaping point.
 * ca002: signage is horrible through Escuintla, but it's not signed around the bypass.
-* ca009: the location of ESC1 may be wrong.
+* ca009sur: the location of ESC1 may be wrong.
