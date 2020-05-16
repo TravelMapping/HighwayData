@@ -8,3 +8,4 @@ Notes on routes:
 * ca002: signage is horrible through Escuintla, but it's not signed around the bypass.
 * ca009sur: the location of ESC1 may be wrong.
 * ca010: the location of RN18_E may be wrong.
+* ca013: the location of PET23 may be wrong.
