@@ -1,7 +1,8 @@
 The following branches are not included:
-* T. C. (Zihuatanejo - La Mira) - Lázaro Cárdenas: there is not enough information in sources or on signs to define this exactly
-* route through Uruapan: unsigned
-* route through Zamora: barely signed
+* Entronque Carretera (Zihuatanejo - La Mira) - Lázaro Cárdenas, Puerto Industrial Lázaro Cárdenas: there is not enough information in sources or on signs to define this exactly
+* 15 through Zamora: barely signed
+* 37 through Paracho: poorly signed; km posts follow the bypass
+* 37 through Uruapan: unsigned
 
 Other notes on routes:
 * mex051 has no GMSV for most of it
