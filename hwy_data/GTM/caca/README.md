@@ -10,3 +10,4 @@ Notes on routes:
 * ca010: the location of RN18_E may be wrong.
 * ca013: the location of PET23 may be wrong.
 * ca014: BV2_W is far to the south of where maps show a road.
+* ca014: the north end may be too far west.
