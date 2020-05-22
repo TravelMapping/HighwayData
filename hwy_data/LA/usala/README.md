@@ -14,6 +14,7 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 1018-3<br>
 1018-4<br>
 1018-5<br>
+1265<br>
 3102
 
 
@@ -23,13 +24,11 @@ LA26 is signed W-E at its west end and S-N at its south end.
 
 LA29Spr is the western segment of LA26 (Chataignier St) within the one-way pair of US167/LA10 in Ville Platte.
 
-LA44 is signed W-E at its east end and S-N at its north end.
+LA44 is signed W-E at its east end and S-N at its north end. It is in the process of being partially deleted from the state system.
 
 LA77 is signed along LA77 Spur, and the adjacent section of LA77 is unsigned.
 
 LA124's route through Harrisonburg is not completely clear since LA8 was routed onto a new bridge.
-
-LA467-1 is documented in LA DOTD's State Route Report (2018) but not shown on maps.
 
 The northern segment of LA486 is (mostly) unsigned, so it has not been included in the file.
 
