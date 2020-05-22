@@ -19,8 +19,6 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 
 **Notes (individual highways)**
 
-LA8 is signed well along I-49, and signed partially along LA1, between I-49(103) and LA1200. The segment linking I-49 exit 103 to LA1 is considered LA8Spr by LA DOTD but is not signed as such, so it is not included in the set. Some LA8 signs remain on LA1, at least one with a TO banner, so these are being treated as remnants of a past routing.
-
 LA26 is signed W-E at its west end and S-N at its south end.
 
 LA29Spr is the western segment of LA26 (Chataignier St) within the one-way pair of US167/LA10 in Ville Platte.
@@ -48,8 +46,6 @@ Both LA758 and LA758 Spur are signed LA758, so the short segment connecting the 
 The northern end of LA807 is unclear. It no longer reaches the state line.
 
 Given the lack of GMSV for the area, LA897-1 thru 897-6 are drafted according to best guesses from http://wwwsp.dotd.la.gov/Inside_LaDOTD/Divisions/Multimodal/Data_Collection/Mapping/District%20Maps/District_58.pdf. LA DOTD has been contacted for further information.
-
-LA987-3 and LA987-3 Spur are both signed on the same road, and what appears to be the spur is signed LA987-3, so the shorter road was drafted as LA987-3 Spur.
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 were drafted separately.
 
