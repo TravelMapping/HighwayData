@@ -1,15 +1,2 @@
-﻿**NAME:**
-Chile Rutas Nacionales
-
-**FORUM THREAD:**
-- 
-
-
-**SOURCES:**
-- https://es.wikipedia.org/wiki/Rutas_nacionales_de_Chile
-- https://es.wikipedia.org/wiki/Categor%C3%ADa:Rutas_nacionales_de_Chile
-- https://es.wikipedia.org/wiki/Categor%C3%ADa:Autopistas_interurbanas_de_Chile
-
-
-**NOTES TO ROUTES:**
-- Are routes signed?
+Notes on routes:
+* 77 does not appear to be signed, but it of course belongs in chlsf as Autopista Nororiente. But the number was only assigned in 2012, so it's possible it's been signed since 2015 (the latest GMSV available).
