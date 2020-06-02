@@ -28,6 +28,7 @@ FRA-74 = `HSa` = Haute-Savoie
 **NOTES TO ROUTES:**
 *FRA-63 - Puy-de-Dôme:*
 - Some route segments will be dedicated as M routes (not yet considered when drafting routes!)
+- wikisara articles are rare but OSM + GM look good
 
 *FRA-73 - Savoie:*
 - OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV
