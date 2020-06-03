@@ -52,7 +52,8 @@ GA165_S http://www.openstreetmap.org/?lat=32.106443&lon=-83.074118
 US23/341Bus +US23/341Bus_N http://www.openstreetmap.org/?lat=32.174364&lon=-83.161628
 GA87/117 http://www.openstreetmap.org/?lat=32.177597&lon=-83.181154
 +X008(US341) http://www.openstreetmap.org/?lat=32.183676&lon=-83.196652
-US341Bus_N http://www.openstreetmap.org/?lat=32.195285&lon=-83.209285
+US341BusEas_N http://www.openstreetmap.org/?lat=32.195285&lon=-83.209285
+GA87Con http://www.openstreetmap.org/?lat=32.199275&lon=-83.234316
 MidChuRd http://www.openstreetmap.org/?lat=32.204472&lon=-83.329598
 14LaneRd http://www.openstreetmap.org/?lat=32.232306&lon=-83.367235
 +X009(US341) http://www.openstreetmap.org/?lat=32.281042&lon=-83.433263
@@ -62,7 +63,7 @@ US129/129Bus +US129/129Bus_S http://www.openstreetmap.org/?lat=32.282070&lon=-83
 GA27/257 +GA27/257_W http://www.openstreetmap.org/?lat=32.281610&lon=-83.473280
 GA230_W http://www.openstreetmap.org/?lat=32.281260&lon=-83.478922
 GA26 http://www.openstreetmap.org/?lat=32.285173&lon=-83.480054
-US129/341Bus +US129/341BusHaw_N http://www.openstreetmap.org/?lat=32.292905&lon=-83.482425
+US129/341Bus http://www.openstreetmap.org/?lat=32.292905&lon=-83.482425
 US129_N http://www.openstreetmap.org/?lat=32.303765&lon=-83.499098
 SloRd http://www.openstreetmap.org/?lat=32.326941&lon=-83.560596
 BuckCreRd http://www.openstreetmap.org/?lat=32.347251&lon=-83.574972
@@ -71,17 +72,16 @@ GA224 http://www.openstreetmap.org/?lat=32.392030&lon=-83.626084
 BouRd http://www.openstreetmap.org/?lat=32.416265&lon=-83.640482
 GA247Spr http://www.openstreetmap.org/?lat=32.430488&lon=-83.646314
 SadCreRd http://www.openstreetmap.org/?lat=32.451096&lon=-83.669650
-US341Byp_S http://www.openstreetmap.org/?lat=32.454550&lon=-83.693123
-+X013(US341) http://www.openstreetmap.org/?lat=32.455034&lon=-83.712570
-HouLakeRd http://www.openstreetmap.org/?lat=32.459606&lon=-83.726732
-WasSt http://www.openstreetmap.org/?lat=32.457985&lon=-83.731796
-MainSt_W http://www.openstreetmap.org/?lat=32.457492&lon=-83.733276
-US41_Per http://www.openstreetmap.org/?lat=32.458960&lon=-83.733930
-WasSt_N http://www.openstreetmap.org/?lat=32.465680&lon=-83.737750
-I-75 +I-75(136) http://www.openstreetmap.org/?lat=32.471609&lon=-83.743865
-+X014(US341) http://www.openstreetmap.org/?lat=32.479963&lon=-83.756000
-US341Byp_N http://www.openstreetmap.org/?lat=32.483203&lon=-83.769875
-+X015(US341) http://www.openstreetmap.org/?lat=32.484325&lon=-83.804000
+MainSt http://www.openstreetmap.org/?lat=32.454550&lon=-83.693123
+KinChaRd http://www.openstreetmap.org/?lat=32.465863&lon=-83.696828
+GA127 http://www.openstreetmap.org/?lat=32.475225&lon=-83.705483
++X000(US341BY) http://www.openstreetmap.org/?lat=32.486393&lon=-83.717794
+US41_Per http://www.openstreetmap.org/?lat=32.486820&lon=-83.730000
+I-75 http://www.openstreetmap.org/?lat=32.493248&lon=-83.742664
++X001(US341BY) http://www.openstreetmap.org/?lat=32.490045&lon=-83.749316
+AirRd http://www.openstreetmap.org/?lat=32.490022&lon=-83.758820
+GA7_S http://www.openstreetmap.org/?lat=32.483203&lon=-83.769875
+CloLakeRd http://www.openstreetmap.org/?lat=32.484289&lon=-83.802853
 NorSprRd http://www.openstreetmap.org/?lat=32.497058&lon=-83.835833
 UniBlvd http://www.openstreetmap.org/?lat=32.528497&lon=-83.869023
 RaiSt http://www.openstreetmap.org/?lat=32.552380&lon=-83.884826
@@ -104,4 +104,4 @@ GA83 http://www.openstreetmap.org/?lat=32.908127&lon=-84.075960
 StrRd http://www.openstreetmap.org/?lat=32.928454&lon=-84.077860
 SugHilRd http://www.openstreetmap.org/?lat=32.957307&lon=-84.109504
 BreRd http://www.openstreetmap.org/?lat=33.010571&lon=-84.125726
-US41 http://www.openstreetmap.org/?lat=33.030423&lon=-84.145226
+US41_Bar +US41 http://www.openstreetmap.org/?lat=33.030423&lon=-84.145226
