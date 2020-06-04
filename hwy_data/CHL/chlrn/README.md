@@ -1,4 +1,5 @@
 Notes on routes:
+* R-5: it's not known whether this turns east on V-970 to the ferry, but it is definitely [signed on the bypass at V-895](https://youtu.be/e1PGaGp692k?t=434).
 * R-71 is erroneously [signed as G-71](https://www.google.com/maps/@-33.1492543,-70.794179,3a,41.3y,260.07h,80.47t/data=!3m6!1e1!3m4!1s_QnHVbP3oqBs_vAyLWmiYg!2e0!7i13312!8i6656) despite existing as a national route since 1998 (and previously being part of R-57). But at least [one text sign](https://www.google.com/maps/@-33.1604532,-70.7936792,3a,20.9y,10.63h,89.06t/data=!3m6!1e1!3m4!1sEatV3vB3ahGe0OJ198jxkA!2e0!7i13312!8i6656) does call it R-71.
 * R-72 does not appear to be signed, but it's a freeway so it belongs in chlsf.
 * R-73 does not appear to be signed on the route, but is [on R-57](https://www.google.com/maps/@-33.2496832,-70.6976737,3a,15y,323.79h,100.06t/data=!3m6!1e1!3m4!1seCLsAzom1KM044dkgCiUJQ!2e0!7i13312!8i6656).
