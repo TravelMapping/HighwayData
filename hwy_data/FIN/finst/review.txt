@@ -1,17 +1,7 @@
-move
-POL S3 @ DW142 http://www.openstreetmap.org/?lat=53.426182&lon=14.770442
-POL S6Kol @ DW142 http://www.openstreetmap.org/?lat=53.426182&lon=14.770442
-POL E65 @ DW142 http://www.openstreetmap.org/?lat=53.426182&lon=14.770442
-POL E28 @ DW142 http://www.openstreetmap.org/?lat=53.426182&lon=14.770442
-POL DW142 A6/S3 +S3/S6 http://www.openstreetmap.org/?lat=53.426182&lon=14.770442
 
-add before
-POL S3, E65 UliPia http://www.openstreetmap.org/?lat=53.453404&lon=14.787018
-add after
-E28, S6Kol UliPia http://www.openstreetmap.org/?lat=53.453404&lon=14.787018
 
-extend A6 to DW142 and truncate S6(Kołobrzeg) to S3
 ----
+
 FINLAND
 
 check eurtr, eursf and eure for concurrencies
@@ -25,7 +15,7 @@ Kt41: St212 http://www.openstreetmap.org/?lat=61.038810&lon=22.385373
 Kt43: St196 http://www.openstreetmap.org/?lat=60.805191&lon=21.426974
 Kt43: St209 http://www.openstreetmap.org/?lat=61.217196&lon=22.050194
 
-Kt44: Remove St259
+Kt44: Remove St259 and replace with nearby point
 Kt44: St274 http://www.openstreetmap.org/?lat=62.212937&lon=22.298024
 Kt44: St664 http://www.openstreetmap.org/?lat=62.015904&lon=22.225299
 Kt44: St663 http://www.openstreetmap.org/?lat=62.418243&lon=22.199936
