@@ -1,3 +1,6 @@
+The following routes are not included due to apparent lack of signage:
+* R-44 (as of 2013)
+
 Notes on routes:
 * R-1Ant may be unsigned, but it's part of a longer route that is signed.
 * R-5: it's not known whether this turns east on V-970 to the ferry, but it is definitely [signed on the bypass at V-895](https://youtu.be/e1PGaGp692k?t=434).
