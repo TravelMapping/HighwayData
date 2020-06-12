@@ -1,5 +1,8 @@
 The following routes are not included due to apparent lack of signage:
+* R-5 through Rancagua and Temuco (traffic is directed onto the bypass, which in both cases is inventoried as not having a designation)
 * R-44 (as of 2013)
+* R-118
+* R-120
 
 Notes on routes:
 * R-1Ant may be unsigned, but it's part of a longer route that is signed.
