@@ -19,3 +19,6 @@ Notes on routes:
 * R-77 does not appear to be signed, but it of course belongs in chlsf as Autopista Nororiente. But the number was only assigned in 2012, so it's possible it's been signed since 2015 (the latest GMSV available).
 * R-79: ditto; signs are for Acceso Sur
 * R-126 is not inventoried between R-128_E and Los Alamos in southern Cauquenes, but [signs are posted](https://www.google.com/maps/@-35.9816155,-72.3160906,3a,17y,18.88h,93.19t/data=!3m6!1e1!3m4!1sDsMbbwoSXiyH9cFlOFQaKg!2e0!7i13312!8i6656) to fill the gap.
+* R-150 is [still signed in 2020](https://www.mapillary.com/app/?lat=-36.75678003577075&lng=-73.00270175316206&z=17&focus=photo&pKey=F8BD8QEOv5JYejcbdwbEgA) as using the old route through Penco. The bypass can go in chlsf.
+* R-151 (Ruta Interportuaria Talcahuano - Penco) is not officially designated, but with a Código of 68A10151 it should be. Anyway, it belongs in chlsf, as does a branch that GIS data calls URBRU164 (the main route is URBRU151).
+* R-152 appears on [at least one sign](https://www.google.com/maps/@-36.6510046,-72.2250395,3a,18.3y,272h,95.23t/data=!3m6!1e1!3m4!1snzkMXTMiXUdXy4vKOrOOPg!2e0!7i13312!8i6656).
