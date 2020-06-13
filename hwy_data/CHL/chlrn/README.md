@@ -22,3 +22,4 @@ Notes on routes:
 * R-150 is [still signed in 2020](https://www.mapillary.com/app/?lat=-36.75678003577075&lng=-73.00270175316206&z=17&focus=photo&pKey=F8BD8QEOv5JYejcbdwbEgA) as using the old route through Penco. The bypass can go in chlsf.
 * R-151 (Ruta Interportuaria Talcahuano - Penco) is not officially designated, but with a Código of 68A10151 it should be. Anyway, it belongs in chlsf, as does a branch that GIS data calls URBRU164 (the main route is URBRU151).
 * R-152 appears on [at least one sign](https://www.google.com/maps/@-36.6510046,-72.2250395,3a,18.3y,272h,95.23t/data=!3m6!1e1!3m4!1snzkMXTMiXUdXy4vKOrOOPg!2e0!7i13312!8i6656).
+* R-154 [is signed](https://www.google.com/maps/@-36.7930483,-73.0645748,3a,17.5y,173.81h,89.65t/data=!3m6!1e1!3m4!1sonOQT5wu7SjbxprS0MyGMw!2e0!7i13312!8i6656).
