@@ -5,6 +5,7 @@ The following routes are not included due to apparent lack of signage:
 * R-120
 * R-125
 * R-178
+* R-194
 
 Notes on routes:
 * R-1Ant may be unsigned, but it's part of a longer route that is signed.
