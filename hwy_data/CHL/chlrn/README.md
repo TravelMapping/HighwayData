@@ -31,3 +31,5 @@ Notes on routes:
 * R-208 and R-210 were not signed as of 2013, but there's a good chance they've been signed since (like R-204, signed since 2013).
 * R-225CH is inventoried as beginning at V-505, but it is signed from R-5.
 * R-226 [is signed](https://youtu.be/NEMuh8Rmsws?t=1631).
+* R-231CH [is signed](https://youtu.be/J87hPiOt0rk?t=137).
+* R-235CH [is signed](https://youtu.be/gwr4r8GA6CY?t=607).
