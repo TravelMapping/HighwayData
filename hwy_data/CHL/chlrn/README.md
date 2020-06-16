@@ -33,3 +33,5 @@ Notes on routes:
 * R-226 [is signed](https://youtu.be/NEMuh8Rmsws?t=1631).
 * R-231CH [is signed](https://youtu.be/J87hPiOt0rk?t=137).
 * R-235CH [is signed](https://youtu.be/gwr4r8GA6CY?t=607).
+* R-243CH [is signed](https://www.google.com/maps/@-45.5509912,-71.9303658,3a,38.4y,114.23h,71.79t/data=!3m6!1e1!3m4!1s7HdRebnWPkbl4d3xl6HFJQ!2e0!7i13312!8i6656) as its former designation, R-240CH, at least in 2014.
+* R-265CH [is signed](https://youtu.be/jPsfZeugz7E?t=1025) (on the guide sign to the right, coming from the side road).
