@@ -29,3 +29,5 @@ Notes on routes:
 * R-177 is signed as [Ex-R-5](https://www.google.com/maps/@-37.4260984,-72.3349542,3a,15y,353.2h,82.08t/data=!3m6!1e1!3m4!1sKvY3-3ANA9G9dssJnV-0fg!2e0!7i13312!8i6656).
 * R-204 [is signed](https://youtu.be/TDdtbidFj3o?t=331).
 * R-208 and R-210 were not signed as of 2013, but there's a good chance they've been signed since (like R-204, signed since 2013).
+* R-225CH is inventoried as beginning at V-505, but it is signed from R-5.
+* R-226 [is signed](https://youtu.be/NEMuh8Rmsws?t=1631).
