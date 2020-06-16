@@ -289,6 +289,7 @@
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2020-06-06;Czechia;I21;cze.i021;Route relocated from through Drmoul and Trstěnice, and onto bypass from III20173 north of Drmoul to east of Trstěnice
 2020-01-12;Czechia;I16;cze.i016;Route relocated from through Slaný and onto bypass from I7 to III10142
 2019-12-21;Czechia;I11;cze.i011;Route relocated from through Ostrava and onto bypass from II465 exit to II647 exit
 2019-12-21;Czechia;II465;cze.ii465;Route extended at east end from junction at Josefovice to I11 exit Krásné Pole
@@ -468,6 +469,7 @@
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
 2019-12-29;(France) Grand-Est;Voie Sacrée;frages.nvs;Route extended at south end from N135 to D935
 2019-11-08;(France) Grand-Est;N19;frages.n019;Re-entered route (swapped with BFC file to be in correct regions)
+2020-06-07;(France) Île-de-France;N1;fraidf.d030195;Route removed (D301-95 now)
 2019-11-15;(France) Île-de-France;N1;fraidf.n001;Route truncated at north end from A16/N184 to D78 (replaced by new A16 route)
 2019-11-15;(France) Île-de-France;A16;fraidf.a016;Route extended at south end from N184 to N104
 2019-11-10;(France) Île-de-France;Antenne de Montreuil;;Route deleted (demolished)
@@ -598,6 +600,9 @@
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2020-06-07;(Germany) Baden-Württemberg;B30 (Main);deubw.b030;Route relocated from through Ravensburg (Schussentalbrücke, Jahnstraße, Friedrichshafener Straße) and onto bypass from Ravensburg-Süd to Untereschach
+2020-06-07;(Germany) Baden-Württemberg;B30 (Ravensburg);deubw.b030;Route deleted (merged into main route)
+2020-06-07;(Germany) Baden-Württemberg;B33 (Markdorf);deubw.b033mar;Route truncated at east end from Jahnstraße to B30
 2020-03-29;(Germany) Baden-Württemberg;B3;deubw.b003;Route removed from Stefan-Meier-Straße and onto Habsburger Straße and Friedringring in Freiburg
 2020-03-29;(Germany) Baden-Württemberg;L279;deubw.l0279;Route extended at north end from K8261 to L282 in Herbertingen
 2020-03-29;(Germany) Baden-Württemberg;L282;deubw.l0282;Route extended at west end from Hauptstraße to B32/B311 in Herbertingen
@@ -623,6 +628,8 @@
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2020-06-07;(Germany) Bavaria;St2286;deuby.st2286;Route extended at east end for Unsleben (St2445) to Eichenhausen (B279), former B279
+2020-06-07;(Germany) Bavaria;B279 (Hollstadt);deuby.st2286;Route deleted (St2286 now)
 2020-05-21;(Germany) Bavaria;B20;deuby.b020;Route reloacted from Marktler Straße, Berchtesgadener Straße and Tittmoninger Straße and onto Burgkirchener Straße and former St2107 from north of Burghausen to Hochöster (St2357 south of Burghausen now).
 2020-05-21;(Germany) Bavaria;St2107;deuby.st2107;Route truncated at south end from Hochöster (old B20 through Burghausen) to north of Pirach (realigned B20), segment is dedicated as B20 now.
 2020-05-21;(Germany) Bavaria;St2108 (Burghausen);deuby.st2108bur;Route truncated at east end from the Austrian border to the interchange with B20 north of Burghausen
@@ -654,6 +661,8 @@
 2016-08-08;(Germany) Bavaria;Frankenschnellweg Nürnberg;deuby.n004;New Route
 2016-08-08;(Germany) Bavaria;Südwesttangente Fürth - Nürnberg;deuby.sudtanfur;New Route
 2015-09-15;(Germany) Bavaria;A45;deuby.a045;Relabeled exits 45b as 47, 45a as 46, 44b as 45 and 44a as 44
+2020-06-07;(Germany) Berlin;B109 (Schönerlinder Straße);;Route deleted
+2020-06-07;(Germany) Berlin;B109 (Prenzlauer Promenade);;Route deleted
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
@@ -683,6 +692,7 @@
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2020-06-07;(Germany) Lower Saxony;B248 (Ildehausen);deuni.b248ild;New Route
 2020-03-03;(Germany) Lower Saxony;B213 (Main);deuni.b213;Route relocated from through Nordhorn and onto bypass
 2020-03-03;(Germany) Lower Saxony;B213 (Nordhorn);;Merged into main route
 2020-03-03;(Germany) Lower Saxony;B403 (Main);deuni.b403;Route relocated from through Nordhorn and onto bypass
@@ -844,6 +854,7 @@
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2020-06-06;(Germany) Thuringia;B7 (Gotha);deuth.b007got;Route relocated from through Tüttleben and onto new bypass from west of Tüttleben to east of Tüttleben
 2020-05-15;(Germany) Thuringia;B62 (Bad Salzungen);deuth.b062;Route relocated from through Leimbach and onto new bypass from Vacher Straße to L2895
 2020-05-15;(Germany) Thuringia;L2895;deuth.l2895;Route extended at south end from Salzunger Straße (old B62) to junction with B62 bypass
 2019-12-21;(Germany) Thuringia;B243;deuth.b243;Route relocated from through Mackenrode and onto new bypass from border with Thuringia to interchange east of Mackenrode
@@ -1562,6 +1573,8 @@
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2020-06-10;Poland;A6;pol.a006;Route extended at east end from exit 24 to DW142
+2020-06-10;Poland;S6 (Kołobrzeg);pol.s006kol;Route truncated at west end from A6 to DW142
 2020-05-16;Poland;S61 (Szcuczyn);pol.s061szc;New Route
 2020-05-16;Poland;DK61 (Ostroleka);pol.dk061;Route truncated at north end from DK8/16 to Ulica Lomzynska
 2020-05-16;Poland;DK61 (Grajewo);pol.dk061gra;New Route
@@ -2125,7 +2138,7 @@
 2019-10-16;(Spain) Balearic Islands;Ma13;espib.ma013;Route extended at north end from exit 40 to Ma2220
 2019-10-16;(Spain) Balearic Islands;Ma15;espib.ma015;Route extended at east end from exit 20 to Ma1020
 2019-10-16;(Spain) Balearic Islands;Ma19;espib.ma019;Route extended at west end from Avinguda de Gabriel Alomar i Villalonga to Avinguda d'Antoni Maura, and extended at east end from Ma19a to Passeig del Port
-2020-06-03;(Spain) Basque Country;A8 (Muskiz);esppv.a008;Route truncated at east end from exit 113 to exit 130
+2020-06-03;(Spain) Basque Country;A8 (Muskiz);esppv.a008;Route truncated at east end from exit 113 to exit 130 (that section now BI-10 and part of A8 Galdakoa section)
 2020-06-03;(Spain) Basque Country;A8 (Galdakao);esppv.a008gal;Route added
 2020-06-03;(Spain) Basque Country;BI10;esppv.bi010;Route added
 2020-06-03;(Spain) Basque Country;BI11;esppv.bi011;Route added
@@ -3450,6 +3463,8 @@
 2017-09-03;(USA) Montana;I-94 BL (Hysham);;Route deleted
 2015-11-02;(USA) Montana;I-94 BL (Wibaux);;Route deleted
 2015-08-03;(USA) Montana;US 93 Alternate (Kalispell);mt.us093altkal;New Route
+2020-06-08;(USA) Nebraska;US 30;ne.us030;Waypoint L56C moved from Lincoln Ave to the western Hershey bypass.
+2020-06-08;(USA) Nebraska;L56C;ne.l56c;Removed from Lincoln Ave and relocated onto a western bypass of Hershey between Lincoln Ave and US 30.
 2017-05-01;(USA) Nebraska;NE 10;ne.ne010;Removed from Keystone Road, US 30 and 2nd Avenue, and relocated onto I-80 and the Kearney East Bypass between I-80 Exit 279 and NE 40.
 2017-05-01;(USA) Nebraska;NE 44;ne.ne044;North end truncated from US 30 to I-80.
 2017-05-01;(USA) Nebraska;L10F;ne.l10f;Route added.
@@ -4028,6 +4043,7 @@
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2020-06-04;(USA) Utah;UT 149;ut.ut149;Route truncated at north end from Cub Creek Road to boundary of Dinosaur National Monument
 2020-01-30;(USA) Utah;UT 157;ut.ut157;Route extended to US6/191 along business loop in Helper
 2020-01-06;(USA) Utah;UT 145;ut.ut145;Route extended to UT 85 over former UT 73
 2020-01-06;(USA) Utah;UT 73 (Fairfield);ut.ut073;Route truncated at east end to UT 85
@@ -4036,7 +4052,7 @@
 2019-10-13;(USA) Utah;UT 73 (Lehi);ut.ut073leh;Route extended at west end from I-15 to 850W
 2019-06-18;(USA) Utah;UT 314;ut.ut314;New Route
 2019-05-15;(USA) Utah;UT 82;ut.ut082;Rerouted from 12800N onto 5400W at north end.
-2019-05-15;(USA) Utah;UT 83;ut.ut083;Route Truncated at south end from old UT 13 in Corinne to current UT 13 at 4800W.
+2019-05-15;(USA) Utah;UT 83;ut.ut083;Route truncated at south end from old UT 13 in Corinne to current UT 13 at 4800W.
 2019-05-15;(USA) Utah;UT 13;ut.ut013;Rerouted from Promontory Road onto 4800W north of Corinne.
 2019-03-30;(USA) Utah;UT 194;ut.ut194;New route number for former discontiguous section of UT 85 in Lehi
 2019-02-07;(USA) Utah;UT 137;ut.ut137may;Added signed fork of UT 137 into Mayfield.
