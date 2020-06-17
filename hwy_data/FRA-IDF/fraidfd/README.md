@@ -46,7 +46,6 @@ FRA-95 = `VdO` = Val-d'Oise
 
 *FRA-92 - Hauts-de-Seine:*
 - wikisara overview is very incomplete, route articles exist for more routes, added everything that is confirmed by OSM and GM or GSV
-- `D4` routing not clear
 - `D13` is not indicated on OSM but on GM and GSV
 - `D913` extension not drafted (in HB as `N1013`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
 - `D992` extension not drafted (in HB as `N192`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
