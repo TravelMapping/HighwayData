@@ -1,5 +1,5 @@
 ﻿**FORUM THREAD:**
-- http://forum.travelmapping.net/index.php?topic=367
+- https://forum.travelmapping.net/index.php?topic=3590
 
 
 **SOURCES:**
