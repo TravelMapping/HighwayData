@@ -14,6 +14,7 @@ FRA-07 = `Arc` = Ardèche
 FRA-15 = `Can` = Cantal
 FRA-26 = `Dro` = Drôme
 FRA-38 = `Ise` = Isère
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(38) (edit url for other routes)
 FRA-42 = `Loi` = Loire
 FRA-43 = `HLo` = Haute-Loire
 FRA-63 = `PdD` = Puy-de-Dôme
