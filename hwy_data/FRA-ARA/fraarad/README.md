@@ -14,6 +14,7 @@ FRA-07 = `Arc` = Ardèche
 FRA-15 = `Can` = Cantal
 FRA-26 = `Dro` = Drôme
 FRA-38 = `Ise` = Isère
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(38) (edit url for other routes)
 FRA-42 = `Loi` = Loire
 FRA-43 = `HLo` = Haute-Loire
 FRA-63 = `PdD` = Puy-de-Dôme
@@ -29,6 +30,8 @@ FRA-74 = `HSa` = Haute-Savoie
 *FRA-63 - Puy-de-Dôme:*
 - Some route segments will be dedicated as M routes (not yet considered when drafting routes!)
 - wikisara articles are rare but OSM + GM look good
+- `D80` is signed on km posts till 1km north of `D983` but as `D80A` at `D983` junction, drafted as `D80` only
+- `D224D` is indicated being `D224E` on OSM and GM; `D224D` is confirmed by 2012 GSV
 
 *FRA-73 - Savoie:*
 - OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV
