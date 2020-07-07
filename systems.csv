@@ -36,6 +36,7 @@ cannsc;CAN;Nova Scotia Collector Highways;yellow;5;active
 cannt;CAN;Northwest Territorial Highways;brown;4;active
 canon;CAN;Ontario King's Highways;brown;4;active
 canpe;CAN;Prince Edward Island Provincial Highways;brown;4;active
+canqc;CAN;Québec Provincial Routes;brown;4;active
 cansk;CAN;Saskatchewan Provincial Highways 1-399;brown;4;active
 canyt;CAN;Yukon Territorial Highways;brown;4;active
 chea;CHE;Switzerland Autobahnen / Autoroutes;blue;1;active
@@ -92,6 +93,7 @@ finvt;FIN;Finland Valtatiet;lightsalmon;4;active
 alavt;FIN;Åland Valtatiet;lightsalmon;4;active
 finkt;FIN;Finland Kantatiet;yellow;4;active
 alakt;FIN;Åland Kantatiet;yellow;5;active
+finst;FIN;Finland Seututiet;brown;5;active
 fraa;FRA;France Autoroutes;blue;1;active
 mtqa;FRA;Martinique Autoroutes;blue;1;active
 ncle;FRA;New Caledonia Voie Express;teal;2;active
@@ -110,6 +112,9 @@ fraidfd77;FRA;Seine-et-Marne Routes Départementales;yellow;5;active
 fraidfd78;FRA;Yvelines Routes Départementales;yellow;5;active
 fraidfd91;FRA;Essonne Routes Départementales;yellow;5;active
 fraidfd92;FRA;Hauts-de-Seine Routes Départementales;yellow;5;active
+fraidfd93;FRA;Seine-Saint-Denis Routes Départementales;yellow;5;active
+fraidfd94;FRA;Val-de-Marne Routes Départementales;yellow;5;active
+fraidfd95;FRA;Val-d'Oise Routes Départementales;yellow;5;active
 gbnm;GBR;Great Britain Motorways;blue;1;active
 nirm;GBR;Northern Ireland Motorways;blue;1;active
 gbnam;GBR;Great Britain A Road (Motorways);blue;1;active
@@ -128,7 +133,7 @@ hrva;HRV;Croatia Autocesta;blue;1;active
 hrvd;HRV;Croatia Državne Ceste;lightsalmon;4;active
 hunm;HUN;Hungary Autópálya;blue;1;active
 hunf;HUN;Hungary Főútjai;lightsalmon;4;active
-idnjt;IDN;Indonesia Jalan Tol (named);blue;1;active
+idnt;IDN;Indonesia Jalan Tol;blue;1;active
 imna;IMN;Isle of Man A Roads;lightsalmon;4;active
 imnb;IMN;Isle of Man B Roads;yellow;5;active
 irlm;IRL;Ireland Motorways;blue;1;active
@@ -154,14 +159,13 @@ luxa;LUX;Luxembourg Autobunnen;blue;1;active
 luxb;LUX;Luxembourg Schnellstroossen;teal;2;active
 luxn;LUX;Luxembourg Nationalstroossen;lightsalmon;4;active
 lvaa;LVA;Latvia Galvenie Autoceļi;lightsalmon;4;active
+lvap;LVA;Latvia Reģionālie Autoceļi;yellow;5;active
 mara;MAR;Morocco Autoroutes;blue;1;active
 marn;MAR;Morocco Routes Nationales;green;4;active
 mdam;MDA;Moldova Drum Expres;teal;2;active
 mdar;MDA;Moldova Drumuri Republicane;lightsalmon;4;active
 mexd;MEX;Mexico Federal Expressways;blue;1;active
 mexed;MEX;Mexico State Expressways;teal;3;active
-mexemex;MEX;Estado de México Carreteras Estatales;brown;4;preview
-mexqro;MEX;Querétaro Carreteras Estatales;brown;4;preview
 mltt;MLT;Malta Arterial Roads;lightsalmon;4;active
 mkda;MKD;Macedonia Magistrale;lightsalmon;4;active
 mnem;MNE;Montenegro Magistralni Put;lightsalmon;4;active
@@ -290,25 +294,28 @@ ausab;AUS;Australia A Roads (Alt);red;4;preview
 ausnb;AUS;Australia N Roads (Alt);red;4;preview
 ausqldtr;AUS;Queensland State Strategic Touring Routes;brown;5;preview
 bdirn;BDI;Burundi Routes Nationales;green;4;preview
-biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);yellow;1;preview
-bihm2;BIH;Bosnia and Herzegovina Magistrale (Srpska renumbering);yellow;4;preview
-eure2;BIH;Bosnia and Herzegovina E Roads (Srpska renumbering);yellow;3;preview
+biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);blue;1;preview
+bihm2;BIH;Bosnia and Herzegovina Magistrale (Srpska renumbering);lightsalmon;4;preview
+eure2;BIH;Bosnia and Herzegovina E Roads (Srpska renumbering);green;3;preview
 blzar;BLZ;Belize National Routes;lightsalmon;4;preview
 blzd;BLZ;Belize District Routes;brown;5;preview
 bwaa;BWA;Botswana A Roads;green;4;preview
 canabs;CAN;Alberta Provincial Highways 500-986;yellow;5;preview
 canmbp;CAN;Manitoba Provincial Roads;yellow;5;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;brown;4;preview
-canqc;CAN;Québec Provincial Routes;brown;4;preview
 chegts;CHE;Switzerland Grand Tour of Switzerland;brown;5;preview
+chlrn;CHL;Chile Rutas Nacionales;red;2;preview
+chlsf;CHL;Chile Select Freeways;teal;3;preview
 chng;CHN;China National Expressways;blue;1;preview
 cogn;COG;Congo Routes Nationales;green;4;preview
 comrn;COM;Comoros Routes Nationales;green;4;preview
+cypd;CYP;Cyprus Devlet Yolları;lightsalmon;4;preview
 deuhel;DEU;Hesse Landesstraßen;yellow;5;preview
 dnkmr;DNK;Denmark Margueritruten;brown;5;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;brown;5;preview
-finst;FIN;Finland Seututiet;brown;5;preview
+fraarad63;FRA;Puy-de-Dôme Routes Départementales;yellow;5;preview
 fraarad73;FRA;Savoie Routes Départementales;yellow;5;preview
+fraarad74;FRA;Haute-Savoie Routes Départementales;yellow;5;preview
 fragesd08;FRA;Ardennes Routes Départementales;yellow;5;preview
 fragesd10;FRA;Aube Routes Départementales;yellow;5;preview
 fragesd52;FRA;Haute-Marne Routes Départementales;yellow;5;preview
@@ -317,9 +324,6 @@ fragesd55;FRA;Meuse Routes Départementales;yellow;5;preview
 fragesd57;FRA;Moselle Routes Départementales;yellow;5;preview
 fragesd88;FRA;Vosges Routes Départementales;yellow;5;preview
 frahdfd80;FRA;Somme Routes Départementales;yellow;5;preview
-fraidfd93;FRA;Seine-Saint-Denis Routes Départementales;yellow;5;preview
-fraidfd94;FRA;Val-de-Marne Routes Départementales;yellow;5;preview
-fraidfd95;FRA;Val-d'Oise Routes Départementales;yellow;5;preview
 franord76;FRA;Seine-Maritime Routes Départementales;yellow;5;preview
 glpd;FRA;Guadaloupe Routes Départementales;yellow;5;preview
 gufd;FRA;French Guiana Routes Départementales;yellow;5;preview
@@ -327,18 +331,19 @@ mtqd;FRA;Martinique Routes Départementales;yellow;5;preview
 mytd;FRA;Mayotte Routes Départementales;yellow;5;preview
 reud;FRA;Reunion Routes Départementales;yellow;5;preview
 gabn;GAB;Gabon Routes Nationales;green;4;preview
-idnt;IDN;Indonesia Jalan Tol (numbered);blue;1;preview
 index;IND;India National Expressways;blue;1;preview
 irlwaw;IRL;Ireland Wild Atlantic Way;brown;5;preview
 itass;ITA;Italy Strade Statale;lightsalmon;4;preview
-jpne;JPN;Japan Expressways;blue;1;preview
+jpne;JPN;Japan Kōsoku Jidōsha Kokudō;blue;1;preview
+jpntk;JPN;Japan Toshi Kōsokudōro;teal;2;preview
 lkaa;LKA;Sri Lanka A Roads;lightsalmon;4;preview
-lvap;LVA;Latvia Reģionālie Autoceļi;yellow;5;preview
 kena;KEN;Kenya A Roads;green;3;preview
 kenb;KEN;Kenya B Roads;yellow;4;preview
 lsoa;LSO;Lesotho Main Roads;green;4;preview
 mexf;MEX;Mexico Carreteras Federales;red;2;preview
 mexdfeje;MEX;Mexico City Ejes;yellow;5;preview
+mexemex;MEX;Estado de México Carreteras Estatales;brown;4;preview
+mexqro;MEX;Querétaro Carreteras Estatales;brown;4;preview
 mozn;MOZ;Mozambique Estrada Nacional;green;4;preview
 musm;MUS;Mauritius Motorways;green;3;preview
 musa;MUS;Mauritius Primary Main Roads;lightsalmon;4;preview
@@ -392,10 +397,8 @@ codn;COD;DRC Routes Nationale;green;4;devel
 #fraarad26;FRA;Drôme Routes Départementales;yellow;5;devel
 fraarad38;FRA;Isère Routes Départementales;yellow;5;devel
 #fraarad42;FRA;Loire Routes Départementales;yellow;5;devel
-#fraarad43;FRA;Haute-Loire Routes Départementales;yellow;5;devel
-fraarad63;FRA;Puy-de-Dôme Routes Départementales;yellow;5;devel
+fraarad43;FRA;Haute-Loire Routes Départementales;yellow;5;devel
 #fraarad69;FRA;Rhône Routes Départementales;yellow;5;devel
-fraarad74;FRA;Haute-Savoie Routes Départementales;yellow;5;devel
 #frabfcd21;FRA;Côte-d’Or Routes Départementales;yellow;5;devel
 frabfcd25;FRA;Doubs Routes Départementales;yellow;5;devel
 #frabfcd39;FRA;Jura Routes Départementales;yellow;5;devel
