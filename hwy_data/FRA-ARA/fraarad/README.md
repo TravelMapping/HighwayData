@@ -27,6 +27,9 @@ FRA-74 = `HSa` = Haute-Savoie
 
 
 **NOTES TO ROUTES:**
+*FRA-38 - Isère:*
+- `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
+
 *FRA-63 - Puy-de-Dôme:*
 - Some route segments will be dedicated as M routes (not yet considered when drafting routes!)
 - wikisara articles are rare but OSM + GM look good
