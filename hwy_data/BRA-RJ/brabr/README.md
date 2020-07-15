@@ -9,6 +9,6 @@ Notes on routes:
 * * BR-393 east of BR-116
 * * BR-459
 * * BR-484
-* * BR-485 (unbuilt gap)
+* * BR-485 (unbuilt gap and north of the gap)
 * * BR-492
 * * BR-494
