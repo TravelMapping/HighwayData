@@ -17,6 +17,7 @@ FRA-38 = `Ise` = Isère
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(38) (edit url for other routes)
 FRA-42 = `Loi` = Loire
 FRA-43 = `HLo` = Haute-Loire
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(43) (edit url for other routes)
 FRA-63 = `PdD` = Puy-de-Dôme
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(63) (edit url for other routes)
 FRA-69 = `Rho` = Rhône
@@ -27,6 +28,12 @@ FRA-74 = `HSa` = Haute-Savoie
 
 
 **NOTES TO ROUTES:**
+*FRA-38 - Isère:*
+- `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
+- `D41I` should be `D41L` according to wikisara and GM but it is clearly signed as `D41I` on GSV. OSM confirms it. Note: upper case letters are generally used.
+- `D63I` should be `D65L` according to wikisara and GM but it is clearly signed as `D65I` on GSV - with lower case `i`. OSM confirms it. Only exception with lower case index.
+- `D208` should extend through Bourgoin-Jallieu according to wikisara and GM but OSM indicates it being `D522` and 2019 GSV doesn't show anything being signed.
+
 *FRA-63 - Puy-de-Dôme:*
 - Some route segments will be dedicated as M routes (not yet considered when drafting routes!)
 - wikisara articles are rare but OSM + GM look good
