@@ -34,6 +34,10 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D63I` should be `D65L` according to wikisara and GM but it is clearly signed as `D65I` on GSV - with lower case `i`. OSM confirms it. Only exception with lower case index.
 - `D208` should extend through Bourgoin-Jallieu according to wikisara and GM but OSM indicates it being `D522` and 2019 GSV doesn't show anything being signed.
 
+*FRA-43 - Haute-Loire:*
+- The second `D9` segment south of Saint-Bonnet-le-Froid must belong to the ARA Ardeche departement (fraarad07). `D9` is signed at the junction and there is a `Info Ardeche` sign along the route.
+- The second `D45` segment in the south of the departement (OSM + GM, no GSV available) seems to belong to OCC Lozère departement (fraoccd48)
+
 *FRA-63 - Puy-de-Dôme:*
 - Some route segments will be dedicated as M routes (not yet considered when drafting routes!)
 - wikisara articles are rare but OSM + GM look good
