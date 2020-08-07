@@ -616,6 +616,7 @@
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2020-08-05;(Germany) Baden-Württemberg;B31 (Fischbach);deubw.b031fis;New Route
 2020-06-07;(Germany) Baden-Württemberg;B30 (Main);deubw.b030;Route relocated from through Ravensburg (Schussentalbrücke, Jahnstraße, Friedrichshafener Straße) and onto bypass from Ravensburg-Süd to Untereschach
 2020-06-07;(Germany) Baden-Württemberg;B30 (Ravensburg);deubw.b030;Route deleted (merged into main route)
 2020-06-07;(Germany) Baden-Württemberg;B33 (Markdorf);deubw.b033mar;Route truncated at east end from Jahnstraße to B30
@@ -684,7 +685,12 @@
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
-2019-05-01;(Germany) Brandenburg;L77n;deubb.l077n;New route
+2020-08-06;(Germany) Brandenburg;L77;deubb.l077;Route relocatd from through Stahnsdorf and onto bypass between Lindenstraße and L40
+2020-08-06;(Germany) Brandenburg;L77n;deubb.l077;Route merged into L77
+2020-08-06;(Germany) Brandenburg;L172;deubb.l172;Route truncated at north end from L191 to L170
+2020-08-06;(Germany) Brandenburg;L177;deubb.l177;New route
+2020-08-06;(Germany) Brandenburg;L214;;Route deleted
+2019-05-01;(Germany) Brandenburg;L77n;;New route
 2019-03-02;(Germany) Brandenburg;L771;deubb.l771;Route truncated at east end from Gröben to Tremsdorf
 2018-12-16;(Germany) Brandenburg;B101;deubb.b101;Route removed from through Thyrow and onto bypass between interchange north of Thyrow and L70 interchange Trebbin-North
 2018-10-20;(Germany) Brandenburg;B96;deubb.b096;Route removed from through Finsterwalde and onto bypass between L60 Kirchhainer Straße and K6227 Turmstraße
@@ -710,6 +716,8 @@
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2020-08-06;(Germany) Lower Saxony;B443 (Lehrte;deuni.b443;Route truncated at south end from B3 to B65 (segment from B65 to A7 was downgraded to district road, segment from A7 to B3 remains as a new route)
+2020-08-06;(Germany) Lower Saxony;B443 (Laatzen);deuni.b443laa;New Route
 2020-06-07;(Germany) Lower Saxony;B248 (Ildehausen);deuni.b248ild;New Route
 2020-03-03;(Germany) Lower Saxony;B213 (Main);deuni.b213;Route relocated from through Nordhorn and onto bypass
 2020-03-03;(Germany) Lower Saxony;B213 (Nordhorn);;Merged into main route
@@ -829,6 +837,7 @@
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2020-08-06;(Germany) Rhineland-Palatinate;B50n;deurp.b050n;New Route
 2019-12-25;(Germany) Rhineland-Palatinate;B47 (Monsheim);deurp.b047;Route extended at east end from K17 to L395/L456 at Worms
 2019-12-08;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from old route through the Mosel valley via Bernkastel-Kues and onto the new expressway via the 'Hochmoselbrücke' viaduct from Platten to Kommen
 2019-12-08;(Germany) Rhineland-Palatinate;B269;deurp.b269;Route extended at north end from Kommen (B50) to Lösnich (B53)
@@ -1215,6 +1224,8 @@
 2017-05-31;Israel;F7;isr.f007;New Route
 2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
 2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
+2020-08-07;Italy;A10;ita.a010;Route extended at east end from Genova Aeroporto to A7
+2020-08-07;Italy;E80;ita.e80;Route removed from SS1 and A7 and relocated onto A10 between Genova Aeroporto and A7/A10 junction
 2020-06-24;Italy;Superstrada Pedemontana Veneta;ita.spv;Route extended at west end from exit 5 to exit 4
 2019-06-24;Italy;Superstrada Pedemontana Veneta;ita.spv;New Route
 2019-05-01;Italy;RA9;ita.ra009;Route truncated at north end from SP42 to SS7_N
@@ -1515,6 +1526,9 @@
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2020-08-05;Norway;LotElvMot;nor.lotelvmot;New Route
+2020-08-05;Norway;Rv3;nor.rv003;Route relocated from through Løten and Elverum and onto new bypass from exit 4 south of Løten to north of Elverum
+2020-08-05;Norway;Rv3;nor.rv003;Route relocated from through Løten and onto new bypass from Rv3's exit 5 west of Løten to junction with Rv3 west of Elverum
 2020-07-17;Norway;E6;nor.e6;Route relocated from through Soknedal and onto new bypass (Soknedalstunnelen) from Fv6572 to Fv6573
 2020-07-04;Norway;E134;nor.e134;Route relocated from through Kongsberg and onto new bypass from west of Saggrenda (Fv2779) to east of Kongsberg (Fv286)
 2020-04-22;Norway;Rv13 (Stavanger);nor.rv013sta;Route extended at south end from Fv4566 to Stavanger Motorveien (Hundvågtunnelen)
@@ -1664,6 +1678,77 @@
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2020-08-06;Poland;S1 (Mierzecice);pol.s001mie;Route added
+2020-08-06;Poland;S1 (Dąbrowa Górnicza);pol.s001;Route truncated at north end from A1 to exit 5
+2020-08-06;Poland;DK1 (Czestochowa);pol.dk001;Route truncated at south end from DW796 to A1 exit 31
+2020-08-06;Poland;DK1 (Ujejsce);pol.dk001uje;Route added
+2020-08-06;Poland;DK19 (Rzeszow);pol.dk019rze;Route truncated from S19 to DW883
+2020-08-06;Poland;DK25;pol.dk025;Route removed from Inowroclaw town centre and onto bypass between northern junction with DK15 and DW251
+2020-08-06;Poland;DK42;pol.dk042;Route removed from Kluczbork town centre and onto bypass between eastern junction with Ulica Wolczynska and southern junction with Ulica Byczynska
+2020-08-06;Poland;DK53;pol.dk053;Route truncated at west end from Ulica Wislawy Szymborskiej to S16/S51
+2020-08-06;Poland;DK82;pol.dk082;Route truncated at west end from S12/S17 junction west of Lublin to S12/S17 junction east of Lublin
+2020-08-06;Poland;DK91;pol.dk091;Route extended at south end from DK46 to S1
+2020-08-06;Poland;DK98;;Route deleted
+2020-08-06;Poland;DW104;;Route deleted
+2020-08-06;Poland;DW196;pol.dw196;Route extended at south end from A2 to DW312
+2020-08-06;Poland;DW251;pol.dw251;Route extended at east end from DW275 (former DK25) to DK25
+2020-08-06;Poland;DW252;pol.dw252;Route truncated at west end from DK25_W to DK15/25
+2020-08-06;Poland;DW275;pol.dw275;Route extended at north end from southern junction with Ulica Dworcowa to DW251
+2020-08-06;Poland;DW298;;Route deleted
+2020-08-06;Poland;DW308;pol.dw308;Route removed from Kielczewo and relocated via S5 exit 40 between Ulica Parkowa and southern junction with DW196
+2020-08-06;Poland;DW310;pol.dw310;Route extended at west end from southern junction with DW196 to S5
+2020-08-06;Poland;DW312;pol.dw312;Route extended at east end from DW196 to S5
+2020-08-06;Poland;DW317;pol.dw317;Route added
+2020-08-06;Poland;DW320 (Pilczyce);;Route deleted
+2020-08-06;Poland;DW320 (Osobowice);;Route deleted
+2020-08-06;Poland;DW327;;Route deleted
+2020-08-06;Poland;DW330 (Peclaw);;Route deleted
+2020-08-06;Poland;DW330 (Belcz Wielki);;Route deleted
+2020-08-06;Poland;DW336;;Route deleted
+2020-08-06;Poland;DW337;;Route deleted
+2020-08-06;Poland;DW342;pol.dw342;Route truncated at north end from DW339 to DW340, and at south end from Ulica Zmigrodzka to DK5
+2020-08-06;Poland;DW349;;Route deleted
+2020-08-06;Poland;DW356;;Route deleted
+2020-08-06;Poland;DW359;;Route deleted
+2020-08-06;Poland;DW362;;Route deleted
+2020-08-06;Poland;DW370;;Route deleted
+2020-08-06;Poland;DW372 (Zakrzow);pol.dw372zak;Route added
+2020-08-06;Poland;DW380;;Route deleted
+2020-08-06;Poland;DW440;;Route deleted
+2020-08-06;Poland;DW446;;Route deleted
+2020-08-06;Poland;DW453;;Route deleted
+2020-08-06;Poland;DW465 (Zelazna);;Route deleted
+2020-08-06;Poland;DW465 (Dobrzen Maly);;Route deleted
+2020-08-06;Poland;DW527;pol.dw527;Route truncated at south end from DW598 to Ulica Artyleryjska, and extended at south end from Ulica Artyleryjska to S51
+2020-08-06;Poland;DW580;pol.dw580;Route truncated at east end from DW629 to DK7
+2020-08-06;Poland;DW587;;Route deleted
+2020-08-06;Poland;DW598;pol.dw598;Route extended at north end from Ulica Obiegowa to DK51
+2020-08-06;Poland;DW624;;Route deleted
+2020-08-06;Poland;DW625;;Route deleted
+2020-08-06;Poland;DW629;pol.dw629;Route truncated at west end from DW719 to DW634_W and extended at north end from northern junction with Ulica Wolominska to S8 exit 64
+2020-08-06;Poland;DW631;pol.dw631;Route truncated at west end from DK79 to DK2
+2020-08-06;Poland;DW634;pol.dw634;Route truncated at west end from Ulica Jamesa Gordona Bennetta to DW801
+2020-08-06;Poland;DW635;pol.dw635;Route truncated at north end from junction with DW629 west of Radzymin to junction with DW629 near S8
+2020-08-06;Poland;DW637;pol.dw637;Route truncated at west end from DK7/61 to DK2
+2020-08-06;Poland;DW706;;Route deleted
+2020-08-06;Poland;DW711;;Route deleted
+2020-08-06;Poland;DW717;;Route deleted
+2020-08-06;Poland;DW719;pol.dw719;Route truncated at east end from DW637 to DK7
+2020-08-06;Poland;DW726;pol.dw726;Route truncated at north end from DW707 to Ulica Opoczynska and extended at north end from Ulica Opoczynska to S8
+2020-08-06;Poland;DW733;pol.dw733;Route truncated at west end from DW740 to DW744
+2020-08-06;Poland;DK735;;Route deleted
+2020-08-06;Poland;DW782;;Route deleted
+2020-08-06;Poland;DW817 (Kludzie);;Route deleted
+2020-08-06;Poland;DW817 (Kamien);;Route deleted
+2020-08-06;Poland;DW859;;Route deleted
+2020-08-06;Poland;DW882;pol.dw882;Route added
+2020-08-06;Poland;DW883;pol.dw882;Route added
+2020-08-06;Poland;DW898;pol.dw898;Route extened at east end from Ulica Marymonca to S7/S8
+2020-08-06;Poland;DW900 (Raj);;Route deleted
+2020-08-06;Poland;DW900 (Piotrawin);;Route deleted
+2020-08-06;Poland;DW942;pol.dw942;Route removed from Ulica Bystzanska and Ulica Szczyrkowska relocated onto Ulica Zywiecka and Obwodnica Buczkowic between S1 and Ulica Bielska
+2020-08-06;Poland;DW944;pol.dw944;Route added
+2020-08-06;Poland;DW945;pol.dw945;Route truncated at north end from S1 at Mikuszowice Krakowskie to DW942
 2020-07-15;Poland;S17;pol.s017;Route extended at north end from DK50 to exit 2
 2020-07-15;Poland;DK17 (Rudka);pol.dk017rud;Route truncated at south end from DK50 to exit 2
 2020-06-10;Poland;A6;pol.a006;Route extended at east end from exit 24 to DW142
@@ -3134,7 +3219,6 @@
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
 2020-06-25;(USA) Illinois;US 52;il.us052;Relocated IA/IL and IL84_N for new bridge
 2020-06-25;(USA) Illinois;IL 64;il.il064;Relocated IA/IL and IL84_N for new bridge
-2020-06-25;(USA) Illinois;IL 84;il.il084;Relocated US52/64_W
 2020-03-02;(USA) Illinois;IL 157;il.il157;Split tiny duplex with IL 162 into IL162_E and _W
 2020-03-02;(USA) Illinois;IL 162;il.il162;Split tiny duplex with IL 157 into IL157_N and _S
 2020-03-02;(USA) Illinois;IL 33;il.il033;Moved US40_W from 4th Street to Banker St in Effingham
@@ -3896,6 +3980,7 @@
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2020-08-03;(USA) Pennsylvania;PA 423 Truck (Pocono Pines);pa.pa423trkpoc;Route added.
 2020-07-06;(USA) Pennsylvania;PA 18;pa.pa018;Realigned between *OldPA18 and I-376(39). (done in 2018).
 2020-05-18;(USA) Pennsylvania;PA 113 Alternate Truck (Schwenksville);pa.pa113alttrksch;Route added.
 2020-04-11;(USA) Pennsylvania;PA 519 Truck (Houston);pa.pa519trkhou;Route added.
