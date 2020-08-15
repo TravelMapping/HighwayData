@@ -1702,7 +1702,14 @@
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
-2020-08-06;Poland;S1 (Mierzecice);pol.s001mie;Route added
+2020-08-14;Poland;A2 (Mińsk Mazowiecki);pol.a002min;Route extended at west end from former temporary terminus at DK2 west of Mińsk Mazowiecki to exit 33
+2020-08-14;Poland;S17;pol.s017;Route extended at north end from exit 1 to exit 2
+2020-08-14;Poland;E30;pol.e30;Route removed from DK92 and relocated onto DK17 and A2 between DK2/17 junction and former A2 temporary terminus at DK2 west of Mińsk Mazowiecki
+2020-08-14;Poland;E372;pol.e372;Route truncated at north end from DK2 to S17 exit 1
+2020-08-14;Poland;DK2 (Warsaw);pol.dk002;Route truncated at east end from A2 to DK17/DK92
+2020-08-14;Poland;DK17 (Zakret);pol.dk017rud;Route truncated at south end from exit 2 to A2
+2020-08-14;Poland;DK92 (Minsk Mazowiecki);pol.dk092min;Route extended at west end from  to DK2/17
+2020-08-06;Poland;S1 (Mierzecice);pol.s001mie;Route added (formerly part of Dąbrowa Górnicza section)
 2020-08-06;Poland;S1 (Dąbrowa Górnicza);pol.s001;Route truncated at north end from A1 to exit 5
 2020-08-06;Poland;DK1 (Czestochowa);pol.dk001;Route truncated at south end from DW796 to A1 exit 31
 2020-08-06;Poland;DK1 (Ujejsce);pol.dk001uje;Route added
@@ -1736,7 +1743,7 @@
 2020-08-06;Poland;DW359;;Route deleted
 2020-08-06;Poland;DW362;;Route deleted
 2020-08-06;Poland;DW370;;Route deleted
-2020-08-06;Poland;DW372 (Zakrzow);pol.dw372zak;Route added
+2020-08-06;Poland;DW372 (Zakrzow);pol.dw372zak;Route added (formerly part of DK98)
 2020-08-06;Poland;DW380;;Route deleted
 2020-08-06;Poland;DW440;;Route deleted
 2020-08-06;Poland;DW446;;Route deleted
@@ -1766,7 +1773,7 @@
 2020-08-06;Poland;DW817 (Kamien);;Route deleted
 2020-08-06;Poland;DW859;;Route deleted
 2020-08-06;Poland;DW882;pol.dw882;Route added
-2020-08-06;Poland;DW883;pol.dw882;Route added
+2020-08-06;Poland;DW883;pol.dw883;Route added (formerly part of DK19Rze)
 2020-08-06;Poland;DW898;pol.dw898;Route extened at east end from Ulica Marymonca to S7/S8
 2020-08-06;Poland;DW900 (Raj);;Route deleted
 2020-08-06;Poland;DW900 (Piotrawin);;Route deleted
@@ -2826,6 +2833,8 @@
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2020-08-14;(UK) England;A306 (Barnes);eng.a0306;Route truncated at north end from A219/A315 junction to Riverview Gardens
+2020-08-14;(UK) England;A306 (Hammersmith);eng.a0306ham;Route added
 2020-07-03;(UK) England;A6196;eng.a6196;Route added
 2020-06-28;(UK) England;A49;eng.a0049;Route removed from Warrington Road and A577 and relocated onto Chapel Lane and Link Road between B5386 and A577_W
 2020-06-28;(UK) England;A571;eng.a0571;Route extended at north end from B5386 (former A49) to A577
@@ -3759,6 +3768,10 @@
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2020-08-14;(USA) Nevada;NV 159;nv.nv159;In Las Vegas, east end of route truncated from NV 612 to CR 215, with parts of removed segment transferred to new NV 159 (Downtown) and NV 159 (Sunrise Manor)
+2020-08-14;(USA) Nevada;NV 159 (Downtown);nv.nv159dow;Route added in Las Vegas, from segment near I-15 removed from main NV 159 route
+2020-08-14;(USA) Nevada;NV 159 (Sunrise Manor);nv.nv159sun;Route added in Las Vegas, from segment near I-515 removed from main NV 159 route
+2020-08-14;(USA) Nevada;NV 593;nv.nv593;In Las Vegas, west end of route truncated from Dean Martin Drive to Maryland Parkway
 2020-07-26;(USA) Nevada;NV 173;nv.nv173;Added route (part of former US 95 in Boulder City)
 2020-07-26;(USA) Nevada;NV 578;nv.nv578;Added route in downtown Las Vegas 
 2020-07-26;(USA) Nevada;NV 589;;Deleted decommissioned route 
