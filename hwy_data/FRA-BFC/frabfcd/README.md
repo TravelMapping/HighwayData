@@ -18,4 +18,5 @@ FRA-90 = `TeB` = Territoire de Belfort
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-25 - Doubs:*
+- `D203` routing through Saint-Vit not clear
