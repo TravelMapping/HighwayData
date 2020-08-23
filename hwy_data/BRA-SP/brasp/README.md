@@ -1,3 +1,10 @@
+The following routes are not included due to apparent lack of signs:
+* SPA 062/251 (Acesso Tarcillo Baroni)
+* SPA-133/255 (Acesso Cônego José Mendes de Abreu Jr.)
+* SPA-138/255 (Via de Acesso Prof Dr. Benedicto Montenegro)
+* SPA-196/255 (to Rodrigues Alves)
+* SPA-198/255 (to São Manuel)
+
 Notes on routes:
 * SP-150 has an unclear south end. The Ecovias concession ends at Avenida Nossa Senhora de Fátima. Federal GIS data shows SP-150 and planned BR-050 extending to Rua Flamínio Levy. State GIS data continues SP-150 all the way to Avenida Presidente Wilson at Canal 1.
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
