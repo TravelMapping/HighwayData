@@ -5,7 +5,8 @@ Sources:
 * http://200.144.30.104/website/webrota/viewer.htm (predates much of SP-021)
 * https://pt.wikipedia.org/wiki/Lista_de_rodovias_estaduais_de_S%C3%A3o_Paulo
 
-The following routes are not included due to apparent lack of signs:
+The following paved state-maintained routes are not included due to apparent lack of signs:
+* SP-008 segments between Mairiporã and Bragança Paulista (as of 2011)
 * SP-015 (Marginal Pinheiros and Marginal Tietê): included in brasf
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
