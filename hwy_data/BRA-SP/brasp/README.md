@@ -1,3 +1,10 @@
+Sources:
+* http://www.der.sp.gov.br/WebSite/MalhaRodoviaria/PesquisaRodovias.aspx (appears to be a complete list)
+* http://www.artesp.sp.gov.br/Shared%20Documents/legislacao/Mapa%20Rodovias.pdf (2017)
+* http://www.der.sp.gov.br/WebSite/MalhaRodoviaria/Denominacoes.aspx (click "Relação Descritiva das Rodovias Estaduais"; predates SP-021)
+* http://200.144.30.104/website/webrota/viewer.htm (predates much of SP-021)
+* https://pt.wikipedia.org/wiki/Lista_de_rodovias_estaduais_de_S%C3%A3o_Paulo
+
 The following routes are not included due to apparent lack of signs:
 * SP-015 (Marginal Pinheiros and Marginal Tietê): included in brasf
 * SPI-059/150 (Interligação Baixada): included in brasf
