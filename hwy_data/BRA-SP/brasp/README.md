@@ -1,5 +1,5 @@
 Sources:
-* http://www.der.sp.gov.br/WebSite/MalhaRodoviaria/PesquisaRodovias.aspx (appears to be a complete list)
+* http://www.der.sp.gov.br/WebSite/MalhaRodoviaria/PesquisaRodovias.aspx (appears to be a complete up-to-date list, though changed in maintenance don't always match signs)
 * http://www.artesp.sp.gov.br/Shared%20Documents/legislacao/Mapa%20Rodovias.pdf (2017)
 * http://www.der.sp.gov.br/WebSite/Documentos/Mapas.aspx (2017)
 * http://www.der.sp.gov.br/WebSite/MalhaRodoviaria/Denominacoes.aspx (click "Relação Descritiva das Rodovias Estaduais"; predates SP-021)
