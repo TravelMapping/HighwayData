@@ -10,7 +10,7 @@ The following paved state-maintained routes are not included due to apparent lac
 * SP-008 segments between Mairiporã and Bragança Paulista (as of 2011)
 * SPA-109/008 (to Pedra Bela, as of 2011) [or is it now signed?](https://www.google.com/maps/@-22.8160032,-46.5465815,3a,15y,94.1h,89.81t/data=!3m6!1e1!3m4!1skszx-l9tv8_3dEC3Qa5btw!2e0!7i13312!8i6656)
 * SPA-113/008 (to Pinhalzinho, as of 2011) [or is it now signed?](https://www.google.com/maps/@-22.783687,-46.5612466,3a,15y,226.91h,86.38t/data=!3m6!1e1!3m4!1sY51zNV-z4n0vgHunw3VsOQ!2e0!7i13312!8i6656)
-* SP-015 (Marginal Pinheiros and Marginal Tietê): included in brasf
+* SP-015 (Marginal Pinheiros and Marginal Tietê): mostly included in brasf
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
 * SPA-133/255 (Acesso Cônego José Mendes de Abreu Jr., as of 2011)
