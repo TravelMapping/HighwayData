@@ -14,6 +14,7 @@ The following paved state-maintained routes are not included due to apparent lac
 * SPI-016/021
 * SP-036 through Cumbica
 * SPA-036/036 (as of 2020)
+* SPA-166/042 ([as of 2018](https://www.google.com/maps/@-22.6872281,-45.7281462,3a,20.8y,84.05h,85.42t/data=!3m6!1e1!3m4!1s9TGGVBfI3k0jIO2fyQsNHw!2e0!7i13312!8i6656); no imagery at the east end)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
 * SPA-133/255 (Acesso Cônego José Mendes de Abreu Jr., as of 2011)
