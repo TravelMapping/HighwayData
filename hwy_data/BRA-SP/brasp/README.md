@@ -25,6 +25,8 @@ The following paved state-maintained routes are not included due to apparent lac
 Notes on routes:
 * SP-023 [is signed](https://www.google.com/maps/@-23.3311657,-46.6881006,3a,15y,323.87h,85.55t/data=!3m6!1e1!3m4!1s5A4-ftmAyB5rGudEevLz_w!2e0!7i16384!8i8192). The east end is where maintenance and signage ends; the west end is a little sketchy due to a gap in maintenance through Franco da Rocha.
 * SP-036 has no signs near the north end; maintenance ends at SPA-003/010 (though without any signs saying so).
+* SP-039 [is signed](https://www.google.com/maps/@-23.6861814,-46.2145589,3a,15.7y,47.07h,83.52t/data=!3m6!1e1!3m4!1sLrD2-QRhtPcfx895QDHHxw!2e0!7i13312!8i6656) (as of 2011) on what sources say is actually SP-043.
+* SP-043 [is signed](https://www.google.com/maps/@-23.6752074,-46.3500887,3a,36.6y,35.45h,79.66t/data=!3m6!1e1!3m4!1shoac_0g64ulAmSb9NO9prw!2e0!7i16384!8i8192) from SP-031 despite being a low-quality dirt road.
 * SP-150 has an unclear south end. The Ecovias concession ends at Avenida Nossa Senhora de Fátima. Federal GIS data shows SP-150 and planned BR-050 extending to Rua Flamínio Levy. State GIS data continues SP-150 all the way to Avenida Presidente Wilson at Canal 1.
 * SP-249 [is signed](https://www.google.com/maps/@-23.9994865,-48.8786124,3a,16.1y,205.19h,83.82t/data=!3m6!1e1!3m4!1s8MrOhh5DDaXdM9iHquMgAg!2e0!7i16384!8i8192) in Itapeva.
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
