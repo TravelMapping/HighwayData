@@ -12,6 +12,8 @@ The following paved state-maintained routes are not included due to apparent lac
 * SPA-113/008 (to Pinhalzinho, as of 2011) [or is it now signed?](https://www.google.com/maps/@-22.783687,-46.5612466,3a,15y,226.91h,86.38t/data=!3m6!1e1!3m4!1sY51zNV-z4n0vgHunw3VsOQ!2e0!7i13312!8i6656)
 * SP-015 (Marginal Pinheiros and Marginal Tietê): mostly included in brasf
 * SPI-016/021
+* SP-036 through Cumbica
+* SPA-036/036 (as of 2020)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
 * SPA-133/255 (Acesso Cônego José Mendes de Abreu Jr., as of 2011)
