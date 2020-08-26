@@ -36,6 +36,7 @@ Notes on routes:
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
 * SPA-052/031 [is signed](https://www.google.com/maps/@-23.688352,-46.3925401,3a,15y,34.25h,106.56t/data=!3m6!1e1!3m4!1sRyaEiBL2hLdKPXeffxIKAw!2e0!7i16384!8i8192).
 * SPA-058/031 [is signed](https://www.google.com/maps/@-23.6433758,-46.3216465,3a,15y,100.14h,81.93t/data=!3m6!1e1!3m4!1sU7JpdrhaB6Ls1BjYOUqS0g!2e0!7i16384!8i8192).
+* SPA-220/052 [is signed](https://www.google.com/maps/@-22.5706432,-44.9950992,3a,15y,99.07h,88.21t/data=!3m6!1e1!3m4!1s7agpg3qodERMEe15umV3hw!2e0!7i16384!8i8192).
 * SPA-248/055 [is signed](https://www.google.com/maps/@-23.9829983,-46.2650202,3a,18.2y,285.58h,87.42t/data=!3m6!1e1!3m4!1sHpNepqI08kMsoh5dUws1_A!2e0!7i16384!8i8192) (with a missing 0). State GIS data shows that it continues south to Avenida Ademar de Barros, but the Ecovias concession and signage ends at the circle where the freeway ends.
 * SPA-291/055 [is signed](https://www.google.com/maps/@-23.9977704,-46.4111343,3a,21.3y,278.54h,88.17t/data=!3m6!1e1!3m4!1ss0U16t3V0_o7fyq-yD-rpA!2e0!7i16384!8i8192).
 * SPI-084/066 [is signed](https://www.google.com/maps/@-23.3467599,-46.0205593,3a,15y,157.05h,88.23t/data=!3m6!1e1!3m4!1sTodoGdcHL2NWMrKnvZOY9Q!2e0!7i16384!8i8192) (with missing 0s).
