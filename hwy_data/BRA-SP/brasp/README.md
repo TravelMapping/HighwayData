@@ -22,6 +22,7 @@ The following routes are not included due to apparent lack of signs:
 * SP-058 through and east of Cruzeiro (municipal maintenance or unpaved, as of 2019; no imagery available for the paved portion between SPA-227/058 and Pinheiros)
 * SPA-205/058 (as of 2019)
 * SPA-227/058 (as of 2019; imagery only available at south end)
+* SPA-029/060 (as of 2019)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
 * SPA-133/255 (Acesso Cônego José Mendes de Abreu Jr., as of 2011)
