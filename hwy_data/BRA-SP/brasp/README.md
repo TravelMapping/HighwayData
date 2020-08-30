@@ -24,6 +24,8 @@ The following routes are not included due to apparent lack of signs:
 * SPA-205/058 (as of 2019)
 * SPA-227/058 (as of 2019; imagery only available at south end)
 * SPA-029/060 (as of 2019)
+* SPA-110/062 (municipal maintenance, as of 2019)
+* SPA-133/062 (as of 2019)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
 * SPA-133/255 (Acesso Cônego José Mendes de Abreu Jr., as of 2011)
@@ -41,6 +43,10 @@ Notes on routes:
 * SP-050 does not have a well-defined or signed south end. Numerous signs in São José dos Campos point the way between SP-050 and BR-116, but sources do not show that this is SP-050 proper. The south end of SP-050 and the south end of state maintenance are somewhere north of Estrada Juca Carvalho, but again there are no signs indicating where and km posts are missing.
 * SP-056 may not be signed anywhere west of the end of state maintenance in Arujá, but SPI-035/056 [is signed](https://www.google.com/maps/@-23.4617075,-46.3393103,3a,22.5y,337.44h,89.61t/data=!3m6!1e1!3m4!1sZJw8RMPcJQDR01CtW7csiw!2e0!7i16384!8i8192).
 * SP-058's east end is according to length shown in the log, due to lack of signage.
+* SP-062 [is signed](https://www.google.com/maps/@-23.1129399,-45.7288434,3a,15.6y,247.02h,87.17t/data=!3m6!1e1!3m4!1swgx6UNLfixpJVot5SvnM2A!2e0!7i16384!8i8192) west of Caçapava. The log shows that state maintenance ends at the border with São José dos Campos, and that SP-062 continued locally-maintained for another 2.8 km to somewhere in Eugênio de Melo.
+* SP-062 has no signed or defined westbound route through Caçapava.
+* SP-062 has no signed or defined route through Pindamonhangaba, so it has been split at the bypass (Anel Viario). It may in fact be completely unsigned in this area until the SPA-085/060 intersection.
+* SP-062 is not signed and poorly defined through Aparecida, Guaratinguetá, and Lorena, but [at least one sign](https://www.google.com/maps/@-22.7457959,-45.1342764,3a,15y,223.55h,90.49t/data=!3m6!1e1!3m4!1sg4RwOOuKLkjz48_DfZOLrg!2e0!7i16384!8i8192) exists just west of Lorena. The east end in Cachoeira Paulista is poorly defined.
 * SP-150 has an unclear south end. The Ecovias concession ends at Avenida Nossa Senhora de Fátima. Federal GIS data shows SP-150 and planned BR-050 extending to Rua Flamínio Levy. State GIS data continues SP-150 all the way to Avenida Presidente Wilson at Canal 1.
 * SP-249 [is signed](https://www.google.com/maps/@-23.9994865,-48.8786124,3a,16.1y,205.19h,83.82t/data=!3m6!1e1!3m4!1s8MrOhh5DDaXdM9iHquMgAg!2e0!7i16384!8i8192) in Itapeva.
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
