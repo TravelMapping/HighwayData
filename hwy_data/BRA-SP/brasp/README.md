@@ -26,6 +26,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-029/060 (as of 2019)
 * SPA-110/062 (municipal maintenance, as of 2019)
 * SPA-133/062 (as of 2019)
+* SPA-069/066 (as of 2011)
 * SPA-073/066 (municipal maintenance, as of 2019)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
