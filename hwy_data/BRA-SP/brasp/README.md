@@ -38,6 +38,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-196/255 (to Rodrigues Alves, as of 2011)
 * SPA-198/255 (to São Manuel, as of 2011)
 * SPA-338/255 (to Coronel Macedo, as of 2011)
+* SPA-092/270 (municipal maintenance, as of 2019)
 
 Notes on routes:
 * SP-023 [is signed](https://www.google.com/maps/@-23.3311657,-46.6881006,3a,15y,323.87h,85.55t/data=!3m6!1e1!3m4!1s5A4-ftmAyB5rGudEevLz_w!2e0!7i16384!8i8192). The east end is where maintenance and signage ends; the west end is a little sketchy due to a gap in maintenance through Franco da Rocha.
