@@ -33,6 +33,10 @@ The following routes are not included due to apparent lack of signs:
 * SP-092 (unpaved, as of 2011)
 * SPA-103/079 (as of 2019)
 * SPA-115/079 (municipal maintenance, as of 2019)
+* SPA-032/099 (as of 2011)
+* SPA-033/099 (as of 2011)
+* SPA-035/099 (as of 2011) - but [is that a shield in the background](https://www.google.com/maps/@-23.3939203,-45.6546953,3a,15y,295.68h,88.33t/data=!3m7!1e1!3m5!1sQTtgRJQ8nVGeC6w6ytKKZA!2e0!5s20190801T000000!7i16384!8i8192) in 2019?
+* SPA-037/099 (as of 2011)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SP-221 (unpaved, but no imagery along the actual route)
 * SPA-097-250 (mostly unpaved, as of 2019)
