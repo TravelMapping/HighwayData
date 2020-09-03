@@ -37,6 +37,9 @@ The following routes are not included due to apparent lack of signs:
 * SPA-033/099 (as of 2011)
 * SPA-035/099 (as of 2011) - but [is that a shield in the background](https://www.google.com/maps/@-23.3939203,-45.6546953,3a,15y,295.68h,88.33t/data=!3m7!1e1!3m5!1sQTtgRJQ8nVGeC6w6ytKKZA!2e0!5s20190801T000000!7i16384!8i8192) in 2019?
 * SPA-037/099 (as of 2011)
+* SPA-008/101 (municipal maintenance, as of 2020)
+* SPA-022/101 (municipal maintenance, as of 2020)
+* SPA-026/101 (as of 2018)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SP-221 (unpaved, but no imagery along the actual route)
 * SPA-097-250 (mostly unpaved, as of 2019)
@@ -73,3 +76,4 @@ Notes on routes:
 * SPA-291/055 [is signed](https://www.google.com/maps/@-23.9977704,-46.4111343,3a,21.3y,278.54h,88.17t/data=!3m6!1e1!3m4!1ss0U16t3V0_o7fyq-yD-rpA!2e0!7i16384!8i8192).
 * SPA-344/055: the east end is poorly defined; it officially continues locally-maintained back to SP-055 at Per, but this is not signed.
 * SPI-084/066 [is signed](https://www.google.com/maps/@-23.3467599,-46.0205593,3a,15y,157.05h,88.23t/data=!3m6!1e1!3m4!1sTodoGdcHL2NWMrKnvZOY9Q!2e0!7i16384!8i8192) (with missing 0s).
+* SPA-032/101 [is signed](https://www.google.com/maps/@-22.9846962,-47.3781872,3a,15y,168.37h,89.1t/data=!3m6!1e1!3m4!1s77uriIBHBI5JiTaDOBTHFA!2e0!7i16384!8i8192).
