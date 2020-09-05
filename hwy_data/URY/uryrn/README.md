@@ -28,5 +28,5 @@ Uruguay Rutas Nacionales
 - RN89 is unsigned
 - RN91 is unsigned
 - RN92 is unsigned
-- RN93 is unsigned
+- RN93 is signed as IB
 - RN103 is unsigned
