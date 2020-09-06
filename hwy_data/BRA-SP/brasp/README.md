@@ -48,6 +48,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-097/127 (as of 2011)
 * SPA-117/127 (as of 2019)
 * SPA-146/127 (as of 2019)
+* SPA-012/129 (municipal maintenance, as of 2019)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SP-221 (unpaved, but no imagery along the actual route)
 * SPA-097-250 (mostly unpaved, as of 2019)
