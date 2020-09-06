@@ -44,6 +44,10 @@ The following routes are not included due to apparent lack of signs:
 * SPA-031/107 (municipal maintenance, as of 2019)
 * SPA-045/107 (municipal maintenance, as of 2012)
 * SPA-003/125 (municipal maintenance, as of 2019)
+* SPA-045/127 (as of 2011)
+* SPA-097/127 (as of 2011)
+* SPA-117/127 (as of 2019)
+* SPA-146/127 (as of 2019)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SP-221 (unpaved, but no imagery along the actual route)
 * SPA-097-250 (mostly unpaved, as of 2019)
@@ -54,6 +58,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-198/255 (to São Manuel, as of 2011)
 * SPA-338/255 (to Coronel Macedo, as of 2011)
 * SPA-092/270 (municipal maintenance, as of 2019)
+* SPA-162/270 (as of 2019)
 * SPA-157/300 (municipal maintenance, as of 2019)
 
 Notes on routes:
@@ -86,3 +91,4 @@ Notes on routes:
 * SPA-032/101 [is signed](https://www.google.com/maps/@-22.9846962,-47.3781872,3a,15y,168.37h,89.1t/data=!3m6!1e1!3m4!1s77uriIBHBI5JiTaDOBTHFA!2e0!7i16384!8i8192), but imagery at the south end is older, so it may extend another block.
 * SPA-043/125 [is signed](https://www.google.com/maps/@-23.2376732,-45.3050466,3a,15y,31.84h,92.78t/data=!3m6!1e1!3m4!1sCiBm-JO2KWwhJOTkB5NZow!2e0!7i16384!8i8192).
 * SPA-046/125 is signed at the north end, but imagery may not be new enough to show signage at the south end (on the unpaved portion). Since there are no photos along the route, it's assumed to end where pavement does.
+* SPA-084/127 [is signed](https://www.google.com/maps/@-23.1244141,-47.7164213,3a,15.4y,77.91h,85.1t/data=!3m6!1e1!3m4!1synketLEGA2THqgbSdbfqwQ!2e0!7i16384!8i8192) despite municipal maintenance!
