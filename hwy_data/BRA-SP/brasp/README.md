@@ -90,7 +90,6 @@ Notes on routes:
 * SP-129's south end is where state maintenance ends at km 74, since there is no signage south of there and no logical intersection with SP-157/SP-268. But [does it even exist south of Tatuí?](https://www.google.com/maps/@-23.3596368,-47.8907831,3a,16y,289.78h,88.43t/data=!3m6!1e1!3m4!1sy6yNEmcp8g-Oh98-WJp6Gg!2e0!7i16384!8i8192) It may become state maintained at the turnoff for Quadra.
 * SP-141 [is signed](https://www.google.com/maps/@-23.1855933,-48.1244037,3a,15y,335.8h,89.24t/data=!3m6!1e1!3m4!1sEYzli8vqOeeRcZYK_6iRRw!2e0!7i16384!8i8192).
 * SP-148 appears to be partially closed to motor vehicle traffic, but is signed and walkable.
-* SP-150 has an unclear south end. The Ecovias concession ends at Avenida Nossa Senhora de Fátima. Federal GIS data shows SP-150 and planned BR-050 extending to Rua Flamínio Levy. State GIS data continues SP-150 all the way to Avenida Presidente Wilson at Canal 1.
 * SP-249 [is signed](https://www.google.com/maps/@-23.9994865,-48.8786124,3a,16.1y,205.19h,83.82t/data=!3m6!1e1!3m4!1s8MrOhh5DDaXdM9iHquMgAg!2e0!7i16384!8i8192) in Itapeva.
 * SP-268 [is signed](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656) east of Capela do Alto.
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
