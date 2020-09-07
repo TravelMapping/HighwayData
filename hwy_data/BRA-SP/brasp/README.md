@@ -56,6 +56,7 @@ The following routes are not included due to apparent lack of signs:
 * SP-099/139 (as of 2011)
 * SPA-009/141 (as of 2015)
 * SPA-018/143 (as of 2015)
+* SP-147 has no well-defined east end in Piracicaba.
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SP-221 (unpaved, but no imagery along the actual route)
 * SPA-097-250 (mostly unpaved, as of 2019)
