@@ -56,8 +56,12 @@ The following routes are not included due to apparent lack of signs:
 * SP-099/139 (as of 2011)
 * SPA-009/141 (as of 2015)
 * SPA-018/143 (as of 2015)
-* SP-147 has no well-defined east end in Piracicaba.
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
+* SPA-163/165 (no imagery, but does not appear to even exist on the ground)
+* SPA-002/171 (as of 2011)
+* SPA-046/171 (as of 2011)
+* SP-176 (as of 2019)
+* SP-180 (as of 2019)
 * SP-221 (unpaved, but no imagery along the actual route)
 * SPA-097-250 (mostly unpaved, as of 2019)
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
@@ -89,8 +93,10 @@ Notes on routes:
 * SP-105's east end is sketchy; maps and GIS show it ending at the junction of Avenida 23 de Setembro and Rua Dr. Pedro E. Pinheiro, both of which are supposed to carry SP-360, but signs point SP-360 through traffic as Google and OSM show. The end as mapped is where the [easternmost known SP-105 sign](https://www.google.com/maps/@-22.592155,-46.7110773,3a,15y,314.73h,86.7t/data=!3m6!1e1!3m4!1s0Z3rB3iJw-CdaIKC_7NfUQ!2e0!7i13312!8i6656) is located.
 * SP-129's south end is where state maintenance ends at km 74, since there is no signage south of there and no logical intersection with SP-157/SP-268. But [does it even exist south of Tatuí?](https://www.google.com/maps/@-23.3596368,-47.8907831,3a,16y,289.78h,88.43t/data=!3m6!1e1!3m4!1sy6yNEmcp8g-Oh98-WJp6Gg!2e0!7i16384!8i8192) It may become state maintained at the turnoff for Quadra.
 * SP-141 [is signed](https://www.google.com/maps/@-23.1855933,-48.1244037,3a,15y,335.8h,89.24t/data=!3m6!1e1!3m4!1sEYzli8vqOeeRcZYK_6iRRw!2e0!7i16384!8i8192).
+* SP-147 has no well-defined east end in Piracicaba.
 * SP-148 appears to be partially closed to motor vehicle traffic, but is signed and walkable.
 * SP-157's south end is ill-defined.
+* SP-167 [is signed](https://www.google.com/maps/@-22.4128376,-46.9513354,3a,27.8y,85.48h,86.86t/data=!3m6!1e1!3m4!1soiWXbzvq6AZmNIUkYDZOLA!2e0!7i13312!8i6656) but not through Mogi Guaçu, so the end is at the border.
 * SP-249 [is signed](https://www.google.com/maps/@-23.9994865,-48.8786124,3a,16.1y,205.19h,83.82t/data=!3m6!1e1!3m4!1s8MrOhh5DDaXdM9iHquMgAg!2e0!7i16384!8i8192) in Itapeva.
 * SP-268 [is signed](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656) east of Capela do Alto.
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
