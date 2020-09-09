@@ -67,7 +67,10 @@ The following routes are not included due to apparent lack of signs:
 * SPA-110/191 (unpaved, as of 2011, but no imagery along the actual route)
 * SPA-050/193 (no imagery available)
 * SPA-055/193 (no imagery available)
+* SPA-005/197 (as of 2011)
+* SPA-029/207 (as of 2014)
 * SP-221 (unpaved, but no imagery along the actual route)
+* SPA-130/225 (as of 2011)
 * SPA-036/226 (as of 2019, but no imagery along the actual route)
 * SPA-097/250 (mostly unpaved, as of 2019)
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
@@ -83,6 +86,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-223/304 (as of 2011, but no imagery along the actual route)
 * SPA-227/304 (as of 2011)
 * SPI-194/308 (no imagery since the bypass was built)
+* SPA-244/344 (as of 2015)
 
 Notes on routes:
 * SP-023 [is signed](https://www.google.com/maps/@-23.3311657,-46.6881006,3a,15y,323.87h,85.55t/data=!3m6!1e1!3m4!1s5A4-ftmAyB5rGudEevLz_w!2e0!7i16384!8i8192). The east end is where maintenance and signage ends; the west end is a little sketchy due to a gap in maintenance through Franco da Rocha.
@@ -108,6 +112,7 @@ Notes on routes:
 * SP-157's south end is ill-defined.
 * SP-167 [is signed](https://www.google.com/maps/@-22.4128376,-46.9513354,3a,27.8y,85.48h,86.86t/data=!3m6!1e1!3m4!1soiWXbzvq6AZmNIUkYDZOLA!2e0!7i13312!8i6656) but not through Mogi Guaçu, so the end is at the border.
 * SP-189 bypasses Campina do Monte Alegre (using Rua Marcelina V. dos Santos) according to maps, but [signs (as of 2011)](https://www.google.com/maps/@-23.5580123,-48.4520605,3a,75y,321.41h,68.24t/data=!3m6!1e1!3m4!1sFEXSyyU6zKhRbr-2PDmWdQ!2e0!7i13312!8i6656) show that the bypass is locally maintained, and distance matches the through-town route.
+* SP-211 [is signed](https://www.google.com/maps/@-21.6525034,-46.8712168,3a,48.3y,358h,82.25t/data=!3m7!1e1!3m5!1svOSOVX_KnPijN2kj-FMfUg!2e0!5s20150601T000000!7i16384!8i8192).
 * SP-249 [is signed](https://www.google.com/maps/@-23.9994865,-48.8786124,3a,16.1y,205.19h,83.82t/data=!3m6!1e1!3m4!1s8MrOhh5DDaXdM9iHquMgAg!2e0!7i16384!8i8192) in Itapeva.
 * SP-268 [is signed](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656) east of Capela do Alto.
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
@@ -122,3 +127,4 @@ Notes on routes:
 * SPA-043/125 [is signed](https://www.google.com/maps/@-23.2376732,-45.3050466,3a,15y,31.84h,92.78t/data=!3m6!1e1!3m4!1sCiBm-JO2KWwhJOTkB5NZow!2e0!7i16384!8i8192).
 * SPA-046/125 is signed at the north end, but imagery may not be new enough to show signage at the south end (on the unpaved portion). Since there are no photos along the route, it's assumed to end where pavement does.
 * SPA-084/127 [is signed](https://www.google.com/maps/@-23.1244141,-47.7164213,3a,15.4y,77.91h,85.1t/data=!3m6!1e1!3m4!1synketLEGA2THqgbSdbfqwQ!2e0!7i16384!8i8192) despite municipal maintenance!
+* SPA-007/209 [is signed](https://www.google.com/maps/@-23.0116653,-48.5065781,3a,15y,147.3h,88.55t/data=!3m6!1e1!3m4!1sydzae-UaTybOx9zk9_RkdQ!2e0!7i16384!8i8192) (blue sign in the background).
