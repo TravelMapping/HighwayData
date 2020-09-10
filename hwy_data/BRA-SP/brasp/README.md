@@ -92,6 +92,14 @@ The following routes are not included due to apparent lack of signs:
 * SPA-247/225 (as of 2011)
 * SPA-277/225 (as of 2011)
 * SPA-036/226 (as of 2019, but no imagery along the actual route)
+* SPA-070/230 (no imagery available)
+* SPA-552/230 (as of 2019, but no imagery along the actual route)
+* SPA-022/245 (as of 2011)
+* SPA-026/245 (as of 2018)
+* SPA-010/249 (as of 2017, but no imagery along the actual route)
+* SPA-043/249 (as of 2011, but no imagery along the actual route)
+* SPA-111/249 (as of 2011)
+* SPA-112/249 (as of 2011, but no imagery along the actual route)
 * SPA-097/250 (as of 2019)
 * SPA-062/251 (Acesso Tarcillo Baroni, as of 2011)
 * SPA-133/255 (Acesso Cônego José Mendes de Abreu Jr., as of 2011)
@@ -99,8 +107,10 @@ The following routes are not included due to apparent lack of signs:
 * SPA-196/255 (to Rodrigues Alves, as of 2011)
 * SPA-198/255 (to São Manuel, as of 2011)
 * SPA-338/255 (to Coronel Macedo, as of 2011)
+* SPA-322/267 (as of 2011)
 * SPA-092/270 (municipal maintenance, as of 2019)
 * SPA-162/270 (as of 2019)
+* SP-275 (as of 2018)
 * SPA-360/294 (as of 2011)
 * SPA-157/300 (municipal maintenance, as of 2019)
 * SPA-201/304 (as of 2011)
@@ -135,7 +145,9 @@ Notes on routes:
 * SP-167 [is signed](https://www.google.com/maps/@-22.4128376,-46.9513354,3a,27.8y,85.48h,86.86t/data=!3m6!1e1!3m4!1soiWXbzvq6AZmNIUkYDZOLA!2e0!7i13312!8i6656) but not through Mogi Guaçu, so the end is at the border.
 * SP-189 bypasses Campina do Monte Alegre (using Rua Marcelina V. dos Santos) according to maps, but [signs (as of 2011)](https://www.google.com/maps/@-23.5580123,-48.4520605,3a,75y,321.41h,68.24t/data=!3m6!1e1!3m4!1sFEXSyyU6zKhRbr-2PDmWdQ!2e0!7i13312!8i6656) show that the bypass is locally maintained, and distance matches the through-town route.
 * SP-211 [is signed](https://www.google.com/maps/@-21.6525034,-46.8712168,3a,48.3y,358h,82.25t/data=!3m7!1e1!3m5!1svOSOVX_KnPijN2kj-FMfUg!2e0!5s20150601T000000!7i16384!8i8192).
+* SP-228 and SP-234 essentially intersect in a huge circle around downtown Itapecerica da Serra. One point is placed at the rough center.
 * SP-249 [is signed](https://www.google.com/maps/@-23.9994865,-48.8786124,3a,16.1y,205.19h,83.82t/data=!3m6!1e1!3m4!1s8MrOhh5DDaXdM9iHquMgAg!2e0!7i16384!8i8192) in Itapeva.
+* SP-261 [is signed](https://www.google.com/maps/@-23.206947,-49.238938,3a,18.9y,17.5h,88.27t/data=!3m6!1e1!3m4!1sA3QMA8BXyahTGI3abeXlvA!2e0!7i13312!8i6656).
 * SP-268 [is signed](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656) east of Capela do Alto.
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
 * SPA-052/031 [is signed](https://www.google.com/maps/@-23.688352,-46.3925401,3a,15y,34.25h,106.56t/data=!3m6!1e1!3m4!1sRyaEiBL2hLdKPXeffxIKAw!2e0!7i16384!8i8192).
