@@ -98,6 +98,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-026/245 (as of 2018)
 * SPA-010/249 (as of 2017, but no imagery along the actual route)
 * SPA-043/249 (as of 2011, but no imagery along the actual route)
+* SPA-045/249 (as of 2015)
 * SPA-111/249 (as of 2011)
 * SPA-112/249 (as of 2011, but no imagery along the actual route)
 * SPA-097/250 (as of 2019)
@@ -109,15 +110,23 @@ The following routes are not included due to apparent lack of signs:
 * SPA-251 (municipal maintenance)
 * SPA-062/251 (municipal maintenance, as of 2011)
 * SPA-065/251 (municipal maintenance, as of 2011)
+* SPA-014/253 (as of 2015)
+* SPA-193/253 (as of 2012)
+* SPA-194/253 (as of 2018)
+* SPA-197/253 (as of 2012)
 * SPA-133/255 (as of 2011)
 * SPA-138/255 (as of 2011)
+* SPA-179/255 (as of 2011)
 * SPA-196/255 (as of 2011)
 * SPA-198/255 (as of 2011)
+* SPA-214/255 (as of 2011)
+* SPA-258/255 (as of 2011)
 * SPA-338/255 (as of 2011)
 * SPA-322/267 (as of 2011)
 * SPA-092/270 (municipal maintenance, as of 2019)
 * SPA-162/270 (as of 2019)
 * SP-275 (as of 2018)
+* SPA-026/291 (as of 2018)
 * SPA-360/294 (as of 2011)
 * SPA-157/300 (municipal maintenance, as of 2019)
 * SPA-201/304 (as of 2011)
@@ -125,6 +134,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-227/304 (as of 2011)
 * SPI-194/308 (no imagery since the bypass was built)
 * SPA-200/310 (as of 2019, but no imagery along the actual route)
+* SPA-119/333 (as of 2018)
 * SPA-244/344 (as of 2015)
 
 Notes on routes:
@@ -169,3 +179,7 @@ Notes on routes:
 * SPA-046/125 is signed at the north end, but imagery may not be new enough to show signage at the south end (on the unpaved portion). Since there are no photos along the route, it's assumed to end where pavement does.
 * SPA-084/127 [is signed](https://www.google.com/maps/@-23.1244141,-47.7164213,3a,15.4y,77.91h,85.1t/data=!3m6!1e1!3m4!1synketLEGA2THqgbSdbfqwQ!2e0!7i16384!8i8192) despite municipal maintenance!
 * SPA-007/209 [is signed](https://www.google.com/maps/@-23.0116653,-48.5065781,3a,15y,147.3h,88.55t/data=!3m6!1e1!3m4!1sydzae-UaTybOx9zk9_RkdQ!2e0!7i16384!8i8192) (blue sign in the background).
+* SPA-069/255 [is signed](https://www.google.com/maps/@-21.7531989,-48.0730017,3a,15.3y,280.55h,100.78t/data=!3m6!1e1!3m4!1sRpT8v97KeLHn_XdPFtTH8g!2e0!7i16384!8i8192) (as of 2018) on what other sources show to be part of SP-257.
+* SPA-106/255 [was signed as SPA-105/255](https://www.google.com/maps/@-21.9403512,-48.3400779,3a,15.6y,308.47h,96.88t/data=!3m6!1e1!3m4!1sQmSeuQn6XEozqaYU1WBcMg!2e0!7i13312!8i6656) in 2011. Since other sources all show SPA-106/255, that is assumed to be the current designation.
+* SPA-115/255 [was signed as SPA-114/255](https://www.google.com/maps/@-22.0037561,-48.383964,3a,28.7y,146.17h,105.15t/data=!3m6!1e1!3m4!1sDanTSBN5UFTvTiTQCXCikA!2e0!7i13312!8i6656) in 2011. Other sources show SPA-115/255, but this is an extension of the "real" SPA-114/255, which is not signed on its segment, so the entire route is listed here as SPA-114/255.
+* SPA-004/257 [is signed](https://www.google.com/maps/@-21.7375108,-48.1041429,3a,18.2y,219.42h,81.18t/data=!3m6!1e1!3m4!1s6MpvhG4kSZh3yzMg11viCQ!2e0!7i13312!8i6656).
