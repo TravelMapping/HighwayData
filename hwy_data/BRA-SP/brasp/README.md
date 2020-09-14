@@ -164,7 +164,19 @@ The following routes are not included due to apparent lack of signs:
 * SPA-637/270 (as of 2011)
 * SPA-652/270 (municipal maintenance, as of 2018)
 * SPA-654/270 (municipal maintenance, as of 2018)
+* SPA-007/271 (as of 2019)
+* SPA-000/272 (as of 2012)
+* SPA-007/272 (as of 2012, but no imagery along the actual route)
+* SPA-041/272 (as of 2018)
+* SP-273 (as of 2015)
+* SP-274 east of SP-029 (as of 2019)
 * SP-275 (as of 2018)
+* 06 SPA-053/280 (as of 2019, but no imagery along the actual route)
+* SPA-054/280 (as of 2011)
+* SPA-116/280 (municipal maintenance, as of 2019)
+* SPA-216/280 (as of 2019)
+* SPA-039/281 (as of 2011, but no imagery along the actual route)
+* SPA-043/281 (as of 2011)
 * SPA-026/291 (as of 2018)
 * SPA-360/294 (as of 2011)
 * SPA-157/300 (municipal maintenance, as of 2019)
@@ -175,6 +187,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-200/310 (as of 2019, but no imagery along the actual route)
 * SPA-119/333 (as of 2018)
 * SPA-244/344 (as of 2015)
+* SPA-481/425 (as of 2018, but no imagery along the actual route)
 
 Notes on routes:
 * SP-023 [is signed](https://www.google.com/maps/@-23.3311657,-46.6881006,3a,15y,323.87h,85.55t/data=!3m6!1e1!3m4!1s5A4-ftmAyB5rGudEevLz_w!2e0!7i16384!8i8192). The east end is where maintenance and signage ends; the west end is a little sketchy due to a gap in maintenance through Franco da Rocha.
@@ -226,3 +239,4 @@ Notes on routes:
 * SPA-502/266's west end may be wrong due to lack of imagery.
 * SPA-142/270's south end may be wrong due to lack of imagery.
 * SPA-552/270's north end may be wrong.
+* SPA-032/280 [is signed](https://www.google.com/maps/@-23.5172741,-46.9216489,3a,37.1y,89.4h,90.8t/data=!3m6!1e1!3m4!1sl3-gLKTtY7PRULYVyEddXQ!2e0!7i16384!8i8192).
