@@ -206,7 +206,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-605/294 (as of 2011)
 * SPA-606/294 (as of 2011)
 * SPA-616/294 (as of 2019, but no imagery along the actual route)
-* SPA-627/294 (as of 2019)
+* SPA-627/294 (as of 2019) - but it's signed as leading to [SP-501](https://www.google.com/maps/@-21.5351603,-51.3494266,3a,17.6y,334.22h,91.18t/data=!3m6!1e1!3m4!1stKMCg-vTS9EvWnqxCQZiuA!2e0!7i16384!8i8192)
 * SPA-637/294 (municipal maintenance, as of 2011)
 * SPA-647/294 (as of 2012)
 * SPA-648/294 (as of 2012)
