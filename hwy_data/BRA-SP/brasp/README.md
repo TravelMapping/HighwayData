@@ -213,7 +213,14 @@ The following routes are not included due to apparent lack of signs:
 * SPA-658/294 (as of 2018)
 * SPA-675/294 (as of 2011, but no imagery along the actual route)
 * SPA-683/294 (as of 2018)
+* SPA-097/300 (as of 2019)
+* SPA-129/300 (as of 2019)
+* SPA-155/300 (as of 2019, but no imagery along the actual route)
 * SPA-157/300 (municipal maintenance, as of 2019)
+* SPA-159/300 (municipal maintenance, as of 2011)
+* SPA-176/300 (municipal maintenance, as of 2019)
+* SPA-196/300 (as of 2019)
+* SPA-241/300 (as of 2011)
 * SPA-201/304 (as of 2011)
 * SPA-223/304 (as of 2011, but no imagery along the actual route)
 * SPA-227/304 (as of 2011)
@@ -275,3 +282,5 @@ Notes on routes:
 * SPA-142/270's south end may be wrong due to lack of imagery.
 * SPA-552/270's north end may be wrong.
 * SPA-032/280 [is signed](https://www.google.com/maps/@-23.5172741,-46.9216489,3a,37.1y,89.4h,90.8t/data=!3m6!1e1!3m4!1sl3-gLKTtY7PRULYVyEddXQ!2e0!7i16384!8i8192).
+* SPA-172/300 [is signed](https://www.google.com/maps/@-23.0633737,-47.8221026,3a,15y,193.31h,88.76t/data=!3m6!1e1!3m4!1sqUewpf6CK5IH2HI9R10D6w!2e0!7i16384!8i8192).
+* There may be [an access road](https://www.google.com/maps/@-22.9434324,-48.3816025,3a,15y,170.72h,88.59t/data=!3m6!1e1!3m4!1sgsEoQ8hvviMEQGZn7a_EKg!2e0!7i16384!8i8192) off SP-300 towards Pardinho.
