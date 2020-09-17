@@ -1430,6 +1430,30 @@
 2017-01-09;Kosovo;E851;rks.e851;Route removed from N25 between R7 exit 5 and the N2, and relocated onto R7 and N9 between R7 exit 5 and the R6
 2016-12-31;Kosovo;R6;rks.r006;New route
 2015-07-15;Kosovo;R7 (Pristina);rks.r007pri;New route
+2020-09-15;Kyrgyzstan;EM01;kgz.em01;Route truncated at west end from Kazakhstan border to EM02 (formerly EM07) and extended at west end from EM02 to . Former section now EM02 and EM03.
+2020-09-15;Kyrgyzstan;EM02;kgz.em02;Route reentered. Old route now EM04 and EM05. New route formerly EM01 and EM07.
+2020-09-15;Kyrgyzstan;EM03;kgz.em03;Route reentered. Old route now EM06. New route formerly EM01.
+2020-09-15;Kyrgyzstan;EM04;kgz.em04;Route reentered. Old route now EM07. New route formerly EM02.
+2020-09-15;Kyrgyzstan;EM05;kgz.em05;Route reentered. Old route now EM08 and EM09. New route formerly EM02.
+2020-09-15;Kyrgyzstan;EM06;kgz.em06;Route reentered. Old route now EM10. New route formerly EM03.
+2020-09-15;Kyrgyzstan;EM07;kgz.em07;Route reentered. Old route now EM11. New route formerly EM04.
+2020-09-15;Kyrgyzstan;EM08;kgz.em08;Route added (formerly EM05).
+2020-09-15;Kyrgyzstan;EM09;kgz.em09;Route reentered. Old route now EM14. New route formerly EM05.
+2020-09-15;Kyrgyzstan;EM10;kgz.em10;Route added (formerly EM06).
+2020-09-15;Kyrgyzstan;EM11;kgz.em11;Route reentered. Old route now EM15. New route formerly EM07.
+2020-09-15;Kyrgyzstan;EM12 (Jalal-Abad);kgz.em12;Route added.
+2020-09-15;Kyrgyzstan;EM12 (Kazarman);kgz.em12kaz;Route added.
+2020-09-15;Kyrgyzstan;EM13;kgz.em13;Route reentered. Old route now EM16.
+2020-09-15;Kyrgyzstan;EM14;kgz.em14;Route reentered. Old route now EM17. New route formerly EM09.
+2020-09-15;Kyrgyzstan;EM15;kgz.em15;Route added (formerly EM11).
+2020-09-15;Kyrgyzstan;EM16;kgz.em16;Route reentered. Old route now EM18. New route formerly EM13.
+2020-09-15;Kyrgyzstan;EM17;kgz.em17;Route added (formerly EM14).
+2020-09-15;Kyrgyzstan;EM18;kgz.em18;Route added (formerly EM16).
+2020-09-15;Kyrgyzstan;EM19;kgz.em19;Route added.
+2020-09-15;Kyrgyzstan;EM20;kgz.em20;Route added.
+2020-09-15;Kyrgyzstan;EM21;kgz.em21;Route added.
+2020-09-15;Kyrgyzstan;EM22;kgz.em22;Route added.
+2020-09-15;Kyrgyzstan;EM23;kgz.em23;Route added.
 2020-09-02;Kyrgyzstan;EM13 (Kek Tash);kgz.em13;Route deleted (merged into main EM13)
 2020-09-02;Kyrgyzstan;EM13 (Isfana);kgz.em13;Route deleted (merged into main EM13)
 2015-07-15;Kyrgyzstan;E010;kgz.e010;Truncated route at south end from Uzbek border to southern junction with M41
@@ -2141,6 +2165,8 @@
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2020-09-15;Romania;A3 (Oradea);rou.a003ora;New Route
+2020-09-15;Romania;DNVO2T;rou.dnvo2t;New Route
 2020-01-07;Romania;DN58;rou.dn058;Extended north to Caransebes Bypass (DN6)
 2020-01-07;Romania;E70;rou.e70;Routed on Caransebes Bypass, it was before routed through the town
 2020-01-07;Romania;DN6;rou.dn006;Routed on Caransebes Bypass, it was before routed through the town
@@ -2417,7 +2443,7 @@
 2019-09-17;(Spain) Community of Madrid;M501;espmd.m501;Route extended at west end from eastern junction with M855 to border with Castile and Leon
 2019-09-02;(Spain) Community of Madrid;A6;espmd.a006;Route extended at east end from exit 6 to Avenida de los Reyes Catolicos
 2019-08-31;(Spain) Extremadura;N523;espex.n523;New Route
-2019-09-14;(Spain) Galicia;Acceso ao polígono de San Cibrao das Viñas;espga.vg0031;Route added
+2020-09-14;(Spain) Galicia;Acceso ao polígono de San Cibrao das Viñas;espga.vg0031;Route added
 2019-10-16;(Spain) Galicia;Acceso A Veiga;espga.vg0016;Route added
 2019-10-16;(Spain) Galicia;Acceso Balaidos;espga.po010vig;Route added
 2019-10-16;(Spain) Galicia;Acceso Sardiñeiro;espga.vg0014;Route added
@@ -3221,6 +3247,11 @@
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2020-09-14;(USA) Colorado;CO 40 (Limon);;Route deleted
+2020-09-14;(USA) Colorado;CO 128 (The Ranch);;Route deleted
+2020-09-14;(USA) Colorado;CO 67 (Victor);;Route deleted
+2020-09-14;(USA) Colorado;CO 67 (Woodland Park);co.co067;Route merged with CO 67 (Victor)
+2020-09-14;(USA) Colorado;CO 128;co.co128;Route merged with CO 128 (The Ranch)
 2020-09-05;(USA) Colorado;CO 233;;Route deleted
 2020-09-05;(USA) Colorado;CO 227;;Route deleted
 2020-09-05;(USA) Colorado;US 50 Business (Pueblo);co.us050buspue;Rerouted onto I-25 between Exits 99B and 98A
@@ -4610,6 +4641,10 @@
 2015-08-11;(USA) Wyoming;US 310;wy.us310;Route truncated at east end from eastern junction with US14/16 to (formerly western) junction with US14/16
 2015-08-03;(USA) Wyoming;US 14;wy.us014;Route removed from I-90 and relocated onto I-90 Business Loop through Sundance, between I-90 exit 185 and I-90 exit 189
 2015-08-03;(USA) Wyoming;US 87 Business (Buffalo);wy.us087busbuf;Route rerouted at north end off of East Hart Street between the eastern junction with US16 and I-25 and relocated onto North Main Street between the eastern junction with US16 and I-90
+2020-09-15;Uzbekistan;AH7;uzb.ah007;Route removed from Kokand city and onto Kokand bypass between A373_KokE and A373_KokW
+2020-09-15;Uzbekistan;A373 (main);uzb.a373;Route truncated at west end from R1 to A373Tas and extended at west end from A373Tas to M34/M39
+2020-09-15;Uzbekistan;A373 (Kokand (loop));uzb.a373kok;Route added
+2020-09-15;Uzbekistan;A373 (Tashkent (branch));uzb.a373tas;Route added
 2015-07-15;Uzbekistan;E004;uzb.e004;Reentered route
 2015-07-15;Uzbekistan;E004 (Tashkent);;Deleted route
 2015-07-15;Uzbekistan;E010;;Deleted route
