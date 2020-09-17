@@ -224,6 +224,11 @@ The following routes are not included due to apparent lack of signs:
 * SPA-258/300 (as of 2011)
 * SPA-270/300 (as of 2011)
 * SPA-283/300 (as of 2011)
+* SPA-323/300 (municipal maintenance, as of 2015)
+* SPA-326/300 (municipal maintenance, as of 2015)
+* SPA-396/300 (as of 2018, but no imagery along the actual route)
+* SPA-425/300 (municipal maintenance, as of 2011)
+* 01 SPA-568/300 (as of 2011)
 * SPA-201/304 (as of 2011)
 * SPA-223/304 (as of 2011, but no imagery along the actual route)
 * SPA-227/304 (as of 2011)
@@ -231,6 +236,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-200/310 (as of 2019, but no imagery along the actual route)
 * SPA-119/333 (as of 2018)
 * SPA-244/344 (as of 2015)
+* SPA-183/387 (as of 2018)
 * SPA-373/425 (as of 2012)
 * SPA-481/425 (as of 2018, but no imagery along the actual route)
 
@@ -264,6 +270,8 @@ Notes on routes:
 * SP-261 [is signed](https://www.google.com/maps/@-23.206947,-49.238938,3a,18.9y,17.5h,88.27t/data=!3m6!1e1!3m4!1sA3QMA8BXyahTGI3abeXlvA!2e0!7i13312!8i6656).
 * SP-266's west end may be wrong due to lack of imagery.
 * SP-268 [is signed](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656) east of Capela do Alto.
+* SP-300 is closed to all traffic west of BR-262.
+
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
 * SPA-052/031 [is signed](https://www.google.com/maps/@-23.688352,-46.3925401,3a,15y,34.25h,106.56t/data=!3m6!1e1!3m4!1sRyaEiBL2hLdKPXeffxIKAw!2e0!7i16384!8i8192).
 * SPA-058/031 [is signed](https://www.google.com/maps/@-23.6433758,-46.3216465,3a,15y,100.14h,81.93t/data=!3m6!1e1!3m4!1sU7JpdrhaB6Ls1BjYOUqS0g!2e0!7i16384!8i8192).
@@ -287,3 +295,7 @@ Notes on routes:
 * SPA-032/280 [is signed](https://www.google.com/maps/@-23.5172741,-46.9216489,3a,37.1y,89.4h,90.8t/data=!3m6!1e1!3m4!1sl3-gLKTtY7PRULYVyEddXQ!2e0!7i16384!8i8192).
 * SPA-172/300 [is signed](https://www.google.com/maps/@-23.0633737,-47.8221026,3a,15y,193.31h,88.76t/data=!3m6!1e1!3m4!1sqUewpf6CK5IH2HI9R10D6w!2e0!7i16384!8i8192).
 * There may be [an access road](https://www.google.com/maps/@-22.9434324,-48.3816025,3a,15y,170.72h,88.59t/data=!3m6!1e1!3m4!1sgsEoQ8hvviMEQGZn7a_EKg!2e0!7i16384!8i8192) off SP-300 towards Pardinho.
+* SPA-397/300's south end may be wrong.
+* SPA-483/300 [is signed](https://www.google.com/maps/@-21.4769048,-50.0802699,3a,15y,4.64h,87.28t/data=!3m6!1e1!3m4!1sxXF_3dYDK1iVq9_P38fhVg!2e0!7i16384!8i8192) despite being locally maintained!
+* SPA-624/300 was not signed as of 2011, but is assumed to be signed now based on all the other nearby accesses.
+* SPA-653/300 was not signed as of 2011, but is assumed to be signed now based on all the other nearby accesses.
