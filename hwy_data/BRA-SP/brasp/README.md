@@ -240,6 +240,8 @@ The following routes are not included due to apparent lack of signs:
 * SPA-363/304 (as of 2018, but no imagery along the actual route)
 * SPA-365/304 (as of 2011)
 * SPA-394/304 (as of 2018)
+* SPA-016/305 (as of 2011)
+* SPA-117/308 (municipal maintenance, as of 2015)
 * SPI-194/308 (no imagery since the bypass was built)
 * SPA-200/310 (as of 2019, but no imagery along the actual route)
 * SPA-119/333 (as of 2018)
