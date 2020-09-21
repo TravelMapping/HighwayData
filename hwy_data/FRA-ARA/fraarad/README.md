@@ -14,8 +14,10 @@ FRA-07 = `Arc` = Ardèche
 FRA-15 = `Can` = Cantal
 FRA-26 = `Dro` = Drôme
 FRA-38 = `Ise` = Isère
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(38) (edit url for other routes)
 FRA-42 = `Loi` = Loire
 FRA-43 = `HLo` = Haute-Loire
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(43) (edit url for other routes)
 FRA-63 = `PdD` = Puy-de-Dôme
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(63) (edit url for other routes)
 FRA-69 = `Rho` = Rhône
@@ -26,10 +28,21 @@ FRA-74 = `HSa` = Haute-Savoie
 
 
 **NOTES TO ROUTES:**
+*FRA-38 - Isère:*
+- `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
+- `D41I` should be `D41L` according to wikisara and GM but it is clearly signed as `D41I` on GSV. OSM confirms it. Note: upper case letters are generally used.
+- `D63I` should be `D65L` according to wikisara and GM but it is clearly signed as `D65I` on GSV - with lower case `i`. OSM confirms it. Only exception with lower case index.
+- `D208` should extend through Bourgoin-Jallieu according to wikisara and GM but OSM indicates it being `D522` and 2019 GSV doesn't show anything being signed.
+
+*FRA-43 - Haute-Loire:*
+- The second `D9` segment south of Saint-Bonnet-le-Froid must belong to the ARA Ardeche departement (fraarad07). `D9` is signed at the junction and there is a `Info Ardeche` sign along the route.
+- The second `D45` segment in the south of the departement (OSM + GM, no GSV available) seems to belong to OCC Lozère departement (fraoccd48)
+
 *FRA-63 - Puy-de-Dôme:*
 - Some route segments will be dedicated as M routes (not yet considered when drafting routes!)
 - wikisara articles are rare but OSM + GM look good
 - `D80` is signed on km posts till 1km north of `D983` but as `D80A` at `D983` junction, drafted as `D80` only
+- `D224D` is indicated being `D224E` on OSM and GM; `D224D` is confirmed by 2012 GSV
 
 *FRA-73 - Savoie:*
 - OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV

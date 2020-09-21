@@ -129,7 +129,7 @@ gbna;SCT;A87;;;;sct.a0087;
 gbna;SCT;A88;;;;sct.a0088;
 gbna;SCT;A89;;;;sct.a0089;
 gbna;SCT;A90;;Edi;Edinburgh;sct.a0090edi;
-gbna;SCT;A90;;;Aberdeen;sct.a0090;A90Pet,A90Dyc
+gbna;SCT;A90;;;Aberdeen;sct.a0090;
 gbna;SCT;A91;;;;sct.a0091;
 gbna;SCT;A92;;;;sct.a0092;
 gbna;SCT;A93;;;;sct.a0093;
@@ -344,7 +344,8 @@ gbna;ENG;A302;;;;eng.a0302;
 gbna;ENG;A303;;;;eng.a0303;
 gbna;ENG;A304;;;;eng.a0304;
 gbna;ENG;A305;;;;eng.a0305;
-gbna;ENG;A306;;;;eng.a0306;
+gbna;ENG;A306;;;Barnes;eng.a0306;
+gbna;ENG;A306;;Ham;Hammersmith;eng.a0306ham;
 gbna;ENG;A307;;;;eng.a0307;
 gbna;ENG;A308;;Ful;Fulham;eng.a0308ful;
 gbna;ENG;A308;;;Staines-upon-Thames;eng.a0308;
@@ -585,7 +586,7 @@ gbna;ENG;A501;;;;eng.a0501;
 gbna;ENG;A502;;;;eng.a0502;
 gbna;ENG;A503;;;;eng.a0503;
 gbna;ENG;A504;;;;eng.a0504;
-gbna;ENG;A505;;;;eng.a0505;A505Dun
+gbna;ENG;A505;;;;eng.a0505;
 gbna;ENG;A505;;Tho;Thorn (spur);eng.a0505tho;
 gbna;ENG;A506;;;;eng.a0506;
 gbna;ENG;A507;;;;eng.a0507;
@@ -642,7 +643,7 @@ gbna;ENG;A551;;;;eng.a0551;
 gbna;ENG;A552;;;;eng.a0552;
 gbna;ENG;A553;;;;eng.a0553;
 gbna;ENG;A554;;;;eng.a0554;
-gbna;ENG;A555;;;;eng.a0555;A555Air
+gbna;ENG;A555;;;;eng.a0555;
 gbna;ENG;A556;;;;eng.a0556;
 gbna;ENG;A557;;;;eng.a0557;
 gbna;ENG;A558;;;;eng.a0558;
@@ -1157,7 +1158,7 @@ gbna;ENG;A1169;;;;eng.a1169;
 gbna;ENG;A1170;;;;eng.a1170;
 gbna;ENG;A1171;;;;eng.a1171;
 gbna;ENG;A1172;;;;eng.a1172;
-gbna;ENG;A1173;;;;eng.a1173;A1173Imm
+gbna;ENG;A1173;;;;eng.a1173;
 gbna;ENG;A1174;;;;eng.a1174;
 gbna;ENG;A1175;;;;eng.a1175;
 gbna;ENG;A1176;;;;eng.a1176;
@@ -1208,8 +1209,8 @@ gbna;ENG;A1303;;;;eng.a1303;
 gbna;ENG;A1304;;;;eng.a1304;
 gbna;ENG;A1305;;;;eng.a1305;
 gbna;ENG;A1306;;;;eng.a1306;
-gbna;ENG;A1307;;Hun;Huntingdon;eng.a1307hun;A14Hun
-gbna;ENG;A1307;;;Cambridge;eng.a1307;A1307Fen
+gbna;ENG;A1307;;Hun;Huntingdon;eng.a1307hun;
+gbna;ENG;A1307;;;Cambridge;eng.a1307;
 gbna;ENG;A1308;;;;eng.a1308;
 gbna;ENG;A1309;;;;eng.a1309;
 gbna;ENG;A1311;;;;eng.a1311;
@@ -1549,7 +1550,7 @@ gbna;ENG;A4185;;;;eng.a4185;
 gbna;ENG;A4189;;;;eng.a4189;
 gbna;ENG;A4193;;;;eng.a4193;
 gbna;ENG;A4196;;;;eng.a4196;
-gbna;ENG;A4198;;;;eng.a4198;ThaDr
+gbna;ENG;A4198;;;;eng.a4198;
 gbna;ENG;A4200;;;;eng.a4200;
 gbna;ENG;A4201;;;;eng.a4201;
 gbna;ENG;A4202;;;;eng.a4202;
@@ -1775,7 +1776,7 @@ gbna;ENG;A5203;;;;eng.a5203;
 gbna;ENG;A5204;;;;eng.a5204;
 gbna;ENG;A5205;;;;eng.a5205;
 gbna;ENG;A5206;;;;eng.a5206;
-gbna;ENG;A5207;;;;eng.a5207;A5207Kir
+gbna;ENG;A5207;;;;eng.a5207;
 gbna;ENG;A5208;;;;eng.a5208;
 gbna;ENG;A5209;;;;eng.a5209;
 gbna;ENG;A5223;;;;eng.a5223;
@@ -1851,7 +1852,7 @@ gbna;ENG;A6051;;;;eng.a6051;
 gbna;ENG;A6052;;;;eng.a6052;
 gbna;ENG;A6053;;;;eng.a6053;
 gbna;ENG;A6055;;Kna;Knaresborough;eng.a6055kna;
-gbna;ENG;A6055;;;Leeming;eng.a6055;A6136Bro
+gbna;ENG;A6055;;;Leeming;eng.a6055;
 gbna;ENG;A6060;;;;eng.a6060;
 gbna;ENG;A6061;;;;eng.a6061;
 gbna;ENG;A6062;;;;eng.a6062;
@@ -1929,6 +1930,7 @@ gbna;ENG;A6192;;;;eng.a6192;
 gbna;ENG;A6193;;;;eng.a6193;
 gbna;ENG;A6194;;;;eng.a6194;
 gbna;ENG;A6195;;;;eng.a6195;
+gbna;ENG;A6196;;;;eng.a6196;
 gbna;ENG;A6200;;;;eng.a6200;
 gbna;ENG;A6201;;;;eng.a6201;
 gbna;ENG;A6211;;;;eng.a6211;
