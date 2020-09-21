@@ -224,6 +224,7 @@ turd;TUR;Turkey Devlet Yolları;green;4;active
 tuna;TUN;Tunisia Autoroutes;blue;1;active
 twnf;CHN;Taiwan National Freeways;blue;1;active
 ukrm;UKR;Ukraine Mezdunarodnyj;lightsalmon;4;active
+uryrn;URY;Uruguay Rutas Nacionales;green;4;active
 usai;USA;United States Interstate Highways;blue;1;active
 usaib;USA;United States Business Interstate Highways;green;2;active
 usaif;USA;United States Future Interstate Highways;teal;3;active
@@ -323,6 +324,8 @@ fraarad43;FRA;Haute-Loire Routes Départementales;yellow;5;preview
 fraarad63;FRA;Puy-de-Dôme Routes Départementales;yellow;5;preview
 fraarad73;FRA;Savoie Routes Départementales;yellow;5;preview
 fraarad74;FRA;Haute-Savoie Routes Départementales;yellow;5;preview
+frabfcd25;FRA;Doubs Routes Départementales;yellow;5;preview
+frabfcd39;FRA;Jura Routes Départementales;yellow;5;preview
 fragesd08;FRA;Ardennes Routes Départementales;yellow;5;preview
 fragesd10;FRA;Aube Routes Départementales;yellow;5;preview
 fragesd52;FRA;Haute-Marne Routes Départementales;yellow;5;preview
@@ -369,12 +372,11 @@ ttomr;TTO;Trinidad & Tobago Main Roads;brown;4;preview
 tunrn;TUN;Tunisia Routes Nationales;green;4;preview
 tzat;TZA;Tanzania Trunk Roads;green;4;preview
 ugam;UGA;Uganda Motorways;blue;1;preview
-uryrn;URY;Uruguay Rutas Nacionales;green;4;preview
 usaal;USA;Alabama State Highways;brown;4;preview
 usaar;USA;Arkansas State Highways;brown;4;preview
 usaas;USA;American Samoa Territorial Highways;brown;4;preview
 usaca;USA;California State Highways;brown;4;preview
-usafl;USA;Florida State Highways;brown;4;preview
+usafl;USA;Florida State Highways;brown;4;active
 usala;USA;Louisiana State Highways;brown;4;preview
 usanyp;USA;New York Parkways;teal;2;preview
 usapr;USA;Puerto Rico Territorial Highways;brown;4;preview
@@ -397,16 +399,14 @@ cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 codn;COD;DRC Routes Nationale;green;4;devel
 #cuba;CUB;Cuba Autopista;blue;1;devel
 #ecue;ECU;Ecuador Primerias Red Vial Estatal;green;4;devel
-#fraarad03;FRA;Allier Routes Départementales;yellow;5;devel
+fraarad03;FRA;Allier Routes Départementales;yellow;5;devel
 #fraarad07;FRA;Ardèche Routes Départementales;yellow;5;devel
 #fraarad15;FRA;Cantal Routes Départementales;yellow;5;devel
 #fraarad26;FRA;Drôme Routes Départementales;yellow;5;devel
 #fraarad42;FRA;Loire Routes Départementales;yellow;5;devel
 #fraarad69;FRA;Rhône Routes Départementales;yellow;5;devel
 #frabfcd21;FRA;Côte-d’Or Routes Départementales;yellow;5;devel
-frabfcd25;FRA;Doubs Routes Départementales;yellow;5;devel
-#frabfcd39;FRA;Jura Routes Départementales;yellow;5;devel
-#frabfcd58;FRA;Nièvre Routes Départementales;yellow;5;devel
+frabfcd58;FRA;Nièvre Routes Départementales;yellow;5;devel
 frabfcd70;FRA;Haute-Saône Routes Départementales;yellow;5;devel
 #frabfcd71;FRA;Saône-et-Loire Routes Départementales;yellow;5;devel
 #frabfcd89;FRA;Yonne Routes Départementales;yellow;5;devel
@@ -429,6 +429,9 @@ frahdfd02;FRA;Aisne Routes Départementales;yellow;5;devel
 #frapdld;FRA;Pays-de-la-Loire Routes Départementales;yellow;5;devel
 #frapacd;FRA;Provence-Alpes-Côte-d’Azur Routes Départementales;yellow;5;devel
 #irqf;IRQ;Iraq Freeways
+indah;IND;Asian Highways (redraft);red;3;devel
+#indnh;IND;India National Highways;green;3;devel
+indwb;IND;West Bengal State Highways;yellow;4;devel
 #jamb;JAM;Jamaica B Roads;yellow;5;devel
 #mexdn;MEX;Mexico Federal Expressways (new);blue;1;devel
 #mexedn;MEX;Mexico State Expressways (new);teal;3;devel
