@@ -243,7 +243,12 @@ The following routes are not included due to apparent lack of signs:
 * SPA-016/305 (as of 2011)
 * SPA-117/308 (municipal maintenance, as of 2015)
 * SPI-194/308 (no imagery since the bypass was built)
+* SPA-193/310 (as of 2020, but no imagery along the actual route)
 * SPA-200/310 (as of 2019, but no imagery along the actual route)
+* SPA-271/310 (as of 2017)
+* SPA-301/310 (as of 2012)
+* 06 SPA-364/310 (as of 2015)
+* 08 SPA-364/310 (as of 2015, but no imagery along the actual route)
 * SPA-119/333 (as of 2018)
 * SPA-244/344 (as of 2015)
 * SPA-183/387 (as of 2018)
@@ -309,3 +314,5 @@ Notes on routes:
 * SPA-483/300 [is signed](https://www.google.com/maps/@-21.4769048,-50.0802699,3a,15y,4.64h,87.28t/data=!3m6!1e1!3m4!1sxXF_3dYDK1iVq9_P38fhVg!2e0!7i16384!8i8192) despite being locally maintained!
 * SPA-624/300 was not signed as of 2011, but is assumed to be signed now based on all the other nearby accesses.
 * SPA-653/300 was not signed as of 2011, but is assumed to be signed now based on all the other nearby accesses.
+* SPA-341/310 [appears to be signed](https://www.google.com/maps/@-21.4133618,-48.6854137,3a,15y,352.72h,91.14t/data=!3m6!1e1!3m4!1sXIqjSjZ_9_Ct5dlNzOyX2g!2e0!7i13312!8i6656). The east end may be wrong due to lack of imagery.
+* SPA-348/310's east end may be wrong.
