@@ -316,3 +316,4 @@ Notes on routes:
 * SPA-653/300 was not signed as of 2011, but is assumed to be signed now based on all the other nearby accesses.
 * SPA-341/310 [appears to be signed](https://www.google.com/maps/@-21.4133618,-48.6854137,3a,15y,352.72h,91.14t/data=!3m6!1e1!3m4!1sXIqjSjZ_9_Ct5dlNzOyX2g!2e0!7i13312!8i6656). The east end may be wrong due to lack of imagery.
 * SPA-348/310's east end may be wrong.
+* SPA-402/310 [is signed](https://www.google.com/maps/@-21.1003689,-49.1768081,3a,16.9y,70.52h,86.64t/data=!3m6!1e1!3m4!1sy2Eqi5LUOEYVpccwE4UXlw!2e0!7i13312!8i6656).
