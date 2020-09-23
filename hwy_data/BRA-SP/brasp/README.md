@@ -249,6 +249,17 @@ The following routes are not included due to apparent lack of signs:
 * SPA-301/310 (as of 2012)
 * 06 SPA-364/310 (as of 2015)
 * 08 SPA-364/310 (as of 2015, but no imagery along the actual route)
+* SPA-424/310 (as of 2020)
+* SPA-482/310 (no imagery available)
+* SPA-492/310 (as of 2018, but no imagery along the actual route)
+* SPA-498/310 (as of 2011, but no imagery along the actual route)
+* SPA-499/310 (as of 2011, but no imagery along the actual route)
+* SPA-508/310 (as of 2011, but no imagery along the actual route)
+* SPA-520/310 (municipal maintenance, as of 2011)
+* SPA-555/310 (as of 2011)
+* SPA-565/310 (as of 2011)
+* SPA-605/310 (as of 2011, but no imagery along the actual route)
+* SPA-621/310 (as of 2018)
 * SPA-119/333 (as of 2018)
 * SPA-244/344 (as of 2015)
 * SPA-183/387 (as of 2018)
@@ -317,3 +328,5 @@ Notes on routes:
 * SPA-341/310 [appears to be signed](https://www.google.com/maps/@-21.4133618,-48.6854137,3a,15y,352.72h,91.14t/data=!3m6!1e1!3m4!1sXIqjSjZ_9_Ct5dlNzOyX2g!2e0!7i13312!8i6656). The east end may be wrong due to lack of imagery.
 * SPA-348/310's east end may be wrong.
 * SPA-402/310 [is signed](https://www.google.com/maps/@-21.1003689,-49.1768081,3a,16.9y,70.52h,86.64t/data=!3m6!1e1!3m4!1sy2Eqi5LUOEYVpccwE4UXlw!2e0!7i13312!8i6656).
+* SPA-430/310 is locally maintained and [mis-signed](https://www.google.com/maps/@-20.8704045,-49.3249814,3a,19.1y,107.16h,82.94t/data=!3m6!1e1!3m4!1sOy6kRFwEuWOVO9iO4_QcGg!2e0!7i16384!8i8192) as SP-430.
+* SPI-627/310 [is signed](https://www.google.com/maps/@-20.6032514,-51.122967,3a,15y,263.47h,83.99t/data=!3m6!1e1!3m4!1shJReYsavF5z9V9XWamsivQ!2e0!7i16384!8i8192).
