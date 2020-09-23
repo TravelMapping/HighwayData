@@ -260,6 +260,8 @@ The following routes are not included due to apparent lack of signs:
 * SPA-565/310 (as of 2011)
 * SPA-605/310 (as of 2011, but no imagery along the actual route)
 * SPA-621/310 (as of 2018)
+* SPA-029/312 (municipal maintenance, as of 2019)
+* SPA-053/312 (as of 2019)
 * SPA-119/333 (as of 2018)
 * SPA-244/344 (as of 2015)
 * SPA-183/387 (as of 2018)
