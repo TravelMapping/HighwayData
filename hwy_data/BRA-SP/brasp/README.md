@@ -262,6 +262,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-621/310 (as of 2018)
 * SPA-029/312 (municipal maintenance, as of 2019)
 * SPA-053/312 (as of 2019)
+* SPA-020/315 (as of 2011)
 * SPA-119/333 (as of 2018)
 * SPA-244/344 (as of 2015)
 * SPA-183/387 (as of 2018)
@@ -299,6 +300,7 @@ Notes on routes:
 * SP-266's west end may be wrong due to lack of imagery.
 * SP-268 [is signed](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656) east of Capela do Alto.
 * SP-300 is closed to all traffic west of BR-262.
+* SP-316's north end may be slightly off.
 
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
 * SPA-052/031 [is signed](https://www.google.com/maps/@-23.688352,-46.3925401,3a,15y,34.25h,106.56t/data=!3m6!1e1!3m4!1sRyaEiBL2hLdKPXeffxIKAw!2e0!7i16384!8i8192).
