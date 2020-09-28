@@ -1,7 +1,7 @@
 List of islth routes with notes:
 
 1	  Done. Revised 2019-02-08 to reflect Vaðlaheiðargöng opening.
-22	Unsigned (assumed)
+22	Done. Confirmed signed by new streetview imagery.
 25	Done
 26	Done
 30	Done
@@ -76,8 +76,9 @@ List of islth routes with notes:
 219	Done
 221	Done
 222	Done
-239	Unsigned (assumed)
-240	Unsigned (assumed)
+238 Added 2020-09-27. Not on Vegagerdin map but confirmed signed by new streetview imagery.
+239	Done. Confirmed signed by new streetview imagery.
+240 Done. Confirmed signed by new streetview imagery.
 242	Done
 243	Done
 245	Done
@@ -150,7 +151,8 @@ List of islth routes with notes:
 365	Done
 366	Done. Unnumbered on Vegagerdin map, assumed to end at end of road.
 367 Done
-374	Done
+370 Added 2020-09-27 as a result of TH1 twinning and TH374 reroute.
+374	Done. Revised 2020-09-27 as a result of TH1 twinning.
 375	Done. Unnumbered on Vegagerdin map, assumed to end where map shows federal maintenance ending.
 376	Unsigned
 379	Unsigned
