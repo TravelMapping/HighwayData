@@ -391,8 +391,8 @@
 2019-01-06;Denmark;SR565;dnk.sr565;New Route
 2019-01-06;Denmark;SR265;dnk.sr265;Route removed from through Næstved (Østre Ringvej and Ny Præstøvej) and onto Ring Syd and Vordingborgvej
 2019-01-06;Denmark;O2 (Roskilde);dnk.sro2ros;Route extended onto Østre Ringvej
-2019-01-06;Denmark;O2 (Næstved);dnk.sro2nae;Route extended to a full ring around Næstved
-2019-01-06;Denmark;O2 (Næstved (Ring Øst));dnk.sro2nae;Merged into main route
+2019-01-06;Denmark;O2 (Næstved);dnk.sro2nas;Route extended to a full ring around Næstved
+2019-01-06;Denmark;O2 (Næstved (Ring Øst));dnk.sro2nas;Merged into main route
 2019-01-01;Denmark;O2 (København);dnk.pro2kob;Route removed from through Hellerup (Tuborgvej, Strandvejen and Strandpromenaden), onto Helsingørmotorvejen and Nordhavnsvej
 2019-01-01;Denmark;SR225;dnk.sr225;Route removed from through Vig and onto northern bypass from Ravensbjergvej to Holækvej
 2018-09-30;Denmark;Holstebromotorvejen;dnk.holmothol;Route extended at north end from exit 20 to Hjermvej
@@ -403,7 +403,7 @@
 2017-11-27;Denmark;Holstebromotorvejen;dnk.holmothol;New Route
 2017-11-27;Denmark;PR18;dnk.pr018;Route removed from Hovedvejen and relocated onto Holstebromotorvejen between SR502 and exit 20
 2017-05-30;Denmark;Messemotorvejen (Vest Herning);dnk.mesmotves;New Route
-2016-10-31;Denmark;O2 (Næstved);dnk.pro2nae;New Route
+2016-10-31;Denmark;O2 (Næstved);dnk.sro2nas;New Route
 2016-10-31;Denmark;PR14;dnk.pr014;Route truncated at south end from PR22 junction to PR54/O2 junction
 2016-10-31;Denmark;PR54;dnk.pr054;Route removed from Køgevej between Ringstedgade and O2, and relocated onto Ring Nord between O2_E and PR22
 2016-09-11;Denmark;Herningmotorvejen;dnk.hermot;Route extended at east end from exit 33 to Edwin Rahrs Vej
@@ -632,6 +632,9 @@
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2020-10-01;(Germany) Baden-Württemberg;L555;deubw.l0555;Route truncated at west end from B35 Rheinsheim interchange to roundabout between Phillipsburg and Oberhausen (K3537/K3588), and reextended to B35 Huttenheim interchange
+2020-10-01;(Germany) Baden-Württemberg;L602 (Philippsburg);deubw.l0555;Route deleted (L555 now)
+2020-10-01;(Germany) Baden-Württemberg;L602;deubw.l0602;Route relocated from through Huttenheim and onto new bypass from east of Rußheim to B35 Huttenheim interchange
 2020-08-24;(Germany) Baden-Württemberg;L92;deubw.l0092;Route relocated at west end from Straßburger Straße to Poststraße in Oppenau
 2020-08-18;(Germany) Baden-Württemberg;L200 (Überlingen);;Route deleted
 2020-08-18;(Germany) Baden-Württemberg;L200 (Main);deubw.l0200;Route truncated at south end from B31 west of Überlingen to B31n north of Überlingen
@@ -665,6 +668,8 @@
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2020-10-01;(Germany) Bavaria;B85 (Kronach);deuby.b085;Merged into main route
+2020-10-01;(Germany) Bavaria;B85;deuby.b085;Route extended at north end from Pegnitz Thuringian border
 2020-08-14;(Germany) Bavaria;B16 (Bertoldshofen);deuby.b016ber;New Route
 2020-07-17;(Germany) Bavaria;St2094;deuby.b304;Route relocated from through Obing and onto new bypass from Rumersham to St2094 east of Obing
 2020-07-17;(Germany) Bavaria;St2094;deuby.st2094;Route extended at north end from Altenmarkter Straße to new B304 Obing bypass
