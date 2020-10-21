@@ -498,6 +498,7 @@
 2020-07-09;(France) Centre-Val de Loire;E60;fracvl.e60;Route removed from D751 and D37 and relocated onto A85 and A10 between A85 exit 9 and A10 exit 24
 2020-07-09;(France) Centre-Val de Loire;E604;fracvl.e604;Route truncated at west end from A85 exit 9 to A10
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
+2020-10-18;(France) Grand-Est;Rocade Nord de Reims;frages.rnr;New Route
 2019-12-29;(France) Grand-Est;Voie Sacrée;frages.nvs;Route extended at south end from N135 to D935
 2019-11-08;(France) Grand-Est;N19;frages.n019;Re-entered route (swapped with BFC file to be in correct regions)
 2020-06-07;(France) Île-de-France;N1;fraidf.d030195;Route removed (D301-95 now)
@@ -1772,6 +1773,10 @@
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2020-10-12;Poland;S5;pol.s005;Route extended at north end from exit 19 to exit 16
+2020-10-12;Poland;E261;pol.e261;Route removed from former DK5 and relocated onto S5 between S5 exits 19 and 16
+2020-10-12;Poland;DK5 (Szubin);pol.dk005szu;Route truncated at south end from DW251_E to S5 exit 16
+2020-10-12;Poland;DW247;pol.dw247;Route truncated at east end from DW246 to Ulica Kcynska and extended at east end from Ulica Kcynska to S5
 2020-08-14;Poland;A2 (Mińsk Mazowiecki);pol.a002min;Route extended at west end from former temporary terminus at DK2 west of Mińsk Mazowiecki to exit 33
 2020-08-14;Poland;S17;pol.s017;Route extended at north end from exit 1 to exit 2
 2020-08-14;Poland;E30;pol.e30;Route removed from DK92 and relocated onto DK17 and A2 between DK2/17 junction and former A2 temporary terminus at DK2 west of Mińsk Mazowiecki
@@ -2166,6 +2171,8 @@
 2015-10-17;Poland;S8 (Warsaw);pol.s008war;Route extended at west end from A2 to (new) western junction with DK7 and DK8
 2015-10-17;Poland;S8 (Zabki);pol.s008zab;New Route
 2015-10-17;Poland;S91;pol.s091;New Route
+2020-10-18;Portugal;A26 (Santa Margarida do Sádão);prt.a026mar;New Route
+2020-10-18;Portugal;IP8 (Beja);prt.ip008;Route relocated from through Santa Margarida do Sádão and onto new A26 from west of Santa Margarida do Sádão to junction to Canhestros
 2017-07-29;Portugal;A16;prt.a016;Route truncated at east end from Estrada da Correia to exit 15
 2017-07-29;Portugal;A34;prt.ic008;Route renumbered IC8
 2017-07-29;Portugal;A35;prt.ic012;Route renumbered IC12
@@ -3228,6 +3235,8 @@
 2018-12-26;(USA) Alaska;Walter J. Hickel Parkway;ak.hicpkwy;Route added (includes parts of Minnesota Dr. and O'Malley Rd. in Anchorage)
 2019-03-04;(USA) Alaska;McCarthy Road;ak.mccarrd;Route added in Wrangell-St. Elias NP
 2019-03-04;(USA) Alaska;Nabesna Road;ak.nabrd;Route added in Wrangell-St. Elias NP
+2020-10-11;(USA) Arizona;US191;az.us191;Relocated off of former temporary alignment through Morenci Copper Mine and onto new alignment through the mine
+2020-10-11;(USA) Arizona;AZ202;az.az202;Route extended from 40th Street on the south side of Phoenix across new South Mountain Freeway to I-10 on the west side of Phoenix.
 2018-08-31;(USA) Arizona;AZ287;az.az287;Route truncated at west end from AZ 84/AZ 387 to I-10
 2017-05-17;(USA) Arizona;US180;az.us180;Route truncated at north end from East Rim Drive to the boundary of Grand Canyon National Park
 2017-05-17;(USA) Arizona;US89 Temp;;Route deleted
@@ -3270,6 +3279,7 @@
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2020-10-19;(USA) California;I-710;ca.i710;South end (old waypoint 1A) truncated about 0.2 mi. from Ocean Blvd. to new waypoint 1A, then extended southwest about 2 mi. from new 1A to CA 47 over replacement for now-closed Gerald Desmond Bridge. Waypoint 1B relocated from Ocean Blvd. to interchange with Shoreline Dr.
 2020-01-14;(USA) California;Los Patrones Parkway;ca.lospatpkwy;Route added
 2020-01-14;(USA) California;US 395;ca.us395;In Kramer Junction, waypoint CA58 relocated about 0.3 mile north, from OldHwy58 to new CA 58 junction
 2019-10-11;(USA) California;I-5 Truck (Newhall);ca.i005trknew;Route added
@@ -3498,6 +3508,9 @@
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2020-10-20;(USA) Kentucky;KY 3022;ky.ky3022;Route deleted
+2020-10-20;(USA) Kentucky;KY 52;ky.ky0052;Removed from Copperhead Rd and Richmond Rd through Paint Lick and relocated onto eastern bypass between CopRd and relocated KY21 waypoint
+2020-10-20;(USA) Kentucky;KY 21;ky.ky0021;Extended at west end along former KY 52 to relocated KY52 waypoint north of Paint Lick
 2020-09-28;(USA) Kentucky;I-66 Fut (Bowling Green);ky.cumpkwy;Route deleted (former route followed Cumberland Pkwy)
 2020-09-28;(USA) Kentucky;KY 74 Truck (Middlesboro);ky.ky0074trkmid;Route added
 2020-09-28;(USA) Kentucky;KY 434;ky.ky0434;Truncated at west end from Wilson Rd to US31W
@@ -4120,6 +4133,7 @@
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2020-10-20;(USA) Ohio;OH 207;oh.oh207;Route extended at south end from US 23 to OH 159
 2020-09-28;(USA) Ohio;I-75 Business (Troy);;Route deleted
 2020-09-28;(USA) Ohio;OH 15 Truck (Defiance);oh.oh015trkdef;Route renamed from OH 15 Alternate Truck (Defiance)
 2020-09-28;(USA) Ohio;OH 18 Truck (Defiance);oh.oh018trkdef;Route renamed from OH 18 Alternate Truck (Defiance)
@@ -4160,6 +4174,7 @@
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2020-10-18;(USA) Oklahoma;Kickapoo Turnpike;ok.kiktpk;Route added
 2020-03-07;(USA) Oklahoma;John Kilpatrick Turnpike;ok.johnkiltpk;West end truncated from 15th St to I-40, then extended past 15th St on new alignment to OK 152.
 2019-07-07;(USA) Oklahoma;US 270;ok.us270;Removed from Boren Blvd and Broadway Ave and relocated onto OK 9 and Harvey Rd (former OK 270A) between OK3E West and Broadway Ave.
 2019-07-07;(USA) Oklahoma;OK 3E;ok.ok003e;Removed from Boren Blvd and Broadway Ave and relocated onto OK 9 and US 377 between US 270 West and US 270 East.
