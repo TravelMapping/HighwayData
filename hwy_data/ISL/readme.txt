@@ -233,7 +233,7 @@ List of islth routes with notes:
 570	Done
 572	Done
 573	Unsigned
-574	Donehttps://www.youtube.com/channel/UC2A0ucPGn9DirZ4lUEGiYYQ
+574	Done https://www.youtube.com/channel/UC2A0ucPGn9DirZ4lUEGiYYQ
 576	Done. Signed from 54, unnumbered on Vegagerdin map. Assumed to end where Vegagerdin map shows federal maintenance ending.
 577	Done
 578ske	Done(Skeljaháls)
@@ -264,6 +264,7 @@ List of islth routes with notes:
 623	Unsigned
 624	Done
 625	Done
+626 Added 2020-10-27 as a result of TH60 reroute.
 627	Unsigned
 629 Not known if signed but unnumbered on Vegagerdin map, so omitted. Will add if signage in field is confirmed.
 630	Done
