@@ -17,6 +17,9 @@ FRA-80 = `Som` = Somme
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_de_la_Somme_(80) [very incomplete]
 
 **NOTES TO ROUTES:**
+*FRA-20 - Aisne:*
+- General note: OSM is often wrong compared to 2018 or 2019 GSV; If "old" e.g. 2010 GSV is also available, there is usually no change in signage. That means, I'd also trust 2009 or 2010 GSV even when only this is available.
+
 *FRA-80 - Somme:*
 - OSM often indicates wrong numbers or misses many D routes (especially `D2xx`) which are clearly visible on GM and on 2018 or 2019 GSV - routes added according to GSV; it seems that the routes are newly dedicated as D routes
 - `D4929` was still signed according to 2015 GSV (OSM+GM confirm it) but the signs were removed according to 2017 GSV
