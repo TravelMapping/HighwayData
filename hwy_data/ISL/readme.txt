@@ -157,9 +157,9 @@ List of islth routes with notes:
 376	Unsigned
 379	Unsigned
 380	Done. Signed from 39, unnumbered on Vegagerdin map. Assumed to end where map shows federal maintenance ending (road is barricaded closed at this point)
-402	Unsigned and not on Vegagerdin map
+402	Unsigned and not on Vegagerdin map (at Gardur) - new route added 2020-10-28, replaces part of old 417
 404	Unsigned and not on Vegagerdin map
-407	Done
+407	Done. Deleted 2020-10-28, now part of 417.
 408	Done
 410	Done. Not on Vegagerdin map. Signed both ways from 412 junction but no signage east of here. Assumed to end at Austurkor (next junction).
 411	Done. Discontinuous eastern segment is unsigned. Construction is underway to connect the two segments. Will need to determine if signage is extended.
@@ -168,7 +168,7 @@ List of islth routes with notes:
 414	Unsigned
 415	Done
 416	Unsigned
-417	Done
+417	Done. Truncated and moved 2020-10-28.
 418	Unsigned
 420	Done
 421	Done
