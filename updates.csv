@@ -308,6 +308,8 @@
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2020-11-07;Czechia;II602;cze.ii602;Route relocated from through Nové Domky and Velký Beranov, and onto new bypass
+2020-11-07;Czechia;II353;cze.ii353;Route truncated at west end from old II602 in Velký Beranov to new II602 bypass north of Velký Beranov
 2020-09-21;Czechia;I16;cze.i016;Route relocated from through Ješín and onto bypass from Žižice (III24031) to east of Ješín
 2020-08-14;Czechia;II298;cze.ii298;Route relocated from through Opočno and onto bypass from Hradecká west of Opočno center to Dobrušská east of Opočno
 2020-06-25;Czechia;I21;cze.i021;Route relocated from through Bezděkov and onto bypass from III2002 north of Bezděkov to south of  Bezděkov
@@ -381,6 +383,7 @@
 2015-11-13;Czechia;R6 (Bošov);cze.r006bos;New Route
 2015-07-28;Czechia;Městský Okruh;cze.mo;New Route
 2015-07-28;Czechia;R43;cze.r043;New Route
+2020-11-07;Denmark;PR34;dnk.pr034;Route relocated from through Haderup and onto new bypass from south of Haderup to Herningvej junction north of PR16
 2020-10-26;Denmark;SR557;dnk.sr557;New Route
 2020-08-21;Denmark;SR537;dnk.sr537;New Route
 2020-08-21;Denmark;SR181;dnk.sr181;Route truncated at north end from old ferry terminal in Thyborøn (Harboørevej) to entrance of new ferry terminal and reextended to new ferry terminal (Sydhavnsvej)
@@ -499,12 +502,22 @@
 2019-10-31;(France) Auvergne-Rhône-Alpes;N7;fraara.n007;Route relocated from through Villeneuve-sur-Allier and onto bypass from D707_ViN to D707_ViS
 2019-10-31;(France) Auvergne-Rhône-Alpes;Autoroute du Soleil, Lyon;fraara.autsol;Route added
 2019-11-08;(France) Bourgogne-Franche-Comté;N19;frabfc.n019;Re-entered route (swapped with GES file to be in correct regions)
+2020-11-08;(France) Centre-Val de Loire;D403-77;fracvl.d040377;New Route
 2020-07-09;(France) Centre-Val de Loire;E60;fracvl.e60;Route removed from D751 and D37 and relocated onto A85 and A10 between A85 exit 9 and A10 exit 24
 2020-07-09;(France) Centre-Val de Loire;E604;fracvl.e604;Route truncated at west end from A85 exit 9 to A10
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
+2020-11-08;(France) Grand-Est;D14E-77;frages.d0014e77;New Route
+2020-11-08;(France) Grand-Est;D108-77;frages.d010877;New Route
+2020-11-08;(France) Grand-Est;D934-77;frages.d093477;New Route
 2020-10-18;(France) Grand-Est;Rocade Nord de Reims;frages.rnr;New Route
 2019-12-29;(France) Grand-Est;Voie Sacrée;frages.nvs;Route extended at south end from N135 to D935
 2019-11-08;(France) Grand-Est;N19;frages.n019;Re-entered route (swapped with BFC file to be in correct regions)
+2020-11-08;(France) Île-de-France;D934-77 (Saint-Martin-du-Boschet);fraidf.d093451;Route removed (D934-51 now)
+2020-11-08;(France) Île-de-France;D838-95 (Congerville-Thionville-North);;Route removed (D838-28 now)
+2020-11-08;(France) Île-de-France;D838-95 (Congerville-Thionville-South);;Route removed (D838-28 now)
+2020-11-08;(France) Île-de-France;D301-95 (Ronquerolles);;Route removed (D1001-60 now)
+2020-11-08;(France) Île-de-France;D105-95;;Route removed (D105-60 now)
+2020-11-08;(France) Île-de-France;D924-95;fraidf.d092495;Route truncated at east end from the border to Hauts-de-France to D603
 2020-06-07;(France) Île-de-France;N1;fraidf.d030195;Route removed (D301-95 now)
 2019-11-15;(France) Île-de-France;N1;fraidf.n001;Route truncated at north end from A16/N184 to D78 (replaced by new A16 route)
 2019-11-15;(France) Île-de-France;A16;fraidf.a016;Route extended at south end from N184 to N104
@@ -1024,6 +1037,7 @@
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2020-11-04;Hungary;M76;hun.m076;New Route
 2020-09-05;Hungary;E60;hun.e60;Route relocated from F42 and onto F47 and M4 between Berettyóújfalu and the Romanian border
 2020-09-05;Hungary;E79;hun.e79;Route relocated from F47 and F42 and onto M4 between M4 exit 215 and the Romanian border
 2020-09-04;Hungary;M4 (Berettyóújfalu);hun.m004;Route extended at east end from exit 215 to the Romanian border
@@ -1455,9 +1469,14 @@
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E123;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E125;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan (Alekseevka);E125;;Deleted route
-2018-10-13;Korea;AH1;kor.ah001;New Route
-2018-10-13;Korea;AH6;kor.ah006;New Route
-2018-05-15;Korea;Ex29;kor.ex029;New Route
+2020-11-07;Korea, South;Ex17 (Goyang);kor.ex017goy;Route added
+2020-11-07;Korea, South;Ex20 (Jeonju);kor.ex020jeo;Route truncated at west end from exit 1 to Ex204 (route now Ex204)
+2020-11-07;Korea, South;Ex204;kor.ex204;Route added
+2020-11-07;Korea, South;Ex400 (Deojeong);kor.e400deo;Route added
+2020-11-07;Korea, South;Ex400 (Incheon);kor.e400inc;Route added
+2018-10-13;Korea, South;AH1;kor.ah001;New Route
+2018-10-13;Korea, South;AH6;kor.ah006;New Route
+2018-05-15;Korea, South;Ex29;kor.ex029;New Route
 2020-04-19;Kosovo;E80;rks.e80;Route removed from N2 and N25 and relocated onto R7 between R7/N2 and R7/N25
 2019-06-03;Kosovo;R6;rks.r006;Route extended at south end from exit 5 to exit 6
 2019-06-03;Kosovo;E65;rks.e65;Route removed from N2 and relocated onto R6 between R6 exits 5 and 6
@@ -2696,6 +2715,7 @@
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2020-11-07;Sweden;E10;swe.e10;Route relocated from through Kiruna and onto new bypass Lokstallet and Tuolluvaara
 2020-10-03;Sweden;R34;swe.r034;Route relocated onto new alignment between Motala (E1089 junction) and Borensberg (Husbyvägen junction)
 2020-08-10;Sweden;Nord-Sydaxel, Stockholm;swe.nordsyd;New Route
 2020-08-10;Sweden;Roslagsvägen, Stockholm;swe.rosvag;New Route
@@ -2937,6 +2957,8 @@
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2020-10-31;(UK) England;A1307 (Cambridge);eng.a1307;Route extended at north end from A1198 to Pathfinder Link Road
+2020-10-31;(UK) England;B2007;eng.b2007;Route extended at south end from A249/A250 junction to southern junction with Rushenden Road
 2020-08-14;(UK) England;A306 (Barnes);eng.a0306;Route truncated at north end from A219/A315 junction to Riverview Gardens
 2020-08-14;(UK) England;A306 (Hammersmith);eng.a0306ham;Route added
 2020-07-03;(UK) England;A6196;eng.a6196;Route added
@@ -3396,6 +3418,8 @@
 2017-03-03;(USA) Hawaii;HI 3800;hi.hi3800;Route added
 2015-12-26;(USA) Hawaii;HI 3000;hi.hi3000;Route added
 2015-11-17;(USA) Hawaii;HI 380;hi.hi380;Route relocated from closed Dairy Rd. segment between waypoints AirAccRd and PakSt_N, onto parts of Airport Access Rd. and Pakaula St.
+2020-11-03;(USA) Idaho;US 195 Spur (Lewiston);;Route deleted
+2020-11-03;(USA) Idaho;ID 71;id.id071;Route truncated at northern end from ID/OR border to east end of Snake River Bridge
 2020-01-18;(USA) Idaho;ID 79;;Route deleted
 2019-08-15;(USA) Idaho;ID 39;id.id039;Route extended at south end from intersection at Poactello Avenue to I-86 at exit 40
 2019-08-15;(USA) Idaho;US 95 Spur (Payette);;Route deleted
@@ -3523,7 +3547,9 @@
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
-2020-10-20;(USA) Kentucky;KY 3022;ky.ky3022;Route deleted
+2020-10-20;(USA) Kentucky;KY 2333;ky.ky2333;Route added
+2020-10-20;(USA) Kentucky;KY 3395;ky.ky3395;Route extended at west end along former KY 32 to circa-2018 KY 32 realignment
+2020-10-20;(USA) Kentucky;KY 3022;;Route deleted
 2020-10-20;(USA) Kentucky;KY 52;ky.ky0052;Removed from Copperhead Rd and Richmond Rd through Paint Lick and relocated onto eastern bypass between CopRd and relocated KY21 waypoint
 2020-10-20;(USA) Kentucky;KY 21;ky.ky0021;Extended at west end along former KY 52 to relocated KY52 waypoint north of Paint Lick
 2020-09-28;(USA) Kentucky;I-66 Fut (Bowling Green);ky.cumpkwy;Route deleted (former route followed Cumberland Pkwy)
@@ -3625,7 +3651,7 @@
 2018-01-12;(USA) Kentucky;US 68;ky.us068;Removed from Millersburg Rd, Main St, and Maysville Rd through Millersburg and relocated onto western bypass between MilRd & MayRd
 2018-01-12;(USA) Kentucky;US 150;ky.us150;Removed from Old Louisville Rd, Salt River Rd, and Kimbly Creek Rd south of Mount Washington and relocated onto new parallel alignment between OldLouRd & KY523_N
 2018-01-12;(USA) Kentucky;KY 7;ky.ky0007;Truncated at north end from 1st Ave to 5th Ave
-2018-01-12;(USA) Kentucky;KY 32;ky.ky0032;Removed from old alignment west of Louisa and relocated onto parallel alignment to the west between OldKY32_W & OldKY32_E
+2018-01-12;(USA) Kentucky;KY 32;ky.ky0032;Removed from old alignment west of Louisa and relocated onto parallel alignment to the west between OldKY32_W & KY3395
 2018-01-12;(USA) Kentucky;KY 48;ky.ky0048;Extended at west end to new alignment of US 31E/US 150 via Old Louisville Rd and a road parallel to Deerwood Dr
 2018-01-12;(USA) Kentucky;KY 393;ky.ky0393;Removed from Centerfield Dr and relocated onto new alignment to the west between CenDr_S & CenDr_N
 2018-01-12;(USA) Kentucky;KY 480;ky.ky0480;Waypoint for US 31E/US 150 moved to new alignment to west, waypoint at old eastern end now labeled KY523
@@ -3757,6 +3783,7 @@
 2017-06-09;(USA) Maryland;MD 351;;Deleted route
 2016-04-24;(USA) Maryland;MD 717;md.md717;Added route
 2015-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
+2020-10-31;(USA) Massachusetts;MA 140;ma.ma140;Relabeled exits from sequential to mileage-based. Exit 12 moved from MA 24 (now Exit 20) to County Rd (former Exit 9).
 2020-07-01;(USA) Massachusetts;MA 62;ma.ma062;Removed from Brook St and MA 70 and relocated onto Sterling St between Brook St and MA70/110.
 2020-04-28;(USA) Massachusetts;MA 88;ma.ma088;South end truncated from East Beach Rd to Cherry and Webb Ln.
 2020-04-28;(USA) Massachusetts;MA 133;ma.ma133;Removed from MA 114 and MA 125 and relocated onto Peters St between MA 114 and MA 125.
@@ -3979,6 +4006,7 @@
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2020-11-03;(USA) New York;NY 11A;ny.ny011a;South end truncated from US 11/NY 281 to NY 80.
 2020-10-28;(USA) New York;NY 17M;ny.ny017m;West end truncated from the NY 17 overpass on Sands Rd to the intersection of Sands Rd and Bloomingburg Rd.
 2020-10-28;(USA) New York;NY 17M;ny.ny017m;Removed from NY 17 between exits 124 and 125 and relocated onto North Connector Road.
 2020-10-28;(USA) New York;NY 272;ny.ny272;North end truncated from Salvation Army Camp Rd to Lake Ontario State Parkway.
@@ -4630,6 +4658,7 @@
 2018-01-01;(USA) Virginia;US 15 Alt (Farmville);va.us015altfar;New route
 2018-01-01;(USA) Virginia;VA 167;va.va167;New route
 2018-01-01;(USA) Virginia;VA 154 (Covington);;Route deleted
+2020-11-03;(USA) Washington;US 195 Spur (Uniontown);;Route deleted
 2019-08-15;(USA) Washington;WA 519;;Route deleted
 2019-07-27;(USA) Washington;WA 240 Business Loop (Richland);wa.wa240busric;Route added
 2019-02-04;(USA) Washington;WA 99;wa.wa099;Route moved off Alaskan Way Viaduct (now permanently closed) and into new SR 99 tunnel betweeen waypoints AlaWay (AtlSt) and AurAve (BroSt)
