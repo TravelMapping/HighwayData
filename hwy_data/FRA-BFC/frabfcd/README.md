@@ -26,4 +26,5 @@ FRA-90 = `TeB` = Territoire de Belfort
 
 *FRA-58 - Nièvre:*
 - `D39` seems to be maintained by Yonne departement, not drafted for Nièvre
+- `D197` through Saône-et-Loire is most likely maintained by Nièvre (included)
 - `D556` is indicated on OSM and GM but routing is not clear and there is no sign on 2009 - 2014 GSV, not drafted
