@@ -41,6 +41,7 @@ FRA-74 = `HSa` = Haute-Savoie
 
 *FRA-43 - Haute-Loire:*
 - The second `D9` segment south of Saint-Bonnet-le-Froid must belong to the ARA Ardeche departement (fraarad07). `D9` is signed at the junction and there is a `Info Ardeche` sign along the route.
+- `D12` through Loire seems to be maintained by Haute-Loire
 - The second `D45` segment in the south of the departement (OSM + GM, no GSV available) seems to belong to OCC Lozère departement (fraoccd48)
 
 *FRA-63 - Puy-de-Dôme:*
