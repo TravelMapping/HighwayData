@@ -34,6 +34,9 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D28` extends into Cher (departement 18 in CVL) more than once. The border sign is a little bit off the actual border and the pavement change is in CVL. Route extended to next junction at `D951`
 - `D951` of Cher (departement 18 in CVL) has a short segment in ARA but there are no signs at the border, no pavement change and a km post indicating km48, should belong to fracvld18 system
 
+*FRA-07 - Ardèche:*
+- `D51` might belong to departement Gard (30) in OCC - there are no signs at the border and both extensions into OCC are indicated as `D51`. However, `D52` had to be in OCC too because it is only connected to `D51` but its number changes at the border. Both drafted for Ardèche.
+
 *FRA-38 - Isère:*
 - `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
 - `D41I` should be `D41L` according to wikisara and GM but it is clearly signed as `D41I` on GSV. OSM confirms it. Note: upper case letters are generally used.
