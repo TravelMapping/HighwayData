@@ -12,6 +12,7 @@ FRA-01 = `Ain` = Ain
 FRA-03 = `All` = Allier
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(03) (edit url for other routes)
 FRA-07 = `Arc` = Ardèche
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D2_(07) (edit url for other routes)
 FRA-15 = `Can` = Cantal
 FRA-26 = `Dro` = Drôme
 FRA-38 = `Ise` = Isère
