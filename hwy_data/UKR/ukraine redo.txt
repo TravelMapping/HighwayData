@@ -1,17 +1,17 @@
 ###Dealt with###
 M01, M02, M08
-
+M15, 
 M20, M23, M24, M25, M26, M28, M29
-E38, E58Muk, E81, E101
-E391
+E38, E58Muk, E81, E87, E101
+E391, E573
 AvtKhaDni
 
 ##To Do##
 M03, M03Kha, M04, M05, M06, M07, M09
-M10, M11, M12, M13, M14, M15, M15Ode, M16, M17, M18, M19
+M10, M11, M12, M13, M14, M15Ode, M16, M17, M18, M19
 M21, M22, M27
-E40, E50, E58, E87Ode, E87, E95, E97, E105
-E372, E373, E471, E573, E581, E583, E584
+E40, E50, E58, E87Ode, E95, E97, E105
+E372, E373, E471, E581, E583, E584
 AvtKievBor
 
 ###Updates###
@@ -24,6 +24,7 @@ M27 - check routing
 
 ###POINTS###
 
+R72 http://www.openstreetmap.org/?lat=46.312746&lon=30.062982
 R69 http://www.openstreetmap.org/?lat=51.444566&lon=31.177697
 R56 http://www.openstreetmap.org/?lat=51.471172&lon=31.189499
 R67_W http://www.openstreetmap.org/?lat=51.137975&lon=31.668649
@@ -34,30 +35,30 @@ R60 http://www.openstreetmap.org/?lat=51.530993&lon=33.405647
 R65 http://www.openstreetmap.org/?lat=51.720621&lon=33.882995
 R44 http://www.openstreetmap.org/?lat=51.678363&lon=33.909924
 R79 http://www.openstreetmap.org/?lat=49.261503&lon=35.513391
-N09 http://www.openstreetmap.org/?lat=48.195645&lon=23.143258
-N13 http://www.openstreetmap.org/?lat=48.630618&lon=22.331965
+N33 http://www.openstreetmap.org/?lat=46.175076&lon=30.050869
 
 M20 M03 http://www.openstreetmap.org/?lat=50.101506&lon=36.268508
 M29 M03 http://www.openstreetmap.org/?lat=49.970656&lon=35.996962
 M29 M04 http://www.openstreetmap.org/?lat=48.589936&lon=35.153074
 
-M24 M06
 
 
 ###Notes###
-ukra - - tier 1
-ukrm - - tier 4
-ukrn - - tier 4
-ukrr - - tier 5
+ukra - tier 1 (former eursf routes)
+ukrm- tier 4
+ukrn - tier 4
+ukrr - tier 5
 
 ###E roads###
 	E38 Hlukiv - P65 - RUS
 E40 POL - M10 - M06 - M03 - M04 - RUS
 E50 SVK - M08 - M06 - M12 - M04 - M03 - RUS
-E58 SVK - M08 - M06 - R54 - M23 - R55 - ROU // ROU - M16 - M14 - RUS
-E81 Mukachevo - M24 - M23 - M26 - ROU
+	E58Muk SVK - M08 - M06 - M24 - M23 - M26 - ROU
+E58 ROU - M16 - M14 - RUS
+	E81 Mukachevo - M24 - M23 - M26 - ROU
 E85 BLR - M19 - ROU
-E87 Odessa - M15 - MDA // MDA - M15 - ROU
+E87Ode Odessa - M15 - MDA
+	E87 MDA - M15 - ROU
 E95 BLR - M01 - M05 - Odessa
 E97 Kherson - M17 - CYM
 E101 RUS - M02 - M01 - Kiev
@@ -66,7 +67,7 @@ E372 POL - M09 - Lviv
 E373 POL - M07 - Kiev
 	E391 Hlukiv - M02 - RUS
 E471 Lviv - M06 - Mukachevo
-E573 Uzhhorod - M06 - HUN
+	E573 Uzhhorod - M06 - HUN
 E581 MDA - M16 - Odessa
 E583 MDA - M21 - Zhytomyr
 E584 Poltava - M22 - M04 - M12 - M13 - MDA
