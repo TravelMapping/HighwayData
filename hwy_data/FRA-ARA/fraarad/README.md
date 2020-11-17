@@ -12,6 +12,7 @@ FRA-01 = `Ain` = Ain
 FRA-03 = `All` = Allier
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(03) (edit url for other routes)
 FRA-07 = `Arc` = Ardèche
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D2_(07) (edit url for other routes)
 FRA-15 = `Can` = Cantal
 FRA-26 = `Dro` = Drôme
 FRA-38 = `Ise` = Isère
@@ -29,6 +30,13 @@ FRA-74 = `HSa` = Haute-Savoie
 
 
 **NOTES TO ROUTES:**
+*FRA-03 - Allier:*
+- `D28` extends into Cher (departement 18 in CVL) more than once. The border sign is a little bit off the actual border and the pavement change is in CVL. Route extended to next junction at `D951`
+- `D951` of Cher (departement 18 in CVL) has a short segment in ARA but there are no signs at the border, no pavement change and a km post indicating km48, should belong to fracvld18 system
+
+*FRA-07 - Ardèche:*
+- `D51` might belong to departement Gard (30) in OCC - there are no signs at the border and both extensions into OCC are indicated as `D51`. However, `D52` had to be in OCC too because it is only connected to `D51` but its number changes at the border. Both drafted for Ardèche.
+
 *FRA-38 - Isère:*
 - `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
 - `D41I` should be `D41L` according to wikisara and GM but it is clearly signed as `D41I` on GSV. OSM confirms it. Note: upper case letters are generally used.
@@ -37,6 +45,7 @@ FRA-74 = `HSa` = Haute-Savoie
 
 *FRA-43 - Haute-Loire:*
 - The second `D9` segment south of Saint-Bonnet-le-Froid must belong to the ARA Ardeche departement (fraarad07). `D9` is signed at the junction and there is a `Info Ardeche` sign along the route.
+- `D12` through Loire seems to be maintained by Haute-Loire
 - The second `D45` segment in the south of the departement (OSM + GM, no GSV available) seems to belong to OCC Lozère departement (fraoccd48)
 
 *FRA-63 - Puy-de-Dôme:*
