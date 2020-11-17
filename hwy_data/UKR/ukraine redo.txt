@@ -1,14 +1,47 @@
-###Done###
-M01
+###Dealt with###
+M01, M02, M08
 
-###Passed over for now###
+M20, M23, M24, M25, M26, M28, M29
+E38, E58Muk, E81, E101
+E391
+AvtKhaDni
+
+##To Do##
+M03, M03Kha, M04, M05, M06, M07, M09
+M10, M11, M12, M13, M14, M15, M15Ode, M16, M17, M18, M19
+M21, M22, M27
+E40, E50, E58, E87Ode, E87, E95, E97, E105
+E372, E373, E471, E573, E581, E583, E584
+AvtKievBor
+
+###Updates###
+
+###Bits of dealt routes passed over for now###
 M01 - check route in Kiev
+M20 - does it extend into Kharkiv?
+M28 - does it form the Odessa bypass, rather than M14?
+M27 - check routing
 
 ###POINTS###
 
-
 R69 http://www.openstreetmap.org/?lat=51.444566&lon=31.177697
 R56 http://www.openstreetmap.org/?lat=51.471172&lon=31.189499
+R67_W http://www.openstreetmap.org/?lat=51.137975&lon=31.668649
+R67_E http://www.openstreetmap.org/?lat=51.138957&lon=31.862154
+R61 http://www.openstreetmap.org/?lat=51.327431&lon=32.891548
+R82 http://www.openstreetmap.org/?lat=51.405899&lon=33.073590
+R60 http://www.openstreetmap.org/?lat=51.530993&lon=33.405647
+R65 http://www.openstreetmap.org/?lat=51.720621&lon=33.882995
+R44 http://www.openstreetmap.org/?lat=51.678363&lon=33.909924
+R79 http://www.openstreetmap.org/?lat=49.261503&lon=35.513391
+N09 http://www.openstreetmap.org/?lat=48.195645&lon=23.143258
+N13 http://www.openstreetmap.org/?lat=48.630618&lon=22.331965
+
+M20 M03 http://www.openstreetmap.org/?lat=50.101506&lon=36.268508
+M29 M03 http://www.openstreetmap.org/?lat=49.970656&lon=35.996962
+M29 M04 http://www.openstreetmap.org/?lat=48.589936&lon=35.153074
+
+M24 M06
 
 
 ###Notes###
@@ -17,34 +50,8 @@ ukrm - - tier 4
 ukrn - - tier 4
 ukrr - - tier 5
 
-###NMP###
-ukr.e105 M14 (46.839763,35.372887) NMP ukr.e58 M18 (46.839646,35.372801) ukr.m014 M18 (46.839646,35.372801)
-ukr.e373 M08 (50.455373,30.357113) NMP ukr.e40 T1027 (50.455373,30.356941) ukr.m006 T1027 (50.455373,30.356941)
-ukr.e40 T1027 (50.455373,30.356941) NMP ukr.e373 M08 (50.455373,30.357113) ukr.m007 M06 (50.455373,30.357113)
-ukr.e58 M05/M15 (46.486456,30.614862) NMP ukr.e87ode M05 (46.486574,30.614605) ukr.m015ode M05 (46.486574,30.614605)
-ukr.e58 M17 (46.609002,32.845645) NMP ukr.e97 M14 (46.60912,32.845345) ukr.m017 M14 (46.60912,32.845345)
-ukr.e58 M18 (46.839646,35.372801) NMP ukr.e105 M14 (46.839763,35.372887) ukr.m018 M14 (46.839763,35.372887)
-ukr.e581 M05 (46.486456,30.614862) NMP ukr.e87ode M05 (46.486574,30.614605) ukr.m015ode M05 (46.486574,30.614605)
-ukr.e85 N10_E (48.323319,25.960983) NMP ukr.m019 KapUli (48.323444,25.961466)
-ukr.e87ode M05 (46.486574,30.614605) NMP ukr.e581 M05 (46.486456,30.614862) ukr.e58 M05/M15 (46.486456,30.614862) ukr.m014 M15/M16 (46.486456,30.614862) ukr.m016 M14/M15 (46.486456,30.614862) ukr.m027 M14/M15 (46.486456,30.614862)
-ukr.e95 M14 (46.476704,30.706701) NMP ukr.m005 M16 (46.476822,30.706615) ukr.m016 M05 (46.476822,30.706615)
-ukr.e97 M14 (46.60912,32.845345) NMP ukr.e58 M17 (46.609002,32.845645) ukr.m014 M17 (46.609002,32.845645)
-ukr.m005 M16 (46.476822,30.706615) NMP ukr.e95 M14 (46.476704,30.706701)
-ukr.m006 T1027 (50.455373,30.356941) NMP ukr.e373 M08 (50.455373,30.357113) ukr.m007 M06 (50.455373,30.357113)
-ukr.m007 M06 (50.455373,30.357113) NMP ukr.e40 T1027 (50.455373,30.356941) ukr.m006 T1027 (50.455373,30.356941)
-ukr.m014 M15/M16 (46.486456,30.614862) NMP ukr.e87ode M05 (46.486574,30.614605) ukr.m015ode M05 (46.486574,30.614605)
-ukr.m014 M17 (46.609002,32.845645) NMP ukr.e97 M14 (46.60912,32.845345) ukr.m017 M14 (46.60912,32.845345)
-ukr.m014 M18 (46.839646,35.372801) NMP ukr.e105 M14 (46.839763,35.372887) ukr.m018 M14 (46.839763,35.372887)
-ukr.m015ode M05 (46.486574,30.614605) NMP ukr.e581 M05 (46.486456,30.614862) ukr.e58 M05/M15 (46.486456,30.614862) ukr.m014 M15/M16 (46.486456,30.614862) ukr.m016 M14/M15 (46.486456,30.614862) ukr.m027 M14/M15 (46.486456,30.614862)
-ukr.m016 M05 (46.476822,30.706615) NMP ukr.e95 M14 (46.476704,30.706701)
-ukr.m016 M14/M15 (46.486456,30.614862) NMP ukr.e87ode M05 (46.486574,30.614605) ukr.m015ode M05 (46.486574,30.614605)
-ukr.m017 M14 (46.60912,32.845345) NMP ukr.e58 M17 (46.609002,32.845645) ukr.m014 M17 (46.609002,32.845645)
-ukr.m018 M14 (46.839763,35.372887) NMP ukr.e58 M18 (46.839646,35.372801) ukr.m014 M18 (46.839646,35.372801)
-ukr.m019 KapUli (48.323444,25.961466) NMP ukr.e85 N10_E (48.323319,25.960983)
-ukr.m027 M14/M15 (46.486456,30.614862) NMP ukr.e87ode M05 (46.486574,30.614605) ukr.m015ode M05 (46.486574,30.614605)
-
 ###E roads###
-E38 Hlukiv - M02 - RUS
+	E38 Hlukiv - P65 - RUS
 E40 POL - M10 - M06 - M03 - M04 - RUS
 E50 SVK - M08 - M06 - M12 - M04 - M03 - RUS
 E58 SVK - M08 - M06 - R54 - M23 - R55 - ROU // ROU - M16 - M14 - RUS
@@ -57,7 +64,7 @@ E101 RUS - M02 - M01 - Kiev
 E105 RUS - M20 - ... - M29 - ... - M18 - CYM
 E372 POL - M09 - Lviv
 E373 POL - M07 - Kiev
-E391 Hlukiv - M02 - RUS
+	E391 Hlukiv - M02 - RUS
 E471 Lviv - M06 - Mukachevo
 E573 Uzhhorod - M06 - HUN
 E581 MDA - M16 - Odessa
