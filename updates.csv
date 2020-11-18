@@ -3259,8 +3259,8 @@
 2015-07-24;(UK) Wales;A4046;wls.a4046;Route extended at north end from A4281 to A4047
 2015-07-24;(UK) Wales;A4281;wls.a4281;New Route
 2015-07-24;(UK) Wales;A5153;wls.a5153;Route extended at south end from A55 to B4545
-2020-11-17;Ukraine;E391;Route truncated at west end from R44 to R65
-2020-11-17;Ukraine;M26;Route truncated at west end from M23 to northern junction with E58 and E81, and extended at west end from northern junction with E58 and E81 to Hungarian border
+2020-11-17;Ukraine;E391;ukr.e391;Route truncated at west end from R44 to R65
+2020-11-17;Ukraine;M26;ukr.m026;Route truncated at west end from M23 to northern junction with E58 and E81, and extended at west end from northern junction with E58 and E81 to Hungarian border
 2016-01-05;Ukraine;Avtostrada Kharkiv - Dnipropetrovsk;ukr.avtkhadni;New Route
 2016-01-05;Ukraine;Avtostrada Kiev - Boryspil;ukr.avtkievbor;New Route
 2015-07-24;Ukraine;E105;ukr.e105;Route truncated at south end from Moskovska Vulytsia to the border with Crimea autonomous region
@@ -3548,6 +3548,7 @@
 2015-08-17;(USA) Iowa;IA 92;ia.ia092;Removed from Grandview Avenue/Mississippi Drive in Muscatine and rerouted onto US 61 and IA 38/Park Avenue in and around Muscatine
 2015-08-17;(USA) Iowa;US 34;ia.us034;Removed from road extending westward from I-29 exit 32 into Nebraska and moved onto new expressway extending west from I-29 exit 35 to Nebraska state line
 2015-08-17;(USA) Iowa;US 69;ia.us069;Renamed point IA152->CRR35
+2020-11-17;(USA) Kansas;Turner Diagonal;;Deleted route
 2020-03-08;(USA) Kansas;US 73 Truck (Leavenworth);;Deleted route
 2020-03-08;(USA) Kansas;KS 7 Truck (Leavenworth);;Deleted route
 2020-03-08;(USA) Kansas;KS 92 Truck (Leavenworth);;Deleted route
@@ -3555,9 +3556,15 @@
 2018-08-04;(USA) Kansas;KS 206;;Deleted route
 2017-04-25;(USA) Kansas;US 40;ks.us040;Removed from 6th Street and relocated onto KS 10 and US 59.
 2016-11-14;(USA) Kansas;KS 10;ks.ks010;Removed from US 59 and 23rd Street and relocated onto the South Lawrence Trafficway between its US 59 and 23rd Street interchanges
+2016-02-23;(USA) Kansas;Turner Diagonal;;Added route
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2020-11-17;(USA) Kentucky;US 421;ky.us421;Realigned junction with KY 499 into single point
+2020-11-17;(USA) Kentucky;KY 499;ky.ky0499;Realigned junction with US 421 into single point
+2020-11-17;(USA) Kentucky;KY 1629;ky.ky1629;Removed from Peachtree St and Ohler Rd and relocated onto Commonwealth Ave, Stinson Dr, US 25E, and World Dr between vacated segment of Peachtree St (at US 25E) and OhlRd_W point
+2020-11-17;(USA) Kentucky;KY 2792 (Bon);ky.ky2792bon;Route truncated at W end to point of road closure approx 0.75 mi west of western KY 92 junction
+2020-11-17;(USA) Kentucky;KY 3547;ky.ky3547;Route added
 2020-10-20;(USA) Kentucky;KY 2333;ky.ky2333;Route added
 2020-10-20;(USA) Kentucky;KY 3395;ky.ky3395;Route extended at west end along former KY 32 to circa-2018 KY 32 realignment
 2020-10-20;(USA) Kentucky;KY 3022;;Route deleted
@@ -4506,6 +4513,8 @@
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2020-11-17;(USA) Texas;TX Spur 97;tx.sp0097;North end truncated from TX 114/121 to the south entrance of DFW International Airport. This section is now available as International Parkway.
+2020-11-17;(USA) Texas;International Parkway;tx.intpkwy;Route added. Formerly incorrectly included as part of TX Spur 97.
 2020-09-20;(USA) Texas;TX 207;tx.tx207;Removed from demolished roadway and relocated eastward between points south and north of FM 146
 2020-09-20;(USA) Texas;TX 249;tx.tx249;North end truncated from FM 149 to the Woodtrace Boulevard interchange (segment redesignated as an extension of FM 1774), and then extended via the Aggie Expressway to FM 1488.
 2020-09-20;(USA) Texas;TX 289 Business (Prosper);tx.tx289buspro;Deleted
