@@ -3,35 +3,24 @@ M01, M02, M05, M06, M08, M09
 M10, M11, M14, M14Mel, M15Ode, M15, M16, M17, 
 M20, M23, M24, M25, M26, M28, M29
 E38, E58Muk, E58, E81, E87Ode, E87, E95, E97, E101
-E372, E391, E573, E581
+E372, E391, E471, E573, E581
 AvtKhaDni
 
 ##To Do##
 M03, M03Kha, M04, M07
-M12, M13, M18, M19
+M12, M13, M18, M18Kha, M19
 M21, M22, M27
 E40, E50, E105
-E373, E471, E583, E584
+E373, E583, E584
 AvtKievBor
 
 ###Updates###
-2020-11-22;Ukraine;E40;ukr.e40;Route removed from M06, ... and relocated onto T1027, M05 and M03 between M06/M07 and ...
-2020-11-22;Ukraine;M03 (Kharkiv);ukr.m003kha;Route deleted
-2020-11-22;Ukraine;M09;ukr.m009;Route extended at east end from eastern junction with M06 to M12
-2020-11-22;Ukraine;M14;ukr.m014;Route truncated at west end from M15/M16 junction to western junction with M28 and extended at west end from western junction with M28 to M05/M16 junction
-2020-11-22;Ukraine;M14 (Melitopol);ukr.m014mel;Route added
-2020-11-22;Ukraine;M20;ukr.m020;Route truncated at south end from M18 to M03
-2020-11-22;Ukraine;M24;ukr.m024;Route truncated at north end from M06 to northern junction with E58 and E81, and extended at north end from northern junction with E58 and E81 to western junction with M25
 2020-11-2x;Ukraine;M27;ukr.m027;Route truncated at north end from ... to ... and extended at north end from ... to ...
-2020-11-2x;Ukraine;M28;ukr.m028;Route extended at west end from western junction with M14 to N33
 
 ###Bits of dealt routes passed over for now###
-E40 - move to Kiev bypass
 M27 - check routing
 
 ###POINTS###
-
-
 N02 http://www.openstreetmap.org/?lat=49.782816&lon=30.201244
 N02 http://www.openstreetmap.org/?lat=50.121734&lon=25.211477
 N08 http://www.openstreetmap.org/?lat=47.099548&lon=37.507668
@@ -93,16 +82,6 @@ R82 http://www.openstreetmap.org/?lat=51.405899&lon=33.073590
 M20 M03 http://www.openstreetmap.org/?lat=50.101506&lon=36.268508
 M29 M03 http://www.openstreetmap.org/?lat=49.970656&lon=35.996962
 M29 M04 http://www.openstreetmap.org/?lat=48.589936&lon=35.153074
-
-
-
-
-
-###Notes###
-ukra - tier 1 (former eursf routes)
-ukrm- tier 4
-ukrn - tier 4
-ukrr - tier 5
 
 ###E roads###
 	E38 Hlukiv - P65 - RUS
