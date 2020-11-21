@@ -1,73 +1,107 @@
 ###Dealt with###
-M01, M02, M08
-M15, 
+M01, M02, M05, M06, M08, M09
+M10, M11, M14, M14Mel, M15Ode, M15, M16, M17, 
 M20, M23, M24, M25, M26, M28, M29
-E38, E58Muk, E81, E87, E101
-E391, E573
+E38, E58Muk, E58, E81, E87Ode, E87, E95, E97, E101
+E372, E391, E471, E573, E581
 AvtKhaDni
 
 ##To Do##
-M03, M03Kha, M04, M05, M06, M07, M09
-M10, M11, M12, M13, M14, M15Ode, M16, M17, M18, M19
+M03, M03Kha, M04, M07
+M12, M13, M18, M18Kha, M19
 M21, M22, M27
-E40, E50, E58, E87Ode, E95, E97, E105
-E372, E373, E471, E581, E583, E584
+E40, E50, E105
+E373, E583, E584
 AvtKievBor
 
 ###Updates###
+2020-11-2x;Ukraine;M27;ukr.m027;Route truncated at north end from ... to ... and extended at north end from ... to ...
 
 ###Bits of dealt routes passed over for now###
-M01 - check route in Kiev
-M20 - does it extend into Kharkiv?
-M28 - does it form the Odessa bypass, rather than M14?
 M27 - check routing
 
 ###POINTS###
+N02 http://www.openstreetmap.org/?lat=49.782816&lon=30.201244
+N02 http://www.openstreetmap.org/?lat=50.121734&lon=25.211477
+N08 http://www.openstreetmap.org/?lat=47.099548&lon=37.507668
+N09_N http://www.openstreetmap.org/?lat=49.768654&lon=24.106493
+N09_S http://www.openstreetmap.org/?lat=48.460102&lon=22.716122
+N10 http://www.openstreetmap.org/?lat=49.244949&lon=23.852981
+N11_W http://www.openstreetmap.org/?lat=46.974821&lon=31.986222
+N11_E http://www.openstreetmap.org/?lat=46.992936&lon=32.130954
+N13 http://www.openstreetmap.org/?lat=49.816575&lon=23.893032
+N14_S http://www.openstreetmap.org/?lat=47.015602&lon=31.996136
+N14_N http://www.openstreetmap.org/?lat=47.046448&lon=32.021778
+N17 http://www.openstreetmap.org/?lat=49.920449&lon=24.160995
+N20_W http://www.openstreetmap.org/?lat=47.108574&lon=37.553952
+N20_E http://www.openstreetmap.org/?lat=47.118263&lon=37.638431
+N22 http://www.openstreetmap.org/?lat=50.610451&lon=26.340880
+N24 http://www.openstreetmap.org/?lat=48.385727&lon=30.245705
+N24 http://www.openstreetmap.org/?lat=47.040277&lon=31.972039
+N25 http://www.openstreetmap.org/?lat=50.610451&lon=26.340880
+N25_S http://www.openstreetmap.org/?lat=50.563286&lon=26.215568
+N30 http://www.openstreetmap.org/?lat=46.804525&lon=36.659274
+N33 http://www.openstreetmap.org/?lat=46.175076&lon=30.050869
+N33 http://www.openstreetmap.org/?lat=46.442108&lon=30.624046
 
-R72 http://www.openstreetmap.org/?lat=46.312746&lon=30.062982
-R69 http://www.openstreetmap.org/?lat=51.444566&lon=31.177697
+R04 http://www.openstreetmap.org/?lat=49.718264&lon=30.196953
+R15 http://www.openstreetmap.org/?lat=50.068627&lon=23.981470
+R17 http://www.openstreetmap.org/?lat=49.841414&lon=30.158844
+R18 http://www.openstreetmap.org/?lat=49.421527&lon=30.130327
+R19 http://www.openstreetmap.org/?lat=50.142063&lon=30.237164
+R33 http://www.openstreetmap.org/?lat=46.736611&lon=29.979050
+R39 http://www.openstreetmap.org/?lat=50.069543&lon=25.166062
+R40 http://www.openstreetmap.org/?lat=50.233358&lon=23.621335
+R40 http://www.openstreetmap.org/?lat=49.798511&lon=23.380719
+R40 http://www.openstreetmap.org/?lat=49.911288&lon=23.394935
+R41 http://www.openstreetmap.org/?lat=49.572020&lon=25.499965
+R44 http://www.openstreetmap.org/?lat=51.678363&lon=33.909924
+R47_W http://www.openstreetmap.org/?lat=46.727264&lon=32.700704
+R47_E http://www.openstreetmap.org/?lat=46.723565&lon=33.705068
+R49 http://www.openstreetmap.org/?lat=50.612133&lon=27.590876
+R54 http://www.openstreetmap.org/?lat=48.136767&lon=30.302138
 R56 http://www.openstreetmap.org/?lat=51.471172&lon=31.189499
+R57 http://www.openstreetmap.org/?lat=46.630417&lon=32.740105
+R60 http://www.openstreetmap.org/?lat=51.530993&lon=33.405647
+R61 http://www.openstreetmap.org/?lat=51.327431&lon=32.891548
+R65 http://www.openstreetmap.org/?lat=46.698111&lon=30.903318
+R65 http://www.openstreetmap.org/?lat=51.720621&lon=33.882995
 R67_W http://www.openstreetmap.org/?lat=51.137975&lon=31.668649
 R67_E http://www.openstreetmap.org/?lat=51.138957&lon=31.862154
-R61 http://www.openstreetmap.org/?lat=51.327431&lon=32.891548
-R82 http://www.openstreetmap.org/?lat=51.405899&lon=33.073590
-R60 http://www.openstreetmap.org/?lat=51.530993&lon=33.405647
-R65 http://www.openstreetmap.org/?lat=51.720621&lon=33.882995
-R44 http://www.openstreetmap.org/?lat=51.678363&lon=33.909924
+R69 http://www.openstreetmap.org/?lat=51.444566&lon=31.177697
+R71_N http://www.openstreetmap.org/?lat=48.544239&lon=30.229343
+R71_S http://www.openstreetmap.org/?lat=47.262544&lon=30.309573
+R71 http://www.openstreetmap.org/?lat=46.557650&lon=30.707302
+R72 http://www.openstreetmap.org/?lat=46.312746&lon=30.062982
+R75 http://www.openstreetmap.org/?lat=47.939232&lon=30.308189
+R77 http://www.openstreetmap.org/?lat=50.615189&lon=26.656126
 R79 http://www.openstreetmap.org/?lat=49.261503&lon=35.513391
-N33 http://www.openstreetmap.org/?lat=46.175076&lon=30.050869
+R81 http://www.openstreetmap.org/?lat=46.720682&lon=32.714968
+R82 http://www.openstreetmap.org/?lat=51.405899&lon=33.073590
 
 M20 M03 http://www.openstreetmap.org/?lat=50.101506&lon=36.268508
 M29 M03 http://www.openstreetmap.org/?lat=49.970656&lon=35.996962
 M29 M04 http://www.openstreetmap.org/?lat=48.589936&lon=35.153074
-
-
-
-###Notes###
-ukra - tier 1 (former eursf routes)
-ukrm- tier 4
-ukrn - tier 4
-ukrr - tier 5
 
 ###E roads###
 	E38 Hlukiv - P65 - RUS
 E40 POL - M10 - M06 - M03 - M04 - RUS
 E50 SVK - M08 - M06 - M12 - M04 - M03 - RUS
 	E58Muk SVK - M08 - M06 - M24 - M23 - M26 - ROU
-E58 ROU - M16 - M14 - RUS
+	E58 ROU - M16 - M14 - RUS
 	E81 Mukachevo - M24 - M23 - M26 - ROU
 E85 BLR - M19 - ROU
-E87Ode Odessa - M15 - MDA
+	E87Ode Odessa - M15 - MDA
 	E87 MDA - M15 - ROU
-E95 BLR - M01 - M05 - Odessa
-E97 Kherson - M17 - CYM
-E101 RUS - M02 - M01 - Kiev
+	E95 BLR - M01 - M05 - Odessa
+	E97 Kherson - M17 - CYM
+	E101 RUS - M02 - M01 - Kiev
 E105 RUS - M20 - ... - M29 - ... - M18 - CYM
-E372 POL - M09 - Lviv
+	E372 POL - M09 - Lviv
 E373 POL - M07 - Kiev
 	E391 Hlukiv - M02 - RUS
 E471 Lviv - M06 - Mukachevo
 	E573 Uzhhorod - M06 - HUN
-E581 MDA - M16 - Odessa
+	E581 MDA - M16 - Odessa
 E583 MDA - M21 - Zhytomyr
 E584 Poltava - M22 - M04 - M12 - M13 - MDA
