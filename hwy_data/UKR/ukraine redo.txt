@@ -1,71 +1,109 @@
-###Dealt with###
-M01, M02, M05, M06, M08, M09
-M10, M11, M14, M14Mel, M15Ode, M15, M16, M17, 
-M20, M23, M24, M25, M26, M28, M29
-E38, E58Muk, E58, E81, E87Ode, E87, E95, E97, E101
-E372, E391, E471, E573, E581
-AvtKhaDni
-
 ##To Do##
-M03, M03Kha, M04, M07
-M12, M13, M18, M18Kha, M19
-M21, M22, M27
-E40, E50, E105
-E373, E583, E584
-AvtKievBor
+M07 / E373
+M19 / E85
+M21 / E583 (no extension on the E road)
 
 ###Updates###
-2020-11-2x;Ukraine;M27;ukr.m027;Route truncated at north end from ... to ... and extended at north end from ... to ...
-
-###Bits of dealt routes passed over for now###
-M27 - check routing
+2020-11-2x;Ukraine;M21;ukr.m021;Route extended at north end from ... to ...
 
 ###POINTS###
+N01 http://www.openstreetmap.org/?lat=48.710603&lon=32.719731
+N01 http://www.openstreetmap.org/?lat=50.400585&lon=30.560875
 N02 http://www.openstreetmap.org/?lat=49.782816&lon=30.201244
 N02 http://www.openstreetmap.org/?lat=50.121734&lon=25.211477
+N03 http://www.openstreetmap.org/?lat=49.360967&lon=26.962509
 N08 http://www.openstreetmap.org/?lat=47.099548&lon=37.507668
+N08 http://www.openstreetmap.org/?lat=47.785768&lon=35.236931
+N08 http://www.openstreetmap.org/?lat=50.339421&lon=30.971704
+N08_N http://www.openstreetmap.org/?lat=48.396328&lon=34.816189
+N08_S http://www.openstreetmap.org/?lat=48.441529&lon=34.956307
 N09_N http://www.openstreetmap.org/?lat=49.768654&lon=24.106493
 N09_S http://www.openstreetmap.org/?lat=48.460102&lon=22.716122
+N09_S http://www.openstreetmap.org/?lat=49.398347&lon=24.611081
+N09_N http://www.openstreetmap.org/?lat=49.409912&lon=24.609906
 N10 http://www.openstreetmap.org/?lat=49.244949&lon=23.852981
+N11 http://www.openstreetmap.org/?lat=48.304664&lon=34.414158
 N11_W http://www.openstreetmap.org/?lat=46.974821&lon=31.986222
 N11_E http://www.openstreetmap.org/?lat=46.992936&lon=32.130954
+N12 http://www.openstreetmap.org/?lat=49.567811&lon=34.450507
 N13 http://www.openstreetmap.org/?lat=49.816575&lon=23.893032
 N14_S http://www.openstreetmap.org/?lat=47.015602&lon=31.996136
 N14_N http://www.openstreetmap.org/?lat=47.046448&lon=32.021778
+N14_N http://www.openstreetmap.org/?lat=48.592910&lon=32.237685
+N14_S http://www.openstreetmap.org/?lat=48.544505&lon=32.310544
+N15 http://www.openstreetmap.org/?lat=47.848936&lon=35.240278
+N16 http://www.openstreetmap.org/?lat=48.719798&lon=30.272366
 N17 http://www.openstreetmap.org/?lat=49.920449&lon=24.160995
 N20_W http://www.openstreetmap.org/?lat=47.108574&lon=37.553952
 N20_E http://www.openstreetmap.org/?lat=47.118263&lon=37.638431
+N20 http://www.openstreetmap.org/?lat=48.846841&lon=37.676239
+N20_S http://www.openstreetmap.org/?lat=48.109924&lon=37.798247
+N20_N http://www.openstreetmap.org/?lat=48.119465&lon=37.807474
+N21_N http://www.openstreetmap.org/?lat=48.563658&lon=39.211235
+N21_S http://www.openstreetmap.org/?lat=48.465324&lon=39.285350
+N21 http://www.openstreetmap.org/?lat=48.171438&lon=38.926148
 N22 http://www.openstreetmap.org/?lat=50.610451&lon=26.340880
 N24 http://www.openstreetmap.org/?lat=48.385727&lon=30.245705
 N24 http://www.openstreetmap.org/?lat=47.040277&lon=31.972039
 N25 http://www.openstreetmap.org/?lat=50.610451&lon=26.340880
 N25_S http://www.openstreetmap.org/?lat=50.563286&lon=26.215568
+N26 http://www.openstreetmap.org/?lat=49.791987&lon=36.769223
 N30 http://www.openstreetmap.org/?lat=46.804525&lon=36.659274
+N30_W http://www.openstreetmap.org/?lat=47.446665&lon=35.284309
+N30_E http://www.openstreetmap.org/?lat=47.411667&lon=35.349369
+N31 http://www.openstreetmap.org/?lat=49.581384&lon=34.108901
+N31 http://www.openstreetmap.org/?lat=48.514614&lon=35.002613
+N32_E http://www.openstreetmap.org/?lat=48.494661&lon=38.912957
+N32_W http://www.openstreetmap.org/?lat=48.291417&lon=37.136192
+N32_W http://www.openstreetmap.org/?lat=48.604085&lon=38.071404
+N32_E http://www.openstreetmap.org/?lat=48.587452&lon=38.091702
 N33 http://www.openstreetmap.org/?lat=46.175076&lon=30.050869
 N33 http://www.openstreetmap.org/?lat=46.442108&lon=30.624046
+N33 http://www.openstreetmap.org/?lat=46.321267&lon=30.624894
 
+
+
+R03_W http://www.openstreetmap.org/?lat=50.387645&lon=30.784078
+R03_E http://www.openstreetmap.org/?lat=50.320861&lon=31.026485
 R04 http://www.openstreetmap.org/?lat=49.718264&lon=30.196953
+R08 http://www.openstreetmap.org/?lat=48.952383&lon=28.842365
+R11 http://www.openstreetmap.org/?lat=49.607873&lon=34.828935
 R15 http://www.openstreetmap.org/?lat=50.068627&lon=23.981470
 R17 http://www.openstreetmap.org/?lat=49.841414&lon=30.158844
+R17 http://www.openstreetmap.org/?lat=49.183639&lon=28.647623
 R18 http://www.openstreetmap.org/?lat=49.421527&lon=30.130327
 R19 http://www.openstreetmap.org/?lat=50.142063&lon=30.237164
+R31 http://www.openstreetmap.org/?lat=49.359179&lon=28.024879
 R33 http://www.openstreetmap.org/?lat=46.736611&lon=29.979050
+R33_W http://www.openstreetmap.org/?lat=49.258283&lon=28.570933
+R33_E http://www.openstreetmap.org/?lat=48.810538&lon=29.393277
+R36 http://www.openstreetmap.org/?lat=48.954058&lon=28.820722
 R39 http://www.openstreetmap.org/?lat=50.069543&lon=25.166062
 R40 http://www.openstreetmap.org/?lat=50.233358&lon=23.621335
 R40 http://www.openstreetmap.org/?lat=49.798511&lon=23.380719
 R40 http://www.openstreetmap.org/?lat=49.911288&lon=23.394935
 R41 http://www.openstreetmap.org/?lat=49.572020&lon=25.499965
+R42 http://www.openstreetmap.org/?lat=49.992291&lon=33.055115
 R44 http://www.openstreetmap.org/?lat=51.678363&lon=33.909924
+R46 http://www.openstreetmap.org/?lat=49.974644&lon=36.127467
 R47_W http://www.openstreetmap.org/?lat=46.727264&lon=32.700704
 R47_E http://www.openstreetmap.org/?lat=46.723565&lon=33.705068
+R47_E http://www.openstreetmap.org/?lat=46.216374&lon=34.668742
+R47_W http://www.openstreetmap.org/?lat=46.202349&lon=34.646115
+R48 http://www.openstreetmap.org/?lat=49.489549&lon=26.438304
 R49 http://www.openstreetmap.org/?lat=50.612133&lon=27.590876
+R51 http://www.openstreetmap.org/?lat=48.523995&lon=35.864697
+R51 http://www.openstreetmap.org/?lat=49.770705&lon=36.017303
 R54 http://www.openstreetmap.org/?lat=48.136767&lon=30.302138
+R54 http://www.openstreetmap.org/?lat=48.801161&lon=29.672860
 R56 http://www.openstreetmap.org/?lat=51.471172&lon=31.189499
 R57 http://www.openstreetmap.org/?lat=46.630417&lon=32.740105
 R60 http://www.openstreetmap.org/?lat=51.530993&lon=33.405647
+R60 http://www.openstreetmap.org/?lat=50.218875&lon=32.520368
 R61 http://www.openstreetmap.org/?lat=51.327431&lon=32.891548
 R65 http://www.openstreetmap.org/?lat=46.698111&lon=30.903318
 R65 http://www.openstreetmap.org/?lat=51.720621&lon=33.882995
+R67 http://www.openstreetmap.org/?lat=50.245311&lon=32.458549
 R67_W http://www.openstreetmap.org/?lat=51.137975&lon=31.668649
 R67_E http://www.openstreetmap.org/?lat=51.138957&lon=31.862154
 R69 http://www.openstreetmap.org/?lat=51.444566&lon=31.177697
@@ -73,35 +111,16 @@ R71_N http://www.openstreetmap.org/?lat=48.544239&lon=30.229343
 R71_S http://www.openstreetmap.org/?lat=47.262544&lon=30.309573
 R71 http://www.openstreetmap.org/?lat=46.557650&lon=30.707302
 R72 http://www.openstreetmap.org/?lat=46.312746&lon=30.062982
+R74 http://www.openstreetmap.org/?lat=48.419204&lon=33.678761
 R75 http://www.openstreetmap.org/?lat=47.939232&lon=30.308189
 R77 http://www.openstreetmap.org/?lat=50.615189&lon=26.656126
+R78 http://www.openstreetmap.org/?lat=49.396899&lon=37.204685
+R78 http://www.openstreetmap.org/?lat=49.888106&lon=36.289569
+R78 http://www.openstreetmap.org/?lat=49.924358&lon=36.268224
+R79 http://www.openstreetmap.org/?lat=49.261363&lon=35.512404
+R79_E http://www.openstreetmap.org/?lat=49.183902&lon=37.276681
+R79_W http://www.openstreetmap.org/?lat=49.154373&lon=37.280602
 R79 http://www.openstreetmap.org/?lat=49.261503&lon=35.513391
+R80 http://www.openstreetmap.org/?lat=48.361610&lon=34.684696
 R81 http://www.openstreetmap.org/?lat=46.720682&lon=32.714968
 R82 http://www.openstreetmap.org/?lat=51.405899&lon=33.073590
-
-M20 M03 http://www.openstreetmap.org/?lat=50.101506&lon=36.268508
-M29 M03 http://www.openstreetmap.org/?lat=49.970656&lon=35.996962
-M29 M04 http://www.openstreetmap.org/?lat=48.589936&lon=35.153074
-
-###E roads###
-	E38 Hlukiv - P65 - RUS
-E40 POL - M10 - M06 - M03 - M04 - RUS
-E50 SVK - M08 - M06 - M12 - M04 - M03 - RUS
-	E58Muk SVK - M08 - M06 - M24 - M23 - M26 - ROU
-	E58 ROU - M16 - M14 - RUS
-	E81 Mukachevo - M24 - M23 - M26 - ROU
-E85 BLR - M19 - ROU
-	E87Ode Odessa - M15 - MDA
-	E87 MDA - M15 - ROU
-	E95 BLR - M01 - M05 - Odessa
-	E97 Kherson - M17 - CYM
-	E101 RUS - M02 - M01 - Kiev
-E105 RUS - M20 - ... - M29 - ... - M18 - CYM
-	E372 POL - M09 - Lviv
-E373 POL - M07 - Kiev
-	E391 Hlukiv - M02 - RUS
-E471 Lviv - M06 - Mukachevo
-	E573 Uzhhorod - M06 - HUN
-	E581 MDA - M16 - Odessa
-E583 MDA - M21 - Zhytomyr
-E584 Poltava - M22 - M04 - M12 - M13 - MDA
