@@ -10,6 +10,8 @@ FRA-02 = `Ais` = Aisne
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_de_l%27Aisne_(02)
 FRA-59 = `Nord` = Nord
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Nord_(59)
+   https://www.data.gouv.fr/fr/datasets/nouvelles-routes-metropolitaines-ex-routes-departementales/
+   https://opendata.lillemetropole.fr/explore/dataset/rd-vers-rm/map/?location=9,50.64511,3.03171&basemap=jawg.streets `map M routes Lille`
 FRA-60 = `Oise` = Oise
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_de_l%27Oise_(60)
 FRA-62 = `PdC` = Pas-de-Calais
