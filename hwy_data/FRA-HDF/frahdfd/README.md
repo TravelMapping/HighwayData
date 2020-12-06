@@ -28,6 +28,7 @@ FRA-80 = `Som` = Somme
 
 *FRA-62 - Pas-de-Calais:*
 - `D119` through Somme seems to belong to Pas-de-Calais (there is also another one in Somme)
+- `D166` through Nord seems to belong to Pas-de-Calais (there are three short segments in Nord)
 - `D941` through Nord seems to belong to Pas-de-Calais
 
 *FRA-80 - Somme:*
