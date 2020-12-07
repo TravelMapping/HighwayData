@@ -40,10 +40,10 @@ A1 http://www.openstreetmap.org/?lat=49.400754&lon=2.699488
 D26_W http://www.openstreetmap.org/?lat=49.401158&lon=2.704997
 D98 http://www.openstreetmap.org/?lat=49.403305&lon=2.745128
 D36 http://www.openstreetmap.org/?lat=49.405937&lon=2.757429
-D1131 http://www.openstreetmap.org/?lat=49.410408&lon=2.774300
+D932/D1131 +D1131 http://www.openstreetmap.org/?lat=49.410408&lon=2.774300
 D202 http://www.openstreetmap.org/?lat=49.423247&lon=2.798536
 D1032 http://www.openstreetmap.org/?lat=49.437609&lon=2.819114
-ToD932 +N1031 http://www.openstreetmap.org/?lat=49.437122&lon=2.844129
+D932_E +ToD932 +N1031 http://www.openstreetmap.org/?lat=49.437122&lon=2.844129
 D130_N http://www.openstreetmap.org/?lat=49.426754&lon=2.875253
 D130_S +D130 http://www.openstreetmap.org/?lat=49.425670&lon=2.876326
 D546 http://www.openstreetmap.org/?lat=49.426101&lon=2.881258
@@ -71,7 +71,8 @@ D1250 http://www.openstreetmap.org/?lat=49.368580&lon=3.466146
 D1270 http://www.openstreetmap.org/?lat=49.356626&lon=3.491214
 D1310 http://www.openstreetmap.org/?lat=49.341793&lon=3.515064
 D14/D22 +D22 http://www.openstreetmap.org/?lat=49.336300&lon=3.526193
-D148 +AvePieBec http://www.openstreetmap.org/?lat=49.329466&lon=3.547329
++X33 http://www.openstreetmap.org/?lat=49.335082&lon=3.532737
+D14 +D14/D148 +D148 +AvePieBec http://www.openstreetmap.org/?lat=49.329466&lon=3.547329
 D144 http://www.openstreetmap.org/?lat=49.333988&lon=3.565369
 D1361 http://www.openstreetmap.org/?lat=49.326295&lon=3.589166
 D1360 http://www.openstreetmap.org/?lat=49.318734&lon=3.601888
