@@ -27,6 +27,7 @@ FRA-80 = `Som` = Somme
 - `D643` through Pas-de-Calais seems to belong to Nord
 
 *FRA-62 - Pas-de-Calais:*
+- `D15` through Nord seems to belong to Pas-de-Calais (there is a `D15` sign in Nord and there is also another one in Nord)
 - `D119` through Somme seems to belong to Pas-de-Calais (there is also another one in Somme)
 - `D166` through Nord seems to belong to Pas-de-Calais (there are three short segments in Nord)
 - `D213` through Nord seems to belong to Pas-de-Calais (there is also another one in Nord which is indiacted as `D213.2` on OSM and GM but is clearly signed as `D213` on GSV)
