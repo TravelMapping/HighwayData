@@ -304,6 +304,11 @@ ausa;AUS;Australia A Roads;green;3;preview
 ausn;AUS;Australia National Roads;green;3;preview
 ausab;AUS;Australia A Roads (Alt);red;4;preview
 ausnb;AUS;Australia N Roads (Alt);red;4;preview
+ausnswb;AUS;New South Wales B Roads;yellow;4;preview
+ausntb;AUS;Northern Territory B Roads;yellow;4;preview
+aussab;AUS;South Australia B Roads;yellow;4;preview
+austasb;AUS;Tasmania B Roads;yellow;4;preview
+ausvicb;AUS;Victoria B Roads;yellow;4;preview
 ausqldtr;AUS;Queensland State Strategic Touring Routes;brown;5;preview
 bdirn;BDI;Burundi Routes Nationales;green;4;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);blue;1;preview
@@ -344,6 +349,8 @@ fragesd55;FRA;Meuse Routes Départementales;yellow;5;preview
 fragesd57;FRA;Moselle Routes Départementales;yellow;5;preview
 fragesd88;FRA;Vosges Routes Départementales;yellow;5;preview
 frahdfd02;FRA;Aisne Routes Départementales;yellow;5;preview
+frahdfd59;FRA;Nord Routes Départementales;yellow;5;preview
+frahdfm59;FRA;Métropole européenne de Lille Routes Métropolitaines;magenta;5;preview
 frahdfd80;FRA;Somme Routes Départementales;yellow;5;preview
 franord76;FRA;Seine-Maritime Routes Départementales;yellow;5;preview
 glpd;FRA;Guadaloupe Routes Départementales;yellow;5;preview
@@ -403,13 +410,22 @@ afrtah;AFR;UNECA Trans-African Highways;red;2;devel
 argrn;ARG;Argentina Rutas Nacionales;green;4;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);red;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);red;3;devel
-ausb;AUS;Australia B Roads;yellow;4;devel
+#ausnt;AUS;Northern Territory Territorial Higways;yellow;4;devel
+#ausqld;AUS;Queensland State Higways;yellow;4;devel
+#auswa;AUS;Western Australia State Higways;yellow;4;devel
+#ausqldm;AUS;Brisbane MetRoads;lightsalmon;5;devel
+#ausvic;AUS;Victoria State Highways;lightsalmon;5;devel
+#ausvicc;AUS;Victoria C Roads;lightsalmon;5;devel
+#ausnswt;AUS;New South Wales Tourist Routes;brown;5;devel
+#ausqldt;AUS;Queensland Tourist Routes;brown;5;devel
+#ausnswt;AUS;Victoria Tourist Routes;brown;5;devel
+#auswat;AUS;Western Australia Tourist Routes;brown;5;devel
 #brabr;BRA;Brazil Rodovias Federais;green;4;devel
 cannss;CAN;Nova Scotia Scenic Travelways;yellow;5;devel
 codn;COD;DRC Routes Nationale;green;4;devel
 #cuba;CUB;Cuba Autopista;blue;1;devel
 #ecue;ECU;Ecuador Primerias Red Vial Estatal;green;4;devel
-#fraarad15;FRA;Cantal Routes Départementales;yellow;5;devel
+fraarad15;FRA;Cantal Routes Départementales;yellow;5;devel
 fraarad26;FRA;Drôme Routes Départementales;yellow;5;devel
 #fraaram38;FRA;Grenoble-Alpes Métropole Routes Métropolitaines;magenta;5;devel
 #fraarad42;FRA;Loire Routes Départementales;yellow;5;devel
@@ -419,8 +435,8 @@ fraarad26;FRA;Drôme Routes Départementales;yellow;5;devel
 #fraaram69;FRA;Lyon Routes Métropolitaines;magenta;5;devel
 #frabfcd21;FRA;Côte-d’Or Routes Départementales;yellow;5;devel
 #frabfcm21;FRA;Dijon Métropole Routes Métropolitaines;magenta;5;devel
-#frabfcd71;FRA;Saône-et-Loire Routes Départementales;yellow;5;devel
-#frabfcd89;FRA;Yonne Routes Départementales;yellow;5;devel
+frabfcd71;FRA;Saône-et-Loire Routes Départementales;yellow;5;devel
+frabfcd89;FRA;Yonne Routes Départementales;yellow;5;devel
 #frabred;FRA;Brittany Routes Départementales;yellow;5;devel
 #fracord;FRA;Corsica Routes Départementales;yellow;5;devel
 #fracvld;FRA;Centre-Val de Loire Routes Départementales;yellow;5;devel
@@ -428,8 +444,6 @@ fraarad26;FRA;Drôme Routes Départementales;yellow;5;devel
 #fragesm57;FRA;Metz Métropole Routes Métropolitaines;magenta;5;devel
 #fragesdXX;FRA;Alsace Routes Départementales;yellow;5;devel
 #fragesmXX;FRA;Eurométropole de Strasbourg Routes Métropolitaines;magenta;5;devel
-frahdfd59;FRA;Nord Routes Départementales;yellow;5;devel
-#frahdfm59;FRA;Métropole européenne de Lille Routes Métropolitaines;magenta;5;devel
 frahdfd60;FRA;Oise Routes Départementales;yellow;5;devel
 frahdfd62;FRA;Pas-de-Calais Routes Départementales;yellow;5;devel
 #franord14;FRA;Calvados Routes Départementales;yellow;5;devel

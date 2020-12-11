@@ -37,6 +37,9 @@ FRA-74 = `HSa` = Haute-Savoie
 *FRA-07 - Ardèche:*
 - `D51` might belong to departement Gard (30) in OCC - there are no signs at the border and both extensions into OCC are indicated as `D51`. However, `D52` had to be in OCC too because it is only connected to `D51` but its number changes at the border. Both drafted for Ardèche.
 
+*FRA-15 - Cantal:*
+- `D926` Saint-Flour bypass was opened in 2020, new route is `D926` but numbering of old route in unknown (`D921` routing and `D721` eastern extension are just wild guess)
+
 *FRA-38 - Isère:*
 - `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
 - `D41I` should be `D41L` according to wikisara and GM but it is clearly signed as `D41I` on GSV. OSM confirms it. Note: upper case letters are generally used.
