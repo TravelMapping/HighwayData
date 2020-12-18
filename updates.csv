@@ -22,6 +22,9 @@
 2020-12-01;(Australia) South Australia;M2 (Southern Expressway, Adelaide);aussa.m002noa;Route extended at north end from A13_N to A2
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
+2020-12-17;Austria;S3;aut.s003;Route extended at north end from north of Hollabrunn to Guntersdorf (B30)
+2020-12-17;Austria;E59;aut.e59;Route relocated onto new S3 from north of Hollabrunn to Guntersdorf (B30)
+2020-12-17;Austria;B30;aut.b030;Route relocated from through Guntersdorf and onto northern bypass
 2020-11-11;Austria;S36 (Murtal Schnellstraße St. Georgen ob Judenburg);aut.s036sgj;Route extended at west end from west of St. Georgen (exit 48a) to north of Schleifling
 2019-09-08;Austria;A5 (Drasenhofen);aut.a005dra;New Route
 2019-09-08;Austria;E461;aut.e461;Route relocated from through Drasenhofen and onto new A5 bypass
@@ -243,7 +246,7 @@
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
-2020-11-21;(Canada) Quebec;QC 169;qc.qc169;In Alma, relocated from Av. du Pont Nord to new eastern bypass, between waypoints ChTacDel and AvPontNord 
+2020-12-17;(Canada) Quebec;A-410;qc.a410;Extended northeast from exit 13 to QC 108 east of Lennoxville 
 2020-11-21;(Canada) Quebec;QC 172;qc.qc172;West end in Alma relabeled from QC169 to AvPontNord, and new QC169 waypoint added at Alma eastern bypass
 2020-04-29;(Canada) Quebec;A-440 ((East) Quebec);qc.a440equ;Extended west from exit 21 to intersection with Cote de la Potasse
 2019-09-09;(Canada) Quebec;TCH (Kirkland Lake);qc.tchkir;Relocated in Rouyn-Noranda, from Rue Gamble and parts of Boul. Rideau and Av. Lariviere, north to part of QC 101 and new roadway, between waypoints BoulRid_E and AvLar_W
@@ -317,6 +320,7 @@
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2020-12-15;Czechia;I58;cze.i058;Route relocated from through Skotnice and onto new bypass from north of Skotnice to D48 exit 30
 2020-12-01;Czechia;D6 (Kladno);cze.d006;Route extended at west end from exit 32 to temporary motorway end west of Krušovice
 2020-12-01;Czechia;E48;cze.e48;Route relocated from through Řevničov and onto new motorway from D6 exit 32 to temporary motorway end west of Krušovice
 2020-12-01;Czechia;I6 (Nové Strašecí);cze.i006;Route truncated at east end from exit 32 to temporary motorway end west of Krušovice (II606 now)
@@ -944,6 +948,7 @@
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2020-12-12;(Germany) Saxony;S9;;Route deleted
 2020-09-12;(Germany) Saxony;S319;deusn.s319;Route extended at north end from S310 to A72
 2019-08-03;(Germany) Saxony;A72;deusn.a072;Route extended at north end from exit 26 to exit 28
 2019-03-16;(Germany) Saxony;S34;deusn.s034;Route extended at west end from old S36 (now K7515) to S31
@@ -1078,6 +1083,8 @@
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2020-12-15;Hungary;M44;hun.m044;Route extended at east end from Exit 100 to Bekescsaba
+2020-12-15;Hungary;M85;hun.m085;Route extended at west end from Exit Farad to Sopron East
 2020-11-04;Hungary;M76;hun.m076;New Route
 2020-09-05;Hungary;E60;hun.e60;Route relocated from F42 and onto F47 and M4 between Berettyóújfalu and the Romanian border
 2020-09-05;Hungary;E79;hun.e79;Route relocated from F47 and F42 and onto M4 between M4 exit 215 and the Romanian border
@@ -1085,7 +1092,7 @@
 2020-07-23;Hungary;M4 (Cegléd);hun.m004ceg;Route extended at east end from interchange west of F401 (Abony-West) to H3122 (Abony-Center)
 2020-07-20;Hungary;M25;hun.m025;Route extended at south end from exit 15 to M3
 2020-02-09;Hungary;M4 (Cegléd);hun.m004ceg;New Route
-2019-10-15;Hungary;M44;hun.m044;New Route
+2019-12-17;Hungary;M44;hun.m044;New Route
 2019-10-15;Hungary;F338;hun.f338;Route extended at north end from F36 to F38
 2019-09-12;Hungary;F651;hun.f651;New Route
 2019-09-09;Hungary;F45;hun.f045;Route truncated at south end from former F47 in Hódmezővásárhely to H4521
@@ -1518,6 +1525,7 @@
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E123;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E125;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan (Alekseevka);E125;;Deleted route
+2020-12-13;Korea, South;Ex14;kor.ex014;Route added
 2020-11-07;Korea, South;Ex17 (Goyang);kor.ex017goy;Route added
 2020-11-07;Korea, South;Ex20 (Jeonju);kor.ex020jeo;Route truncated at west end from exit 1 to Ex204 (route now Ex204)
 2020-11-07;Korea, South;Ex204;kor.ex204;Route added
@@ -1669,6 +1677,9 @@
 2015-07-28;Netherlands;A261;;Route deleted
 2015-07-28;Netherlands;A4 (Bergen op Zoom);nld.a004ber;Route extended at north end from N259 to A29/A59, including Dinteloord section
 2015-07-28;Netherlands;A4 (Dintleloord);;Route merged with Bergen op Zoom section
+2020-12-17;New Zealand;Christchurch Northern Motorway;nzl.chrnmot;Route extended at south end from (now closed) southern junction with Main North Road to Cranford Street
+2020-12-17;New Zealand;Western Belfast Bypass;nzl.wbelbyp;Route added
+2020-12-17;New Zealand;SH74;nzl.sh074;Route removed from Main North Road and Queen Elizabeth II Drive and relocated onto Christchurch Northern Motorway between southern junction with Christchurch Northern Motorway and SH1 (slightly moved)
 2020-11-24;New Zealand;Christchurch Southern Motorway;nzl.chrsmot;Route extended at west end from Halswell Junction Road to SH1
 2020-11-24;New Zealand;SH76;nzl.sh076;Route removed from Halswell Junction Road between SH1 at Islington and Christchurch Southern Motorway near Hornby South, and relocated along Christchurch Southern Motorway from Halswell Junction Road near Hornby South to SH1 near Templeton
 2020-03-09;New Zealand;SH1;nzl.sh001;Route removed from Great South Road and Gordonton Road and relocated onto Waikato Expressway between Great South Road and northern junction with SH1B
@@ -2291,6 +2302,8 @@
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2020-12-17;Romania;A3 (Brasov);rou.a003bra;New Route
+2020-12-17;Romania;DN73G;rou.dn73g;New Route
 2020-12-10;Romania;DJ704K;rou.dj704K;Extended on the west side to Vinerea Bypass (DJ704)
 2020-12-10;Romania;DJ704;rou.dj704;Rerouted on Vinerea Bypass
 2020-12-10;Romania;DNCRD;rou.dncrd;New Route
@@ -2495,6 +2508,10 @@
 2017-03-22;Slovenia;G111;svn.g111;Route truncated at north end from H6 exit 2 to Polje Cesta
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
+2020-12-16;(Spain) Andulucia;A44;espan.a044;Route removed from Autovia de Sierra Nevada and relocated onto Circumvalacion Exterior de Granada between exits 115 and 141
+2020-12-16;(Spain) Andulucia;GR30;espan.gr030;Route rentered (old route now part of A44, new route former A44). Briefly assumed to be called A44a.
+2020-12-16;(Spain) Andulucia;Ronda Sur, Granada;espan.a395;Route added
+2020-12-16;(Spain) Andulucia;E902;espan.e902;Route removed from GR30 and relocated onto A44 between A44 exits 115 and 141
 2019-12-19;(Spain) Andulucia;SE40;espan.se040;Route extended at south end from exit 13 to exit 22
 2019-12-05;(Spain) Andulucia;A32;espan.a032;Route extended at east end from exit 31 to exit 45
 2019-12-05;(Spain) Andulucia;N322 (Linares);espan.n322lin;Route added
@@ -2779,6 +2796,12 @@
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2020-12-17;Sweden;Marieholmstunneln, Göteborg;swe.martun;New Route
+2020-12-11;Sweden;Alingsås - Vårgårda motorvägen;swe.angvarmot;New Route
+2020-12-11;Sweden;E20;swe.e20;Route relocated onto new motorway between Alingsås (exit 94.5) and Vårgårda (exit 95.1)
+2020-12-11;Sweden;Lund - Kristianstad motorvägen (Linderöd);swe.lundkrimotlin;Route extended at east end from east of Linderöd (exit 34) to Fjälkinge (exit 41)
+2020-12-11;Sweden;Kristianstad motorvägen;swe.lundkrimotlin;Route merged into Lund - Kristianstad motorvägen (Linderöd)
+2020-12-11;Sweden;E20;swe.e22;Route relocated from through Tollarp and onto new motorway from east of Linderöd (exit 34) to west of Kristianstad (exit 36)
 2020-11-07;Sweden;E10;swe.e10;Route relocated from through Kiruna and onto new bypass Lokstallet and Tuolluvaara
 2020-10-03;Sweden;R34;swe.r034;Route relocated onto new alignment between Motala (E1089 junction) and Borensberg (Husbyvägen junction)
 2020-08-10;Sweden;Nord-Sydaxel, Stockholm;swe.nordsyd;New Route
@@ -2955,6 +2978,8 @@
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2020-12-17;Turkey;O21;tur.o021;Merged O21, O21Ank and added the newly opened section (between exits 8 and 12)
+2020-12-17;Turkey;O21Kir;tur.o021kir;New route
 2020-10-02;Turkey;O21Ank;tur.o021ank;New route
 2020-10-02;Turkey;O21;tur.o021;Extended at north end from 10 to 8
 2020-10-02;Turkey;O7;tur.o007;Newly opened section added (from exit 21 to O4).
@@ -3021,6 +3046,7 @@
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2020-12-11;(UK) England;A1307;eng.a1307;Route extended at north end from Pathfinder Link Road to Huntingdon Station
 2020-12-05;(UK) England;B4105;eng.b4105;Route added
 2020-11-25;(UK) England;A327;eng.a0327;Route removed from Reading Road and Eversley Road and relocated onto Observer Way between eastern junction with Reading Road and eastern junction with B3349
 2020-11-25;(UK) England;B3030;eng.b3030;Route extended at south end from Reading Road (formerly A327) to B3349
@@ -3636,6 +3662,13 @@
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2020-12-14;(USA) Kentucky;KY 122;ky.ky0122;KY680_W point renamed KY680/3680 and moved slightly north to relocated junction
+2020-12-14;(USA) Kentucky;KY 680;ky.ky0680;KY122_W point renamed KY122/3680 and moved slightly north to relocated junction
+2020-12-14;(USA) Kentucky;KY 1101;ky.ky1101;Extended at south end to KY 3680
+2020-12-14;(USA) Kentucky;KY 2373;ky.ky2373;Extended at north end to KY 8
+2020-12-14;(USA) Kentucky;KY 2428;ky.ky2428;Route added
+2020-12-14;(USA) Kentucky;KY 3174 (Elkhorn City);ky.ky3174elk;Route added
+2020-12-14;(USA) Kentucky;KY 3680;ky.ky3680;Route added
 2020-12-10;(USA) Kentucky;US 460;ky.us460;KY1415_W & KY1888 points merged into KY1415/1888 at new common junction
 2020-12-10;(USA) Kentucky;KY 1415;ky.ky1415;US460/1888 point (formerly US460/114) moved slightly west
 2020-12-10;(USA) Kentucky;KY 1888;ky.ky1888;US460/1415 point (formerly US460) moved slightly east
