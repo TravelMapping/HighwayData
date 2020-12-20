@@ -28,7 +28,7 @@ FRA-80 = `Som` = Somme
 
 *FRA-60 - Oise:*
 - wikisara has a full ist but is sometimes outdated
-- e.g. `D503`, `D514` and `D514E` are unsigned now
+- e.g. `D503`, `D514`, `D514E`, `D563L` and `D566E` are unsigned now
 
 *FRA-62 - Pas-de-Calais:*
 - `D15` through Nord seems to belong to Pas-de-Calais (there is a `D15` sign in Nord and there is also another one in Nord)
