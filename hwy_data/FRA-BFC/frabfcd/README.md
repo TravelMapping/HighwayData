@@ -16,6 +16,7 @@ FRA-58 = `Nie` = Nièvre
 FRA-70 = `HSa` = Haute-Saône
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(70) (edit url for other routes)
 FRA-71 = `SeL` = Saône-et-Loire
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(71) (edit url for other routes)
 FRA-89 = `Yon` = Yonne
 FRA-90 = `TeB` = Territoire de Belfort
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(90) (edit url for other routes)
