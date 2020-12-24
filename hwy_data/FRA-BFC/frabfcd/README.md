@@ -7,6 +7,7 @@
 
 **DEPARTMENT BORDER LABELS:**
 FRA-21 = `CdO` = Côte-d’Or
+   https://routes.fandom.com/wiki/Dijon_M%C3%A9tropole
 FRA-25 = `Dou` = Doubs
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(25) (edit url for other routes)
 FRA-39 = `Jura` = Jura
@@ -16,6 +17,7 @@ FRA-58 = `Nie` = Nièvre
 FRA-70 = `HSa` = Haute-Saône
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(70) (edit url for other routes)
 FRA-71 = `SeL` = Saône-et-Loire
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(71) (edit url for other routes)
 FRA-89 = `Yon` = Yonne
 FRA-90 = `TeB` = Territoire de Belfort
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(90) (edit url for other routes)
