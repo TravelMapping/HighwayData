@@ -1,4 +1,4 @@
-﻿date;region;route;root;description
+date;region;route;root;description
 2020-04-20;Albania;A2;alb.a002;Route extended at north end from SH4 and SH8 at Levan to SH4 at Mbrostar
 2020-04-20;Albania;A3;alb.a003;Route extended at south end from SH3 at Berzhite to SH3 at Bradashesh
 2020-04-20;Albania;A3 (Elbasan);alb.a003;Route deleted (made part of main route)
@@ -144,8 +144,8 @@
 2016-11-09;Bulgaria;E79;bgr.e79;Removed from II/18 and relocated onto SST between II18_E and II18_N
 2016-11-09;Bulgaria;E80;bgr.e80;Removed from II/18 and relocated onto SST between II18_N and A2
 2016-05-01;Bulgaria;Severnata Skorostna Tangenta;bgr.sst;New Route
-2015-12-30;Bulgaria;E79;bgr.e79;Removed from route through Montana and relocated to Montana bypass between Dolna Verenitsa and "ToN81"
-2015-12-30;Bulgaria;E79;bgr.e79;Removed from Ulista Ilinden and Bulevarde 2-ri Yuni and relocated to Vrasta bypass between "UliIli" and "Bul2riYuni"
+2015-12-30;Bulgaria;E79;bgr.e79;"Removed from route through Montana and relocated to Montana bypass between Dolna Verenitsa and ""ToN81"""
+2015-12-30;Bulgaria;E79;bgr.e79;"Removed from Ulista Ilinden and Bulevarde 2-ri Yuni and relocated to Vrasta bypass between ""UliIli"" and ""Bul2riYuni"""
 2015-10-29;Bulgaria;A4;bgr.a004;Route extended at west end from N5 to A1
 2015-10-29;Bulgaria;E80;bgr.e80;Route removed from N66, N807, N8 and N5 and relocated onto A4 between now closed N66 junction and the N5 junction on the A4
 2015-10-26;Bulgaria;A3 (Pernik);bgr.a003;Route extended at south end from the N1 at Dupnitsa-sever to the N106
@@ -183,7 +183,7 @@
 2017-08-23;(Canada) New Brunswick;NB 105 (Jemseg);nb.nb105jem;Route added, split from NB 105 (Fredericton).
 2017-08-23;(Canada) New Brunswick;NB 105 (Fredericton);nb.nb105;Truncated from the former south end at NB 10 to the new south end at the barricaded northern approach to the Jemseg River Bridge. Southern segment of this route added as NB 105 (Jemseg).
 2017-08-15;(Canada) New Brunswick;NB 565;nb.nb565;Route added
-2017-07-22;(Canada) New Brunswick;NB 122;nb.nb122;Waypoint "NB630" moved from McAdam St to Maple St
+2017-07-22;(Canada) New Brunswick;NB 122;nb.nb122;"Waypoint ""NB630"" moved from McAdam St to Maple St"
 2017-07-22;(Canada) New Brunswick;NB 630;nb.nb630;North end removed from McAdam St between Maple St and NB 122, and relocated onto Maple St between McAdam St and NB 122
 2017-02-05;(Canada) New Brunswick;NB 11;nb.nb011;Removed from Rue du Portage and NB 145 and relocated onto the southern Caraquet bypass between Rue du Portage and NB 145/325
 2017-02-05;(Canada) New Brunswick;NB 145;nb.nb145;West end extended from Rue du Portage to NB 11/325
@@ -2872,11 +2872,11 @@
 2020-08-08;Sweden;Göteborg - Vårgårda motorvägen (Alingsås);swe.gotvarmotali;New Route
 2020-08-08;Sweden;Göteborg - Vårgårda motorvägen (Göteborg);swe.gotvarmot;New Route
 2020-08-08;Sweden;Alingsåsleden, Göteborg;swe.gotvarmot;Route deleted (mostly Göteborg - Vårgårda now)
-2017-12-20;Sweden;Lund - Linderöd motorvägen;swe.lundlinmot;Route extended at east end from exit "Trafikplats Linderöd Väst" to exit "Trafikplats Spangårp"
-2017-12-20;Sweden;E22;swe.e22;Route relocated from through Linderöd and onto bypass from exit "Trafikplats Linderöd Väst" to exit "Trafikplats Spangårp"
-2017-12-10;Sweden;Kalmar motorvägen;swe.kalmot;Route extended at west end from exit "Trafikplats Kalmar-Södra" to exit "Dörby"
-2017-12-10;Sweden;E22;swe.e22;Route relocated from through Rinkabyholm and onto bypass from exit "Trafikplats Hossmo" to exit "Trafikplats Karlsro"
-2017-12-10;Sweden;R25;swe.r025;Route truncated from former E22 junction (now "Trafikplats Karlsro") to new "Trafikplats Dörby"
+2017-12-20;Sweden;Lund - Linderöd motorvägen;swe.lundlinmot;"Route extended at east end from exit ""Trafikplats Linderöd Väst"" to exit ""Trafikplats Spangårp"""
+2017-12-20;Sweden;E22;swe.e22;"Route relocated from through Linderöd and onto bypass from exit ""Trafikplats Linderöd Väst"" to exit ""Trafikplats Spangårp"""
+2017-12-10;Sweden;Kalmar motorvägen;swe.kalmot;"Route extended at west end from exit ""Trafikplats Kalmar-Södra"" to exit ""Dörby"""
+2017-12-10;Sweden;E22;swe.e22;"Route relocated from through Rinkabyholm and onto bypass from exit ""Trafikplats Hossmo"" to exit ""Trafikplats Karlsro"""
+2017-12-10;Sweden;R25;swe.r025;"Route truncated from former E22 junction (now ""Trafikplats Karlsro"") to new ""Trafikplats Dörby"""
 2017-12-07;Sweden;E45;swe.e45;Route extended at north end from R99 to Finnish border
 2017-07-11;Sweden;R83 Granboda;swe.r083gra;New Route
 2017-06-23;Sweden;E18;swe.e18;Route relocated onto new motorway alignment west of Karlstad, between S548 and SkuVag
@@ -3553,6 +3553,16 @@
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
+2020-12-26;(USA) Georgia;GA 4 Alt (Alma);;Route deleted.
+2020-12-26;(USA) Georgia;GA 22;ga.ga022;Route extended through Comer along former GA72 and GA98 to new intersection with GA72.
+2020-12-26;(USA) Georgia;GA 38 Spur (Cairo);;Route renamed GA38 Con (Cairo)
+2020-12-26;(USA) Georgia;GA 38 Conn (Cairo);ga.ga038concai;Route renamed from GA38 Spr (Cairo). Truncated west end of former GA38 Con to new intersection with GA93/111 at 5th St.
+2020-12-26;(USA) Georgia;GA 72;ga.ga072;Relocated along Colbert-Comer Rd. around Comer and Carlton from Sunset Ave and River Rd.
+2020-12-26;(USA) Georgia;GA 93;ga.ga093;Relocated in Cairo from 4th Ave and Broad St to 5th St and 38th Blvd.
+2020-12-26;(USA) Georgia;GA 97 Conn (Bainbridge);;Route deleted.
+2020-12-26;(USA) Georgia;GA 98;ga.ga098;East end truncated to new intersection with GA72.
+2020-12-26;(USA) Georgia;GA 111;ga.ga111;Relocated in Cairo from Broad St to 4th Ave, 5th St, and 38th Blvd.
+2020-12-26;(USA) Georgia;GA 188;ga.ga188;West end truncated to US84.
 2020-07-04;(USA) Georgia;GA 243;;Route deleted.
 2020-03-21;(USA) Georgia;US 29;ga.us029;Removed from Crogan St and relocated to Lawrenceville Suwanee Road and University Parkway around Lawrenceville.
 2020-03-21;(USA) Georgia;US 41;ga.us041;Moved waypoint US341 (now GA7_N) from downtown Perry to new US341 point (North Perry Parkway)
@@ -4442,7 +4452,7 @@
 2015-12-06;(USA) Ohio;OH 684;oh.oh684;Route extended at north end from OldOH692 to OH681
 2015-12-03;(USA) Ohio;OH 183 Truck (Alliance);oh.oh183trkall;Route deleted
 2015-12-03;(USA) Ohio;OH 238;;Route deleted
-2015-12-03;(USA) Ohio;OH 26;oh.oh026;Route removed from Greene Street between OH7/60 junction and the Greene St/Acme St junction (labelled "GreSt_W") and relocated onto Acme Street between "GreSt_W" and OH7
+2015-12-03;(USA) Ohio;OH 26;oh.oh026;"Route removed from Greene Street between OH7/60 junction and the Greene St/Acme St junction (labelled ""GreSt_W"") and relocated onto Acme Street between ""GreSt_W"" and OH7"
 2015-12-03;(USA) Ohio;OH 607;oh.oh607;Route added
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
@@ -4619,7 +4629,7 @@
 2017-08-09;(USA) Rhode Island;RI 51;;Route deleted.
 2017-08-09;(USA) Rhode Island;RI 114;ri.ri114;Removed from Mill St and High St in Cumberland, and relocated onto Broad Street and Dexter St (RI 123) between Mill St and High St (waypoint RI123_E).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
-2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
+2017-04-24;(USA) Rhode Island;US 1;ri.us001;"Removed from surface streets in Pawtucket's ""Mixed-up Mile"" and relocated onto I-95 between exits 27 and 28."
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
 2020-09-16;(USA) South Carolina;SC 31;sc.sc031;extended south as new freeway to SC 707 (originally done 11-17-2019, reemphasizing due to issue that led to the extension not being shown)
 2019-10-08;(USA) South Carolina;US 76 Connector (Columbia);;Route deleted
@@ -4660,7 +4670,7 @@
 2015-08-11;(USA) South Dakota;I-90 Business Spur (Belvidere);;Deleted route
 2015-08-11;(USA) South Dakota;SD 134;;Deleted route. Renamed point on US 12 from SD134->371stAve.
 2015-08-11;(USA) South Dakota;SD 139;;Deleted route: Renamed points on US 212 and SD 20 from SD139->OldSD139.
-2015-08-11;(USA) South Dakota;SD 203;sd.sd203;Truncated north end from 252nd Street to "End" at state training school.
+2015-08-11;(USA) South Dakota;SD 203;sd.sd203;"Truncated north end from 252nd Street to ""End"" at state training school."
 2015-08-11;(USA) South Dakota;SD 25;sd.sd025;Truncated south end from SD 42 to west junction SD 262. Point SD262_W is now SD262.
 2015-08-11;(USA) South Dakota;SD 258;sd.sd258;Extended west and south along Davenport Street and East Main Street from Campbell Street to I-90.
 2015-08-11;(USA) South Dakota;SD 37 Truck (Huron);sd.sd037trkhur;Extended from west junction with US 14 east along US 14/4th Street to SD 37.
@@ -4722,7 +4732,7 @@
 2020-09-18;(USA) Texas;US 87 Business (Big Spring);tx.us087busbig;Extended northward from I-20 to US 87.
 2020-09-18;(USA) Texas;TX 31;tx.tx031;Removed from TX 31 Business (Hubbard) and relocated onto a southeastern four-lane divided bypass.
 2020-09-18;(USA) Texas;TX 31 Business (Hubbard);tx.tx031bushub;Route added
-2020-09-18;(USA) Texas;TX 171;tx.tx171;Waypoint "TX31" moved from TX 31 Business to the Hubbard bypass.
+2020-09-18;(USA) Texas;TX 171;tx.tx171;"Waypoint ""TX31"" moved from TX 31 Business to the Hubbard bypass."
 2020-06-20;(USA) Texas;US 175;tx.us175;North end removed from S. M. Wright Freeway between TX 310 and I-45 Exit 283, and relocated onto C. F. Hawn Freeway between TX 310 and I-45 Exit 282.
 2020-03-12;(USA) Texas;TX 190 (Sachse);tx.tx190sac;Route added
 2020-03-12;(USA) Texas;TX 190 (Rowlett);tx.tx190row;Route added
