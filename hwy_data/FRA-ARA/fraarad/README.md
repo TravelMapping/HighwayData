@@ -63,6 +63,9 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D80` is signed on km posts till 1km north of `D983` but as `D80A` at `D983` junction, drafted as `D80` only
 - `D224D` is indicated being `D224E` on OSM and GM; `D224D` is confirmed by 2012 GSV
 
+*FRA-69 - Rhone:*
+- `D35` through Saône-et-Loire is indicated as `D335` on OSM and GM but 2018 GSV does not show `D335`; there is a `D35` milepost at west end and `D35` signs to the west and to the east at `D27` junction --> route most likely belongs to departement Rhone's `D35`
+
 *FRA-73 - Savoie:*
 - OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV
 
