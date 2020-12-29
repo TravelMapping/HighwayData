@@ -42,6 +42,9 @@ FRA-74 = `HSa` = Haute-Savoie
 *FRA-15 - Cantal:*
 - `D926` Saint-Flour bypass was opened in 2020, new route is `D926` but numbering of old route in unknown (`D921` routing and `D721` eastern extension are just wild guess)
 
+*FRA-26 - Drôme:*
+- `D18` and `D20` drafted to the best of my knowledge. They could also be maintained by the PAC departement Hautes-Alpes
+
 *FRA-38 - Isère:*
 - `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
 - `D41I` should be `D41L` according to wikisara and GM but it is clearly signed as `D41I` on GSV. OSM confirms it. Note: upper case letters are generally used.
