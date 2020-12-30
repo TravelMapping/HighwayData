@@ -44,7 +44,7 @@ FRA-74 = `HSa` = Haute-Savoie
 
 *FRA-26 - Drôme:*
 - `D18` and `D20` drafted to the best of my knowledge. They could also be maintained by the PAC departement Hautes-Alpes
-- `D56` and `D540` signs at Boulevard de l'Europe in Montélimar disappeared between 2019 and 2020 according to GSV. I assume that the same happened to other routes like `D4` where 2020 GSV is not available; routes truncated to outer ring road
+- `D56`, `D128` and `D540` signs at Boulevard de l'Europe in Montélimar disappeared between 2019 and 2020 according to GSV. I assume that the same happened to other routes like `D4` where 2020 GSV is not available; routes truncated to outer ring road
 
 *FRA-38 - Isère:*
 - `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
