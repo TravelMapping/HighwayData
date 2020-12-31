@@ -32,5 +32,9 @@ FRA-90 = `TeB` = Territoire de Belfort
 - `D197` through Saône-et-Loire is most likely maintained by Nièvre (included)
 - `D556` is indicated on OSM and GM but routing is not clear and there is no sign on 2009 - 2014 GSV, not drafted
 
+*FRA-71 - Saône-et-Loire:*
+- There are `B`/`BIS`but also `T`/`TER` routes. Since one sign has the full name but the next sign does often have the abbreviation only, I'm generally gone with the abbreviation which is also the standard in other departements
+- `D335` is indicated on OSM and GM but 2018 GSV does not show it; there is a `D35` milepost at west end and `D35` signs to the west and to the east at `D27` junction --> route most likely belongs to departement Rhone's `D35` (ARA)
+
 *FRA-89 - Yonne:*
 - `D905` through GES is maintained by Yonne (mileposts with Yonne label)

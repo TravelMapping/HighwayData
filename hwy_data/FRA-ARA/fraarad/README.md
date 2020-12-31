@@ -14,7 +14,9 @@ FRA-03 = `All` = Allier
 FRA-07 = `Arc` = Ardèche
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D2_(07) (edit url for other routes)
 FRA-15 = `Can` = Cantal
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D2_(15) (edit url for other routes)
 FRA-26 = `Dro` = Drôme
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(26) (edit url for other routes)
 FRA-38 = `Ise` = Isère
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(38) (edit url for other routes)
 FRA-42 = `Loi` = Loire
@@ -40,6 +42,10 @@ FRA-74 = `HSa` = Haute-Savoie
 *FRA-15 - Cantal:*
 - `D926` Saint-Flour bypass was opened in 2020, new route is `D926` but numbering of old route in unknown (`D921` routing and `D721` eastern extension are just wild guess)
 
+*FRA-26 - Drôme:*
+- `D18` and `D20` drafted to the best of my knowledge. They could also be maintained by the PAC departement Hautes-Alpes
+- `D56` and `D540` signs at Boulevard de l'Europe in Montélimar disappeared between 2019 and 2020 according to GSV. I assume that the same happened to other routes like `D4` where 2020 GSV is not available; routes truncated to outer ring road
+
 *FRA-38 - Isère:*
 - `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
 - `D41I` should be `D41L` according to wikisara and GM but it is clearly signed as `D41I` on GSV. OSM confirms it. Note: upper case letters are generally used.
@@ -56,6 +62,9 @@ FRA-74 = `HSa` = Haute-Savoie
 - wikisara articles are rare but OSM + GM look good
 - `D80` is signed on km posts till 1km north of `D983` but as `D80A` at `D983` junction, drafted as `D80` only
 - `D224D` is indicated being `D224E` on OSM and GM; `D224D` is confirmed by 2012 GSV
+
+*FRA-69 - Rhone:*
+- `D35` through Saône-et-Loire is indicated as `D335` on OSM and GM but 2018 GSV does not show `D335`; there is a `D35` milepost at west end and `D35` signs to the west and to the east at `D27` junction --> route most likely belongs to departement Rhone's `D35`
 
 *FRA-73 - Savoie:*
 - OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV
