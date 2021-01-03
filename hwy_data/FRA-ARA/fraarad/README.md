@@ -40,7 +40,8 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D51` might belong to departement Gard (30) in OCC - there are no signs at the border and both extensions into OCC are indicated as `D51`. However, `D52` had to be in OCC too because it is only connected to `D51` but its number changes at the border. Both drafted for Ardèche.
 
 *FRA-15 - Cantal:*
-- `D16` of departement Lot goes through Cantal (no signs at the border, there is another D16 in Cantal)
+- `D12` of departement Lozère goes through Cantal (no signs at the border, there is a milepost indicating `D12` and there another `D12` in Cantal)
+- `D16` of departement Lot goes through Cantal (no signs at the border, there is another `D16` in Cantal)
 - `D25` crosses the border to Lot and Aveyron multiple times; fully drafted for Cantal
 - `D42` of departement Aveyron extends into Cantal up to `D141`/`D601` junction, see mileposts
 - `D163` of departement Aveyron extends into Cantal up to `D990` junction
