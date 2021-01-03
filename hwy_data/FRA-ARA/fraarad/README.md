@@ -40,11 +40,16 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D51` might belong to departement Gard (30) in OCC - there are no signs at the border and both extensions into OCC are indicated as `D51`. However, `D52` had to be in OCC too because it is only connected to `D51` but its number changes at the border. Both drafted for Ardèche.
 
 *FRA-15 - Cantal:*
+- `D16` of departement Lot goes through Cantal (no signs at the border, there is another D16 in Cantal)
+- `D25` crossed the border to Lot and Aveyron multiple times; fully drafted for Cantal
+- `D42` of departement Aveyron extends into Cantal up to `D141`/`D601` junction, see mileposts
 - `D926` Saint-Flour bypass was opened in 2020, new route is `D926` but numbering of old route in unknown (`D921` routing and `D721` eastern extension are just wild guess)
+- `D990` through departement Aveyron (OCC) - there are two segments - are most likely part of the Cantal system. There are no signs or change of pavement at the borders like we usually have at borders of Cantal and Aveyron borders. Wikipedia does not mention that N590 had been declassified to departement Aveyron: https://fr.wikipedia.org/wiki/Route_nationale_590; drafted for Cantal
 
 *FRA-26 - Drôme:*
 - `D18` and `D20` drafted to the best of my knowledge. They could also be maintained by the PAC departement Hautes-Alpes
-- `D56` and `D540` signs at Boulevard de l'Europe in Montélimar disappeared between 2019 and 2020 according to GSV. I assume that the same happened to other routes like `D4` where 2020 GSV is not available; routes truncated to outer ring road
+- `D56`, `D128` and `D540` signs at Boulevard de l'Europe in Montélimar disappeared between 2019 and 2020 according to GSV. I assume that the same happened to other routes like `D4` where 2020 GSV is not available; routes truncated to outer ring road
+- `D237` in Montélimar also disappeared at N7 in 2020
 
 *FRA-38 - Isère:*
 - `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
