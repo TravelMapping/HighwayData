@@ -161,13 +161,13 @@ LowDenRd http://www.openstreetmap.org/?lat=-35.001105&lon=117.516289
 +x1271 http://www.openstreetmap.org/?lat=-34.967280&lon=117.476635
 +x1272 http://www.openstreetmap.org/?lat=-34.968968&lon=117.425480
 MtBarRd http://www.openstreetmap.org/?lat=-34.955181&lon=117.380505
-HorRd http://www.openstreetmap.org/?lat=-34.959349&lon=117.355871
+TD255_E +HorRd http://www.openstreetmap.org/?lat=-34.959349&lon=117.355871
 OceBeaRd http://www.openstreetmap.org/?lat=-34.961759&lon=117.350678
 +x1273 http://www.openstreetmap.org/?lat=-34.975720&lon=117.332053
 +x1274 http://www.openstreetmap.org/?lat=-34.973329&lon=117.318578
 +x1275 http://www.openstreetmap.org/?lat=-34.986269&lon=117.298322
-+x1276 http://www.openstreetmap.org/?lat=-34.982893&lon=117.247767
-+x1277 http://www.openstreetmap.org/?lat=-34.994355&lon=117.196140
+TD255_N http://www.openstreetmap.org/?lat=-34.984836&lon=117.239785
+TD255_S http://www.openstreetmap.org/?lat=-34.991305&lon=117.225130
 +x1278 http://www.openstreetmap.org/?lat=-34.988800&lon=117.151122
 +x1279 http://www.openstreetmap.org/?lat=-34.995199&lon=117.130051
 +x1280 http://www.openstreetmap.org/?lat=-34.954337&lon=117.019372
@@ -219,14 +219,14 @@ DonMillRd http://www.openstreetmap.org/?lat=-34.054686&lon=116.169305
 +x1308 http://www.openstreetmap.org/?lat=-34.015673&lon=116.153126
 +x1309 http://www.openstreetmap.org/?lat=-33.999166&lon=116.153126
 +x1310 http://www.openstreetmap.org/?lat=-33.990626&lon=116.136646
-TD251_S +T251_S http://www.openstreetmap.org/?lat=-33.969025&lon=116.133041
+TD251_S http://www.openstreetmap.org/?lat=-33.969025&lon=116.133041
 SteSt http://www.openstreetmap.org/?lat=-33.958098&lon=116.137199
 HesRd http://www.openstreetmap.org/?lat=-33.920465&lon=116.119995
 +x1311 http://www.openstreetmap.org/?lat=-33.894357&lon=116.087894
 +x1312 http://www.openstreetmap.org/?lat=-33.854166&lon=116.087208
 StaSt http://www.openstreetmap.org/?lat=-33.842154&lon=116.064849
 GreBBRd http://www.openstreetmap.org/?lat=-33.840621&lon=116.060944
-TD251_N +T251_N http://www.openstreetmap.org/?lat=-33.786674&lon=115.984426
+TD251_N http://www.openstreetmap.org/?lat=-33.786674&lon=115.984426
 GriRd http://www.openstreetmap.org/?lat=-33.774617&lon=115.980520
 MasSt http://www.openstreetmap.org/?lat=-33.742854&lon=115.945222
 CunKirRd http://www.openstreetmap.org/?lat=-33.731978&lon=115.909753
@@ -254,7 +254,7 @@ RayRd http://www.openstreetmap.org/?lat=-33.284728&lon=115.752275
 ParRd http://www.openstreetmap.org/?lat=-33.270161&lon=115.753412
 CliRd http://www.openstreetmap.org/?lat=-33.266555&lon=115.752811
 StaRd http://www.openstreetmap.org/?lat=-33.244807&lon=115.744100
-TD260 +T260 http://www.openstreetmap.org/?lat=-33.231508&lon=115.728650
+TD260 http://www.openstreetmap.org/?lat=-33.231508&lon=115.728650
 MarRd http://www.openstreetmap.org/?lat=-33.215102&lon=115.722256
 BinRd http://www.openstreetmap.org/?lat=-33.148511&lon=115.720196
 MyaBeaRd http://www.openstreetmap.org/?lat=-33.106821&lon=115.722899
@@ -294,13 +294,13 @@ AnsRd http://www.openstreetmap.org/?lat=-32.405944&lon=115.773926
 ManRd_N http://www.openstreetmap.org/?lat=-32.382970&lon=115.776629
 PortKenDr http://www.openstreetmap.org/?lat=-32.366478&lon=115.774913
 RoyPalmDr http://www.openstreetmap.org/?lat=-32.349331&lon=115.770063
-WA18 http://www.openstreetmap.org/?lat=-32.325364&lon=115.767188
+WA18_S +WA18 http://www.openstreetmap.org/?lat=-32.325364&lon=115.767188
 WilDr http://www.openstreetmap.org/?lat=-32.310566&lon=115.766373
 ElaDr http://www.openstreetmap.org/?lat=-32.294606&lon=115.762854
 RaeRd http://www.openstreetmap.org/?lat=-32.288838&lon=115.758390
 CouAve http://www.openstreetmap.org/?lat=-32.284883&lon=115.758004
 WA22 http://www.openstreetmap.org/?lat=-32.277083&lon=115.760536
-PatRd_S http://www.openstreetmap.org/?lat=-32.268483&lon=115.755601
+WA18_N +PatRd_S http://www.openstreetmap.org/?lat=-32.268483&lon=115.755601
 TD202 http://www.openstreetmap.org/?lat=-32.244603&lon=115.774999
 MasRd http://www.openstreetmap.org/?lat=-32.232170&lon=115.778850
 WA21 http://www.openstreetmap.org/?lat=-32.225867&lon=115.787608
@@ -443,7 +443,7 @@ NanHowRd http://www.openstreetmap.org/?lat=-28.536124&lon=114.631090
 +x1357 http://www.openstreetmap.org/?lat=-28.455411&lon=114.634266
 +x1358 http://www.openstreetmap.org/?lat=-28.436091&lon=114.646282
 NabNorRd http://www.openstreetmap.org/?lat=-28.367915&lon=114.642849
-HorrRd http://www.openstreetmap.org/?lat=-28.352281&lon=114.629974
+WA139 http://www.openstreetmap.org/?lat=-28.352281&lon=114.629974
 +x1359 http://www.openstreetmap.org/?lat=-28.264775&lon=114.625340
 +x1360 http://www.openstreetmap.org/?lat=-28.239977&lon=114.646626
 +x1361 http://www.openstreetmap.org/?lat=-28.196414&lon=114.635296
@@ -453,7 +453,7 @@ HorrRd http://www.openstreetmap.org/?lat=-28.352281&lon=114.629974
 +x1365 http://www.openstreetmap.org/?lat=-28.073495&lon=114.664135
 +x1366 http://www.openstreetmap.org/?lat=-28.029258&lon=114.678211
 +x1367 http://www.openstreetmap.org/?lat=-28.012286&lon=114.672718
-TD354 http://www.openstreetmap.org/?lat=-27.941109&lon=114.686708
+TD354_N http://www.openstreetmap.org/?lat=-27.941109&lon=114.686708
 +x1368 http://www.openstreetmap.org/?lat=-27.917070&lon=114.688854
 +x1369 http://www.openstreetmap.org/?lat=-27.899170&lon=114.702244
 +x1370 http://www.openstreetmap.org/?lat=-27.869431&lon=114.706020
@@ -466,7 +466,7 @@ CooRd http://www.openstreetmap.org/?lat=-27.840158&lon=114.692545
 NerNerRd http://www.openstreetmap.org/?lat=-27.129644&lon=114.625318
 +x1379 http://www.openstreetmap.org/?lat=-26.945944&lon=114.662762
 ButTrk http://www.openstreetmap.org/?lat=-26.641226&lon=114.549208
-DenHamRd http://www.openstreetmap.org/?lat=-26.409321&lon=114.462690
+TD353 http://www.openstreetmap.org/?lat=-26.409321&lon=114.462690
 +x1381 http://www.openstreetmap.org/?lat=-25.990877&lon=114.301414
 +x1383 http://www.openstreetmap.org/?lat=-25.951253&lon=114.314976
 +x1384 http://www.openstreetmap.org/?lat=-25.876369&lon=114.291801
@@ -563,10 +563,10 @@ PanRd http://www.openstreetmap.org/?lat=-21.592160&lon=115.937347
 +x1484 http://www.openstreetmap.org/?lat=-20.791745&lon=116.753941
 WA142 http://www.openstreetmap.org/?lat=-20.794634&lon=116.773767
 MadRd http://www.openstreetmap.org/?lat=-20.795256&lon=116.776364
-KarRd http://www.openstreetmap.org/?lat=-20.793912&lon=116.862431
+TD351_W http://www.openstreetmap.org/?lat=-20.793912&lon=116.862431
 +x1485 http://www.openstreetmap.org/?lat=-20.794794&lon=116.891613
 +x1486 http://www.openstreetmap.org/?lat=-20.751619&lon=117.009716
-PtSamRd http://www.openstreetmap.org/?lat=-20.763899&lon=117.141724
+TD351_E http://www.openstreetmap.org/?lat=-20.763899&lon=117.141724
 CherRd http://www.openstreetmap.org/?lat=-20.780992&lon=117.144127
 +x1489 http://www.openstreetmap.org/?lat=-20.786931&lon=117.198887
 +x1490 http://www.openstreetmap.org/?lat=-20.811644&lon=117.235966
@@ -675,12 +675,13 @@ JimRd http://www.openstreetmap.org/?lat=-17.902945&lon=124.640687
 +x1587 http://www.openstreetmap.org/?lat=-17.966323&lon=124.847603
 +x1588 http://www.openstreetmap.org/?lat=-17.968936&lon=125.072823
 +x1589 http://www.openstreetmap.org/?lat=-17.955873&lon=125.129814
+TD350_W http://www.openstreetmap.org/?lat=-17.987183&lon=125.243626
 +x1590 http://www.openstreetmap.org/?lat=-17.996611&lon=125.277958
 +x1591 http://www.openstreetmap.org/?lat=-18.048032&lon=125.364389
 +x1592 http://www.openstreetmap.org/?lat=-18.092420&lon=125.404129
 +x1593 http://www.openstreetmap.org/?lat=-18.147809&lon=125.506096
 +x1594 http://www.openstreetmap.org/?lat=-18.186383&lon=125.523005
-ForRd_Fit http://www.openstreetmap.org/?lat=-18.198003&lon=125.567036
+TD350_E http://www.openstreetmap.org/?lat=-18.198003&lon=125.567036
 +x1597 http://www.openstreetmap.org/?lat=-18.242395&lon=125.596733
 +x1598 http://www.openstreetmap.org/?lat=-18.268519&lon=125.595789
 BayAccRd http://www.openstreetmap.org/?lat=-18.297389&lon=125.609179
@@ -716,7 +717,7 @@ YiyComRd http://www.openstreetmap.org/?lat=-18.756466&lon=126.769352
 +x1632 http://www.openstreetmap.org/?lat=-18.363975&lon=127.487583
 TanRd http://www.openstreetmap.org/?lat=-18.324544&lon=127.554703
 RobAve http://www.openstreetmap.org/?lat=-18.225071&lon=127.666540
-N96 http://www.openstreetmap.org/?lat=-18.222992&lon=127.670102
+DunRd +N96 http://www.openstreetmap.org/?lat=-18.222992&lon=127.670102
 +x1633 http://www.openstreetmap.org/?lat=-18.203588&lon=127.688770
 +x1634 http://www.openstreetmap.org/?lat=-18.169666&lon=127.696667
 +x1636 http://www.openstreetmap.org/?lat=-18.074226&lon=127.800522
@@ -773,6 +774,6 @@ CroFalRd http://www.openstreetmap.org/?lat=-15.816782&lon=128.788862
 +x1694 http://www.openstreetmap.org/?lat=-15.848077&lon=128.914776
 +x1696 http://www.openstreetmap.org/?lat=-15.908838&lon=128.942242
 +x1697 http://www.openstreetmap.org/?lat=-15.937561&lon=128.943958
-LakeArgRd http://www.openstreetmap.org/?lat=-15.962154&lon=128.960953
+TD256 http://www.openstreetmap.org/?lat=-15.962154&lon=128.960953
 +x1699 http://www.openstreetmap.org/?lat=-15.991695&lon=128.976917
 WA/NT http://www.openstreetmap.org/?lat=-15.981463&lon=129.000263
