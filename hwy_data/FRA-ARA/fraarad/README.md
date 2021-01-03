@@ -43,6 +43,7 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D16` of departement Lot goes through Cantal (no signs at the border, there is another D16 in Cantal)
 - `D25` crossed the border to Lot and Aveyron multiple times; fully drafted for Cantal
 - `D42` of departement Aveyron extends into Cantal up to `D141`/`D601` junction, see mileposts
+- `D163` of departement Aveyron extends into Cantal up to `D990` junction
 - `D926` Saint-Flour bypass was opened in 2020, new route is `D926` but numbering of old route in unknown (`D921` routing and `D721` eastern extension are just wild guess)
 - `D990` through departement Aveyron (OCC) - there are two segments - are most likely part of the Cantal system. There are no signs or change of pavement at the borders like we usually have at borders of Cantal and Aveyron borders. Wikipedia does not mention that N590 had been declassified to departement Aveyron: https://fr.wikipedia.org/wiki/Route_nationale_590; drafted for Cantal
 
