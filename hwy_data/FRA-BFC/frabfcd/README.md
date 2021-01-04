@@ -7,6 +7,7 @@
 
 **DEPARTMENT BORDER LABELS:**
 FRA-21 = `CdO` = Côte-d’Or
+   https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(21) (edit url for other routes)
    https://routes.fandom.com/wiki/Dijon_M%C3%A9tropole
 FRA-25 = `Dou` = Doubs
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(25) (edit url for other routes)
@@ -24,6 +25,12 @@ FRA-90 = `TeB` = Territoire de Belfort
 
 
 **NOTES TO ROUTES:**
+*FRA-21 - Côte-d’Or:*
+- `M` routes Dijon are signed as we can see on 2020 GSV, was not yet in 2019
+ - Not drafted through the city but ends located at the junction with last outbound sign or at next relevant junction if last sign goes inbound
+ - Old `D` route signs have (rarely) be used to verify the route if GSV was older than 2020
+ - End of routes located at border between departement and metropolis according to wikisara map - also confirmed by OSM M route indication as of January 2021
+
 *FRA-25 - Doubs:*
 - `D203` routing through Saint-Vit not clear
 
