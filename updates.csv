@@ -1890,6 +1890,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2020-12-31;Poland;S5 (Maksymilianowo / Bydgoszcz);pol.s005byd;Route extended at south end from exit 11 to exit 14 and route renamed from Maksymilianowo to Bydgoszcz
+2020-12-31;Poland;S10 (Bydgoszcz);pol.s010byd;Route extended at west end from exit 35 to S5 exit 12
+2020-12-31;Poland;E261;pol.e261;Route removed from Ulica Fryderyka Chopina, Aleja Jana Pawla II, Aleja Karynala Stefana Wyszynskiego, Aleja Armii Krajowej, and Ulica Szosa Gdanska and relocated onto S5 between S5 exits 9 and 14
+2020-12-31;Poland;DK10 (Naklo nad Notecia);pol.dk010nak;Route truncated at west end from S5/S10 at S5 exit 14 to S5 at exit 12
+2020-12-31;Poland;DK25;pol.dk025;Route removed from Ulica Fryderyka Chopina, Aleja Jana Pawla II, Ulica Kujawaska, Ulica Poznanska, Ulica Kruszwicka, Ulica Grunwaldzka, Ulica Nad Torem, and Ulica Koronowska and relocated onto S10 and S5 between S10 exit 36 and S5 exit 11
 2020-12-22;Poland;S2 (Jozefow);pol.s002joz;Route added
 2020-12-22;Poland;DW739 (Gora Kalwaria);pol.dw739gor;Route added
 2020-12-22;Poland;DW739 (Osieck);pol.dw739;Route extended at west end from DW801 to Wistula River
@@ -2387,6 +2392,7 @@ date;region;route;root;description
 2015-07-28;Romania;A1 (Sibiu);rou.a001sib;Route extended at west end from DC67 to DN76, including former Deva section
 2015-07-28;Romania;A11;rou.a011;New Route
 2015-07-28;Romania;E68;rou.e68;Route removed from DN7 through Nadlac onto DN7G and A1 between western junction with the DN7 and the Hungarian border
+2020-12-30;Russia;CKAD;rus.ckad;Route extended at north end from M11 to M10 and route extended at south end from M7 to the A107 at Synkovo
 2020-11-11;Russia;CKAD;rus.ckad;Route added
 2019-11-28;Russia;M11 (Moscow);rus.m011mos;Route extended at north end from M10 at Solnetschnogorsk to M10 at Voskresenskoe
 2019-11-28;Russia;M11 (Vyshny Volochyok);rus.m011;Route extended at north end from M10 at Masnoj Bor to A118
@@ -3673,6 +3679,8 @@ date;region;route;root;description
 2015-08-03;(USA) Indiana;US 24;in.us024;Relocated from Monticello Road onto Hoosier Heartland Highway between MonRd_W and MonRd_E
 2015-08-03;(USA) Indiana;US 31;in.us031;Relocated from Dixie Highway onto freeway between exit 240 and 246
 2015-08-03;(USA) Indiana;US 35;in.us035;Relocated from Monticello Road and onto Hoosier Heartland Highway between MonRd_W and MonRd_E
+2021-01-05;(USA) Iowa;IA 1;ia.ia001;Split one-block multiplex with US 34
+2021-01-05;(USA) Iowa;US 34 Business (Fairfield);ia.us034busfai;Split IA1 into IA1_N and IA1_S
 2020-10-26;(USA) Iowa;US 20 Business (Sioux City);ia.us020bussio;Removed from I-29 between US 77 and Virginia Street, breaking duplex with IA 12, and re-relocating onto Gordon Drive
 2020-09-25;(USA) Iowa;IA 12;ia.ia012;Removed from Gordon Drive between I-29 and Virginia Street and relocated onto I-29
 2020-09-25;(USA) Iowa;US 20 Business (Sioux City);ia.us020bussio;Removed from Gordon Drive between I-29 and Virginia Street and relocated onto I-29
@@ -3706,6 +3714,9 @@ date;region;route;root;description
 2015-08-17;(USA) Iowa;IA 92;ia.ia092;Removed from Grandview Avenue/Mississippi Drive in Muscatine and rerouted onto US 61 and IA 38/Park Avenue in and around Muscatine
 2015-08-17;(USA) Iowa;US 34;ia.us034;Removed from road extending westward from I-29 exit 32 into Nebraska and moved onto new expressway extending west from I-29 exit 35 to Nebraska state line
 2015-08-17;(USA) Iowa;US 69;ia.us069;Renamed point IA152->CRR35
+2020-12-28;(USA) Kansas;US 83;ks.us083;In Haskell County, removed from a mostly-demolished section of Fourth Guide Meridian West or MM Rd and relocated onto a parallel undivided highway to the immediate east between closed intersections labeled *OldUS83_A and *OldUS83_C. This change occurred sometime between 2015 & 2017.
+2020-12-28;(USA) Kansas;US 160;ks.us160;Relocated southward from a demolished section of 130 Rd to a parallel roadway and eastward from a partially demolished section of Fourth Guide Meridian West or MM Rd to a parallel undivided highway between closed intersections labeled *OldUS160 and *OldUS83. This change occurred sometime between 2015 & 2017.
+2020-12-28;(USA) Kansas;KS 144;ks.ks144;West end removed from a demolished section of 130 Rd and relocated onto a parallel roadway to the immediate south between US 83/160 and a closed intersection labeled *OldKS144. This change occurred sometime between 2015 & 2017.
 2020-11-17;(USA) Kansas;Turner Diagonal;;Deleted route
 2020-03-08;(USA) Kansas;US 73 Truck (Leavenworth);;Deleted route
 2020-03-08;(USA) Kansas;KS 7 Truck (Leavenworth);;Deleted route
@@ -3718,6 +3729,10 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2020-12-31;(USA) Kentucky;KY 191;ky.ky0191;Relocated to new alignment between OldKY205_S and OldKY191_W, which includes new location for KY205_S point
+2020-12-31;(USA) Kentucky;KY 205;ky.ky0205;Relocated to new alignment between OldKY205_S and OldKY205_N, which includes new locations for ComMtnPkwy and KY191_E points
+2020-12-31;(USA) Kentucky;KY 2491;ky.ky2491;Truncated at north end to KY 191
+2020-12-31;(USA) Kentucky;Bert T Combs Mountain Parkway;ky.commtnpkwy;57 point relocated from *OldExit57 to new location 0.15 miles west at relocated KY 205 junction
 2020-12-24;(USA) Kentucky;US 42;ky.us042;KY 536 point relocated from Mt Zion Rd intersection (now labeled MtZionRd) to new point 0.1 mile south at new KY 536 alignmnent
 2020-12-24;(USA) Kentucky;US 127;ky.us127;KY 536 point relocated from Mt Zion Rd intersection (now labeled MtZionRd) to new point 0.1 mile south at new KY 536 alignmnent
 2020-12-24;(USA) Kentucky;KY 399;ky.ky0399;Truncated at south end from KY 30 to KY 3536
