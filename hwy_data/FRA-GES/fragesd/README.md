@@ -20,9 +20,12 @@ FRA-55 = `Meu` = Meuse
    no list available, just OSM,GM,...
 FRA-57 = `Mos` = Moselle
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(57) (edit url for other routes)
-FRA-67 = `Als` = Alsace = to be merged
+FRA-6ae = `Als` = Alsace
    https://www.data.gouv.fr/fr/datasets/routes-categorie-route-departementale-rd-01-01-2017-departement-du-bas-rhin-67/
-FRA-68 = `Als` = Alsace = to be merged
+   https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/21_Carte_A0_renum_renom_RNRD_CEA_2020_04_16.pdf
+   https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/19_Annexe_Regles_de_nommage.pdf
+   https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/20_ANNEXE_Rapport_RenumRd_CD67.pdf
+   https://routes.fandom.com/wiki/Eurom%C3%A9tropole_de_Strasbourg
 FRA-88 = `Vos` = Vosges
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(88) (edit url for other routes)
 
