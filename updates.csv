@@ -15,6 +15,7 @@ date;region;route;root;description
 2016-03-12;Albania;A3 (Elbasan);alb.a003elb;New Route
 2016-03-12;Albania;A3 (Tirane);alb.a003;New Route
 2015-07-17;Albania;A3;alb.a003;New route
+2021-01-14;(Australia) Australia Capital Territory;A23;ausact.a023;Route extended at south end from northern junction with State Circle to NSW border
 2020-09-23;(Australia) New South Wales;M1 (Ballina);ausnsw.m001bal;Route extended at south end from B60 to Trustmans Hill Road
 2020-09-23;(Australia) New South Wales;M1 (Grafton);ausnsw.m001gra;Route extended at north end from Oval Link Road to Iluka Road
 2020-07-05;(Australia) New South Wales;M8;ausnsw.m008;Route added
@@ -556,6 +557,17 @@ date;region;route;root;description
 2020-07-09;(France) Centre-Val de Loire;E60;fracvl.e60;Route removed from D751 and D37 and relocated onto A85 and A10 between A85 exit 9 and A10 exit 24
 2020-07-09;(France) Centre-Val de Loire;E604;fracvl.e604;Route truncated at west end from A85 exit 9 to A10
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
+2021-01-11;(France) Grand-Est;A340;frages.a340;Route extended at north end from D519 to D144
+2021-01-11;(France) Grand-Est;A340;frages.a340;Route extended at south end from A4 to D421
+2021-01-11;(France) Grand-Est;N83;frages.d00836ae;Route deleted (D83-6ae now)
+2021-01-10;(France) Grand-Est;N4 (Wolfisheim);frages.d10046ae;Route deleted (D1004-6ae now)
+2021-01-10;(France) Grand-Est;N59 (Selestat);frages.d10596ae;Route deleted (D1059-6ae now)
+2021-01-10;(France) Grand-Est;N66;frages.d10666ae;Route truncated at east end from A36 to Vosges / Alsace departement border (D1066-6ae now)
+2021-01-10;(France) Grand-Est;N363;frages.d13636ae;Route deleted (D1363-6ae now)
+2021-01-10;(France) Grand-Est;N1083;frages.d10836ae;Route deleted (D1083-6ae now)
+2021-01-10;(France) Grand-Est;N83;frages.m00836ae;Route deleted (M83-6ae now)
+2021-01-10;(France) Grand-Est;N353;frages.m03536ae;Route deleted (M353-6ae now)
+2021-01-10;(France) Grand-Est;N2350 (Strasbourg);frages.m23506ae;Route deleted (M2350-6ae now)
 2020-11-08;(France) Grand-Est;D14E-77;frages.d0014e77;New Route
 2020-11-08;(France) Grand-Est;D108-77;frages.d010877;New Route
 2020-11-08;(France) Grand-Est;D934-77;frages.d093477;New Route
@@ -1301,6 +1313,8 @@ date;region;route;root;description
 2018-11-20;Indonesia;Jalan Tol Pemalang - Batang;idn.jtpb;New Route
 2017-12-07;Indonesia;Jalan Tol Soroja;idn.jts;New Route
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2021-01-14;Ireland;R869;irl.r869;Route added
+2021-01-14;Ireland;R925;irl.r925;Route extended at east end from Lough Eske Drive to R267
 2020-05-02;Ireland;R472;irl.r472;Route extended at west end from L1200 to Calafort Ros an Mhil
 2020-01-30;Ireland;E30;irl.e30;Route removed from Waterford Road, Quay, and New Ross Ring Road and relocated onto New Ross Bypass between R723 and N30
 2020-01-30;Ireland;N25;irl.n025;Route removed from Waterford Road, Quay, and New Ross Ring Road and relocated onto New Ross Bypass between R723 and N30
@@ -3086,6 +3100,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-01-10;(UK) England;B1542;eng.b1542;Route added
 2020-12-26;(UK) England;B1538;eng.b1538;Route added
 2020-12-19;(UK) England;A15;eng.a0015;Route removed from Sleaford Road, London Road, Cross O'Cliff Hill, St Catherines, South Park Avenue, Canwick Road, Pelham Bridge, Melville Street, Magpie Street, Broadgate, Lindum Road, Wragby Road, and Bunkers Hill and relocated onto Lincoln Eastern Bypass between A607 and A158
 2020-12-19;(UK) England;A607;eng.a0607;Route extended at north end along former A15 from ToA15 to A1434
@@ -3492,6 +3507,7 @@ date;region;route;root;description
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2021-01-14;(USA) Colorado;Academy Boulevard;;Route deleted
 2020-11-26;(USA) Colorado;Academy Boulevard;co.acablvd;New Route
 2020-09-14;(USA) Colorado;CO 40 (Limon);;Route deleted
 2020-09-14;(USA) Colorado;CO 128 (The Ranch);;Route deleted
@@ -4139,8 +4155,9 @@ date;region;route;root;description
 2015-09-06;(USA) Missouri;US 169 Spur (Smithville);mo.us169sprsmi;Extended route south on Bridge St. from Route F to Church St.
 2015-09-06;(USA) Missouri;US 36 Business (Chillicothe);mo.us036buschi;Relocated from frontage road west of US 65, to US 65 between frontage road and US 36
 2015-09-06;(USA) Missouri;US 36 Spur (Utica);;Deleted route
+2020-12-27;(USA) Montana;US 2;mt.us002;Waypoint SR237 moved from Clinton Street to a new north-south road located 2.7 mi east.
+2020-08-20;(USA) Montana;SR 327;mt.sr327;North end removed from Bainville-Snowden Road, 5th Avenue and Clinton Street and relocated onto a north-south road from Bainville-Snowden Road to US 2.
 2020-07-29;(USA) Montana;US 12 Business (Helena);;Route deleted
-2020-08-20;(USA) Montana;SR 327;mt.sr327;Route removed from old alignment through Bainville and re-routed along new alignment east of Bainville
 2020-01-29;(USA) Montana;SR 544;mt.sr544;Route re-routed along Ranch Creek Road between Belle Creek and MT 59
 2020-01-28;(USA) Montana;SR 204;mt.sr204;Route truncated to Wagner Road
 2020-01-28;(USA) Montana;SR 258;mt.sr258;Route extended at west end to Reserve (Rock Springs Road)
@@ -4473,6 +4490,7 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2021-01-17;(USA) Oklahoma;Kickapoo Turnpike;ok.kiktpk;Extended southward from Exit 138 to Exit 130.
 2020-10-18;(USA) Oklahoma;Kickapoo Turnpike;ok.kiktpk;Route added
 2020-03-07;(USA) Oklahoma;John Kilpatrick Turnpike;ok.johnkiltpk;West end truncated from 15th St to I-40, then extended past 15th St on new alignment to OK 152.
 2019-07-07;(USA) Oklahoma;US 270;ok.us270;Removed from Boren Blvd and Broadway Ave and relocated onto OK 9 and Harvey Rd (former OK 270A) between OK3E West and Broadway Ave.
@@ -4511,6 +4529,8 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2021-01-18;(USA) Pennsylvania;PA 52 Alternate Truck (Thornbury Township);;Route deleted.
+2021-01-18;(USA) Pennsylvania;PA 926 Alternate Truck (Thornbury Township);;Route deleted.
 2020-12-28;(USA) Pennsylvania;PA 29 (Phoenixville);pa.pa029pho;Relocated in Collegeville along realigned First Ave between MainSt and *OldPA29_A instead of having to follow Main St east to First Ave.  
 2020-10-10;(USA) Pennsylvania;PA 441;pa.pa441;Realigned to use former route of PA 441 Truck (Middletown) between Union St (UniSt_S) and PA230_E.  
 2020-10-10;(USA) Pennsylvania;PA 441 Truck (Middletown);;Route deleted. (replaced by realignment of PA 441)
@@ -4917,6 +4937,7 @@ date;region;route;root;description
 2018-01-01;(USA) Virginia;US 15 Alt (Farmville);va.us015altfar;New route
 2018-01-01;(USA) Virginia;VA 167;va.va167;New route
 2018-01-01;(USA) Virginia;VA 154 (Covington);;Route deleted
+2021-01-07;(USA) Washington;WA 525;wa.wa525;Northern terminus relocated to location of newly-opened Mukilteo ferry terminal between relocated CliMukFry waypoint and new MukSpe waypoint
 2020-11-03;(USA) Washington;US 195 Spur (Uniontown);;Route deleted
 2019-08-15;(USA) Washington;WA 519;;Route deleted
 2019-07-27;(USA) Washington;WA 240 Business Loop (Richland);wa.wa240busric;Route added
