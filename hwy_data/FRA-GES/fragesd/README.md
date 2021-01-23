@@ -16,10 +16,12 @@ FRA-52 = `HMa` = Haute-Marne
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(52) (edit url for other routes)
 FRA-54 = `MeM` = Meurthe-et-Moselle
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(54) (edit url for other routes)
+   https://routes.fandom.com/wiki/M%C3%A9tropole_du_Grand_Nancy
 FRA-55 = `Meu` = Meuse
    no list available, just OSM,GM,...
 FRA-57 = `Mos` = Moselle
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(57) (edit url for other routes)
+   https://routes.fandom.com/wiki/Metz_M%C3%A9tropole
 FRA-6ae = `Als` = Alsace
    https://www.data.gouv.fr/fr/datasets/routes-categorie-route-departementale-rd-01-01-2017-departement-du-bas-rhin-67/
    https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/21_Carte_A0_renum_renom_RNRD_CEA_2020_04_16.pdf
