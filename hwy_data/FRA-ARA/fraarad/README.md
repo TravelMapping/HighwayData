@@ -25,6 +25,7 @@ FRA-43 = `HLo` = Haute-Loire
 FRA-63 = `PdD` = Puy-de-Dôme
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(63) (edit url for other routes)
 FRA-69 = `Rho` = Rhône
+   https://routes.fandom.com/wiki/M%C3%A9tropole_de_Lyon_(69M)
 FRA-73 = `Sav` = Savoie
    no list available, just OSM,GM,...
 FRA-74 = `HSa` = Haute-Savoie
@@ -32,6 +33,10 @@ FRA-74 = `HSa` = Haute-Savoie
 
 
 **NOTES TO ROUTES:**
+*FRA-01 - Ain:*
+- `D1075A` and `D1075B` are ramps of (former) interchanges only, not drafted
+- `D1084B` is only a one-way branch of `D1084`, not drafted
+
 *FRA-03 - Allier:*
 - `D28` extends into Cher (departement 18 in CVL) more than once. The border sign is a little bit off the actual border and the pavement change is in CVL. Route extended to next junction at `D951`
 - `D951` of Cher (departement 18 in CVL) has a short segment in ARA but there are no signs at the border, no pavement change and a km post indicating km48, should belong to fracvld18 system
