@@ -34,6 +34,8 @@ FRA-74 = `HSa` = Haute-Savoie
 
 **NOTES TO ROUTES:**
 *FRA-01 - Ain:*
+- `D884B` to `D884E` are ramps of interchanges only, not drafted
+- `D936` drafted via Saint-Trivier-sur-Moignans bypass opened Dec 2019 - shp files from March 2019 still have it through the village
 - `D1075A` and `D1075B` are ramps of (former) interchanges only, not drafted
 - `D1084B` is only a one-way branch of `D1084`, not drafted
 
