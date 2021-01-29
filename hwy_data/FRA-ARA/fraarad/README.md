@@ -37,7 +37,6 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D884B` to `D884E` are ramps of interchanges only, not drafted
 - `D936` drafted via Saint-Trivier-sur-Moignans bypass opened Dec 2019 - shp files from March 2019 still have it through the village
 - `D1075A` and `D1075B` are ramps of (former) interchanges only, not drafted
-- `D1084B` is only a one-way branch of `D1084`, not drafted
 
 *FRA-03 - Allier:*
 - `D28` extends into Cher (departement 18 in CVL) more than once. The border sign is a little bit off the actual border and the pavement change is in CVL. Route extended to next junction at `D951`
