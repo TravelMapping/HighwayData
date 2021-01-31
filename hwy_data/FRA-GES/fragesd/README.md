@@ -74,6 +74,7 @@ FRA-88 = `Vos` = Vosges
 
 *FRA-6ae - Alsace:*
 - `D30` segment between `D392` and `D1420` is not available in shp files from January 2020 but on the renumbering map from April 2020 (w/o number) and is clearly signed on 2019 GSV, added
+- `D25` north end is `D53` according to shp files from January 2020 but it is very short (0.11mi) and clearly signed as `D25` on 2019 GSV
 
 *FRA-88 - Vosges:*
 - `D2F` end not clear dur to lack of GSV coverage. It is signed at junction with `D2` (2011 GSV) and it is not signed at junction with `D9` (2018 GSV). It crosses the border to BFC and back to GES
