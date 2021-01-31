@@ -24,6 +24,7 @@ FRA-57 = `Mos` = Moselle
    https://routes.fandom.com/wiki/Metz_M%C3%A9tropole
 FRA-6ae = `Als` = Alsace
    https://www.data.gouv.fr/fr/datasets/routes-categorie-route-departementale-rd-01-01-2017-departement-du-bas-rhin-67/
+   http://yakra.teresco.org/tmtools_demos/gisplunge/FRA/Bas-Rhin/
    https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/21_Carte_A0_renum_renom_RNRD_CEA_2020_04_16.pdf
    https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/19_Annexe_Regles_de_nommage.pdf
    https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/20_ANNEXE_Rapport_RenumRd_CD67.pdf
@@ -70,6 +71,9 @@ FRA-88 = `Vos` = Vosges
 - `D104K` is signed as `C4` at `D37` junction but there is a `D104K` sign at the entrance of Glasenberg, whole route in HB
 - `D199D` is missing, `D199` is likely signed incorrect since no other `D1xx` route exists without suffix
 - It seems that from 2020-01-01 some route segments will be dedicated as M routes (not yet considered when drafting routes!): https://routes.fandom.com/wiki/Metz_M%C3%A9tropole#En_g.C3.A9n.C3.A9ral (`M1`, `M6`, `M7`, `M11`, `M69`, `M157A`,`M157B`,`M603`, `M643`, `M652`, `M657`, `M903`, `M913`, `M953`, `M954`, `M955`, `M999`)
+
+*FRA-6ae - Alsace:*
+- `D30` segment between `D392` and `D1420` is not available in shp files from January 2020 but on the renumbering map from April 2020 (w/o number) and is clearly signed on 2019 GSV, added
 
 *FRA-88 - Vosges:*
 - `D2F` end not clear dur to lack of GSV coverage. It is signed at junction with `D2` (2011 GSV) and it is not signed at junction with `D9` (2018 GSV). It crosses the border to BFC and back to GES
