@@ -8,7 +8,7 @@
 **DEPARTMENT BORDER LABELS:**
 FRA-08 = `Arn` = Ardennes
    no list available, just OSM,GM,...
-FRA-10 = `Aube` = Aube
+FRA-10 = `Aub` = Aube
    no list available, just OSM,GM,...
 FRA-51 = `Mar` = Marne
    no list available, just OSM,GM,...
@@ -16,13 +16,19 @@ FRA-52 = `HMa` = Haute-Marne
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(52) (edit url for other routes)
 FRA-54 = `MeM` = Meurthe-et-Moselle
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(54) (edit url for other routes)
+   https://routes.fandom.com/wiki/M%C3%A9tropole_du_Grand_Nancy
 FRA-55 = `Meu` = Meuse
    no list available, just OSM,GM,...
 FRA-57 = `Mos` = Moselle
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(57) (edit url for other routes)
-FRA-67 = `Als` = Alsace = to be merged
+   https://routes.fandom.com/wiki/Metz_M%C3%A9tropole
+FRA-6ae = `Als` = Alsace
    https://www.data.gouv.fr/fr/datasets/routes-categorie-route-departementale-rd-01-01-2017-departement-du-bas-rhin-67/
-FRA-68 = `Als` = Alsace = to be merged
+   http://yakra.teresco.org/tmtools_demos/gisplunge/FRA/Bas-Rhin/
+   https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/21_Carte_A0_renum_renom_RNRD_CEA_2020_04_16.pdf
+   https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/19_Annexe_Regles_de_nommage.pdf
+   https://www.bas-rhin.fr/webdelib/files/unzip///seance_134651/20_ANNEXE_Rapport_RenumRd_CD67.pdf
+   https://routes.fandom.com/wiki/Eurom%C3%A9tropole_de_Strasbourg
 FRA-88 = `Vos` = Vosges
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(88) (edit url for other routes)
 
@@ -66,8 +72,13 @@ FRA-88 = `Vos` = Vosges
 - `D199D` is missing, `D199` is likely signed incorrect since no other `D1xx` route exists without suffix
 - It seems that from 2020-01-01 some route segments will be dedicated as M routes (not yet considered when drafting routes!): https://routes.fandom.com/wiki/Metz_M%C3%A9tropole#En_g.C3.A9n.C3.A9ral (`M1`, `M6`, `M7`, `M11`, `M69`, `M157A`,`M157B`,`M603`, `M643`, `M652`, `M657`, `M903`, `M913`, `M953`, `M954`, `M955`, `M999`)
 
+*FRA-6ae - Alsace:*
+- `D30` segment between `D392` and `D1420` is not available in shp files from January 2020 but on the renumbering map from April 2020 (w/o number) and is clearly signed on 2019 GSV, added
+- `D25` north end is `D53` according to shp files from January 2020 but it is very short (0.11mi) and clearly signed as `D25` on 2019 GSV
+
 *FRA-88 - Vosges:*
 - `D2F` end not clear dur to lack of GSV coverage. It is signed at junction with `D2` (2011 GSV) and it is not signed at junction with `D9` (2018 GSV). It crosses the border to BFC and back to GES
 - `D9` extends into Meurthe-et-Moselle and back to Vosges. There are `D9` milepost in MeM. Included.
 - `D22` extends into Haute-Marne a little bit and back to Vosges. Included.
+- `D57` mostly leads through BFC(70) but belong to GES(88), see https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D57_(70)
 - `D182` is signed at the border stone with both departements
