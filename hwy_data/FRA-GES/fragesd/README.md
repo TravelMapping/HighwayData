@@ -76,6 +76,8 @@ FRA-88 = `Vos` = Vosges
 - `D30` segment between `D392` and `D1420` is not available in shp files from January 2020 but on the renumbering map from April 2020 (w/o number) and is clearly signed on 2019 GSV, added
 - `D25` north end is `D53` according to shp files from January 2020 but it is very short (0.11mi) and clearly signed as `D25` on 2019 GSV
 - `D303` is the former `D103` in Haut-Rhin, renumbered with the merger. January 2020 shp files do have a `D303` in Bas-Rhin (Wissembourg, northern extension of `D263`) which is also indicated on OSM but not on GM nor GSV. There are no duplicates and since the southern `D303` was renamed, the northern one cannot exist. Not drafted the latter in Wissembourg
+- `M353` west end between of `A35`/`M400` interchange and `M84` could be `M401` (shp files + renumbering map) but OSM indicates it being `M353` all the way which makes pretty much sense, no updated numbering visible on 2020 GSV -> to be checked before activation
+- `M445` south end (south of railway) differs to shp files, shp route is permanently closed according to 2008 + 2019 GSV
 
 *FRA-88 - Vosges:*
 - `D2F` end not clear dur to lack of GSV coverage. It is signed at junction with `D2` (2011 GSV) and it is not signed at junction with `D9` (2018 GSV). It crosses the border to BFC and back to GES
