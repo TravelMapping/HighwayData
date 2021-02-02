@@ -81,8 +81,9 @@ FRA-88 = `Vos` = Vosges
 - `D503` is signed at junction with `D3`/`D51` but does not extend to the junction according to shp files, not extended
 - `D522` of shp files is only a ramp of an interchange and there is another `D522`in Haut-Rhin, not drafted
 - `D528` is only a short one-way street of `D28`, not drafted
-- `D753` should exist according to shp files + GM but nothing on GSV, OSM nor renumbering map, drafted though
+- `D753` should exist according to shp files + GM but nothing on GSV, OSM nor renumbering map, drafted though because it is very short (0.4mi), maybe too small for the renumbering map
 - `M763` is only a short one-way street of `M63`, not drafted
+- `D2063` should exist according to shp files + OSM but nothing on GSV, GM nor renumbering map, not drafted beacuse it is 1.8mi long and would be easily visible on the renumbering map but isn't
 
 *FRA-88 - Vosges:*
 - `D2F` end not clear dur to lack of GSV coverage. It is signed at junction with `D2` (2011 GSV) and it is not signed at junction with `D9` (2018 GSV). It crosses the border to BFC and back to GES
