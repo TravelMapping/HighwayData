@@ -16,4 +16,5 @@ FRA-76 = `SMt` = Seine-Maritime
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-27 - Eure:*
+- `D675` Beuzeville bypass and routes around must be checked
