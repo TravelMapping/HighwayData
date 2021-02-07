@@ -18,4 +18,5 @@ FRA-76 = `SMt` = Seine-Maritime
 **NOTES TO ROUTES:**
 *FRA-27 - Eure:*
 - Generally, OSM + GM often show routes which are not confirmed by GSV. Eure departement also seems to be bad in signposting.
+- Many 3-digit D route numberings on OSM are from early 2010s (indicated with "source bing") but more recent GSV clearly shows no signs or C numbering
 - `D675` Beuzeville bypass and routes around must be checked
