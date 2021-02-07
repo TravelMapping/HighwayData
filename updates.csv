@@ -145,8 +145,8 @@ date;region;route;root;description
 2016-11-09;Bulgaria;E79;bgr.e79;Removed from II/18 and relocated onto SST between II18_E and II18_N
 2016-11-09;Bulgaria;E80;bgr.e80;Removed from II/18 and relocated onto SST between II18_N and A2
 2016-05-01;Bulgaria;Severnata Skorostna Tangenta;bgr.sst;New Route
-2015-12-30;Bulgaria;E79;bgr.e79;Removed from route through Montana and relocated to Montana bypass between Dolna Verenitsa and "ToN81"
-2015-12-30;Bulgaria;E79;bgr.e79;Removed from Ulista Ilinden and Bulevarde 2-ri Yuni and relocated to Vrasta bypass between "UliIli" and "Bul2riYuni"
+2015-12-30;Bulgaria;E79;bgr.e79;Removed from route through Montana and relocated to Montana bypass between Dolna Verenitsa and 'ToN81'
+2015-12-30;Bulgaria;E79;bgr.e79;Removed from Ulista Ilinden and Bulevarde 2-ri Yuni and relocated to Vrasta bypass between 'UliIli' and 'Bul2riYuni'
 2015-10-29;Bulgaria;A4;bgr.a004;Route extended at west end from N5 to A1
 2015-10-29;Bulgaria;E80;bgr.e80;Route removed from N66, N807, N8 and N5 and relocated onto A4 between now closed N66 junction and the N5 junction on the A4
 2015-10-26;Bulgaria;A3 (Pernik);bgr.a003;Route extended at south end from the N1 at Dupnitsa-sever to the N106
@@ -761,6 +761,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2021-02-02;(Germany) Bavaria;St2020;deuby.st2020;Route relocated at south end from through Holzgünz and onto new bypass from MN26 to A96
 2020-12-10;(Germany) Bavaria;B289 (Kulmbach);deuby.b289;Route relocated from through Untersteinach and onto new bypass from west of Untersteinach to grade-separated junction with B303
 2020-11-28;(Germany) Bavaria;B301;deuby.b301;Route relocated from through Freising and onto new bypass from Amperleite to St2350
 2020-11-21;(Germany) Bavaria;B304 (Wasserburg);deuby.b304;Route relocated from Wasserburger Straße through Altenmarkt and onto new northern bypass between Dorfener Straße and B299 (tunnel section)
@@ -986,6 +987,7 @@ date;region;route;root;description
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2021-02-06;(Germany) Saxony;S88;deusn.s088;Route relocated from through Röderau and onto northern and eastern bypass of Zeithain between Gohliser Straße, Röderau, and B169 interchange south of Zeithain
 2020-12-12;(Germany) Saxony;S9;;Route deleted
 2020-09-12;(Germany) Saxony;S319;deusn.s319;Route extended at north end from S310 to A72
 2019-08-03;(Germany) Saxony;A72;deusn.a072;Route extended at north end from exit 26 to exit 28
@@ -1209,6 +1211,7 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2021-02-06;Indonesia;T15 (Java);idn.t015;Route extended at west end from exit 6 to Jalan Raya Soleh Iskandar
 2021-01-26;Indonesia;T3 (Sumatra);idn.t003sum;Route extended at north end from Jakabaring to Kramasan
 2020-12-02;Indonesia;Jalan Tol Penkanbaru-Dumai;idn.jtpd;Route added
 2020-11-29;Indonesia;Jalan Tol Dumai-Rantau Prapat;idn.jtdrp;Route added
@@ -1741,6 +1744,7 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2021-02-06;Norway;Rv83 (Harstad);nor.rv083har;New Route
 2020-11-22;Norway;Rv509;nor.rv509;Route truncated at north end from Stavanger Motorveien to Kvernavik (Fv441 now)
 2020-09-25;Norway;E16;nor.e16;Route relocated from Øyevegen through Øye and onto the bypass (Rødølstunnelen) from Fv2513 west of Øye to FV2513 east of Øye
 2020-09-20;Norway;E6 (Kirkenes);nor.e6kir;Route relocated from old to new Tana bridge between Fv890 and Fv98
@@ -3351,7 +3355,7 @@ date;region;route;root;description
 2015-07-25;(UK) England;Queensway Tunnel;eng.quetun;New Route
 2015-07-25;(UK) England;St Peter's Way;eng.stpetway;New Route
 2015-07-25;(UK) England;Thamesdown Drive;eng.thadr;New Route
-2021-01-29;(UK) Northern Ireland;A6;nir.a006;Route removed from Hillhead Road, and relocated onto new expressway between 'B183_E' and Hillhead Road
+2021-01-29;(UK) Northern Ireland;A6;nir.a006;Route removed from Hillhead Road, and relocated onto new expressway between junction with B183 west of Toome and Hillhead Road (east of Castledawson)
 2021-01-29;(UK) Northern Ireland;E16;nir.e16;Route removed from Hillhead Road, and relocated onto A6 between 'B183_E' and Hillhead Road
 2021-01-29;(UK) Northern Ireland;B183;nir.b183;Route extended at west end from western junction with A6 to B182
 2019-08-26;(UK) Northern Ireland;A6;nir.a006;Route removed from B183 and relocated onto new construction between M22 junction 3 and 'B183_E'
@@ -4350,6 +4354,11 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2021-02-05;(USA) North Carolina;I-840;nc.i840;route extended to Elm St
+2021-02-05;(USA) North Carolina;US 15;nc.us015;Rerouted onto new alignment in Aberdeen - new route is between points NC211_E and US 1_S and closed point remains at former US 1 tie-in
+2021-02-05;(USA) North Carolina;US 501;nc.us501;Rerouted onto new alignment in Aberdeen - new route is between points NC211_E and US 1_S and closed point remains at former US 1 tie-in
+2021-02-05;(USA) North Carolina;NC 211;nc.nc211;Rerouted onto new alignment in Aberdeen - new route is between points US15/501_S and US 1_S and closed point remains at former US 1 tie-in
+2021-02-05;(USA) North Carolina;NC 32;nc.nc032;NC 94 labels redone but NC94_N point had to be reused so no alt label possible at NC94 point
 2020-12-22;(USA) North Carolina;NC 74;nc.nc074;extended west to US 311
 2020-12-19;(USA) North Carolina;I-40 Bus (Winston-Salem);;deleted - no longer designated and route remains part of US 421
 2020-12-19;(USA) North Carolina;US 64 Business (Asheboro);nc.us064busash;Route added
@@ -4522,8 +4531,8 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
-2021-01-17;(USA) Oklahoma;Kickapoo Turnpike;ok.kiktpk;Extended southward from Exit 138 to Exit 130.
-2020-10-18;(USA) Oklahoma;Kickapoo Turnpike;ok.kiktpk;Route added
+2021-01-17;(USA) Oklahoma;Kickapoo Turnpike;ok.kictpk;Extended southward from Exit 138 to Exit 130.
+2020-10-18;(USA) Oklahoma;Kickapoo Turnpike;ok.kictpk;Route added
 2020-03-07;(USA) Oklahoma;John Kilpatrick Turnpike;ok.johnkiltpk;West end truncated from 15th St to I-40, then extended past 15th St on new alignment to OK 152.
 2019-07-07;(USA) Oklahoma;US 270;ok.us270;Removed from Boren Blvd and Broadway Ave and relocated onto OK 9 and Harvey Rd (former OK 270A) between OK3E West and Broadway Ave.
 2019-07-07;(USA) Oklahoma;OK 3E;ok.ok003e;Removed from Boren Blvd and Broadway Ave and relocated onto OK 9 and US 377 between US 270 West and US 270 East.
@@ -4701,6 +4710,8 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2021-02-05;(USA) South Carolina;SC 153;sc.sc153;extended north as new roadway to Saluda Dam Rd
+2021-02-05;(USA) South Carolina;SC 150 Truck (Pacolet Mills);sc.sc150trkpac;Route added
 2020-09-16;(USA) South Carolina;SC 31;sc.sc031;extended south as new freeway to SC 707 (originally done 11-17-2019, reemphasizing due to issue that led to the extension not being shown)
 2019-10-08;(USA) South Carolina;US 76 Connector (Columbia);;Route deleted
 2019-09-28;(USA) South Carolina;US 21 Connector (Columbia);;Route deleted
@@ -4943,6 +4954,7 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2021-02-03;(USA) Virginia;VA 246;;Route deleted - no longer posted
 2020-12-21;(USA) Virginia;VA 322;va.va322;extended north to actual long-time endpoint
 2020-12-21;(USA) Virginia;VA 252;va.va252;file changed to actual long-time Staunton routing starting with MidAve_N - if you drove VA 252 northbound before you were forced to take the correct routing
 2020-01-12;(USA) Virginia;US 501;va.us501;rerouted at the James River, new alignment is between closed points OldUS501S and N
