@@ -22,4 +22,6 @@ FRA-76 = `SMt` = Seine-Maritime
 - `D675` Beuzeville bypass and routes around must be checked
 
 *FRA-50 - Manche:*
+- Location of `D666` unknown.
 - `D973` goes through Sartilly according to shp files + GM; OSM indicates `D973` on bypass and `D973E1` through Sartilly but 2018 + 2019 GSV indicates `D973` on the bypass and `D673` through Sartilly. Drafted according to the latter.
+- `D975` has a gap in shp files which should be `D675` according to GM + OSM but there is not `D675` shp file. GSV has some signs indicating `D675` and some indicating `D975` - needs to be checked before activation!
