@@ -20,3 +20,6 @@ FRA-76 = `SMt` = Seine-Maritime
 - Generally, OSM + GM often show routes which are not confirmed by GSV. Eure departement also seems to be bad in signposting.
 - Many 3-digit D route numberings on OSM are from early 2010s (indicated with "source bing") but more recent GSV clearly shows no signs or C numbering
 - `D675` Beuzeville bypass and routes around must be checked
+
+*FRA-50 - Manche:*
+- `D973` goes through Sartilly according to shp files + GM; OSM indicates `D973` on bypass and `D973E1` through Sartilly but 2018 + 2019 GSV indicates `D973` on the bypass and `D673` through Sartilly. Drafted according to the latter.
