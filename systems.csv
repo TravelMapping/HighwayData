@@ -11,6 +11,7 @@ ausab;AUS;Australia A Roads (Bannered);TMred;4;active
 ausnb;AUS;Australia N Roads (Bannered);TMred;4;active
 ausr;AUS;Australia Ring Roads;TMred;4;active
 ausntb;AUS;Northern Territory B Roads;TMyellow;4;active
+aussab;AUS;South Australia B Roads;TMyellow;4;active
 ausqldmr;AUS;Brisbane Metroads;TMred;4;active
 ausnt;AUS;Northern Territory Territorial Highways;TMlightsalmon;5;active
 ausntc;AUS;Northern Territory C Roads;TMgray;5;active
@@ -313,7 +314,6 @@ asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
 aussf;AUS;Australia Select Freeways;TMteal;2;preview
 ausnswb;AUS;New South Wales B Roads;TMyellow;4;preview
 ausqld;AUS;Queensland State Higways;TMyellow;4;preview
-aussab;AUS;South Australia B Roads;TMyellow;4;preview
 austasb;AUS;Tasmania B Roads;TMyellow;4;preview
 ausvicb;AUS;Victoria B Roads;TMyellow;4;preview
 auswa;AUS;Western Australia State Higways;TMyellow;4;preview
@@ -343,6 +343,7 @@ cogn;COG;Congo Routes Nationales;TMgreen;4;preview
 comrn;COM;Comoros Routes Nationales;TMgreen;4;preview
 deuhel;DEU;Hesse Landesstraßen;TMyellow;5;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;TMbrown;5;preview
+fraarad01;FRA;Ain Routes Départementales;TMyellow;5;preview
 fraarad03;FRA;Allier Routes Départementales;TMyellow;5;preview
 fraarad07;FRA;Ardèche Routes Départementales;TMyellow;5;preview
 fraarad15;FRA;Cantal Routes Départementales;TMyellow;5;preview
@@ -368,6 +369,7 @@ fragesd52;FRA;Haute-Marne Routes Départementales;TMyellow;5;preview
 fragesd54;FRA;Meurthe-et-Moselle Routes Départementales;TMyellow;5;preview
 fragesd55;FRA;Meuse Routes Départementales;TMyellow;5;preview
 fragesd57;FRA;Moselle Routes Départementales;TMyellow;5;preview
+fragesd6ae;FRA;Collectivité européenne d'Alsace Routes Départementales;TMyellow;5;preview
 fragesm6ae;FRA;Eurométropole de Strasbourg Routes Métropolitaines;TMyellow;5;preview
 fragesd88;FRA;Vosges Routes Départementales;TMyellow;5;preview
 frahdfd02;FRA;Aisne Routes Départementales;TMyellow;5;preview
@@ -376,6 +378,7 @@ frahdfm59;FRA;Métropole européenne de Lille Routes Métropolitaines;TMyellow;5
 frahdfd60;FRA;Oise Routes Départementales;TMyellow;5;preview
 frahdfd62;FRA;Pas-de-Calais Routes Départementales;TMyellow;5;preview
 frahdfd80;FRA;Somme Routes Départementales;TMyellow;5;preview
+franord27;FRA;Eure Routes Départementales;TMyellow;5;preview
 franord76;FRA;Seine-Maritime Routes Départementales;TMyellow;5;preview
 glpd;FRA;Guadaloupe Routes Départementales;TMyellow;5;preview
 gufd;FRA;French Guiana Routes Départementales;TMyellow;5;preview
@@ -448,10 +451,8 @@ codn;COD;DRC Routes Nationale;TMgreen;4;devel
 #fracvld;FRA;Centre-Val de Loire Routes Départementales;TMyellow;5;devel
 #fragesm54;FRA;Métropole du Grand Nancy Routes Métropolitaines;TMyellow;5;devel
 #fragesm57;FRA;Metz Métropole Routes Métropolitaines;TMyellow;5;devel
-fragesd6ae;FRA;Collectivité européenne d'Alsace Routes Départementales;TMyellow;5;devel
 #franord14;FRA;Calvados Routes Départementales;TMyellow;5;devel
-#franord27;FRA;Eure Routes Départementales;TMyellow;5;devel
-#franord50;FRA;Manche Routes Départementales;TMyellow;5;devel
+franord50;FRA;Manche Routes Départementales;TMyellow;5;devel
 #franord61;FRA;Orne Routes Départementales;TMyellow;5;devel
 #franorm76;FRA;Métropole Rouen Normandie Routes Métropolitaines;TMyellow;5;devel
 #franaqd;FRA;Nouvelle-Aquitaine Routes Départementales;TMyellow;5;devel
@@ -460,7 +461,7 @@ fragesd6ae;FRA;Collectivité européenne d'Alsace Routes Départementales;TMyell
 #frapacd;FRA;Provence-Alpes-Côte-d’Azur Routes Départementales;TMyellow;5;devel
 #irqf;IRQ;Iraq Freeways
 indah;IND;Asian Highways (redraft);TMred;3;devel
-#indnh;IND;India National Highways;TMgreen;3;devel
+indnh;IND;India National Highways;TMgreen;3;devel
 indwb;IND;West Bengal State Highways;TMyellow;4;devel
 #jamb;JAM;Jamaica B Roads;TMyellow;5;devel
 #mexdn;MEX;Mexico Federal Expressways (new);TMblue;1;devel
