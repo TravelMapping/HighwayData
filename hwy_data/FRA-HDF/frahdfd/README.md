@@ -8,11 +8,11 @@
 **DEPARTMENT BORDER LABELS:**
 FRA-02 = `Ais` = Aisne
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_de_l%27Aisne_(02)
-FRA-59 = `Nord` = Nord
+FRA-59 = `Nor` = Nord
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Nord_(59)
    https://www.data.gouv.fr/fr/datasets/nouvelles-routes-metropolitaines-ex-routes-departementales/
    https://opendata.lillemetropole.fr/explore/dataset/rd-vers-rm/map/?location=9,50.64511,3.03171&basemap=jawg.streets `map M routes Lille`
-FRA-60 = `Oise` = Oise
+FRA-60 = `Ois` = Oise
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_de_l%27Oise_(60)
 FRA-62 = `PdC` = Pas-de-Calais
 FRA-80 = `Som` = Somme
@@ -25,6 +25,10 @@ FRA-80 = `Som` = Somme
 
 *FRA-59 - Nord:*
 - `D643` through Pas-de-Calais seems to belong to Nord
+
+*FRA-60 - Oise:*
+- wikisara has a full ist but is sometimes outdated
+- e.g. `D503`, `D514`, `D514E`, `D563L`, `D566E`, `D592` and `D593` are unsigned now
 
 *FRA-62 - Pas-de-Calais:*
 - `D15` through Nord seems to belong to Pas-de-Calais (there is a `D15` sign in Nord and there is also another one in Nord)
