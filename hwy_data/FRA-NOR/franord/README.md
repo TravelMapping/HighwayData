@@ -26,6 +26,10 @@ FRA-76 = `SMt` = Seine-Maritime
 - `D56E1` is only a ramp of an interchange, not drafted
 - `D62E1` and `D62E2` are only ramps of an interchange, not drafted
 - `D69E1` is only a ramp of an interchange, not drafted
+- `D91E1` is signed on 2015 GSV but no shp file, not drafted
+- `D101` ends in a dead end street according to shp file at south end but it is signed at the next D971 to the south on 2009 - 2019 GSV, drafted according to GSV
+- `D118E1` is just a "roundabout", not drafted
+- `D130E3` is only a ramp of an interchange, not drafted
 - Location of `D666` unknown.
 - `D973` goes through Sartilly according to shp files + GM; OSM indicates `D973` on bypass and `D973E1` through Sartilly but 2018 + 2019 GSV indicates `D973` on the bypass and `D673` through Sartilly. Drafted according to the latter.
 - `D974` from east of Carentan and north of Saint-Lô (former `N174`)is missing in shp files but is indicated on OSM and GSV, partially from 2009 ; drafted
