@@ -23,7 +23,15 @@ FRA-76 = `SMt` = Seine-Maritime
 
 *FRA-50 - Manche:*
 - `D4` west of Pontorson belongs all the way to departement Ille-et-Vilaine (35) in BRE
+- `D56E1` is only a ramp of an interchange, not drafted
+- `D62E1` and `D62E2` are only ramps of an interchange, not drafted
+- `D69E1` is only a ramp of an interchange, not drafted
+- `D91E1` is signed on 2015 GSV but no shp file, not drafted
+- `D101` ends in a dead end street according to shp file at south end but it is signed at the next D971 to the south on 2009 - 2019 GSV, drafted according to GSV
+- `D118E1` is just a "roundabout", not drafted
+- `D130E3` is only a ramp of an interchange, not drafted
 - Location of `D666` unknown.
 - `D973` goes through Sartilly according to shp files + GM; OSM indicates `D973` on bypass and `D973E1` through Sartilly but 2018 + 2019 GSV indicates `D973` on the bypass and `D673` through Sartilly. Drafted according to the latter.
 - `D974` from east of Carentan and north of Saint-Lô (former `N174`)is missing in shp files but is indicated on OSM and GSV, partially from 2009 ; drafted
-- `D975` has a gap in shp files which should be `D675` according to GM + OSM but there is not `D675` shp file. GSV has some signs indicating `D675` and some indicating `D975` - needs to be checked before activation!
+- Pont-Farcy was merged into the commune of Tessy-Bocage in 2018 and thus moved from Calvados to Manche departement. shp files are older and routes around Pont-Farcy needs to be checked; 2018 GSV already shows new numberings where available, OSM + GM still outdated!
+- `D374` + `D554` + `D975` go through Pont-Farcy, more to be checked
