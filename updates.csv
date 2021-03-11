@@ -899,6 +899,10 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2021-03-02;(Germany) North Rhine-Westphalia;L92;deunw.l092;Route relocated from through Hürth (Horbeller Straße) and onto bypass via Effener Straße, Frechener Straße, Industriestraße and new B265 eastern bypass
+2021-03-02;(Germany) North Rhine-Westphalia;L183 (Köln);deunw.l183;Route truncated at south end from L182/L192 in Bornheim to L92 in Hürth
+2021-03-02;(Germany) North Rhine-Westphalia;L183 (Brühl);deunw.l183bru;New Route (formerly part of L183 (Köln) south of Hürth
+2021-03-02;(Germany) North Rhine-Westphalia;B265;deunw.b265;Route relocated from through Hürth and onto new bypass from L183 to L92
 2020-12-25;(Germany) North Rhine-Westphalia;L257;deunw.l257;Route truncated at west end from Merken to Höven (L13)
 2020-12-25;(Germany) North Rhine-Westphalia;L50;deunw.l050;Route relocated from through Setterich and onto new Setterich bypass from sotuh of Setterich to L225
 2020-07-17;(Germany) North Rhine-Westphalia;L586 (Delbrück);deunw.l586del;Route truncated at west end from B55 to L782
@@ -1223,6 +1227,9 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2021-03-10;Indonesia;T1 (Sumatra);idn.t001sum;Route extended at west end from exit 16 to exit 15
+2021-03-10;Indonesia;T1 (Binjai, Sumatra);idn.t001sum;Route merged into main Sumatra route
+2021-03-10;Indonesia;Jalan Tol Sigli - Banda Aceh;idn.jtsba;Route extended at south end from exit 48 to Jantha
 2021-02-06;Indonesia;T15 (Java);idn.t015;Route extended at west end from exit 6 to Jalan Raya Soleh Iskandar
 2021-01-26;Indonesia;T3 (Sumatra);idn.t003sum;Route extended at north end from Jakabaring to Kramasan
 2020-12-02;Indonesia;Jalan Tol Penkanbaru-Dumai;idn.jtpd;Route added
@@ -3067,6 +3074,7 @@ date;region;route;root;description
 2015-07-15;Tajikistan;E123;tjk.e123;Truncated at south end from 'End' to Aral
 2015-07-15;Tajikistan;E123;tjk.e123;Extended at south end from Aral to Afghan border
 2015-07-15;Tajikistan;E123 (Lyagin);;Deleted route
+2021-03-10;Tunisia;A1 (Ben Gardane);tun.a001ben;Route extended from RN1 at Ben Gardane to RN1 at Ra's Ajdir
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
@@ -3623,6 +3631,10 @@ date;region;route;root;description
 2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
+2021-03-10;(USA) Florida;US 92;fl.us092;Relocated FL559 label from Main Street (now MainSt) to the west about 1.9 miles to South Berkley Road (former CR 655) in Auburndale due to transfer agreement between FDOT & Polk County.
+2021-03-10;(USA) Florida;FL 559 (Polk City);fl.fl559;Southern end truncated from FL 655 to FL 559A (C Fred Jones Boulevard).
+2021-03-10;(USA) Florida;FL 559 (Auburndale);fl.fl559aub;Added route.
+2021-03-10;(USA) Florida;FL 559A (Auburndale);fl.fl559aaub;Added route.
 2021-02-27;(USA) Florida;FL 470;fl.fl470;Added route.
 2020-12-24;(USA) Florida;FL 10A (Jacksonville);fl.fl010ajac;Added route.
 2020-09-18;(USA) Florida;US 301 Bypass (Baldwin);fl.us301bypbal;Added route.
@@ -3646,6 +3658,11 @@ date;region;route;root;description
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
+2021-02-28;(USA) Georgia;GA 371;;Route deleted.
+2021-02-28;(USA) Georgia;GA 204 Spur (Savannah);;Route deleted.
+2021-02-28;(USA) Georgia;GA 204;ga.ga204;Route truncated to GA21.
+2021-02-28;(USA) Georgia;GA 141;ga.ga141;Route extended from GA9 to GA20 along Bethelview Rd.
+2021-02-28;(USA) Georgia;GA 21 Bus (Springfield);ga.ga021busspr;Route added.
 2020-12-26;(USA) Georgia;GA 4 Alt (Alma);;Route deleted.
 2020-12-26;(USA) Georgia;GA 22;ga.ga022;Route extended through Comer along former GA72 and GA98 to new intersection with GA72.
 2020-12-26;(USA) Georgia;GA 38 Spur (Cairo);;Route renamed GA38 Con (Cairo)
@@ -3815,6 +3832,11 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2021-03-06;(USA) Kentucky;KY 1001;ky.ky1001;Route added
+2021-03-06;(USA) Kentucky;KY 1739;;Route deleted
+2021-03-06;(USA) Kentucky;KY 2417;ky.ky2417;Truncated at east end to US25E_E
+2021-03-06;(USA) Kentucky;KY 3006;ky.ky3006;Route added
+2021-03-06;(USA) Kentucky;KY 6121;;Route deleted
 2020-12-31;(USA) Kentucky;KY 191;ky.ky0191;Relocated to new alignment between OldKY205_S and OldKY191_W, which includes new location for KY205_S point
 2020-12-31;(USA) Kentucky;KY 205;ky.ky0205;Relocated to new alignment between OldKY205_S and OldKY205_N, which includes new locations for ComMtnPkwy and KY191_E points
 2020-12-31;(USA) Kentucky;KY 2491;ky.ky2491;Truncated at north end to KY 191
@@ -4098,6 +4120,7 @@ date;region;route;root;description
 2017-06-09;(USA) Maryland;MD 351;;Deleted route
 2016-04-24;(USA) Maryland;MD 717;md.md717;Added route
 2015-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
+2021-03-03;(USA) Massachusetts;MA 128;ma.ma128;Relabeled exits from sequential to mileage-based.
 2021-01-28;(USA) Massachusetts;MA 3A (Manchester, NH);ma.ma003alow;Renamed MA 3A (Lowell).
 2021-01-25;(USA) Massachusetts;I-295;ma.i295;Relabeled exits from sequential to mileage-based. Exit 2 moved from I-95 (now Exit 4) to US 1.
 2021-01-19;(USA) Massachusetts;MA 24;ma.ma024;Relabeled exits from sequential to mileage-based. All numbers above 7 changed.
@@ -5033,6 +5056,7 @@ date;region;route;root;description
 2018-01-01;(USA) Virginia;US 15 Alt (Farmville);va.us015altfar;New route
 2018-01-01;(USA) Virginia;VA 167;va.va167;New route
 2018-01-01;(USA) Virginia;VA 154 (Covington);;Route deleted
+2021-03-06;(USA) Washington;WA 519;wa.wa519;Route re-added
 2021-01-07;(USA) Washington;WA 525;wa.wa525;Northern terminus relocated to location of newly-opened Mukilteo ferry terminal between relocated CliMukFry waypoint and new MukSpe waypoint
 2020-11-03;(USA) Washington;US 195 Spur (Uniontown);;Route deleted
 2019-08-15;(USA) Washington;WA 519;;Route deleted
@@ -5049,7 +5073,7 @@ date;region;route;root;description
 2017-01-03;(USA) Washington;WA 103;wa.wa103;Extended at northern end from Leadbetter Point SP boundary to actual end of state highway in park
 2017-01-03;(USA) Washington;WA 100 Spur (Fort Canby);wa.wa100sprfor;Route added
 2016-11-26;(USA) Washington;WA 823;wa.wa823;Removed from 1st Street and Naches Avenue, and relocated onto Jim Clements Way between 1st Street and Naches Avenue
-2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quary Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
+2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quarry Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
 2020-10-04;(USA) West Virginia;WV 121;wv.wv121;Extended southward from Slab Fork Road to the Mullens Connector.
