@@ -34,7 +34,7 @@ Scenic Routes Initiative
 	Snow Roads
 
 Road Trips
-	NC500
+	NC500	- signed like a National Tourist Route
 	SWC300
 	NE250
 	Heart200
