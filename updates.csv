@@ -3146,6 +3146,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-03-15;(UK) England;A5196;eng.a5196;Route added
 2021-02-20;(UK) England;A44 (Chipping Norton (loop));eng.a0044chi;Route added
 2021-02-20;(UK) England;A551;eng.a0551;Route removed from Moreton Road and Arrowe Park Road in Upton and relocated onto Upton By-Pass between A5027 and M53
 2021-02-20;(UK) England;A3400;eng.a3400;Route truncated at south end from A44 to A44/A361
@@ -3410,6 +3411,25 @@ date;region;route;root;description
 2015-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+2021-03-17;(UK) Scotland;NC500;sct.nc500;Route added
+2021-03-15;(UK) Scotland;A93;sct.a0093;Route truncated at north end from A956 to Holburn Street (former A9013)
+2021-03-15;(UK) Scotland;A945;;Route deleted
+2021-03-15;(UK) Scotland;A947;sct.a0947;Route removed from Victoria Street in Dyce and relocated onto Riverview Drive between 'VicSt_S' and 'VicSt_N'
+2021-03-15;(UK) Scotland;A978;sct.b0991;Route deleted (part now B991)
+2021-03-15;(UK) Scotland;A9011;;Route deleted
+2021-03-15;(UK) Scotland;A9012;;Route deleted
+2021-03-15;(UK) Scotland;A9013;;Route deleted
+2021-03-15;(UK) Scotland;A9119;sct.a9119;Route added
+2021-03-15;(UK) Scotland;B983;sct.b0983;Route re-entered
+2021-03-15;(UK) Scotland;B984;sct.b0984;Route added
+2021-03-15;(UK) Scotland;B985;sct.b0985;Route re-entered
+2021-03-15;(UK) Scotland;B986;sct.b0983;Route deleted (part now B983)
+2021-03-15;(UK) Scotland;B988;sct.b0988;Route added
+2021-03-15;(UK) Scotland;B990;sct.b0990;Route re-entered
+2021-03-15;(UK) Scotland;B991;sct.b0991;Route re-entered
+2021-03-15;(UK) Scotland;B997;sct.b0997;Route removed from Scotstown Road and Balgownie Road and relocated onto North Donside Road between Scotstown 'ScoRd_S' and A956 (relocated)
+2021-03-15;(UK) Scotland;B9119;sct.b9119;Route truncated at east end from B986 to A944 (former section now A9119)
+2021-03-15;(UK) Scotland;Deeside Tourist Route;sct.deetr;Route truncated at north end from A978 to A92
 2021-02-11;(UK) Scotland;B728;sct.b0728;Route added
 2020-05-16;(UK) Scotland;A991;sct.a0991;Route truncated at anti-clockwise end from A85 to northern junction with A92, and extended at clockwise end from A85 to southern junction with A92
 2020-05-16;(UK) Scotland;Angus Coastal Tourist Route;sct.angcoatr;Route extended at south end from eastern junction with A991 to southern junction with A90
@@ -3832,6 +3852,12 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2021-03-15;(USA) Kentucky;US 68;ky.us068;Relocated to new alignment between US68BusMil_E and KY13455_S, and waypoint KY1244_S repositioned near east end of bypassed segment 
+2021-03-15;(USA) Kentucky;KY 32;ky.ky0032;Concurrency with US 68 eliminated with relocation of US 68, and alignment adjusted slightly between *OldKY32_CarW and *OldKY32_CarE
+2021-03-15;(USA) Kentucky;KY 36;ky.ky0036;Concurrency with US 68 eliminated with relocation of US 68, and alignment adjusted slightly between *OldUS68_W and *OldKY36
+2021-03-15;(USA) Kentucky;KY 386;ky.ky0386;Extended at north end to new junction with US 68
+2021-03-15;(USA) Kentucky;KY 648;ky.ky0648;Extended at east end to new junction with US 68
+2021-03-15;(USA) Kentucky;KY 1244;ky.ky1244;extended at south end along former route of US 68 to new junction with US 68 near east end of bypassed US 68 segment 
 2021-03-06;(USA) Kentucky;KY 1001;ky.ky1001;Route added
 2021-03-06;(USA) Kentucky;KY 1739;;Route deleted
 2021-03-06;(USA) Kentucky;KY 2417;ky.ky2417;Truncated at east end to US25E_E
@@ -4097,6 +4123,8 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2021-03-14;(USA) Maryland;MD 353;md.md353;Extended south from MD 346 to US 50
+2021-03-14;(USA) Maryland;MD 79;md.md079;Truncated at north end from MD 180 to Little Catoctin Creek (Rosemont town limit)
 2020-09-21;(USA) Maryland;MD 327;md.md327;Extended south from Marion Tapp Parkway to end of road
 2020-06-16;(USA) Maryland;US 40 Alt (Hagerstown);md.us040althag;Truncated at west end from US 40 to Potomac Street
 2020-06-16;(USA) Maryland;MD 546;md.md546;Extended south from I-68 to Mels Road
