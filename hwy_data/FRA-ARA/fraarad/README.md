@@ -68,6 +68,9 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D63I` should be `D65L` according to wikisara and GM but it is clearly signed as `D65I` on GSV - with lower case `i`. OSM confirms it. Only exception with lower case index.
 - `D208` should extend through Bourgoin-Jallieu according to wikisara and GM but OSM indicates it being `D522` and 2019 GSV doesn't show anything being signed.
 
+*FRA-42 - Loire:*
+- `N7` from Roanne to Lyon was downgraded with the opening of A89 in 2018 according to wikisara but no new numbering is known. December 2020 GSV still indicates `N7`. Drafted as route departement `N7`.
+
 *FRA-43 - Haute-Loire:*
 - The second `D9` segment south of Saint-Bonnet-le-Froid must belong to the ARA Ardeche departement (fraarad07). `D9` is signed at the junction and there is a `Info Ardeche` sign along the route.
 - `D12` through Loire seems to be maintained by Haute-Loire
@@ -80,6 +83,7 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D224D` is indicated being `D224E` on OSM and GM; `D224D` is confirmed by 2012 GSV
 
 *FRA-69 - Rhone:*
+- `N7` from Roanne to Lyon was downgraded with the opening of A89 in 2018 according to wikisara but no new numbering is known. December 2020 GSV still indicates `N7`. Drafted as route departement `N7`.
 - `D35` through Saône-et-Loire is indicated as `D335` on OSM and GM but 2018 GSV does not show `D335`; there is a `D35` milepost at west end and `D35` signs to the west and to the east at `D27` junction --> route most likely belongs to departement Rhone's `D35`
 
 *FRA-73 - Savoie:*
