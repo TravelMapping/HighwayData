@@ -23,7 +23,7 @@ NC28_W http://www.openstreetmap.org/?lat=35.364495&lon=-83.551776
 +x20 http://www.openstreetmap.org/?lat=35.376106&lon=-83.526553
 NC28_E http://www.openstreetmap.org/?lat=35.372412&lon=-83.504140
 US19_N http://www.openstreetmap.org/?lat=35.393589&lon=-83.475666
-US19Con +BryCity http://www.openstreetmap.org/?lat=35.421126&lon=-83.438566
+US19Con http://www.openstreetmap.org/?lat=35.421126&lon=-83.438566
 HyaCrkRd_W http://www.openstreetmap.org/?lat=35.432268&lon=-83.398531
 StaRd http://www.openstreetmap.org/?lat=35.430778&lon=-83.359129
 US441 http://www.openstreetmap.org/?lat=35.420645&lon=-83.334206
@@ -68,14 +68,13 @@ I-26(67) http://www.openstreetmap.org/?lat=35.250701&lon=-82.211251
 163 +NC108 http://www.openstreetmap.org/?lat=35.259190&lon=-82.182680
 167 +NC9 http://www.openstreetmap.org/?lat=35.281615&lon=-82.114434
 +x90 http://www.openstreetmap.org/?lat=35.290642&lon=-82.094285
-170 +PeaRidRd http://www.openstreetmap.org/?lat=35.286887&lon=-82.068236
-173 +UniRd http://www.openstreetmap.org/?lat=35.291511&lon=-82.004968
+170 http://www.openstreetmap.org/?lat=35.286887&lon=-82.068236
+173 http://www.openstreetmap.org/?lat=35.291511&lon=-82.004968
 +x100 http://www.openstreetmap.org/?lat=35.293242&lon=-81.982539
 +x101 http://www.openstreetmap.org/?lat=35.308890&lon=-81.948636
 178 +US221 http://www.openstreetmap.org/?lat=35.307683&lon=-81.922613
-181 +US74Alt +US74A http://www.openstreetmap.org/?lat=35.312455&lon=-81.874688
-182 +US221Alt +US221A http://www.openstreetmap.org/?lat=35.315467&lon=-81.857007
-184 +OldCarRd http://www.openstreetmap.org/?lat=35.317881&lon=-81.829954
+181 http://www.openstreetmap.org/?lat=35.312455&lon=-81.874688
+182 +US221Alt http://www.openstreetmap.org/?lat=35.315467&lon=-81.857007
 187 http://www.openstreetmap.org/?lat=35.304114&lon=-81.774216
 189 +NC120 http://www.openstreetmap.org/?lat=35.296441&lon=-81.733271
 US74BusFor_E http://www.openstreetmap.org/?lat=35.302912&lon=-81.698831
@@ -90,7 +89,7 @@ NC150 http://www.openstreetmap.org/?lat=35.277697&lon=-81.538661
 NC226_S http://www.openstreetmap.org/?lat=35.275335&lon=-81.532331
 NC180 http://www.openstreetmap.org/?lat=35.272357&lon=-81.497204
 US74BusShe_E http://www.openstreetmap.org/?lat=35.265726&lon=-81.478794
-AbbyWay http://www.openstreetmap.org/?lat=35.246366&lon=-81.439784
+BetRd +AbbyWay http://www.openstreetmap.org/?lat=35.248248&lon=-81.445384
 US74BusKin_W http://www.openstreetmap.org/?lat=35.246793&lon=-81.407340
 OakGroRd http://www.openstreetmap.org/?lat=35.257892&lon=-81.360036
 NC216 http://www.openstreetmap.org/?lat=35.250859&lon=-81.340445
@@ -105,9 +104,10 @@ NC274_N http://www.openstreetmap.org/?lat=35.259742&lon=-81.215755
 US321 http://www.openstreetmap.org/?lat=35.262125&lon=-81.186208
 NC274_S http://www.openstreetmap.org/?lat=35.262213&lon=-81.178268
 NC279 http://www.openstreetmap.org/?lat=35.262003&lon=-81.152369
+AbeBlvd http://www.openstreetmap.org/?lat=35.261494&lon=-81.147466
 CoxRd http://www.openstreetmap.org/?lat=35.260794&lon=-81.133368
 RedDr http://www.openstreetmap.org/?lat=35.256521&lon=-81.106004
-PeaOrcDr http://www.openstreetmap.org/?lat=35.247601&lon=-81.066222
+PeaOrcRd +PeaOrcDr http://www.openstreetmap.org/?lat=35.247601&lon=-81.066222
 NC7_W +NC7 http://www.openstreetmap.org/?lat=35.252550&lon=-81.042742
 NC273 http://www.openstreetmap.org/?lat=35.251525&lon=-81.028537
 NC7_E http://www.openstreetmap.org/?lat=35.246697&lon=-81.014053
@@ -125,8 +125,8 @@ I-277(1D) http://www.openstreetmap.org/?lat=35.224622&lon=-80.857229
 I-277(1E) http://www.openstreetmap.org/?lat=35.219364&lon=-80.846586
 I-277(2A) http://www.openstreetmap.org/?lat=35.215717&lon=-80.836716
 242 +I-277(2B) http://www.openstreetmap.org/?lat=35.221923&lon=-80.828562
-243 +IndBlvd http://www.openstreetmap.org/?lat=35.218996&lon=-80.823122
-244 +BriCrkRd http://www.openstreetmap.org/?lat=35.206907&lon=-80.796343
+243 http://www.openstreetmap.org/?lat=35.218996&lon=-80.823122
+244 http://www.openstreetmap.org/?lat=35.206907&lon=-80.796343
 245 +WenRd http://www.openstreetmap.org/?lat=35.201884&lon=-80.786322
 246 +NC27 http://www.openstreetmap.org/?lat=35.200009&lon=-80.772558
 247 http://www.openstreetmap.org/?lat=35.194409&lon=-80.765998
@@ -137,7 +137,7 @@ NC51 http://www.openstreetmap.org/?lat=35.125718&lon=-80.705245
 254 http://www.openstreetmap.org/?lat=35.097664&lon=-80.675296
 255 http://www.openstreetmap.org/?lat=35.091172&lon=-80.669178
 IndTraRd http://www.openstreetmap.org/?lat=35.083833&lon=-80.660567
-UniIndTraRd http://www.openstreetmap.org/?lat=35.076291&lon=-80.652637
+UITraRd +UniIndTraRd http://www.openstreetmap.org/?lat=35.076291&lon=-80.652637
 SarChuRd http://www.openstreetmap.org/?lat=35.062241&lon=-80.634956
 RocRivRd http://www.openstreetmap.org/?lat=35.037859&lon=-80.601739
 NC200_S http://www.openstreetmap.org/?lat=35.007485&lon=-80.560362
@@ -147,22 +147,24 @@ NC200_N http://www.openstreetmap.org/?lat=34.988062&lon=-80.530890
 US601_S http://www.openstreetmap.org/?lat=34.972854&lon=-80.516599
 MainSt http://www.openstreetmap.org/?lat=34.982526&lon=-80.449028
 273 http://www.openstreetmap.org/?lat=34.983990&lon=-80.407360
-NC205 http://www.openstreetmap.org/?lat=34.985961&lon=-80.368166
+NC205 http://www.openstreetmap.org/?lat=34.985952&lon=-80.368338
 NewYorkAve http://www.openstreetmap.org/?lat=34.990095&lon=-80.263640
 NC218 http://www.openstreetmap.org/?lat=35.002485&lon=-80.202749
+BooCutRd http://www.openstreetmap.org/?lat=34.983430&lon=-80.138408
 US52/742 http://www.openstreetmap.org/?lat=34.978006&lon=-80.091158
 NC109/742 http://www.openstreetmap.org/?lat=34.968221&lon=-80.076481
-US52 http://www.openstreetmap.org/?lat=34.963561&lon=-80.056697
+US52_E +US52 http://www.openstreetmap.org/?lat=34.963561&lon=-80.056697
 HaiFerRd http://www.openstreetmap.org/?lat=34.962557&lon=-79.960127
 NC145 http://www.openstreetmap.org/?lat=34.944286&lon=-79.887064
-US74BusRoc_W http://www.openstreetmap.org/?lat=34.947241&lon=-79.851186
-GalZionRd +GalZionChRd http://www.openstreetmap.org/?lat=34.931731&lon=-79.831147
-US1 http://www.openstreetmap.org/?lat=34.910745&lon=-79.791899
+306 +US74BusRoc_W http://www.openstreetmap.org/?lat=34.947241&lon=-79.851186
+308 +GalZionRd http://www.openstreetmap.org/?lat=34.931731&lon=-79.831147
+311 +US1 http://www.openstreetmap.org/?lat=34.910745&lon=-79.791899
 +x120 http://www.openstreetmap.org/?lat=34.885546&lon=-79.786502
-NC177 http://www.openstreetmap.org/?lat=34.858389&lon=-79.742814
-NC38 http://www.openstreetmap.org/?lat=34.855809&lon=-79.695286
-NC381 http://www.openstreetmap.org/?lat=34.863477&lon=-79.671779
-US74BusRoc_E http://www.openstreetmap.org/?lat=34.868785&lon=-79.646705
+316 +NC177 http://www.openstreetmap.org/?lat=34.858389&lon=-79.742814
++X122 http://www.openstreetmap.org/?lat=34.852622&lon=-79.733534
+319 +NC38 http://www.openstreetmap.org/?lat=34.855809&lon=-79.695286
+320 +NC381 http://www.openstreetmap.org/?lat=34.863477&lon=-79.671779
+321 +US74BusRoc_E http://www.openstreetmap.org/?lat=34.868785&lon=-79.646705
 OldHunRd http://www.openstreetmap.org/?lat=34.827832&lon=-79.591683
 NC144 http://www.openstreetmap.org/?lat=34.808624&lon=-79.548282
 FI-74(181) http://www.openstreetmap.org/?lat=34.788636&lon=-79.505578
@@ -183,10 +185,11 @@ I-74(207) http://www.openstreetmap.org/?lat=34.597819&lon=-79.133191
 I-74(209) http://www.openstreetmap.org/?lat=34.593195&lon=-79.111294
 I-74(210) http://www.openstreetmap.org/?lat=34.592807&lon=-79.089077
 I-74(213) http://www.openstreetmap.org/?lat=34.579747&lon=-79.048069
++X140 http://www.openstreetmap.org/?lat=34.567503&lon=-79.029379
 *OldKinRd http://www.openstreetmap.org/?lat=34.544561&lon=-79.021466
 BroRidRd +NBroRidRd http://www.openstreetmap.org/?lat=34.501800&lon=-78.999236
 NC72 http://www.openstreetmap.org/?lat=34.457703&lon=-78.973626
-NC130 http://www.openstreetmap.org/?lat=34.452042&lon=-78.969823
+NC130_W +NC130 http://www.openstreetmap.org/?lat=34.452042&lon=-78.969823
 +x150 http://www.openstreetmap.org/?lat=34.407235&lon=-78.925400
 NC242 http://www.openstreetmap.org/?lat=34.396570&lon=-78.900332
 +x160 http://www.openstreetmap.org/?lat=34.381083&lon=-78.855808
@@ -196,6 +199,7 @@ UniValRd http://www.openstreetmap.org/?lat=34.339467&lon=-78.758154
 US701 http://www.openstreetmap.org/?lat=34.349841&lon=-78.709542
 US74Bus/76Bus_E http://www.openstreetmap.org/?lat=34.349212&lon=-78.658183
 HalRd http://www.openstreetmap.org/?lat=34.332639&lon=-78.599287
+ChaTownRd http://www.openstreetmap.org/?lat=34.329793&lon=-78.522334
 OldLakeRd http://www.openstreetmap.org/?lat=34.330320&lon=-78.499881
 +x170 http://www.openstreetmap.org/?lat=34.322751&lon=-78.474709
 NC211 http://www.openstreetmap.org/?lat=34.329297&lon=-78.418962
@@ -203,7 +207,7 @@ NC214 http://www.openstreetmap.org/?lat=34.320179&lon=-78.361584
 NC11 http://www.openstreetmap.org/?lat=34.317175&lon=-78.285817
 NC87_N http://www.openstreetmap.org/?lat=34.312505&lon=-78.210061
 NC87_S http://www.openstreetmap.org/?lat=34.286129&lon=-78.138767
-I-140 +NC140 http://www.openstreetmap.org/?lat=34.258562&lon=-78.079984
+I-140 http://www.openstreetmap.org/?lat=34.258562&lon=-78.079984
 MtMisRd http://www.openstreetmap.org/?lat=34.256773&lon=-78.057282
 US17_S http://www.openstreetmap.org/?lat=34.226378&lon=-78.009646
 NC133_S http://www.openstreetmap.org/?lat=34.232313&lon=-77.993993
