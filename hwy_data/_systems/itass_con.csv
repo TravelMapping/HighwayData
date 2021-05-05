@@ -16,7 +16,8 @@ itass;SS4;Dir;Passo Corese;ita.ss004dirpas
 itass;SS4;Racc;Monticelli;ita.ss004raccmon
 itass;SS5;;Oricola;ita.ss005ori
 itass;SS5;;Avezzano;ita.ss005
-itass;SS5;Qua;Tagliacozzo;ita.ss005quatag
+itass;SS5;Qua;;ita.ss005qua
+itass;SS5;QuaDir;;ita.ss005quadir
 itass;SS6;;;ita.ss006
 itass;SS6;Dir;Venafro;ita.ss006dirven
 itass;SS7;;Terracina;ita.ss007
@@ -79,6 +80,8 @@ itass;SS17;;L'Aquila;ita.ss017
 itass;SS17;;Isernia;ita.ss017ise
 itass;SS17;;San Marco la Catola;ita.ss017smc
 itass;SS17;;Foggia;ita.ss017fog
+itass;SS17;Bis;;ita.ss017bis
+itass;SS17;Ter;;ita.ss017ter
 itass;SS17;Var;Forli del Sanno;ita.ss017varfor
 itass;SS17;Var;Volturara;ita.ss017varvol
 itass;SS18;;Salerno;ita.ss018sal
@@ -178,6 +181,7 @@ itass;SS77;Var;Polverina;ita.ss077varpol
 itass;SS79;;;ita.ss079
 itass;SS79;Bis;Terni;ita.ss079bister
 itass;SS80;;;ita.ss080
+itass;SS80;Dir;;ita.ss080dir
 itass;SS80;Racc;Mosciano Sant'Angelo;ita.ss080raccmsa
 itass;SS80;Var;Teramo;ita.ss080varter
 itass;SS81;;;ita.ss081
@@ -274,6 +278,7 @@ itass;SS145;;Castellammare di Stabia;ita.ss145
 itass;SS145;;Sorrento;ita.ss145sor
 itass;SS145;Var;Vico Equense;ita.ss145varvic
 itass;SS150;;;ita.ss150
+itass;SS151;;;ita.ss151
 itass;SS153;;;ita.ss153
 itass;SS158;;;ita.ss158
 itass;SS163;;;ita.ss163
@@ -332,7 +337,10 @@ itass;SS243;;;ita.ss243
 itass;SS244;;;ita.ss244
 itass;SS249;;;ita.ss249
 itass;SS256;;;ita.ss256
+itass;SS259;;;ita.ss259
 itass;SS260;;;ita.ss260
+itass;SS260;Dir;;ita.ss260dir
+itass;SS263;;;ita.ss263
 itass;SS268;;;ita.ss268
 itass;SS268;Racc;Palma Campania;ita.ss268raccpal
 itass;SS272;;;ita.ss272
@@ -414,6 +422,7 @@ itass;SS442;;;ita.ss442
 itass;SS448;;;ita.ss448
 itass;SS466;;;ita.ss466
 itass;SS481;;;ita.ss481
+itass;SS487;;;ita.ss487
 itass;SS494;;;ita.ss494
 itass;SS508;;;ita.ss508
 itass;SS514;;;ita.ss514
@@ -425,13 +434,18 @@ itass;SS526;;;ita.ss526
 itass;SS531;;;ita.ss531
 itass;SS534;;;ita.ss534
 itass;SS537;;;ita.ss537
+itass;SS539;;;ita.ss539
+itass;SS539;Dir;;ita.ss539dir
 itass;SS547;;;ita.ss547
+itass;SS553;;;ita.ss553
 itass;SS554;;;ita.ss554
 itass;SS557;;;ita.ss557
 itass;SS560;;;ita.ss560
 itass;SS561;;;ita.ss561
 itass;SS575;;;ita.ss575
 itass;SS576;;;ita.ss576
+itass;SS578;;;ita.ss578
+itass;SS584;;;ita.ss584
 itass;SS585;;;ita.ss585
 itass;SS585;Dir;Lauria;ita.ss585dirlau
 itass;SS591;Bis;Orio al Serio;ita.ss591bisori
@@ -442,6 +456,7 @@ itass;SS598;;;ita.ss598
 itass;SS612;;;ita.ss612
 itass;SS612;Dir;Castello di Fiemme;ita.ss612dircas
 itass;SS613;;;ita.ss613
+itass;SS614;;;ita.ss614
 itass;SS616;;;ita.ss616
 itass;SS616;Dir;Altilia;ita.ss616diralt
 itass;SS620;;;ita.ss620
@@ -460,11 +475,16 @@ itass;SS645;;;ita.ss645
 itass;SS647;;;ita.ss647
 itass;SS647;Dir;Riccia;ita.ss647dirric
 itass;SS647;Dir;Ripalimosani;ita.ss647dirrip
+itass;SS649;;;ita.ss649
+itass;SS649;Dir;;ita.ss649dir
 itass;SS650;;;ita.ss650
 itass;SS652;;;ita.ss652
 itass;SS653;;;ita.ss653
 itass;SS655;;;ita.ss655
+itass;SS656;;;ita.ss656
+itass;SS656;Dir;;ita.ss656dir
 itass;SS658;;;ita.ss658
+itass;SS658;Dir;;ita.ss658dir
 itass;SS659;;;ita.ss659
 itass;SS660;;;ita.ss660
 itass;SS672;;;ita.ss672
@@ -482,7 +502,7 @@ itass;SS682;Dir;San Ferdinando;ita.ss682dirsan
 itass;SS683;;;ita.ss683
 itass;SS683;Var;Caltagirone;ita.ss683varcal
 itass;SS684;;;ita.ss684
-itass;SS684;Dir;Bazzano;ita.ss684dirbaz
+itass;SS684;Dir;;ita.ss684dir
 itass;SS685;;;ita.ss685
 itass;SS687;;;ita.ss687
 itass;SS688;;;ita.ss688
@@ -550,3 +570,6 @@ itass;SS738;;;ita.ss738
 itass;SS739;;;ita.ss739
 itass;SS740;;;ita.ss740
 itass;SS741;;;ita.ss741
+itass;SS742;;;ita.ss742
+itass;SS742;Dir;;ita.ss742dir
+itass;SS743;;;ita.ss743
