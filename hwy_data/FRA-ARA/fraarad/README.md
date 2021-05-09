@@ -70,6 +70,8 @@ FRA-74 = `HSa` = Haute-Savoie
 
 *FRA-42 - Loire:*
 - `N7` from Roanne to Lyon was downgraded with the opening of A89 in 2018 according to wikisara but no new numbering is known. December 2020 GSV still indicates `N7`. Drafted as route departement `N7`.
+- `D36` from Saint-Charmond to Saint-Paul-en-Jarez is indicated on OSM + GM but west and east end are not clear, GSV shows no signs nor mileposts at all, not drafted
+- `D335` in Saône-et-Loire (BFC) is indicated on OSM and GM but 2018 GSV does not show it; there is a `D35` milepost at west end and `D35` signs to the west and to the east at `D27` junction --> route most likely belong to departement Loire's `D35`
 
 *FRA-43 - Haute-Loire:*
 - The second `D9` segment south of Saint-Bonnet-le-Froid must belong to the ARA Ardeche departement (fraarad07). `D9` is signed at the junction and there is a `Info Ardeche` sign along the route.
@@ -85,6 +87,7 @@ FRA-74 = `HSa` = Haute-Savoie
 *FRA-69 - Rhone:*
 - `N7` from Roanne to Lyon was downgraded with the opening of A89 in 2018 according to wikisara but no new numbering is known. December 2020 GSV still indicates `N7`. Drafted as route departement `N7`.
 - `D35` through Saône-et-Loire is indicated as `D335` on OSM and GM but 2018 GSV does not show `D335`; there is a `D35` milepost at west end and `D35` signs to the west and to the east at `D27` junction --> route most likely belongs to departement Rhone's `D35`
+- `D155` signs in Colombier have been removed according to 2020 GSV
 
 *FRA-73 - Savoie:*
 - OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV
