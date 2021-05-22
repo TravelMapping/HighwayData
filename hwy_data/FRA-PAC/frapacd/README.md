@@ -15,5 +15,9 @@ FRA-84 = `Vau` = Vau
 
 
 **NOTES TO ROUTES:**
+*FRA-05 - Hautes-Alpes:*
+- Some routes are (partially) signed with `T` or `L` suffix, sometimes only indicated on OSM and / or GM. Those suffixes have been generally omitted since the route name is still unique.
+- `D1T` drafted because it is a totally different route to `D1`
+
 *FRA-06 - Alpes-Maritimes:*
 - `D92` is indicated on OSM + GM in Mandelieu-la-Napoule but the junction with `D6007` is not clear; there is no sign along the route, only (old) stones; There is no `AlM` signs into `AlM` but only a sign into `Var`
