@@ -573,6 +573,8 @@ date;region;route;root;description
 2020-11-08;(France) Centre-Val de Loire;D403-77;fracvl.d040377;New Route
 2020-07-09;(France) Centre-Val de Loire;E60;fracvl.e60;Route removed from D751 and D37 and relocated onto A85 and A10 between A85 exit 9 and A10 exit 24
 2020-07-09;(France) Centre-Val de Loire;E604;fracvl.e604;Route truncated at west end from A85 exit 9 to A10
+2021-05-24;(France) Corsica;T40;fracor.t040;Route extended at south end from northern junction with T402 (also the southern junction with D257) to D58
+2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
 2021-01-11;(France) Grand-Est;A340;frages.a340;Route extended at north end from D519 to D144
 2021-01-11;(France) Grand-Est;A340;frages.a340;Route extended at south end from A4 to D421
@@ -911,7 +913,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
-2021-05-01;(Germany) North Rhine-Westphalia;B56 (Düren;deunw.b056;Route relocated from Schoellerstraße and Kölner Landstraße through Düren and onto new bypass from Heerweg to B264
+2021-05-23;(Germany) North Rhine-Westphalia;B399 (Düren);deunw.b399dur;New Route (former B56)
+2021-05-01;(Germany) North Rhine-Westphalia;B56 (Düren);deunw.b056;Route relocated from Schoellerstraße and Kölner Landstraße through Düren and onto new bypass from Heerweg to B264 (B399 now)
 2021-03-02;(Germany) North Rhine-Westphalia;L92;deunw.l092;Route relocated from through Hürth (Horbeller Straße) and onto bypass via Effener Straße, Frechener Straße, Industriestraße and new B265 eastern bypass
 2021-03-02;(Germany) North Rhine-Westphalia;L183 (Köln);deunw.l183;Route truncated at south end from L182/L192 in Bornheim to L92 in Hürth
 2021-03-02;(Germany) North Rhine-Westphalia;L183 (Brühl);deunw.l183bru;New Route (formerly part of L183 (Köln) south of Hürth
@@ -1000,6 +1003,8 @@ date;region;route;root;description
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2021-05-23;(Germany) Rhineland-Palatinate;A64;deurp.a064;Route extended at east end from exit 4 to A602 (former B52)
+2021-05-23;(Germany) Rhineland-Palatinate;B52 (Trier);deurp.a064;Route deleted (A64 now)
 2020-12-25;(Germany) Rhineland-Palatinate;L509 (Bellheim);deurp.l509bel;New Route
 2020-08-14;(Germany) Rhineland-Palatinate;B38 (Bad Bergzabern);deurp.b038;Route relocated from through Impflingen and onto bypass from L554 north of Impflingen to L544 south of Impflingen
 2020-08-14;(Germany) Rhineland-Palatinate;L554 (Kandel);deurp.l554;Route extended at north end from center of Impflingen to B38 junction north of Impflingen
@@ -1983,7 +1988,7 @@ date;region;route;root;description
 2021-05-19;Poland;DK77;pol.dk077;Route removed from Aleje Jana Pawla II, Ulica Energtykow, Ulica Sanomierska, Ulica Rudnicka, etc through Stalowa Wola and Nisko and relocated onto bypass between DW871 and Ulica Henryka Sienkiewicza
 2021-05-19;Poland;DK78;pol.dk078;Route removed from Ulica Rybnicka, Ulica Feliska Orlickiego, Ulica Jana Sliwki, Ulica Swietojariska and Ulica Tarnogorska and relocated onto Obwodnica Zachodnia, DW408, Ulica Wincentego Styczynskiego, DW902 and DK88 between 'UliRyb_N' and 'DK88_E'
 2021-05-19;Poland;DW781;pol.dw781;Route truncated at north end from DK79 to 'UliSzp_N' and extended at north end from 'UliSzp_N' to DK79 (via bypass)
-2021-05-19;Poland;DW871;pol.dw871;Route entended at east end from 'AleJPII_S' (former DK77) to DK77
+2021-05-19;Poland;DW871;pol.dw871;Route extended at east end from 'AleJPII_S' (former DK77) to DK77
 2021-05-19;Poland;DW872;pol.dw872;Route extended at east end from 'UliSan_W' (former DK77) to DK19
 2021-04-21;Poland;S3 (Szczecin);pol.s003;Route extended at north end from exit 12 to Troszyn
 2021-04-21;Poland;S3 (Ostromice);pol.s003;Route removed (now part of S3)
@@ -3236,6 +3241,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-05-24;(UK) England;B6601;eng.b6601;Route added (former part of A601(M))
 2021-05-07;(UK) England;M181;eng.m181;Route truncated at north end from A18 to A1077(M)
 2021-05-07;(UK) England;A1077(M);eng.a1077m;Route added (formerly part of M181)
 2021-05-05;(UK) England;A601(M);eng.a0601m;Route truncated at south end from B6254 to M6
@@ -3762,6 +3768,9 @@ date;region;route;root;description
 2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
+2021-05-25;(USA) Florida;FL 46 (Sanford);fl.fl046;Western end truncated from US 441 to CR 46A, due to small segment becoming CR 46A in the middle of the route. Western part becomes part of FL 46 (Mount Dora).
+2021-05-25;(USA) Florida;FL 46 (Sanford);fl.fl046;Removed from Sorrento Avenue between CR 46A & Sleepy Bear Lane, and relocated onto the future alignment of Wekiva Parkway (future FL 429) between those two intersections.
+2021-05-25;(USA) Florida;FL 46 (Mount Dora);fl.fl046mtd;Added route (former section of main FL 46 file west of CR 46A).
 2021-04-20;(USA) Florida;FL 618;fl.fl618;Extended on western end from the former end point at Exit 1A (US 92) to the west to just shy of the Gandy Bridge on US 92 along a brand new elevated expressway.
 2021-03-10;(USA) Florida;US 92;fl.us092;Relocated FL559 label from Main Street (now MainSt) to the west about 1.9 miles to South Berkley Road (former CR 655) in Auburndale due to transfer agreement between FDOT & Polk County.
 2021-03-10;(USA) Florida;FL 559 (Polk City);fl.fl559;Southern end truncated from FL 655 to FL 559A (C Fred Jones Boulevard).
