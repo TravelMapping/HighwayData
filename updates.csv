@@ -573,6 +573,8 @@ date;region;route;root;description
 2020-11-08;(France) Centre-Val de Loire;D403-77;fracvl.d040377;New Route
 2020-07-09;(France) Centre-Val de Loire;E60;fracvl.e60;Route removed from D751 and D37 and relocated onto A85 and A10 between A85 exit 9 and A10 exit 24
 2020-07-09;(France) Centre-Val de Loire;E604;fracvl.e604;Route truncated at west end from A85 exit 9 to A10
+2021-05-24;(France) Corsica;T40;fracor.t040;Route extended at south end from northern junction with T402 (also the southern junction with D257) to D58
+2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
 2021-01-11;(France) Grand-Est;A340;frages.a340;Route extended at north end from D519 to D144
 2021-01-11;(France) Grand-Est;A340;frages.a340;Route extended at south end from A4 to D421
@@ -740,6 +742,8 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2021-05-30;(Germany) Baden-Württemberg;L125;deubw.l0125;Route relocated from through Ehrenkirchen and onto Krozinger Straße, B3 and L123 from Offennadinger Straße, Ehrenkirchen to K4949 junction in Staufen
+2021-05-30;(Germany) Baden-Württemberg;L122;deubw.l0122;Route extended at south end from Staufener Straße to L125 in Ehrenkirchen
 2020-11-21;(Germany) Baden-Württemberg;L268;deubw.l0268;Route relocated from through Pfullendorf and onto eastern bypass from Mengener Straße to Heiligenberger Straße
 2020-11-14;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route removed from B31 through Überlingen and onto B31n between Stockach and Überlingen-East
 2020-10-24;(Germany) Baden-Württemberg;L268;deubw.l0268;Route extended at north end from Meßkircher Straße in Mengen to L277
@@ -911,7 +915,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
-2021-05-01;(Germany) North Rhine-Westphalia;B56 (Düren;deunw.b056;Route relocated from Schoellerstraße and Kölner Landstraße through Düren and onto new bypass from Heerweg to B264
+2021-05-23;(Germany) North Rhine-Westphalia;B399 (Düren);deunw.b399dur;New Route (former B56)
+2021-05-01;(Germany) North Rhine-Westphalia;B56 (Düren);deunw.b056;Route relocated from Schoellerstraße and Kölner Landstraße through Düren and onto new bypass from Heerweg to B264 (B399 now)
 2021-03-02;(Germany) North Rhine-Westphalia;L92;deunw.l092;Route relocated from through Hürth (Horbeller Straße) and onto bypass via Effener Straße, Frechener Straße, Industriestraße and new B265 eastern bypass
 2021-03-02;(Germany) North Rhine-Westphalia;L183 (Köln);deunw.l183;Route truncated at south end from L182/L192 in Bornheim to L92 in Hürth
 2021-03-02;(Germany) North Rhine-Westphalia;L183 (Brühl);deunw.l183bru;New Route (formerly part of L183 (Köln) south of Hürth
@@ -1000,6 +1005,8 @@ date;region;route;root;description
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2021-05-23;(Germany) Rhineland-Palatinate;A64;deurp.a064;Route extended at east end from exit 4 to A602 (former B52)
+2021-05-23;(Germany) Rhineland-Palatinate;B52 (Trier);deurp.a064;Route deleted (A64 now)
 2020-12-25;(Germany) Rhineland-Palatinate;L509 (Bellheim);deurp.l509bel;New Route
 2020-08-14;(Germany) Rhineland-Palatinate;B38 (Bad Bergzabern);deurp.b038;Route relocated from through Impflingen and onto bypass from L554 north of Impflingen to L544 south of Impflingen
 2020-08-14;(Germany) Rhineland-Palatinate;L554 (Kandel);deurp.l554;Route extended at north end from center of Impflingen to B38 junction north of Impflingen
@@ -1616,7 +1623,7 @@ date;region;route;root;description
 2015-07-15;(Kazakhstan) Ongtustik Kazakhstan;E004;;Deleted route
 2015-07-15;(Kazakhstan) Ongtustik Kazakhstan;E123;;Deleted route
 2015-07-15;(Kazakhstan) Ongtustik Kazakhstan;E40;;Deleted route
-2015-07-15;(Kazakhstan) Ongtustik Kazakhstan;;E38;Deleted route
+2015-07-15;(Kazakhstan) Ongtustik Kazakhstan;E38;;Deleted route
 2015-07-15;(Kazakhstan) Ongtustik Kazakhstan (Myrzakent);E004;;Deleted route
 2015-07-15;(Kazakhstan) Ongtustik Kazakhstan (Myrzakent);E40;;Deleted route
 2015-07-15;(Kazakhstan) Pavlodar;E018;;Deleted route
@@ -1983,7 +1990,7 @@ date;region;route;root;description
 2021-05-19;Poland;DK77;pol.dk077;Route removed from Aleje Jana Pawla II, Ulica Energtykow, Ulica Sanomierska, Ulica Rudnicka, etc through Stalowa Wola and Nisko and relocated onto bypass between DW871 and Ulica Henryka Sienkiewicza
 2021-05-19;Poland;DK78;pol.dk078;Route removed from Ulica Rybnicka, Ulica Feliska Orlickiego, Ulica Jana Sliwki, Ulica Swietojariska and Ulica Tarnogorska and relocated onto Obwodnica Zachodnia, DW408, Ulica Wincentego Styczynskiego, DW902 and DK88 between 'UliRyb_N' and 'DK88_E'
 2021-05-19;Poland;DW781;pol.dw781;Route truncated at north end from DK79 to 'UliSzp_N' and extended at north end from 'UliSzp_N' to DK79 (via bypass)
-2021-05-19;Poland;DW871;pol.dw871;Route entended at east end from 'AleJPII_S' (former DK77) to DK77
+2021-05-19;Poland;DW871;pol.dw871;Route extended at east end from 'AleJPII_S' (former DK77) to DK77
 2021-05-19;Poland;DW872;pol.dw872;Route extended at east end from 'UliSan_W' (former DK77) to DK19
 2021-04-21;Poland;S3 (Szczecin);pol.s003;Route extended at north end from exit 12 to Troszyn
 2021-04-21;Poland;S3 (Ostromice);pol.s003;Route removed (now part of S3)
@@ -3168,6 +3175,8 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2021-06-01;Turkey;O7;tur.o007;Newly opened section added (from exit O7Koc to O4)
+2021-06-01;Turkey;O7;tur.o007Koc;Renamed the branch between O7 and O4 near Kocaeli (former part of O7) 
 2020-12-17;Turkey;O21;tur.o021;Merged O21, O21Ank and added the newly opened section (between exits 8 and 12)
 2020-12-17;Turkey;O21Kir;tur.o021kir;New route
 2020-10-02;Turkey;O21Ank;tur.o021ank;New route
@@ -3236,6 +3245,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-05-24;(UK) England;B6601;eng.b6601;Route added (former part of A601(M))
 2021-05-07;(UK) England;M181;eng.m181;Route truncated at north end from A18 to A1077(M)
 2021-05-07;(UK) England;A1077(M);eng.a1077m;Route added (formerly part of M181)
 2021-05-05;(UK) England;A601(M);eng.a0601m;Route truncated at south end from B6254 to M6
@@ -3640,6 +3650,8 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2021-05-29;(USA) Arkansas;US 63 Business (Pine Bluff);ar.us063buspin;North end truncated from US 65 Business to Harding Avenue.
+2021-05-29;(USA) Arkansas;US 82 Business (Magnolia);;Route deleted.
 2021-05-07;(USA) Arkansas;US 63;ar.us063;Removed from I-40, I-55 and I-555 and relocated onto US 49 between I-40 Exit 216 and I-555 Exit 45.
 2021-05-07;(USA) Arkansas;US 63 Business (Jonesboro);ar.ar463;Deleted. Redesignated as an extension of AR 463.
 2021-05-07;(USA) Arkansas;US 412 Business (Paragould);ar.us412buspar;Route added.
@@ -3762,6 +3774,9 @@ date;region;route;root;description
 2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
+2021-05-25;(USA) Florida;FL 46 (Sanford);fl.fl046;Western end truncated from US 441 to CR 46A, due to small segment becoming CR 46A in the middle of the route. Western part becomes part of FL 46 (Mount Dora).
+2021-05-25;(USA) Florida;FL 46 (Sanford);fl.fl046;Removed from Sorrento Avenue between CR 46A & Sleepy Bear Lane, and relocated onto the future alignment of Wekiva Parkway (future FL 429) between those two intersections.
+2021-05-25;(USA) Florida;FL 46 (Mount Dora);fl.fl046mtd;Added route (former section of main FL 46 file west of CR 46A).
 2021-04-20;(USA) Florida;FL 618;fl.fl618;Extended on western end from the former end point at Exit 1A (US 92) to the west to just shy of the Gandy Bridge on US 92 along a brand new elevated expressway.
 2021-03-10;(USA) Florida;US 92;fl.us092;Relocated FL559 label from Main Street (now MainSt) to the west about 1.9 miles to South Berkley Road (former CR 655) in Auburndale due to transfer agreement between FDOT & Polk County.
 2021-03-10;(USA) Florida;FL 559 (Polk City);fl.fl559;Southern end truncated from FL 655 to FL 559A (C Fred Jones Boulevard).
@@ -4247,6 +4262,8 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2021-05-21;(USA) Maryland;US 219;md.us219;Relocated onto new bypass roadway north of I-68 exit 22 near Grantsville
+2021-05-21;(USA) Maryland;US 219 Business (Grantsville);md.us219busgra;Added route, this consists of former US 219 alignment now bypassed
 2021-03-14;(USA) Maryland;MD 353;md.md353;Extended south from MD 346 to US 50
 2021-03-14;(USA) Maryland;MD 79;md.md079;Truncated at north end from MD 180 to Little Catoctin Creek (Rosemont town limit)
 2020-09-21;(USA) Maryland;MD 327;md.md327;Extended south from Marion Tapp Parkway to end of road
@@ -4815,6 +4832,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2021-05-31;(USA) Pennsylvania;PA 519;pa.pa519;Slightly realigned between PA 980 and *OldPA519. 
 2021-05-17;(USA) Pennsylvania;PA 420 Alternate Truck (Ridley Park);pa.pa420alttrkrid;Realigned to follow US 13 instead of MacDade Blvd. Also renamed from PA 420 Alternate Truck (Ridley Township).
 2021-05-17;(USA) Pennsylvania;PA 340 Alternate Truck (Wagontown);pa.pa340alttrkwag;Route added.
 2021-05-17;(USA) Pennsylvania;PA 52 Alternate Truck (Thornbury Township);pa.pa052alttrktho;Route restored. (was previously deleted when it should not have been)
@@ -5056,6 +5074,10 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2021-05-29;(USA) Texas;US 175 Business (Poynor);tx.us175buspoy;Route added.
+2021-05-29;(USA) Texas;TX 34 Business (Terrell);tx.sp0226; Deleted north of US 80. Portion south of US 80 redesignated as TX Spur 226.
+2021-05-29;(USA) Texas;TX Spur 226;tx.sp0226; Route added. Formerly part of TX 34 Business (Terrell).
+2021-05-29;(USA) Texas;TX Loop 235;tx.sp0235;Renamed to TX Spur 235.
 2021-05-11;(USA) Texas;I-40 BS (Glenrio,NM);tx.i040blgle; Renamed to I-40 BL (Glenrio, TX).
 2021-05-01;(USA) Texas;TX 167;;Route deleted.
 2021-04-22;(USA) Texas;TX 249;tx.tx249;Extended northward from FM 1488 east of Magnolia to FM 1774 north of Todd Mission.
@@ -5145,22 +5167,23 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
-2020-12-11;(USA) Utah;UT 218;ut.ut218;Route truncated at west end from UT 142 to UT 23 junction just east of Newton, eliminating concurrency with UT 23.
+2021-05-20;(USA) Utah;UT 7;ut.ut007;Route extended east on new alignment from former terminus at Sand Hollow Rd (now exit 18) to UT 9
+2020-12-11;(USA) Utah;UT 218;ut.ut218;Route truncated at west end from UT 142 to UT 23 junction just east of Newton, eliminating concurrency with UT 23
 2020-08-08;(USA) Utah;UT 22;ut.ut022;Route truncated at south end from Poison Creek Road to end of state maintenance south of Antimony Creek
 2020-06-30;(USA) Utah;UT 201;ut.ut201;Route truncated at east end from US89 to I-15
 2020-06-04;(USA) Utah;UT 149;ut.ut149;Route truncated at north end from Cub Creek Road to boundary of Dinosaur National Monument
 2020-01-30;(USA) Utah;UT 157;ut.ut157;Route extended to US6/191 along business loop in Helper
 2020-01-06;(USA) Utah;UT 145;ut.ut145;Route extended to UT 85 over former UT 73
 2020-01-06;(USA) Utah;UT 73 (Fairfield);ut.ut073;Route truncated at east end to UT 85
-2019-10-28;(USA) Utah;UT 85;ut.ut085;Route extended south across concurrency with UT 68 to newly opened section of Mountain View Corridor.
+2019-10-28;(USA) Utah;UT 85;ut.ut085;Route extended south across concurrency with UT 68 to newly opened section of Mountain View Corridor
 2019-10-13;(USA) Utah;UT 268;ut.ut268;Route extended at west end from I-15 to 800W
 2019-10-13;(USA) Utah;UT 73 (Lehi);ut.ut073leh;Route extended at west end from I-15 to 850W
 2019-06-18;(USA) Utah;UT 314;ut.ut314;New Route
-2019-05-15;(USA) Utah;UT 82;ut.ut082;Rerouted from 12800N onto 5400W at north end.
-2019-05-15;(USA) Utah;UT 83;ut.ut083;Route truncated at south end from old UT 13 in Corinne to current UT 13 at 4800W.
-2019-05-15;(USA) Utah;UT 13;ut.ut013;Rerouted from Promontory Road onto 4800W north of Corinne.
+2019-05-15;(USA) Utah;UT 82;ut.ut082;Rerouted from 12800N onto 5400W at north end
+2019-05-15;(USA) Utah;UT 83;ut.ut083;Route truncated at south end from old UT 13 in Corinne to current UT 13 at 4800W
+2019-05-15;(USA) Utah;UT 13;ut.ut013;Rerouted from Promontory Road onto 4800W north of Corinne
 2019-03-30;(USA) Utah;UT 194;ut.ut194;New route number for former discontiguous section of UT 85 in Lehi
-2019-02-07;(USA) Utah;UT 137;ut.ut137may;Added signed fork of UT 137 into Mayfield.
+2019-02-07;(USA) Utah;UT 137;ut.ut137may;Added signed fork of UT 137 into Mayfield
 2018-10-28;(USA) Utah;UT 290;;Route Deleted
 2018-10-08;(USA) Utah;UT 186;ut.ut186;Route truncated at south end from I-215 to I-80
 2018-08-30;(USA) Utah;UT 97;ut.ut097;Route truncated at east end from Hill AFB to I-15
