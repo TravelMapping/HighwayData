@@ -10,6 +10,7 @@ TX347 http://www.openstreetmap.org/?lat=30.025889&lon=-94.054937
 +X01 http://www.openstreetmap.org/?lat=30.032203&lon=-94.057375
 TXSpr380 http://www.openstreetmap.org/?lat=30.033366&lon=-94.062463
 HigAve http://www.openstreetmap.org/?lat=30.030226&lon=-94.081963
++x93 http://www.openstreetmap.org/?lat=30.031822&lon=-94.090353
 FloAve http://www.openstreetmap.org/?lat=30.034748&lon=-94.100693
 4thSt http://www.openstreetmap.org/?lat=30.039053&lon=-94.115820
 TX124 http://www.openstreetmap.org/?lat=30.042788&lon=-94.132686
@@ -47,7 +48,7 @@ US190 http://www.openstreetmap.org/?lat=30.775358&lon=-94.414870
 US69_N +US69 http://www.openstreetmap.org/?lat=30.781410&lon=-94.415227
 FM256 http://www.openstreetmap.org/?lat=30.851250&lon=-94.526383
 FM1745_E http://www.openstreetmap.org/?lat=30.925098&lon=-94.596123
-FM1754_W http://www.openstreetmap.org/?lat=30.926879&lon=-94.600074
+FM1745_W http://www.openstreetmap.org/?lat=30.926879&lon=-94.600074
 FM62 http://www.openstreetmap.org/?lat=30.951118&lon=-94.690484
 FM352 http://www.openstreetmap.org/?lat=30.974008&lon=-94.753604
 US59 http://www.openstreetmap.org/?lat=30.996899&lon=-94.827265
@@ -71,11 +72,11 @@ FM2160 http://www.openstreetmap.org/?lat=31.358669&lon=-95.475724
 FM2663 http://www.openstreetmap.org/?lat=31.394704&lon=-95.475993
 +X02 http://www.openstreetmap.org/?lat=31.447804&lon=-95.476966
 +X03 http://www.openstreetmap.org/?lat=31.463722&lon=-95.464502
-US287BusGrp_S http://www.openstreetmap.org/?lat=31.478518&lon=-95.468448
+US287BusGra_S http://www.openstreetmap.org/?lat=31.478518&lon=-95.468448
 FM2423 http://www.openstreetmap.org/?lat=31.487037&lon=-95.470947
 FM227 http://www.openstreetmap.org/?lat=31.500096&lon=-95.474882
 FM228 http://www.openstreetmap.org/?lat=31.506159&lon=-95.475660
-US287BusGrp_N http://www.openstreetmap.org/?lat=31.518733&lon=-95.480539
+US287BusGra_N http://www.openstreetmap.org/?lat=31.518733&lon=-95.480539
 CR1890 http://www.openstreetmap.org/?lat=31.560674&lon=-95.489736
 CR184 http://www.openstreetmap.org/?lat=31.604737&lon=-95.523572
 TX294_E http://www.openstreetmap.org/?lat=31.616806&lon=-95.549941
@@ -104,7 +105,7 @@ CR3265 http://www.openstreetmap.org/?lat=32.014417&lon=-96.183034
 TXSpr294 http://www.openstreetmap.org/?lat=31.997520&lon=-96.233363
 FM3243 http://www.openstreetmap.org/?lat=32.015909&lon=-96.305192
 FM637_E http://www.openstreetmap.org/?lat=32.018158&lon=-96.312201
-FM739 http://www.openstreetmap.org/?lat=32.036609&lon=-96.401360
+FM739 http://www.openstreetmap.org/?lat=32.036607&lon=-96.401604
 FM637_W http://www.openstreetmap.org/?lat=32.042859&lon=-96.411756
 I-45(229) http://www.openstreetmap.org/?lat=32.074292&lon=-96.445274
 I-45(231) http://www.openstreetmap.org/?lat=32.098300&lon=-96.441127
@@ -118,7 +119,9 @@ I-45(243) http://www.openstreetmap.org/?lat=32.257419&lon=-96.503702
 I-45(244) http://www.openstreetmap.org/?lat=32.271368&lon=-96.512886
 I-45(246) http://www.openstreetmap.org/?lat=32.286861&lon=-96.545502
 I-45(247) http://www.openstreetmap.org/?lat=32.297689&lon=-96.569180
-FM1183 http://www.openstreetmap.org/?lat=32.288858&lon=-96.603781
+SteDr http://www.openstreetmap.org/?lat=32.289138&lon=-96.589927
++FM1183 http://www.openstreetmap.org/?lat=32.288858&lon=-96.603781
+EnsRd http://www.openstreetmap.org/?lat=32.289651&lon=-96.621776
 TX34 http://www.openstreetmap.org/?lat=32.300460&lon=-96.639242
 LamSt http://www.openstreetmap.org/?lat=32.307321&lon=-96.644540
 EnnPkwy http://www.openstreetmap.org/?lat=32.317476&lon=-96.656502
@@ -140,7 +143,7 @@ US67 http://www.openstreetmap.org/?lat=32.475956&lon=-97.010680
 US287BusMid_N http://www.openstreetmap.org/?lat=32.482151&lon=-97.017866
 FM661 http://www.openstreetmap.org/?lat=32.510354&lon=-97.063737
 TX360 http://www.openstreetmap.org/?lat=32.522806&lon=-97.082679
-FM917 http://www.openstreetmap.org/?lat=32.537104&lon=-97.103460
+LoneStarRd +FM917 http://www.openstreetmap.org/?lat=32.537104&lon=-97.103460
 HerPkwy http://www.openstreetmap.org/?lat=32.554120&lon=-97.111164
 BroSt http://www.openstreetmap.org/?lat=32.568007&lon=-97.117397
 WalCreDr http://www.openstreetmap.org/?lat=32.581598&lon=-97.132165
@@ -277,9 +280,9 @@ FM91 http://www.openstreetmap.org/?lat=34.256769&lon=-99.516714
 LanRd http://www.openstreetmap.org/?lat=34.251519&lon=-99.556314
 FM2006 http://www.openstreetmap.org/?lat=34.265144&lon=-99.610478
 FM1167 http://www.openstreetmap.org/?lat=34.268761&lon=-99.646994
-FM2568_E http://www.openstreetmap.org/?lat=34.285730&lon=-99.720733
+FM2568_S http://www.openstreetmap.org/?lat=34.285730&lon=-99.720733
 TX6 http://www.openstreetmap.org/?lat=34.289690&lon=-99.741823
-FM2568_W http://www.openstreetmap.org/?lat=34.292349&lon=-99.755940
+FM2568_N http://www.openstreetmap.org/?lat=34.292349&lon=-99.755940
 TXLp285_E http://www.openstreetmap.org/?lat=34.293047&lon=-99.760084
 +X04 http://www.openstreetmap.org/?lat=34.293723&lon=-99.778065
 TXLp285_W http://www.openstreetmap.org/?lat=34.316912&lon=-99.825409
@@ -335,7 +338,7 @@ FM2250 http://www.openstreetmap.org/?lat=35.176549&lon=-101.573611
 FM1912 http://www.openstreetmap.org/?lat=35.188486&lon=-101.653825
 TXSpr228 http://www.openstreetmap.org/?lat=35.190903&lon=-101.671694
 I-40(78) http://www.openstreetmap.org/?lat=35.193275&lon=-101.693358
-I-40(77) http://www.openstreetmap.org/?lat=35.192609&lon=-101.706705
+I-40(77) http://www.openstreetmap.org/?lat=35.192666&lon=-101.707035
 I-40(76) http://www.openstreetmap.org/?lat=35.192539&lon=-101.724043
 I-40(75) http://www.openstreetmap.org/?lat=35.192727&lon=-101.742288
 I-40(74) http://www.openstreetmap.org/?lat=35.192539&lon=-101.759706

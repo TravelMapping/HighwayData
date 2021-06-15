@@ -2,7 +2,7 @@ WV/PA http://www.openstreetmap.org/?lat=39.721151&lon=-80.062212
 LocAve_A +LocAve http://www.openstreetmap.org/?lat=39.732146&lon=-80.066348
 DavRd http://www.openstreetmap.org/?lat=39.741021&lon=-80.065154
 HaiHillRd http://www.openstreetmap.org/?lat=39.777705&lon=-80.105838
-KirGarFRd http://www.openstreetmap.org/?lat=39.803230&lon=-80.117047
+KGFortRd +KirGarFRd http://www.openstreetmap.org/?lat=39.803230&lon=-80.117047
 +X1 http://www.openstreetmap.org/?lat=39.821903&lon=-80.120931
 +X2 http://www.openstreetmap.org/?lat=39.822727&lon=-80.125818
 LemRd http://www.openstreetmap.org/?lat=39.827323&lon=-80.119938
@@ -37,7 +37,9 @@ LocAve_B http://www.openstreetmap.org/?lat=40.176131&lon=-80.242730
 MurAve_W http://www.openstreetmap.org/?lat=40.180191&lon=-80.240715
 I-70(19) http://www.openstreetmap.org/?lat=40.183939&lon=-80.227401
 ManRd http://www.openstreetmap.org/?lat=40.190166&lon=-80.213153
+DavSchRd http://www.openstreetmap.org/?lat=40.205829&lon=-80.200898
 RacRd http://www.openstreetmap.org/?lat=40.211734&lon=-80.196083
+ChubRd http://www.openstreetmap.org/?lat=40.233264&lon=-80.178885
 PA519 http://www.openstreetmap.org/?lat=40.240445&lon=-80.178740
 WeaRd http://www.openstreetmap.org/?lat=40.252491&lon=-80.170511
 McCRd http://www.openstreetmap.org/?lat=40.256094&lon=-80.150749
@@ -75,6 +77,7 @@ ThrDegRd http://www.openstreetmap.org/?lat=40.544608&lon=-80.035934
 SewOakRd http://www.openstreetmap.org/?lat=40.545252&lon=-80.035956
 IngRd http://www.openstreetmap.org/?lat=40.582031&lon=-80.038123
 US19Trk_N http://www.openstreetmap.org/?lat=40.588205&lon=-80.045861
+ChuRd http://www.openstreetmap.org/?lat=40.624747&lon=-80.053985
 ChaDr http://www.openstreetmap.org/?lat=40.629340&lon=-80.056617
 WalRd http://www.openstreetmap.org/?lat=40.633348&lon=-80.059535
 SheRd http://www.openstreetmap.org/?lat=40.650220&lon=-80.078863
@@ -111,9 +114,15 @@ SteRd http://www.openstreetmap.org/?lat=41.196429&lon=-80.240960
 ButSt http://www.openstreetmap.org/?lat=41.225330&lon=-80.239916
 US62_S http://www.openstreetmap.org/?lat=41.226889&lon=-80.239946
 PA58_W http://www.openstreetmap.org/?lat=41.230058&lon=-80.239981
+PennAve http://www.openstreetmap.org/?lat=41.232291&lon=-80.239028
 US62_N http://www.openstreetmap.org/?lat=41.236608&lon=-80.238106
+CorRd http://www.openstreetmap.org/?lat=41.258723&lon=-80.238747
+MagRd http://www.openstreetmap.org/?lat=41.281433&lon=-80.239291
 RodHillRd http://www.openstreetmap.org/?lat=41.297735&lon=-80.240265
+PalRd http://www.openstreetmap.org/?lat=41.306768&lon=-80.235077
 FaiRd http://www.openstreetmap.org/?lat=41.324525&lon=-80.230477
+DisRd http://www.openstreetmap.org/?lat=41.349755&lon=-80.225132
+LavRd http://www.openstreetmap.org/?lat=41.372032&lon=-80.220379
 PA358 http://www.openstreetmap.org/?lat=41.397027&lon=-80.214891
 FreRd http://www.openstreetmap.org/?lat=41.411661&lon=-80.213126
 CarCorRd http://www.openstreetmap.org/?lat=41.435429&lon=-80.209087
@@ -121,21 +130,31 @@ ChuSt http://www.openstreetmap.org/?lat=41.445670&lon=-80.207038
 LakeRd http://www.openstreetmap.org/?lat=41.481938&lon=-80.191073
 AdaRd http://www.openstreetmap.org/?lat=41.521300&lon=-80.186132
 PA285 http://www.openstreetmap.org/?lat=41.541116&lon=-80.187358
+RungRd http://www.openstreetmap.org/?lat=41.567703&lon=-80.187449
+GenRd http://www.openstreetmap.org/?lat=41.581312&lon=-80.194501
 KriRd http://www.openstreetmap.org/?lat=41.595495&lon=-80.195172
 US6/322_W +US6_W http://www.openstreetmap.org/?lat=41.622615&lon=-80.203578
 I-79(147) +I-79 http://www.openstreetmap.org/?lat=41.622565&lon=-80.181313
 PA102 http://www.openstreetmap.org/?lat=41.620598&lon=-80.168918
-+X2A http://www.openstreetmap.org/?lat=41.621394&lon=-80.160171
+ParkAvePla http://www.openstreetmap.org/?lat=41.621394&lon=-80.160171
 US322_E http://www.openstreetmap.org/?lat=41.629688&lon=-80.156717
 MerSt http://www.openstreetmap.org/?lat=41.632745&lon=-80.158133
 PA27 http://www.openstreetmap.org/?lat=41.646158&lon=-80.155636
++X619 http://www.openstreetmap.org/?lat=41.673970&lon=-80.169168
 BalSt http://www.openstreetmap.org/?lat=41.676340&lon=-80.167124
 BlaRd http://www.openstreetmap.org/?lat=41.693839&lon=-80.157122
+GraCenRd http://www.openstreetmap.org/?lat=41.701703&lon=-80.150279
 PA198_E http://www.openstreetmap.org/?lat=41.714353&lon=-80.145870
 ErieSt http://www.openstreetmap.org/?lat=41.718935&lon=-80.148488
 PA198_W http://www.openstreetmap.org/?lat=41.724471&lon=-80.148675
+PetRd http://www.openstreetmap.org/?lat=41.729708&lon=-80.146299
++X619A http://www.openstreetmap.org/?lat=41.738977&lon=-80.138040
 HillRd http://www.openstreetmap.org/?lat=41.742891&lon=-80.128953
++X619B http://www.openstreetmap.org/?lat=41.745287&lon=-80.122797
 GosHillRd http://www.openstreetmap.org/?lat=41.772812&lon=-80.113241
+GraRunRd http://www.openstreetmap.org/?lat=41.772746&lon=-80.108453
++X619C http://www.openstreetmap.org/?lat=41.780419&lon=-80.104416
+SheHillRd http://www.openstreetmap.org/?lat=41.783513&lon=-80.095251
 +X2C http://www.openstreetmap.org/?lat=41.794546&lon=-80.083938
 PA86/408 http://www.openstreetmap.org/?lat=41.803722&lon=-80.057065
 PA99_S http://www.openstreetmap.org/?lat=41.806183&lon=-80.054895
@@ -144,7 +163,7 @@ US6/6N +US6_E http://www.openstreetmap.org/?lat=41.882281&lon=-80.000644
 MooRd http://www.openstreetmap.org/?lat=41.908262&lon=-79.987279
 PA97_S http://www.openstreetmap.org/?lat=41.934019&lon=-79.980622
 ParkRow http://www.openstreetmap.org/?lat=41.942010&lon=-79.983956
-PA97_N http://www.openstreetmap.org/?lat=41.953127&lon=-79.992692
+PA97_N http://www.openstreetmap.org/?lat=41.952673&lon=-79.992400
 TalRd http://www.openstreetmap.org/?lat=41.973777&lon=-80.008181
 ShaRd http://www.openstreetmap.org/?lat=41.996691&lon=-80.030393
 TowRd_B http://www.openstreetmap.org/?lat=42.030311&lon=-80.060919

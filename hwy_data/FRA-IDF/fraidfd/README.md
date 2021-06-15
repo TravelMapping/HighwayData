@@ -1,16 +1,15 @@
 ﻿**FORUM THREAD:**
 - http://forum.travelmapping.net/index.php?topic=2976
+- http://forum.travelmapping.net/index.php?topic=3568
 
-
-**SOURCES:**
--
-
-**DEPARTMENT BORDER LABELS:**
-FRA-75 = `Par` = Paris
+**DEPARTMENT BORDER LABELS AND SOURCES:**
+FRA-75 = `Par` = Paris does not have a D route network
 FRA-77 = `SeM` = Seine-et-Marne
+   wikisara articles (there is no list of all routes though)
 FRA-78 = `Yvl` = Yvelines
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Yvelines_(78)
 FRA-91 = `Ess` = Essonne
+   wikisara articles (there is no list of all routes though)
 FRA-92 = `HdS` = Hauts-de-Seine
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_des_Hauts-de-Seine_(92)
 FRA-93 = `SSD` = Seine-Saint-Denis
@@ -21,6 +20,13 @@ FRA-95 = `VdO` = Val-d'Oise
    https://routes.fandom.com/wiki/Liste_des_routes_d%C3%A9partementales_du_Val-d%27Oise_(95)
 
 **NOTES TO ROUTES:**
+*FRA-77 - Seine-et-Marne:*
+- There is no wikisara overview but route articles exist for many routes, added everything that is confirmed by OSM and GM or GSV
+- `D34A` route is not clear
+- `D127A` south of `D401` is only indicated on OSM, GSV2017 shows a `C1` sign
+- `D131` south of `D100` is only indicated on OSM
+- Routes `D4xx` through Melun are not indicated on GM
+
 *FRA-78 - Yvelines:*
 - `D5` (short route to railroad station) is not signed (GSV, OSM) but indicated on GM, not in HB
 - `D20` is not signed but there are km posts. There's a `D61` sign at eastern-most wp but OSM and GM indicate it being `D20` all the way
@@ -39,7 +45,10 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D317` is just a ramp of `D186`/`D307` interchange, not in HB
 
 *FRA-92 - Hauts-de-Seine:*
-- wikisara overview is very incomplete
+- wikisara overview is very incomplete, route articles exist for more routes, added everything that is confirmed by OSM and GM or GSV
+- `D13` is not indicated on OSM but on GM and GSV
+- `D913` extension not drafted (in HB as `N1013`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
+- `D992` extension not drafted (in HB as `N192`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
 
 *FRA-93 - Seine-Saint-Denis:*
 - Many routes are still signed with their old `N` route numbering
@@ -55,6 +64,3 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D9E` is indicated on OSM and GM but it's missing on wikisara and I couldn't find anything on GSV, added though
 - `D23` is not signed but there is a SSD sign at junction with `D311`, in HB as `D234(93)`
 - `D84B` not drafted since it's not indicated anywhere except of wikisara. It should end halfway between `B84B` and `D84`
-
-**TODO:**
-- Check wikisara `Liste des anciennes routes départementales` Yvelines

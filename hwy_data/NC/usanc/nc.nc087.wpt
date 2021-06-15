@@ -59,13 +59,13 @@ NC27 http://www.openstreetmap.org/?lat=35.308795&lon=-79.086703
 GraRd http://www.openstreetmap.org/?lat=35.351578&lon=-79.108735
 SwaStaRd http://www.openstreetmap.org/?lat=35.380931&lon=-79.109212
 NC87BypSan +SanByp_S http://www.openstreetmap.org/?lat=35.430935&lon=-79.122940
-US421Bus_S +US421_S http://www.openstreetmap.org/?lat=35.449143&lon=-79.132172
+US421Bus_S +US421_S http://www.openstreetmap.org/?lat=35.448155&lon=-79.131346
 NC42/78 http://www.openstreetmap.org/?lat=35.459569&lon=-79.145701
 US1Bus/42 http://www.openstreetmap.org/?lat=35.479910&lon=-79.180473
-US421Bus_N +US421_N http://www.openstreetmap.org/?lat=35.495251&lon=-79.195182
-BurDrv http://www.openstreetmap.org/?lat=35.502867&lon=-79.191052
-US421/87Byp +SanByp_N http://www.openstreetmap.org/?lat=35.511190&lon=-79.188037
-US1_N http://www.openstreetmap.org/?lat=35.523259&lon=-79.183660
+69A(1) +US421Bus_N +US421_N http://www.openstreetmap.org/?lat=35.495251&lon=-79.195182
+69B(1) +BurDrv http://www.openstreetmap.org/?lat=35.502867&lon=-79.191052
+70(1) +US421/87Byp +SanByp_N http://www.openstreetmap.org/?lat=35.511190&lon=-79.188037
+71(1) +US1_N http://www.openstreetmap.org/?lat=35.523259&lon=-79.183660
 +x90 http://www.openstreetmap.org/?lat=35.616251&lon=-79.192924
 JoeWomRd http://www.openstreetmap.org/?lat=35.655965&lon=-79.175870
 US15/501_N http://www.openstreetmap.org/?lat=35.706046&lon=-79.178821
@@ -82,9 +82,9 @@ BogRanRd http://www.openstreetmap.org/?lat=36.016652&lon=-79.391397
 I-40/85 +I-85(147) http://www.openstreetmap.org/?lat=36.059820&lon=-79.400296
 NC49/54_E http://www.openstreetmap.org/?lat=36.070700&lon=-79.400291
 NC49/54_W http://www.openstreetmap.org/?lat=36.070760&lon=-79.409308
-NC100_S http://www.openstreetmap.org/?lat=36.083537&lon=-79.425289
-US70 http://www.openstreetmap.org/?lat=36.096828&lon=-79.437793
-NC100_N http://www.openstreetmap.org/?lat=36.113194&lon=-79.477587
+NC100_E +NC100_S http://www.openstreetmap.org/?lat=36.083537&lon=-79.425289
+US70/62 +US70 http://www.openstreetmap.org/?lat=36.096828&lon=-79.437793
+NC100_W +NC100_N http://www.openstreetmap.org/?lat=36.113194&lon=-79.477587
 OldNC87_Oss http://www.openstreetmap.org/?lat=36.164131&lon=-79.510385
 BroRd http://www.openstreetmap.org/?lat=36.267191&lon=-79.520845
 HarLn http://www.openstreetmap.org/?lat=36.284475&lon=-79.545597
@@ -98,7 +98,7 @@ US29Bus_N +US158_E http://www.openstreetmap.org/?lat=36.357915&lon=-79.689331
 SanCroRd http://www.openstreetmap.org/?lat=36.374098&lon=-79.733566
 NC65_N http://www.openstreetmap.org/?lat=36.385956&lon=-79.744788
 RavRd http://www.openstreetmap.org/?lat=36.445134&lon=-79.767979
-US311/NC770 +NC770_W http://www.openstreetmap.org/?lat=36.464467&lon=-79.762641
+US311/770 +US311/NC770 +NC770_W http://www.openstreetmap.org/?lat=36.464467&lon=-79.762641
 NC14_S http://www.openstreetmap.org/?lat=36.472275&lon=-79.734784
 US311/700 +NC700/770 http://www.openstreetmap.org/?lat=36.507006&lon=-79.744864
 +x100 http://www.openstreetmap.org/?lat=36.523704&lon=-79.753447

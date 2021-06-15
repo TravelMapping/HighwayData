@@ -27,8 +27,8 @@ usaus;US17;;;fl.us017,ga.us017,sc.us017,nc.us017,va.us017
 usaus;US18;;;wy.us018,sd.us018,ia.us018,wi.us018
 usaus;US19;;Florida - North Carolina;fl.us019,ga.us019,nc.us019
 usaus;US19;;Tennessee - Pennsylvania;tn.us019,va.us019,wv.us019,pa.us019
-usaus;US19E;;;tn.us019e,nc.us019e
-usaus;US19W;;;tn.us019w,nc.us019w
+usaus;US19E;;;nc.us019e,tn.us019e
+usaus;US19W;;;nc.us019w,tn.us019w
 usaus;US20;;Oregon - Montana;or.us020,id.us020,mt.us020
 usaus;US20;;Wyoming - Massachusetts;wy.us020,ne.us020,ia.us020,il.us020,in.us020,oh.us020,pa.us020,ny.us020,ma.us020
 usaus;US21;;;sc.us021,nc.us021,va.us021
@@ -56,7 +56,7 @@ usaus;US41;;;fl.us041,ga.us041,tn.us041,ky.us041,in.us041,il.us041,wi.us041,mi.u
 usaus;US42;;;ky.us042,oh.us042
 usaus;US43;;;al.us043,tn.us043
 usaus;US44;;;ny.us044,ct.us044,ri.us044,ma.us044
-usaus;US45;;Alabama - S. Tennessee;ms.us045,al.us045,tn.us045
+usaus;US45;;Alabama - S. Tennessee;al.us045,ms.us045,tn.us045
 usaus;US45;;N. Tennessee - Michigan;tn.us045sfu,ky.us045,il.us045,wi.us045,mi.us045
 usaus;US45E;;;tn.us045e
 usaus;US45W;;;tn.us045w
@@ -69,7 +69,8 @@ usaus;US49W;;;ms.us049w
 usaus;US50;;;ca.us050,nv.us050,ut.us050,co.us050,ks.us050,mo.us050,il.us050,in.us050,oh.us050,wv.us050,md.us050red,wv.us050rom,va.us050,dc.us050,md.us050
 usaus;US51;;;la.us051,ms.us051,tn.us051,ky.us051,il.us051,wi.us051
 usaus;US52;;;nd.us052,mn.us052,ia.us052,il.us052,in.us052,oh.us052,wv.us052ken,ky.us052tug,wv.us052goo,ky.us052,wv.us052,va.us052,nc.us052,sc.us052
-usaus;US53;;;mn.us053,wi.us053
+usaus;US52;;West Virginia (King Coal Highway);wv.us052kin
+usaus;US53;;;wi.us053,mn.us053
 usaus;US54;;;tx.us054elp,nm.us054,tx.us054,ok.us054,ks.us054,mo.us054,il.us054
 usaus;US56;;;nm.us056,ok.us056,ks.us056,mo.us056
 usaus;US57;;;tx.us057
@@ -77,7 +78,7 @@ usaus;US58;;;tn.us058,va.us058
 usaus;US59;;;tx.us059,ar.us059,ok.us059,ks.us059,mo.us059,ia.us059,mn.us059
 usaus;US60;;;az.us060,nm.us060,tx.us060,ok.us060,mo.us060,il.us060,ky.us060,wv.us060,va.us060
 usaus;US61;;;la.us061,ms.us061,tn.us061,ar.us061,mo.us061,ia.us061,wi.us061,mn.us061
-usaus;US62;;;nm.us062,tx.us062elp,tx.us062,ok.us062,ar.us062,mo.us062,il.us062,ky.us062,oh.us062,pa.us062,ny.us062
+usaus;US62;;;tx.us062elp,nm.us062,tx.us062,ok.us062,ar.us062,mo.us062,il.us062,ky.us062,oh.us062,pa.us062,ny.us062
 usaus;US63;;;la.us063,ar.us063,mo.us063,ia.us063,mn.us063,wi.us063
 usaus;US64;;;az.us064,nm.us064,ok.us064,ar.us064,tn.us064,nc.us064
 usaus;US65;;;la.us065,ar.us065,mo.us065,ia.us065,mn.us065
@@ -174,7 +175,7 @@ usaus;US266;;;ok.us266
 usaus;US270;;;ks.us270,ok.us270,ar.us270
 usaus;US271;;;tx.us271,ok.us271,ar.us271
 usaus;US275;;;ne.us275,ia.us275,mo.us275
-usaus;US276;;;nc.us276,sc.us276
+usaus;US276;;;sc.us276,nc.us276
 usaus;US277;;;tx.us277,ok.us277
 usaus;US278;;;ar.us278,ms.us278,al.us278,ga.us278,sc.us278
 usaus;US280;;;al.us280,ga.us280
@@ -186,7 +187,7 @@ usaus;US287;;Montana;mt.us287
 usaus;US290;;;tx.us290
 usaus;US301;;;fl.us301,ga.us301,sc.us301,nc.us301,va.us301,md.us301,de.us301
 usaus;US302;;;vt.us302,nh.us302,me.us302
-usaus;US310;;;mt.us310,wy.us310
+usaus;US310;;;wy.us310,mt.us310
 usaus;US311;;;nc.us311,va.us311
 usaus;US319;;;fl.us319,ga.us319
 usaus;US321;;;sc.us321,nc.us321,tn.us321
@@ -204,7 +205,7 @@ usaus;US385;;;tx.us385,ok.us385,co.us385,ne.us385,sd.us385
 usaus;US395;;;ca.us395,nv.us395,ca.us395sus,or.us395,wa.us395
 usaus;US400;;;co.us400,ks.us400,mo.us400
 usaus;US401;;;sc.us401,nc.us401
-usaus;US411;;;ga.us411,al.us411,tn.us411
+usaus;US411;;;al.us411,ga.us411,tn.us411
 usaus;US412;;;nm.us412,ok.us412,ar.us412,mo.us412,tn.us412
 usaus;US421;;;nc.us421,tn.us421,va.us421,ky.us421,in.us421
 usaus;US422;;Ohio - W. Pennsylvania;oh.us422,pa.us422
@@ -213,7 +214,7 @@ usaus;US425;;;ms.us425,la.us425,ar.us425
 usaus;US431;;;al.us431,tn.us431,ky.us431
 usaus;US441;;;fl.us441,ga.us441,nc.us441,tn.us441
 usaus;US460;;;ky.us460,va.us460taz,wv.us460,va.us460
-usaus;US491;;;ut.us491,co.us491,nm.us491
+usaus;US491;;;nm.us491,co.us491,ut.us491
 usaus;US501;;;sc.us501,nc.us501,va.us501
 usaus;US521;;;sc.us521,nc.us521
 usaus;US522;;;va.us522,wv.us522,md.us522,pa.us522

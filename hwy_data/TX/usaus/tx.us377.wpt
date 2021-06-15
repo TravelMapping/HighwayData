@@ -8,7 +8,7 @@ IndHeadRd http://www.openstreetmap.org/?lat=29.645999&lon=-100.865811
 US277_N http://www.openstreetmap.org/?lat=29.727867&lon=-100.823480
 WhiRd http://www.openstreetmap.org/?lat=29.728929&lon=-100.786203
 CR628 http://www.openstreetmap.org/?lat=29.793687&lon=-100.675490
-FM2523 http://www.openstreetmap.org/?lat=29.794409&lon=-100.615094
+RM2523 http://www.openstreetmap.org/?lat=29.794409&lon=-100.615094
 CR303 http://www.openstreetmap.org/?lat=29.821303&lon=-100.566903
 CR302 http://www.openstreetmap.org/?lat=29.845632&lon=-100.558344
 +X928509 http://www.openstreetmap.org/?lat=29.865638&lon=-100.561525
@@ -29,7 +29,7 @@ CR120 http://www.openstreetmap.org/?lat=30.319257&lon=-99.916899
 +X714282 http://www.openstreetmap.org/?lat=30.355648&lon=-99.894299
 CR140 http://www.openstreetmap.org/?lat=30.396159&lon=-99.884490
 FoxHolRd http://www.openstreetmap.org/?lat=30.407326&lon=-99.855949
-ParkRd73 http://www.openstreetmap.org/?lat=30.450290&lon=-99.817022
+PR73 http://www.openstreetmap.org/?lat=30.450290&lon=-99.817022
 FM2169 http://www.openstreetmap.org/?lat=30.481526&lon=-99.777982
 TXLp481_E +TXLp481 http://www.openstreetmap.org/?lat=30.489273&lon=-99.771921
 RM1674 http://www.openstreetmap.org/?lat=30.504832&lon=-99.778100
@@ -51,13 +51,14 @@ TX71 http://www.openstreetmap.org/?lat=31.095664&lon=-99.327559
 US190_W http://www.openstreetmap.org/?lat=31.113724&lon=-99.335718
 FM2028 http://www.openstreetmap.org/?lat=31.118647&lon=-99.335718
 FM2309 http://www.openstreetmap.org/?lat=31.126216&lon=-99.335117
-US87_N http://www.openstreetmap.org/?lat=31.134795&lon=-99.334892
+US87_N http://www.openstreetmap.org/?lat=31.135175&lon=-99.334905
 US190_E http://www.openstreetmap.org/?lat=31.146164&lon=-99.334723
 FM2996 http://www.openstreetmap.org/?lat=31.154703&lon=-99.333825
 FM1121_W http://www.openstreetmap.org/?lat=31.213687&lon=-99.296644
 FM1121_E http://www.openstreetmap.org/?lat=31.227161&lon=-99.289252
 FM1028 http://www.openstreetmap.org/?lat=31.314488&lon=-99.218441
-CR456 http://www.openstreetmap.org/?lat=31.373480&lon=-99.174083
++X905681 http://www.openstreetmap.org/?lat=31.357263&lon=-99.179772
+FM2315 http://www.openstreetmap.org/?lat=31.386351&lon=-99.171218
 FM502 http://www.openstreetmap.org/?lat=31.418016&lon=-99.170269
 FM765_W http://www.openstreetmap.org/?lat=31.428709&lon=-99.170767
 FM765_E http://www.openstreetmap.org/?lat=31.431886&lon=-99.170054
@@ -87,11 +88,10 @@ CR325 http://www.openstreetmap.org/?lat=31.954192&lon=-98.464381
 FM1476_N http://www.openstreetmap.org/?lat=31.987213&lon=-98.436711
 FM1476_S http://www.openstreetmap.org/?lat=31.990029&lon=-98.434105
 +X8363 http://www.openstreetmap.org/?lat=32.041782&lon=-98.396924
-US377BusDub_S http://www.openstreetmap.org/?lat=32.063837&lon=-98.367113
+US67Bus_S +US377BusDub_S http://www.openstreetmap.org/?lat=32.063837&lon=-98.367113
 TX6 http://www.openstreetmap.org/?lat=32.093182&lon=-98.368202
 FM219 http://www.openstreetmap.org/?lat=32.105107&lon=-98.350763
-TX167 http://www.openstreetmap.org/?lat=32.109824&lon=-98.330625
-US377BusDub_N http://www.openstreetmap.org/?lat=32.111287&lon=-98.327540
+US67Bus_N +US377BusDub_N http://www.openstreetmap.org/?lat=32.111287&lon=-98.327540
 FM988 http://www.openstreetmap.org/?lat=32.201613&lon=-98.245797
 US377BusSte_S http://www.openstreetmap.org/?lat=32.207441&lon=-98.230289
 FM914 http://www.openstreetmap.org/?lat=32.207305&lon=-98.205333
@@ -119,7 +119,7 @@ FM167_S http://www.openstreetmap.org/?lat=32.472672&lon=-97.698466
 TX171 http://www.openstreetmap.org/?lat=32.532595&lon=-97.617876
 YelStoRd http://www.openstreetmap.org/?lat=32.577345&lon=-97.600788
 FM1187_E http://www.openstreetmap.org/?lat=32.618137&lon=-97.534545
-FM1187_N http://www.openstreetmap.org/?lat=32.622009&lon=-97.526616
+FM1187_W +FM1187_N http://www.openstreetmap.org/?lat=32.622009&lon=-97.526616
 RM2871 http://www.openstreetmap.org/?lat=32.661742&lon=-97.486051
 I-20 +I-20(429A) http://www.openstreetmap.org/?lat=32.684419&lon=-97.459620
 TX183_S http://www.openstreetmap.org/?lat=32.717291&lon=-97.443151
@@ -180,10 +180,10 @@ US377BusCol_S http://www.openstreetmap.org/?lat=33.554530&lon=-96.912144
 FM902 http://www.openstreetmap.org/?lat=33.556944&lon=-96.912363
 WooSt http://www.openstreetmap.org/?lat=33.561231&lon=-96.912246
 US377BusCol_N http://www.openstreetmap.org/?lat=33.569733&lon=-96.912584
-US377BusWhb_S http://www.openstreetmap.org/?lat=33.601967&lon=-96.909928
+US377BusWhi_S http://www.openstreetmap.org/?lat=33.601967&lon=-96.909928
 TXSpr129 http://www.openstreetmap.org/?lat=33.649395&lon=-96.894366
 BDArcSt http://www.openstreetmap.org/?lat=33.658313&lon=-96.893937
-US377BusWhb_N http://www.openstreetmap.org/?lat=33.669426&lon=-96.904178
+US377BusWhi_N http://www.openstreetmap.org/?lat=33.669426&lon=-96.904178
 US82 http://www.openstreetmap.org/?lat=33.671640&lon=-96.905422
 ReaRd http://www.openstreetmap.org/?lat=33.753028&lon=-96.900366
 FM901_S http://www.openstreetmap.org/?lat=33.798683&lon=-96.873311

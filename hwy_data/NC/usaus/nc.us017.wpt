@@ -24,7 +24,7 @@ GreAve http://www.openstreetmap.org/?lat=34.210309&lon=-77.836896
 WriAve http://www.openstreetmap.org/?lat=34.219955&lon=-77.832159
 US74/76_E http://www.openstreetmap.org/?lat=34.227780&lon=-77.829670
 US17BusWlm_N http://www.openstreetmap.org/?lat=34.265392&lon=-77.825925
-I-140 +US17BusWlm http://www.openstreetmap.org/?lat=34.305699&lon=-77.784824
+NC140 +I-140 +US17BusWlm http://www.openstreetmap.org/?lat=34.305699&lon=-77.784824
 NC210_W http://www.openstreetmap.org/?lat=34.366049&lon=-77.712071
 NC210_E http://www.openstreetmap.org/?lat=34.454766&lon=-77.606757
 NC50 http://www.openstreetmap.org/?lat=34.495319&lon=-77.554582
@@ -34,32 +34,32 @@ NC210 http://www.openstreetmap.org/?lat=34.589128&lon=-77.479770
 +x50 http://www.openstreetmap.org/?lat=34.616674&lon=-77.484239
 VerRd http://www.openstreetmap.org/?lat=34.671326&lon=-77.468494
 MurHillRd http://www.openstreetmap.org/?lat=34.713350&lon=-77.480709
-US17Bus_S http://www.openstreetmap.org/?lat=34.745536&lon=-77.456950
+US17Bus_S http://www.openstreetmap.org/?lat=34.739902&lon=-77.460630
+NC24/53_W http://www.openstreetmap.org/?lat=34.739999&lon=-77.451725
 +x55 http://www.openstreetmap.org/?lat=34.730433&lon=-77.428851
-MonLanRd http://www.openstreetmap.org/?lat=34.743446&lon=-77.413530
-NC24_E http://www.openstreetmap.org/?lat=34.747299&lon=-77.408316
-WhiStExt http://www.openstreetmap.org/?lat=34.761165&lon=-77.394996
-US17Bus_N http://www.openstreetmap.org/?lat=34.773257&lon=-77.398381
+MonLanRd http://www.openstreetmap.org/?lat=34.743658&lon=-77.413155
+NC24/53_E +NC24_E http://www.openstreetmap.org/?lat=34.747299&lon=-77.408316
+110 +WhiStExt http://www.openstreetmap.org/?lat=34.761165&lon=-77.394996
+111 +US17Bus_N http://www.openstreetmap.org/?lat=34.773257&lon=-77.398381
 NC53 http://www.openstreetmap.org/?lat=34.777064&lon=-77.392545
 KelLpRd http://www.openstreetmap.org/?lat=34.804710&lon=-77.356061
 US17BusMay_S http://www.openstreetmap.org/?lat=34.870429&lon=-77.252637
 NC58_S http://www.openstreetmap.org/?lat=34.917481&lon=-77.236132
 PaiLn http://www.openstreetmap.org/?lat=34.950897&lon=-77.242577
 LeesChaRd http://www.openstreetmap.org/?lat=34.976209&lon=-77.239244
-NC58_N http://www.openstreetmap.org/?lat=34.999242&lon=-77.233793
-MainSt +NC58_W http://www.openstreetmap.org/?lat=34.998152&lon=-77.224767
-10MiRd http://www.openstreetmap.org/?lat=35.056069&lon=-77.205906
-US17BusNew_S http://www.openstreetmap.org/?lat=35.065306&lon=-77.191025
-+x60 http://www.openstreetmap.org/?lat=35.069143&lon=-77.192999
-TusRd http://www.openstreetmap.org/?lat=35.076993&lon=-77.179148
-US70_W http://www.openstreetmap.org/?lat=35.132299&lon=-77.151672
-NC43 http://www.openstreetmap.org/?lat=35.126806&lon=-77.133937
+130 +NC58_N http://www.openstreetmap.org/?lat=34.999260&lon=-77.232835
++X56 http://www.openstreetmap.org/?lat=35.032667&lon=-77.225132
++X58 http://www.openstreetmap.org/?lat=35.060493&lon=-77.207966
+136 http://www.openstreetmap.org/?lat=35.069345&lon=-77.194233
++X60 http://www.openstreetmap.org/?lat=35.080022&lon=-77.176638
+141 +US70_W http://www.openstreetmap.org/?lat=35.132299&lon=-77.151672
+US70(411) +NC43 http://www.openstreetmap.org/?lat=35.126806&lon=-77.133937
 GleRd http://www.openstreetmap.org/?lat=35.112466&lon=-77.097148
 US17BusNew_N http://www.openstreetmap.org/?lat=35.103953&lon=-77.084187
-NC55_S http://www.openstreetmap.org/?lat=35.100960&lon=-77.058524
-US70_E http://www.openstreetmap.org/?lat=35.093551&lon=-77.039309
+US70(416) +NC55_W +NC55_S http://www.openstreetmap.org/?lat=35.100960&lon=-77.058524
+US70(417) +US70_E http://www.openstreetmap.org/?lat=35.093551&lon=-77.039309
 +x70 http://www.openstreetmap.org/?lat=35.104372&lon=-77.009257
-NC55_N http://www.openstreetmap.org/?lat=35.114898&lon=-77.012454
+NC55_E +NC55_N http://www.openstreetmap.org/?lat=35.114898&lon=-77.012454
 GasRd http://www.openstreetmap.org/?lat=35.195057&lon=-77.054200
 NC43_S http://www.openstreetmap.org/?lat=35.249790&lon=-77.088972
 US17Bus/43 http://www.openstreetmap.org/?lat=35.288279&lon=-77.128969
@@ -67,26 +67,27 @@ US17BusVan http://www.openstreetmap.org/?lat=35.333420&lon=-77.150910
 +x80 http://www.openstreetmap.org/?lat=35.383511&lon=-77.148807
 NC102 http://www.openstreetmap.org/?lat=35.430183&lon=-77.127757
 US17BusWas_S http://www.openstreetmap.org/?lat=35.500212&lon=-77.103655
-NC33 http://www.openstreetmap.org/?lat=35.507223&lon=-77.089989
+176 +NC33 http://www.openstreetmap.org/?lat=35.507223&lon=-77.089989
 +x90 http://www.openstreetmap.org/?lat=35.553527&lon=-77.079810
-US264 http://www.openstreetmap.org/?lat=35.562609&lon=-77.073703
-US17BusWas_N http://www.openstreetmap.org/?lat=35.571798&lon=-77.065436
-NC171 http://www.openstreetmap.org/?lat=35.634584&lon=-77.063534
+180 +US264 http://www.openstreetmap.org/?lat=35.562609&lon=-77.073703
+US17BusWas_N http://www.openstreetmap.org/?lat=35.570668&lon=-77.066259
+NC171 http://www.openstreetmap.org/?lat=35.634732&lon=-77.063878
 BearGraRd http://www.openstreetmap.org/?lat=35.690466&lon=-77.079601
 +x100 http://www.openstreetmap.org/?lat=35.710513&lon=-77.071887
 +x101 http://www.openstreetmap.org/?lat=35.763131&lon=-77.074601
 +x102 http://www.openstreetmap.org/?lat=35.784388&lon=-77.059683
-US64_W http://www.openstreetmap.org/?lat=35.819118&lon=-77.064961
-US64_E http://www.openstreetmap.org/?lat=35.840838&lon=-77.052494
-US17Bus http://www.openstreetmap.org/?lat=35.855787&lon=-77.042742
+US64(514) +US64_W http://www.openstreetmap.org/?lat=35.819118&lon=-77.064961
+US64(515) +US64_E http://www.openstreetmap.org/?lat=35.840838&lon=-77.052494
+EastBlvd http://www.openstreetmap.org/?lat=35.844882&lon=-77.051668
+US17BusWil +US17Bus http://www.openstreetmap.org/?lat=35.855787&lon=-77.042742
 StFraRd http://www.openstreetmap.org/?lat=35.924625&lon=-77.006022
 WarRd http://www.openstreetmap.org/?lat=35.948627&lon=-76.957093
-US13/US17BypWin_S http://www.openstreetmap.org/?lat=35.984342&lon=-76.957397
-US13Bus_N http://www.openstreetmap.org/?lat=35.986135&lon=-76.956439
+US13/17BypWin +US13/US17BypWin_S http://www.openstreetmap.org/?lat=35.985247&lon=-76.958027
+US13Bus_N http://www.openstreetmap.org/?lat=35.986601&lon=-76.955967
 NC308_W +NC308_N http://www.openstreetmap.org/?lat=35.993834&lon=-76.942733
 NC308_E +NC308_S http://www.openstreetmap.org/?lat=35.989961&lon=-76.923823
 WakRd http://www.openstreetmap.org/?lat=36.016483&lon=-76.890623
-US17BypWin_N http://www.openstreetmap.org/?lat=36.017444&lon=-76.836979
+US17BypWin_N http://www.openstreetmap.org/?lat=36.018004&lon=-76.840739
 NC45 http://www.openstreetmap.org/?lat=36.034403&lon=-76.784520
 CypRd http://www.openstreetmap.org/?lat=36.041925&lon=-76.707380
 224 +US17BusEde_S http://www.openstreetmap.org/?lat=36.059560&lon=-76.668305
@@ -109,7 +110,7 @@ NC344 http://www.openstreetmap.org/?lat=36.294876&lon=-76.247086
 US158_E http://www.openstreetmap.org/?lat=36.305408&lon=-76.233155
 US17BusEli_N http://www.openstreetmap.org/?lat=36.311797&lon=-76.220462
 +x140 http://www.openstreetmap.org/?lat=36.333466&lon=-76.228804
-US17BypEli_N +US17EliByp_N http://www.openstreetmap.org/?lat=36.378355&lon=-76.310295
+264 +US17BypEli_N +US17EliByp_N http://www.openstreetmap.org/?lat=36.378355&lon=-76.310295
 US158_W +US158 http://www.openstreetmap.org/?lat=36.414376&lon=-76.340604
 US17BusSou http://www.openstreetmap.org/?lat=36.436096&lon=-76.338512
 US17Bus/343 http://www.openstreetmap.org/?lat=36.468103&lon=-76.336098
