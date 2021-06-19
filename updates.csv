@@ -27,6 +27,9 @@ date;region;route;root;description
 2020-12-01;(Australia) South Australia;M2 (Southern Expressway, Adelaide);aussa.m002noa;Route extended at north end from A13_N to A2
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
+2021-06-16;Austria;B61;aut.b061a;Route extended at south end from B61 to the Hungarian border
+2021-06-16;Austria;B25;aut.b025a;New Route
+2021-06-16;Austria;B25;aut.b025;Route relocated from through Wieselburg (B25a now) and onto new bypass from north of Holzing to south of Mühling
 2020-12-17;Austria;S3;aut.s003;Route extended at north end from north of Hollabrunn to Guntersdorf (B30)
 2020-12-17;Austria;E59;aut.e59;Route relocated onto new S3 from north of Hollabrunn to Guntersdorf (B30)
 2020-12-17;Austria;B30;aut.b030;Route relocated from through Guntersdorf and onto northern bypass
@@ -180,6 +183,8 @@ date;region;route;root;description
 2015-08-22;(Canada) Alberta;AB 58;ab.ab058;Removed from 98 Avenue and relocated onto AB35 and a northeastern bypass, between western & eastern closed intersections with 98 Avenue.
 2015-08-13;(Canada) British Columbia;TCH 1 Business (Chase BC);bc.tchbuscha;New route
 2018-03-28;(Canada) Manitoba;MB 17;mb.mb017;North end extended from 150 N to MB 224
+2021-06-17;(Canada) New Brunswick;NB 101;nb.nb101;Extended at south end from Eagle Rock Road to NB 101.
+2021-06-17;(Canada) New Brunswick;NB 177;nb.nb177;North end removed from Eagle Rock Road between the NB 7 Exit 71 connector and NB 7 Exit 63, and relocated onto the connector to NB 7 Exit 71.
 2021-02-09;(Canada) New Brunswick;NB 176;nb.nb176;From a point labeled *OldNB176, south end removed from a northerly road to the old Black's Harbour Ferry Terminal and relocated southwestward toward the new Black's Harbour Ferry Terminal.
 2019-09-28;(Canada) New Brunswick;NB 745;nb.nb745;North end removed from Loon Bay Road westward to Loon Bay, and relocated northwestward from the Lily Bay Road intersection to Scotts Brook Provincial Park.
 2019-07-30;(Canada) New Brunswick;NB 774;nb.nb774;North end truncated by 2.0 km, to Head Harbour Wharf Rd.
@@ -883,10 +888,11 @@ date;region;route;root;description
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
-2021-01-30;(Germany) Lower Saxony;B3A;;Route deleted
-2020-11-21;(Germany) Lower Saxony;B3A;;New Route
+2021-06-16;(Germany) Lower Saxony;B212 (Berne);deuni.b212ber;Route extended at south end from Ranzenbüttel (B74) to Motzen (L875)
 2021-06-03;(Germany) Lower Saxony;B211;deuni.b211;Route relocated from through Oldenbrok-Mittelort and onto new bypass from B211A to B212
 2021-06-03;(Germany) Lower Saxony;B211A;deuni.b211a;New route (former B211 alignment)
+2021-01-30;(Germany) Lower Saxony;B3A;;Route deleted
+2020-11-21;(Germany) Lower Saxony;B3A;;New Route
 2020-11-21;(Germany) Lower Saxony;B3 (Göttingen);deuni.b003;Route relocated from through Hemmingen and onto new bypass from B3A north of Westerfeld to B3A south of Arnum
 2020-08-06;(Germany) Lower Saxony;B443 (Lehrte);deuni.b443;Route truncated at south end from B3 to B65 (segment from B65 to A7 was downgraded to district road, segment from A7 to B3 remains as a new route)
 2020-08-06;(Germany) Lower Saxony;B443 (Laatzen);deuni.b443laa;New Route
@@ -1175,6 +1181,7 @@ date;region;route;root;description
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2021-06-17;Hungary;M85;hun.m085;Route extended at west end from F84 to H8527 (part of Sopron Bypass opened)
 2021-05-07;Hungary;F331;hun.f331;New Route
 2021-05-07;Hungary;F351;hun.f351;New Route
 2021-05-07;Hungary;F253;hun.f253;New Route
@@ -1999,6 +2006,9 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2021-06-14;Poland;S19 (Janów Lubelski);pol.s019jan;Route added
+2021-06-14;Poland;DK19 (Kraśnik);pol.dk019kra;Route truncated at south end from DW878 to S19_S south of Janów Lubelski
+2021-06-14;Poland;DK19 (Nisko);pol.dk019nis;Route added
 2021-05-19;Poland;DK44;pol.dk044;Route removed from Ulica Krakowska and Ulica Jozefa Pilsudskiego through Skawina and relocated onto Obwodnica Skawiny between 'UliJozPil_E' and 'UliKra'
 2021-05-19;Poland;DK77;pol.dk077;Route removed from Aleje Jana Pawla II, Ulica Energtykow, Ulica Sanomierska, Ulica Rudnicka, etc through Stalowa Wola and Nisko and relocated onto bypass between DW871 and Ulica Henryka Sienkiewicza
 2021-05-19;Poland;DK78;pol.dk078;Route removed from Ulica Rybnicka, Ulica Feliska Orlickiego, Ulica Jana Sliwki, Ulica Swietojariska and Ulica Tarnogorska and relocated onto Obwodnica Zachodnia, DW408, Ulica Wincentego Styczynskiego, DW902 and DK88 between 'UliRyb_N' and 'DK88_E'
@@ -2642,6 +2652,12 @@ date;region;route;root;description
 2018-12-21;Senegal;A1;sen.a001;Route extended at east end from A2 to exit 19
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2021-06-16;Slovakia;R2 (Kosice);svk.i016;Route removed (now part of I16)
+2021-06-16;Slovakia;PR3;svk.i020;Route removed (now part of I16 and I20)
+2021-06-16;Slovakia;I16;svk.i016;Route extended at east end from Mladeznicka Ulica to I19/I20 junction
+2021-06-16;Slovakia;I20;svk.i020;Route extended at south end from D1 to I16/I19 junction
+2021-06-16;Slovakia;I51 (Nitra);svk.i051;Route truncated at western end from Czech border to R1a
+2021-06-16;Slovakia;I51 (Trnava);svk.i051trn;Route added (Czech border to R1 exit 1)
 2021-02-11;Slovakia;D4 (Rovinka);svk.d004rov;Route extended at north end from exit 18 to exit 25
 2021-01-29;Slovakia;D1 (Bratislava);svk.d001;Route extended at east end from exit 187 to exit 199
 2021-01-29;Slovakia;I64C;svk.i064c;Route added
@@ -3665,8 +3681,12 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2021-06-11;(USA) Arkansas;US 63 Business (Marked Tree);;Deleted. Now signed as extensions of AR 75 and AR 149.
+2021-06-11;(USA) Arkansas;AR 75;ar.ar075;Extended northward from I-555 to AR 140/149.
+2021-06-11;(USA) Arkansas;AR 149;ar.ar149;Extended northward from AR 308 to AR 75/140.
+2021-06-11;(USA) Arkansas;AR 81S;ar.ar081s;Extended northward apprx. 0.4 mi from the Union Pacific railroad crossing to Fairfield Road.
 2021-06-08;(USA) Arkansas;US 71 Business (Fayetteville, AR);ar.us071busspr;Renamed US 71 Business (Springdale, AR). South end removed from School Ave, Archibald Yell Blvd and College Ave between both ends of Fulbright Expy, and relocated onto Fulbright Expressway between US 71 (at I-49 Exit 67B) and College Ave.
-2021-06-08;(USA) Arkansas;US 71 Spur (Fayetteville, AR);ar.us071busspr;Route deleted. Merged into US 71 Business (Fayetteville, AR).
+2021-06-08;(USA) Arkansas;US 71 Spur (Fayetteville, AR);ar.us071busspr;Route deleted. Merged into US 71 Business (Springdale, AR).
 2021-06-08;(USA) Arkansas;AR 16;ar.ar016;Removed from AR 180 and Razorback Rd north of 15th St and relocated onto Fulbright Expy and Razorback Rd south of 15th St between I-49 Exit 62 and 15th St.
 2021-06-08;(USA) Arkansas;AR 112;ar.ar112;South end truncated from US 71 / AR 265 to Wedington Drive (AR 16S).
 2021-06-08;(USA) Arkansas;AR 112S;ar.ar016sfay;Renamed AR 16S (Fayetteville).
@@ -5303,6 +5323,7 @@ date;region;route;root;description
 2018-01-01;(USA) Virginia;US 15 Alt (Farmville);va.us015altfar;New route
 2018-01-01;(USA) Virginia;VA 167;va.va167;New route
 2018-01-01;(USA) Virginia;VA 154 (Covington);;Route deleted
+2021-06-14;(USA) Washington;WA 108 Business Loop (McCleary);wa.wa108busmcc;Route added
 2021-05-09;(USA) Washington;WA 704;wa.wa704;Route added
 2021-03-06;(USA) Washington;WA 519;wa.wa519;Route re-added
 2021-01-07;(USA) Washington;WA 525;wa.wa525;Northern terminus relocated to location of newly-opened Mukilteo ferry terminal between relocated CliMukFry waypoint and new MukSpe waypoint
@@ -5352,6 +5373,8 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2021-06-18;(USA) Wisconsin;WI 29;wi.wi029;Removed from connector to I-41 and moved onto Shawano Avenue between Cardinal Lane and I-41
+2021-06-18;(USA) Wisconsin;WI 145;wi.wi145;Removed from Old Orchard Road between WI 100 and Boundary Road and moved onto WI 100 and Boundary Road (accurate per GMSV 2019)
 2021-06-08;(USA) Wisconsin;US 18;wi.us018;Moved off 17th Street and State/Wells streets one-way pairs onto Highland Avenue and WI 145 between 17th and 6th Streets in Milwaukee.
 2021-06-02;(USA) Wisconsin;WI 106;wi.wi106;Truncated from Albion Road to WI 73.
 2020-08-25;(USA) Wisconsin;WI 310;wi.wi310;Relocated endpoint at WI 42 from on 12th Street to on 16th Street in Two Rivers

@@ -15,7 +15,7 @@ FRA-31 = `HGa` = Haute-Garonne
    http://yakra.teresco.org/tmtools_demos/gisplunge/FRA/Haute_Garonne/
    https://routes.fandom.com/wiki/Toulouse_M%C3%A9tropole
 FRA-32 = `Ger` = Gers
-FRA-34 = `Her` =  Hérault
+FRA-34 = `Her` = Hérault
 FRA-46 = `Lot` = Lot
 FRA-48 = `Loz` = Lozère
 FRA-65 = `HPy` = Hautes-Pyrénées
