@@ -26,4 +26,5 @@ FRA-82 = `TeG` = Tarn-et-Garonne
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-48 - Lozère:*
+- `D45` segment through ARA Haute-Loire (OSM + GM, no GSV available) seems to belong to Lozère departement
