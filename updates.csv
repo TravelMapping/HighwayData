@@ -347,6 +347,9 @@ date;region;route;root;description
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2021-07-03;Czechia;I20 (Plzeň);cze.i020plz;New route
+2021-07-03;Czechia;I20 (Main);cze.i020;Route relocated in Plzeň-Severní Předměstí from Gerská and Karlovarská, and onto Studentská and Lidická
+2021-07-03;Czechia;E49;cze.e49;Route relocated in Plzeň-Severní Předměstí from Gerská and Karlovarská, and onto Studentská and Lidická
 2020-12-15;Czechia;I58;cze.i058;Route relocated from through Skotnice and onto new bypass from north of Skotnice to D48 exit 30
 2020-12-01;Czechia;D6 (Kladno);cze.d006;Route extended at west end from exit 32 to temporary motorway end west of Krušovice
 2020-12-01;Czechia;E48;cze.e48;Route relocated from through Řevničov and onto new motorway from D6 exit 32 to temporary motorway end west of Krušovice
@@ -755,6 +758,7 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2021-07-03;(Germany) Baden-Württemberg;B36 (Mannheim-Oststadt);;Route deleted
 2021-06-06;(Germany) Baden-Württemberg;L1129;deubw.l1129;Route relocated at north end from Beihinger Straße through Pleidelsheim and onto Osttangente Pleidelsheim
 2021-06-06;(Germany) Baden-Württemberg;L90 (Kork);deubw.l0090kor;New Route
 2021-05-30;(Germany) Baden-Württemberg;L125;deubw.l0125;Route relocated from through Ehrenkirchen and onto Krozinger Straße, B3 and L123 from Offennadinger Straße, Ehrenkirchen to K4949 junction in Staufen
@@ -4893,6 +4897,8 @@ date;region;route;root;description
 2015-09-10;(USA) Oklahoma;Muskogee Turnpike;;Deleted route. Renamed to OK 351.
 2015-09-10;(USA) Oklahoma;OK 351;ok.ok351;Added route. Renamed from Muskogee Turnpike.
 2015-09-10;(USA) Oklahoma;OK 364;ok.ok364;Added route. Renamed from Creek Turnpike.
+2021-07-03;(USA) Oregon;OR 132;or.or132;Added route (was Delta Highway)
+2021-07-03;(USA) Oregon;Delta Highway;or.or132;Deleted route (now OR 132)
 2020-08-25;(USA) Oregon;US 26 Business (Government Camp);or.us026busgov;Added route
 2020-08-25;(USA) Oregon;OR 127;or.or127;Added route
 2020-08-25;(USA) Oregon;OR 62;or.or062;Rerouted route onto new roadway between Poplar Dr and Agate Rd
@@ -5394,6 +5400,8 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2021-07-05;(USA) Wisconsin;US 45;wi.us045;Re-entered route with exit numbers along I-41, I-894, US 10, WI 29. Re-entered all waypoint locations along I-894.
+2021-07-05;(USA) Wisconsin;US 51;wi.us051;Re-entered route with exit numbers between WI 29 and US 8. Re-entered exit numbers along I-39, treating I-39's exit numbers as US 51's. Removed from North Towne Road between WI 19 and Route V and relocated onto parallel freeway. Closed points CRDV_Dan and CRH_Lin.
 2021-06-18;(USA) Wisconsin;WI 29;wi.wi029;Removed from connector to I-41 and moved onto Shawano Avenue between Cardinal Lane and I-41
 2021-06-18;(USA) Wisconsin;WI 145;wi.wi145;Removed from Old Orchard Road between WI 100 and Boundary Road and moved onto WI 100 and Boundary Road (accurate per GMSV 2019)
 2021-06-08;(USA) Wisconsin;US 18;wi.us018;Moved off 17th Street and State/Wells streets one-way pairs onto Highland Avenue and WI 145 between 17th and 6th Streets in Milwaukee.
