@@ -273,6 +273,11 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
+2021-07-15;(Canada) Quebec;A-720;;Route deleted, replaced with new Montreal segment of QC 136
+2021-07-15;(Canada) Quebec;QC 136 (Montreal);qc.qc136mon;New route, replacing decommissioned A-720
+2021-07-15;(Canada) Quebec;A-85;qc.a085;Route extended southeast about 11 km to new junction with QC 185 in Saint-Antonin
+2021-07-15;(Canada) Quebec;QC 185;qc.qc185;North end of route truncated, to new intersection with extended A-85
+2021-07-15;(Canada) Quebec;TCH (Main);qc.tchmai;Route relocated in Saint-Antonin from Route des Roches (former part of QC 185) to new A-85 extension, between closed *3Rang intersection and RteRoc_N
 2020-12-17;(Canada) Quebec;A-410;qc.a410;Extended northeast from exit 13 to QC 108 east of Lennoxville 
 2020-11-21;(Canada) Quebec;QC 172;qc.qc172;West end in Alma relabeled from QC169 to AvPontNord, and new QC169 waypoint added at Alma eastern bypass
 2020-04-29;(Canada) Quebec;A-440 ((East) Quebec);qc.a440equ;Extended west from exit 21 to intersection with Cote de la Potasse
@@ -1069,6 +1074,7 @@ date;region;route;root;description
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
+2021-07-18;(Germany) Saxony-Anhalt;B188;deust.b188;Route relocated from through Weddendorf, Niendorf and Bergfriede and relocated onto new bypass north of the railway track from K1124 to Frankenfelde
 2020-10-03;(Germany) Saxony-Anhalt;B189;deust.b189;Route relocated onto new A14 section from south of Dolle to north of Colbitz (L38 now)
 2020-10-03;(Germany) Saxony-Anhalt;L38;deust.l038;Route extended at north end from north of Colbitz to south of Dolle (former B189)
 2020-09-14;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;Route extended at north end from exit Colbitz to exit Tangerhütte
@@ -3911,6 +3917,10 @@ date;region;route;root;description
 2017-03-03;(USA) Hawaii;HI 3800;hi.hi3800;Route added
 2015-12-26;(USA) Hawaii;HI 3000;hi.hi3000;Route added
 2015-11-17;(USA) Hawaii;HI 380;hi.hi380;Route relocated from closed Dairy Rd. segment between waypoints AirAccRd and PakSt_N, onto parts of Airport Access Rd. and Pakaula St.
+2021-07-14;(USA) Idaho;ID 53;id.id053;Route relocated south onto new alignment between waypoints OldHwy95 and US95
+2021-07-14;(USA) Idaho;ID 64;id.id064;Route truncated at eastern end from US 12 to ID 162 (Pine Street)
+2021-07-14;(USA) Idaho;ID 128 Spur (Lewiston);;Route deleted
+2021-07-14;(USA) Idaho;ID 13 Business (Kooskia);;Route deleted
 2020-11-03;(USA) Idaho;US 195 Spur (Lewiston);;Route deleted
 2020-11-03;(USA) Idaho;ID 71;id.id071;Route truncated at northern end from ID/OR border to east end of Snake River Bridge
 2020-01-18;(USA) Idaho;ID 79;;Route deleted
@@ -4603,6 +4613,7 @@ date;region;route;root;description
 2017-05-01;(USA) New Jersey;NJ 15;nj.nj015;South end removed from Clinton St (including a demolished section underpassing US 46) and Bergen St between Richboynton Rd and US 46 at Bergen St, and relocated onto a southwesterly realignment of Clinton St between Richboynton Rd and an at-grade T-intersection with US 46.
 2016-11-16;(USA) New Jersey;NJ 18;nj.nj018;Extended north from Buckingham Drive to I-287
 2016-11-16;(USA) New Jersey;NJ 19;nj.nj019;South end removed from the Garden State Parkway access ramps between The Broad Street ramps and the Garden State Parkway, and relocated onto Broad Street between the GSP ramps and Colfax Avenue
+2021-07-15;(USA) New Mexico;US54;nm.us054;In Logan, slightly relocated to new bridge across the Canadian River, between waypoints *OldUS54_W and *OldUS54_E
 2021-06-08;(USA) New Mexico;NM 355;;Route deleted (unsigned)
 2021-06-08;(USA) New Mexico;NM 461;;Route deleted (decommissioned)
 2021-06-07;(USA) New Mexico;NM 282;;Route deleted (unsigned)
@@ -4686,6 +4697,7 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2021-07-21;(USA) North Carolina;NC 231;nc.nc231;route extended north one waypoint to its actual endpoint of US 64 ALT and NC 98
 2021-06-18;(USA) North Carolina;NC 50;nc.nc050;rerouted onto new bridge to Topsail Island 12-18-2018 - new routing is between points NC210_E and AtkPoiRd
 2021-06-18;(USA) North Carolina;NC 210;nc.nc210;rerouted onto new bridge to Topsail Island 12-18-2018 - new routing is between points RolRd and AtkPoiRd
 2021-05-02;(USA) North Carolina;US 19 TRUCK (Waynesville);nc.us019trkway;rerouted off US 441 via more US 74 to posted endpoint at US 19/74 junction - old route to Cherokee remains US 441
