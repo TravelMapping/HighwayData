@@ -1,10 +1,12 @@
 ﻿System;CountryCode;Name;Color;Tier;Level
 alba;ALB;Albania Autoudhë;TMblue;1;active
 albsh;ALB;Albania Rrugë Shtetërore;TMlightsalmon;4;active
+andcs;AND;Andorra Carreteras Secundarias;TMyellow;5;active
 andcg;AND;Andorra Carreteras Generales;TMlightsalmon;4;active
 armm;ARM;Armenia Magistrale;TMlightsalmon;4;active
 asiah;ASI;UNESCAP / ASEAN Asian Highways;TMred;3;active
 ausm;AUS;Australia Motorways;TMblue;1;active
+aussf;AUS;Australia Select Freeways;TMteal;2;active
 ausa;AUS;Australia A Roads;TMgreen;3;active
 ausn;AUS;Australia N Roads;TMgreen;3;active
 ausab;AUS;Australia A Roads (Bannered);TMred;4;active
@@ -312,11 +314,9 @@ zafn;ZAF;South Africa National Highways;TMgreen;3;active
 #Preview Systems
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
-andcs;AND;Andorra Carreteras Secundarias;TMyellow;5;preview
 asiahp;ASI;UNESCAP Asian Highways (for preview);TMred;3;preview
 asiahr;ASI;UNESCAP / ASEAN Asian Highways (for review);TMred;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
-aussf;AUS;Australia Select Freeways;TMteal;2;preview
 ausnswb;AUS;New South Wales B Roads;TMyellow;4;preview
 ausqld;AUS;Queensland State Higways;TMyellow;4;preview
 austasb;AUS;Tasmania B Roads;TMyellow;4;preview
@@ -388,6 +388,10 @@ franord27;FRA;Eure Routes Départementales;TMyellow;5;preview
 franord50;FRA;Manche Routes Départementales;TMyellow;5;preview
 franord61;FRA;Orne Routes Départementales;TMyellow;5;preview
 franord76;FRA;Seine-Maritime Routes Départementales;TMyellow;5;preview
+fraoccd12;FRA;Aveyron Routes Départementales;TMyellow;5;preview
+fraoccd30;FRA;Gard Routes Départementales;TMyellow;5;preview
+fraoccd46;FRA;Lot Routes Départementales;TMyellow;5;preview
+fraoccd48;FRA;Lozère Routes Départementales;TMyellow;5;preview
 frapacd04;FRA;Alpes-de-Haute-Provence Routes Départementales;TMyellow;5;preview
 frapacd05;FRA;Hautes-Alpes Routes Départementales;TMyellow;5;preview
 frapacd06;FRA;Alpes-Maritimes Routes Départementales;TMyellow;5;preview
@@ -493,15 +497,11 @@ codn;COD;DRC Routes Nationale;TMgreen;4;devel
 #franaqd87;FRA;Haute-Vienne Routes Départementales;TMyellow;5;devel
 fraoccd09;FRA;Ariège Routes Départementales;TMyellow;5;devel
 fraoccd11;FRA;Aude Routes Départementales;TMyellow;5;devel
-fraoccd12;FRA;Aveyron Routes Départementales;TMyellow;5;devel
-fraoccd30;FRA;Gard Routes Départementales;TMyellow;5;devel
 fraoccd31;FRA;Haute-Garonne Routes Départementales;TMyellow;5;devel
 fraoccm31;FRA;Toulouse Métropole Routes Métropolitaines;TMyellow;5;devel
 fraoccd32;FRA;Gers Routes Départementales;TMyellow;5;devel
 fraoccd34;FRA;Hérault Routes Départementales;TMyellow;5;devel
 fraoccm34;FRA;Montpellier Méditerranée Routes Métropolitaines;TMyellow;5;devel
-fraoccd46;FRA;Lot Routes Départementales;TMyellow;5;devel
-fraoccd48;FRA;Lozère Routes Départementales;TMyellow;5;devel
 fraoccd65;FRA;Hautes-Pyrénées Routes Départementales;TMyellow;5;devel
 fraoccd66;FRA;Pyrénées-Orientales Routes Départementales;TMyellow;5;devel
 fraoccd81;FRA;Tarn Routes Départementales;TMyellow;5;devel
@@ -513,6 +513,18 @@ fraoccd82;FRA;Tarn-et-Garonne Routes Départementales;TMyellow;5;devel
 #frapdld72;FRA;Sarthe Routes Départementales;TMyellow;5;devel
 #frapdld85;FRA;Vendée Routes Départementales;TMyellow;5;devel
 #frapacm83;FRA;Toulon Provence Méditerranée Routes Métropolitaines;TMyellow;5;devel
+#idnah;IDN;Indonesia Asian Highways (split regions);TMred;2;devel
+#idnjwt;IDN;Java Jalan Tol;TMblue;1;devel
+#idnjwt;IDN;Java Ruta Nacional;TMlightsalmon;3;devel
+#idnkat;IDN;Kalimantan Jalan Tol;TMblue;1;devel
+#idnkat;IDN;Kalimantan Ruta Nacional;TMlightsalmon;3;devel
+#idnnut;IDN;Nusa Tenggara Jalan Tol;TMblue;1;devel
+#idnnun;IDN;Nusa Tenggara Ruta Nacional;TMlightsalmon;3;devel
+#idnppn;IDN;(West) Papua Ruta Nacional;TMlightsalmon;3;devel
+#idnslt;IDN;Sulawesi Jalan Tol;TMblue;1;devel
+#idnslt;IDN;Sulawesi Ruta Nacional;TMlightsalmon;3;devel
+#idnsmt;IDN;Sumatra Jalan Tol;TMblue;1;devel
+#idnsmt;IDN;Sumatra Ruta Nacional;TMlightsalmon;3;devel
 #irqf;IRQ;Iraq Freeways
 indah;IND;Asian Highways (redraft);TMred;3;devel
 indnh;IND;India National Highways;TMgreen;3;devel

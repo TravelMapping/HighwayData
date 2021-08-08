@@ -4,8 +4,8 @@
 
 **SOURCES:**
 - https://de.wikipedia.org/wiki/Liste_der_Landesstra%C3%9Fen_in_Brandenburg
-- http://bb-viewer.geobasis-bb.de/strassennetz/
-- http://www.ls.brandenburg.de/cms/detail.php/bb1.c.260097.de
+- https://bb-viewer.geobasis-bb.de/strassennetz/
+- https://www.ls.brandenburg.de/ls/de/verwalten/karten/netzknotenkarten/
 
 
 **NOTES TO ROUTES:**
