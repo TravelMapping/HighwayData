@@ -584,6 +584,8 @@ date;region;route;root;description
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 67 and 69
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between Yt1792 and exit 72
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 81 and 85
+2021-08-07;(France) Auvergne-Rhône-Alpes;A79;fraara.a079;New Route
+2021-08-07;(France) Auvergne-Rhône-Alpes;E62 (Montlucon);fraara.e62;Route relocated from N79 and onto A79 from A71's new A79 junction to N79 east of Montmarault
 2019-10-31;(France) Auvergne-Rhône-Alpes;N7;fraara.n007;Route relocated from through Villeneuve-sur-Allier and onto bypass from D707_ViN to D707_ViS
 2019-10-31;(France) Auvergne-Rhône-Alpes;Autoroute du Soleil, Lyon;fraara.autsol;Route added
 2019-11-08;(France) Bourgogne-Franche-Comté;N19;frabfc.n019;Re-entered route (swapped with GES file to be in correct regions)
@@ -764,11 +766,13 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2021-08-07;(Germany) Baden-Württemberg;L110;deubw.l0110;Route extended at south end in Denzlingen from junction Kirchstraße / Vörstetter Straße to B3
+2021-08-07;(Germany) Baden-Württemberg;L112;deubw.l0112;Route relocated in Denzlingen from Vörstetter Straße, Schwarzwaldstraße and Rosenstraße, and onto Hauptstraße and Wasserer Straße
 2021-07-25;(Germany) Baden-Württemberg;L602;deubw.l0602;Route relocated from through Hochstetten and onto new bypass from Krautstückerweg to B36
 2021-07-24;(Germany) Baden-Württemberg;L148;deubw.l0148;Route truncated at south end from Waldstraße to Schopfheimer Straße in Wehr (L155 now)
 2021-07-24;(Germany) Baden-Württemberg;L155;deubw.l0155;Route truncated at west end from B518 junction near railroad station in Wehr to Hauptstraße, and re-extended to B518 junction Schopfheimer Straße
 2021-07-24;(Germany) Baden-Württemberg;L224;deubw.l0224;Route truncated at west end from B314 junction Schwarzwaldstraße in Tengen to center of Tengen, and re-extended to B518 junction Marktstraße
-2021-07-24;(Germany) Baden-Württemberg;L433;deubw.l0433;Route truncated at east end from Untere Vorstadt (former L448) to B463 (via Schillerstraße and Poststraße), and re-extended to L360
+2021-07-24;(Germany) Baden-Württemberg;L433;deubw.l0433;Route truncated at east end from Untere Vorstadt (former L448) to B463
 2021-07-24;(Germany) Baden-Württemberg;L448;deubw.l0448;Route truncated at west end from B463 to Schmiechastraße, and re-extended to L360
 2021-07-24;(Germany) Baden-Württemberg;L448 (Albstadt);deubw.l0448;Merged into main route
 2021-07-20;(Germany) Baden-Württemberg;L143;deubw.l0143;New Route
@@ -4877,6 +4881,7 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2021-08-07;(USA) Ohio;OH 246;oh.oh246;Extended at west end from US 20 to I-475/US 23
 2021-07-28;(USA) Ohio;OH 55;oh.oh055;Truncated at east end from US 36 to US 68
 2021-07-28;(USA) Ohio;OH 109;oh.oh109;Removed from demolished old bridge and relocated onto new bridge over Maumee River between OH110_E and AntWayTrl
 2020-12-24;(USA) Ohio;OH 32;oh.oh032;OH220 point moved from old location (now GerRd) to new location approximately 1.5 miles to the west
@@ -5168,6 +5173,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2021-08-07;(USA) Tennessee;US 411;tn.us411;Removed from former alignment onto TN 92 and new partial bypass of Chestnut Hill between TN92_S and US411_S
 2021-07-28;(USA) Tennessee;TN 7;tn.tn007;Truncated at south end from US 31 to US 43/US 412
 2021-07-28;(USA) Tennessee;TN 66 (Morristown);tn.tn066mor;Rerouted north of Mansfield Gap Rd to follow new terrain route and former TN 474 to US 11E
 2021-07-28;(USA) Tennessee;TN 342;tn.tn342;Truncated at south end to new junction with relocated TN 66 (Morristown)
@@ -5214,6 +5220,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2021-08-08;(USA) Texas;TX Spur 33;;Route deleted.
 2021-06-06;(USA) Texas;US 377 Business (Dublin);tx.us067busdub;Route deleted. Signed only as US 67 Business.
 2021-05-29;(USA) Texas;US 175 Business (Poynor);tx.us175buspoy;Route added.
 2021-05-29;(USA) Texas;TX 34 Business (Terrell);tx.sp0226; Deleted north of US 80. Portion south of US 80 redesignated as TX Spur 226.
@@ -5308,6 +5315,8 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2021-08-08;(USA) Utah;UT 25;ut.ut025;Route truncated at north end by about 3/4 mile to end at Bowery Haven campground
+2021-08-08;(USA) Utah;UT 133;ut.ut133;Route extended at south end from 300 South to Kanosh city limit
 2021-06-19;(USA) Utah;UT 85;ut.ut085;Route extended north on new alignment from former terminus at 4100S up to California Avenue
 2021-05-20;(USA) Utah;UT 7;ut.ut007;Route extended east on new alignment from former terminus at Sand Hollow Rd (now exit 18) to UT 9
 2020-12-11;(USA) Utah;UT 218;ut.ut218;Route truncated at west end from UT 142 to UT 23 junction just east of Newton, eliminating concurrency with UT 23
