@@ -309,21 +309,21 @@ date;region;route;root;description
 2019-11-03;(Canada) Saskatchewan;SK 11 (Regina Bypass);;Route deleted (merged imto main SK 11 route)
 2019-10-11;(Canada) Saskatchewan;SK7;sk.sk007;Relocated in Vanscoy (SW of Saskatoon) to new northern bypass, between OldSK7_W and OldSK7_E
 2018-01-24;(Canada) Saskatchewan;TCH (Yellowhead);sk.tchyel;Moved from Old Highway 16 in Clavet (SE of Saskatoon) north to new highway opened in late 2016, between Forreiter Rd. (Range Road 3040) and Lehr Rd.
-2018-10-26;China (Heilongjiang);AH6;chnhl.ah006;New Route
-2018-10-26;China (Heilongjiang);AH31;chnhl.ah031;New Route
-2018-10-26;China (Heilongjiang);AH33;chnhl.ah033;New Route
-2019-01-24;China (Hong Kong);Rt4;hkg.rt004;Route removed from Victoria Park Road, Gloucester Road, Harcourt Road and Connaught Road Central and relocated onto Central-Wan Chai Bypass Tunnel between exits 6A and 8 (formerly 12C)
-2018-10-26;China (Jilin);AH31;chnjl.ah031;New Route
-2018-10-26;China (Jilin);AH32;chnjl.ah032;New Route
-2018-10-26;China (Liaoning);AH1;chnln.ah001;New Route
-2018-10-26;China (Liaoning);AH31;chnln.ah031;New Route
-2018-10-26;China (Liaoning);AH35 (Chaoyang);chnln.ah035;New Route
-2018-10-26;China (Liaoning);AH35 (Jianpingzhen);chnln.ah035jia;New Route
-2018-10-26;China (Nei Mongol);AH1;chnnm.ah003;New Route
-2018-10-26;China (Nei Mongol);AH6;chnnm.ah006;New Route
-2018-10-26;China (Nei Mongol);AH32;chnnm.ah032;New Route
-2018-10-26;China (Nei Mongol);AH35 (Linxi);chnnm.ah035;New Route
-2018-10-26;China (Nei Mongol);AH35 (Sijiazi);chnnm.ah035sij;New Route
+2018-10-26;(China) Heilongjiang;AH6;chnhl.ah006;New Route
+2018-10-26;(China) Heilongjiang;AH31;chnhl.ah031;New Route
+2018-10-26;(China) Heilongjiang;AH33;chnhl.ah033;New Route
+2019-01-24;(China) Hong Kong;Rt4;hkg.rt004;Route removed from Victoria Park Road, Gloucester Road, Harcourt Road and Connaught Road Central and relocated onto Central-Wan Chai Bypass Tunnel between exits 6A and 8 (formerly 12C)
+2018-10-26;(China) Jilin;AH31;chnjl.ah031;New Route
+2018-10-26;(China) Jilin;AH32;chnjl.ah032;New Route
+2018-10-26;(China) Liaoning;AH1;chnln.ah001;New Route
+2018-10-26;(China) Liaoning;AH31;chnln.ah031;New Route
+2018-10-26;(China) Liaoning;AH35 (Chaoyang);chnln.ah035;New Route
+2018-10-26;(China) Liaoning;AH35 (Jianpingzhen);chnln.ah035jia;New Route
+2018-10-26;(China) Nei Mongol;AH1;chnnm.ah003;New Route
+2018-10-26;(China) Nei Mongol;AH6;chnnm.ah006;New Route
+2018-10-26;(China) Nei Mongol;AH32;chnnm.ah032;New Route
+2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
+2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2020-10-24;Croatia;A1;hrv.a001;Route truncated at south end from transition to A10 to exit 31, Ploče interchange (A10 now) and reextened to Karamatići toll station (former D425)
 2020-10-24;Croatia;A1;hrv.a010;Route extended at west end from transition to A1 to Ploče interchange (former A1)
 2020-10-24;Croatia;D425;hrv.d425;Route truncated at north end from A1/A10 interchange Ploče to Karamatići toll station (A1 now)
@@ -595,6 +595,7 @@ date;region;route;root;description
 2021-05-24;(France) Corsica;T40;fracor.t040;Route extended at south end from northern junction with T402 (also the southern junction with D257) to D58
 2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
+2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
 2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6ae now)
 2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6ae now)
 2021-01-11;(France) Grand-Est;N83;frages.d00836ae;Route deleted (D83-6ae now)
@@ -644,6 +645,8 @@ date;region;route;root;description
 2021-04-25;(France) Provence-Alpes-Cote-d’Azur;N569 (Miranes);frapac.n569;Route merged into main route
 2021-04-25;(France) Provence-Alpes-Cote-d’Azur;N1569;frapac.n569;Route merged into N569
 2021-04-25;(France) Provence-Alpes-Cote-d’Azur;N569;frapac.n569;Route extended at north end from D51 to A54
+2019-04-21;(France) Reunion;N3B;reu.n003b;New Route
+2019-04-21;(France) Reunion;N1002;reu.n1002;New Route
 2019-10-31;France;All Routes;;Routes split into regions
 2019-10-17;France;N88 (Rodez);fraocc.n088;Route removed from Avenue de Rodez and relocated onto Baraqueville bypass between D911 and exit 27
 2019-10-12;France;A406;frabfc.a406;Route extended at east end from exit 2 to exit 3
@@ -760,9 +763,6 @@ date;region;route;root;description
 2015-07-25;France;E46 (Caen);fra.e46;New Route
 2015-07-25;France;E62;fra.e62;Removed from N149 and relocated to N249 between N249 Exit 15 and N149 exit 17
 2015-07-25;France;E70;fra.e70;Removed from A72, N488, N88, A47, A46 and A43, and relocated to A89, N489, N6, A6, A466, A46 and A432 between A72/A89 junction and A43/A432 junction
-2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
-2019-04-21;(France) Reunion;N3B;reu.n003b;New Route
-2019-04-21;(France) Reunion;N1002;reu.n1002;New Route
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
@@ -1307,6 +1307,7 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2021-08-09;Indonesia;T17 (Cikarang, Java);idn.t017cik;Route added
 2021-04-09;Indonesia;T17 (Tangerang, Java);idn.t017tan;Route extended at north end from exit 14 to exit 0 and at south end from exit 50 to exit 57
 2021-03-10;Indonesia;T1 (Sumatra);idn.t001sum;Route extended at west end from exit 16 to exit 15
 2021-03-10;Indonesia;T1 (Binjai, Sumatra);idn.t001sum;Route merged into main Sumatra route
@@ -2040,6 +2041,8 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2021-08-09;Poland;S61 (Szcuczyn);pol.s061szc;Route extended at south end from exit 9 to exit 8
+2021-08-09;Poland;DK61 (Ostroleka);pol.dk061;Route truncated at north end from DW647 to S61 exit 8
 2021-07-20;Poland;S61 (Szcuczyn);pol.s061szc;Route extended at south end from Ulica Lomzynska to exit 9
 2021-07-20;Poland;DK61 (Ostroleka);pol.dk061;Route truncated at north end from Ulica Lomzynska to DW647
 2021-07-14;Poland;S61 (Łomża);pol.s061;Route added
@@ -5312,6 +5315,7 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2021-08-09;(USA) Utah;UT 301;;Route Deleted
 2021-08-08;(USA) Utah;UT 25;ut.ut025;Route truncated at north end by about 3/4 mile to end at Bowery Haven campground
 2021-08-08;(USA) Utah;UT 133;ut.ut133;Route extended at south end from 300 South to Kanosh city limit
 2021-06-19;(USA) Utah;UT 85;ut.ut085;Route extended north on new alignment from former terminus at 4100S up to California Avenue
