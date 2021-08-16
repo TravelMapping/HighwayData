@@ -333,7 +333,6 @@ auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);TMblue;1;preview
 bihm2;BIH;Bosnia and Herzegovina Magistrale (Srpska renumbering);TMlightsalmon;4;preview
-eure2;BIH;Bosnia and Herzegovina E Roads (Srpska renumbering);TMgreen;3;preview
 blzar;BLZ;Belize National Routes;TMlightsalmon;4;preview
 blzd;BLZ;Belize District Routes;TMbrown;5;preview
 bwaa;BWA;Botswana A Roads;TMgreen;4;preview
@@ -346,6 +345,8 @@ chlsf;CHL;Chile Select Freeways;TMteal;3;preview
 chng;CHN;China National Expressways;TMblue;1;preview
 cogn;COG;Congo Routes Nationales;TMgreen;4;preview
 comrn;COM;Comoros Routes Nationales;TMgreen;4;preview
+#eure2;EUR;UNECE 'E' Roads (Srpska renumbering / Italy split);TMgreen;3;preview
+#eursf2;EUR;Europe Select Named Freeways (Italy split);TMteal;2;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;TMbrown;5;preview
 fraarad01;FRA;Ain Routes Départementales;TMyellow;5;preview
 fraarad03;FRA;Allier Routes Départementales;TMyellow;5;preview
@@ -406,6 +407,7 @@ mytd;FRA;Mayotte Routes Départementales;TMyellow;5;preview
 reud;FRA;Reunion Routes Départementales;TMyellow;5;preview
 gabn;GAB;Gabon Routes Nationales;TMgreen;4;preview
 index;IND;India National Expressways;TMblue;1;preview
+#itaa2;ITA;Italy Autostrada (Italy split);TMblue;1;preview
 itass;ITA;Italy Strade Statali;TMlightsalmon;4;preview
 jeyc;JEY;Jersey C Roads;TMgray;5;preview
 jpne;JPN;Japan Kōsoku Jidōsha Kokudō;TMblue;1;preview
@@ -525,10 +527,10 @@ fraoccd82;FRA;Tarn-et-Garonne Routes Départementales;TMyellow;5;devel
 #idnslt;IDN;Sulawesi Ruta Nacional;TMlightsalmon;3;devel
 #idnsmt;IDN;Sumatra Jalan Tol;TMblue;1;devel
 #idnsmt;IDN;Sumatra Ruta Nacional;TMlightsalmon;3;devel
-#irqf;IRQ;Iraq Freeways
 indah;IND;Asian Highways (redraft);TMred;3;devel
 indnh;IND;India National Highways;TMgreen;3;devel
 indwb;IND;West Bengal State Highways;TMyellow;4;devel
+#irqf;IRQ;Iraq Freeways
 #jamb;JAM;Jamaica B Roads;TMyellow;5;devel
 #mexdn;MEX;Mexico Federal Expressways (new);TMblue;1;devel
 #mexedn;MEX;Mexico State Expressways (new);TMteal;3;devel
