@@ -2041,6 +2041,10 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2021-08-16;Poland;S11 (Kepno);pol.s011kep;Route extended at south end from exit 72 to exit 74
+2021-08-16;Poland;DK11 (Kluczbork);pol.dk011klu;Route truncated at north end from northern junction with S11 to S11 exit 74
+2021-08-16;Poland;DK11 (Ostrzeszow);pol.dk011ost;Route added (formerly part of Kluczbork section)
+2021-08-16;Poland;DK39;pol.dk039;Route extended at north end from Ulica Kluczborska (formerly DK11 junction) to S11
 2021-08-09;Poland;S61 (Szcuczyn);pol.s061szc;Route extended at south end from exit 9 to exit 8
 2021-08-09;Poland;DK61 (Ostroleka);pol.dk061;Route truncated at north end from DW647 to S61 exit 8
 2021-07-20;Poland;S61 (Szcuczyn);pol.s061szc;Route extended at south end from Ulica Lomzynska to exit 9
@@ -3735,6 +3739,8 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2021-08-10;(USA) Arkansas;US 82 Spur (Port of Crossett);ar.us082sprcro;Route added.
+2021-08-10;(USA) Arkansas;AR 265;ar.ar265;Greenland & Fayetteville segments of AR 265 combined into a single route via an implied multiplex with AR 16.
 2021-06-11;(USA) Arkansas;US 63 Business (Marked Tree);;Deleted. Now signed as extensions of AR 75 and AR 149.
 2021-06-11;(USA) Arkansas;AR 75;ar.ar075;Extended northward from I-555 to AR 140/149.
 2021-06-11;(USA) Arkansas;AR 149;ar.ar149;Extended northward from AR 308 to AR 75/140.
@@ -4649,6 +4655,7 @@ date;region;route;root;description
 2017-05-01;(USA) New Jersey;NJ 15;nj.nj015;South end removed from Clinton St (including a demolished section underpassing US 46) and Bergen St between Richboynton Rd and US 46 at Bergen St, and relocated onto a southwesterly realignment of Clinton St between Richboynton Rd and an at-grade T-intersection with US 46.
 2016-11-16;(USA) New Jersey;NJ 18;nj.nj018;Extended north from Buckingham Drive to I-287
 2016-11-16;(USA) New Jersey;NJ 19;nj.nj019;South end removed from the Garden State Parkway access ramps between The Broad Street ramps and the Garden State Parkway, and relocated onto Broad Street between the GSP ramps and Colfax Avenue
+2021-08-17;(USA) New Mexico;NM 181;nm.nm181;South end truncated, from I-25(79) to I-25BL. North end extended, from I-25(89) to frontage road barricade north of Alamosa Creek
 2021-07-15;(USA) New Mexico;US54;nm.us054;In Logan, slightly relocated to new bridge across the Canadian River, between waypoints *OldUS54_W and *OldUS54_E
 2021-06-08;(USA) New Mexico;NM 355;;Route deleted (unsigned)
 2021-06-08;(USA) New Mexico;NM 461;;Route deleted (decommissioned)
@@ -4665,6 +4672,7 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2021-08-12;(USA) New York;NY 97;ny.ny097;Removed from Front St in Hancock and relocated onto Main St and Read St. This is only a correction to Travel Mapping's data, and does not reflect an actual change in routing.
 2021-02-09;(USA) New York;Inner Loop;ny.innloop;Route added.
 2021-01-26;(USA) New York;NY 107;ny.ny107;North end truncated from Glen Cove Avenue to Pulaski Street.
 2020-11-13;(USA) New York;NY 5 Truck (Schenectady);;Deleted
@@ -5220,6 +5228,9 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2021-08-18;(USA) Texas;US 79 Business (Taylor);;Route deleted.
+2021-08-13;(USA) Texas;TX 364;tx.tx364; Extended southward from FM 1924 to I-2.
+2021-08-13;(USA) Texas;TX 364 (Palmview);tx.tx364; Merged into main TX 364 route.
 2021-08-08;(USA) Texas;TX Spur 33;;Route deleted.
 2021-06-06;(USA) Texas;US 377 Business (Dublin);tx.us067busdub;Route deleted. Signed only as US 67 Business.
 2021-05-29;(USA) Texas;US 175 Business (Poynor);tx.us175buspoy;Route added.
