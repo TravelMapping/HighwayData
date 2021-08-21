@@ -10,4 +10,3 @@
 **NOTES TO ROUTES:**
 - `St2024` routing Unterknöringen is drafted according to BAYSIS
 - `St2078neu` extended to A8 exit 93 to close a little gap
-- `St2124` Plattling bypass u/c
