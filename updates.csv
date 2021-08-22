@@ -257,6 +257,12 @@ date;region;route;root;description
 2015-10-30;(Canada) Ontario;ON401;on.on401;Extended westward from the former ending interchange with ON 3 (Exit 10A) along a newly built freeway to an interchange with ON 3 (Exit 5)
 2015-08-21;(Canada) Ontario;ON 28;on.on028;Removed from Peterborough Road 29 just NorthEast of Lakefield, ON, and relocated onto a brand new alignment SouthEast of Peterborough Road 29 between the closed intersection of *OldON28 and the intersection of Peterborough Road 6/Peterborough Road 29 (RR6/29).
 2015-08-21;(Canada) Ontario;ON 404;on.on404;Extended northward from the interchange with Green Lane (Exit 53) to Woodbine Avenue (Exit 65).
+2021-08-18;(Canada) Prince Edward Island;TCH;pe.tchpei;Removed from Millie Gamble Rd and two sections of demolished 2-lane road between points labeled *OldPE1_A and *OldPE1_B. Removed from demolished 2-lane road and relocated onto a wider radius curve to the northeast between points labeled *OldPE1_C and *OldPE1_D.
+2021-08-18;(Canada) Prince Edward Island;PE 1;pe.pe001;Removed from Millie Gamble Rd and two sections of demolished 2-lane road between points labeled *OldPE1_A and *OldPE1_B. Removed from demolished 2-lane road and relocated onto a wider radius curve to the northeast between points labeled *OldPE1_C and *OldPE1_D.
+2021-08-18;(Canada) Prince Edward Island;PE 10;pe.pe010;Extended eastward from the demolished old alignment of PE 1 to PE 1.
+2021-08-18;(Canada) Prince Edward Island;PE 26;pe.pe026;West end removed from Stratford Rd between Georgetown Rd and PE 1 and relocated onto Georgetown Rd between Stratford Rd and PE 1. East end removed from a demolished beeline connection from a point labeled *OldPE26 to PE 1 and relocated onto a doglegged southern route to a right-angle connection with PE 1.
+2021-08-18;(Canada) Prince Edward Island;PE 232;pe.pe232;Removed from a demolished segment of 2-lane road, Tryon Mill Rd and another segment of demolished 2-lane road between a point labeled *OldPE232 and a point on the demolished alignment of PE 1 west of Millie Gamble Rd and Tryon Mill Rd, and relocated onto a straightened alignment southwesterly from *OldPE232 to PE 1.
+2021-08-18;(Canada) Prince Edward Island;PE 272;pe.pe272;West end removed from a demolished beeline connection from a point labeled *OldPE272 to PE 1 and relocated onto a doglegged northern route to a right-angle connection with PE 1.
 2019-10-03;(Canada) Prince Edward Island;PE 1;pe.pe001;Removed from PE 27 and relocated onto a northwestern super-2 bypass of Cornwall between PE27's endpoints.
 2019-10-03;(Canada) Prince Edward Island;TCH;pe.tchpei;Removed from PE 27 and relocated onto a northwestern super-2 bypass of Cornwall between PE27's endpoints.
 2019-10-03;(Canada) Prince Edward Island;PE 27;pe.pe027;Route added.
@@ -766,6 +772,10 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2021-08-22;(Germany) Baden-Württemberg;B31 (Friedrichshafen);deubw.b031fri;Route extended at west end from Friedrichshafen-Mitte (Colsmanstraße) to Stockach B313
+2021-08-22;(Germany) Baden-Württemberg;B31 (Überlingen);deubw.b031fri;Route merged into Friedrichshafen route
+2021-08-22;(Germany) Baden-Württemberg;B31 (Fischbach);deubw.b031fri;Route merged into Friedrichshafen route
+2021-08-22;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from through Friedrichshafen and onto bypass from west of Fischbach to Friedrichshafen-Mitte (Colsmanstraße)
 2021-08-07;(Germany) Baden-Württemberg;L110;deubw.l0110;Route extended at south end in Denzlingen from junction Kirchstraße / Vörstetter Straße to B3
 2021-08-07;(Germany) Baden-Württemberg;L112;deubw.l0112;Route relocated in Denzlingen from Vörstetter Straße, Schwarzwaldstraße and Rosenstraße, and onto Hauptstraße and Wasserer Straße
 2021-07-25;(Germany) Baden-Württemberg;L602;deubw.l0602;Route relocated from through Hochstetten and onto new bypass from Krautstückerweg to B36
@@ -821,6 +831,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2021-08-22;(Germany) Bavaria;B289 (Kulmbach);deuby.b289;Route relocated from through Münchberg and onto bypass from Kulmbacher Straße to Eiben
+2021-08-21;(Germany) Bavaria;St2124;deuby.st2124;Route relocated from through Plattling and onto new bypass from Scheiblerstraße to B8
 2021-06-21;(Germany) Bavaria;St2149 (Regenstauf);deuby.st2149;Route truncated at east end from B16 to Nittenau
 2021-06-21;(Germany) Bavaria;St2149 (Waldersbach);deuby.st2149wal;New Route (split off from main route and onto Nittenau bypass at west end)
 2021-06-21;(Germany) Bavaria;St2150 (Rötz);deuby.st2150;Route truncated at south end from B16 to Nittenau (St2149)
@@ -916,6 +928,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2021-08-22;(Germany) Lower Saxony;B1 (Coppenbrügge);deuni.b001cop;New Route
+2021-08-22;(Germany) Lower Saxony;B1 (Hildesheim);deuni.b001;Route relocated from through Coppenbrügge and onto bypass from L423 to west of Marienau
 2021-06-16;(Germany) Lower Saxony;B212 (Berne);deuni.b212ber;Route extended at south end from Ranzenbüttel (B74) to Motzen (L875)
 2021-06-03;(Germany) Lower Saxony;B211;deuni.b211;Route relocated from through Oldenbrok-Mittelort and onto new bypass from B211A to B212
 2021-06-03;(Germany) Lower Saxony;B211A;deuni.b211a;New route (former B211 alignment)
@@ -961,6 +975,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2021-08-21;(Germany) North Rhine-Westphalia;L364;deunw.l364;Route truncated at south end from the Dutch border to L225
 2021-07-19;(Germany) North Rhine-Westphalia;A448;deunw.a448;Route extended at east end from exit 6 to exit 12 (gap closed between exit 6 and exit 7a)
 2021-07-19;(Germany) North Rhine-Westphalia;A448 (Witten);deunw.a448;Route merged into main route
 2021-05-23;(Germany) North Rhine-Westphalia;B399 (Düren);deunw.b399dur;New Route (former B56)
