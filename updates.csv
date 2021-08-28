@@ -772,6 +772,12 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2021-08-28;(Germany) Baden-Württemberg;L495;deubw.l0495;New Route
+2021-08-28;(Germany) Baden-Württemberg;L415b;;Route removed
+2021-08-22;(Germany) Baden-Württemberg;B31 (Friedrichshafen);deubw.b031fri;Route extended at west end from Friedrichshafen-Mitte (Colsmanstraße) to Stockach B313
+2021-08-22;(Germany) Baden-Württemberg;B31 (Überlingen);deubw.b031fri;Route merged into Friedrichshafen route
+2021-08-22;(Germany) Baden-Württemberg;B31 (Fischbach);deubw.b031fri;Route merged into Friedrichshafen route
+2021-08-22;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from through Friedrichshafen and onto bypass from west of Fischbach to Friedrichshafen-Mitte (Colsmanstraße)
 2021-08-07;(Germany) Baden-Württemberg;L110;deubw.l0110;Route extended at south end in Denzlingen from junction Kirchstraße / Vörstetter Straße to B3
 2021-08-07;(Germany) Baden-Württemberg;L112;deubw.l0112;Route relocated in Denzlingen from Vörstetter Straße, Schwarzwaldstraße and Rosenstraße, and onto Hauptstraße and Wasserer Straße
 2021-07-25;(Germany) Baden-Württemberg;L602;deubw.l0602;Route relocated from through Hochstetten and onto new bypass from Krautstückerweg to B36
@@ -827,6 +833,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2021-08-22;(Germany) Bavaria;B289 (Kulmbach);deuby.b289;Route relocated from through Münchberg and onto bypass from Kulmbacher Straße to Eiben
+2021-08-21;(Germany) Bavaria;St2124;deuby.st2124;Route relocated from through Plattling and onto new bypass from Scheiblerstraße to B8
 2021-06-21;(Germany) Bavaria;St2149 (Regenstauf);deuby.st2149;Route truncated at east end from B16 to Nittenau
 2021-06-21;(Germany) Bavaria;St2149 (Waldersbach);deuby.st2149wal;New Route (split off from main route and onto Nittenau bypass at west end)
 2021-06-21;(Germany) Bavaria;St2150 (Rötz);deuby.st2150;Route truncated at south end from B16 to Nittenau (St2149)
@@ -922,6 +930,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2021-08-22;(Germany) Lower Saxony;B1 (Coppenbrügge);deuni.b001cop;New Route
+2021-08-22;(Germany) Lower Saxony;B1 (Hildesheim);deuni.b001;Route relocated from through Coppenbrügge and onto bypass from L423 to west of Marienau
 2021-06-16;(Germany) Lower Saxony;B212 (Berne);deuni.b212ber;Route extended at south end from Ranzenbüttel (B74) to Motzen (L875)
 2021-06-03;(Germany) Lower Saxony;B211;deuni.b211;Route relocated from through Oldenbrok-Mittelort and onto new bypass from B211A to B212
 2021-06-03;(Germany) Lower Saxony;B211A;deuni.b211a;New route (former B211 alignment)
@@ -967,6 +977,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2021-08-21;(Germany) North Rhine-Westphalia;L364;deunw.l364;Route truncated at south end from the Dutch border to L225
 2021-07-19;(Germany) North Rhine-Westphalia;A448;deunw.a448;Route extended at east end from exit 6 to exit 12 (gap closed between exit 6 and exit 7a)
 2021-07-19;(Germany) North Rhine-Westphalia;A448 (Witten);deunw.a448;Route merged into main route
 2021-05-23;(Germany) North Rhine-Westphalia;B399 (Düren);deunw.b399dur;New Route (former B56)
@@ -1280,6 +1291,14 @@ date;region;route;root;description
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2021-08-24;Iceland;F88;isl.f088;Rerouted onto new alignment in the vicinity of Lindaá. The stream is now forded in a different location.
+2021-08-23;Iceland;TH887;isl.th887;New Route. Some of route absorbs part of former TH862 alignment.
+2021-08-23;Iceland;TH886;isl.th886;New Route
+2021-08-23;Iceland;TH862;isl.th862;Rerouted onto new alignment north of Dettifoss. Some of old alignment is now part of TH887
+2021-08-23;Iceland;TH850;isl.th850;New Route
+2021-08-23;Iceland;TH749;isl.th749;New Route
+2021-08-22;Iceland;TH759;isl.th759;Truncated from dead end at south end of road to Stekkjarflatir
+2021-08-22;Iceland;TH998;isl.th998;New Route
 2021-05-02;Iceland;TH42;isl.th042;Removed from now-closed TH41 frontage road at north end, and raligned to meet new interchange with TH41
 2021-05-02;Iceland;TH44;isl.th044;Realigned at north end onto new alignment tying into roundabout with TH41
 2021-05-02;Iceland;TH46;;Route deleted (decommissioned)
@@ -4589,6 +4608,7 @@ date;region;route;root;description
 2017-09-03;(USA) Montana;I-94 BL (Hysham);;Route deleted
 2015-11-02;(USA) Montana;I-94 BL (Wibaux);;Route deleted
 2015-08-03;(USA) Montana;US 93 Alternate (Kalispell);mt.us093altkal;New Route
+2021-08-23;(USA) Nebraska;Summit Road, Scotts Bluff National Monument;ne.sumrd;Route added.
 2021-06-05;(USA) Nebraska;US 30;ne.us030;Removed from demolished 2-lane roadway, 5th St in Rogers, and more demolished 2-lane roadway, and relocated onto a parallel 4-lane divided expressway to the immediate north between points labeled *OldUS30_SchE & *OldUS30_Nor.
 2021-05-11;(USA) Nebraska;I-80 BL (Pine Bluffs, WY);;Route deleted (Nebraska segment only).
 2020-06-08;(USA) Nebraska;US 30;ne.us030;Waypoint L56C moved from Lincoln Ave to the western Hershey bypass.
