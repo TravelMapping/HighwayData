@@ -4779,6 +4779,9 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2021-08-30;(USA) North Carolina;US 441 Business - Cherokee;nc.us441busche;was shown erroneously on a completely different route only US19_E point north was correct - route has not changed since inception in 1987
+2021-08-30;(USA) North Carolina;US 76;nc.us076;extended east one waypoint to its actual endpoint
+2021-08-30;(USA) North Carolina;NC 37;nc.nc037;shown erroneously in Hertford - NC 37 follows US 17 Bypass around to Winfall then back south on 17 Bus - this was changed by NCDOT in the 1980s - new routing between US17Bus and US17_N points
 2021-07-21;(USA) North Carolina;NC 231;nc.nc231;route extended north one waypoint to its actual endpoint of US 64 ALT and NC 98
 2021-06-18;(USA) North Carolina;NC 50;nc.nc050;rerouted onto new bridge to Topsail Island 12-18-2018 - new routing is between points NC210_E and AtkPoiRd
 2021-06-18;(USA) North Carolina;NC 210;nc.nc210;rerouted onto new bridge to Topsail Island 12-18-2018 - new routing is between points RolRd and AtkPoiRd
@@ -4929,7 +4932,7 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
 2021-08-28;(USA) Ohio;OH 28;oh.oh028;Truncated at west end from OH 126 to US 50 in Milford
 2021-08-28;(USA) Ohio;OH 84;oh.oh084;Truncated at west end from US 20 to US 6
-2021-08-28;(USA) Ohio;OH 113;oh.oh113;Truncated at west end from OH 269 to US 20/OH 18, and truncated at east end from US 6 to US 6 Alt/OH 254
+2021-08-28;(USA) Ohio;OH 113;oh.oh113;Point label at west end corrected to NWSt (Northwest St) from OH 269, and truncated at east end from US 6 to US 6 Alt/OH 254
 2021-08-28;(USA) Ohio;OH 162;oh.oh162;Truncated at east end from OH 261 to OH 18 in Akron
 2021-08-28;(USA) Ohio;OH 174;oh.oh174;Truncated at north end from OH 640 to US 20
 2021-08-28;(USA) Ohio;OH 254;oh.oh254;Removed from OH 2 north of Detroit Ave and onto Detroit Ave to new terminus at US 20/OH 113 in Rocky River
@@ -5229,7 +5232,7 @@ date;region;route;root;description
 2021-07-28;(USA) Tennessee;TN 7;tn.tn007;Truncated at south end from US 31 to US 43/US 412
 2021-07-28;(USA) Tennessee;TN 66 (Morristown);tn.tn066mor;Rerouted north of Mansfield Gap Rd to follow new terrain route and former TN 474 to US 11E
 2021-07-28;(USA) Tennessee;TN 342;tn.tn342;Truncated at south end to new junction with relocated TN 66 (Morristown)
-2021-07-28;(USA) Tennessee;TN 474;;Route deleted (former routing now part of TN 66 (Morristown)
+2021-07-28;(USA) Tennessee;TN 474;;Route deleted (former routing now part of TN 66 (Morristown))
 2020-12-24;(USA) Tennessee;TN 156;tn.tn156;Truncated at east end from US 41/64 to TN 134
 2020-08-13;(USA) Tennessee;TN 43;tn.tn043;Truncated at south end from US 45E to TN 22
 2020-08-13;(USA) Tennessee;TN 216;tn.tn216;Extended at east end from Skyhawk Pkwy (former TN 43) along TN 43's former route to US 45E
