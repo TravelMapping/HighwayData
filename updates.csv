@@ -4009,6 +4009,8 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2021-09-06;(USA) Illinois;IL 8;il.il008;Renamed IL116->WasSt. Renamed old WasSt->WasSt_EP
+2021-09-06;(USA) Illinois;IL 116;il.il116;Renamed MacHwy->WasSt, Renamed old WasSt->WasSt_EP
 2021-06-02;(USA) Illinois;US 45;il.us045;Moved off Old Mill Creek Road in Milburn and moved onto bypass to west. Endpoints of bypass are OldMCRd_S and *OldMCRd_N.
 2021-05-20;(USA) Illinois;US 40;il.us040;IL140 point (now GalSt_W) relocated to former location of IL140_W.
 2021-05-17;(USA) Illinois;I-294;il.i294;Updated labels for the interchanges of I-57 (was 8, now 7) & IL 83 (was 9, now 8) due to a recent renumbering.
@@ -4447,6 +4449,7 @@ date;region;route;root;description
 2017-06-09;(USA) Maryland;MD 351;;Deleted route
 2016-04-24;(USA) Maryland;MD 717;md.md717;Added route
 2015-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
+2021-09-03;(USA) Massachusetts;I-395;ma.i395;Relabeled exits from sequential to mileage-based.
 2021-06-28;(USA) Massachusetts;I-495;ma.i495;Relabeled exits from sequential to mileage-based.
 2021-06-02;(USA) Massachusetts;I-93;ma.i093;Relabeled exits from sequential to mileage-based.
 2021-06-02;(USA) Massachusetts;MA 3;ma.ma003;Waypoint 18(93) moved from Massachusetts Ave Connector (now labeled 15(93)) to the northern I-93 split.
@@ -5205,8 +5208,9 @@ date;region;route;root;description
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
-2021-05-20;(USA) South Dakota;SD 50;sd.sd050;  Rerouted from diagonal west of Wagner between Walnut Avenue and 392nd Avenue onto SD 46 and 392nd Avenue. Old point renamed WalAve. Added and closed *OldSD50.
-2021-05-20;(USA) South Dakota;SD 46;sd.sd046; Relocated SD50_W from Walnut Avenue to 392nd Avenue west of Wagner. Old point renamed WalAve.
+2021-09-06;(USA) South Dakota;I-90 Business Spur (White Lake);;Deleted route
+2021-05-20;(USA) South Dakota;SD 50;sd.sd050;Rerouted from diagonal west of Wagner between Walnut Avenue and 392nd Avenue onto SD 46 and 392nd Avenue. Old point renamed WalAve. Added and closed *OldSD50.
+2021-05-20;(USA) South Dakota;SD 46;sd.sd046;Relocated SD50_W from Walnut Avenue to 392nd Avenue west of Wagner. Old point renamed WalAve.
 2020-08-10;(USA) South Dakota;SD 21;sd.sd021;Route relocated from 450th Avenue and Redbird Avenue in Hyti, and onto Main Avenue and 4th Street
 2019-09-02;(USA) South Dakota;SD 63;sd.sd063;Extended south from SD 44 to Norris, and merged with SD 63 (Parmalee)
 2019-09-02;(USA) South Dakota;SD 63 (Parmalee);;Merged into main SD63 route
