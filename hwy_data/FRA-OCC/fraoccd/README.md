@@ -16,9 +16,11 @@ FRA-31 = `HGa` = Haute-Garonne
    https://routes.fandom.com/wiki/Toulouse_M%C3%A9tropole
 FRA-32 = `Ger` = Gers
 FRA-34 = `Her` = Hérault
+   https://www.data.gouv.fr/fr/datasets/reseau-routier-departemental-de-lherault/
 FRA-46 = `Lot` = Lot
 FRA-48 = `Loz` = Lozère
 FRA-65 = `HPy` = Hautes-Pyrénées
+   https://www.data.gouv.fr/fr/datasets/routes-departementales-des-hautes-pyrenees/
    http://yakra.teresco.org/tmtools_demos/gisplunge/FRA/Hautes_Pyrenees/
 FRA-66 = `PyO` = Pyrénées-Orientales
 FRA-81 = `Tar` = Tarn
