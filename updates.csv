@@ -358,6 +358,12 @@ date;region;route;root;description
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2021-09-10;Czechia;II246;cze.ii246;Route relocated from through Roudnice nad Labem and onto bypass from II240 to III24049 east of Roudnice nad Labem
+2021-09-02;Czechia;E48;cze.e48;Route relocated from through Lubenec and onto new motorway bypass from west of Lubenec to east of Lubenec
+2021-09-02;Czechia;D6 (Bošov);cze.d006bos;Route extended at east end from west of Lubenec to east of Lubenec via motorway bypass
+2021-09-02;Czechia;II606 (Libkovice);cze.ii606lib;Route extended at east end from west of Lubenec to east of Lubenec through Lubenec (former I6)
+2021-09-02;Czechia;I6 (Nové Strašecí);cze.i006;Route truncated at west end from west of Lubenec to east of Lubenec (II606 now)
+2021-09-02;Czechia;I37 (Pardubice);cze.i037;Route relocated from through Osová Bítýška and onto new bypass
 2021-07-03;Czechia;I20 (Plzeň);cze.i020plz;New route
 2021-07-03;Czechia;I20 (Main);cze.i020;Route relocated in Plzeň-Severní Předměstí from Gerská and Karlovarská, and onto Studentská and Lidická
 2021-07-03;Czechia;E49;cze.e49;Route relocated in Plzeň-Severní Předměstí from Gerská and Karlovarská, and onto Studentská and Lidická
@@ -892,6 +898,10 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2021-09-13;(Germany) Brandenburg;L16 (Neuruppiin);deubb.l016;Route truncated at south end from Schönewald to north of Flatow (L162)
+2021-09-13;(Germany) Brandenburg;L16 (Perwenitz);deubb.l016per;New route (formerly part of main route)
+2021-09-13;(Germany) Brandenburg;L17 (Marwitz);deubb.l016;Route truncated at west end from Rhinow to Staffelde (L170)
+2021-09-13;(Germany) Brandenburg;L17 (Friesack);deubb.l016fri;New route (formerly part of main route)
 2021-02-27;(Germany) Brandenburg;L92;deubb.l092;Route truncated at east end from B2 to A10
 2020-09-25;(Germany) Brandenburg;B5 (Garlin);;Route deleted
 2020-08-06;(Germany) Brandenburg;L77;deubb.l077;Route relocatd from through Stahnsdorf and onto bypass between Lindenstraße and L40
@@ -3221,6 +3231,8 @@ date;region;route;root;description
 2016-05-01;Sweden;Västkustvägen;swe.vastkustvag;New Route
 2016-05-01;Sweden;Vätterleden;swe.vatled;New Route
 2016-05-01;Sweden;Ystadvägen, Malmo;swe.ystvag;New Route
+2021-09-12;Switzerland;Zubringer Kerzers;che.zubker;New Route
+2021-09-11;Switzerland;H3;che.h003;Route relocated from Duttweilerbrücke and Hohlstrasse in Zürich, and onto Pfingstweidstrasse, Geroldrampe (concurrent to H1) and Hardbrücke (concurrent to H4)
 2021-04-25;Switzerland;A4a (Zug);che.a014zug;Renamed to A14 (Zug)
 2021-04-18;Switzerland;A1r;che.a001r;New Route
 2021-04-03;Switzerland;A4 (Zürich);che.a004;Route truncated at north end from the German border at Bargen to exit 3 at Schaffhausen (Autostrasse Bargen - Schweizerbild now) and re-extended to exit 1 at Thayngen (former A4 Thayngen)
@@ -4007,6 +4019,8 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2021-09-06;(USA) Illinois;IL 8;il.il008;Renamed IL116->WasSt. Renamed old WasSt->WasSt_EP
+2021-09-06;(USA) Illinois;IL 116;il.il116;Renamed MacHwy->WasSt, Renamed old WasSt->WasSt_EP
 2021-06-02;(USA) Illinois;US 45;il.us045;Moved off Old Mill Creek Road in Milburn and moved onto bypass to west. Endpoints of bypass are OldMCRd_S and *OldMCRd_N.
 2021-05-20;(USA) Illinois;US 40;il.us040;IL140 point (now GalSt_W) relocated to former location of IL140_W.
 2021-05-17;(USA) Illinois;I-294;il.i294;Updated labels for the interchanges of I-57 (was 8, now 7) & IL 83 (was 9, now 8) due to a recent renumbering.
@@ -4445,6 +4459,9 @@ date;region;route;root;description
 2017-06-09;(USA) Maryland;MD 351;;Deleted route
 2016-04-24;(USA) Maryland;MD 717;md.md717;Added route
 2015-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
+2021-09-10;(USA) Massachusetts;I-91;ma.i091;Relabeled exits from sequential to mileage-based.
+2021-09-10;(USA) Massachusetts;US 5;ma.us005;Waypoint I-91(23) moved from State Rd in Whately, now labeled I-91(32), to Mount Tom Rd in Northampton. I-91(21) relabeled to I-91(27).
+2021-09-10;(USA) Massachusetts;MA 2;ma.ma002;Relabeled exits from sequential to mileage-based.
 2021-06-28;(USA) Massachusetts;I-495;ma.i495;Relabeled exits from sequential to mileage-based.
 2021-06-02;(USA) Massachusetts;I-93;ma.i093;Relabeled exits from sequential to mileage-based.
 2021-06-02;(USA) Massachusetts;MA 3;ma.ma003;Waypoint 18(93) moved from Massachusetts Ave Connector (now labeled 15(93)) to the northern I-93 split.
@@ -4552,6 +4569,10 @@ date;region;route;root;description
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2021-09-10;(USA) Missouri;MO 147;mo.mo147;Extended west from Lincoln Hills Road to Frenchman Bluff Road
+2021-09-10;(USA) Missouri;MO 21;mo.mo021;Corrected location of MO221, Old point now MapSt
+2021-09-10;(USA) Missouri;MO 221;mo.mo221;Corrected south end by removing from Maple Street and relocating onto Main Street between Maple Street and MO 21 in Pilot Knob
+2021-09-10;(USA) Missouri;MO 242;mo.mo242;Truncated from US 65 Business to MOsMM in Lake Ozark
 2021-06-02;(USA) Missouri;US 60 Business (Rogersville);mo.us060busrog;Relocated from westernmost portion of Center Street in Rogersville to follow Route B south to new exit at US 60.
 2020-10-26;(USA) Missouri;MO 283;mo.mo283;Truncated from US 69 to 32nd Street
 2020-10-26;(USA) Missouri;MO 152;mo.mo152;Truncated from MO 291 to I-35
@@ -4933,6 +4954,8 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2021-09-07;(USA) Ohio;OH 521;oh.oh521;Re-extended to former west end at OH37_W (reversion of 2019-01-19 edit due to unsigned segment now being signed)
+2021-09-03;(USA) Ohio;OH 363;oh.oh363;Extended at south end to actual endpoint at Maple Dr
 2021-08-28;(USA) Ohio;OH 28;oh.oh028;Truncated at west end from OH 126 to US 50 in Milford
 2021-08-28;(USA) Ohio;OH 84;oh.oh084;Truncated at west end from US 20 to US 6
 2021-08-28;(USA) Ohio;OH 113;oh.oh113;Point label at west end corrected to NWSt (Northwest St) from OH 269, and truncated at east end from US 6 to US 6 Alt/OH 254
@@ -5202,8 +5225,9 @@ date;region;route;root;description
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
-2021-05-20;(USA) South Dakota;SD 50;sd.sd050;  Rerouted from diagonal west of Wagner between Walnut Avenue and 392nd Avenue onto SD 46 and 392nd Avenue. Old point renamed WalAve. Added and closed *OldSD50.
-2021-05-20;(USA) South Dakota;SD 46;sd.sd046; Relocated SD50_W from Walnut Avenue to 392nd Avenue west of Wagner. Old point renamed WalAve.
+2021-09-06;(USA) South Dakota;I-90 Business Spur (White Lake);;Deleted route
+2021-05-20;(USA) South Dakota;SD 50;sd.sd050;Rerouted from diagonal west of Wagner between Walnut Avenue and 392nd Avenue onto SD 46 and 392nd Avenue. Old point renamed WalAve. Added and closed *OldSD50.
+2021-05-20;(USA) South Dakota;SD 46;sd.sd046;Relocated SD50_W from Walnut Avenue to 392nd Avenue west of Wagner. Old point renamed WalAve.
 2020-08-10;(USA) South Dakota;SD 21;sd.sd021;Route relocated from 450th Avenue and Redbird Avenue in Hyti, and onto Main Avenue and 4th Street
 2019-09-02;(USA) South Dakota;SD 63;sd.sd063;Extended south from SD 44 to Norris, and merged with SD 63 (Parmalee)
 2019-09-02;(USA) South Dakota;SD 63 (Parmalee);;Merged into main SD63 route
