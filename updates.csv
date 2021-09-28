@@ -899,6 +899,7 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2021-09-26;(Germany) Brandenburg;L30 (Main);deubb.l030;Route relocated from through Niederlehme, and onto new eastern bypass from Karl-Marx-Straße to Am Möllenberg via A10 interchange
 2021-09-13;(Germany) Brandenburg;L16 (Neuruppiin);deubb.l016;Route truncated at south end from Schönewald to north of Flatow (L162)
 2021-09-13;(Germany) Brandenburg;L16 (Perwenitz);deubb.l016per;New route (formerly part of main route)
 2021-09-13;(Germany) Brandenburg;L17 (Marwitz);deubb.l017;Route truncated at west end from Rhinow to Staffelde (L170)
@@ -1099,6 +1100,7 @@ date;region;route;root;description
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2021-09-26;(Germany) Saxony;S288;deusn.s288;Route relocated from through Waldsachsen and Meerane, and onto southern bypass
 2021-02-06;(Germany) Saxony;S88;deusn.s088;Route relocated from through Röderau and onto northern and eastern bypass of Zeithain between Gohliser Straße, Röderau, and B169 interchange south of Zeithain
 2020-12-12;(Germany) Saxony;S9;;Route deleted
 2020-09-12;(Germany) Saxony;S319;deusn.s319;Route extended at north end from S310 to A72
@@ -4819,6 +4821,7 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2021-09-26;(USA) North Carolina;NC 160;nc.nc160;completely rerouted between the ByrDr and YorRd points around 2011
 2021-08-30;(USA) North Carolina;US 441 Business - Cherokee;nc.us441busche;was shown erroneously on a completely different route only US19_E point north was correct - route has not changed since inception in 1987
 2021-08-30;(USA) North Carolina;US 76;nc.us076;extended east one waypoint to its actual endpoint
 2021-08-30;(USA) North Carolina;NC 37;nc.nc037;shown erroneously in Hertford - NC 37 follows US 17 Bypass around to Winfall then back south on 17 Bus - this was changed by NCDOT in the 1980s - new routing between US17Bus and US17_N points
@@ -5319,6 +5322,8 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2021-09-27;(USA) Texas;TX 137;tx.tx137;North end removed from closed roadway from a point labeled *OldTX137_C due north to US 385, and relocated eastward to intersect US 385 perpendicularly.
+2021-09-27;(USA) Texas;TX 349;tx.tx349;Extended northward from TX 137 to US 87/180.
 2021-09-15;(USA) Texas;TX 105;tx.tx105;Relocated southeastward onto new bridges over Coles Creek, Brazos River & Navasota River between FM 1155 and CR 423.
 2021-08-18;(USA) Texas;US 79 Business (Taylor);;Route deleted.
 2021-08-13;(USA) Texas;TX 364;tx.tx364; Extended southward from FM 1924 to I-2.
@@ -5492,6 +5497,7 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2021-09-26;(USA) Virginia;VA 188;va.va188;routing on south end was incorrect - tie in to US 60-220 Bus was at wrong intersection making the first segment incorrect
 2021-02-03;(USA) Virginia;VA 246;;Route deleted - no longer posted
 2020-12-21;(USA) Virginia;VA 322;va.va322;extended north to actual long-time endpoint
 2020-12-21;(USA) Virginia;VA 252;va.va252;file changed to actual long-time Staunton routing starting with MidAve_N - if you drove VA 252 northbound before you were forced to take the correct routing
