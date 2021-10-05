@@ -172,6 +172,8 @@ date;region;route;root;description
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and relocated onto A4 between the former junction between the A3 and N8 east of Generalovo (labeled *N8_GenE) and the junction between the A4 and N8 next to the Turkish border
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
 2015-07-22;Bulgaria;E85;bgr.e85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
+2020-10-03;(Canada) Alberta;AB 201 (South Calgary);ab.ab201swc;Route deleted. Merged into Southwest Calgary segment.
+2020-10-03;(Canada) Alberta;AB 201 (Southwest Calgary);ab.ab201swc;Extended counterclockwise along Tsuut'ina Trail from Exit 13 to Exit 9, thence along the former South Calgary segment to AB 2.
 2020-10-02;(Canada) Alberta;AB 63;ab.ab063;Extended northward from a point labeled *OldEnd at 57.261608°, -111.627790° to the end of pavement at 57.396732°, -111.626939°.
 2020-10-02;(Canada) Alberta;AB 201 (Woodbine);ab.ab201swc;Route deleted. Merged into new Southwest Calgary segment.
 2020-10-02;(Canada) Alberta;AB 201 (Signal Hill);ab.ab201swc;Route deleted. Merged into new Southwest Calgary segment.
@@ -2109,6 +2111,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2021-10-04;Poland;S7 (Slomniki);pol.s007slo;Route added
+2021-10-04;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7 between S7 exits 108 and 109
+2021-10-04;Poland;DK7 (Krakow);pol.dk007;Route truncated at north end from Zagora to S7 exit 109, and extended at south end from S52 to DW967 (over Myslenic section)
+2021-10-04;Poland;DK7 (Myslenic);pol.dk007;Route merged into Krakow section
+2021-10-04;Poland;DK7 (Miechow);pol.dk007mie;Route added (former part of Krakow route between S7 exit 108 and Zagora)
 2021-08-16;Poland;S11 (Kepno);pol.s011kep;Route extended at south end from exit 72 to exit 74
 2021-08-16;Poland;DK11 (Kluczbork);pol.dk011klu;Route truncated at north end from northern junction with S11 to S11 exit 74
 2021-08-16;Poland;DK11 (Ostrzeszow);pol.dk011ost;Route added (formerly part of Kluczbork section)
@@ -2773,10 +2780,14 @@ date;region;route;root;description
 2018-12-21;Senegal;A1;sen.a001;Route extended at east end from A2 to exit 19
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2021-10-04;Slovakia;D4 (Jarovce);svk.d004;Route merged into main (Bratislava) route
+2021-10-04;Slovakia;D4 (Rovinka);svk.d004;Route extended at west end from exit 5 to Austrian border and renamed as Bratislava section
+2021-10-04;Slovakia;R7;svk.r007;Route extended at north end from exit 6 to exit 0
+2021-10-04;Slovakia;E575;svk.e575;Route truncated at north end from D1 (at exit 8) to D4/R7 (R7 exit 6) junction and re-extended at north end from D4/R7 junction to R7 exit 0 (D1 exit 6)
 2021-09-29;Slovakia;I63;svk.i063;Point 'I64_S' relabelled 'I64A', with 'I64_S' used for new point to the west
 2021-09-29;Slovakia;I64;svk.i064;Route truncated at south end from Hungarian border on Alzbetin most to junction with I64A (formerly 'I63_W') and re-extended from junction with I64A to Hungarian border on Most Monostor
 2021-09-29;Slovakia;I64A (Komarno);svk.i064akom;Route added (former I64)
-2021-09-26;Slovakia;D4 (Rovinka);svk.d004rov;Route extended at west end from exit 9 to exit 5
+2021-09-26;Slovakia;D4 (Rovinka);svk.d004;Route extended at west end from exit 9 to exit 5
 2021-09-26;Slovakia;D4 (Vajnory);svk.d004vaj;Route added
 2021-06-16;Slovakia;R2 (Kosice);svk.i016;Route removed (now part of I16)
 2021-06-16;Slovakia;PR3;svk.i020;Route removed (now part of I16 and I20)
@@ -4449,6 +4460,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2021-10-03;(USA) Louisiana;LA 1265;la.la1265;Route added
 2021-03-25;(USA) Louisiana;Lake Pontchartrain Causeway;la.lakeponcswy;Truncated at south end to EspAve and at north end to US190/22
 2018-06-24;(USA) Louisiana;US 79 Truck (Homer);la.us079trkhom;Route added
 2018-06-21;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended south from exit 211 to exit 210.
@@ -5057,6 +5069,8 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2021-10-03;(USA) Oklahoma;US 75 Alternate (Sapulpa);ok.us075altsap;Renamed from US 75 Alternate (Tulsa), and truncated at north end from US 75 to OK 66.
+2021-10-03;(USA) Oklahoma;OK 20;ok.ok020;Removed from a demolished section of Broadway, 19th St, and a demolished section of Main St, and relocated onto a direct diagonal connection from 21st St to 17th St.
 2021-09-23;(USA) Oklahoma;OK 412P;ok.ok412p;Removed from mostly-demolished roadway following the Wagoner/Rogers county line between points labeled *OldOK412P_W and *OldOK412P_E, and relocated southward on N 4140 and east-northeastward to *OldOK412P_E. From that point east to N 4150, removed from demolished two-lane roadway and relocated onto a new parallel noadway to the immediate north. This realignment opened to traffic in January 2012.
 2021-06-08;(USA) Oklahoma;OK 99A (Harden City);ok.ok099ahar;Extended to the end of state maintenance 0.26 mi east of the old end at N3600.
 2021-01-17;(USA) Oklahoma;Kickapoo Turnpike;ok.kictpk;Extended southward from Exit 138 to Exit 130.
