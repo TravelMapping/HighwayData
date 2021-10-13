@@ -654,6 +654,7 @@ date;region;route;root;description
 2020-06-16;(France) Nouvelle-Aquitaine;E603;franaq.e603;Route removed from Route de Cognac, Route Claude Bonnier, Rue de Royan and N10 and relocated onto N141 between D37 N10 exit 59
 2020-06-16;(France) Nouvelle-Aquitaine;N141;franaq.n141;Route removed from Route de Cognac, Route Claude Bonnier, Rue de Royan and N10 and relocated onto Angouleme bypass between D37 and N10_S
 2020-06-16;(France) Nouvelle-Aquitaine;N1141;franaq.n141;Route deleted (now part of N141)
+2021-10-09;(France) Occitanie;N20;fraocc.n020;Route extended at north end north of Pamiers from A66 exit 4b to A66 exit 3
 2021-07-24;(France) Occitanie;Bretelle d'accès à l'autoroute Francoulès;fraocc.brefra;New Route
 2021-06-08;(France) Occitanie;N100;fraocc.n100;Route truncated at east end from Boulevard di Midi, Les Angles to D6580 (D6100-30 now)
 2021-06-08;(France) Occitanie;N126;fraocc.n126;Route truncated at west end from A680 to Haute-Garonne/Tarn departement border (D20-31 now)
@@ -997,6 +998,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2021-10-12;(Germany) North Rhine-Westphalia;Mercatorstraße Köln;;Route deleted
 2021-10-03;(Germany) North Rhine-Westphalia;B59;deunw.b059;Route relocated in Mönchengladbach from Wilhelm-Schiffer-Straße and onto Odenkirchener Straße and Friedrich-Ebert-Straße	between Moses-Stern-Straße and Mühlenstraße
 2021-10-03;(Germany) North Rhine-Westphalia;B230;deunw.b230;Route truncated at west end in Mönchengladbach from B57 (Sternstraße) to B59 (Duvenstraße)
 2021-08-21;(Germany) North Rhine-Westphalia;L364;deunw.l364;Route truncated at south end from the Dutch border to L225
@@ -1069,7 +1071,6 @@ date;region;route;root;description
 2018-04-14;(Germany) North Rhine-Westphalia;A44 (Velbert);deunw.a044vel;Route extended at west end from exit 36 to exit 35
 2018-04-07;(Germany) North Rhine-Westphalia;A33;deunw.a033;Route extended at north end from exit 19 to exit 17
 2017-12-17;(Germany) North Rhine-Westphalia;Vingster Ring Köln;deunw.k016;New Route
-2017-06-26;(Germany) North Rhine-Westphalia;Mercatorstraße Köln;deunw.k008;New Route
 2017-06-26;(Germany) North Rhine-Westphalia;Chorweiler Zubringer Köln;deunw.chozub;New Route
 2017-01-15;(Germany) North Rhine-Westphalia;A44;deunw.a448wit;Route renamed to A448 including new exit numbering 8 to 12 instead of 42 to 46
 2017-01-15;(Germany) North Rhine-Westphalia;A448;deunw.a448;Route extended at eastern end from exit 5 to 6
@@ -1151,6 +1152,7 @@ date;region;route;root;description
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2021-10-07;(Germany) Thuringia;L1056 (Schloßvippach);;Route deleted
 2021-01-30;(Germany) Thuringia;L1048 (Rudolstadt);deuth.b090sta;Route deleted (B90 now)
 2021-01-30;(Germany) Thuringia;B90 (Stadtilm);deuth.b090sta;Route extended at east end from Nahwinden to Rudolstadt (former L1048)
 2021-01-30;(Germany) Thuringia;B87 (Kranichfeld;deuth.l3087;Route deleted (L3087 now)
@@ -2112,6 +2114,8 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2021-10-11;Poland;S19 (Janów Lubelski);pol.s019jan;Route extended at south end from exit 51 to exit 52
+2021-10-11;Poland;DK19 (Nisko);pol.dk019nis;Route truncated at north end from S19 exit 51 to S19 exit 52
 2021-10-04;Poland;S7 (Slomniki);pol.s007slo;Route added
 2021-10-04;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7 between S7 exits 108 and 109
 2021-10-04;Poland;DK7 (Krakow);pol.dk007;Route truncated at north end from Zagora to S7 exit 109, and extended at south end from S52 to DW967 (over Myslenic section)
@@ -4214,6 +4218,8 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2021-10-11;(USA) Kentucky;KY 163;ky.ky0163;Removed from Main St and 4th St in Tompkinsville (now KY 375) and onto a new eastern bypass
+2021-10-11;(USA) Kentucky;KY 375;ky.ky0375;Route added along former route of KY 163 through Tompkinsville
 2021-03-25;(USA) Kentucky;KY 3538;ky.ky3538;Route added
 2021-03-15;(USA) Kentucky;US 68;ky.us068;Relocated to new alignment between US68BusMil_E and KY1455_S, and waypoint KY1244_S repositioned near east end of bypassed segment 
 2021-03-15;(USA) Kentucky;KY 32;ky.ky0032;Concurrency with US 68 eliminated with relocation of US 68, and alignment adjusted slightly between *OldKY32_CarW and *OldKY32_CarE
