@@ -624,6 +624,8 @@ date;region;route;root;description
 2021-08-07;(France) Auvergne-Rhône-Alpes;E62 (Montlucon);fraara.e62;Route relocated from N79 and onto A79 from A71's new A79 junction to N79 east of Montmarault
 2019-10-31;(France) Auvergne-Rhône-Alpes;N7;fraara.n007;Route relocated from through Villeneuve-sur-Allier and onto bypass from D707_ViN to D707_ViS
 2019-10-31;(France) Auvergne-Rhône-Alpes;Autoroute du Soleil, Lyon;fraara.autsol;Route added
+2021-10-26;(France) Bourgogne-Franche-Comté;N19;frabfc.n019;Route relocated from through Port-sur-Saône and onto new bypass from west of D56 to D434 at Charmoille
+2021-10-26;(France) Bourgogne-Franche-Comté;E54 (Belfort);frabfc.e54;Route relocated from through Port-sur-Saône and onto new bypass from west of D56 to D434 at Charmoille
 2019-11-08;(France) Bourgogne-Franche-Comté;N19;frabfc.n019;Re-entered route (swapped with GES file to be in correct regions)
 2020-11-08;(France) Centre-Val de Loire;D403-77;fracvl.d040377;New Route
 2020-07-09;(France) Centre-Val de Loire;E60;fracvl.e60;Route removed from D751 and D37 and relocated onto A85 and A10 between A85 exit 9 and A10 exit 24
@@ -923,6 +925,8 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2021-10-30;(Germany) Brandenburg;L17 (Marwitz);deubb.l017;Route truncated at west end from Staffelde to Schwante
+2021-10-30;(Germany) Brandenburg;L161;deubb.l161;Route truncated at north end from Vehlefanz to Perwenitz
 2021-09-26;(Germany) Brandenburg;L30 (Main);deubb.l030;Route relocated from through Niederlehme, and onto new eastern bypass from Karl-Marx-Straße to Am Möllenberg via A10 interchange
 2021-09-13;(Germany) Brandenburg;L16 (Neuruppiin);deubb.l016;Route truncated at south end from Schönewald to north of Flatow (L162)
 2021-09-13;(Germany) Brandenburg;L16 (Perwenitz);deubb.l016per;New route (formerly part of main route)
@@ -1127,6 +1131,11 @@ date;region;route;root;description
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2021-10-30;(Germany) Saxony;B94;deusn.b094;Route truncated at east end from B169 Rodewisch-Lindenstraße to B169 bypass just north of Rodewisch
+2021-10-30;(Germany) Saxony;B169 (Auerbach);deusn.b169sch;Route merged into main route
+2021-10-30;(Germany) Saxony;B169 (Schneeberg);deusn.b169sch;Route relocated from through Auerbach and Falkenstein, and onto bypass from Rodewisch to west of Falkenstein
+2021-10-30;(Germany) Saxony;S303;deusn.s303;Route truncated at east end in Falkenstein from Friedrich-Engels-Straße to Rudolf-Breitscheid-Straße (S304 now)
+2021-10-30;(Germany) Saxony;S304;deusn.s304;Route extended at north end in Falkenstein from Oelsnitzer Straße (S303) to Plauensche Straße
 2021-09-26;(Germany) Saxony;S288;deusn.s288;Route relocated from through Waldsachsen and Meerane, and onto southern bypass
 2021-02-06;(Germany) Saxony;S88;deusn.s088;Route relocated from through Röderau and onto northern and eastern bypass of Zeithain between Gohliser Straße, Röderau, and B169 interchange south of Zeithain
 2020-12-12;(Germany) Saxony;S9;;Route deleted
@@ -1271,6 +1280,9 @@ date;region;route;root;description
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2021-10-28;Hungary;M30 (Tornyosnémeti);hun.m030;Merged into main route
+2021-10-28;Hungary;M30;hun.m030;Section between exits 29 and 86 opened (Motorway is now fully opened)
+2021-10-25;Hungary;M80;hun.m080;Route extended between F8 and F86
 2021-09-29;Hungary;F87;hun.f087;Route relocated at west end from the old border crossing with Austrian B61 to the new border crossing with Austrian B61a
 2021-09-29;Hungary;M80;hun.m080;New Route
 2021-09-29;Hungary;F132;hun.f132;New Route (former F13 through Komarom)
@@ -2132,6 +2144,14 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2021-10-29;Poland;S5 (Poznań);pol.s005;Route extended at north end from exit 16 to exit 9
+2021-10-29;Poland;S5 (Bydgoszcz);pol.s005;Route deleted (merged into Poznan section)
+2021-10-29;Poland;E261;pol.e261;Route removed from former DK5 and onto S5 between S5 exits 14 and 16
+2021-10-29;Poland;DK5 (Szubin);;Route deleted
+2021-10-29;Poland;DW238;pol.dw238;Route reentered
+2021-10-29;Poland;DW239;;Route deleted
+2021-10-28;Poland;S3 (Legnica);pol.s003leg;Route extended at north end from exit 45 to exit 44
+2021-10-28;Poland;DK3 (Polkowice);pol.dk003;Route truncated at south end from S3 exit 45 to S3 exit 44
 2021-10-11;Poland;S19 (Janów Lubelski);pol.s019jan;Route extended at south end from exit 51 to exit 52
 2021-10-11;Poland;DK19 (Nisko);pol.dk019nis;Route truncated at north end from S19 exit 51 to S19 exit 52
 2021-10-11;Poland;DW878 (Katy);pol.dw878kat;Route added
@@ -2804,6 +2824,11 @@ date;region;route;root;description
 2018-12-21;Senegal;A1;sen.a001;Route extended at east end from A2 to exit 19
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2021-10-30;Slovakia;II127;svk.ii127;Route added
+2021-10-28;Slovakia;D1 (Poprad);svk.d001pop;Route extended at east end from exit 400 to exit 441
+2021-10-28;Slovakia;D1 (Drienov);svk.d001pop;Route removed (merged into Poprad section)
+2021-10-28;Slovakia;E50;svk.e50;Route removed from I18, I68 and I80 and relocated onto D1 between D1 exits 400 and 407
+2021-10-28;Slovakia;E371;svk.e371;Route extended at south end from southern junction with I68 to D1
 2021-10-04;Slovakia;D4 (Jarovce);svk.d004;Route merged into main (Bratislava) route
 2021-10-04;Slovakia;D4 (Rovinka);svk.d004;Route extended at west end from exit 5 to Austrian border and renamed as Bratislava section
 2021-10-04;Slovakia;R7;svk.r007;Route extended at north end from exit 6 to exit 0
@@ -2947,6 +2972,8 @@ date;region;route;root;description
 2019-06-08;(Spain) Castile and Leon;A11 (La Mallona);espcl.a011mal;New Route
 2019-04-10;(Spain) Castile and Leon;A11 (Burgo de Osma);espcl.a011bur;Route extended at east end from exit 211 to exit 203
 2018-07-18;(Spain) Castile and Leon;A60 (Villarente);espcl.a060;Route extended at south end from exit 123 to exit 103
+2021-10-27;(Spain) Castilla-La Mancha;A33;espcm.a033;Route extended at west end from exit 75 to exit 70
+2021-10-27;(Spain) Castilla-La Mancha;N344;espcm.n344;Route removed from A33 and relocated onto Avenida de Valencia between 'ToA33' and 'A33' (formerly 'Cau_E' and 'Cau_W')
 2021-07-23;(Spain) Castilla-La Mancha;A33;espcm.a033;Route added
 2019-09-05;(Spain) Castilla-La Mancha;CM10;espcm.cm010;Route extended at west end from CM101 to N320
 2019-09-05;(Spain) Castilla-La Mancha;CM45;espcm.cm045;Route extended at west end from CM4111 to A41, and at east end from exit 26 to CM412
@@ -3944,6 +3971,7 @@ date;region;route;root;description
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2021-10-20;(USA) Colorado;I-70 BL (Limon);co.i070bllim;Route extended on east end from Exit 361 to Exit 363 along US 24, US 40, and US 287 between the two exits. This also required point "I-70_E" to shift locations.
 2021-09-29;(USA) Colorado;CO 82;co.co082;Route rerouted from 6th St to new Grand Ave bridge in Glenwood Springs
 2021-06-22;(USA) Colorado;CO 90 (Montrose);co.co090mon;Route truncated from Uncompaghre National Forest boundary to just west of Shavano Valley Road
 2021-06-22;(USA) Colorado;CO 103;co.co103;Route truncated from decommissioned I-70 BL south to I-70
@@ -5143,6 +5171,8 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2021-10-20;(USA) Pennsylvania;US 322;pa.us322;Slightly realigned between RicSt and relocated intersection with PA28_N in Brookville.
+2021-10-20;(USA) Pennsylvania;PA 28;pa.pa028;Slightly realigned between RicSt and relocated intersection with US322_E in Brookville.
 2021-10-15;(USA) Pennsylvania;PA 576;pa.pa576;Extended southeast from US 22 (Exit 6) to I-79 NB/Morganza Rd (Exit 19).  The full interchanges with I-79 and Morganza Rd will not be open until Spring 2022.
 2021-09-29;(USA) Pennsylvania;Central Scranton Expressway;pa.prebidexpy;Renamed to President Biden Expressway.
 2021-06-24;(USA) Pennsylvania;PA 65 Truck (McKees Rocks);;Route deleted.
@@ -5396,6 +5426,10 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2021-10-29;(USA) Texas;TX 31;tx.tx031;Removed from TX 31 Business and relocated onto the southern Corsicana bypass.
+2021-10-29;(USA) Texas;TX 31 Business (Corsicana);tx.tx031buscor;Route added.
+2021-10-29;(USA) Texas;TX 205;tx.tx205;Waypoint TX276 moved from old TX 276 location (labeled OldTX276) southeastward approx 0.6 mi to new TX 276 at Sids Rd.
+2021-10-29;(USA) Texas;TX 276;tx.tx276;Removed from a two-lane east-west road between Wildrose Drive and TX 205, and relocated southward to intersect TX 205 at Sids Rd.
 2021-09-27;(USA) Texas;TX 137;tx.tx137;North end removed from closed roadway from a point labeled *OldTX137_C due north to US 385, and relocated eastward to intersect US 385 perpendicularly.
 2021-09-27;(USA) Texas;TX 349;tx.tx349;Extended northward from TX 137 to US 87/180.
 2021-09-15;(USA) Texas;TX 105;tx.tx105;Relocated southeastward onto new bridges over Coles Creek, Brazos River & Navasota River between FM 1155 and CR 423.
