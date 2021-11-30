@@ -382,6 +382,7 @@ date;region;route;root;description
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2021-11-26;Czechia;II366;cze.ii366;Route truncated at east end from II150 to northern bypass of Prostějov and reextended to D46 (onto northern bypass of Prostějov)
 2021-11-04;Czechia;D55;cze.d055;Route extended at south end from exit 32 (I49) to exit 35 south of Otrokovice
 2021-10-17;Czechia;II605 (Plzeň);cze.ii605plz;New route
 2021-09-10;Czechia;II246;cze.ii246;Route relocated from through Roudnice nad Labem and onto bypass from II240 to III24049 east of Roudnice nad Labem
@@ -957,6 +958,8 @@ date;region;route;root;description
 2019-10-18;(Germany) Hamburg;A253;;Route deleted (B75 now)
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2021-11-28;(Germany) Hesse;L2305;deuhe.l2305;New Route
+2021-11-28;(Germany) Hesse;L3308 (Großkrotzenburg-East);deuhe.l3308gre;New Route
 2021-04-05;(Germany) Hesse;B7 (Ringgau);deuhe.b007rin;Route truncated at west end from A44 exit 78 to exit 79 (partially L3238, L3249 and L3334 now)
 2020-11-21;(Germany) Hesse;B457;deuhe.b457;Route relocated from through Büches and onto new bypass from northwest of Büches to east of Büches (L3195)
 2020-11-21;(Germany) Hesse;L3195;deuhe.l3195;Route relocated from through Büches between Frankfurter Straße and B457 and onto new bypass
@@ -1163,6 +1166,7 @@ date;region;route;root;description
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
+2021-11-23;(Germany) Saxony-Anhalt;L193 (Techwitz);;Route deleted
 2021-09-17;(Germany) Saxony-Anhalt;B71;deust.b071;Route relocated from through Wedringen and onto new bypass from K1158 interchange west of Wedringen to west of Vahldorf
 2021-07-18;(Germany) Saxony-Anhalt;B188;deust.b188;Route relocated from through Weddendorf, Niendorf and Bergfriede and onto new bypass north of the railway track from K1124 to Frankenfelde
 2020-10-03;(Germany) Saxony-Anhalt;B189;deust.b189;Route relocated onto new A14 section from south of Dolle to north of Colbitz (L38 now)
@@ -1538,6 +1542,8 @@ date;region;route;root;description
 2021-11-21;Iran;F2 (Tehran);irn.f002teh;Route added
 2021-11-21;Iran;F2 (Qom);irn.f002qom;Route added
 2021-11-21;Iran;F3 (Pole Zangoole);irn.f003pol;Route added
+2021-11-21;Iran;F5 (Arak);irn.f002ara;Route added
+2021-11-21;Iran;F5 (Borujerd);irn.f002bor;Route added
 2021-11-21;Iran;F7 (Isafhan eastern bypass);irn.f007isa;Route added
 2021-11-21;Iran;F16 (Tabris);irn.f016tab;Route added
 2021-11-21;Iran;F16 (Khorkhor);irn.f016kho;Route added
@@ -2168,6 +2174,10 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
+2021-11-29;Poland;S17 (Tomaszow Lubelski);pol.s017tom;Route added
+2021-11-29;Poland;E372;pol.e372;Route removed from Ulica Zamojaska and Ulica Lwowska in Tomaszow Lubelski and relocated onto S17 between Ulica Swiergotka and Ulica Podbelzec
+2021-11-29;Poland;DK17 (Zamosc);pol.dk017;Route truncated at south end from Ukrainian border to Ulica Swiergotka
+2021-11-29;Poland;DK17 (Lubycza Krolewska);pol.dk017lub;Route added
 2021-11-22;Poland;DK46;pol.dk046;Route removed from DW435 and relocated onto Obwodnica Niemodlina between DW385/435 and DW435_E
 2021-11-22;Poland;DW435;pol.dw435;Route extended at west end from eastern junction with DK46 to western junction with DK46
 2021-11-10;Poland;A2;pol.a002;Route truncated at west end from German border to exit 1
@@ -2695,6 +2705,8 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2021-11-30;Romania;DN6H;rou.dn06h;New Route
+2021-11-30;Romania;A10;rou.a010;New section between exit 3 and 5 opened. Merged former A10, A10 Alb and added the newly opened section in between
 2021-10-01;Romania;DJ790;rou.dj790;New Route
 2021-08-05;Romania;DN2U;rou.dn02u;New Route
 2021-08-05;Romania;DJ412;rou.dj412;Extended at east end from Sohatu to DJ402
@@ -3235,6 +3247,7 @@ date;region;route;root;description
 2015-08-25;Spain;VA20;;Route deleted
 2015-08-25;Spain;VA30;esp.va030;Route extended at east end from exit 13 to exit
 2015-08-25;Spain;Z32;esp.z032;New Route
+2021-11-29;Sri Lanka;E03;lka.e003;Route extended at south end from A001 to Baseline Road
 2021-01-22;Sri Lanka;E06;lka.e006;Route added
 2020-02-22;Sri Lanka;E01;lka.e001;Route extended at south end from B631 to A2
 2019-11-08;Sri Lanka;E01;lka.e001;Route extended at south end from 'To A24' to B631
@@ -4008,6 +4021,7 @@ date;region;route;root;description
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2021-11-27;(USA) Colorado;CO 14;co.co014;Route extended from former east end at US 6 in Sterling to new east end at I-76 outside Sterling along US 6 due to signage changes from the Sterling S Curve project
 2021-10-20;(USA) Colorado;I-70 BL (Limon);co.i070bllim;Route extended on east end from Exit 361 to Exit 363 along US 24, US 40, and US 287 between the two exits. This also required point "I-70_E" to shift locations.
 2021-09-29;(USA) Colorado;CO 82;co.co082;Route rerouted from 6th St to new Grand Ave bridge in Glenwood Springs
 2021-06-22;(USA) Colorado;CO 90 (Montrose);co.co090mon;Route truncated from Uncompaghre National Forest boundary to just west of Shavano Valley Road
@@ -4162,6 +4176,8 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2021-11-22;(USA) Illinois;I-74;il.i074;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between 7th Avenue and Illinois state line. Separated I-74 exit 1 into 1A (River Drive) and 1B (IL 92). I-74 exit 2 (WB only, 7th Avenue) doubles as separation point from old route.
+2021-11-22;(USA) Illinois;US 6;il.us006;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between 7th Avenue and Illinois state line. Separated I-74 exit 1 into 1A (River Drive) and 1B (IL 92). I-74 exit 2 (WB only, 7th Avenue) doubles as separation point from old route.
 2021-11-11;(USA) Illinois;I-90;il.i090;Relabelled exits in Chicago along the I-94 Concurrency.
 2021-11-11;(USA) Illinois;I-94;il.i094;Relabelled exits in Chicago between Exits 43D and 66A.
 2021-09-06;(USA) Illinois;IL 8;il.il008;Renamed IL116->WasSt. Renamed old WasSt->WasSt_EP
@@ -4254,6 +4270,8 @@ date;region;route;root;description
 2015-08-03;(USA) Indiana;US 31;in.us031;Relocated from Dixie Highway onto freeway between exit 240 and 246
 2015-08-03;(USA) Indiana;US 35;in.us035;Relocated from Monticello Road and onto Hoosier Heartland Highway between MonRd_W and MonRd_E
 2021-07-22;(USA) Iowa;US 30;ia.us030;Relocated onto all-new four-lane slightly north of previous road between Tama and IA 21
+2021-11-22;(USA) Iowa;I-74;ia.i074;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between Kimberly Road and Illinois state line. Route separates at *OldI-74.
+2021-11-22;(USA) Iowa;US 6;ia.us006;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between Kimberly Road and Illinois state line. Route separates at *OldI-74.
 2021-07-22;(USA) Iowa;US 61;ia.us061;Relocated between Memorial Park Road and 180th Street onto alignment slightly west of previous route, with new points MemParkRd and 180thSt on either end
 2021-01-05;(USA) Iowa;IA 1;ia.ia001;Split one-block multiplex with US 34
 2021-01-05;(USA) Iowa;US 34 Business (Fairfield);ia.us034busfai;Split IA1 into IA1_N and IA1_S
@@ -5228,6 +5246,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2021-11-24;(USA) Pennsylvania;PA 867 Truck (Roaring Spring);;Route deleted.
 2021-11-16;(USA) Pennsylvania;PA 550;pa.pa550;Realigned between *OldPA550 and its relocated intersection with PA 64.
 2021-11-13;(USA) Pennsylvania;PA 136;pa.pa136;Extended east from US 30 to Hamilton Ave (HamAve).
 2021-11-09;(USA) Pennsylvania;PA 839;pa.pa839;Renamed BarRd (in-use) to PheFarmRd (Pheasant Farm Rd).  Relocated BarRd label in-use to point formerly known as BarnRd.
