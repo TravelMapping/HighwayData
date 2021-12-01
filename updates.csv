@@ -1740,13 +1740,15 @@ date;region;route;root;description
 2015-08-25;Italy;Tangenziale di Bologna;;Route renamed RA1
 2015-08-25;Italy;Tangenziale di Bologna (Borgo Panigale);;Route renamed RA1 (Borgo Panigale)
 2015-08-25;Italy;Tangenziale di Catania;;Renamed RA15
-2021-10-15;Japan;AH1;jpn.ah001;Route added
 2016-03-28;Jamaica;T3;jam.t003;Route extended at north end from temporary terminus with A1 at Monleague to the A3.
 2016-03-11;Jamaica;T3;jam.t003;Route extended at south end from the A1 at Angels to the A1 at Caymanas
 2016-02-07;Jamaica;T3;jam.t003;Route extended at south end from A1 at Linstead to A1 at Spanish Town
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2021-11-30;Japan;E45Fud;jpn.e045fud;Route deleted (merged into E45 main route)
+2021-11-30;Japan;E45;jpn.e045;Route extended at north end to exit 60
+2021-10-15;Japan;AH1;jpn.ah001;Route added
 2021-02-20;Jersey;B75;jey.b075;Route added
 2018-05-24;Jersey;A6;jey.a006;Route extended at south end from B84 to B77
 2018-05-24;Jersey;A7;jey.a007;Route extended at south end from B84 to southern junction with A6
@@ -4223,6 +4225,7 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
 2021-07-28;(USA) Indiana;I-65;in.i065;Added waypoint 262A at ramps to/from US12/20
 2021-07-28;(USA) Indiana;I-90;in.i090;Added waypoint 5A at ramp from US 41 to eastbound I-90
+2021-11-30;(USA) Indiana;IN 111;in.in111;Truncated at south end from New Boston to IN 211
 2021-03-25;(USA) Indiana;US 31 Business (South Bend);in.us031bussou;Removed from Main St/Michigan St one-way pair and onto Michigan St between US31_S and IN23/933, Sample St between IN23/933 and IN23_S, and Main St between IN23_S and MarSt
 2021-03-25;(USA) Indiana;IN 933;in.in933;Removed from Main St/Michigan St one-way pair and onto Main St between IN23_S and MarSt
 2020-12-24;(USA) Indiana;IN 912;in.in912;Extended at west end via rebuilt bridge and former IN 912 (Hammond) to I-90
@@ -4322,6 +4325,12 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2021-11-30;(USA) Kentucky;KY 267;ky.ky0267;Junction with KY 15 split creating short concurrency
+2021-11-30;(USA) Kentucky;KY 2401;ky.ky2401;Route added
+2021-11-30;(USA) Kentucky;KY 3124;ky.ky3124;Route added
+2021-11-30;(USA) Kentucky;KY 3125;ky.ky3125;Route added
+2021-11-30;(USA) Kentucky;KY 3425;ky.ky3425;Route added
+2021-11-30;(USA) Kentucky;KY 3453;ky.ky3453;Route added
 2021-11-07;(USA) Kentucky;KY 1100;ky.ky1100;Split at permanently closed bridge 600m south of former north end at US 23/460
 2021-11-07;(USA) Kentucky;KY 1100 (East Point);ky.ky1100eas;Route added
 2021-11-07;(USA) Kentucky;KY 3052;ky.ky3052;Route added
@@ -5457,6 +5466,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2021-11-30;(USA) Tennessee;TN 397;tn.tn397;Extended at north end from US 431/US 431 Business counterclockwise to TN 96
 2021-08-07;(USA) Tennessee;US 411;tn.us411;Removed from former alignment onto TN 92 and new partial bypass of Chestnut Hill between TN92_S and US411_S
 2021-07-28;(USA) Tennessee;TN 7;tn.tn007;Truncated at south end from US 31 to US 43/US 412
 2021-07-28;(USA) Tennessee;TN 66 (Morristown);tn.tn066mor;Rerouted north of Mansfield Gap Rd to follow new terrain route and former TN 474 to US 11E
