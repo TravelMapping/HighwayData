@@ -227,6 +227,7 @@ date;region;route;root;description
 2015-08-19;(Canada) New Brunswick;NB 935;nb.nb935;Removed from a closed roadway through the Shorebird Reserve along Shepody Bay and relocated onto a bypass about 1/4 km inland, between waypoints OldNB935_W and OldNB935_E.
 2015-08-18;(Canada) New Brunswick;NB 2;nb.nb002;Moved from Madawaska Ave. to new freeway between QC/NB border and exit 1
 2015-08-18;(Canada) New Brunswick;TCH (Main);nb.tchmai;Moved from Madawaska Ave. to new freeway between QC/NB border and exit 1
+2021-12-03;(Canada) Northwest Territories;NT 9;nt.nt009;New route
 2017-12-08;(Canada) Northwest Territories;NT 10;nt.nt010;New route
 2017-12-08;(Canada) Northwest Territories;NT 1;nt.nt001;West end truncated from Wrigley village centre, to Tulita winter road entrance southeast of Wrigley
 2019-09-22;(Canada) Nova Scotia;NS 101;ns.ns101;Removed from NS 1 and relocated onto a northwestern controlled access bypass of Marshalltown between Exit 26 and Middle Cross Road.
@@ -382,6 +383,7 @@ date;region;route;root;description
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2021-12-04;Czechia;II156;cze.ii156;Route relocated from through Strážkovice and onto new bypass
 2021-11-26;Czechia;II366;cze.ii366;Route truncated at east end from II150 to northern bypass of Prostějov and reextended to D46 (onto northern bypass of Prostějov)
 2021-11-04;Czechia;D55;cze.d055;Route extended at south end from exit 32 (I49) to exit 35 south of Otrokovice
 2021-10-17;Czechia;II605 (Plzeň);cze.ii605plz;New route
@@ -1740,13 +1742,18 @@ date;region;route;root;description
 2015-08-25;Italy;Tangenziale di Bologna;;Route renamed RA1
 2015-08-25;Italy;Tangenziale di Bologna (Borgo Panigale);;Route renamed RA1 (Borgo Panigale)
 2015-08-25;Italy;Tangenziale di Catania;;Renamed RA15
-2021-10-15;Japan;AH1;jpn.ah001;Route added
 2016-03-28;Jamaica;T3;jam.t003;Route extended at north end from temporary terminus with A1 at Monleague to the A3.
 2016-03-11;Jamaica;T3;jam.t003;Route extended at south end from the A1 at Angels to the A1 at Caymanas
 2016-02-07;Jamaica;T3;jam.t003;Route extended at south end from A1 at Linstead to A1 at Spanish Town
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2021-12-02;Japan;E42Kum;;Route deleted (merged into E42 main route)
+2021-12-02;Japan;E42;jpn.e042;Route extended at south end to exit 10, including former E42Kum section
+2021-12-01;Japan;E77Tak;jpn.e077tak;Route extended at east end from ToN218 to N218_Hir
+2021-11-30;Japan;E45Fud;;Route deleted (merged into E45 main route)
+2021-11-30;Japan;E45;jpn.e045;Route extended at north end to exit 60, including former E45Fud section
+2021-10-15;Japan;AH1;jpn.ah001;Route added
 2021-02-20;Jersey;B75;jey.b075;Route added
 2018-05-24;Jersey;A6;jey.a006;Route extended at south end from B84 to B77
 2018-05-24;Jersey;A7;jey.a007;Route extended at south end from B84 to southern junction with A6
@@ -2711,6 +2718,8 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2021-11-30;Romania;DN6H;rou.dn06h;New Route
+2021-11-30;Romania;A10;rou.a010;New section between exit 3 and 5 opened. Merged former A10, A10 Alb and added the newly opened section in between
 2021-10-01;Romania;DJ790;rou.dj790;New Route
 2021-08-05;Romania;DN2U;rou.dn02u;New Route
 2021-08-05;Romania;DJ412;rou.dj412;Extended at east end from Sohatu to DJ402
@@ -2945,6 +2954,7 @@ date;region;route;root;description
 2015-08-20;Slovakia;R2 (Zvolen);svk.r002zvo;New Route
 2015-08-20;Slovakia;R3 (Vrutky);svk.r003vru;New Route
 2015-08-20;Slovakia;R6;svk.r006;Route truncated at north end from II507 to I49
+2021-12-02;Slovenia;G104 (Mengeš (spur));svn.g104men;Route extended at north end from R225 to G104 north of Mengeš
 2020-01-03;Slovenia;H2;svn.r430;Route deleted (R430 now)
 2020-01-03;Slovenia;R430;svn.r430;Route truncated at north end from G1 to Tržaška cesta and reextended from Tržaška cesta to A1 exit 2
 2018-11-01;Slovenia;A4;svn.a004;Route extended at south end from exit 7 to Croatian border
@@ -3930,6 +3940,7 @@ date;region;route;root;description
 2018-12-26;(USA) Alaska;Walter J. Hickel Parkway;ak.hicpkwy;Route added (includes parts of Minnesota Dr. and O'Malley Rd. in Anchorage)
 2019-03-04;(USA) Alaska;McCarthy Road;ak.mccarrd;Route added in Wrangell-St. Elias NP
 2019-03-04;(USA) Alaska;Nabesna Road;ak.nabrd;Route added in Wrangell-St. Elias NP
+2021-12-03;(USA) Arizona;AZ143;az.az143;Route truncated at south end from Broadway Road to I-10
 2021-09-18;(USA) Arizona;US60;az.us060;Relocated onto new 2021 Pinto Creek Bridge west of Globe, slightly north of previous 1949 bridge now removed.
 2021-08-19;(USA) Arizona;AZ303;az.az303;Route extended south from I-10 to Canyon Trails Boulevard
 2020-12-18;(USA) Arizona;I-10;az.i010;Relocated onto new alignment near Eloy. Former exits 211, 211B, and 212 replaced with new exit 211.
@@ -4227,6 +4238,7 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
 2021-07-28;(USA) Indiana;I-65;in.i065;Added waypoint 262A at ramps to/from US12/20
 2021-07-28;(USA) Indiana;I-90;in.i090;Added waypoint 5A at ramp from US 41 to eastbound I-90
+2021-11-30;(USA) Indiana;IN 111;in.in111;Truncated at south end from New Boston to IN 211
 2021-03-25;(USA) Indiana;US 31 Business (South Bend);in.us031bussou;Removed from Main St/Michigan St one-way pair and onto Michigan St between US31_S and IN23/933, Sample St between IN23/933 and IN23_S, and Main St between IN23_S and MarSt
 2021-03-25;(USA) Indiana;IN 933;in.in933;Removed from Main St/Michigan St one-way pair and onto Main St between IN23_S and MarSt
 2020-12-24;(USA) Indiana;IN 912;in.in912;Extended at west end via rebuilt bridge and former IN 912 (Hammond) to I-90
@@ -4326,6 +4338,12 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2021-11-30;(USA) Kentucky;KY 267;ky.ky0267;Junction with KY 15 split creating short concurrency
+2021-11-30;(USA) Kentucky;KY 2401;ky.ky2401;Route added
+2021-11-30;(USA) Kentucky;KY 3124;ky.ky3124;Route added
+2021-11-30;(USA) Kentucky;KY 3125;ky.ky3125;Route added
+2021-11-30;(USA) Kentucky;KY 3425;ky.ky3425;Route added
+2021-11-30;(USA) Kentucky;KY 3453;ky.ky3453;Route added
 2021-11-07;(USA) Kentucky;KY 1100;ky.ky1100;Split at permanently closed bridge 600m south of former north end at US 23/460
 2021-11-07;(USA) Kentucky;KY 1100 (East Point);ky.ky1100eas;Route added
 2021-11-07;(USA) Kentucky;KY 3052;ky.ky3052;Route added
@@ -4605,6 +4623,7 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2021-12-01;(USA) Maryland;MD 778;md.md778;Truncated at north end from MD 2 to MD 261
 2021-05-21;(USA) Maryland;US 219;md.us219;Relocated onto new bypass roadway north of I-68 exit 22 near Grantsville
 2021-05-21;(USA) Maryland;US 219 Business (Grantsville);md.us219busgra;Added route, this consists of former US 219 alignment now bypassed
 2021-03-14;(USA) Maryland;MD 353;md.md353;Extended south from MD 346 to US 50
@@ -4820,6 +4839,7 @@ date;region;route;root;description
 2017-09-03;(USA) Montana;I-94 BL (Hysham);;Route deleted
 2015-11-02;(USA) Montana;I-94 BL (Wibaux);;Route deleted
 2015-08-03;(USA) Montana;US 93 Alternate (Kalispell);mt.us093altkal;New Route
+2021-12-01;(USA) Nebraska;L55K;;Extended northward from I-80 to the end of state maintenance roughly halfway between Vine Street and Opportunity Drive.
 2021-10-15;(USA) Nebraska;NE 85;;Route deleted.
 2021-08-23;(USA) Nebraska;Summit Road, Scotts Bluff National Monument;ne.sumrd;Route added.
 2021-06-05;(USA) Nebraska;US 30;ne.us030;Removed from demolished 2-lane roadway, 5th St in Rogers, and more demolished 2-lane roadway, and relocated onto a parallel 4-lane divided expressway to the immediate north between points labeled *OldUS30_SchE & *OldUS30_Nor.
@@ -5461,6 +5481,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2021-11-30;(USA) Tennessee;TN 397;tn.tn397;Extended at north end from US 431/US 431 Business counterclockwise to TN 96
 2021-08-07;(USA) Tennessee;US 411;tn.us411;Removed from former alignment onto TN 92 and new partial bypass of Chestnut Hill between TN92_S and US411_S
 2021-07-28;(USA) Tennessee;TN 7;tn.tn007;Truncated at south end from US 31 to US 43/US 412
 2021-07-28;(USA) Tennessee;TN 66 (Morristown);tn.tn066mor;Rerouted north of Mansfield Gap Rd to follow new terrain route and former TN 474 to US 11E
