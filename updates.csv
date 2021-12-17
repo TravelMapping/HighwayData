@@ -2196,6 +2196,12 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2021-12-16;Poland;S19 (Janów Lubelski);pol.s019jan;Route extended at north end from exit 50 to exit 45
+2021-12-16;Poland;S19 (Lublin);pol.s019lub;Route extended at south end from exit 41 to exit 43
+2021-12-16;Poland;DK19 (Kraśnik);pol.dk019kra;Route truncated at south end from S19 exit 50 to S19 exit 45 and truncated at north end from S19 exit 41 to S19 exit 42
+2021-12-16;Poland;DK74 (Zamosc);pol.dk074zam;Route removed from DW878 and relocated onto S19 between DW878_N and DW833
+2021-12-16;Poland;DW833;pol.dw833; Route truncated at south end from DK19 to Ulica Graniczna and extended at south end from Ulica Graniczna to DK74
+2021-12-16;Poland;DW878;pol.dw878;Route extended at north end from S19 exit 50 to S19 exit 45
 2021-12-06;Poland;S19 (Nisko);pol.s019nis;Route added
 2021-12-06;Poland;DK19 (Nisko);pol.dk019nis;Route truncated at southern end from southern junction with DW878 to DK77 and extended at southern end from DK77 to S19 exit 54
 2021-12-06;Poland;DK19 (Sokolow Malopolski);pol.dk019sok;Route added
@@ -3560,6 +3566,9 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-12-16;(UK) England;A582;eng.a0582;Route extended at north end from southern junction with A59 to A59/A5072
+2021-12-16;(UK) England;A5072;eng.a5072;Route truncated at south end from A59_S to A59/A582
+2021-12-16;(UK) England;B5254;eng.b5254;Route extended at north end from LeyRd_N (formerly A5072) to A59/A582
 2021-09-30;(UK) England;A1307 (Huntingdon);eng.a1307hun;Route extended at south end from A141 to B1514
 2021-09-26;(UK) England;A3216;eng.a3216;Labels 'A3205' and 'A3036' swapped so that they refer to the correct points now.
 2021-07-21;(UK) England;B5210 (Warrington);;Route deleted
@@ -4208,6 +4217,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2021-12-16;(USA) Illinois;US 67;il.us067;Removed from old alignment in the Delhi/New Delhi area and relocated onto four-lane alignment between approximately Hilltop Lane and Stagecoach Road
 2021-11-22;(USA) Illinois;I-74;il.i074;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between 7th Avenue and Illinois state line. Separated I-74 exit 1 into 1A (River Drive) and 1B (IL 92). I-74 exit 2 (WB only, 7th Avenue) doubles as separation point from old route.
 2021-11-22;(USA) Illinois;US 6;il.us006;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between 7th Avenue and Illinois state line. Separated I-74 exit 1 into 1A (River Drive) and 1B (IL 92). I-74 exit 2 (WB only, 7th Avenue) doubles as separation point from old route.
 2021-11-11;(USA) Illinois;I-90;il.i090;Relabelled exits in Chicago along the I-94 Concurrency.
@@ -5829,6 +5839,8 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2021-12-17;Wisconsin (USA);WI 81;wi.wi081;Extended east from I-39/90 along new extension to I-43
+2021-12-16;(USA) Wisconsin;WI 145;wi.wi145;Removed from Old Orchard Road between WI 100 and 124th Street, and relocated onto WI 100 and 24th Street
 2021-11-10;(USA) Wisconsin;WI 145;wi.wi145;Extended northern terminus west from I-41 to WI 175.
 2021-07-22;(USA) Wisconsin;WI 241;wi.wi241;Truncated from I-41/94 to 7MileRd
 2021-07-05;(USA) Wisconsin;US 45;wi.us045;Re-entered route with exit numbers along I-41, I-894, US 10, WI 29. Re-entered all waypoint locations along I-894.
