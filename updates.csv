@@ -1759,11 +1759,13 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2021-12-19;Japan;E45 (Hachinohe);;Route deleted, merged into E45
+2021-12-19;Japan;E45;jpn.e045;Route extended at north end to E4A junction, including former E45 (Hachinohe) section
 2021-12-02;Japan;E42 (Kumano);;Route deleted, merged into E42 (Odai)
 2021-12-02;Japan;E42 (Odai);jpn.e042;Route extended at south end to exit 10, including former E42 (Kumano) section
 2021-12-01;Japan;E77 (Takachiho);jpn.e077tak;Route extended at east end from ToN218 to N218_Hir
-2021-11-30;Japan;E45 (Fudai);;Route deleted, merged into E45 (Ishinomaki)
-2021-11-30;Japan;E45 (Ishinomaki);jpn.e045;Route extended at north end to exit 60, including former E45 (Fudai) section
+2021-11-30;Japan;E45 (Fudai);;Route deleted, merged into E45
+2021-11-30;Japan;E45;jpn.e045;Route extended at north end to exit 60, including former E45 (Fudai) section
 2021-10-15;Japan;AH1;jpn.ah001;Route added
 2021-02-20;Jersey;B75;jey.b075;Route added
 2018-05-24;Jersey;A6;jey.a006;Route extended at south end from B84 to B77
@@ -2197,6 +2199,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2021-12-20;Poland;S2;pol.s002;Route extended at east end from R12 to exit R17
+2021-12-20;Poland;S2 (Jozefow);pol.s002;Route merged into main/Warszawa segment
+2021-12-20;Poland;E30;pol.e30;Route removed from DK92 and relocated onto S2 between S2 exit R12 and A2 exit 33
+2021-12-20;Poland;DK2 (Warsaw);pol.dk092min;Route deleted (now part of DK92 Minsk Mazowiecki section)
+2021-12-20;Poland;DK92 (Minsk Mazowiecki);pol.dk092min;Route extended at west end from DK17 to S2/S79 junction
 2021-12-16;Poland;S19 (Janów Lubelski);pol.s019jan;Route extended at north end from exit 50 to exit 45
 2021-12-16;Poland;S19 (Lublin);pol.s019lub;Route extended at south end from exit 41 to exit 43
 2021-12-16;Poland;DK19 (Kraśnik);pol.dk019kra;Route truncated at south end from S19 exit 50 to S19 exit 45 and truncated at north end from S19 exit 41 to S19 exit 42
@@ -3049,6 +3056,8 @@ date;region;route;root;description
 2019-09-17;(Spain) Canary Islands;GC2 (Galdar);espcn.gc002;Route merged into main route
 2019-09-17;(Spain) Canary Islands;TF1;espcn.tf001;Route extended at west end from exit 87 to TF375
 2019-09-17;(Spain) Canary Islands;TF5;espcn.tf005;Route extended at east end from Avenida Reyes Catolicos to TF4/11, and at west end from exit 39 to TF82
+2021-12-20;(Spain) Castile and Leon;A62;espcl.a062;Route extended at west end from exit 351 to Portuguese border
+2021-12-20;(Spain) Castile and Leon;E80;espcl.e80;Route truncated at west end from Portuguese border to A62 exit 351 (along N620) and extended at west end from A62 exit 351 to Portuguese border (along A62)
 2021-11-05;(Spain) Castile and Leon;A73 (Quintanas de Valdelucio);espcl.a073qui;Route added
 2020-06-16;(Spain) Castile and Leon;A11 (Soto de San Esteban);espcl.a011sot;Route added
 2019-11-07;(Spain) Castile and Leon;A62;espcl.a062;Route extended at west end from temporary terminus at N620 to exit 351
@@ -3928,6 +3937,11 @@ date;region;route;root;description
 2015-07-24;(UK) Wales;A4046;wls.a4046;Route extended at north end from A4281 to A4047
 2015-07-24;(UK) Wales;A4281;wls.a4281;New Route
 2015-07-24;(UK) Wales;A5153;wls.a5153;Route extended at south end from A55 to B4545
+2021-12-18;Ukraine;M04;ukr.m030;Route removed (renamed M30)
+2021-12-18;Ukraine;M04 (Dnipro);ukr.m030dni;Route removed (renamed M30)
+2021-12-18;Ukraine;M12;ukr.m030;Route removed (renamed M30)
+2021-12-18;Ukraine;M30;ukr.m030;Route added (formerly M04 and M12)
+2021-12-18;Ukraine;M30 (Dnipro);ukr.m030dni;Route added (formerly M04)
 2020-11-25;Ukraine;Avtostrada Kharkiv - Dnipro;ukr.avtkhadni;Route truncated at south end from M04 to the M18 at Hubynykha
 2020-11-25;Ukraine;M21;ukr.m021;Route extended at north end from M06 to Belarus border
 2020-11-25;Ukraine;M21 (Novaja Rudnia);ukr.m021nov;Route added
@@ -4366,7 +4380,8 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
-2021-12-07;(USA) Kentucky;KY 1697;ky.ky1697;Extended at east end from Harlan/Letcher county line to US 119
+2021-12-15;(USA) Kentucky;KY 627 Truck (Winchester);ky.ky0627trkwin;Route added
+2021-12-07;(USA) Kentucky;KY 1679;ky.ky1679;Extended at east end from Harlan/Letcher county line to US 119
 2021-11-30;(USA) Kentucky;KY 267;ky.ky0267;Junction with KY 15 split creating short concurrency
 2021-11-30;(USA) Kentucky;KY 2401;ky.ky2401;Route added
 2021-11-30;(USA) Kentucky;KY 3124;ky.ky3124;Route added
@@ -5569,6 +5584,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2021-12-19;(USA) Texas;I-69E;tx.i069e;Extended northward from US 77 Business (Raymondville) to Yturria Co Rd.
 2021-11-21;(USA) Texas;TX 7;tx.tx007;Removed from TX 7 Business (Nacogdoches) and relocated onto the south side of TX Loop 224.
 2021-11-21;(USA) Texas;TX 7 Business (Nacogdoches);tx.tx007busnac;Route Added
 2021-11-21;(USA) Texas;TX 21;tx.tx0021;Removed from TX 21 Business (Nacogdoches) and relocated onto the south side of TX Loop 224.
@@ -5842,7 +5858,7 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
-2021-12-17;Wisconsin (USA);WI 81;wi.wi081;Extended east from I-39/90 along new extension to I-43
+2021-12-17;(USA) Wisconsin;WI 81;wi.wi081;Extended east from I-39/90 along new extension to I-43
 2021-12-16;(USA) Wisconsin;WI 145;wi.wi145;Removed from Old Orchard Road between WI 100 and 124th Street, and relocated onto WI 100 and 24th Street
 2021-11-10;(USA) Wisconsin;WI 145;wi.wi145;Extended northern terminus west from I-41 to WI 175.
 2021-07-22;(USA) Wisconsin;WI 241;wi.wi241;Truncated from I-41/94 to 7MileRd
