@@ -385,6 +385,8 @@ date;region;route;root;description
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2021-12-20;Czechia;I37 (Pardubice);cze.i037;Route relocated from through Slatiňany and onto new bypass from I17 to II324
+2021-12-20;Czechia;II324;cze.ii324;Route extended at south end from I17 in Chrudim to I37 south of Slatiňany (partially former I37)
 2021-12-17;Czechia;D11;cze.d011;Route extended at east end from exit 90 (I11) to exit 113 north of Jaroměř
 2021-12-16;Czechia;D35 (Opatovice nad Labem);cze.d035opa;Route extended at east end from exit 131 (I37) to exit 144 (I36)
 2021-12-16;Czechia;D7 (Panenský Týnec);cze.d007pan;New Route
@@ -647,6 +649,12 @@ date;region;route;root;description
 2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
 2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
+2021-12-21;(France) Grand-Est;A4 (Metz);frages.a004;Route truncated at east end from exit 51 to exit 48 (M35-6ae now)
+2021-12-21;(France) Grand-Est;A35 (Strasbourg);frages.a035;Route truncated at south end from exit 18 to exit 48 (M35-6ae and A35 (Sélestat) now)
+2021-12-21;(France) Grand-Est;A35 (Sélestat);frages.a035sel;New route (former part of A35 (Strasbourg))
+2021-12-21;(France) Grand-Est;A351;frages.m03516ae;Route deleted (M351-6ae now)
+2021-12-21;(France) Grand-Est;A355;frages.a355;New route
+2021-12-21;(France) Grand-Est;E25;frages.e25;Route relocated from A4 and A35 through Strasbourg and onto A355 western bypass from A4/A35 interchange to A35/A352 interchange
 2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6ae now)
 2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6ae now)
 2021-01-11;(France) Grand-Est;N83;frages.d00836ae;Route deleted (D83-6ae now)
@@ -818,6 +826,7 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2021-12-20;(Germany) Baden-Württemberg;A98 (Lörrach);deubw.a098;Route extended at east end from exit 7 to 8
 2021-12-10;(Germany) Baden-Württemberg;B29a;deubw.b029a;New Route
 2021-08-28;(Germany) Baden-Württemberg;L495;deubw.l0495;New Route
 2021-08-28;(Germany) Baden-Württemberg;L415b;;Route removed
@@ -1759,11 +1768,13 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2021-12-19;Japan;E45 (Hachinohe);;Route deleted, merged into E45
+2021-12-19;Japan;E45;jpn.e045;Route extended at north end to E4A junction, including former E45 (Hachinohe) section
 2021-12-02;Japan;E42 (Kumano);;Route deleted, merged into E42 (Odai)
 2021-12-02;Japan;E42 (Odai);jpn.e042;Route extended at south end to exit 10, including former E42 (Kumano) section
 2021-12-01;Japan;E77 (Takachiho);jpn.e077tak;Route extended at east end from ToN218 to N218_Hir
-2021-11-30;Japan;E45 (Fudai);;Route deleted, merged into E45 (Ishinomaki)
-2021-11-30;Japan;E45 (Ishinomaki);jpn.e045;Route extended at north end to exit 60, including former E45 (Fudai) section
+2021-11-30;Japan;E45 (Fudai);;Route deleted, merged into E45
+2021-11-30;Japan;E45;jpn.e045;Route extended at north end to exit 60, including former E45 (Fudai) section
 2021-10-15;Japan;AH1;jpn.ah001;Route added
 2021-02-20;Jersey;B75;jey.b075;Route added
 2018-05-24;Jersey;A6;jey.a006;Route extended at south end from B84 to B77
@@ -2197,6 +2208,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2021-12-20;Poland;S2;pol.s002;Route extended at east end from R12 to exit R17
+2021-12-20;Poland;S2 (Jozefow);pol.s002;Route merged into main/Warszawa segment
+2021-12-20;Poland;E30;pol.e30;Route removed from DK92 and relocated onto S2 between S2 exit R12 and A2 exit 33
+2021-12-20;Poland;DK2 (Warsaw);pol.dk092min;Route deleted (now part of DK92 Minsk Mazowiecki section)
+2021-12-20;Poland;DK92 (Minsk Mazowiecki);pol.dk092min;Route extended at west end from DK17 to S2/S79 junction
 2021-12-16;Poland;S19 (Janów Lubelski);pol.s019jan;Route extended at north end from exit 50 to exit 45
 2021-12-16;Poland;S19 (Lublin);pol.s019lub;Route extended at south end from exit 41 to exit 43
 2021-12-16;Poland;DK19 (Kraśnik);pol.dk019kra;Route truncated at south end from S19 exit 50 to S19 exit 45 and truncated at north end from S19 exit 41 to S19 exit 42
@@ -2708,6 +2724,8 @@ date;region;route;root;description
 2015-10-17;Poland;S8 (Warsaw);pol.s008war;Route extended at west end from A2 to (new) western junction with DK7 and DK8
 2015-10-17;Poland;S8 (Zabki);pol.s008zab;New Route
 2015-10-17;Poland;S91;pol.s091;New Route
+2021-12-20;Portugal;A25;prt.a025;Route extended at east end from exit 33 to the Spanish border
+2021-12-20;Portugal;E80;prt.e80;Route relocated from through Vilar Formoso and onto new motorway bypass from A25 exit 33 to the Spanish border
 2020-10-18;Portugal;A26 (Santa Margarida do Sádão);prt.a026mar;New Route
 2020-10-18;Portugal;IP8 (Beja);prt.ip008;Route relocated from through Santa Margarida do Sádão and onto new A26 from west of Santa Margarida do Sádão to junction to Canhestros
 2017-07-29;Portugal;A16;prt.a016;Route truncated at east end from Estrada da Correia to exit 15
@@ -3049,6 +3067,8 @@ date;region;route;root;description
 2019-09-17;(Spain) Canary Islands;GC2 (Galdar);espcn.gc002;Route merged into main route
 2019-09-17;(Spain) Canary Islands;TF1;espcn.tf001;Route extended at west end from exit 87 to TF375
 2019-09-17;(Spain) Canary Islands;TF5;espcn.tf005;Route extended at east end from Avenida Reyes Catolicos to TF4/11, and at west end from exit 39 to TF82
+2021-12-20;(Spain) Castile and Leon;A62;espcl.a062;Route extended at west end from exit 351 to Portuguese border
+2021-12-20;(Spain) Castile and Leon;E80;espcl.e80;Route truncated at west end from Portuguese border to A62 exit 351 (along N620) and extended at west end from A62 exit 351 to Portuguese border (along A62)
 2021-11-05;(Spain) Castile and Leon;A73 (Quintanas de Valdelucio);espcl.a073qui;Route added
 2020-06-16;(Spain) Castile and Leon;A11 (Soto de San Esteban);espcl.a011sot;Route added
 2019-11-07;(Spain) Castile and Leon;A62;espcl.a062;Route extended at west end from temporary terminus at N620 to exit 351
@@ -5309,6 +5329,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2021-12-20;(USA) Pennsylvania;PA 267;pa.pa267;Realigned at western intersection at PA 706 between *OldPA267 and the relocated PA706_W.
 2021-11-24;(USA) Pennsylvania;PA 867 Truck (Roaring Spring);;Route deleted.
 2021-11-16;(USA) Pennsylvania;PA 550;pa.pa550;Realigned between *OldPA550 and its relocated intersection with PA 64.
 2021-11-13;(USA) Pennsylvania;PA 136;pa.pa136;Extended east from US 30 to Hamilton Ave (HamAve).
@@ -5575,6 +5596,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2021-12-19;(USA) Texas;I-69E;tx.i069e;Extended northward from US 77 Business (Raymondville) to Yturria Co Rd.
 2021-11-21;(USA) Texas;TX 7;tx.tx007;Removed from TX 7 Business (Nacogdoches) and relocated onto the south side of TX Loop 224.
 2021-11-21;(USA) Texas;TX 7 Business (Nacogdoches);tx.tx007busnac;Route Added
 2021-11-21;(USA) Texas;TX 21;tx.tx0021;Removed from TX 21 Business (Nacogdoches) and relocated onto the south side of TX Loop 224.
