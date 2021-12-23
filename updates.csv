@@ -649,12 +649,6 @@ date;region;route;root;description
 2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
 2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
-2021-12-21;(France) Grand-Est;A4 (Metz);frages.a004;Route truncated at east end from exit 51 to exit 48 (M35-6ae now)
-2021-12-21;(France) Grand-Est;A35 (Strasbourg);frages.a035;Route truncated at south end from exit 18 to exit 48 (M35-6ae and A35 (Sélestat) now)
-2021-12-21;(France) Grand-Est;A35 (Sélestat);frages.a035sel;New route (former part of A35 (Strasbourg))
-2021-12-21;(France) Grand-Est;A351;frages.m03516ae;Route deleted (M351-6ae now)
-2021-12-21;(France) Grand-Est;A355;frages.a355;New route
-2021-12-21;(France) Grand-Est;E25;frages.e25;Route relocated from A4 and A35 through Strasbourg and onto A355 western bypass from A4/A35 interchange to A35/A352 interchange
 2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6ae now)
 2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6ae now)
 2021-01-11;(France) Grand-Est;N83;frages.d00836ae;Route deleted (D83-6ae now)
@@ -2208,12 +2202,14 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
-2021-12-22;Poland;S7 (Płońsk);pol.s007plo;Route extended at north end from exit 49 to exit 41
-2021-12-22;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7 between S7 exits 41 and 49
-2021-12-22;Poland;DK7 (Mlawa);pol.dk007mla;Route truncated at south end from northern junction with DK50 to DW544 junction
-2021-12-22;Poland;DK63;pol.dk063;Route removed from Ulica Ostrowska and DK66 and relocated onto Ulica Lomzynska between Ulica Ostrowska and western junction with DK6
-2021-12-22;Poland;DK63 (Łomża);Route added
-2021-12-22;Poland;DK66;pol.dk066;Route extended at west end from southern junction with DK66 and western junction with Ulica Ostrowska
+2021-12-23;Poland;A1 (Gilwice);pol.a001gil;Route extended at north end from exit 31 to exit 28
+2021-12-23;Poland;S8 (Warszawa);pol.s008;Route removed from A1 (u-turning at A1 exit 27) and relocated onto direct sliproads between S8 exit 29 and A1 exit 26 (same junction)
+2021-12-23;Poland;E67;pol.e67;Route removed from A1 (u-turning at A1 exit 27) and relocated onto direct sliproads between exit 29 and A1 exit 26 (same junction)
+2021-12-23;Poland;DK1 (Czestochowa);pol.dk001;Route truncated at north end from A1 exit 27 to temporary terminus of southbound A1 near Kruszyna
+2021-12-23;Poland;DK1 (Piotrkow Trybunalski);pol.dk001pio;Route added (DK1 between A1 exits 27 and 28)s
+2021-12-23;Poland;DK63;pol.dk063;Route removed from Ulica Ostrowska and DK66 and relocated onto Ulica Lomzynska between Ulica Ostrowska and western junction with DK6
+2021-12-23;Poland;DK63 (Łomża);Route added
+2021-12-23;Poland;DK66;pol.dk066;Route extended at west end from southern junction with DK66 and western junction with Ulica Ostrowska
 2021-12-20;Poland;S2;pol.s002;Route extended at east end from R12 to exit R17
 2021-12-20;Poland;S2 (Jozefow);pol.s002;Route merged into main/Warszawa segment
 2021-12-20;Poland;E30;pol.e30;Route removed from DK92 and relocated onto S2 between S2 exit R12 and A2 exit 33
@@ -2764,7 +2760,6 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
-2021-12-22;Romania;DN5D;rou.dn05d;New Route
 2021-12-08;Romania;A3 (Iernut);rou.a003ier;New section opened between Ungheni and Targu Mures
 2021-12-08;Romania;DN15J;rou.dn15j;New Route
 2021-11-30;Romania;DN6H;rou.dn06h;New Route
