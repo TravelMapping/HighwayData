@@ -578,6 +578,13 @@ date;region;route;root;description
 2020-12-21;(Denmark) Faroe Islands;Lv98;fro.lv098;Route added (formerly Lv34)
 2020-08-21;Estonia;T2;est.t002;Route removed from Tallinn Mnt and relocated onto new expressway between 'ToT14' and T117
 2020-08-21;Estonia;E263;est.e263;Route removed from Tallinn Mnt and relocated onto new expressway between 'ToT14' and T117
+2021-12-23;Finland;Jyväskylän pohjoinen moottoritiet;fin.jyvpmoo;Route extended at north end between exit 55 (for St630) and exit 60
+2021-12-23;Finland;E75;fin.e75;Route removed from St624 and relocated onto Jyväskylän pohjoinen moottoritiet between exits 55 and 60
+2021-12-23;Finland;Vt4;fin.vt004;Route removed from St624 and relocated onto Jyväskylän pohjoinen moottoritiet between exits 55 and 60
+2021-12-23;Finland;Vt13;fin.vt013;Route removed from St624 and relocated onto Jyväskylän pohjoinen moottoritiet between exits 55 and 60
+2021-12-23;Finland;St601;fin.st601;Route added
+2021-12-23;Finland;St624;fin.st624;Route added
+2021-12-23;Finland;St632;fin.st632;Route extended at east end from Vt4/13 to St624
 2020-12-08;Finland;Lahden eteläinen kehätie;fin.lahkeha;Route added
 2020-12-08;Finland;Vt12;fin.vt012;Route removed from Hameenlinantie and Mannerhelminkatu and relocated onto Vt4 and Eteläinen Kehätie between exit 10 (Kt54) and northern junction with Vt4
 2020-11-27;Finland;St132;fin.st132;Route truncated at south end from Vt3 (exit 11) to junction with Klaukkalantie and extended at south end from junction with Klaukkalantie to Vt3 (exit 12)
@@ -2208,6 +2215,21 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2021-12-23;Poland;A1 (Gilwice);pol.a001gil;Route extended at north end from exit 31 to exit 28
+2021-12-23;Poland;S7 (Mlawa);pol.s007mla;Route added
+2021-12-23;Poland;S8 (Warszawa);pol.s008;Route removed from A1 (u-turning at A1 exit 27) and relocated onto direct sliproads between S8 exit 29 and A1 exit 26 (same junction)
+2021-12-23;Poland;S19 (Nisko);pol.s019rze;Route removed (merged into Rzeszów section)
+2021-12-23;Poland;S19 (Rzeszów);pol.s019rze;Route extended at north end from exit 59 to exit 54
+2021-12-23;Poland;E67;pol.e67;Route removed from A1 (u-turning at A1 exit 27) and relocated onto direct sliproads between exit 29 and A1 exit 26 (same junction)
+2021-12-23;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7/future S7 between S7 exit 39 and S7 temporary terminus near Wola Dluzniewska
+2021-12-23;Poland;DK1 (Czestochowa);pol.dk001;Route truncated at north end from A1 exit 27 to temporary terminus of southbound A1 near Kruszyna
+2021-12-23;Poland;DK1 (Piotrkow Trybunalski);pol.dk001pio;Route added (DK1 between A1 exits 27 and 28)
+2021-12-23;Poland;DK7 (Cieciorki);pol.dk007cie;Route added
+2021-12-23;Poland;DK7 (Mlawa);pol.dk007mla;Route reentered
+2021-12-23;Poland;DK19 (Sokolow Malopolski);pol.dw878;Route removed (now DW878)
+2021-12-23;Poland;DK63;pol.dk063;Route removed from Ulica Ostrowska and DK66 and relocated onto Ulica Lomzynska between Ulica Ostrowska and western junction with DK6
+2021-12-23;Poland;DK63 (Łomża);pol.dk063lom;Route added
+2021-12-23;Poland;DK66;pol.dk066;Route extended at west end from southern junction with DK66 and western junction with Ulica Ostrowska
 2021-12-20;Poland;S2;pol.s002;Route extended at east end from R12 to exit R17
 2021-12-20;Poland;S2 (Jozefow);pol.s002;Route merged into main/Warszawa segment
 2021-12-20;Poland;E30;pol.e30;Route removed from DK92 and relocated onto S2 between S2 exit R12 and A2 exit 33
@@ -3588,6 +3610,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-12-23;(UK) England;A120;eng.a0120;Route removed from Standon Road, Stortford Road and Hadham Road and relocated onto Little Hadham bypass between eastern junction with Standon Road and western junction with Hadham Road
 2021-12-16;(UK) England;A582;eng.a0582;Route extended at north end from southern junction with A59 to A59/A5072
 2021-12-16;(UK) England;A5072;eng.a5072;Route truncated at south end from A59_S to A59/A582
 2021-12-16;(UK) England;B5254;eng.b5254;Route extended at north end from LeyRd_N (formerly A5072) to A59/A582
