@@ -649,6 +649,9 @@ date;region;route;root;description
 2021-08-07;(France) Auvergne-Rhône-Alpes;E62 (Montlucon);fraara.e62;Route relocated from N79 and onto A79 from A71's new A79 junction to N79 east of Montmarault
 2019-10-31;(France) Auvergne-Rhône-Alpes;N7;fraara.n007;Route relocated from through Villeneuve-sur-Allier and onto bypass from D707_ViN to D707_ViS
 2019-10-31;(France) Auvergne-Rhône-Alpes;Autoroute du Soleil, Lyon;fraara.autsol;Route added
+2021-12-26;(France) Brittany;N165;frabre.n165;Renumbered all exit numbers between exit 28 and 36 (decreased by 1)
+2021-12-26;(France) Brittany;E60;frabre.e60;Renumbered all exit numbers between exit 28 and 36 (decreased by 1)
+2021-12-26;(France) Brittany;D137;frabre.d137;Route truncated at south end in Rennes from Rond-Point de la Robiquette to N136
 2021-10-26;(France) Bourgogne-Franche-Comté;N19;frabfc.n019;Route relocated from through Port-sur-Saône and onto new bypass from west of D56 to D434 at Charmoille
 2021-10-26;(France) Bourgogne-Franche-Comté;E54 (Belfort);frabfc.e54;Route relocated from through Port-sur-Saône and onto new bypass from west of D56 to D434 at Charmoille
 2019-11-08;(France) Bourgogne-Franche-Comté;N19;frabfc.n019;Re-entered route (swapped with GES file to be in correct regions)
@@ -899,6 +902,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2021-12-25;(Germany) Bavaria;B2 (Zedtwitz);;Route deleted
 2021-11-20;(Germany) Bavaria;B303 (Kronach);deuby.b303;Route relocated from through Stadtsteinach and onto bypass from Kronacher Straße to Ziegelhütte
 2021-08-22;(Germany) Bavaria;B289 (Kulmbach);deuby.b289;Route relocated from through Münchberg and onto bypass from Kulmbacher Straße to Eiben
 2021-08-21;(Germany) Bavaria;St2124;deuby.st2124;Route relocated from through Plattling and onto new bypass from Scheiblerstraße to B8
@@ -1006,8 +1010,10 @@ date;region;route;root;description
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2021-12-25;(Germany) Lower Saxony;B1 (Coppenbrügge);;Route deleted
+2021-12-25;(Germany) Lower Saxony;B442 (Bad Nenndorf);deuni.b442;Route truncated at south end from junction with old B1 in Coppenbrügge to junction with new B1 bypass
 2021-10-05;(Germany) Lower Saxony;B72;deuni.b072;Route truncated at north end from ferry terminal Norddeich to Hafenstraße
-2021-08-22;(Germany) Lower Saxony;B1 (Coppenbrügge);deuni.b001cop;New Route
+2021-08-22;(Germany) Lower Saxony;B1 (Coppenbrügge);;New Route
 2021-08-22;(Germany) Lower Saxony;B1 (Hildesheim);deuni.b001;Route relocated from through Coppenbrügge and onto bypass from L423 to west of Marienau
 2021-06-16;(Germany) Lower Saxony;B212 (Berne);deuni.b212ber;Route extended at south end from Ranzenbüttel (B74) to Motzen (L875)
 2021-06-03;(Germany) Lower Saxony;B211;deuni.b211;Route relocated from through Oldenbrok-Mittelort and onto new bypass from B211A to B212
@@ -1046,6 +1052,7 @@ date;region;route;root;description
 2016-08-08;(Germany) Lower Saxony;Nordtangente Oldenburg;deuni.nordtanold;New Route
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route extended at east end from exit 5 to exit 6
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route relabeled exit 1 as exit 2, and exit 2 as exit 3
+2021-12-25;(Germany) Mecklenburg-Western Pomerania;B103 (Güstrow);deumv.b103;Route truncated at south end from L37 to B104 in Güstrow (B104 now)
 2020-03-03;(Germany) Mecklenburg-Western Pomerania;B96 (Neubrandenburg);;Route removed
 2019-12-20;(Germany) Mecklenburg-Western Pomerania;B96 (Neubrandenburg);deumv.b096nbr;New Route
 2019-12-20;(Germany) Mecklenburg-Western Pomerania;E251;deumv.e251;Route relocated from through the center of Neubrandenburg and onto new B96 bypass between Woldegker Straße and Neustrelitzer Straße
@@ -1054,6 +1061,9 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2021-12-25;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route truncated at west end from L117 to B221
+2021-12-25;(Germany) North Rhine-Westphalia;L47 (Gangelt);deunw.l047gan;Route relocated in Gangelt from Frankenstraße and Sittarder Straße, and onto Luisenring, Franz-Savels-Straße and Martin-May-Straße
+2021-12-25;(Germany) North Rhine-Westphalia;L269 (Rheidt);deunw.l269rhe;New Route
 2021-10-12;(Germany) North Rhine-Westphalia;Mercatorstraße Köln;;Route deleted
 2021-10-03;(Germany) North Rhine-Westphalia;B59;deunw.b059;Route relocated in Mönchengladbach from Wilhelm-Schiffer-Straße and onto Odenkirchener Straße and Friedrich-Ebert-Straße	between Moses-Stern-Straße and Mühlenstraße
 2021-10-03;(Germany) North Rhine-Westphalia;B230;deunw.b230;Route truncated at west end in Mönchengladbach from B57 (Sternstraße) to B59 (Duvenstraße)
@@ -1149,6 +1159,7 @@ date;region;route;root;description
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2021-12-25;(Germany) Rhineland-Palatinate;B41;deurp.b041;Route relocated from through Hochstetten-Dhaun and onto new bypass from Bingener Landstraße to L183
 2021-05-23;(Germany) Rhineland-Palatinate;A64;deurp.a064;Route extended at east end from exit 4 to A602 (former B52)
 2021-05-23;(Germany) Rhineland-Palatinate;B52 (Trier);deurp.a064;Route deleted (A64 now)
 2020-12-25;(Germany) Rhineland-Palatinate;L509 (Bellheim);deurp.l509bel;New Route
@@ -1218,6 +1229,8 @@ date;region;route;root;description
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2021-12-25;(Germany) Thuringia;L1172;deuth.l1172;Route truncated from Artern (L3086) to west of Ringleben and reextended onto Ringleben bypass to A71
+2021-12-25;(Germany) Thuringia;L1172 (Artern);deuth.l1172;Merged into main route
 2021-10-07;(Germany) Thuringia;L1056 (Schloßvippach);;Route deleted
 2021-01-30;(Germany) Thuringia;L1048 (Rudolstadt);deuth.b090sta;Route deleted (B90 now)
 2021-01-30;(Germany) Thuringia;B90 (Stadtilm);deuth.b090sta;Route extended at east end from Nahwinden to Rudolstadt (former L1048)
@@ -2037,6 +2050,8 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2021-12-25;Norway;E39 (Stavanger);nor.e39;Route relocated from old alignment (Fv439 now) to new motorway alignment from exit 9 to exit 10 and new Sandnesheitunnelen section between Fv459 and Mandal
+2021-12-25;Norway;Kristiansand - Stavanger Motorveien;nor.kristamot;New Route
 2021-12-10;Norway;E6;nor.e6;Route relocated from through Kvål and onto new bypass from Hofstadkrysset to Fv6612 south of Kvål
 2021-02-06;Norway;Rv83 (Harstad);nor.rv083har;New Route
 2020-11-22;Norway;Rv509;nor.rv509;Route truncated at north end from Stavanger Motorveien to Kvernavik (Fv441 now)
@@ -3340,7 +3355,7 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
 2020-12-17;Sweden;Marieholmstunneln, Göteborg;swe.martun;New Route
-2020-12-11;Sweden;Alingsås - Vårgårda motorvägen;swe.angvarmot;New Route
+2020-12-11;Sweden;Göteborg - Vårgårda motorvägen (Alingsås);swe.gotvarmotali;New Route
 2020-12-11;Sweden;E20;swe.e20;Route relocated onto new motorway between Alingsås (exit 94.5) and Vårgårda (exit 95.1)
 2020-12-11;Sweden;Lund - Kristianstad motorvägen (Linderöd);swe.lundkrimotlin;Route extended at east end from east of Linderöd (exit 34) to Fjälkinge (exit 41)
 2020-12-11;Sweden;Kristianstad motorvägen;swe.lundkrimotlin;Route merged into Lund - Kristianstad motorvägen (Linderöd)
@@ -3378,7 +3393,6 @@ date;region;route;root;description
 2020-08-08;Sweden;Gävle - Sandviken motorvägen;swe.gavsanmot;Route extended at east end from exit 199 to Regementsvägen
 2020-08-08;Sweden;Arlandaleden, Stockholm;swe.arlled;Route truncated at north end (not signed as motorway) from Arlanda Airport to Brovägen exit
 2020-08-08;Sweden;Arlandaleden, Stockholm;swe.arlled;Route truncated at south end (not signed as motorway) from L263 to E4 (concurrent with L273)
-2020-08-08;Sweden;Göteborg - Vårgårda motorvägen (Alingsås);swe.gotvarmotali;New Route
 2020-08-08;Sweden;Göteborg - Vårgårda motorvägen (Göteborg);swe.gotvarmot;New Route
 2020-08-08;Sweden;Alingsåsleden, Göteborg;swe.gotvarmot;Route deleted (mostly Göteborg - Vårgårda now)
 2017-12-20;Sweden;Lund - Linderöd motorvägen;swe.lundlinmot;Route extended at east end from exit "Trafikplats Linderöd Väst" to exit "Trafikplats Spangårp"
