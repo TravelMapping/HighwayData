@@ -304,6 +304,9 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
+2021-12-23;(Canada) Quebec;QC 185;qc.qc185;In St-Honore-de-Temiscuota, route relocated from Route Gerard-Roy north to new freeway segment
+2021-12-23;(Canada) Quebec;TCH (Main);qc.tchmai;In St-Honore-de-Temiscuota, route relocated from Route Gerard-Roy north to new freeway segment
+2021-12-23;(Canada) Quebec;QC 291;qc.qc291;South end in St-Honore-de-Temiscuota relabeled to RteGerRoy (former QC 185), and new QC185 waypoint added at new QC 185 interchange
 2021-07-15;(Canada) Quebec;A-720;;Route deleted, replaced with new Montreal segment of QC 136
 2021-07-15;(Canada) Quebec;QC 136 (Montreal);qc.qc136mon;New route, replacing decommissioned A-720
 2021-07-15;(Canada) Quebec;A-85;qc.a085;Route extended southeast about 11 km to new junction with QC 185 in Saint-Antonin
@@ -578,6 +581,13 @@ date;region;route;root;description
 2020-12-21;(Denmark) Faroe Islands;Lv98;fro.lv098;Route added (formerly Lv34)
 2020-08-21;Estonia;T2;est.t002;Route removed from Tallinn Mnt and relocated onto new expressway between 'ToT14' and T117
 2020-08-21;Estonia;E263;est.e263;Route removed from Tallinn Mnt and relocated onto new expressway between 'ToT14' and T117
+2021-12-23;Finland;Jyväskylän pohjoinen moottoritiet;fin.jyvpmoo;Route extended at north end between exit 55 (for St630) and exit 60
+2021-12-23;Finland;E75;fin.e75;Route removed from St624 and relocated onto Jyväskylän pohjoinen moottoritiet between exits 55 and 60
+2021-12-23;Finland;Vt4;fin.vt004;Route removed from St624 and relocated onto Jyväskylän pohjoinen moottoritiet between exits 55 and 60
+2021-12-23;Finland;Vt13;fin.vt013;Route removed from St624 and relocated onto Jyväskylän pohjoinen moottoritiet between exits 55 and 60
+2021-12-23;Finland;St601;fin.st601;Route added
+2021-12-23;Finland;St624;fin.st624;Route added
+2021-12-23;Finland;St632;fin.st632;Route extended at east end from Vt4/13 to St624
 2020-12-08;Finland;Lahden eteläinen kehätie;fin.lahkeha;Route added
 2020-12-08;Finland;Vt12;fin.vt012;Route removed from Hameenlinantie and Mannerhelminkatu and relocated onto Vt4 and Eteläinen Kehätie between exit 10 (Kt54) and northern junction with Vt4
 2020-11-27;Finland;St132;fin.st132;Route truncated at south end from Vt3 (exit 11) to junction with Klaukkalantie and extended at south end from junction with Klaukkalantie to Vt3 (exit 12)
@@ -639,6 +649,9 @@ date;region;route;root;description
 2021-08-07;(France) Auvergne-Rhône-Alpes;E62 (Montlucon);fraara.e62;Route relocated from N79 and onto A79 from A71's new A79 junction to N79 east of Montmarault
 2019-10-31;(France) Auvergne-Rhône-Alpes;N7;fraara.n007;Route relocated from through Villeneuve-sur-Allier and onto bypass from D707_ViN to D707_ViS
 2019-10-31;(France) Auvergne-Rhône-Alpes;Autoroute du Soleil, Lyon;fraara.autsol;Route added
+2021-12-26;(France) Brittany;N165;frabre.n165;Renumbered all exit numbers between exit 28 and 36 (decreased by 1)
+2021-12-26;(France) Brittany;E60;frabre.e60;Renumbered all exit numbers between exit 28 and 36 (decreased by 1)
+2021-12-26;(France) Brittany;D137;frabre.d137;Route truncated at south end in Rennes from Rond-Point de la Robiquette to N136
 2021-10-26;(France) Bourgogne-Franche-Comté;N19;frabfc.n019;Route relocated from through Port-sur-Saône and onto new bypass from west of D56 to D434 at Charmoille
 2021-10-26;(France) Bourgogne-Franche-Comté;E54 (Belfort);frabfc.e54;Route relocated from through Port-sur-Saône and onto new bypass from west of D56 to D434 at Charmoille
 2019-11-08;(France) Bourgogne-Franche-Comté;N19;frabfc.n019;Re-entered route (swapped with GES file to be in correct regions)
@@ -889,6 +902,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2021-12-25;(Germany) Bavaria;B2 (Zedtwitz);;Route deleted
 2021-11-20;(Germany) Bavaria;B303 (Kronach);deuby.b303;Route relocated from through Stadtsteinach and onto bypass from Kronacher Straße to Ziegelhütte
 2021-08-22;(Germany) Bavaria;B289 (Kulmbach);deuby.b289;Route relocated from through Münchberg and onto bypass from Kulmbacher Straße to Eiben
 2021-08-21;(Germany) Bavaria;St2124;deuby.st2124;Route relocated from through Plattling and onto new bypass from Scheiblerstraße to B8
@@ -996,8 +1010,10 @@ date;region;route;root;description
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2021-12-25;(Germany) Lower Saxony;B1 (Coppenbrügge);;Route deleted
+2021-12-25;(Germany) Lower Saxony;B442 (Bad Nenndorf);deuni.b442;Route truncated at south end from junction with old B1 in Coppenbrügge to junction with new B1 bypass
 2021-10-05;(Germany) Lower Saxony;B72;deuni.b072;Route truncated at north end from ferry terminal Norddeich to Hafenstraße
-2021-08-22;(Germany) Lower Saxony;B1 (Coppenbrügge);deuni.b001cop;New Route
+2021-08-22;(Germany) Lower Saxony;B1 (Coppenbrügge);;New Route
 2021-08-22;(Germany) Lower Saxony;B1 (Hildesheim);deuni.b001;Route relocated from through Coppenbrügge and onto bypass from L423 to west of Marienau
 2021-06-16;(Germany) Lower Saxony;B212 (Berne);deuni.b212ber;Route extended at south end from Ranzenbüttel (B74) to Motzen (L875)
 2021-06-03;(Germany) Lower Saxony;B211;deuni.b211;Route relocated from through Oldenbrok-Mittelort and onto new bypass from B211A to B212
@@ -1036,6 +1052,7 @@ date;region;route;root;description
 2016-08-08;(Germany) Lower Saxony;Nordtangente Oldenburg;deuni.nordtanold;New Route
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route extended at east end from exit 5 to exit 6
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route relabeled exit 1 as exit 2, and exit 2 as exit 3
+2021-12-25;(Germany) Mecklenburg-Western Pomerania;B103 (Güstrow);deumv.b103;Route truncated at south end from L37 to B104 in Güstrow (B104 now)
 2020-03-03;(Germany) Mecklenburg-Western Pomerania;B96 (Neubrandenburg);;Route removed
 2019-12-20;(Germany) Mecklenburg-Western Pomerania;B96 (Neubrandenburg);deumv.b096nbr;New Route
 2019-12-20;(Germany) Mecklenburg-Western Pomerania;E251;deumv.e251;Route relocated from through the center of Neubrandenburg and onto new B96 bypass between Woldegker Straße and Neustrelitzer Straße
@@ -1044,6 +1061,9 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2021-12-25;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route truncated at west end from L117 to B221
+2021-12-25;(Germany) North Rhine-Westphalia;L47 (Gangelt);deunw.l047gan;Route relocated in Gangelt from Frankenstraße and Sittarder Straße, and onto Luisenring, Franz-Savels-Straße and Martin-May-Straße
+2021-12-25;(Germany) North Rhine-Westphalia;L269 (Rheidt);deunw.l269rhe;New Route
 2021-10-12;(Germany) North Rhine-Westphalia;Mercatorstraße Köln;;Route deleted
 2021-10-03;(Germany) North Rhine-Westphalia;B59;deunw.b059;Route relocated in Mönchengladbach from Wilhelm-Schiffer-Straße and onto Odenkirchener Straße and Friedrich-Ebert-Straße	between Moses-Stern-Straße and Mühlenstraße
 2021-10-03;(Germany) North Rhine-Westphalia;B230;deunw.b230;Route truncated at west end in Mönchengladbach from B57 (Sternstraße) to B59 (Duvenstraße)
@@ -1139,6 +1159,7 @@ date;region;route;root;description
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2021-12-25;(Germany) Rhineland-Palatinate;B41;deurp.b041;Route relocated from through Hochstetten-Dhaun and onto new bypass from Bingener Landstraße to L183
 2021-05-23;(Germany) Rhineland-Palatinate;A64;deurp.a064;Route extended at east end from exit 4 to A602 (former B52)
 2021-05-23;(Germany) Rhineland-Palatinate;B52 (Trier);deurp.a064;Route deleted (A64 now)
 2020-12-25;(Germany) Rhineland-Palatinate;L509 (Bellheim);deurp.l509bel;New Route
@@ -1208,6 +1229,8 @@ date;region;route;root;description
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2021-12-25;(Germany) Thuringia;L1172;deuth.l1172;Route truncated from Artern (L3086) to west of Ringleben and reextended onto Ringleben bypass to A71
+2021-12-25;(Germany) Thuringia;L1172 (Artern);deuth.l1172;Merged into main route
 2021-10-07;(Germany) Thuringia;L1056 (Schloßvippach);;Route deleted
 2021-01-30;(Germany) Thuringia;L1048 (Rudolstadt);deuth.b090sta;Route deleted (B90 now)
 2021-01-30;(Germany) Thuringia;B90 (Stadtilm);deuth.b090sta;Route extended at east end from Nahwinden to Rudolstadt (former L1048)
@@ -2027,6 +2050,8 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2021-12-25;Norway;E39 (Stavanger);nor.e39;Route relocated from old alignment (Fv439 now) to new motorway alignment from exit 9 to exit 10 and new Sandnesheitunnelen section between Fv459 and Mandal
+2021-12-25;Norway;Kristiansand - Stavanger Motorveien;nor.kristamot;New Route
 2021-12-10;Norway;E6;nor.e6;Route relocated from through Kvål and onto new bypass from Hofstadkrysset to Fv6612 south of Kvål
 2021-02-06;Norway;Rv83 (Harstad);nor.rv083har;New Route
 2020-11-22;Norway;Rv509;nor.rv509;Route truncated at north end from Stavanger Motorveien to Kvernavik (Fv441 now)
@@ -2208,6 +2233,22 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2021-12-30;Poland;S61 (Suwalki);pol.s061;Route extended at south end from exit 16 to exit 15
+2021-12-23;Poland;A1 (Gilwice);pol.a001gil;Route extended at north end from exit 31 to exit 28
+2021-12-23;Poland;S7 (Mlawa);pol.s007mla;Route added
+2021-12-23;Poland;S8 (Warszawa);pol.s008;Route removed from A1 (u-turning at A1 exit 27) and relocated onto direct sliproads between S8 exit 29 and A1 exit 26 (same junction)
+2021-12-23;Poland;S19 (Nisko);pol.s019rze;Route removed (merged into Rzeszów section)
+2021-12-23;Poland;S19 (Rzeszów);pol.s019rze;Route extended at north end from exit 59 to exit 54
+2021-12-23;Poland;E67;pol.e67;Route removed from A1 (u-turning at A1 exit 27) and relocated onto direct sliproads between exit 29 and A1 exit 26 (same junction)
+2021-12-23;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7/future S7 between S7 exit 39 and S7 temporary terminus near Wola Dluzniewska
+2021-12-23;Poland;DK1 (Czestochowa);pol.dk001;Route truncated at north end from A1 exit 27 to temporary terminus of southbound A1 near Kruszyna
+2021-12-23;Poland;DK1 (Piotrkow Trybunalski);pol.dk001pio;Route added (DK1 between A1 exits 27 and 28)
+2021-12-23;Poland;DK7 (Cieciorki);pol.dk007cie;Route added
+2021-12-23;Poland;DK7 (Mlawa);pol.dk007mla;Route reentered
+2021-12-23;Poland;DK19 (Sokolow Malopolski);pol.dw878;Route removed (now DW878)
+2021-12-23;Poland;DK63;pol.dk063;Route removed from Ulica Ostrowska and DK66 and relocated onto Ulica Lomzynska between Ulica Ostrowska and western junction with DK6
+2021-12-23;Poland;DK63 (Łomża);pol.dk063lom;Route added
+2021-12-23;Poland;DK66;pol.dk066;Route extended at west end from southern junction with DK66 and western junction with Ulica Ostrowska
 2021-12-20;Poland;S2;pol.s002;Route extended at east end from R12 to exit R17
 2021-12-20;Poland;S2 (Jozefow);pol.s002;Route merged into main/Warszawa segment
 2021-12-20;Poland;E30;pol.e30;Route removed from DK92 and relocated onto S2 between S2 exit R12 and A2 exit 33
@@ -2758,6 +2799,7 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2021-12-22;Romania;DN5D;rou.dn05d;New Route
 2021-12-08;Romania;A3 (Iernut);rou.a003ier;New section opened between Ungheni and Targu Mures
 2021-12-08;Romania;DN15J;rou.dn15j;New Route
 2021-11-30;Romania;DN6H;rou.dn06h;New Route
@@ -3314,7 +3356,7 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
 2020-12-17;Sweden;Marieholmstunneln, Göteborg;swe.martun;New Route
-2020-12-11;Sweden;Alingsås - Vårgårda motorvägen;swe.angvarmot;New Route
+2020-12-11;Sweden;Göteborg - Vårgårda motorvägen (Alingsås);swe.gotvarmotali;New Route
 2020-12-11;Sweden;E20;swe.e20;Route relocated onto new motorway between Alingsås (exit 94.5) and Vårgårda (exit 95.1)
 2020-12-11;Sweden;Lund - Kristianstad motorvägen (Linderöd);swe.lundkrimotlin;Route extended at east end from east of Linderöd (exit 34) to Fjälkinge (exit 41)
 2020-12-11;Sweden;Kristianstad motorvägen;swe.lundkrimotlin;Route merged into Lund - Kristianstad motorvägen (Linderöd)
@@ -3352,7 +3394,6 @@ date;region;route;root;description
 2020-08-08;Sweden;Gävle - Sandviken motorvägen;swe.gavsanmot;Route extended at east end from exit 199 to Regementsvägen
 2020-08-08;Sweden;Arlandaleden, Stockholm;swe.arlled;Route truncated at north end (not signed as motorway) from Arlanda Airport to Brovägen exit
 2020-08-08;Sweden;Arlandaleden, Stockholm;swe.arlled;Route truncated at south end (not signed as motorway) from L263 to E4 (concurrent with L273)
-2020-08-08;Sweden;Göteborg - Vårgårda motorvägen (Alingsås);swe.gotvarmotali;New Route
 2020-08-08;Sweden;Göteborg - Vårgårda motorvägen (Göteborg);swe.gotvarmot;New Route
 2020-08-08;Sweden;Alingsåsleden, Göteborg;swe.gotvarmot;Route deleted (mostly Göteborg - Vårgårda now)
 2017-12-20;Sweden;Lund - Linderöd motorvägen;swe.lundlinmot;Route extended at east end from exit "Trafikplats Linderöd Väst" to exit "Trafikplats Spangårp"
@@ -3513,6 +3554,7 @@ date;region;route;root;description
 2015-07-15;Tajikistan;E123;tjk.e123;Truncated at south end from 'End' to Aral
 2015-07-15;Tajikistan;E123;tjk.e123;Extended at south end from Aral to Afghan border
 2015-07-15;Tajikistan;E123 (Lyagin);;Deleted route
+2021-12-28;Tunisia;A1;tun.a001;Route extended at south end from exit 28 to exit 29
 2021-03-10;Tunisia;A1 (Ben Gardane);tun.a001ben;Route extended from RN1 at Ben Gardane to RN1 at Ra's Ajdir
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
@@ -3587,6 +3629,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-12-23;(UK) England;A120;eng.a0120;Route removed from Standon Road, Stortford Road and Hadham Road and relocated onto Little Hadham bypass between eastern junction with Standon Road and western junction with Hadham Road
 2021-12-16;(UK) England;A582;eng.a0582;Route extended at north end from southern junction with A59 to A59/A5072
 2021-12-16;(UK) England;A5072;eng.a5072;Route truncated at south end from A59_S to A59/A582
 2021-12-16;(UK) England;B5254;eng.b5254;Route extended at north end from LeyRd_N (formerly A5072) to A59/A582
