@@ -245,6 +245,8 @@ date;region;route;root;description
 2016-11-19;(Canada) Nova Scotia;TCH (Main);ns.tchmai;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-02-27;(Canada) Nova Scotia;NS 255;ns.ns255;Removed from a closed roadway and demolished bridge, and relocated onto a new parallel roadway and bridge to the east between points labeled *OldNS255_N and *OldNS255_S
 2016-01-02;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from partially-closed local roads through Port Joli and East Port L'Hebert, and relocated onto a limited-access bypass to the north, between closed intersections labeled *OldNS103_PJo and *OldNS103_EPL
+2022-01-01;(Canada) Ontario;ON 69;on.on069;Rerouted onto a new freeway alignment in Bigwood/French River area, between the points of *OldON69_Gru & *OldON69_NoeS that opened mid 2021. The old highway became just local access between those two points.
+2022-01-01;(Canada) Ontario;TCH (Georgian Bay);on.tchgeo;Rerouted onto a new ON 69 freeway alignment in Bigwood/French River area, between the points of *OldON69_Gru & *OldON69_NoeS that opened mid 2021. The old highway became just local access between those two points.
 2021-09-20;(Canada) Ontario;ON 427;on.on427;Extended at northern end from Exit 21 (Highway 7) to the newly opened Major Mackenzie Drive interchange.
 2021-04-04;(Canada) Ontario;ON 17;on.on017;Rerouted onto a brand new alignment to the west of Ignace which bypassed a big curve and straighend the highway between the points of *OldON17_IgnW (km 259) & *OldON17_IgnE (km 262). This reroute happend sometime after October 2018.
 2021-04-04;(Canada) Ontario;TCH (Lake Superior);on.tchlak;Rerouted onto a brand new alignment to the west of Ignace which bypassed a big curve and straighend the highway between the points of *OldON17_IgnW (km 259) & *OldON17_IgnE (km 262). This reroute happend sometime after October 2018.
@@ -1061,6 +1063,10 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2022-01-02;(Germany) North Rhine-Westphalia;B480;deunw.b480;Route relocated from through Bad Wünnenberg and onto new bypass from L549 to L956
+2022-01-02;(Germany) North Rhine-Westphalia;L549 (Bad Wünnenberg);deunw.l549wun;New Route (fromer B480)
+2022-01-02;(Germany) North Rhine-Westphalia;L751;deunw.l751;Route truncated at south end from Bad Wünnenberg (B480) to Haaren (L636)
+2022-01-02;(Germany) North Rhine-Westphalia;L956;deunw.l956;Route extended at north end from old B480 (Burgstraße) to new B480
 2021-12-25;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route truncated at west end from L117 to B221
 2021-12-25;(Germany) North Rhine-Westphalia;L47 (Gangelt);deunw.l047gan;Route relocated in Gangelt from Frankenstraße and Sittarder Straße, and onto Luisenring, Franz-Savels-Straße and Martin-May-Straße
 2021-12-25;(Germany) North Rhine-Westphalia;L269 (Rheidt);deunw.l269rhe;New Route
@@ -2233,6 +2239,7 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2021-12-30;Poland;S61 (Suwalki);pol.s061;Route extended at south end from exit 16 to exit 15
 2021-12-23;Poland;A1 (Gilwice);pol.a001gil;Route extended at north end from exit 31 to exit 28
 2021-12-23;Poland;S7 (Mlawa);pol.s007mla;Route added
 2021-12-23;Poland;S8 (Warszawa);pol.s008;Route removed from A1 (u-turning at A1 exit 27) and relocated onto direct sliproads between S8 exit 29 and A1 exit 26 (same junction)
@@ -3628,6 +3635,11 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-12-31;(UK) England;A1231;eng.a1231;Route removed from Pallion New Road and relocated onto Cowies Way between Paul Watson Way and B1405
+2021-12-31;(UK) England;A2690;eng.a2690;Route extended at north end from B2092 to A2100
+2021-12-31;(UK) England;A3259;eng.a3259;Route removed from Monkton Heathfield Road and Yallands Hill and relocated onto Western Relief Road and Milton Hill between eastern junction with Yallands Hill and (relocated) A38 junction
+2021-12-31;(UK) England;B1405;eng.b1405;Route extended at east end from Pallion Subway (formerly A1231) to A1231
+2021-12-31;(UK) England;B2092;eng.b2092;Route truncated at north end from A2100 to A2690
 2021-12-23;(UK) England;A120;eng.a0120;Route removed from Standon Road, Stortford Road and Hadham Road and relocated onto Little Hadham bypass between eastern junction with Standon Road and western junction with Hadham Road
 2021-12-16;(UK) England;A582;eng.a0582;Route extended at north end from southern junction with A59 to A59/A5072
 2021-12-16;(UK) England;A5072;eng.a5072;Route truncated at south end from A59_S to A59/A582
@@ -4230,6 +4242,13 @@ date;region;route;root;description
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
+2022-01-01;(USA) Georgia;Sugarloaf Parkway;ga.sugpkwy;Route added.
+2022-01-01;(USA) Georgia;GA 17;ga.ga017;Relocated off Louisville Rd and Bloomingdale Rd onto Jimmy Deloach Pkwy at south end.
+2022-01-01;(USA) Georgia;GA 17 Conn (Bloomingdale);ga.ga017conblo;Route added.
+2022-01-01;(USA) Georgia;GA 53;ga.ga053;Relocated along Union Grove Rd south of Calhoun.
+2022-01-01;(USA) Georgia;GA 53 Conn (Calhoun);ga.ga053concal;Extended south end to new GA 53 turnoff. 
+2022-01-01;(USA) Georgia;GA 92;ga.ga092;Relocated between Fairburn Rd and Old Dallas Rd onto bypass around east side of Douglasville.
+2022-01-01;(USA) Georgia;US 78;ga.us078;Relocated intersection with GA 92, removing concurrency with same.
 2021-04-10;(USA) Georgia;US 41 Truck (Ringgold);ga.us041trkrin;Route added.
 2021-04-10;(USA) Georgia;US 76 Truck (Ringgold);ga.us076trkrin;Route added.
 2021-03-28;(USA) Georgia;GA 3;ga.ga003;Relocated between OldDixRd_S and OldDixRd_N to new pavement to the east.
@@ -4331,6 +4350,7 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 31;il.il031;Relocated in Algonquin from Main Street between Huntington Drive and Elmwood Court, west onto new bypass
 2015-09-06;(USA) Illinois;IL 62;il.il062;Extended west in Algongquin, along Algonquin Road from Main Street (old IL 31) to new IL 31 bypass
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
+2022-01-01;(USA) Indiana;I-69 (Wheatonville);in.i069whe;Extended at north end from exit 134 to exit 140A
 2021-07-28;(USA) Indiana;I-65;in.i065;Added waypoint 262A at ramps to/from US12/20
 2021-07-28;(USA) Indiana;I-90;in.i090;Added waypoint 5A at ramp from US 41 to eastbound I-90
 2021-11-30;(USA) Indiana;IN 111;in.in111;Truncated at south end from New Boston to IN 211
@@ -4433,6 +4453,7 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2022-01-01;(USA) Kentucky;KY 622;ky.ky0622;Extended at south end from KY 100 to KY 73
 2021-12-15;(USA) Kentucky;KY 627 Truck (Winchester);ky.ky0627trkwin;Route added
 2021-12-07;(USA) Kentucky;KY 1679;ky.ky1679;Extended at east end from Harlan/Letcher county line to US 119
 2021-11-30;(USA) Kentucky;KY 267;ky.ky0267;Junction with KY 15 split creating short concurrency
@@ -5044,6 +5065,7 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2022-01-03;(USA) New York;Hutchinson River Parkway;ny.hutrivpkwy;Relabeled exits from sequential to mileage-based.
 2021-08-12;(USA) New York;NY 97;ny.ny097;Removed from Front St in Hancock and relocated onto Main St and Read St. This is only a correction to Travel Mapping's data, and does not reflect an actual change in routing.
 2021-02-09;(USA) New York;Inner Loop;ny.innloop;Route added.
 2021-01-26;(USA) New York;NY 107;ny.ny107;North end truncated from Glen Cove Avenue to Pulaski Street.
@@ -5638,6 +5660,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2022-01-01;(USA) Texas;I-69;tx.i069;Extended southward from a closed intersection with TX Spur 529 to Exit 94.
 2021-12-19;(USA) Texas;I-69E;tx.i069e;Extended northward from US 77 Business (Raymondville) to Yturria Co Rd.
 2021-11-21;(USA) Texas;TX 7;tx.tx007;Removed from TX 7 Business (Nacogdoches) and relocated onto the south side of TX Loop 224.
 2021-11-21;(USA) Texas;TX 7 Business (Nacogdoches);tx.tx007busnac;Route Added
