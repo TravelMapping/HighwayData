@@ -15,4 +15,5 @@ FRA-56 = `Mor` = Morbihan
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-56 - Morbihan:*
+- `D316` end not clear, route was downgraded through Baden between 2018 and 2021 (GSV from `D101` junction) but GSV south of it is still from 2018 only
