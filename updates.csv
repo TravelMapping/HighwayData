@@ -842,6 +842,7 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2022-01-07;(Germany) Baden-Württemberg;B34n;deubw.b034n;New Route
 2021-12-20;(Germany) Baden-Württemberg;A98 (Lörrach);deubw.a098;Route extended at east end from exit 7 to 8
 2021-12-10;(Germany) Baden-Württemberg;B29a;deubw.b029a;New Route
 2021-08-28;(Germany) Baden-Württemberg;L495;deubw.l0495;New Route
@@ -1064,8 +1065,11 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2022-01-07;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route extended at east end from L277 to end point south of Tagebau Garzweiler (former segment of L277)
+2022-01-07;(Germany) North Rhine-Westphalia;L277 (Mönchengladbach);deunw.l277mon;New Route (remainder north of the Tagebau Garzweiler section decommissioned)
+2022-01-07;(Germany) North Rhine-Westphalia;L277 (Bedburg);deunw.l277;Route truncated at north end from L116 in Mönchengladbach to L19 north of Jackerath
 2022-01-02;(Germany) North Rhine-Westphalia;B480;deunw.b480;Route relocated from through Bad Wünnenberg and onto new bypass from L549 to L956
-2022-01-02;(Germany) North Rhine-Westphalia;L549 (Bad Wünnenberg);deunw.l549wun;New Route (fromer B480)
+2022-01-02;(Germany) North Rhine-Westphalia;L549 (Bad Wünnenberg);deunw.l549wun;New Route (former B480)
 2022-01-02;(Germany) North Rhine-Westphalia;L751;deunw.l751;Route truncated at south end from Bad Wünnenberg (B480) to Haaren (L636)
 2022-01-02;(Germany) North Rhine-Westphalia;L956;deunw.l956;Route extended at north end from old B480 (Burgstraße) to new B480
 2021-12-25;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route truncated at west end from L117 to B221
@@ -5068,7 +5072,9 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
-2022-01-05;(USA) New York;NY 213;ny.ny213;Extended northward from Clinton Ave and Henry St concurrent with NY 32 to Broadway.
+2022-01-08;(USA) New York;NY 28A;ny.ny028a;Removed from NY 213 and a partially demolished two-lane road and relocated northwestward between NY 213 and a point labeled *OldNY28A, sometime between 2011 & 2013.
+2022-01-08;(USA) New York;NY 213;ny.ny213;Extended westward 0.3 mi from old NY28A to NY 28A sometime between 2011 & 2013.
+2022-01-05;(USA) New York;NY 213;ny.ny213;Extended eastward from Clinton Ave and Henry St concurrent with NY 32 to Broadway.
 2022-01-03;(USA) New York;Hutchinson River Parkway;ny.hutrivpkwy;Relabeled exits from sequential to mileage-based.
 2021-08-12;(USA) New York;NY 97;ny.ny097;Removed from Front St in Hancock and relocated onto Main St and Read St. This is only a correction to Travel Mapping's data, and does not reflect an actual change in routing.
 2021-02-09;(USA) New York;Inner Loop;ny.innloop;Route added.
