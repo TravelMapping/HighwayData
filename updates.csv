@@ -1804,7 +1804,7 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
-2022-01-12;Japan;E13 (Shinjo);;Route extended at south end to exit 20-2
+2022-01-12;Japan;E13 (Shinjo);jpn.e013shi;Route extended at south end to exit 20-2
 2021-12-19;Japan;E45 (Hachinohe);;Route deleted, merged into E45
 2021-12-19;Japan;E45;jpn.e045;Route extended at north end to E4A junction, including former E45 (Hachinohe) section
 2021-12-02;Japan;E42 (Kumano);;Route deleted, merged into E42 (Odai)
@@ -4255,6 +4255,7 @@ date;region;route;root;description
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
+2022-01-16;(USA) Georgia;GA 17;ga.ga017;Shortened from GA 21 to its proper end at Sonny Dixon Interchange.
 2022-01-01;(USA) Georgia;Sugarloaf Parkway;ga.sugpkwy;Route added.
 2022-01-01;(USA) Georgia;GA 17;ga.ga017;Relocated off Louisville Rd and Bloomingdale Rd onto Jimmy Deloach Pkwy at south end.
 2022-01-01;(USA) Georgia;GA 17 Conn (Bloomingdale);ga.ga017conblo;Route added.
@@ -4363,6 +4364,10 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 31;il.il031;Relocated in Algonquin from Main Street between Huntington Drive and Elmwood Court, west onto new bypass
 2015-09-06;(USA) Illinois;IL 62;il.il062;Extended west in Algongquin, along Algonquin Road from Main Street (old IL 31) to new IL 31 bypass
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
+2022-01-16;(USA) Indiana;IN 56;in.in056;Rerouted around Madison along IN 62 and US 421 between Clifty Hollow Rd and new intersection at 2nd St & Harrison St
+2022-01-16;(USA) Indiana;IN 256;in.in256;Truncated at east end from former IN 56 junction to IN56/62
+2022-01-16;(USA) Indiana;US 12;in.us012;Removed from demolished segment of Dunes Hwy in Gary and onto US 20 and a new segment of Dunes Hwy between *US20_A and *OldUS12
+2022-01-16;(USA) Indiana;US 421;in.us421;IN56_E point relocated from Main St/Baltimore St intersection to new intersection at 2nd St & Harrison St
 2022-01-01;(USA) Indiana;I-69 (Wheatonville);in.i069whe;Extended at north end from exit 134 to exit 140A
 2021-07-28;(USA) Indiana;I-65;in.i065;Added waypoint 262A at ramps to/from US12/20
 2021-07-28;(USA) Indiana;I-90;in.i090;Added waypoint 5A at ramp from US 41 to eastbound I-90
@@ -4720,20 +4725,22 @@ date;region;route;root;description
 2016-01-06;(USA) Kentucky;US 60;ky.us060;Removed from the old demolished Ledbetter Bridge and KY 6074, and relocated onto the new Ledbetter Bridge about 1/2 mile southeast, between US 62 in Reidland and KY 6074.
 2016-01-04;(USA) Kentucky;KY 717;ky.ky0717;Extended at north end from KY 1017 (east) to KY 3076
 2016-01-04;(USA) Kentucky;KY 8;ky.ky0008;Truncated at west end from 39.129095°, -84.759178° to KY 237
-2016-01-02;(USA) Kentucky;KY 144;ky.ky0144;Extended at west end from KY 2830 to KY 603.
-2016-01-02;(USA) Kentucky;KY 603;ky.ky0603;Extended at south end from Pleasant Valley Road to US 60/231. Extended at north end from Lagoon Lane to KY 144.
-2016-01-02;(USA) Kentucky;US 231;ky.us231;Removed from Lagoon Lane, KY 603 and KY144 and relocated onto a four-lane divided bypass to the southeast, between KY 54 and a point (labeled *OldUS231) slightly north of the KY 2830 overpass.
-2016-01-02;(USA) Kentucky;US 60;ky.us060;Removed from Lagoon Lane, KY 603 and KY144 and relocated onto a four-lane divided bypass to the southeast, between KY 54 and a point (labeled *OldUS60_Owe) slightly north of the KY 2830 overpass.
+2016-01-02;(USA) Kentucky;KY 144;ky.ky0144;Extended at west end from KY 2830 to KY 603
+2016-01-02;(USA) Kentucky;KY 603;ky.ky0603;Extended at south end from Pleasant Valley Road to US 60/231. Extended at north end from Lagoon Lane to KY 144
+2016-01-02;(USA) Kentucky;US 231;ky.us231;Removed from Lagoon Lane, KY 603 and KY144 and relocated onto a four-lane divided bypass to the southeast, between KY 54 and a point (labeled *OldUS231) slightly north of the KY 2830 overpass
+2016-01-02;(USA) Kentucky;US 60;ky.us060;Removed from Lagoon Lane, KY 603 and KY144 and relocated onto a four-lane divided bypass to the southeast, between KY 54 and a point (labeled *OldUS60_Owe) slightly north of the KY 2830 overpass
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2022-01-16;(USA) Louisiana;LA 640 (Edgard);la.la0640;Truncated at north end from former ferry dock to LA 18
+2022-01-16;(USA) Louisiana;LA 640 (Reserve);;Route deleted
 2021-10-03;(USA) Louisiana;LA 1265;la.la1265;Route added
 2021-03-25;(USA) Louisiana;Lake Pontchartrain Causeway;la.lakeponcswy;Truncated at south end to EspAve and at north end to US190/22
 2018-06-24;(USA) Louisiana;US 79 Truck (Homer);la.us079trkhom;Route added
-2018-06-21;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended south from exit 211 to exit 210.
-2017-06-19;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended south from exit 215 to exit 211.
-2015-10-10;(USA) Louisiana;US 371;la.us371;Removed from LA 177 and US84 and relocated onto a new two-lane east-west roadway between the LA 177 north split and the US 84 / LA 1 junction.
-2015-09-03;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended north from exit 234 to the Arkansas state line.
+2018-06-21;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended south from exit 211 to exit 210
+2017-06-19;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended south from exit 215 to exit 211
+2015-10-10;(USA) Louisiana;US 371;la.us371;Removed from LA 177 and US84 and relocated onto a new two-lane east-west roadway between the LA 177 north split and the US 84 / LA 1 junction
+2015-09-03;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended north from exit 234 to the Arkansas state line
 2021-01-28;(USA) Maine;Paradise Hill Road, Acadia NP;me.parhillrd;North end truncated from ME 3 to Visitor Center Rd.
 2019-08-30;(USA) Maine;US 2;me.us002;Waypoint label ME232 moved from Church Street to the 2015 Martin Memorial Bridge.
 2019-08-30;(USA) Maine;ME 232;me.me232;North end removed from the 1955 Martin Memorial Bridge between a point labeled *OldME232 and US 2 at Church St, and relocated onto the 2015 Martin Memorial Bridge approx. 600 feet upriver.
@@ -5078,6 +5085,7 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2022-01-16;(USA) New York;NY 878 (Far Rockaway);ny.ny878far;Extended northward from Bayview Ave to Rockaway Turnpike.
 2022-01-08;(USA) New York;NY 28A;ny.ny028a;Removed from NY 213 and a partially demolished two-lane road and relocated northwestward between NY 213 and a point labeled *OldNY28A, sometime between 2011 & 2013.
 2022-01-08;(USA) New York;NY 213;ny.ny213;Extended westward 0.3 mi from old NY28A to NY 28A sometime between 2011 & 2013.
 2022-01-05;(USA) New York;NY 213;ny.ny213;Extended eastward from Clinton Ave and Henry St concurrent with NY 32 to Broadway.
@@ -5677,6 +5685,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2022-01-15;(USA) Texas;Westpark Tollway;tx.westlwy;West end truncated from FM 1463 to FM 723. Route was erroneously extended on TM one point too far on 2017-12-12.
 2022-01-12;(USA) Texas;TX Spur 379;;Route deleted.
 2022-01-04;(USA) Texas;TX Spur 376;tx.sp0376;Route added.
 2022-01-04;(USA) Texas;TX Spur 377;tx.sp0377;Route added.
