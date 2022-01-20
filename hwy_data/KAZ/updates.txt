@@ -3,6 +3,8 @@
 ;Kazakhstan;AH9;kaz.ah009;Route added
 ;Kazakhstan;AH70 (Aktau);kaz.ah070akt;Route added
 ;Kazakhstan;AH81;kaz.ah070atk;Route renamed as spur of AH70
+;Kazakhstan;A2;kaz.a002mer;Route added
+;Kazakhstan;A2;kaz.a002kok;Route added
 ;Kazakhstan;A4;kaz.a004;Route extended 
 ;Kazakhstan;A6;kaz.a006;Route extended at west end from eastern junction with E012 to A3
 ;Kazakhstan;A9;kaz.a009;Route extended at east end from Ulica Sverdlova to Russian border
@@ -13,29 +15,22 @@
 ;Russia;AH9;rus.ah009;Route added
 
 E38 RUS - A29 - Uralsk - M32 - Shymkent
-E40 / UZB - A2 - Merke -  - KGZ /
-/ KGZ - - Korday - A2 - Almaty - A3 - Oskemen - A9 - Ridder
+E40 / UZB - A2 - Merke - A2Mer - KGZ /
+/ KGZ -  A2Kor - Korday - A2 - Almaty - A3 - Oskemen - A9 - Ridder
 
 E123 RUS - M36 - Zapadnoye - A16 - A17 - Kyzlorda - M32 - Shymkent - A2 - UZB
 E125 RUS - A12 - Petropavlovsk - A1 - Nur Sultan - M36 - Almaty - A2 - KGZ
 E127 Omsk - M38 - CHN
-E011 Kokpek - - Kegen - A6 - KGZ
-E012 Almaty - - Kolpek - - Koktal - - Khorgos
-E013 Sary Ozek - R20 - Koktal
 E016 Zapadnoye - M36 - Nur-Sultan
 E018 Zhezkazgan - A17 - Uspenka
 
 AH5 UZB - A2 - Merke -  - KGZ /
-/ KGZ - - Korday - A2 - Almaty -  - Khorgos
-AH7 RUS - M36 - Burubaital - R29 - Merke - - KGZ
+AH7 RUS - M36 - Burubaital - R29 - Merke - A2Mer - KGZ
 AH9
 AH60 RUS - M38 - Kalbatay - - Oskemen - A3 - Almaty - M36 - Burubaital
-AH61 KGZ -  - Korday - A2 - Shymkent - M32 - Uralsk - A29 - RUS
+AH61 KGZ - A2Kor - Korday - A2 - Shymkent - M32 - Uralsk - A29 - RUS
 AH62 Petropavlosk - A16 - A17 - Kyzylorda - M32 - Shymkent - A2 - UZB
-AH64 RUS - A11 - Semey - M38 - Pavlodar - A17 - Shidery - R4 - NurSultan - - A1 - Petrovalovsk
+AH64 RUS - A11 - Semey - M38 - Pavlodar - A17 - Shidery - R4 - NurSultan - R10 - A1 - Petrovalovsk
 AH67 CHN - A8 - Taskesken - A3 - Kalbatay - M38 - Pavlodar - A17 - Zhezkazgen
 
 
-R19 http://www.openstreetmap.org/?lat=43.461871&lon=77.136726
-R15 http://www.openstreetmap.org/?lat=43.015066&lon=79.230888
-R16 http://www.openstreetmap.org/?lat=43.275424&lon=78.946638
