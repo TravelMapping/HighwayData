@@ -2,8 +2,9 @@
 
 ;Kazakhstan;AH9;kaz.ah009;Route added
 ;Kazakhstan;AH70 (Aktau);kaz.ah070akt;Route added
-;Kazakhstan;AH81;kaz.ah070atk;Route renamed AH70
+;Kazakhstan;AH81;kaz.ah070atk;Route renamed as spur of AH70
 ;Kazakhstan;A4;kaz.a004;Route extended 
+;Kazakhstan;A6;kaz.a006;Route extended at west end from eastern junction with E012 to A3
 ;Kazakhstan;A9;kaz.a009;Route extended at east end from Ulica Sverdlova to Russian border
 ;Kazakhstan;A31;kaz.a031;Route truncated at west end from Russian border to R44
 
@@ -12,10 +13,9 @@
 ;Russia;AH9;rus.ah009;Route added
 
 E38 RUS - A29 - Uralsk - M32 - Shymkent
-E40 RUS - A27 - Dossor - A33 - Beyneu - R1 - UZB /
-/ UZB - A2 - Merke -  - KGZ /
+E40 / UZB - A2 - Merke -  - KGZ /
 / KGZ - - Korday - A2 - Almaty - A3 - Oskemen - A9 - Ridder
-E121 RUS - M32 - Uralsk - A28 - Atyrau - A27 - Dossor - A33 - Munayshi - A34 - TKM
+
 E123 RUS - M36 - Zapadnoye - A16 - A17 - Kyzlorda - M32 - Shymkent - A2 - UZB
 E125 RUS - A12 - Petropavlovsk - A1 - Nur Sultan - M36 - Almaty - A2 - KGZ
 E127 Omsk - M38 - CHN
@@ -32,7 +32,10 @@ AH9
 AH60 RUS - M38 - Kalbatay - - Oskemen - A3 - Almaty - M36 - Burubaital
 AH61 KGZ -  - Korday - A2 - Shymkent - M32 - Uralsk - A29 - RUS
 AH62 Petropavlosk - A16 - A17 - Kyzylorda - M32 - Shymkent - A2 - UZB
-AH63 RUS - M32 - Uralsk - A28 - Atyrau - A27 - Dossor - A33 - Beyneu - R1 - UZB
 AH64 RUS - A11 - Semey - M38 - Pavlodar - A17 - Shidery - R4 - NurSultan - - A1 - Petrovalovsk
 AH67 CHN - A8 - Taskesken - A3 - Kalbatay - M38 - Pavlodar - A17 - Zhezkazgen
-AH70 RUS - A27 - Dossor - A33 - Munayshi - A34 - TKM
+
+
+R19 http://www.openstreetmap.org/?lat=43.461871&lon=77.136726
+R15 http://www.openstreetmap.org/?lat=43.015066&lon=79.230888
+R16 http://www.openstreetmap.org/?lat=43.275424&lon=78.946638
