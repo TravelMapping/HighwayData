@@ -18,4 +18,4 @@ FRA-45 = `Lrt` = Loiret
 
 **NOTES TO ROUTES:**
 *FRA-28 - Eure-et-Loir:*
-- OSM and GM indicate a lot of routes with numbered prefixes, e.g. `D1.1`. However, some routes have different prefix numbering or routing on OSM compared to GM. GSV does often not show any sign. If so, they are not mapped even if OSM and GM would confirm their existance which is usually enough evidence in other departements.
+- OSM and GM indicate a lot of routes with numbered suffixes, e.g. `D1.1`. However, some routes have different suffix numbering or routing on OSM compared to GM. GSV does often not show any sign. If so, they are not mapped even if OSM and GM would confirm their existance which is usually enough evidence in other departements.
