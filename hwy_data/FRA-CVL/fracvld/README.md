@@ -19,3 +19,4 @@ FRA-45 = `Lrt` = Loiret
 **NOTES TO ROUTES:**
 *FRA-28 - Eure-et-Loir:*
 - OSM and GM indicate a lot of routes with numbered suffixes, e.g. `D1.1`. However, some routes have different suffix numbering or routing on OSM compared to GM. GSV does often not show any sign. If so, they are not mapped even if OSM and GM would confirm their existance which is usually enough evidence in other departements.
+- OSM and GM indicate some routes with `B` suffix but most signs don't the suffix (2009 nor 2021 GSV). Some routes do partially have signs with `B` suffix.`D117` even has some `B` and some `N` suffixes. Generally drafted without this (optional) suffix.
