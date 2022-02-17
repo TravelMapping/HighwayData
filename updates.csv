@@ -191,8 +191,9 @@ date;region;route;root;description
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and relocated onto A4 between the former junction between the A3 and N8 east of Generalovo (labeled *N8_GenE) and the junction between the A4 and N8 next to the Turkish border
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
 2015-07-22;Bulgaria;E85;bgr.e85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
-2020-10-03;(Canada) Alberta;AB 201 (South Calgary);ab.ab201swc;Route deleted. Merged into Southwest Calgary segment.
-2020-10-03;(Canada) Alberta;AB 201 (Southwest Calgary);ab.ab201swc;Extended counterclockwise along Tsuut'ina Trail from Exit 13 to Exit 9, thence along the former South Calgary segment to AB 2.
+2022-02-12;(Canada) Alberta;AB 14;ab.ab014;Curve straightened between waypoints *OldAB14_W and *OldAB14_E. Relocated southward.
+2021-10-03;(Canada) Alberta;AB 201 (South Calgary);ab.ab201swc;Route deleted. Merged into Southwest Calgary segment.
+2021-10-03;(Canada) Alberta;AB 201 (Southwest Calgary);ab.ab201swc;Extended counterclockwise along Tsuut'ina Trail from Exit 13 to Exit 9, thence along the former South Calgary segment to AB 2.
 2020-10-02;(Canada) Alberta;AB 63;ab.ab063;Extended northward from a point labeled *OldEnd at 57.261608°, -111.627790° to the end of pavement at 57.396732°, -111.626939°.
 2020-10-02;(Canada) Alberta;AB 201 (Woodbine);ab.ab201swc;Route deleted. Merged into new Southwest Calgary segment.
 2020-10-02;(Canada) Alberta;AB 201 (Signal Hill);ab.ab201swc;Route deleted. Merged into new Southwest Calgary segment.
@@ -207,6 +208,8 @@ date;region;route;root;description
 2015-08-22;(Canada) Alberta;AB 58;ab.ab058;Removed from 98 Avenue and relocated onto AB35 and a northeastern bypass, between western & eastern closed intersections with 98 Avenue.
 2015-08-13;(Canada) British Columbia;TCH 1 Business (Chase BC);bc.tchbuscha;New route
 2018-03-28;(Canada) Manitoba;MB 17;mb.mb017;North end extended from 150 N to MB 224
+2022-02-12;(Canada) New Brunswick;NB 105 (Jemseg);nb.nb105jen;Truncated from the closed Jemseg River Bridge approach to NB 695.
+2022-02-12;(Canada) New Brunswick;NB 105 (Fredericton);nb.nb105;South end truncated from the closed Jemseg River Bridge approach to NB 2.
 2021-06-17;(Canada) New Brunswick;NB 101;nb.nb101;Extended at south end from Eagle Rock Road to NB 7.
 2021-06-17;(Canada) New Brunswick;NB 177;nb.nb177;North end removed from Eagle Rock Road between the NB 7 Exit 71 connector and NB 7 Exit 63, and relocated onto the connector to NB 7 Exit 71.
 2021-02-09;(Canada) New Brunswick;NB 176;nb.nb176;From a point labeled *OldNB176, south end removed from a northerly road to the old Black's Harbour Ferry Terminal and relocated southwestward toward the new Black's Harbour Ferry Terminal.
@@ -714,6 +717,7 @@ date;region;route;root;description
 2020-06-16;(France) Nouvelle-Aquitaine;E603;franaq.e603;Route removed from Route de Cognac, Route Claude Bonnier, Rue de Royan and N10 and relocated onto N141 between D37 N10 exit 59
 2020-06-16;(France) Nouvelle-Aquitaine;N141;franaq.n141;Route removed from Route de Cognac, Route Claude Bonnier, Rue de Royan and N10 and relocated onto Angouleme bypass between D37 and N10_S
 2020-06-16;(France) Nouvelle-Aquitaine;N1141;franaq.n141;Route deleted (now part of N141)
+2022-02-15;(France) Occitanie;N124;fraocc.n124;Route relocated from through Gimont (D924 now) and onto new bypass from west of Gimont to east of Gimont
 2021-10-09;(France) Occitanie;N20;fraocc.n020;Route extended at north end north of Pamiers from A66 exit 4b to A66 exit 3
 2021-07-24;(France) Occitanie;Bretelle d'accès à l'autoroute Francoulès;fraocc.brefra;New Route
 2021-06-08;(France) Occitanie;N100;fraocc.n100;Route truncated at east end from Boulevard di Midi, Les Angles to D6580 (D6100-30 now)
@@ -912,6 +916,15 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2022-02-15;(Germany) Bavaria;St2240;deuby.st2240;Route relocated in Erlangen from Münchener Straße and Henkestraße, and onto A73 and Werner-von-Siemens-Straße from A73 exit 31 to junction Henkestraße/Werner-von-Siemens-Straße
+2022-02-15;(Germany) Bavaria;St2242 (Fürth);deuby.st2242;Route truncated at north end from Egloffstein to Erlangen
+2022-02-15;(Germany) Bavaria;St2242 (Effeltrich);deuby.st2242eff;New Route (former part of main route)
+2022-02-15;(Germany) Bavaria;St2244 (Forchheim);deuby.st2244;Route truncated at south end from Markt Erlbach to Erlangen-Burgberg (ER7 junction) and reextended to A73 exit 31
+2022-02-15;(Germany) Bavaria;St2244 (Herzogenaurach);deuby.st2244her;New Route (former part of main route)
+2022-02-15;(Germany) Bavaria;St2309 (Main);deuby.st2309;Route relocated from through Miltenberg and onto bypass from Großheubach to Bürgstadt
+2022-02-15;(Germany) Bavaria;St2309 (Miltenberg);deuby.st2309;Route mostly merged into main route
+2022-02-15;(Germany) Bavaria;St2309 (Großheubach);deuby.st2309gro;New route (remainder of Miltenberg bypass route)
+2022-02-15;(Germany) Bavaria;St2310 (Bürgstadt);deuby.st2310bur;Route truncated at west end from B469 to St2309
 2022-02-06;(Germany) Bavaria;St2176 (Pechofen);deuby.st2176;Merged into main route
 2022-02-06;(Germany) Bavaria;St2176 (Main);deuby.st2176;Route truncated at south end from St2169 in Mitterteich to junction near Pechofen and reextended to B299
 2022-01-29;(Germany) Bavaria;St2043;deuby.st2043;Route relocated from through Niederarnbach and onto western bypass
@@ -4774,6 +4787,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2022-02-13;(USA) Louisiana;LA 1209;;Route deleted
 2022-01-16;(USA) Louisiana;LA 640 (Edgard);la.la0640;Truncated at north end from former ferry dock to LA 18
 2022-01-16;(USA) Louisiana;LA 640 (Reserve);;Route deleted
 2021-10-03;(USA) Louisiana;LA 1265;la.la1265;Route added
@@ -5463,6 +5477,8 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2022-02-13;(USA) Pennsylvania;US 13;pa.us013;Rerouted in Chester to follow PA 291 and Morton Ave between labels US13BusChe_S and US13BusChe_N.  The old alignment was redesignated as US 13 Business (Chester).
+2022-02-13;(USA) Pennsylvania;US 13 Business (Chester);pa.us013busche;Route added.  This was the former alignment of US 13 through Chester.
 2022-02-02;(USA) Pennsylvania;PA 441 Truck (Lower Swatara Township);pa.pa441trklow;Route added.
 2021-12-20;(USA) Pennsylvania;PA 267;pa.pa267;Realigned at western intersection at PA 706 between *OldPA267 and the relocated PA706_W.
 2021-11-24;(USA) Pennsylvania;PA 867 Truck (Roaring Spring);;Route deleted.
@@ -5893,7 +5909,7 @@ date;region;route;root;description
 2018-08-11;(USA) Utah;I-84BL (Brigham City);;Route Deleted
 2018-08-11;(USA) Utah;I-15BL (Brigham City);;Route Deleted
 2018-08-11;(USA) Utah;UT 232;ut.ut232;Route truncated at north end from Hill AFB to UT 193
-2018-07-25;(USA) Utah;UT 85;ut.ut085 (West Jordan);Route extended at north end from UT173 to 4100S and at south end from Porter Rockwell Blvd to UT68
+2018-07-25;(USA) Utah;UT 85 (West Jordan);ut.ut085;Route extended at north end from UT173 to 4100S and at south end from Porter Rockwell Blvd to UT68
 2018-07-25;(USA) Utah;UT 107;ut.ut107;Route truncated at east end from UT126 to 3000W
 2018-07-25;(USA) Utah;UT 129;ut.ut129;New Route
 2018-07-25;(USA) Utah;UT 135;ut.ut135;New Route
