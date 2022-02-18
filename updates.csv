@@ -1829,6 +1829,7 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2022-02-17;Japan;E68;jpn.e068;Route extended at south end from exit 5 to N135
 2022-01-12;Japan;E13 (Shinjo);jpn.e013shi;Route extended at south end to exit 20-2
 2021-12-19;Japan;E45 (Hachinohe);;Route deleted, merged into E45
 2021-12-19;Japan;E45;jpn.e045;Route extended at north end to E4A junction, including former E45 (Hachinohe) section
@@ -2017,7 +2018,7 @@ date;region;route;root;description
 2020-03-29;Moldova;M21;mda.m001;Route removed (now part of M1)
 2020-03-29;Moldova;E58;mda.e58;Route removed from Strada Decebal and Strada Romana and relocated to Centura Ocolire Ungheni between R1/R16 and R1.1
 2018-10-15;Mongolia;AH35;mng.ah035;New Route
-2018-01-05;Montenegro;Magistralni Put;mnem;Re-entered all routes
+2018-01-05;Montenegro;Magistralni Put;;Re-entered all routes
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
 2022-02-11;Namibia;A2;nam.a002;Route added
 2020-02-22;Namibia;A1;nam.a001;Route extended at north end from northern D1473 junction to Osona Airstrip
@@ -2283,6 +2284,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-02-17;Poland;DK1 (Czestochowa);pol.a001gli;Route deleted (now part of A1 Gliwice)
+2022-02-17;Poland;DW272;pol.dw272;Route extended at west end from Ulica Oska (former DW239) to S5/91 junction
+2022-02-17;Poland;DW347;pol.dw347;Route truncated at east end from DK5/94 junction to DW372 junction
+2022-02-17;Poland;DW372 (Klecina);pol.dw372kle;Route added
+2022-02-17;Poland;DW451;pol.dw451;Route truncated at west end from Ulica Wojska Polskiego to Ulica Boleslawa Krzywoustego / Olesnica bypass junction and extended at west end from Ulica Boleslawa Krzywoustego / Olesnica bypass junction to DW373
 2021-12-30;Poland;S61 (Suwalki);pol.s061;Route extended at south end from exit 16 to exit 15
 2021-12-23;Poland;A1 (Gilwice);pol.a001gil;Route extended at north end from exit 31 to exit 28
 2021-12-23;Poland;S7 (Mlawa);pol.s007mla;Route added
@@ -3687,6 +3693,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2022-02-17;(UK) England;A411 (Watford);eng.a0411wat;Route added
 2022-02-10;(UK) England;A4112 (Dilwyn);eng.a4112;Route truncated at east end from A456 to A44
 2022-02-10;(UK) England;A4112 (Tenbury Wells);eng.a4112ten;Route added
 2021-12-31;(UK) England;A1231;eng.a1231;Route removed from Pallion New Road and relocated onto Cowies Way between Paul Watson Way and B1405
@@ -3925,7 +3932,7 @@ date;region;route;root;description
 2016-03-09;(UK) England;A2690;eng.a2690;Route extended at east end from B2092 to A2100
 2016-03-09;(UK) England;A5020;eng.a5020;Route removed from Weston Road and relocated onto David Whitby Way between A500 and A532
 2016-03-09;(UK) England;A589;eng.a0589;Route extended at east end from A6 to M6
-2016-01-01;(UK) England;Great Britain A Roads;gbna;Added routes beginning with a 1 and 6
+2016-01-01;(UK) England;Great Britain A Roads;;Added routes beginning with a 1 and 6
 2015-12-17;(UK) England;A3022;eng.a3022;Route extended at north end from Torquay Road (formerly A380) to new A380 (at South Devon Link Road)
 2015-12-17;(UK) England;A380;eng.a0380;Route removed from Torquay Road in Kingkerswell and relocated onto South Devon Link Road between A381_W and A3022
 2015-09-16;(UK) England;A5115;eng.a5115;Route extended at south end from A41 to A55
@@ -4041,7 +4048,7 @@ date;region;route;root;description
 2017-04-06;(UK) Scotland;A730;sct.a0730;Route rerouted onto Cathkin bypass between B762_W and A749
 2016-09-29;(UK) Scotland;A8(M);sct.a008m;New Route
 2016-03-09;(UK) Scotland;A82;sct.a0082;Route removed from Glenfalloch Road and relocated onto Crianlarich bypass between Glenfalloch Road and eastern junction with A85
-2016-01-01;(UK) Scotland;Great Britain A Roads;gbna;Added routes beginning with a 1, 6, 8 and 9
+2016-01-01;(UK) Scotland;Great Britain A Roads;;Added routes beginning with a 1, 6, 8 and 9
 2015-07-25;(UK) Scotland;A700;sct.a0700;Route truncated at north end from A8 to A702
 2015-07-25;(UK) Scotland;A702;sct.a0702;Route extended at north end from A700 to A90
 2015-07-25;(UK) Scotland;E16;sct.e16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
