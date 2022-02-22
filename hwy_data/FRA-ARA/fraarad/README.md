@@ -24,6 +24,7 @@ FRA-43 = `HLo` = Haute-Loire
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(43) (edit url for other routes)
 FRA-63 = `PdD` = Puy-de-Dôme
    https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D1_(63) (edit url for other routes)
+   https://routes.fandom.com/wiki/Clermont_Auvergne_M%C3%A9tropole (M routes)
 FRA-69 = `Rho` = Rhône
    https://routes.fandom.com/wiki/M%C3%A9tropole_de_Lyon_(69M)
 FRA-73 = `Sav` = Savoie

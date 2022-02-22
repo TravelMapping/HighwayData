@@ -30,6 +30,7 @@ FRA-82 = `TeG` = Tarn-et-Garonne
 **NOTES TO ROUTES:**
 *FRA-46 - Haute-Garonne:*
 - `D50` routes are unsigned bicycle tracks only, not drafted
+- shp file end points do not exactly line up with `HPy` shp file end points, gone with `HPy` coords
 
 *FRA-46 - Lot:*
 - `D16` goes through Cantal departement (no signs at the border, there is another `D16` in Cantal)
