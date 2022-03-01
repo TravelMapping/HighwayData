@@ -1214,7 +1214,7 @@ date;region;route;root;description
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
-2022-02-19;(Germany) Saxony;L190;deusn.l190;Route relocated from northern segment of Alte Altenberger Straße through Dippoldiswalde and onto B170 bypass and central segment of Alte Altenberger Straße
+2022-02-19;(Germany) Saxony;L190;deusn.s190;Route relocated from northern segment of Alte Altenberger Straße through Dippoldiswalde and onto B170 bypass and central segment of Alte Altenberger Straße
 2021-11-21;(Germany) Saxony;B95 (Rötha);deusn.b095rot;Route truncated at south end from B176 Kesselshain to S242 Espenhain (S242 now)
 2021-11-21;(Germany) Saxony;B93 (Borna);deusn.b093bor;Route truncated at north end from Kesselshain to A72 Borna-North (B176 now)
 2021-11-21;(Germany) Saxony;S242;deusn.s242;Route extended at north end from B176 Flößberg to S38 Güldengossa
@@ -1371,6 +1371,9 @@ date;region;route;root;description
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2021-02-28;Hungary;E60;hun.e60;Route relocated from F4 onto M4 around Szolnok (Exit 93 - Exit 117)
+2021-02-28;Hungary;F406;hun.f406;New Route
+2022-02-28;Hungary;M4;hun.m004;Route extended at eastern end between exits 93 and 117
 2021-12-15;Hungary;M44;hun.m044;Route extended at western end between Lakitelek and Tiszakurt
 2021-09-29;Hungary;F444;hun.f444;Route extended between H4432 and F44
 2021-11-03;Hungary;E71;hun.e71;Route relocated from F3 onto M30 between Miskolc (Exit 29) and Tornyosnemeti (Exit 86)
@@ -4278,6 +4281,7 @@ date;region;route;root;description
 2017-06-07;(USA) Connecticut;CT 2A;ct.ct002a;Relabeled exits from sequential to mileage-based, all numbered exits changed
 2016-02-12;(USA) Connecticut;Milford Parkway;ct.milpkwy;Route added
 2015-12-16;(USA) Connecticut;I-395;ct.i395;Relabeled exits from sequential to mileage-based, all numbers changed
+2022-02-22;(USA) Delaware;DE 23;de.de023;Slightly realigned between Stockley Rd (StoRd) and Hopkins Rd (HopRd) due to roundabout at new Anchors Run Subdivision between these two points.
 2020-06-20;(USA) Delaware;DE 54 Alternate (Bethany Beach);;Route deleted.
 2020-06-20;(USA) Delaware;DE 24 Alternate (Zoar);;Route deleted.
 2019-08-25;(USA) Delaware;DE 34;;Route deleted.
@@ -4287,7 +4291,7 @@ date;region;route;root;description
 2019-02-05;(USA) Delaware;DE 896 Alternate (St Georges);;Route deleted.
 2019-01-12;(USA) Delaware;US 301;de.us301;Route completely realigned onto tolled freeway from MD/DE line to DE 1.  It was removed from Middletown-Warwick Rd and concurrencies with DE 15, DE 299, DE 71, and DE 896 to its former northern terminus at US 40.
 2018-03-26;(USA) Delaware;DE 273;de.de273;East end truncated from 6th St to DE 9/141.
-2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach
+2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach.
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2021-09-22;(USA) Florida;US 221;fl.us221;Removed from Jefferson Street in Perry between the intersections Jefferson Street/Wright Road & Jefferson Street/US 27, and relocated onto a new route following US 27 over to US 19 and then up to Wright Road (former CR 359A) and then back to the original US 221 alignment north of Perry. Old section is now just Jefferson Street.
@@ -4323,6 +4327,7 @@ date;region;route;root;description
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
+2022-02-26;(USA) Georgia;GA 14 Spur (LaGrange);ga.ga014sprlag;Route truncated from GA 219 to US 27.
 2022-01-16;(USA) Georgia;GA 17;ga.ga017;Shortened from GA 21 to its proper end at Sonny Dixon Interchange.
 2022-01-01;(USA) Georgia;Sugarloaf Parkway;ga.sugpkwy;Route added.
 2022-01-01;(USA) Georgia;GA 17;ga.ga017;Relocated off Louisville Rd and Bloomingdale Rd onto Jimmy Deloach Pkwy at south end.
@@ -5761,6 +5766,9 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2022-02-24;(USA) Texas;US 77;tx.us077;Removed from US 77 Business (Driscoll) and relocated eastward onto the Driscoll Bypass.
+2022-02-24;(USA) Texas;US 77 Business (Driscoll);tx.us077busdri;Route added.
+2022-02-21;(USA) Texas;I-35;tx.i035;Extended southward from US 83 / TX 359 to Hidalgo St.
 2022-02-10;(USA) Texas;US 290 Business (Cypress);tx.us290buscyp;Route added.
 2022-02-10;(USA) Texas;TX Loop 354;;Route deleted.
 2022-02-09;(USA) Texas;TX Spur 29;tx.sp0029;Route added.
