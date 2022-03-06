@@ -23,6 +23,7 @@ FRA-45 = `Lrt` = Loiret
 
 *FRA-45 - Loiret:*
 - shp files general miss one (end) point; end points do often not match the actual border stone locations in the field, gone with border stones if known
+- `D456` is fully concurrent to `D41` and `D56`, and not signed; not drafted
 - `D1193` shp file has one entry point only, not signed according to GSV, OSM nor GM; not drafted
 - `D1620` shp file has one entry point only, not indicated on OSM nor GM but signed as `D620` according to GSV; drafted as `D620`
 - `D3044` is signed as `C` (new signs) on 2019 GSV, not drafted
