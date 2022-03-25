@@ -396,6 +396,7 @@ date;region;route;root;description
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2022-03-06;Czechia;II353;cze.ii353;Route relocated from through Budeč and Nové Veselí, and onto new bypass from north of Budeč to south of Nové Veselí
 2021-12-20;Czechia;I37 (Pardubice);cze.i037;Route relocated from through Slatiňany and onto new bypass from I17 to II324
 2021-12-20;Czechia;II324;cze.ii324;Route extended at south end from I17 in Chrudim to I37 south of Slatiňany (partially former I37)
 2021-12-17;Czechia;D11;cze.d011;Route extended at east end from exit 90 (I11) to exit 113 north of Jaroměř
@@ -1214,7 +1215,7 @@ date;region;route;root;description
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
-2022-02-19;(Germany) Saxony;L190;deusn.l190;Route relocated from northern segment of Alte Altenberger Straße through Dippoldiswalde and onto B170 bypass and central segment of Alte Altenberger Straße
+2022-02-19;(Germany) Saxony;L190;deusn.s190;Route relocated from northern segment of Alte Altenberger Straße through Dippoldiswalde and onto B170 bypass and central segment of Alte Altenberger Straße
 2021-11-21;(Germany) Saxony;B95 (Rötha);deusn.b095rot;Route truncated at south end from B176 Kesselshain to S242 Espenhain (S242 now)
 2021-11-21;(Germany) Saxony;B93 (Borna);deusn.b093bor;Route truncated at north end from Kesselshain to A72 Borna-North (B176 now)
 2021-11-21;(Germany) Saxony;S242;deusn.s242;Route extended at north end from B176 Flößberg to S38 Güldengossa
@@ -1371,6 +1372,9 @@ date;region;route;root;description
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2021-02-28;Hungary;E60;hun.e60;Route relocated from F4 onto M4 around Szolnok (Exit 93 - Exit 117)
+2021-02-28;Hungary;F406;hun.f406;New Route
+2022-02-28;Hungary;M4 (Cegléd);hun.m004ceg;Route extended at eastern end between exits 93 and 117
 2021-12-15;Hungary;M44;hun.m044;Route extended at western end between Lakitelek and Tiszakurt
 2021-09-29;Hungary;F444;hun.f444;Route extended between H4432 and F44
 2021-11-03;Hungary;E71;hun.e71;Route relocated from F3 onto M30 between Miskolc (Exit 29) and Tornyosnemeti (Exit 86)
@@ -1497,6 +1501,7 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2022-02-28;Indonesia;Jalan Tol Manado - Bitung;idn.jtmb;Route extended at east end from exit 25 at Danowudu to Jalan Raya Pateten in Bitung
 2022-02-11;Indonesia;T1 (Sumatra);idn.t001sum;Route extended at west end from exit 15 to exit 29
 2022-01-24;Indonesia;T4 (Java);idn.t004;Route extended at east end from exit 156 to exit 166
 2021-08-28;Indonesia;T1 (Kalimantan);idn.t001kal;Route extended at south end from exit 32 to Jalan Mulawarman
@@ -4110,12 +4115,14 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
-2018-09-24;(USA) Alabama;US 98 Alternate (Fairhope);al.us098altfai;Route deleted
-2018-09-24;(USA) Alabama;US 78 Alternate (Jasper);al.us078altjas;Route deleted
+2022-03-20;(USA) Alabama;I-359;al.i359;Clarified the northern endpoint as Exit 2. Previous route segment north of Exit 2 is technically within the interchange footprint.
+2022-03-20;(USA) Alabama;US 231 Business (Ozark);;Route deleted
+2018-09-24;(USA) Alabama;US 98 Alternate (Fairhope);;Route deleted
+2018-09-24;(USA) Alabama;US 78 Alternate (Jasper);;Route deleted
 2018-04-13;(USA) Alabama;US 84;al.us084;Relocated onto Elba bypass
 2018-04-11;(USA) Alabama;US231 Business (Ozark);al.us231busoza;New Route
 2017-04-24;(USA) Alabama;I-22;al.i022;New Route
-2017-04-24;(USA) Alabama;I-22 Future (Jasper);al.i022;Route deleted
+2017-04-24;(USA) Alabama;I-22 Future (Jasper);;Route deleted
 2016-07-30;(USA) Alabama;US 331 Alternate (Opp);;Route deleted
 2016-07-30;(USA) Alabama;US 82;al.us082;Removed from AL 25 and AL 382 and relocated onto the northeastern Centreville bypass between AL 25 North and CR 20
 2016-07-30;(USA) Alabama;US 84 Business (Opp);;Route deleted
@@ -4277,6 +4284,7 @@ date;region;route;root;description
 2017-06-07;(USA) Connecticut;CT 2A;ct.ct002a;Relabeled exits from sequential to mileage-based, all numbered exits changed
 2016-02-12;(USA) Connecticut;Milford Parkway;ct.milpkwy;Route added
 2015-12-16;(USA) Connecticut;I-395;ct.i395;Relabeled exits from sequential to mileage-based, all numbers changed
+2022-02-22;(USA) Delaware;DE 23;de.de023;Slightly realigned between Stockley Rd (StoRd) and Hopkins Rd (HopRd) due to roundabout at new Anchors Run Subdivision between these two points.
 2020-06-20;(USA) Delaware;DE 54 Alternate (Bethany Beach);;Route deleted.
 2020-06-20;(USA) Delaware;DE 24 Alternate (Zoar);;Route deleted.
 2019-08-25;(USA) Delaware;DE 34;;Route deleted.
@@ -4286,7 +4294,7 @@ date;region;route;root;description
 2019-02-05;(USA) Delaware;DE 896 Alternate (St Georges);;Route deleted.
 2019-01-12;(USA) Delaware;US 301;de.us301;Route completely realigned onto tolled freeway from MD/DE line to DE 1.  It was removed from Middletown-Warwick Rd and concurrencies with DE 15, DE 299, DE 71, and DE 896 to its former northern terminus at US 40.
 2018-03-26;(USA) Delaware;DE 273;de.de273;East end truncated from 6th St to DE 9/141.
-2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach
+2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach.
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2021-09-22;(USA) Florida;US 221;fl.us221;Removed from Jefferson Street in Perry between the intersections Jefferson Street/Wright Road & Jefferson Street/US 27, and relocated onto a new route following US 27 over to US 19 and then up to Wright Road (former CR 359A) and then back to the original US 221 alignment north of Perry. Old section is now just Jefferson Street.
@@ -4322,6 +4330,11 @@ date;region;route;root;description
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
+2022-03-13;(USA) Georgia;GA 35 Conn (Tifton);ga.ga035contif;Added route, formerly GA 35 Loop(Tifton)
+2022-03-13;(USA) Georgia;GA 35 Loop (Tifton);;Route renamed to GA 35 Conn (Tifton)
+2022-03-13;(USA) Georgia;US 84;ga.us084;Realigned onto bypasses around Argyle (MainSt_W to MainSt_E) and Wahoma (ValHwy to GleAve)
+2022-03-13;(USA) Georgia;GA 38;ga.ga038;Realigned onto bypasses around Argyle (MainSt_W to MainSt_E) and Wahoma (ValHwy to GleAve)
+2022-02-26;(USA) Georgia;GA 14 Spur (LaGrange);ga.ga014sprlag;Route truncated from GA 219 to US 27.
 2022-01-16;(USA) Georgia;GA 17;ga.ga017;Shortened from GA 21 to its proper end at Sonny Dixon Interchange.
 2022-01-01;(USA) Georgia;Sugarloaf Parkway;ga.sugpkwy;Route added.
 2022-01-01;(USA) Georgia;GA 17;ga.ga017;Relocated off Louisville Rd and Bloomingdale Rd onto Jimmy Deloach Pkwy at south end.
@@ -4363,6 +4376,7 @@ date;region;route;root;description
 2016-06-27;(USA) Georgia;US 19 Business (Dahlonega);ga.us019busdah;Removed from South Chestatee Street and East Main Street between the intersections of South Chestatee Street/US 19/GA 9/GA 52/GA 60 and North Grove Street/East Main Street. Then rerouted along East Main Street between the intersections of North Grove Street/East Main Street and East Main Street/US 19/GA 9/GA 52/GA 60
 2015-08-18;(USA) Georgia;Harry S Truman Parkway;ga.hartrupkwy;Extended westward from the interchange with GA 204 Spur (Whitfield Avenue) in Savannah to a new intersection with GA 204 (Abercorn Street).
 2015-08-11;(USA) Georgia;I-16;ga.i016;Relabeled waypoint I-75 as 1 and previous waypoint 1 as 1A (US 23 & US 129, Spring Street) in Macon.
+2022-03-11;(USA) Hawaii;Crater Rim Dr.;hi.crarimdr;In Hawaii Volcanoes NP, extended west from park entrance to former Jaggar Museum site, over part of original Crater Rim Dr. alignment
 2018-10-19;(USA) Hawaii;HI 3000;hi.hi3000;Route extended about 0.5 mile south, from northern junction with HI 30, to closed intersection with old HI 30 alignment
 2018-05-27;(USA) Hawaii;HI 30;hi.hi030;Short segment south of Lahaina, between *OldHI30_W and *OldHI30_E, realigned onto part of HI 3000 and new connecting roadway
 2018-05-27;(USA) Hawaii;HI 3000;hi.hi3000;Route extended south from Hokiokio Place, to HI 30
@@ -4385,13 +4399,16 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2022-03-07;(USA) Illinois;US 54;il.us054;Slightly realigned at MO/IL due to new Mississippi River Bridge built slightly to the south.
+2022-03-07;(USA) Illinois;IL 29;il.il029;Removed from Springfield Road through Edinburg and relocated onto four-lane bypass on east side of Edinburg (between points OldIL29_S and OldIL29_N).
+2022-03-07;(USA) Illinois;IL 104;il.il104;Slightly realigned between IL 99 and MorSt due to new bridge across the Illinois River.
 2021-12-16;(USA) Illinois;US 67;il.us067;Removed from old alignment in the Delhi/New Delhi area and relocated onto four-lane alignment between approximately Hilltop Lane and Stagecoach Road
 2021-11-22;(USA) Illinois;I-74;il.i074;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between 7th Avenue and Illinois state line. Separated I-74 exit 1 into 1A (River Drive) and 1B (IL 92). I-74 exit 2 (WB only, 7th Avenue) doubles as separation point from old route.
 2021-11-22;(USA) Illinois;US 6;il.us006;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between 7th Avenue and Illinois state line. Separated I-74 exit 1 into 1A (River Drive) and 1B (IL 92). I-74 exit 2 (WB only, 7th Avenue) doubles as separation point from old route.
 2021-11-11;(USA) Illinois;I-90;il.i090;Relabelled exits in Chicago along the I-94 Concurrency.
 2021-11-11;(USA) Illinois;I-94;il.i094;Relabelled exits in Chicago between Exits 43D and 66A.
-2021-09-06;(USA) Illinois;IL 8;il.il008;Renamed IL116->WasSt. Renamed old WasSt->WasSt_EP
-2021-09-06;(USA) Illinois;IL 116;il.il116;Renamed MacHwy->WasSt, Renamed old WasSt->WasSt_EP
+2021-09-06;(USA) Illinois;IL 8;il.il008;Renamed IL116->WasSt. Renamed old WasSt->WasSt_EP.
+2021-09-06;(USA) Illinois;IL 116;il.il116;Renamed MacHwy->WasSt, Renamed old WasSt->WasSt_EP.
 2021-06-02;(USA) Illinois;US 45;il.us045;Moved off Old Mill Creek Road in Milburn and moved onto bypass to west. Endpoints of bypass are OldMCRd_S and *OldMCRd_N.
 2021-05-20;(USA) Illinois;US 40;il.us040;IL140 point (now GalSt_W) relocated to former location of IL140_W.
 2021-05-17;(USA) Illinois;I-294;il.i294;Updated labels for the interchanges of I-57 (was 8, now 7) & IL 83 (was 9, now 8) due to a recent renumbering.
@@ -4484,6 +4501,9 @@ date;region;route;root;description
 2015-08-03;(USA) Indiana;US 24;in.us024;Relocated from Monticello Road onto Hoosier Heartland Highway between MonRd_W and MonRd_E
 2015-08-03;(USA) Indiana;US 31;in.us031;Relocated from Dixie Highway onto freeway between exit 240 and 246
 2015-08-03;(USA) Indiana;US 35;in.us035;Relocated from Monticello Road and onto Hoosier Heartland Highway between MonRd_W and MonRd_E
+2022-03-07;(USA) Iowa;IA 136;ia.ia136;Truncated from IA 3 to US 20.
+2022-03-07;(USA) Iowa;US 151 Business (Cascade);ia.us151buscas;Removed from 1st Avenue southwest of IA 136 and relocated onto IA 136 between 1st Avenue and US 151 in Cascade. Point US151_S relocated from old south end to IA 136 interchange.  
+2022-03-07;(USA) Iowa;US 30 Business (Mount Vernon);ia.us030busmtv;Route added.
 2021-07-22;(USA) Iowa;US 30;ia.us030;Relocated onto all-new four-lane slightly north of previous road between Tama and IA 21
 2021-11-22;(USA) Iowa;I-74;ia.i074;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between Kimberly Road and Illinois state line. Route separates at *OldI-74.
 2021-11-22;(USA) Iowa;US 6;ia.us006;Moved from old Mississippi River bridge slightly east to new Mississippi River Bridge between Kimberly Road and Illinois state line. Route separates at *OldI-74.
@@ -4980,6 +5000,10 @@ date;region;route;root;description
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2022-03-07;(USA) Missouri;I-44 BL (Lebanon);;Route deleted.
+2022-03-07;(USA) Missouri;US 54 Business (Lake Ozark);;Route deleted.
+2022-03-07;(USA) Missouri;MO 79;mo.mo079;Relocated US54_W (in-use) from Frank Ford Road to 7th Street in Louisiana.
+2022-03-07;(USA) Missouri;US 54;mo.us054;Relocated MO79_N (in-use) from Frank Ford Road to 7th Street in Louisiana. Slightly realigned at MO/IL due to new Mississippi River Bridge built slightly to the south.
 2021-12-17;(USA) Missouri;MO 100;mo.mo100;Extended east terminus from Broadway to 3rd Street
 2021-11-16;(USA) Missouri;MO 30;mo.mo030;Relocated MO47_N from Gravois Road and Parkway Drive to Gravois Avenue and Johnson Street. Old point now MOsK.
 2021-11-16;(USA) Missouri;MO 47;mo.mo047;Removed from Parkway Drive, Virginia Mines Road, and Main Street in St. Clair and relocated onto Gravois Avenue, Johnson Street, and Commercial Avenue in St. Clair. Relocated MO30_W from Gravois Road and Parkway Drive to Gravois Avenue and Johnson Street. Old point now MOsK.
@@ -5658,6 +5682,8 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2022-03-05;(USA) South Carolina;I-585;sc.i585;truncated back to I-85 BL which is still its actual endpoint
+2022-03-05;(USA) South Carolina;I-26;sc.i026;extended east one waypoint to its actual endpoint
 2021-02-05;(USA) South Carolina;SC 153;sc.sc153;extended north as new roadway to Saluda Dam Rd
 2021-02-05;(USA) South Carolina;SC 150 Truck (Pacolet Mills);sc.sc150trkpac;Route added
 2020-09-16;(USA) South Carolina;SC 31;sc.sc031;extended south as new freeway to SC 707 (originally done 11-17-2019, reemphasizing due to issue that led to the extension not being shown)
@@ -5760,6 +5786,9 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2022-02-24;(USA) Texas;US 77;tx.us077;Removed from US 77 Business (Driscoll) and relocated eastward onto the Driscoll Bypass.
+2022-02-24;(USA) Texas;US 77 Business (Driscoll);tx.us077busdri;Route added.
+2022-02-21;(USA) Texas;I-35;tx.i035;Extended southward from US 83 / TX 359 to Hidalgo St.
 2022-02-10;(USA) Texas;US 290 Business (Cypress);tx.us290buscyp;Route added.
 2022-02-10;(USA) Texas;TX Loop 354;;Route deleted.
 2022-02-09;(USA) Texas;TX Spur 29;tx.sp0029;Route added.
@@ -6045,8 +6074,9 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
-2021-12-17;(USA) Wisconsin;WI 81;wi.wi081;Extended east from I-39/90 along new extension to I-43
-2021-12-16;(USA) Wisconsin;WI 145;wi.wi145;Removed from Old Orchard Road between WI 100 and 124th Street, and relocated onto WI 100 and 24th Street
+2022-03-07;(USA) Wisconsin;WI 83;wi.wi083;Truncated from WI 175 to WI 60.
+2021-12-17;(USA) Wisconsin;WI 81;wi.wi081;Extended east from I-39/90 along new extension to I-43.
+2021-12-16;(USA) Wisconsin;WI 145;wi.wi145;Removed from Old Orchard Road between WI 100 and 124th Street, and relocated onto WI 100 and 24th Street.
 2021-11-10;(USA) Wisconsin;WI 145;wi.wi145;Extended northern terminus west from I-41 to WI 175.
 2021-07-22;(USA) Wisconsin;WI 241;wi.wi241;Truncated from I-41/94 to 7MileRd
 2021-07-05;(USA) Wisconsin;US 45;wi.us045;Re-entered route with exit numbers along I-41, I-894, US 10, WI 29. Re-entered all waypoint locations along I-894.
