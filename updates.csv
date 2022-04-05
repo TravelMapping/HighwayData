@@ -713,6 +713,9 @@ date;region;route;root;description
 2020-01-03;(France) Normandy;N15;;Route deleted
 2020-01-03;(France) Normandy;N138 (Rouen);;Route deleted
 2020-01-03;(France) Normandy;N2050;;Route deleted
+2022-04-03;(France) Nouvelle-Aquitaine;N147;franaq.n147;Route extended at north end from N149 to D347
+2022-04-03;(France) Nouvelle-Aquitaine;N237;franaq.n237;Route extended at west end from D735 to D21/D106
+2022-04-03;(France) Nouvelle-Aquitaine;N1021;franaq.n1021;Route truncated at east end from N21 to D13
 2020-07-03;(France) Nouvelle-Aquitaine;E62 (Limoges (spur));franaq.e62lim;Route added
 2020-07-03;(France) Nouvelle-Aquitaine;N149;franaq.n149;Route truncated at west end from D33 to exit 16
 2020-06-16;(France) Nouvelle-Aquitaine;E603;franaq.e603;Route removed from Route de Cognac, Route Claude Bonnier, Rue de Royan and N10 and relocated onto N141 between D37 N10 exit 59
@@ -853,6 +856,10 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2022-04-01;(Germany) Baden-Württemberg;B10;deubw.b028;Route reloacted in Stuttgart from Pragstraße and Neckartalstraße and through Rosenstein tunnel between Löwentorstraße and B14
+2022-04-01;(Germany) Baden-Württemberg;B28 (Main);deubw.b028;Route extended at east end from L370 east of Rottenburg to Ulm closing former gap to Weilheim between L370 and L371
+2022-04-01;(Germany) Baden-Württemberg;B28 (Reutlingen);deubw.b028;Route merged into main route
+2022-04-01;(Germany) Baden-Württemberg;B29a;deubw.b029a;Route extended at east end from L1076 to A7
 2022-01-29;(Germany) Baden-Württemberg;L300 (Berkheim);deubw.l0300;Route relocated from through Rot an der Rot and onto northern bypass
 2022-01-07;(Germany) Baden-Württemberg;B34n;deubw.b034n;New Route
 2021-12-20;(Germany) Baden-Württemberg;A98 (Lörrach);deubw.a098;Route extended at east end from exit 7 to 8
@@ -1992,6 +1999,8 @@ date;region;route;root;description
 2015-10-08;Latvia;E22;lva.e22;Route removed from P136 and relocated onto A12 between P136 and P52_W
 2015-10-08;Latvia;E22;lva.e22;Route removed from A6 and relocated onto A4, P5 and P80 between A4/A6 junction and A6/P80 junction (includes former Turkane section)
 2015-10-08;Latvia;E22;lva.e22tur;Route merged into main E22
+2022-04-01;Lithuania;Vilnius - Kaunas Greitkelio (Grigiškės);ltu.vilkaugregri;New Route
+2022-04-01;Lithuania;Vilnius - Kaunas Greitkelio (Žiežmariai);ltu.vilkaugre;New Route
 2020-08-08;Lithuania;Vilnius - Kaunas Greitkelio;ltu.a001;Route deleted (not signed as motorway, concurrent to A1)
 2020-08-08;Lithuania;Kaunas - Klapieda Greitkelio;ltu.kauklagre;Route truncated at east end (not signed as motorway) from A5 to R1921
 2018-12-16;Lithuania;Kaunas - Marijampolė Greitkelio;ltu.kaumargre;New Route
@@ -2116,6 +2125,7 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2022-04-05;Norway;E39 (Skjersholmane);nor.fv244hei;Route renamed to Fv244
 2022-01-05;Norway;Rv291;nor.rv291;New Route
 2021-12-25;Norway;E39 (Stavanger);nor.e39;Route relocated from old alignment (Fv439 now) to new motorway alignment from exit 9 to exit 10 and new Sandnesheitunnelen section between Fv459 and Mandal
 2021-12-25;Norway;Kristiansand - Stavanger Motorveien;nor.kristamot;New Route
@@ -4283,6 +4293,7 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
+2022-04-11;(USA) Connecticut;CT 17;ct.ct017;Corrected to follow Saint John's Square instead of Washington Street between CT 9 and CT 66.
 2021-02-08;(USA) Connecticut;CT 148;ct.ct148;Split into two segments at the Chester-Hadlyme Ferry.
 2021-02-08;(USA) Connecticut;CT 148 (Lyme);ct.ct148lym;Route added.
 2021-02-08;(USA) Connecticut;CT 160;ct.ct160;Split into two segments at the Rocky Hill-Glastonbury Ferry.
@@ -4308,6 +4319,7 @@ date;region;route;root;description
 2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach.
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
+2022-04-01;(USA) Florida;FL 589;fl.fl589;Northern end truncated from US 98 (former exit 54) south to where new alignment for FL 589 extention started (*OldFL589), about 0.3 miles. Then extended northward 13 miles along a brand new freeway alignment to a new interchange with FL 44.
 2021-09-22;(USA) Florida;US 221;fl.us221;Removed from Jefferson Street in Perry between the intersections Jefferson Street/Wright Road & Jefferson Street/US 27, and relocated onto a new route following US 27 over to US 19 and then up to Wright Road (former CR 359A) and then back to the original US 221 alignment north of Perry. Old section is now just Jefferson Street.
 2021-09-22;(USA) Florida;US 221 Truck (Perry);fl.us221trkper;Northern end truncated from intersection of Wright Road & Jefferson Street north of Perry to the intersection of US 19, US 27, US 98, US 27 Alternate in Downtown Perry, due to a reroute of mainline US 221 taking over most of the truck route.
 2021-05-25;(USA) Florida;FL 46 (Sanford);fl.fl046;Western end truncated from US 441 to CR 46A, due to small segment becoming CR 46A in the middle of the route. Western part becomes part of FL 46 (Mount Dora).
@@ -4831,6 +4843,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2022-04-02;(USA) Louisiana;LA 3127;la.la3127;Extended at south end along concurrency with I-310
 2022-03-28;(USA) Louisiana;LA 426;la.la0426;Truncated at east end from US 190 to Sherwood Forest Blvd
 2022-03-28;(USA) Louisiana;LA 3064;la.la3064;Extended at south end from LA 427 to Highland Rd
 2022-03-27;(USA) Louisiana;LA 1259;la.la1259;Route added
