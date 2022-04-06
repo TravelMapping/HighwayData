@@ -713,6 +713,9 @@ date;region;route;root;description
 2020-01-03;(France) Normandy;N15;;Route deleted
 2020-01-03;(France) Normandy;N138 (Rouen);;Route deleted
 2020-01-03;(France) Normandy;N2050;;Route deleted
+2022-04-03;(France) Nouvelle-Aquitaine;N147;franaq.n147;Route extended at north end from N149 to D347
+2022-04-03;(France) Nouvelle-Aquitaine;N237;franaq.n237;Route extended at west end from D735 to D21/D106
+2022-04-03;(France) Nouvelle-Aquitaine;N1021;franaq.n1021;Route truncated at east end from N21 to D13
 2020-07-03;(France) Nouvelle-Aquitaine;E62 (Limoges (spur));franaq.e62lim;Route added
 2020-07-03;(France) Nouvelle-Aquitaine;N149;franaq.n149;Route truncated at west end from D33 to exit 16
 2020-06-16;(France) Nouvelle-Aquitaine;E603;franaq.e603;Route removed from Route de Cognac, Route Claude Bonnier, Rue de Royan and N10 and relocated onto N141 between D37 N10 exit 59
@@ -726,6 +729,7 @@ date;region;route;root;description
 2021-06-08;(France) Occitanie;N542;fraocc.n542;New route
 2019-12-17;(France) Occitanie;A621;fraocc.a621;Route truncated at west end from Rue Marcel Doret to exit 4
 2019-12-17;(France) Occitanie;N2621;fraocc.n2621;New Route
+2022-03-28;(France) Pays-de-la-Loire;Liaison Sud-Ouest du Mans;;Route deleted
 2021-05-07;(France) Provence-Alpes-Cote-d’Azur;Voie Pierre Mathis, Nice;frapac.voiepiemat;New Route
 2021-04-25;(France) Provence-Alpes-Cote-d’Azur;N98;;Route deleted
 2021-04-25;(France) Provence-Alpes-Cote-d’Azur;N569 (Miranes);frapac.n569;Route merged into main route
@@ -762,7 +766,7 @@ date;region;route;root;description
 2018-11-01;France;A186;fra.antmon;Route renamed Antenne de Montreuil
 2018-11-01;France;Antenne de Villemomble;fra.antvil;New Route
 2018-11-01;France;Bretelle de Bonnières-sur-Seine;fra.brebonsei;New Route
-2018-11-01;France;Liaison Sud-Ouest du Mans;fra.liasomans;New Route
+2018-11-01;France;Liaison Sud-Ouest du Mans;;New Route
 2018-11-01;France;N7 (Valence);fra.n007val;Route relocated between exit 30 and D111A
 2018-11-01;France;N1547;;Route deleted
 2018-10-19;France;A507;fra.a507;Route extended at north end from exit 2 to A7
@@ -852,6 +856,10 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2022-04-01;(Germany) Baden-Württemberg;B10;deubw.b028;Route reloacted in Stuttgart from Pragstraße and Neckartalstraße and through Rosenstein tunnel between Löwentorstraße and B14
+2022-04-01;(Germany) Baden-Württemberg;B28 (Main);deubw.b028;Route extended at east end from L370 east of Rottenburg to Ulm closing former gap to Weilheim between L370 and L371
+2022-04-01;(Germany) Baden-Württemberg;B28 (Reutlingen);deubw.b028;Route merged into main route
+2022-04-01;(Germany) Baden-Württemberg;B29a;deubw.b029a;Route extended at east end from L1076 to A7
 2022-01-29;(Germany) Baden-Württemberg;L300 (Berkheim);deubw.l0300;Route relocated from through Rot an der Rot and onto northern bypass
 2022-01-07;(Germany) Baden-Württemberg;B34n;deubw.b034n;New Route
 2021-12-20;(Germany) Baden-Württemberg;A98 (Lörrach);deubw.a098;Route extended at east end from exit 7 to 8
@@ -1835,6 +1843,8 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2022-03-29;Japan;E29 (Tatsuno);jpn.n029tat;Route extended north to Shisou JCT, connecting with E2A
+2022-03-29;Japan;E55 (Tokushima);jpn.e055tok;Route extended north to Tokushima JCT, connecting with E11/E32
 2022-02-18;Japan;E52 (Shimizu);;Route deleted, merged into E52
 2022-02-18;Japan;E52;jpn.e052;Route extended south to exit 2, combining with former E52 (Shimizu) section
 2022-02-17;Japan;E68;jpn.e068;Route extended at south end from exit 5 to N135
@@ -1931,6 +1941,8 @@ date;region;route;root;description
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E123;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E125;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan (Alekseevka);E125;;Deleted route
+2022-04-01;Korea, South;Ex700 (Dasa);kor.ex700;Route added
+2022-04-01;Korea, South;Ex700 (Pagunjae);kor.ex700pag;Route added
 2021-04-28;Korea, South;Ex400;kor.ex400;Route truncated at west end from exit 1 to exit 1-1 and extended at west end from exit 1-1 to western exit 7
 2020-12-13;Korea, South;Ex14;kor.ex014;Route added
 2020-11-07;Korea, South;Ex17 (Goyang);kor.ex017goy;Route added
@@ -1987,6 +1999,8 @@ date;region;route;root;description
 2015-10-08;Latvia;E22;lva.e22;Route removed from P136 and relocated onto A12 between P136 and P52_W
 2015-10-08;Latvia;E22;lva.e22;Route removed from A6 and relocated onto A4, P5 and P80 between A4/A6 junction and A6/P80 junction (includes former Turkane section)
 2015-10-08;Latvia;E22;lva.e22tur;Route merged into main E22
+2022-04-01;Lithuania;Vilnius - Kaunas Greitkelio (Grigiškės);ltu.vilkaugregri;New Route
+2022-04-01;Lithuania;Vilnius - Kaunas Greitkelio (Žiežmariai);ltu.vilkaugre;New Route
 2020-08-08;Lithuania;Vilnius - Kaunas Greitkelio;ltu.a001;Route deleted (not signed as motorway, concurrent to A1)
 2020-08-08;Lithuania;Kaunas - Klapieda Greitkelio;ltu.kauklagre;Route truncated at east end (not signed as motorway) from A5 to R1921
 2018-12-16;Lithuania;Kaunas - Marijampolė Greitkelio;ltu.kaumargre;New Route
@@ -2089,12 +2103,15 @@ date;region;route;root;description
 2015-07-28;Netherlands;A261;;Route deleted
 2015-07-28;Netherlands;A4 (Bergen op Zoom);nld.a004ber;Route extended at north end from N259 to A29/A59, including Dinteloord section
 2015-07-28;Netherlands;A4 (Dintleloord);;Route merged with Bergen op Zoom section
+2022-03-30;New Zealand;Transmission Gully Motorway;nzl.tragulmot;Route added
+2022-03-30;New Zealand;SH1 (Te Ika-a-Māui);nzl.sh001;Route removed from SH59 and relocated onto Transmission Gully Motorway between north and south junctions with SH59
+2022-03-30;New Zealand;SH59;nzl.sh059;Route added
 2020-12-17;New Zealand;Christchurch Northern Motorway;nzl.chrnmot;Route extended at south end from (now closed) southern junction with Main North Road to Cranford Street
 2020-12-17;New Zealand;Western Belfast Bypass;nzl.wbelbyp;Route added
 2020-12-17;New Zealand;SH74;nzl.sh074;Route removed from Main North Road and Queen Elizabeth II Drive and relocated onto Christchurch Northern Motorway between southern junction with Christchurch Northern Motorway and SH1 (slightly moved)
 2020-11-24;New Zealand;Christchurch Southern Motorway;nzl.chrsmot;Route extended at west end from Halswell Junction Road to SH1
 2020-11-24;New Zealand;SH76;nzl.sh076;Route removed from Halswell Junction Road between SH1 at Islington and Christchurch Southern Motorway near Hornby South, and relocated along Christchurch Southern Motorway from Halswell Junction Road near Hornby South to SH1 near Templeton
-2020-03-09;New Zealand;SH1;nzl.sh001;Route removed from Great South Road and Gordonton Road and relocated onto Waikato Expressway between Great South Road and northern junction with SH1B
+2020-03-09;New Zealand;SH1 (Te Ika-a-Māui);nzl.sh001;Route removed from Great South Road and Gordonton Road and relocated onto Waikato Expressway between Great South Road and northern junction with SH1B
 2020-03-09;New Zealand;Thermal Explorer Highway;nzl.theexphwy;Route removed from Gordonton Road and Waikato Expressway and relocated onto Great South Road between Gordonton Road and the SH1 at Horotiu
 2020-03-09;New Zealand;Thermal Explorer Highway;nzl.theexphwy;Route removed from Waikato Expressway and relocated onto Cambridge Road, Hamilton Road, Victoria Street, Queen Street, Albert Street and Tirau Road between the SH1 west of Cambridge and the SH1 east of Cambridge
 2020-11-25;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;Route truncated at west end from A4 exit 13 to eastern junction with A3
@@ -2108,6 +2125,7 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2022-04-05;Norway;E39 (Skjersholmane);nor.fv244hei;Route renamed to Fv244
 2022-01-05;Norway;Rv291;nor.rv291;New Route
 2021-12-25;Norway;E39 (Stavanger);nor.e39;Route relocated from old alignment (Fv439 now) to new motorway alignment from exit 9 to exit 10 and new Sandnesheitunnelen section between Fv459 and Mandal
 2021-12-25;Norway;Kristiansand - Stavanger Motorveien;nor.kristamot;New Route
@@ -3701,6 +3719,8 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2022-04-05;(UK) England;A355;eng.a0355;Route removed from Park Lane, Amersham Road and London End and relocated onto Bowl Barrow Way between southern junction with Amersham Road and A40
+2022-03-26;(UK) England;B1228;eng.b1228;Route truncated at south end from A63 to B1230
 2022-02-17;(UK) England;A411 (Watford);eng.a0411wat;Route added
 2022-02-10;(UK) England;A4112 (Dilwyn);eng.a4112;Route truncated at east end from A456 to A44
 2022-02-10;(UK) England;A4112 (Tenbury Wells);eng.a4112ten;Route added
@@ -4273,6 +4293,7 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
+2022-04-11;(USA) Connecticut;CT 17;ct.ct017;Corrected to follow Saint John's Square instead of Washington Street between CT 9 and CT 66.
 2021-02-08;(USA) Connecticut;CT 148;ct.ct148;Split into two segments at the Chester-Hadlyme Ferry.
 2021-02-08;(USA) Connecticut;CT 148 (Lyme);ct.ct148lym;Route added.
 2021-02-08;(USA) Connecticut;CT 160;ct.ct160;Split into two segments at the Rocky Hill-Glastonbury Ferry.
@@ -4298,6 +4319,7 @@ date;region;route;root;description
 2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach.
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
+2022-04-01;(USA) Florida;FL 589;fl.fl589;Northern end truncated from US 98 (former exit 54) south to where new alignment for FL 589 extention started (*OldFL589), about 0.3 miles. Then extended northward 13 miles along a brand new freeway alignment to a new interchange with FL 44.
 2021-09-22;(USA) Florida;US 221;fl.us221;Removed from Jefferson Street in Perry between the intersections Jefferson Street/Wright Road & Jefferson Street/US 27, and relocated onto a new route following US 27 over to US 19 and then up to Wright Road (former CR 359A) and then back to the original US 221 alignment north of Perry. Old section is now just Jefferson Street.
 2021-09-22;(USA) Florida;US 221 Truck (Perry);fl.us221trkper;Northern end truncated from intersection of Wright Road & Jefferson Street north of Perry to the intersection of US 19, US 27, US 98, US 27 Alternate in Downtown Perry, due to a reroute of mainline US 221 taking over most of the truck route.
 2021-05-25;(USA) Florida;FL 46 (Sanford);fl.fl046;Western end truncated from US 441 to CR 46A, due to small segment becoming CR 46A in the middle of the route. Western part becomes part of FL 46 (Mount Dora).
@@ -4821,6 +4843,11 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2022-04-02;(USA) Louisiana;LA 3127;la.la3127;Extended at south end along concurrency with I-310
+2022-03-28;(USA) Louisiana;LA 426;la.la0426;Truncated at east end from US 190 to Sherwood Forest Blvd
+2022-03-28;(USA) Louisiana;LA 3064;la.la3064;Extended at south end from LA 427 to Highland Rd
+2022-03-27;(USA) Louisiana;LA 1259;la.la1259;Route added
+2022-03-27;(USA) Louisiana;LA 427 (Prairieville);la.la0427pra;Route truncated at north end from LA 3426 to the Ascension/East Baton Rouge parish line
 2022-02-13;(USA) Louisiana;LA 1209;;Route deleted
 2022-01-16;(USA) Louisiana;LA 640 (Edgard);la.la0640;Truncated at north end from former ferry dock to LA 18
 2022-01-16;(USA) Louisiana;LA 640 (Reserve);;Route deleted
@@ -5739,6 +5766,12 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2022-03-27;(USA) Tennessee;TN 50 (Winchester);tn.tn050win;Removed from TN 130 and Lynchburg Rd and relocated onto George Fraley Pkwy and US 64 Business between LynRd_E and TN130
+2022-03-27;(USA) Tennessee;TN 95;tn.tn095;Moved to new bridge over the Tennessee River (constructed between 2016-2018) between US11 & TN444
+2022-03-27;(USA) Tennessee;TN 126;tn.tn126;Removed from Bristol Hwy in Blountville (now TN 126 Business) and relocated onto bypass and TN 394
+2022-03-27;(USA) Tennessee;TN 126 Business (Blountville);tn.tn126busblo;Route added
+2022-03-27;(USA) Tennessee;US 321;tn.us321;Moved to new bridge over the Tennessee River (constructed between 2016-2018) between US11 & TN444
+2022-03-27;(USA) Tennessee;US 411 Truck (Maryville);tn.us411trkmar;Route added
 2021-11-30;(USA) Tennessee;TN 397;tn.tn397;Extended at north end from US 431/US 431 Business counterclockwise to TN 96
 2021-08-07;(USA) Tennessee;US 411;tn.us411;Removed from former alignment onto TN 92 and new partial bypass of Chestnut Hill between TN92_S and US411_S
 2021-07-28;(USA) Tennessee;TN 7;tn.tn007;Truncated at south end from US 31 to US 43/US 412
