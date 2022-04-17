@@ -17,4 +17,5 @@ FRA-85 = `Ven` = Vendée
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-72 - Sarthe:*
+- Numbering in Saint-Calais is a mess on OSM, GM and 2018 GSV, to be checked with updated GSV
