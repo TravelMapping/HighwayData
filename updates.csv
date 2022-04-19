@@ -250,6 +250,7 @@ date;region;route;root;description
 2016-11-19;(Canada) Nova Scotia;TCH (Main);ns.tchmai;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-02-27;(Canada) Nova Scotia;NS 255;ns.ns255;Removed from a closed roadway and demolished bridge, and relocated onto a new parallel roadway and bridge to the east between points labeled *OldNS255_N and *OldNS255_S
 2016-01-02;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from partially-closed local roads through Port Joli and East Port L'Hebert, and relocated onto a limited-access bypass to the north, between closed intersections labeled *OldNS103_PJo and *OldNS103_EPL
+2022-04-11;(Canada) Ontario;Gardiner Expressway;on.ongar;Route truncated on eastern end from Lake Shore Blvd to the ramps to the Don Valley Parkway (exit 157), as it's been demolished to help make way for a future realignment of the Gardiner Expressway.
 2022-01-01;(Canada) Ontario;ON 69;on.on069;Rerouted onto a new freeway alignment in Bigwood/French River area, between the points of *OldON69_Gru & *OldON69_NoeS that opened mid 2021. The old highway became just local access between those two points.
 2022-01-01;(Canada) Ontario;TCH (Georgian Bay);on.tchgeo;Rerouted onto a new ON 69 freeway alignment in Bigwood/French River area, between the points of *OldON69_Gru & *OldON69_NoeS that opened mid 2021. The old highway became just local access between those two points.
 2021-09-20;(Canada) Ontario;ON 427;on.on427;Extended at northern end from Exit 21 (Highway 7) to the newly opened Major Mackenzie Drive interchange.
@@ -1096,6 +1097,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2022-04-16;(Germany) North Rhine-Westphalia;L581 (Billerbeck);deunw.l581bil;New Route (former segment of main route due to downgrade between B525 and B474)
+2022-04-16;(Germany) North Rhine-Westphalia;L581 (Borken);deunw.l581;Route truncated at east end from Roxel to Coesfeld (B525)
 2022-01-07;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route extended at east end from L277 to end point south of Tagebau Garzweiler (former segment of L277)
 2022-01-07;(Germany) North Rhine-Westphalia;L277 (Mönchengladbach);deunw.l277mon;New Route (remainder north of the Tagebau Garzweiler section decommissioned)
 2022-01-07;(Germany) North Rhine-Westphalia;L277 (Bedburg);deunw.l277;Route truncated at north end from L116 in Mönchengladbach to L19 north of Jackerath
@@ -1222,6 +1225,7 @@ date;region;route;root;description
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Kirchheim);deurp.b271kir;Route relocated from northern section of the bypass and through Kirchheim
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
+2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
 2022-02-19;(Germany) Saxony;L190;deusn.s190;Route relocated from northern segment of Alte Altenberger Straße through Dippoldiswalde and onto B170 bypass and central segment of Alte Altenberger Straße
 2021-11-21;(Germany) Saxony;B95 (Rötha);deusn.b095rot;Route truncated at south end from B176 Kesselshain to S242 Espenhain (S242 now)
@@ -2125,7 +2129,7 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
-2022-04-05;Norway;E39 (Skjersholmane);nor.fv244hei;Route renamed to Fv244
+2022-04-05;Norway;E39 (Skjersholmane);nor.fv544hei;Route renamed to Fv244
 2022-01-05;Norway;Rv291;nor.rv291;New Route
 2021-12-25;Norway;E39 (Stavanger);nor.e39;Route relocated from old alignment (Fv439 now) to new motorway alignment from exit 9 to exit 10 and new Sandnesheitunnelen section between Fv459 and Mandal
 2021-12-25;Norway;Kristiansand - Stavanger Motorveien;nor.kristamot;New Route
@@ -4294,7 +4298,7 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
-2022-04-11;(USA) Connecticut;CT 17;ct.ct017;Corrected to follow Saint John's Square instead of Washington Street between CT 9 and CT 66.
+2022-04-04;(USA) Connecticut;CT 17;ct.ct017;Corrected to follow Saint John's Square instead of Washington Street between CT 9 and CT 66.
 2021-02-08;(USA) Connecticut;CT 148;ct.ct148;Split into two segments at the Chester-Hadlyme Ferry.
 2021-02-08;(USA) Connecticut;CT 148 (Lyme);ct.ct148lym;Route added.
 2021-02-08;(USA) Connecticut;CT 160;ct.ct160;Split into two segments at the Rocky Hill-Glastonbury Ferry.
@@ -5207,6 +5211,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2022-04-17;(USA) New York;I-86 (Binghamton);ny.i086bin;Extended westward from exit 75 concurrent with I-81 to exit 72A.
+2022-04-17;(USA) New York;I-86 Future (Binghamton);ny.i086futbin;East end truncated from exit 75 to exit 72A. Section now an extension of I-86 (Binghamton).
 2022-01-16;(USA) New York;NY 878 (Far Rockaway);ny.ny878far;Extended northward from Bayview Ave to Rockaway Turnpike.
 2022-01-08;(USA) New York;NY 28A;ny.ny028a;Removed from NY 213 and a partially demolished two-lane road and relocated northwestward between NY 213 and a point labeled *OldNY28A, sometime between 2011 & 2013.
 2022-01-08;(USA) New York;NY 213;ny.ny213;Extended westward 0.3 mi from old NY28A to NY 28A sometime between 2011 & 2013.
@@ -5543,6 +5549,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2022-04-13;(USA) Pennsylvania;PA 915 Truck (Wells Township);pa.pa915trkwel;Route added.
 2022-02-13;(USA) Pennsylvania;US 13;pa.us013;Rerouted in Chester to follow PA 291 and Morton Ave between labels US13BusChe_S and US13BusChe_N.  The old alignment was redesignated as US 13 Business (Chester).
 2022-02-13;(USA) Pennsylvania;US 13 Business (Chester);pa.us013busche;Route added.  This was the former alignment of US 13 through Chester.
 2022-02-02;(USA) Pennsylvania;PA 441 Truck (Lower Swatara Township);pa.pa441trklow;Route added.
@@ -5736,6 +5743,9 @@ date;region;route;root;description
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
+2022-04-16;(USA) South Dakota;US 18 Truck (Hot Springs);;Deleted route
+2022-04-16;(USA) South Dakota;US 18;sd.us018;Removed from University Avenue and Jensen Highway in Hot Springs and rerouted onto US 18 Truck around south side of Hot Springs
+2022-04-16;(USA) South Dakota;US 385;sd.us385;Moved point US18_W to former US18Trk. Original US18_W renamed UniAve.
 2021-11-10;(USA) South Dakota;SD 203;;Deleted route
 2021-09-06;(USA) South Dakota;I-90 Business Spur (White Lake);;Deleted route
 2021-05-20;(USA) South Dakota;SD 50;sd.sd050;Rerouted from diagonal west of Wagner between Walnut Avenue and 392nd Avenue onto SD 46 and 392nd Avenue. Old point renamed WalAve. Added and closed *OldSD50.
