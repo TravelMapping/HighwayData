@@ -1097,6 +1097,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2022-04-16;(Germany) North Rhine-Westphalia;L581 (Billerbeck);deunw.l581bil;New Route (former segment of main route due to downgrade between B525 and B474)
+2022-04-16;(Germany) North Rhine-Westphalia;L581 (Borken);deunw.l581;Route truncated at east end from Roxel to Coesfeld (B525)
 2022-01-07;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route extended at east end from L277 to end point south of Tagebau Garzweiler (former segment of L277)
 2022-01-07;(Germany) North Rhine-Westphalia;L277 (Mönchengladbach);deunw.l277mon;New Route (remainder north of the Tagebau Garzweiler section decommissioned)
 2022-01-07;(Germany) North Rhine-Westphalia;L277 (Bedburg);deunw.l277;Route truncated at north end from L116 in Mönchengladbach to L19 north of Jackerath
@@ -4153,6 +4155,8 @@ date;region;route;root;description
 2018-12-26;(USA) Alaska;Walter J. Hickel Parkway;ak.hicpkwy;Route added (includes parts of Minnesota Dr. and O'Malley Rd. in Anchorage)
 2019-03-04;(USA) Alaska;McCarthy Road;ak.mccarrd;Route added in Wrangell-St. Elias NP
 2019-03-04;(USA) Alaska;Nabesna Road;ak.nabrd;Route added in Wrangell-St. Elias NP
+2022-04-20;(USA) Arizona;US 93 Truck (Laughlin);;Route deleted (included all of AZ 68, and part of AZ 95)
+2022-04-19;(USA) Arizona;AZ99;az.az099;Route truncated at south end from boundary of Apache-Sitgreaves National Forest to end of state maintenance which is roughly 16 miles south of Winslow
 2022-04-05;(USA) Arizona;AZ24;az.az024;Route extended east from Ellsworth Road to Williams Field Road
 2022-03-25;(USA) Arizona;AZ66;az.az066;Route extended east from first crossing of Coconino/Yavapai county line to third crossing of Coconino/Yavapai county line.
 2021-12-03;(USA) Arizona;AZ143;az.az143;Route truncated at south end from Broadway Road to I-10
@@ -4232,6 +4236,8 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2022-04-21;(USA) California;I-105;ca.i105;Route extended east, from I-605 to Studebaker Rd. in Norwalk
+2022-04-21;(USA) California;I-780;ca.i780;Route extended west, from I-80 to Lemon St. in Vallejo
 2021-02-07;(USA) California;I-305;ca.i305;Truncated from exit 7C to exit 6 (eastern US 50/CA 99 junction)
 2021-02-07;(USA) California;US 101 Business (Ukiah);;Route deleted
 2021-02-07;(USA) California;US 50 Alternate (Pollock Pines);;Route deleted
@@ -5127,6 +5133,7 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2022-04-20;(USA) Nevada;US 93 Truck (Laughlin);;Route deleted (included all of NV 163, and part of US 95)
 2021-08-02;(USA) Nevada;NV 613;nv.nv613;Route added, as replacement for nv.sumpkwy (former county freeway, now part of state system and signed as such)
 2021-08-02;(USA) Nevada;Summerlin Parkway;;Route deleted, replaced by new NV 613
 2021-06-04;(USA) Nevada;US 50 Business (Carson City);;Route deleted
@@ -5209,6 +5216,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2022-04-17;(USA) New York;I-86 (Binghamton);ny.i086bin;Extended westward from exit 75 concurrent with I-81 to exit 72A.
+2022-04-17;(USA) New York;I-86 Future (Binghamton);ny.i086futbin;East end truncated from exit 75 to exit 72A. Section now an extension of I-86 (Binghamton).
 2022-01-16;(USA) New York;NY 878 (Far Rockaway);ny.ny878far;Extended northward from Bayview Ave to Rockaway Turnpike.
 2022-01-08;(USA) New York;NY 28A;ny.ny028a;Removed from NY 213 and a partially demolished two-lane road and relocated northwestward between NY 213 and a point labeled *OldNY28A, sometime between 2011 & 2013.
 2022-01-08;(USA) New York;NY 213;ny.ny213;Extended westward 0.3 mi from old NY28A to NY 28A sometime between 2011 & 2013.
@@ -5739,6 +5748,9 @@ date;region;route;root;description
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
+2022-04-16;(USA) South Dakota;US 18 Truck (Hot Springs);;Deleted route
+2022-04-16;(USA) South Dakota;US 18;sd.us018;Removed from University Avenue and Jensen Highway in Hot Springs and rerouted onto US 18 Truck around south side of Hot Springs
+2022-04-16;(USA) South Dakota;US 385;sd.us385;Moved point US18_W to former US18Trk. Original US18_W renamed UniAve.
 2021-11-10;(USA) South Dakota;SD 203;;Deleted route
 2021-09-06;(USA) South Dakota;I-90 Business Spur (White Lake);;Deleted route
 2021-05-20;(USA) South Dakota;SD 50;sd.sd050;Rerouted from diagonal west of Wagner between Walnut Avenue and 392nd Avenue onto SD 46 and 392nd Avenue. Old point renamed WalAve. Added and closed *OldSD50.

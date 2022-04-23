@@ -17,4 +17,7 @@ FRA-85 = `Ven` = Vendée
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-72 - Sarthe:*
+- Numbering in Saint-Calais is a mess on OSM, GM and 2018 GSV, to be checked with updated GSV
+- `D209` routing through Courcemont is drafted according to GM and 2009 GSV(!), OSM shows a different routing though. To be checked with updated GSV
+- `D295` sign at `D53` appeared anytime between 2011 and 2018 but GSV at `D23` is from 2016 only. To be checked with updated GSV if route extends to `D23`
