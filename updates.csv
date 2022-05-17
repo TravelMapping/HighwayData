@@ -675,6 +675,7 @@ date;region;route;root;description
 2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
 2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
+2022-05-14;(France) Grand-Est;N52 (Rombas);frages.n052rom;Route relocated from through frages.n052rom and onto new bypass from D52A to D181
 2021-12-21;(France) Grand-Est;A4 (Metz);frages.a004;Route truncated at east end from exit 51 to exit 48 (M35-6ae now)
 2021-12-21;(France) Grand-Est;A35 (Strasbourg);frages.a035;Route truncated at south end from exit 18 to exit 48 (M35-6ae and A35 (Sélestat) now)
 2021-12-21;(France) Grand-Est;A35 (Sélestat);frages.a035sel;New route (former part of A35 (Strasbourg))
@@ -722,6 +723,7 @@ date;region;route;root;description
 2020-06-16;(France) Nouvelle-Aquitaine;E603;franaq.e603;Route removed from Route de Cognac, Route Claude Bonnier, Rue de Royan and N10 and relocated onto N141 between D37 N10 exit 59
 2020-06-16;(France) Nouvelle-Aquitaine;N141;franaq.n141;Route removed from Route de Cognac, Route Claude Bonnier, Rue de Royan and N10 and relocated onto Angouleme bypass between D37 and N10_S
 2020-06-16;(France) Nouvelle-Aquitaine;N1141;franaq.n141;Route deleted (now part of N141)
+2022-05-14;(France) Occitanie;N88 (Rodez);fraocc.n088;Route relocated from through Baraqueville and La Mothe (D888-12 now) and onto new bypass from exit 26 north of Baraqueville to south of La Mothe
 2022-02-15;(France) Occitanie;N124;fraocc.n124;Route relocated from through Gimont (D924 now) and onto new bypass from west of Gimont to east of Gimont
 2021-10-09;(France) Occitanie;N20;fraocc.n020;Route extended at north end north of Pamiers from A66 exit 4b to A66 exit 3
 2021-07-24;(France) Occitanie;Bretelle d'accès à l'autoroute Francoulès;fraocc.brefra;New Route
@@ -1098,6 +1100,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2022-05-14;(Germany) North Rhine-Westphalia;L277 (Bedburg);deunw.l277;Route truncated at north end from junction with former L19 to A61 north of Jackerath
+2022-05-14;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route truncated at east end from end point south of Tagebau Garzweiler to Holzweiler and reextended to A61 north of Jackerath
 2022-04-16;(Germany) North Rhine-Westphalia;L581 (Billerbeck);deunw.l581bil;New Route (former segment of main route due to downgrade between B525 and B474)
 2022-04-16;(Germany) North Rhine-Westphalia;L581 (Borken);deunw.l581;Route truncated at east end from Roxel to Coesfeld (B525)
 2022-01-07;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route extended at east end from L277 to end point south of Tagebau Garzweiler (former segment of L277)
@@ -4170,6 +4174,9 @@ date;region;route;root;description
 2018-12-26;(USA) Alaska;Walter J. Hickel Parkway;ak.hicpkwy;Route added (includes parts of Minnesota Dr. and O'Malley Rd. in Anchorage)
 2019-03-04;(USA) Alaska;McCarthy Road;ak.mccarrd;Route added in Wrangell-St. Elias NP
 2019-03-04;(USA) Alaska;Nabesna Road;ak.nabrd;Route added in Wrangell-St. Elias NP
+2022-05-15;(USA) Arizona;US 191 Spur (Bowie);;Route deleted, not signed
+2022-05-15;(USA) Arizona;US 191 Business (Douglas);az.us191busdou;New route, replacing segment south of AZ 80 formerly incorrectly mapped as part of US 191
+2022-05-15;(USA) Arizona;US 191;az.us191;Route truncated at south end from Mexican border to AZ 80
 2022-05-07;(USA) Arizona;North Rim Drive (Canyon De Chelly NM);;Route deleted, this is not an NPS road
 2022-05-07;(USA) Arizona;South Rim Drive (Canyon De Chelly NM);;Route deleted, this is not an NPS road
 2022-04-20;(USA) Arizona;US 93 Truck (Laughlin);;Route deleted (included all of AZ 68, and part of AZ 95)
