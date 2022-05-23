@@ -679,20 +679,20 @@ date;region;route;root;description
 2021-12-21;(France) Grand-Est;A4 (Metz);frages.a004;Route truncated at east end from exit 51 to exit 48 (M35-6ae now)
 2021-12-21;(France) Grand-Est;A35 (Strasbourg);frages.a035;Route truncated at south end from exit 18 to exit 48 (M35-6ae and A35 (Sélestat) now)
 2021-12-21;(France) Grand-Est;A35 (Sélestat);frages.a035sel;New route (former part of A35 (Strasbourg))
-2021-12-21;(France) Grand-Est;A351;frages.m03516ae;Route deleted (M351-6ae now)
+2021-12-21;(France) Grand-Est;A351;frages.m03516ae;Route deleted (M351-6AE now)
 2021-12-21;(France) Grand-Est;A355;frages.a355;New route
 2021-12-21;(France) Grand-Est;E25;frages.e25;Route relocated from A4 and A35 through Strasbourg and onto A355 western bypass from A4/A35 interchange to A35/A352 interchange
-2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6ae now)
-2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6ae now)
-2021-01-11;(France) Grand-Est;N83;frages.d00836ae;Route deleted (D83-6ae now)
-2021-01-10;(France) Grand-Est;N4 (Wolfisheim);frages.d10046ae;Route deleted (D1004-6ae now)
-2021-01-10;(France) Grand-Est;N59 (Selestat);frages.d10596ae;Route deleted (D1059-6ae now)
-2021-01-10;(France) Grand-Est;N66;frages.d10666ae;Route truncated at east end from A36 to Vosges / Alsace departement border (D1066-6ae now)
-2021-01-10;(France) Grand-Est;N363;frages.d13636ae;Route deleted (D1363-6ae now)
-2021-01-10;(France) Grand-Est;N1083;frages.d10836ae;Route deleted (D1083-6ae now)
-2021-01-10;(France) Grand-Est;N83;frages.m00836ae;Route deleted (M83-6ae now)
-2021-01-10;(France) Grand-Est;N353;frages.m03536ae;Route deleted (M353-6ae now)
-2021-01-10;(France) Grand-Est;N2350 (Strasbourg);frages.m23506ae;Route deleted (M2350-6ae now)
+2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6AE now)
+2021-07-11;(France) Grand-Est;A340;frages.d13406ae;Route deleted (D1340-6AE now)
+2021-01-11;(France) Grand-Est;N83;frages.d00836ae;Route deleted (D83-6AE now)
+2021-01-10;(France) Grand-Est;N4 (Wolfisheim);frages.d10046ae;Route deleted (D1004-6AE now)
+2021-01-10;(France) Grand-Est;N59 (Selestat);frages.d10596ae;Route deleted (D1059-6AE now)
+2021-01-10;(France) Grand-Est;N66;frages.d10666ae;Route truncated at east end from A36 to Vosges / Alsace departement border (D1066-6AE now)
+2021-01-10;(France) Grand-Est;N363;frages.d13636ae;Route deleted (D1363-6AE now)
+2021-01-10;(France) Grand-Est;N1083;frages.d10836ae;Route deleted (D1083-6AE now)
+2021-01-10;(France) Grand-Est;N83;frages.m00836ae;Route deleted (M83-6AE now)
+2021-01-10;(France) Grand-Est;N353;frages.m03536ae;Route deleted (M353-6AE now)
+2021-01-10;(France) Grand-Est;N2350 (Strasbourg);frages.m23506ae;Route deleted (M2350-6AE now)
 2020-11-08;(France) Grand-Est;D14E-77;frages.d0014e77;New Route
 2020-11-08;(France) Grand-Est;D108-77;frages.d010877;New Route
 2020-11-08;(France) Grand-Est;D934-77;frages.d093477;New Route
@@ -2321,6 +2321,16 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-05-21;Poland;S19 (Lublin);pol.s019rze;Route merged into Rzeszów section
+2022-05-21;Poland;S19 (Rzeszów);pol.s019rze;Route extended at north end from exit 45 to S12 exit 12
+2022-05-21;Poland;DK19 (Kraśnik);pol.dk019kra;Route deleted
+2022-05-21;Poland;DW822;pol.dw822;Route extended at west end from Ulica Emanuela Grafa to S12/S17 exit 13
+2022-05-21;Poland;DW830;pol.dw830;Route extended from northern junction with DW809 to DW835
+2022-05-21;Poland;DW833;pol.dw833;Route truncated at south end from DK74 to Ulica Lublin
+2022-05-21;Poland;DW834;pol.dw834;Route truncated at north end from DW747/827 to Ulica Lublin
+2022-05-21;Poland;DW835;pol.dw835;Route removed from Plac Bychawski and Ulica Wladyslawa Kunickiego and relocated onto Ulica Lubelskiego Lipca '80, Ulica Krochmalna, Ulica Wrotkowska, and Ulica Wyscigowa between Aleja Jozefa Pilsudskiego and Ulica Dywizjonu 303
+2022-05-21;Poland;DW874;pol.dw874;Route extended at east end from S12/S17 exit 9 to DW809
+2022-05-21;Poland;DW878;pol.dw878;Route truncated at north end from S19 exit 45 to DK74
 2022-05-04;Poland;S19 (Janów Lubelski);pol.s019rze;Route deleted (now part of Rzeszów section)
 2022-05-04;Poland;S19 (Rzeszów);pol.s019rze;Route extended at north end from exit 54 to exit 45
 2022-05-04;Poland;DK19 (Nisko);pol.dw878;Route deleted (now part of DW878)
@@ -4456,6 +4466,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2022-05-21;(USA) Illinois;IL 14;il.il014;Truncated from Indiana state line to CR2250E (bridge closed)
 2022-03-07;(USA) Illinois;US 54;il.us054;Slightly realigned at MO/IL due to new Mississippi River Bridge built slightly to the south.
 2022-03-07;(USA) Illinois;IL 29;il.il029;Removed from Springfield Road through Edinburg and relocated onto four-lane bypass on east side of Edinburg (between points OldIL29_S and OldIL29_N).
 2022-03-07;(USA) Illinois;IL 104;il.il104;Slightly realigned between IL 99 and MorSt due to new bridge across the Illinois River.
@@ -5786,6 +5797,7 @@ date;region;route;root;description
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
+2022-05-21;(USA) South Dakota;SD 1806 (Gregory County North);sd.sd1806grn;Extended southward from 281st Street to ranch gate on 352nd Avenue
 2022-04-16;(USA) South Dakota;US 18 Truck (Hot Springs);;Deleted route
 2022-04-16;(USA) South Dakota;US 18;sd.us018;Removed from University Avenue and Jensen Highway in Hot Springs and rerouted onto US 18 Truck around south side of Hot Springs
 2022-04-16;(USA) South Dakota;US 385;sd.us385;Moved point US18_W to former US18Trk. Original US18_W renamed UniAve.
@@ -5874,6 +5886,8 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2022-05-19;(USA) Texas;TX 99 (Baytown);tx.tx099;Deleted, merged into main TX 99 route.
+2022-05-19;(USA) Texas;TX 99;tx.tx099;Extended clockwise from I-69 Exit 157 to I-10 Exit 799, then over the former Baytown segment to TX 146 Business.
 2022-05-16;(USA) Texas;I-69E;tx.i069e;Extended northward from Yturria Co Rd to Exit 56.
 2022-02-24;(USA) Texas;US 77;tx.us077;Removed from US 77 Business (Driscoll) and relocated eastward onto the Driscoll Bypass.
 2022-02-24;(USA) Texas;US 77 Business (Driscoll);tx.us077busdri;Route added.
@@ -6163,6 +6177,7 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2022-05-21;(USA) Wisconsin;WI 241;wi.wi241;Re-extended along 7 Mile Road from intersection with 7 Mile Road to I-41/94
 2022-03-07;(USA) Wisconsin;WI 83;wi.wi083;Truncated from WI 175 to WI 60.
 2021-12-17;(USA) Wisconsin;WI 81;wi.wi081;Extended east from I-39/90 along new extension to I-43.
 2021-12-16;(USA) Wisconsin;WI 145;wi.wi145;Removed from Old Orchard Road between WI 100 and 124th Street, and relocated onto WI 100 and 24th Street.
