@@ -17,6 +17,9 @@ FRA-85 = `Ven` = Vendée
 
 
 **NOTES TO ROUTES:**
+*FRA-49 - Maine-et-Loire:*
+- There is a shp file `D149V` connecting the two `D149-85` routes. `V` might stand for Vendée, not drafted as -49 route
+
 *FRA-72 - Sarthe:*
 - Numbering in Saint-Calais is a mess on OSM, GM and 2018 GSV, to be checked with updated GSV
 - `D209` routing through Courcemont is drafted according to GM and 2009 GSV(!), OSM shows a different routing though. To be checked with updated GSV
