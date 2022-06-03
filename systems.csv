@@ -198,6 +198,7 @@ mnem;MNE;Montenegro Magistralni Put;TMlightsalmon;4;active
 mner;MNE;Montenegro Regionalni Put;TMyellow;5;active
 myse;MYS;Malaysia Expressways;TMblue;1;active
 nama;NAM;Namibia A Roads;TMblue;1;active
+namb;NAM;Namibia Major Routes;TMgreen;4;active
 nlda;NLD;Netherlands Autosnelwegen;TMblue;1;active
 abwrt;NLD;Aruba Routes;TMlightsalmon;4;active
 nldr;NLD;Netherlands Rijkswegen;TMlightsalmon;4;active
@@ -318,6 +319,8 @@ usawv;USA;West Virginia State Highways;TMbrown;4;active
 usawi;USA;Wisconsin State Highways;TMbrown;4;active
 usawy;USA;Wyoming State Highways;TMbrown;4;active
 zafn;ZAF;South Africa National Highways;TMgreen;3;active
+zwer;ZWE;Zimbabwe Regional Roads;TMgreen;4;active
+zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;active
 #Preview Systems
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
@@ -436,6 +439,7 @@ reud;FRA;Reunion Routes Départementales;TMyellow;5;preview
 gabn;GAB;Gabon Routes Nationales;TMgreen;4;preview
 gbrtrl;GBR;United Kingdom Trails;TMbrown;5;preview
 nirtr;GBR;Northern Ireland Tourist Routes;TMbrown;5;preview
+gnbn;GNB;Guinea-Bissau Estradas Nacionais;TMred;4;preview
 index;IND;India National Expressways;TMblue;1;preview
 isrr;ISR;Israel Regional Roads;TMyellow;5;preview
 #itaa2;ITA;Italy Autostrada (Italy split);TMblue;1;preview
@@ -451,6 +455,7 @@ jpnhsh;JPN;Japan Ippan Kokudō - Shikoku;TMred;4;preview
 lkaa;LKA;Sri Lanka A Roads;TMlightsalmon;4;preview
 kena;KEN;Kenya A Roads;TMgreen;3;preview
 kenb;KEN;Kenya B Roads;TMyellow;4;preview
+kwtr;KWT;Kuwait Routes;TMlightsalmon;4;preview
 lsoa;LSO;Lesotho Main Roads;TMgreen;4;preview
 mexf;MEX;Mexico Carreteras Federales;TMred;2;preview
 mexdfeje;MEX;Mexico City Ejes;TMyellow;5;preview
@@ -459,8 +464,8 @@ mexqro;MEX;Querétaro Carreteras Estatales;TMbrown;4;preview
 mozn;MOZ;Mozambique Estrada Nacional;TMgreen;4;preview
 musm;MUS;Mauritius Motorways;TMgreen;3;preview
 musa;MUS;Mauritius Primary Main Roads;TMlightsalmon;4;preview
+musb;MUS;Mauritius Secondary Main Roads;TMyellow;5;preview
 mwim;MWI;Malawi Main Roads;TMgreen;4;preview
-namb;NAM;Namibia Major Routes;TMgreen;4;preview
 nplh;NPL;Nepal Highways;TMlightsalmon;4;preview
 rusa;RUS;Russia Access Roads;TMlightsalmon;4;preview
 rwanr;RWA;Rwanda National Roads;TMgreen;4;preview
@@ -482,8 +487,6 @@ vnmct;VNM;Vietnam Cao Toc;TMblue;1;preview
 zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;preview
 zmbt;ZMB;Zambia Trunk Roads;TMgreen;4;preview
 zmbm;ZMB;Zambia Main Roads;TMyellow;5;preview
-zwer;ZWE;Zimbabwe Regional Roads;TMgreen;4;preview
-zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;preview
 #Devel Systems
 #afrcu;AFR;UEMOA Community Roads;TMlightsalmon;3;devel
 afrtah;AFR;UNECA Trans-African Highways;TMred;2;devel
@@ -525,7 +528,6 @@ frapdlm44;FRA;Nantes Métropole Routes Métropolitaines;TMyellow;5;devel
 frapdld49;FRA;Maine-et-Loire Routes Départementales;TMyellow;5;devel
 frapdld85;FRA;Vendée Routes Départementales;TMyellow;5;devel
 #frapacm83;FRA;Toulon Provence Méditerranée Routes Métropolitaines;TMyellow;5;devel
-gnbn;GNB;Guinea-Bissau Estradas Nacionais;TMred;4;devel
 #idnah;IDN;Indonesia Asian Highways (split regions);TMred;2;devel
 #idnjwt;IDN;Java Jalan Tol;TMblue;1;devel
 #idnjwt;IDN;Java Ruta Nacional;TMlightsalmon;3;devel
@@ -546,7 +548,6 @@ indwb;IND;West Bengal State Highways;TMyellow;4;devel
 #mexdn;MEX;Mexico Federal Expressways (new);TMblue;1;devel
 #mexedn;MEX;Mexico State Expressways (new);TMteal;3;devel
 mexsf;MEX;Mexico Select Freeways;TMteal;3;devel
-musb;MUS;Mauritius Secondary Main Roads;TMyellow;5;devel
 naca;NA;Rutas Centroamericanas;TMred;2;devel
 ngae;NGA;Nigeria Expressways;TMblue;1;devel
 rusr;RUS;Russia Regional Roads;TMlightsalmon;4;devel
