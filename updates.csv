@@ -860,6 +860,9 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2022-06-04;(Germany) Baden-Württemberg;B292 (Mosbach);deubw.b292;Route reloacted from through Adelsheim (B292a now) and onto new bypass
+2022-06-04;(Germany) Baden-Württemberg;B292 (Adelsheim);deubw.b292;Route merged into main route
+2022-06-04;(Germany) Baden-Württemberg;B292a;deubw.b292a;New route (former route through Adelsheim)
 2022-04-01;(Germany) Baden-Württemberg;B10;deubw.b028;Route reloacted in Stuttgart from Pragstraße and Neckartalstraße and through Rosenstein tunnel between Löwentorstraße and B14
 2022-04-01;(Germany) Baden-Württemberg;B28 (Main);deubw.b028;Route extended at east end from L370 east of Rottenburg to Ulm closing former gap to Weilheim between L370 and L371
 2022-04-01;(Germany) Baden-Württemberg;B28 (Reutlingen);deubw.b028;Route merged into main route
@@ -929,6 +932,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2022-06-04;(Germany) Bavaria;B2 (Weilheim);deuby.b002wei;Route relocated from through Oberau and onto new bypass from exit Münchner Straße north of Oberau to B23 exit south of Oberau
+2022-06-04;(Germany) Bavaria;E533;deuby.e533;Route relocated from through Oberau and onto new bypass from exit Münchner Straße north of Oberau to B23 exit south of Oberau
 2022-02-15;(Germany) Bavaria;St2240;deuby.st2240;Route relocated in Erlangen from Münchener Straße and Henkestraße, and onto A73 and Werner-von-Siemens-Straße from A73 exit 31 to junction Henkestraße/Werner-von-Siemens-Straße
 2022-02-15;(Germany) Bavaria;St2242 (Fürth);deuby.st2242;Route truncated at north end from Egloffstein to Erlangen
 2022-02-15;(Germany) Bavaria;St2242 (Effeltrich);deuby.st2242eff;New Route (former part of main route)
@@ -1759,6 +1764,7 @@ date;region;route;root;description
 2017-05-31;Israel;F7;isr.f007;New Route
 2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
 2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
+2022-06-04;Italy;E35;ita.e35;Route extended at south end from A1/AGRA junction to exit 30 of AGRA
 2021-06-28;Italy;A18 (Siracusa);ita.a018sir;Route extended at south end from SP26 to SP46
 2021-06-22;Italy;Raccordo Autostradale di Pisa;ita.a012pis;Route extended at east end from SP22 to SS1
 2021-06-22;Italy;S.G.C. Firenze-Pisa-Livorno (Pisa);ita.sgcfirpisa;Route truncated at west end from A12 mainline to A12 Raccordo at SS1
@@ -2122,6 +2128,7 @@ date;region;route;root;description
 2015-07-28;Netherlands;A261;;Route deleted
 2015-07-28;Netherlands;A4 (Bergen op Zoom);nld.a004ber;Route extended at north end from N259 to A29/A59, including Dinteloord section
 2015-07-28;Netherlands;A4 (Dintleloord);;Route merged with Bergen op Zoom section
+2022-06-04;New Zealand;Auckland Northern Motorway;nzl.aucnmot;Route extended at north end from exit 388 to exit 386
 2022-03-30;New Zealand;Transmission Gully Motorway;nzl.tragulmot;Route added
 2022-03-30;New Zealand;SH1 (Te Ika-a-Māui);nzl.sh001;Route removed from SH59 and relocated onto Transmission Gully Motorway between north and south junctions with SH59
 2022-03-30;New Zealand;SH59;nzl.sh059;Route added
@@ -3050,6 +3057,8 @@ date;region;route;root;description
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2022-06-04;Serbia;B41;srb.b041;Route extended at east end from R258 to A1
+2022-06-04;Serbia;B44;;Route deleted
 2022-01-31;Serbia;A2;srb.a002;Route extended from exit 6 (southern junction with B22) to exit 7
 2022-01-31;Serbia;E761;srb.e761;Route removed from B23 and relocated onto B22 and A2 between B22/B23 junction and A2/B23 junction
 2022-01-31;Serbia;E763;srb.e763;Route removed from B22 and B23 and relocated onto A2 between A2 exits 6 and 7
@@ -3752,6 +3761,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2022-06-04;(UK) England;B3334;eng.b3334;Route removed from Titchfield Road and Gosport Road in Stubbington and relocated onto Daedalus Way between southern junction with Titchfield Road and western junction with Gosport Road
 2022-05-07;(UK) England;A418 (Kingsbrook);eng.a0418kin;Route added
 2022-05-07;(UK) England;A460 (Rugeley);eng.a0460rug;Route added
 2022-05-07;(UK) England;A513;eng.a0513;Route removed from Armitage Road and A460 and relocated onto A51 Rugeley Eastern Bypass between A51_S and A460
