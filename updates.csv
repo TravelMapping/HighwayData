@@ -3767,6 +3767,8 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2022-06-12;(UK) England;A1025;eng.a1025;Route extended at east end from southern junction with A414 to M11
+2022-06-12;(UK) England;B183;eng.b0183;Route truncated at west end from A414 to A1025
 2022-06-04;(UK) England;B3334;eng.b3334;Route removed from Titchfield Road and Gosport Road in Stubbington and relocated onto Daedalus Way between southern junction with Titchfield Road and western junction with Gosport Road
 2022-05-07;(UK) England;A418 (Kingsbrook);eng.a0418kin;Route added
 2022-05-07;(UK) England;A460 (Rugeley);eng.a0460rug;Route added
@@ -5373,6 +5375,16 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2022-06-12;(USA) North Carolina;Bryan Blvd;nc.bryblvd;Added route
+2022-06-12;(USA) North Carolina;I-885;nc.i885;Added route
+2022-06-12;(USA) North Carolina;NC 885;nc.nc885;Added route, replaced part of NC 147
+2022-06-12;(USA) North Carolina;NC 147;nc.nc147;Truncated route, replaced by NC 885 and some of I-885
+2022-06-12;(USA) North Carolina;NC 184;nc.nc184;Truncated route 0.6 miles to actual ending
+2022-06-12;(USA) North Carolina;I-26 (Faust);nc.i026fau;extended route to Exit 13 replacing some of I-26 Future
+2022-06-12;(USA) North Carolina;I-26 Future (Asheville);nc.i026futash;truncated route to Exit 13 replaced by I-26 Faust
+2022-06-12;(USA) North Carolina;NC 119;nc.nc119;rerouted onto new bypass of Mebane, new routing between 5th St and 1st St waypoints
+2022-06-12;(USA) North Carolina;US 70 Bus Durham;nc.us070busdur;rerouted at east end to follow NC 98 instead of Miami Blvd
+2022-06-12;(USA) North Carolina;NC 12;nc.nc012;rerouted onto new bridge, new routing is between OldNC12_S and OldNC12_N
 2021-09-26;(USA) North Carolina;NC 160;nc.nc160;completely rerouted between the ByrDr and YorRd points around 2011
 2021-08-30;(USA) North Carolina;US 441 Business - Cherokee;nc.us441busche;was shown erroneously on a completely different route only US19_E point north was correct - route has not changed since inception in 1987
 2021-08-30;(USA) North Carolina;US 76;nc.us076;extended east one waypoint to its actual endpoint
