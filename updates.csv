@@ -4565,6 +4565,8 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 31;il.il031;Relocated in Algonquin from Main Street between Huntington Drive and Elmwood Court, west onto new bypass
 2015-09-06;(USA) Illinois;IL 62;il.il062;Extended west in Algongquin, along Algonquin Road from Main Street (old IL 31) to new IL 31 bypass
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
+2022-06-26;(USA) Indiana;IN 9;in.in009;Removed from Harrison St north of IN 44 in Shelbyville and onto IN 44 and I-74
+2022-06-26;(USA) Indiana;IN 9 Truck (Shelbyville);in.in009trkshe;Truncated from I-74/IN 9 junction (exit 113) to former IN44_W point, now labeled IN9_N
 2022-01-16;(USA) Indiana;IN 56;in.in056;Rerouted around Madison along IN 62 and US 421 between Clifty Hollow Rd and new intersection at 2nd St & Harrison St
 2022-01-16;(USA) Indiana;IN 256;in.in256;Truncated at east end from former IN 56 junction to IN56/62
 2022-01-16;(USA) Indiana;US 12;in.us012;Removed from demolished segment of Dunes Hwy in Gary and onto US 20 and a new segment of Dunes Hwy between *US20_A and *OldUS12
@@ -4675,8 +4677,15 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
-2022-02-05;(USA) Kentucky;KY 30;ky.ky0030;Removed from old routing (now part of KY 3630) betweeen US 421 and KY 847 onto new alignment
-2022-02-05;(USA) Kentucky;KY 1431;ky.ky1431;Realigned slightly between KY30_A and KY30_B, and between KY30_C and relocated endpoint at KY3630 (former KY 30). KY30_E point moved from junction with now-KY 3630 to junction with KY 30 and relabeled KY30_C.
+2022-06-26;(USA) Kentucky;US 127;ky.us127;removed from CR1596 and Sewellton Rd (now part of KY 2284) onto new alignment between *OldUS127 and StoLn
+2022-06-26;(USA) Kentucky;KY 55;ky.ky0055;Extended from old south end (now labeled CR1596) to new south end at relocated US127 point
+2022-06-26;(USA) Kentucky;KY 341;ky.ky0341;Extended at north end from Woodford/Scott county line to KY 1973
+2022-06-26;(USA) Kentucky;KY 620;ky.ky0620;Realigned slightly to the north between US25/1143 and I-75, and extended from old south end (now labeled DelRd) along former route of KY 3487 to US 62
+2022-06-26;(USA) Kentucky;KY 1143;ky.ky1143;Extended from old north end at KY620 along new construction to new north end at US25/620
+2022-06-26;(USA) Kentucky;KY 2284;ky.ky2284;Extended from old north end (now labeled CR1596) along former route of US 127 to new north end at relocated US127 point
+2022-06-26;(USA) Kentucky;KY 3487;;Route deleted
+2022-05-02;(USA) Kentucky;KY 30;ky.ky0030;Removed from old routing (now part of KY 3630) betweeen US 421 and KY 847 onto new alignment
+2022-05-02;(USA) Kentucky;KY 1431;ky.ky1431;Realigned slightly between KY30_A and KY30_B, and between KY30_C and relocated endpoint at KY3630 (former KY 30). KY30_E point moved from junction with now-KY 3630 to junction with KY 30 and relabeled KY30_C.
 2022-05-02;(USA) Kentucky;KY 3630;ky.ky3630;Extended at east end from US421 (now labeled US421_S) along US 421 and the former route of KY 30 to Botner Rd
 2022-02-05;(USA) Kentucky;KY 3900;ky.ky3900;Route added
 2022-01-01;(USA) Kentucky;KY 622;ky.ky0622;Extended at south end from KY 100 to KY 73
@@ -4940,6 +4949,12 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2022-06-26;(USA) Louisiana;LA 30;la.la0030;Truncated at north end to Burbank Rd (former LA 42)
+2022-06-26;(USA) Louisiana;LA 30 (Baton Rouge);la.la0030bat;Route added, comprising now-separate segment of LA 30 from of Louisiana State University campus north to I-10
+2022-06-26;(USA) Louisiana;LA 42;la.la0042;Truncated at west end to LA 327 Spur
+2022-06-26;(USA) Louisiana;LA 898;la.la0898;Truncated at south end to LA 575
+2022-06-26;(USA) Louisiana;LA 575;la.la0030;Truncated at north end to Burbank Rd (former LA 42)
+2022-06-26;(USA) Louisiana;LA 3064;la.la0575;Extended at east end to US 65 along former route of LA 898
 2022-04-02;(USA) Louisiana;LA 3127;la.la3127;Extended at south end along concurrency with I-310
 2022-03-28;(USA) Louisiana;LA 426;la.la0426;Truncated at east end from US 190 to Sherwood Forest Blvd
 2022-03-28;(USA) Louisiana;LA 3064;la.la3064;Extended at south end from LA 427 to Highland Rd
