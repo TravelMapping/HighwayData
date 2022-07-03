@@ -1680,6 +1680,7 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2022-06-28;Ireland;R126;irl.r126;Route removed from Hearse Road, Main Street and Portrane Road and relocated onto Donabate Distributor Road between eastern junction with Hearse Road and western junction with Portrane Road
 2022-05-04;Ireland;N1 (Dublin);irl.n001dub;Route added
 2021-10-16;Ireland;R242;irl.r242;Route truncated at north end from turn for Altnadarrow to turn for Portmore Pier
 2021-05-05;Ireland;R407;irl.r407;Route truncated at south end from ex-R445 Poplar Square to R445 Millenium Link Road
@@ -1770,6 +1771,8 @@ date;region;route;root;description
 2017-05-31;Israel;F7;isr.f007;New Route
 2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
 2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
+2022-07-01;Italy;A52 Tangenziale Nord di Milano;ita.a052;Route extended at west end from SP35 to A50
+2022-07-01;Italy;A52 Tangenziale Nord di Milano (Rho);ita.a052;Route deleted (merged into main section)
 2022-06-04;Italy;E35;ita.e35;Route extended at south end from A1/AGRA junction to exit 30 of AGRA
 2021-06-28;Italy;A18 (Siracusa);ita.a018sir;Route extended at south end from SP26 to SP46
 2021-06-22;Italy;Raccordo Autostradale di Pisa;ita.a012pis;Route extended at east end from SP22 to SS1
@@ -2344,6 +2347,30 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-07-01;Poland;S5 (Sartowice);pol.s005sar;Route added
+2022-07-01;Poland;S5 (Świecie);pol.dk005swi;Route deleted (now DK5 (Świecie))
+2022-07-01;Poland;S5 (Poznań);pol.s005;Route extended at north end from exit 9 to exit 8
+2022-07-01;Poland;S91;pol.dk091;Route deleted (merged into DK91)
+2022-07-01;Poland;DK5 (Bydgoszcz);pol.dk005swi;Route deleted (merged into Świecie section)
+2022-07-01;Poland;DK5 (Świecie);pol.dk005swi;Route added
+2022-07-01;Poland;DK5 (Wiag);pol.dk005swi;Route deleted (merged into Świecie section)
+2022-07-01;Poland;DK91 (Gdansk);pol.dk091;Route deleted (merged into main DK91)
+2022-07-01;Poland;DK91 (Lodz);pol.dk091;Route extended at north end from S5 (exit 4) to the Gdansk Ferry terminal
+2022-07-01;Poland;DW184;pol.dw184;Route truncated at south end from DK92 to S11
+2022-07-01;Poland;DW196;pol.dw196;Route truncated at south end from DW321 to A2
+2022-07-01;Poland;DW309;pol.dw309;Route extended at north end from S5 exit 44 to S5 exit 43
+2022-07-01;Poland;DW311;pol.dw311;Route added
+2022-07-01;Poland;DW344;;Route deleted
+2022-07-01;Poland;DW348;;Route deleted
+2022-07-01;Poland;DW352;;Route truncated at south end from Czech border to former DW354 ('UliSro_S') and extended along former DW354 from 'UliSro_S' to DW332
+2022-07-01;Poland;DW354;pol.dw352;Route deleted
+2022-07-01;Poland;DW443;pol.dw443;Route truncated at west end from DK12 to S11
+2022-07-01;Poland;DW628;;Route deleted
+2022-07-01;Poland;DW818;;Route deleted
+2022-07-01;Poland;DW869;pol.dw869;Route truncated at west end from Rogoznica kolo Rzeszowa to DK9
+2022-06-30;Poland;S7 (Warsaw);pol.s007war;Route truncated at south end from exit 57 of the S8 to exit R10b of the S2
+2022-06-30;Poland;S7 (Janki);pol.s007jan;Route added
+2022-06-30;Poland;S79;pol.s079;Route extended at east end from exit 3 to exit R12 of the S2
 2022-06-26;Poland;S14;pol.s014;Route extended at north end from exit 7 to exit 4
 2022-06-08;Poland;DW652;pol.dw652;Route truncated at east end from S61 to DW662
 2022-06-08;Poland;DW655;pol.dw655;Route removed from Ulica Raczkowska, Ulica Tadeusza Koscuiszki and Ulica Mikolaja Reja and relocated onto Ulica Lesna, DW662, Ulica 100-licia Niepodleglosci, DW653, DW662, Ulica Kolejowa, Ulica Polnocna, Ulica Trasa Wschodnia and Ulica Armii Krajowej between northern junction with Ulica Raczkowska and southern junction with Ulica Mikolaja Reja
@@ -5966,6 +5993,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2022-06-30;(USA) Texas;US 69;tx.us069;Relocated eastward onto limited-access highway between TX63 and a point north of Zavalla labeled *OldUS69.
 2022-05-19;(USA) Texas;TX 99 (Baytown);tx.tx099;Deleted, merged into main TX 99 route.
 2022-05-23;(USA) Texas;TX 99;tx.tx099;Extended clockwise from TX 146 Business, within the median of TX 146 Business to TX 146.
 2022-05-19;(USA) Texas;TX 99;tx.tx099;Extended clockwise from I-69 Exit 157 to I-10 Exit 799, then over the former Baytown segment to TX 146 Business.
