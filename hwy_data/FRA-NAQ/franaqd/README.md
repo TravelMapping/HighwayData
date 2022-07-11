@@ -23,4 +23,6 @@ FRA-87 = `HVi` = Haute-Vienne
 
 
 **NOTES TO ROUTES:**
-- 
+*FRA-40 - Landes:*
+- `D933N` is indicated on GM and OSM but only signed at `D932` and `D392` junction according to 2021 GSV. However, it is not signed at roundabout to `A65` in-between nor further to the east, drafted as vanilla `D933`
+- `D933S` is indicated on GM, OSM and 2021 GSV but only from Mont-de-Marsan to Momuy, the signs on the southern-most 5km show `D933` only, fully drafted as `D933S` though; Northern feeder to Saint-Sever is signed as `D933`, so drafted too
