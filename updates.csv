@@ -1131,6 +1131,12 @@ date;region;route;root;description
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
 2022-06-25;(Germany) North Rhine-Westphalia;L794;;Route deleted
+2022-07-12;(Germany) North Rhine-Westphalia;B54 (Steinfurt);deunw.b054;Route merged into main route
+2022-07-12;(Germany) North Rhine-Westphalia;B54 (Münster);deunw.b054;Route extended at north end from B51 in Münster to Dutch border near Gronau (different route through Münster than pre-2020)
+2022-07-12;(Germany) North Rhine-Westphalia;L586 (Sendenhorst);deunw.l586;Route truncated at north end from Münster-Warendorfter Straße to Münster-Hafenstraße, and reextended to Steinfurter Straße (B54)
+2022-07-12;(Germany) North Rhine-Westphalia;L793;deunw.l793;Route truncated at west end from Münster main station to Münster-Hohenzollernring (L586)
+2022-07-12;(Germany) North Rhine-Westphalia;L843 (Roxel);deunw.l843rox;New Route (former part of main route)
+2022-07-12;(Germany) North Rhine-Westphalia;L843 (Münster);deunw.l843;Route truncated at west end from Nottuln (B525) to Münster-Hohenzollernring (L586)
 2022-05-14;(Germany) North Rhine-Westphalia;L277 (Bedburg);deunw.l277;Route truncated at north end from junction with former L19 to A61 north of Jackerath
 2022-05-14;(Germany) North Rhine-Westphalia;L19 (Erkelenz);deunw.l019;Route truncated at east end from end point south of Tagebau Garzweiler to Holzweiler and reextended to A61 north of Jackerath
 2022-04-16;(Germany) North Rhine-Westphalia;L581 (Billerbeck);deunw.l581bil;New Route (former segment of main route due to downgrade between B525 and B474)
@@ -1183,8 +1189,8 @@ date;region;route;root;description
 2020-01-26;(Germany) North Rhine-Westphalia;L649 (Oespel);;Route deleted (merged into main route)
 2020-01-26;(Germany) North Rhine-Westphalia;L649 ;deunw.l649;Route truncated at east end from Eichlinghofen (L523/L609) to Oespel-Brennaborstraße and reextended onto Brennaborstraße up to A40 Dortmund-Dorstfeld interchange
 2020-01-11;(Germany) North Rhine-Westphalia;L571;deunw.l571;Route relocated from through Osterwick and onto the northern bypass from K32 to L582
-2020-01-11;(Germany) North Rhine-Westphalia;B54 (Steinfurt);deunw.b054ste;New Route from Dutch border to York Ring in Münster (formerly segement of B54 main route)
-2020-01-11;(Germany) North Rhine-Westphalia;B54 (Münster);deunw.b054;Route truncated at north end the Dutch border to B51 in Münster
+2020-01-11;(Germany) North Rhine-Westphalia;B54 (Steinfurt);deunw.b054;New Route from Dutch border to York Ring in Münster (formerly segement of B54 main route)
+2020-01-11;(Germany) North Rhine-Westphalia;B54 (Münster);deunw.b054;Route truncated at north end from the Dutch border to B51 in Münster
 2020-01-11;(Germany) North Rhine-Westphalia;L587 (Main);deunw.l587;Route truncated at south end from B51 to K6 York Ring in Münster
 2020-01-11;(Germany) North Rhine-Westphalia;B227 (Heiligenhaus);deunw.b227;Route truncated at east end from A44 exit 36 to L156 in Heiligenhaus
 2020-01-06;(Germany) North Rhine-Westphalia;B7 (Warburg);deunw.b007war;Route truncated at west end from A46 exit 71 to B480 at Olsberg
