@@ -1691,19 +1691,19 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
-2022-07-10;Ireland;N8 (Cork);irl.n008cor;Route added
-2022-07-10;Ireland;N22 (Cork);irl.n022cor;Route added
-2022-07-10;Ireland;R105 (Dublin);irl.r105dub;Route added
-2022-07-10;Ireland;R132 (Dublin);irl.r132dub;Route added
-2022-07-10;Ireland;R135 (Dublin);irl.r135dub;Route added
-2022-07-10;Ireland;R138 (Dublin);irl.r138dub;Route added
-2022-07-10;Ireland;R148 (Dublin);irl.r148dub;Route added
-2022-07-10;Ireland;R150;irl.r150;Route removed from L5632 and R151 and relocated onto Tara Street between L5632 and southern junction with R151
-2022-07-10;Ireland;R151;irl.r151;Route extended at south end from L5632 (former R150) to southern junction with R150
-2022-07-10;Ireland;R608 (Cork);irl.r608cor;Route added
-2022-07-10;Ireland;R610 (Cork);irl.r610cor;Route added
-2022-07-10;Ireland;R802 (Dublin);irl.r1dub;Route added
-2022-07-10;Ireland;R854;irl.r854;Route added
+2022-07-14;Ireland;N8 (Cork);irl.n008cor;Route added
+2022-07-14;Ireland;N22 (Cork);irl.n022cor;Route added
+2022-07-14;Ireland;R105 (Dublin);irl.r105dub;Route added
+2022-07-14;Ireland;R132 (Dublin);irl.r132dub;Route added
+2022-07-14;Ireland;R135 (Dublin);irl.r135dub;Route added
+2022-07-14;Ireland;R138 (Dublin);irl.r138dub;Route added
+2022-07-14;Ireland;R148 (Dublin);irl.r148dub;Route added
+2022-07-14;Ireland;R150;irl.r150;Route removed from L5632 and R151 and relocated onto Tara Street between L5632 and southern junction with R151
+2022-07-14;Ireland;R151;irl.r151;Route extended at south end from L5632 (former R150) to southern junction with R150
+2022-07-14;Ireland;R608 (Cork);irl.r608cor;Route added
+2022-07-14;Ireland;R610 (Cork);irl.r610cor;Route added
+2022-07-14;Ireland;R802 (Dublin);irl.r1dub;Route added
+2022-07-14;Ireland;R854;irl.r854;Route added
 2022-06-28;Ireland;R126;irl.r126;Route removed from Hearse Road, Main Street and Portrane Road and relocated onto Donabate Distributor Road between eastern junction with Hearse Road and western junction with Portrane Road
 2022-05-04;Ireland;N1 (Dublin);irl.n001dub;Route added
 2021-10-16;Ireland;R242;irl.r242;Route truncated at north end from turn for Altnadarrow to turn for Portmore Pier
@@ -1795,7 +1795,7 @@ date;region;route;root;description
 2017-05-31;Israel;F7;isr.f007;New Route
 2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
 2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
-2022-07-10;Italy;Superstrada Pedemontana Veneta;ita.spv;Route extended at east end from SR348 to Variante di Spresiano
+2022-07-14;Italy;Superstrada Pedemontana Veneta;ita.spv;Route extended at east end from SR348 to Variante di Spresiano
 2022-07-01;Italy;A52 Tangenziale Nord di Milano;ita.a052;Route extended at west end from SP35 to A50
 2022-07-01;Italy;A52 Tangenziale Nord di Milano (Rho);ita.a052;Route deleted (merged into main section)
 2022-06-04;Italy;E35;ita.e35;Route extended at south end from A1/AGRA junction to exit 30 of AGRA
@@ -2372,6 +2372,9 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-07-15;Poland;S7 (Elbag);pol.s007elb;Route extended at south end from exit 39 to DK7_S
+2022-07-15;Poland;S7 (Mlawa);pol.s007elb;Route deleted (merged into Elbag section)
+2022-07-15;Poland;DK7 (Mlawa);pol.s007elb;Route deleted (merged into S7)
 2022-07-01;Poland;S5 (Sartowice);pol.s005sar;Route added
 2022-07-01;Poland;S5 (Świecie);pol.dk005swi;Route deleted (now DK5 (Świecie))
 2022-07-01;Poland;S5 (Poznań);pol.s005;Route extended at north end from exit 9 to exit 8
@@ -4118,8 +4121,8 @@ date;region;route;root;description
 2015-07-25;(UK) England;Queensway Tunnel;eng.quetun;New Route
 2015-07-25;(UK) England;St Peter's Way;eng.stpetway;New Route
 2015-07-25;(UK) England;Thamesdown Drive;eng.thadr;New Route
-2022-07-10;(UK) Northern Ireland;A2 (Derry (loop);nir.a002der;Route added
-2022-07-10;(UK) Northern Ireland;A5;nir.a005;Route truncated at north end from A40 to A2
+2022-07-14;(UK) Northern Ireland;A2 (Derry (loop);nir.a002der;Route added
+2022-07-14;(UK) Northern Ireland;A5;nir.a005;Route truncated at north end from A40 to A2
 2022-06-16;(UK) Northern Ireland;E16;nir.e16;Route removed from Foreglen Road and relocated onto Dungiven bypass between B69 and Chapel Road, and removed from Glenshane Road and relocated onto dual-carriageway between eastern junction with Glenshane Road and B118
 2022-06-16;(UK) Northern Ireland;A6;nir.a006;Route removed from Foreglen Road and relocated onto Dungiven bypass between B69 and Chapel Road, and removed from Glenshane Road and relocated onto dual-carriageway between eastern junction with Glenshane Road and B118
 2021-02-20;(UK) Northern Ireland;A3;nir.a003;Route removed from Market Street, High Street and Queen Street (now B76) and relocated onto Millennium Way (formerly A99) between B12 and A76
