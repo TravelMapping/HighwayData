@@ -1363,6 +1363,13 @@ date;region;route;root;description
 2015-09-15;(Germany) Thuringia;A71;deuth.a071;Route extended at north end from exit 5 to exit 1, including Heldrungen section
 2015-09-15;(Germany) Thuringia;A71 (Heldrungen);;Route merged into main A71 route
 2015-09-15;(Germany) Thuringia;E40;deuth.e40;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between A4 exits 51 and 53
+2022-07-23;Greece;A3 (Lamia);grc.a003lam;Route added
+2022-07-23;Greece;A52 (Ambrakia);grc.a052;Route extended at east end from EO5 to EO42
+2022-07-23;Greece;E55;grc.e55;Route removed from EO18 and relocated onto A52 and EO42 between A52 / EO18 junction and EO18 / EO42 junction
+2022-07-23;Greece;E55;grc.e55;Route removed from EO42 and EO5 and relocated onto A52 between eastern A52 / EO42 junction and A52 / EO5
+2022-07-23;Greece;E952;grc.e952;Route removed from EO18 and relocated onto A52 and EO42 between A52 / EO18 junction and EO18 / EO42 junction
+2022-07-23;Greece;E952;grc.e952;Route removed from EO42 and EO5 and relocated onto A52 between eastern A52 / EO42 junction and A52 / EO5
+2022-07-23;Greece;E952;grc.e952;Route truncated at east end from EO1 to EO38 / A3 junction, and extended at east end from EO38 / A3 junction to A1
 2020-03-24;Greece;A23;;Route deleted
 2019-06-11;Greece;A2;grc.a002;Route truncated at east end from Turkish border to EO2 at Kipoi
 2019-06-03;Greece;A123;grc.perodosthe;Route deleted
@@ -2405,6 +2412,8 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-07-23;Poland;DK19 (Rzeszow);pol.dk019rze;Route extended at north end from DW883 to S19
+2022-07-23;Poland;DW987;pol.dw987;Route removed from Ulica Kolbuszowska, Ulica Grunwaldzka and Ulica Wincentego Witosa and relocated onto Ulica Tatrzanska and Ulica Ksiezomost between Ulica Legionow Polskich and DK94
 2022-07-15;Poland;S7 (Elbag);pol.s007elb;Route extended at south end from exit 39 to DK7_S
 2022-07-15;Poland;S7 (Mlawa);pol.s007elb;Route deleted (merged into Elbag section)
 2022-07-15;Poland;DK7 (Mlawa);pol.s007elb;Route deleted (merged into S7)
@@ -4774,7 +4783,8 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
-2022-06-26;(USA) Kentucky;US 127;ky.us127;removed from CR1596 and Sewellton Rd (now part of KY 2284) onto new alignment between *OldUS127 and StoLn
+2022-07-24;(USA) Kentucky;KY 154;ky.ky0154;US27 endpoint moved approximately 0.2 miles south to reflect relocation that happened in 2012 between the west end and Old Peach Grove Rd
+2022-06-26;(USA) Kentucky;US 127;ky.us127;Removed from CR1596 and Sewellton Rd (now part of KY 2284) onto new alignment between *OldUS127 and StoLn
 2022-06-26;(USA) Kentucky;KY 55;ky.ky0055;Extended from old south end (now labeled CR1596) to new south end at relocated US127 point
 2022-06-26;(USA) Kentucky;KY 341;ky.ky0341;Extended at north end from Woodford/Scott county line to KY 1973
 2022-06-26;(USA) Kentucky;KY 620;ky.ky0620;Realigned slightly to the north between *US25_N and I-75, and extended from old south end (now labeled DelRd) along former route of KY 3487 to US 62
@@ -5669,6 +5679,7 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2022-07-24;(USA) Ohio;OH 266;oh.oh266; Removed from demolished old roadway and relocated to new roadway approximately 0.2 miles north between *OldOH266_W and *OldOH266_E
 2021-12-07;(USA) Ohio;US 30 Business (Van Wert);oh.us030busvan;Route added
 2021-11-22;(USA) Ohio;OH 10;oh.oh010;Extended at east end from US 422 (now US422_W waypoint) along US 422/OH 8/OH 14/OH 43/OH87, I-77, I-490, new construction, and E 105th St to US 322 
 2021-09-07;(USA) Ohio;OH 521;oh.oh521;Re-extended to former west end at OH37_W (reversion of 2019-01-19 edit due to unsigned segment now being signed)
