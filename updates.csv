@@ -1325,6 +1325,13 @@ date;region;route;root;description
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2022-07-25;(Germany) Thuringia;L1047 (Arnstadt);deuth.l1047;Route truncated at south end from Gräfinau-Angstedt to L3087
+2022-07-25;(Germany) Thuringia;L1144;deuth.l1144;Route truncated at north end from Gräfinau-Angstedt to B88
+2022-07-25;(Germany) Thuringia;L2049;;Route deleted
+2022-07-25;(Germany) Thuringia;L2063;;Route deleted
+2022-07-25;(Germany) Thuringia;L2080;;Route deleted
+2022-07-25;(Germany) Thuringia;L2642;;Route deleted
+2022-07-25;(Germany) Thuringia;L2654;deuth.l2654;Route truncated at south end from B281 to north of Meura, and reextended to B281 via Wittgendorf and Volkmannsdorf
 2022-07-24;(Germany) Thuringia;L1014 (Am Ohmberg);deuth.l1014;Route truncated at north end from border to Lower Saxony, and reextended to B243 in Machenrode
 2022-07-24;(Germany) Thuringia;L1014 (Ellrich);deuth.l1014ell;Route truncated at east end from Sülzhayn to Ellrich
 2022-07-24;(Germany) Thuringia;L1014 (Leinefelde);deuth.l3080;Route deleted (partially L3080 now)
@@ -1332,12 +1339,12 @@ date;region;route;root;description
 2022-07-24;(Germany) Thuringia;L3080 (Nordhausen);deuth.l3080;Route extended at west end from Worbis to Heilbad Heiligenstadt
 2022-07-24;(Germany) Thuringia;L1041;deuth.l1041;Route truncated at east end from K7 to B4 in Greußen
 2022-07-24;(Germany) Thuringia;L1081 (Pölzig);deuth.l1081;Route truncated at south end from Chursdorf (B175) to L1362 north of Ronneburg, and reextended to A4 exit 59
-2022-07-24;(Germany) Thuringia;L1081 (Ronneburg);deuth.l1081;Route extended at west end from Neuholland to L1362 in Ronneburg (formerly part of main route)
+2022-07-24;(Germany) Thuringia;L1081 (Ronneburg);deuth.l1081ron;Route extended at west end from Neuholland to L1362 in Ronneburg (formerly part of main route)
 2022-07-24;(Germany) Thuringia;L1081 (Rückersdorf);deuth.l1081ruc;New route (formerly part of main route)
 2022-07-24;(Germany) Thuringia;L2055;deuth.l2055;New Route
-2022-07-24;(Germany) Thuringia;L2127;deuth.l2127;Route deleted
-2022-07-24;(Germany) Thuringia;L2128;deuth.l2128;Route deleted
-2022-07-24;(Germany) Thuringia;L2135;deuth.l2135;Route deleted
+2022-07-24;(Germany) Thuringia;L2127;;Route deleted
+2022-07-24;(Germany) Thuringia;L2128;;Route deleted
+2022-07-24;(Germany) Thuringia;L2135;;Route deleted
 2022-07-24;(Germany) Thuringia;L2141 (Großrudestedt);;Route deleted
 2022-07-24;(Germany) Thuringia;L2145;;Route deleted
 2022-07-24;(Germany) Thuringia;L2155;deuth.l2155;Route truncated at west end from Egstedt to Riechheimer Weg west of Schellroda
@@ -1363,6 +1370,13 @@ date;region;route;root;description
 2015-09-15;(Germany) Thuringia;A71;deuth.a071;Route extended at north end from exit 5 to exit 1, including Heldrungen section
 2015-09-15;(Germany) Thuringia;A71 (Heldrungen);;Route merged into main A71 route
 2015-09-15;(Germany) Thuringia;E40;deuth.e40;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between A4 exits 51 and 53
+2022-07-23;Greece;A3 (Lamia);grc.a003lam;Route added
+2022-07-23;Greece;A52 (Ambrakia);grc.a052;Route extended at east end from EO5 to EO42
+2022-07-23;Greece;E55;grc.e55;Route removed from EO18 and relocated onto A52 and EO42 between A52 / EO18 junction and EO18 / EO42 junction
+2022-07-23;Greece;E55;grc.e55;Route removed from EO42 and EO5 and relocated onto A52 between eastern A52 / EO42 junction and A52 / EO5
+2022-07-23;Greece;E952;grc.e952;Route removed from EO18 and relocated onto A52 and EO42 between A52 / EO18 junction and EO18 / EO42 junction
+2022-07-23;Greece;E952;grc.e952;Route removed from EO42 and EO5 and relocated onto A52 between eastern A52 / EO42 junction and A52 / EO5
+2022-07-23;Greece;E952;grc.e952;Route truncated at east end from EO1 to EO38 / A3 junction, and extended at east end from EO38 / A3 junction to A1
 2020-03-24;Greece;A23;;Route deleted
 2019-06-11;Greece;A2;grc.a002;Route truncated at east end from Turkish border to EO2 at Kipoi
 2019-06-03;Greece;A123;grc.perodosthe;Route deleted
@@ -2405,6 +2419,8 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-07-23;Poland;DK19 (Rzeszow);pol.dk019rze;Route extended at north end from DW883 to S19
+2022-07-23;Poland;DW987;pol.dw987;Route removed from Ulica Kolbuszowska, Ulica Grunwaldzka and Ulica Wincentego Witosa and relocated onto Ulica Tatrzanska and Ulica Ksiezomost between Ulica Legionow Polskich and DK94
 2022-07-15;Poland;S7 (Elbag);pol.s007elb;Route extended at south end from exit 39 to DK7_S
 2022-07-15;Poland;S7 (Mlawa);pol.s007elb;Route deleted (merged into Elbag section)
 2022-07-15;Poland;DK7 (Mlawa);pol.s007elb;Route deleted (merged into S7)
