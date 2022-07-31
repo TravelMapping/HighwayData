@@ -7,6 +7,7 @@
 - https://www.wegenwiki.nl/Dr%C5%BEavna_cesta
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2016_10_96_2071.html
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2018_11_103_2021.html
+- https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_41_510.html (not yet checked)
 
 
 **NOTES TO ROUTES:**
