@@ -12,3 +12,4 @@
 
 **NOTES TO ROUTES:**
 - `H1` is not signed in Geneve. GSV does not show signs and OSM does not have a continuous route through the town. In drove there in October 2016, the southernmost "1" sign I could see was at the rountabout with H121. However, I've extended the route to A1a because the official list (www.admin.ch) and all maps show H1 heading to Geneve.
+- `H16` north end to Constance is not signed by indicated in official list on admin.ch: `16. (D)–Tägerwilen–Märstetten–Wil–Wattwil–Wildhaus–Buchs–(A)`
