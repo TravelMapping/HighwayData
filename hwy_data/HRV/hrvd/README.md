@@ -7,6 +7,8 @@
 - https://www.wegenwiki.nl/Dr%C5%BEavna_cesta
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2016_10_96_2071.html
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2018_11_103_2021.html
+- https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_41_510.html (not yet checked)
+- https://geoportal.hrvatske-ceste.hr
 
 
 **NOTES TO ROUTES:**
@@ -17,3 +19,4 @@
 - `D427` extension is u/c
 - `D431` is 400m only, exact location unknown
 - `D126`/`D315` routing in Trogir after completion of Novi Ciovski most bridge?
+- `D8`/`D674` Pelješki bridge numbering: https://www.skyscrapercity.com/threads/440820/post-179777012
