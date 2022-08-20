@@ -1736,15 +1736,15 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
-2022-08-11;Ireland;N8 (Cork);;Route deleted
-2022-08-11;Ireland;N22 (Cork);;Route deleted
-2022-08-11;Ireland;R105 (Dublin);;Route deleted
-2022-08-11;Ireland;R132 (Dublin);;Route deleted
-2022-08-11;Ireland;R135 (Dublin);;Route deleted
-2022-08-11;Ireland;R138 (Dublin);;Route deleted
-2022-08-11;Ireland;R148 (Dublin);;Route deleted
-2022-08-11;Ireland;R801;irl.r801;Route extended at west end from J40 to R105/R138
-2022-08-11;Ireland;R802 (Dublin);;Route deleted
+2022-08-11;Ireland;N8 (Cork);irl.n008;Route merged into main route
+2022-08-11;Ireland;N22 (Cork);irl.n022;Route merged into main route
+2022-08-11;Ireland;R105 (Dublin);irl.r105;Route merged into main route
+2022-08-11;Ireland;R132 (Dublin);irl.r132;Route merged into main route
+2022-08-11;Ireland;R135 (Dublin);irl.r135;Route merged into main route
+2022-08-11;Ireland;R138 (Dublin);irl.r138;Route merged into main route
+2022-08-11;Ireland;R148 (Dublin);irl.r148;Route merged into main route
+2022-08-11;Ireland;R801;irl.r801;Route extended at west end from J41 to R105/R138
+2022-08-11;Ireland;R802 (Dublin);irl.r802;Route merged into main route
 2022-07-14;Ireland;N8 (Cork);irl.n008cor;Route added
 2022-07-14;Ireland;N22 (Cork);irl.n022cor;Route added
 2022-07-14;Ireland;R105 (Dublin);irl.r105dub;Route added
@@ -2430,6 +2430,9 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-08-19;Poland;S7 (Elbląg);pol.s007elb;Route extended at south end from exit 48 to exit 51
+2022-08-19;Poland;S7 (Płońsk);pol.s007elb;Route merged into Elblag section
+2022-08-19;Poland;DK7 (Cieciorki);pol.s007elb;Route deleted (merged into S7 Elblag)
 2022-08-06;Poland;S5 (Sartowice);pol.s005sar;Route extended at south end from exit 2 to exit 3
 2022-08-06;Poland;DK5 (Świecie);pol.dk005swi;Route truncated at north end from S5 exit 2 to S5 exit 3
 2022-07-23;Poland;DK19 (Rzeszow);pol.dk019rze;Route extended at north end from DW883 to S19
@@ -4644,6 +4647,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2022-08-17;(USA) Illinois;IL 19;il.il019;Relocated to current alignment between YorkRd and *OldIL19
 2022-07-13;(USA) Illinois;I-94;il.i094;Relocated exit 59B from 69th Street to Marquette Road
 2022-05-21;(USA) Illinois;IL 14;il.il014;Truncated from Indiana state line to CR2250E (bridge closed)
 2022-03-07;(USA) Illinois;US 54;il.us054;Slightly realigned at MO/IL due to new Mississippi River Bridge built slightly to the south.
