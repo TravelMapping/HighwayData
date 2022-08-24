@@ -9,7 +9,6 @@ Vienna calls them `Hauptstraße B` with `B` designation.
 
 **SOURCES:**
 - https://de.wikipedia.org/wiki/Stra%C3%9Fensystem_in_%C3%96sterreich#Landesstra.C3.9Fe_B_und_Hauptstra.C3.9Fe_B
-- https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=LrT&Gesetzesnummer=20000250
 
 A full list of current `Landesstraßen B` is listed in the navigation block `ehemalige Bundesstraßen in Österreich`.
 
