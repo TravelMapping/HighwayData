@@ -44,6 +44,10 @@ date;region;route;root;description
 2020-12-01;(Australia) South Australia;M2 (Southern Expressway, Adelaide);aussa.m002noa;Route extended at north end from A13_N to A2
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
+2022-08-24;Austria;B147;aut.b147;Route relocated from through Munderfing and onto new bypass
+2022-08-24;Austria;B123;aut.b123;Route relocated from through Pyburg and Windpassing and onto new bypass
+2022-08-24;Austria;B123a;aut.b123a;Route extended at north end from Mauthausnerstraße (former B123) to junction with new B123 north of Pyburg
+2022-08-24;Austria;B38a;;Route deleted
 2022-05-29;Austria;B64;aut.b064;Route relocated in Weiz from Gleisdorfer Straße and Birkfelder Straße and onto new bypass (tunnel route) from B72 to Birkfelder Straße
 2021-09-29;Austria;B61;aut.b061;Route truncated at south end the Hungarian border to B55
 2021-06-16;Austria;B61A;aut.b061a;Route extended at south end from B61 to the Hungarian border
@@ -952,6 +956,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2022-08-17;(Germany) Bavaria;St999;deuby.st0999;New Route
 2022-06-04;(Germany) Bavaria;B2 (Weilheim);deuby.b002wei;Route relocated from through Oberau and onto new bypass from exit Münchner Straße north of Oberau to B23 exit south of Oberau
 2022-06-04;(Germany) Bavaria;E533;deuby.e533;Route relocated from through Oberau and onto new bypass from exit Münchner Straße north of Oberau to B23 exit south of Oberau
 2022-02-15;(Germany) Bavaria;St2240;deuby.st2240;Route relocated in Erlangen from Münchener Straße and Henkestraße, and onto A73 and Werner-von-Siemens-Straße from A73 exit 31 to junction Henkestraße/Werner-von-Siemens-Straße
@@ -1251,6 +1256,7 @@ date;region;route;root;description
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2022-08-20;(Germany) Rhineland-Palatinate;L509 (Bellheim);deurp.l509bel;Route extended at east end from L540 to B9
 2022-02-06;(Germany) Rhineland-Palatinate;L493 (Rohrbach);deurp.l493roh;New Route
 2022-02-06;(Germany) Rhineland-Palatinate;L52;deurp.l052;Route extended at north end from B416 to B9
 2022-02-06;(Germany) Rhineland-Palatinate;L335;deurp.l335;Route relocated from through Marienfels and onto new bypass from K74 to Römerstraße
@@ -1735,15 +1741,15 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
-2022-08-11;Ireland;N8 (Cork);;Route deleted
-2022-08-11;Ireland;N22 (Cork);;Route deleted
-2022-08-11;Ireland;R105 (Dublin);;Route deleted
-2022-08-11;Ireland;R132 (Dublin);;Route deleted
-2022-08-11;Ireland;R135 (Dublin);;Route deleted
-2022-08-11;Ireland;R138 (Dublin);;Route deleted
-2022-08-11;Ireland;R148 (Dublin);;Route deleted
-2022-08-11;Ireland;R801;irl.r801;Route extended at west end from J40 to R105/R138
-2022-08-11;Ireland;R802 (Dublin);;Route deleted
+2022-08-11;Ireland;N8 (Cork);irl.n008;Route merged into main route
+2022-08-11;Ireland;N22 (Cork);irl.n022;Route merged into main route
+2022-08-11;Ireland;R105 (Dublin);irl.r105;Route merged into main route
+2022-08-11;Ireland;R132 (Dublin);irl.r132;Route merged into main route
+2022-08-11;Ireland;R135 (Dublin);irl.r135;Route merged into main route
+2022-08-11;Ireland;R138 (Dublin);irl.r138;Route merged into main route
+2022-08-11;Ireland;R148 (Dublin);irl.r148;Route merged into main route
+2022-08-11;Ireland;R801;irl.r801;Route extended at west end from J41 to R105/R138
+2022-08-11;Ireland;R802 (Dublin);irl.r802;Route merged into main route
 2022-07-14;Ireland;N8 (Cork);irl.n008cor;Route added
 2022-07-14;Ireland;N22 (Cork);irl.n022cor;Route added
 2022-07-14;Ireland;R105 (Dublin);irl.r105dub;Route added
@@ -2157,6 +2163,9 @@ date;region;route;root;description
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
 2022-02-11;Namibia;A2;nam.a002;Route added
 2020-02-22;Namibia;A1;nam.a001;Route extended at north end from northern D1473 junction to Osona Airstrip
+2022-08-23;Netherlands;N316;nld.n316;Route truncated at south end from the German border to N335 ('s-Heerenberg through-road), and reextended onto new 's-Heerenberg bypass from N355 to junction with N816/N827
+2022-08-23;Netherlands;N816;nld.n816;Route truncated at west end from Drieheuvelenweg (former N316) in 's-Heerenberg to new bypass (new N316)
+2022-08-23;Netherlands;N827;nld.n827;Route at west end to German border (former N316)
 2021-05-03;Netherlands;N69 (Dommelen);nld.n069dom;New Route
 2021-05-03;Netherlands;N397;nld.n397;Route truncated at east end from Luikerweg, Valkenswaard to Westparallel, Dommelen
 2021-02-20;Netherlands;S107 (Den Haag);nld.s107den;New Route
@@ -2429,6 +2438,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-08-22;Poland;S5 (Sartowice);pol.s005sar;Route extended at south end from exit 3 to exit 5
+2022-08-22;Poland;DK5 (Świecie);pol.dk005swi;Route truncated at north end from S5 exit 3 to S5 exit 5
+2022-08-19;Poland;S7 (Elbląg);pol.s007elb;Route extended at south end from exit 48 to exit 51
+2022-08-19;Poland;S7 (Płońsk);pol.s007elb;Route merged into Elblag section
+2022-08-19;Poland;DK7 (Cieciorki);pol.s007elb;Route deleted (merged into S7 Elblag)
 2022-08-06;Poland;S5 (Sartowice);pol.s005sar;Route extended at south end from exit 2 to exit 3
 2022-08-06;Poland;DK5 (Świecie);pol.dk005swi;Route truncated at north end from S5 exit 2 to S5 exit 3
 2022-07-23;Poland;DK19 (Rzeszow);pol.dk019rze;Route extended at north end from DW883 to S19
@@ -4643,6 +4657,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2022-08-17;(USA) Illinois;IL 19;il.il019;Relocated to current alignment between YorkRd and *OldIL19
 2022-07-13;(USA) Illinois;I-94;il.i094;Relocated exit 59B from 69th Street to Marquette Road
 2022-05-21;(USA) Illinois;IL 14;il.il014;Truncated from Indiana state line to CR2250E (bridge closed)
 2022-03-07;(USA) Illinois;US 54;il.us054;Slightly realigned at MO/IL due to new Mississippi River Bridge built slightly to the south.
