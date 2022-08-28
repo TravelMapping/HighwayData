@@ -44,6 +44,10 @@ date;region;route;root;description
 2020-12-01;(Australia) South Australia;M2 (Southern Expressway, Adelaide);aussa.m002noa;Route extended at north end from A13_N to A2
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
+2022-08-24;Austria;B147;aut.b147;Route relocated from through Munderfing and onto new bypass
+2022-08-24;Austria;B123;aut.b123;Route relocated from through Pyburg and Windpassing and onto new bypass
+2022-08-24;Austria;B123a;aut.b123a;Route extended at north end from Mauthausnerstraße (former B123) to junction with new B123 north of Pyburg
+2022-08-24;Austria;B38a;;Route deleted
 2022-05-29;Austria;B64;aut.b064;Route relocated in Weiz from Gleisdorfer Straße and Birkfelder Straße and onto new bypass (tunnel route) from B72 to Birkfelder Straße
 2021-09-29;Austria;B61;aut.b061;Route truncated at south end the Hungarian border to B55
 2021-06-16;Austria;B61A;aut.b061a;Route extended at south end from B61 to the Hungarian border
@@ -2159,6 +2163,9 @@ date;region;route;root;description
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
 2022-02-11;Namibia;A2;nam.a002;Route added
 2020-02-22;Namibia;A1;nam.a001;Route extended at north end from northern D1473 junction to Osona Airstrip
+2022-08-23;Netherlands;N316;nld.n316;Route truncated at south end from the German border to N335 ('s-Heerenberg through-road), and reextended onto new 's-Heerenberg bypass from N355 to junction with N816/N827
+2022-08-23;Netherlands;N816;nld.n816;Route truncated at west end from Drieheuvelenweg (former N316) in 's-Heerenberg to new bypass (new N316)
+2022-08-23;Netherlands;N827;nld.n827;Route at west end to German border (former N316)
 2021-05-03;Netherlands;N69 (Dommelen);nld.n069dom;New Route
 2021-05-03;Netherlands;N397;nld.n397;Route truncated at east end from Luikerweg, Valkenswaard to Westparallel, Dommelen
 2021-02-20;Netherlands;S107 (Den Haag);nld.s107den;New Route
@@ -2431,6 +2438,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-08-26;Poland;E371;pol.e371;Route removed from Ulica Danuty Siedzikowny, Ulica Podzamcze and Ulica Blazinska, and relocated onto Ilza bypass between Ulica Blazinska and Ulica Polna
+2022-08-26;Poland;DK9;pol.dk009;Route removed from Ulica Danuty Siedzikowny, Ulica Podzamcze and Ulica Blazinska, and relocated onto Ilza bypass between Ulica Blazinska and Ulica Polna
+2022-08-26;Poland;DW747;pol.dw747;Route extended a west end from southern junction with Ulica Podzamcze (formerly DK9 junction) to DK9
+2022-08-22;Poland;S5 (Sartowice);pol.s005sar;Route extended at south end from exit 3 to exit 5
+2022-08-22;Poland;DK5 (Świecie);pol.dk005swi;Route truncated at north end from S5 exit 3 to S5 exit 5
 2022-08-19;Poland;S7 (Elbląg);pol.s007elb;Route extended at south end from exit 48 to exit 51
 2022-08-19;Poland;S7 (Płońsk);pol.s007elb;Route merged into Elblag section
 2022-08-19;Poland;DK7 (Cieciorki);pol.s007elb;Route deleted (merged into S7 Elblag)
@@ -3900,6 +3912,8 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2022-08-26;(UK) England;A6120;eng.a6120;Route removed from B6902 and relocated onto East Leeds Orbital Route between B6902 and M1 junction 46'a'
+2022-08-26;(UK) England;B6902;eng.b6902;Route added (former A6120)
 2022-06-25;(UK) England;A259 (Eastbourne (loop));eng.a0259eas;Route added
 2022-06-25;(UK) England;A458 (Stourbridge (loop));eng.a0458sto;Route added
 2022-06-25;(UK) England;A491 (Stourbridge (loop));eng.a0491sto;Route added
@@ -6243,6 +6257,7 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2022-08-24;(USA) Utah;UT 270;ut.ut270;Route truncated at south end from I-15/80 to 900 South
 2021-12-17;(USA) Utah;UT 138;ut.ut138;Route truncated at east end from UT 36 to UT 179
 2021-11-01;(USA) Utah;Kolob Terrace Road;;Route Deleted, this is not an NPS road
 2021-11-01;(USA) Utah;UT 179;ut.ut179;New Route
