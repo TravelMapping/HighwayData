@@ -2438,6 +2438,9 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-08-26;Poland;E371;pol.e371;Route removed from Ulica Danuty Siedzikowny, Ulica Podzamcze and Ulica Blazinska, and relocated onto Ilza bypass between Ulica Blazinska and Ulica Polna
+2022-08-26;Poland;DK9;pol.dk009;Route removed from Ulica Danuty Siedzikowny, Ulica Podzamcze and Ulica Blazinska, and relocated onto Ilza bypass between Ulica Blazinska and Ulica Polna
+2022-08-26;Poland;DW747;pol.dw747;Route extended a west end from southern junction with Ulica Podzamcze (formerly DK9 junction) to DK9
 2022-08-22;Poland;S5 (Sartowice);pol.s005sar;Route extended at south end from exit 3 to exit 5
 2022-08-22;Poland;DK5 (Świecie);pol.dk005swi;Route truncated at north end from S5 exit 3 to S5 exit 5
 2022-08-19;Poland;S7 (Elbląg);pol.s007elb;Route extended at south end from exit 48 to exit 51
@@ -3909,6 +3912,8 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2022-08-26;(UK) England;A6120;eng.a6120;Route removed from B6902 and relocated onto East Leeds Orbital Route between B6902 and M1 junction 46'a'
+2022-08-26;(UK) England;B6902;eng.b6902;Route added (former A6120)
 2022-06-25;(UK) England;A259 (Eastbourne (loop));eng.a0259eas;Route added
 2022-06-25;(UK) England;A458 (Stourbridge (loop));eng.a0458sto;Route added
 2022-06-25;(UK) England;A491 (Stourbridge (loop));eng.a0491sto;Route added
@@ -4364,6 +4369,7 @@ date;region;route;root;description
 2018-12-26;(USA) Alaska;Walter J. Hickel Parkway;ak.hicpkwy;Route added (includes parts of Minnesota Dr. and O'Malley Rd. in Anchorage)
 2019-03-04;(USA) Alaska;McCarthy Road;ak.mccarrd;Route added in Wrangell-St. Elias NP
 2019-03-04;(USA) Alaska;Nabesna Road;ak.nabrd;Route added in Wrangell-St. Elias NP
+2022-08-28;(USA) Arizona;Northern Parkway;az.norpkwy;New route
 2022-08-13;(USA) Arizona;AZ24;az.az024;Route extended east from Williams Field Road to Ironwood Road
 2022-05-15;(USA) Arizona;US 191 Spur (Bowie);;Route deleted, not signed
 2022-05-15;(USA) Arizona;US 191 Business (Douglas);az.us191busdou;New route, replacing segment south of AZ 80 formerly incorrectly mapped as part of US 191
@@ -4456,6 +4462,7 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2022-08-30;(USA) California;US 101;ca.us101;South end of route truncated from CA 60 to junction with I-5 (truncated segment is also I-5, between exits 134A and 134B). Old US 101 waypoint I-5/10 => new 1A (I-5/10 label in use preserved). Old 1A => new 1B, and old 1B => new 1C. 
 2022-04-21;(USA) California;I-105;ca.i105;Route extended east, from I-605 to Studebaker Rd. in Norwalk
 2022-04-21;(USA) California;I-780;ca.i780;Route extended west, from I-80 to Lemon St. in Vallejo
 2021-02-07;(USA) California;I-305;ca.i305;Truncated from exit 7C to exit 6 (eastern US 50/CA 99 junction)
@@ -5100,8 +5107,8 @@ date;region;route;root;description
 2022-06-26;(USA) Louisiana;LA 30 (Baton Rouge);la.la0030bat;Route added, comprising now-separate segment of LA 30 from of Louisiana State University campus north to I-10
 2022-06-26;(USA) Louisiana;LA 42;la.la0042;Truncated at west end to LA 327 Spur
 2022-06-26;(USA) Louisiana;LA 898;la.la0898;Truncated at south end to LA 575
-2022-06-26;(USA) Louisiana;LA 575;la.la0030;Truncated at north end to Burbank Rd (former LA 42)
-2022-06-26;(USA) Louisiana;LA 3064;la.la0575;Extended at east end to US 65 along former route of LA 898
+2022-06-26;(USA) Louisiana;LA 575;la.la0575;Extended at east end to US 65 along former route of LA 898
+2022-06-26;(USA) Louisiana;LA 3064;la.la3064;Extended at south end to Burbank Dr
 2022-04-02;(USA) Louisiana;LA 3127;la.la3127;Extended at south end along concurrency with I-310
 2022-03-28;(USA) Louisiana;LA 426;la.la0426;Truncated at east end from US 190 to Sherwood Forest Blvd
 2022-03-28;(USA) Louisiana;LA 3064;la.la3064;Extended at south end from LA 427 to Highland Rd
@@ -5460,6 +5467,8 @@ date;region;route;root;description
 2017-05-01;(USA) New Jersey;NJ 15;nj.nj015;South end removed from Clinton St (including a demolished section underpassing US 46) and Bergen St between Richboynton Rd and US 46 at Bergen St, and relocated onto a southwesterly realignment of Clinton St between Richboynton Rd and an at-grade T-intersection with US 46.
 2016-11-16;(USA) New Jersey;NJ 18;nj.nj018;Extended north from Buckingham Drive to I-287
 2016-11-16;(USA) New Jersey;NJ 19;nj.nj019;South end removed from the Garden State Parkway access ramps between The Broad Street ramps and the Garden State Parkway, and relocated onto Broad Street between the GSP ramps and Colfax Avenue
+2022-08-30;(USA) New Mexico;NM 195 (Elephant Butte Lake);nm.nm195ele;East end of route truncated, from NM 177 to barricade at Dirt Dam day use area
+2022-08-30;(USA) New Mexico;NM 572;;Route deleted (decommissioned)
 2021-08-17;(USA) New Mexico;NM 181;nm.nm181;South end truncated, from I-25(79) to I-25BL. North end extended, from I-25(89) to frontage road barricade north of Alamosa Creek
 2021-07-15;(USA) New Mexico;US54;nm.us054;In Logan, slightly relocated to new bridge across the Canadian River, between waypoints *OldUS54_W and *OldUS54_E
 2021-06-08;(USA) New Mexico;NM 355;;Route deleted (unsigned)
@@ -5830,6 +5839,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2022-08-28;(USA) Pennsylvania;Betsy Ross Bridge;pa.betrossbri;Extended west from I-95 to Adams Ave/Aramingo Ave along the Aramingo Ave Connector.
 2022-07-07;(USA) Pennsylvania;PA 405;pa.pa405;Extended south from its previous end at the old alignment of PA 147 (now *OldPA147) to follow the old alignment of PA 147 south to PA 61 in Sunbury.
 2022-07-07;(USA) Pennsylvania;PA 147;pa.pa147;Realigned between PA61_S and *OldPA147 to follow PA 61, US 15, and the newly opened northern section of the Central Susquehanna Valley Thruway (CSVT).  The old routing is now just PA 61 to Sunbury, and an extended PA 405 north of there.
 2022-05-17;(USA) Pennsylvania;PA 915 Truck (Wells Township);;Route deleted.  (PennDOT District 9 indicated that this route never actually existed.  The press release was not updated to note that this route was never intended to actually be signed.)
@@ -6251,6 +6261,7 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2022-09-01;(USA) Utah;UT 131;ut.ut131;New Route
 2022-08-24;(USA) Utah;UT 270;ut.ut270;Route truncated at south end from I-15/80 to 900 South
 2021-12-17;(USA) Utah;UT 138;ut.ut138;Route truncated at east end from UT 36 to UT 179
 2021-11-01;(USA) Utah;Kolob Terrace Road;;Route Deleted, this is not an NPS road
