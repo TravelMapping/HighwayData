@@ -141,6 +141,9 @@ date;region;route;root;description
 2016-01-12;Belgium;Ring Mons Est;bel.ringmonse;New Route
 2016-01-12;Belgium;Ring Mons Ouest;bel.ringmonso;New Route
 2015-07-24;Belgium;A601;;Route deleted
+2022-09-05;Bosnia and Herzegovina;A1 (Rudanka);bih.a001rud;Route added
+2022-09-05;Bosnia and Herzegovina;Autoput Banja Luka - Doboj;bih.autbldob;Route extended at east end from exit 5 to exit 6
+2022-09-05;Bosnia and Herzegovina;E73;bih.e73;Route removed from M17 and relocated onto Autoput Banja Luka - Doboj and A1 between M17 junctions north and south of Rudanka
 2021-12-13;Bosnia and Herzegovina;M17.1;bih.m0171;Route added
 2021-12-13;Bosnia and Herzegovina;M17.6;bih.m0176;Route added
 2021-09-30;Bosnia and Herzegovina;A1 (Odzak);bih.a001odz;Route extended at north end from exit 1 to Croatian border
@@ -413,6 +416,27 @@ date;region;route;root;description
 2015-07-28;Croatia;A2;hrv.a002;Route extended at north end from exit 1 to Slovenian border
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
+2022-09-05;Cyprus;A1;cyp.a001;Route extended at north end from E116 to B18 and at south end from exit 28a to E147/E604
+2022-09-05;Cyprus;A2;cyp.a002;Route extended at south end from A3 to B2
+2022-09-05;Cyprus;A9;cyp.a009;Route extended at north end from exit 92 to B18
+2022-09-05;Cyprus;B1;cyp.b001;Route truncated at north end from B18 to A1 exit 2
+2022-09-05;Cyprus;B2;cyp.b002;Route truncated at north end from B1 to F201 and extended at north end from F201 to B1 (at a different location)
+2022-09-05;Cyprus;B4;cyp.b004;Route extended at south end from F405 to E336
+2022-09-05;Cyprus;B6;cyp.b006;Route truncated at east end from B1 to E147 and extended at east end from E147 to E114
+2022-09-05;Cyprus;B8;cyp.b008;Route truncated at south end from B1 to E147
+2022-09-05;Cyprus;B9;cyp.b009;Route truncated at east end from B18 to E903
+2022-09-05;Cyprus;B10 (Paliometocho);cyp.b010;Route truncated at east end from UN Buffer Zone to Nicosia Airport and at west end from B9 to A9
+2022-09-05;Cyprus;B10 (Lefkosa);cyp.b010lef;Route added (formerly B18)
+2022-09-05;Cyprus;B13;cyp.b013;Route extended at east end from E1701 to UN Buffer Zone
+2022-09-05;Cyprus;B16;cyp.b016;Route truncated at west end from B17 to E130 and at east end from UN Buffer Zone to E1701
+2022-09-05;Cyprus;B17;cyp.b017;Route truncated at north end from 'Sat' to B18 and at south end from UN Buffer Zone to E115
+2022-09-05;Cyprus;B18;cyp.b018;Route reentered (old route now B10 (Lefkosa))
+2022-09-05;Cyprus;B19;cyp.b019;Route added
+2022-09-05;Cyprus;B22;cyp.b022;Route extended at east end from B1 to E119 and at west end from A9 to U280
+2022-09-05;Cyprus;D20 (Hamitkoy);cyp.d020ham;Route extended at west end from 3Cad to D25 and at east end from LF01 to LF05
+2022-09-05;Cyprus;D30;cyp.d030;Route extended at west end from to the UN Buffer Zone
+2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d030;Route merged into main route
+2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
 2022-07-03;Czechia;D48 (Frýdek-Místek);cze.d048fry;New Route
 2022-07-03;Czechia;D56 (Frýdek-Místek);cze.d048fry;Route truncated at south end from I48 to exit 51 (I56 now) and reextended to new D48 section
@@ -1840,6 +1864,7 @@ date;region;route;root;description
 2018-05-25;Isle of Man;A45;imn.a045;New Route
 2018-05-25;Isle of Man;A46;imn.a046;New Route
 2018-05-25;Isle of Man;A47;imn.a047;New Route
+2022-09-05;Israel;H16;isr.h016;Route added
 2021-09-30;Israel;H9;isr.h061;Route removed (renamed H61)
 2021-09-30;Israel;H61;isr.h061;Route added (formerly H9)
 2019-03-29;Israel;F6;isr.f006;Route extended at north end from H75 to H79
@@ -4669,9 +4694,11 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
-2022-08-17;(USA) Illinois;IL 19;il.il019;Relocated to current alignment between YorkRd and *OldIL19
-2022-07-13;(USA) Illinois;I-94;il.i094;Relocated exit 59B from 69th Street to Marquette Road
-2022-05-21;(USA) Illinois;IL 14;il.il014;Truncated from Indiana state line to CR2250E (bridge closed)
+2022-09-08;(USA) Illinois;IL 108 (Kampsville);il.il108kam;Created route due to split at Kampsville Ferry. 
+2022-09-08;(USA) Illinois;IL 108;il.il108;Split route at Kampsville Ferry. Long segment now ends at point KamFry. Short segment renamed IL108Kam.
+2022-08-17;(USA) Illinois;IL 19;il.il019;Relocated to current alignment between YorkRd and *OldIL19.
+2022-07-13;(USA) Illinois;I-94;il.i094;Relocated exit 59B from 69th Street to Marquette Road.
+2022-05-21;(USA) Illinois;IL 14;il.il014;Truncated from Indiana state line to CR2250E (bridge closed).
 2022-03-07;(USA) Illinois;US 54;il.us054;Slightly realigned at MO/IL due to new Mississippi River Bridge built slightly to the south.
 2022-03-07;(USA) Illinois;IL 29;il.il029;Removed from Springfield Road through Edinburg and relocated onto four-lane bypass on east side of Edinburg (between points OldIL29_S and OldIL29_N).
 2022-03-07;(USA) Illinois;IL 104;il.il104;Slightly realigned between IL 99 and MorSt due to new bridge across the Illinois River.
@@ -5400,6 +5427,7 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2022-09-05;(USA) Nevada;US 95 Spur (Fernley);;Route deleted (decommissioned), concurrent with I-80BL and NV 427
 2022-06-02;(USA) Nevada;NV 518;;Route deleted (decommissioned)
 2022-04-20;(USA) Nevada;US 93 Truck (Laughlin);;Route deleted (included all of NV 163, and part of US 95)
 2021-08-02;(USA) Nevada;NV 613;nv.nv613;Route added, as replacement for nv.sumpkwy (former county freeway, now part of state system and signed as such)
@@ -6018,7 +6046,7 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
-2022-09-03;(USA) South Carolina;SC 460;va.sc460;extended Jan 2020 south back around to US 21 Bus
+2022-09-03;(USA) South Carolina;SC 460;sc.sc460;extended Jan 2020 south back around to US 21 Bus
 2022-07-04;(USA) South Carolina;US 123 Con (Easley);sc.us123coneas;Route added
 2022-03-05;(USA) South Carolina;I-585;sc.i585;truncated back to I-85 BL which is still its actual endpoint
 2022-03-05;(USA) South Carolina;I-26;sc.i026;extended east one waypoint to its actual endpoint
@@ -6440,6 +6468,8 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2022-09-08;(USA) Wisconsin;WI 113 (Baraboo);wi.wi113bar;Created route due to split at Merrimac Ferry.
+2022-09-08;(USA) Wisconsin;WI 113;wi.wi113;Split route at Merrimac Ferry. South segment now ends at point MerFry. North segment renamed WI113Bar.
 2022-08-10;(USA) Wisconsin;WI 42 Business (Manitowoc);;Removed route
 2022-08-10;(USA) Wisconsin;US 151;wi.us151;Truncated from US 10 in Manitowoc to I-43 exit 149
 2022-08-10;(USA) Wisconsin;WI 42;wi.wi042;Removed from I-43 and US 10, and relocated onto Maritime Drive and former US 151, in Manitowoc
