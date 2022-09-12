@@ -126,6 +126,7 @@ gufn;FRA;French Guiana Routes Nationales;TMlightsalmon;4;active
 pyft;FRA;French Polynesia Routes Territoriales;TMlightsalmon;4;active
 glpn;FRA;Guadeloupe Routes Nationales;TMlightsalmon;4;active
 mtqn;FRA;Martinique Routes Nationales;TMlightsalmon;4;active
+mtqd;FRA;Martinique Routes Départementales;TMyellow;5;active
 mytn;FRA;Mayotte Routes Nationales;TMlightsalmon;4;active
 nclt;FRA;New Caledonia Routes Territoriales;TMlightsalmon;4;active
 reun;FRA;Reunion Routes Nationales;TMlightsalmon;4;active
@@ -169,6 +170,7 @@ imnb;IMN;Isle of Man B Roads;TMyellow;5;active
 irlm;IRL;Ireland Motorways;TMblue;1;active
 irln;IRL;Ireland National Roads;TMlightsalmon;4;active
 irlr;IRL;Ireland Regional Roads;TMyellow;5;active
+irlorb;IRL;Ireland Orbital Routes;TMgray;5;active
 irlwaw;IRL;Ireland Wild Atlantic Way;TMbrown;5;active
 irnf;IRN;Iran Freeways;TMblue;1;active
 islth;ISL;Iceland Þjóðvegir;TMlightsalmon;4;active
@@ -354,6 +356,7 @@ ausnswtd;AUS;New South Wales Tourist Drives;TMbrown;5;preview
 ausqldtd;AUS;Queensland Tourist Drives;TMbrown;5;preview
 ausvictd;AUS;Victoria Tourist Drives;TMbrown;5;preview
 auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;preview
+autl4;AUT;Upper Austria Landesstraßen 1. Ordnun;TMyellow;5;preview
 autl7;AUT;Tyrol Landesstraßen L;TMyellow;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);TMblue;1;preview
@@ -446,14 +449,12 @@ frapacd13;FRA;Bouches-du-Rhône Routes Départementales;TMyellow;5;preview
 frapacd83;FRA;Var Routes Départementales;TMyellow;5;preview
 frapacd84;FRA;Vaucluse Routes Départementales;TMyellow;5;preview
 gufd;FRA;French Guiana Routes Départementales;TMyellow;5;preview
-mtqd;FRA;Martinique Routes Départementales;TMyellow;5;preview
 gabn;GAB;Gabon Routes Nationales;TMgreen;4;preview
 gbnmkgr;GBR;Milton Keynes Grid Roads;TMgray;5;preview
 gbrtrl;GBR;United Kingdom Trails;TMbrown;5;preview
 gbrrr;GBR;United Kingdom Ring Roads;TMgray;5;preview
 gnbn;GNB;Guinea-Bissau Estradas Nacionais;TMred;4;preview
 index;IND;India National Expressways;TMblue;1;preview
-irlorb;IRL;Ireland Orbital Routes;TMgray;5;preview
 isrr;ISR;Israel Regional Roads;TMyellow;5;preview
 #itaa2;ITA;Italy Autostrada (Italy split);TMblue;1;preview
 itass;ITA;Italy Strade Statali;TMlightsalmon;4;preview
