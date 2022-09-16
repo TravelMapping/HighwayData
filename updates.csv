@@ -1867,6 +1867,10 @@ date;region;route;root;description
 2018-05-25;Isle of Man;A45;imn.a045;New Route
 2018-05-25;Isle of Man;A46;imn.a046;New Route
 2018-05-25;Isle of Man;A47;imn.a047;New Route
+2022-09-16;Israel;F50;isr.f050;Route extended at north end from Google Maps' Palestinian border to OSM's Palestinian border, and at south end from Google Maps' Palestinian border to H60
+2022-09-16;Israel;H1;isr.h001;Route extended at east end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Israel;H45;isr.h045;Route added
+2022-09-16;Israel;H60 (Jerusalem);isr.h060jer;Route extended at north and south ends from Google Maps' Palestinian borders to OSM's Palestinian borders
 2022-09-05;Israel;H16;isr.h016;Route added
 2021-09-30;Israel;H9;isr.h061;Route removed (renamed H61)
 2021-09-30;Israel;H61;isr.h061;Route added (formerly H9)
@@ -2453,6 +2457,12 @@ date;region;route;root;description
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2022-09-16;Palestine;F50 (Giv'at);isr.f050;Route part of Israeli section now, per border change from Google Maps to OSM
+2022-09-16;Palestine;F50 (Ramat);pse.f050;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H1;pse.h001;Route truncated at west end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H45;pse.h045;Route truncated at east end from NamTeuSt to Israeli border
+2022-09-16;Palestine;H60 (Hebron);pse.h060heb;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H60 (Nablus);pse.h060;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
 2021-09-30;Palestine;H57 (Tulkarm);pse.h057tul;Route added
 2021-09-30;Palestine;H57 (Hamra);pse.h057;Route extended at west end from R578 to R548/R588
 2021-12-13;Pakistan;M14;pak.m014;Route added
