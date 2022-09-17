@@ -434,8 +434,8 @@ date;region;route;root;description
 2022-09-05;Cyprus;B19;cyp.b019;Route added
 2022-09-05;Cyprus;B22;cyp.b022;Route extended at east end from B1 to E119 and at west end from A9 to U280
 2022-09-05;Cyprus;D20 (Hamitkoy);cyp.d020ham;Route extended at west end from 3Cad to D25 and at east end from LF01 to LF05
-2022-09-05;Cyprus;D30;cyp.d030;Route extended at west end from to the UN Buffer Zone
-2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d030;Route merged into main route
+2022-09-05;Cyprus;D30;cyp.d30;Route extended at west end from to the UN Buffer Zone
+2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
 2022-09-09;Czechia;D48 (Chlebovice);cze.d048chl;Route extended at east end from exit 45A to exit 48
@@ -1867,6 +1867,15 @@ date;region;route;root;description
 2018-05-25;Isle of Man;A45;imn.a045;New Route
 2018-05-25;Isle of Man;A46;imn.a046;New Route
 2018-05-25;Isle of Man;A47;imn.a047;New Route
+2022-09-16;Israel;F2;isr.f002;Route extended at south end from H65 to F5
+2022-09-16;Israel;F4;isr.f004;Route extended at north end from Jerusalem Avenue to F1
+2022-09-16;Israel;F50;isr.f050;Route extended at north end from Google Maps' Palestinian border to OSM's Palestinian border, and at south end from Google Maps' Palestinian border to H60
+2022-09-16;Israel;H1;isr.h001;Route extended at east end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Israel;H2;isr.h002;Route truncated at north end from H65 to F5
+2022-09-16;Israel;H4 (Haifa);isr.h004;Route truncated at south end from Jerusalem Avenue to F1
+2022-09-16;Israel;H45;isr.h045;Route added
+2022-09-16;Israel;H60 (Jerusalem);isr.h060jer;Route extended at north and south ends from Google Maps' Palestinian borders to OSM's Palestinian borders
+2022-09-16;Israel;H70;isr.h070;Route truncated at south end from former southern F6 junction to (formerly northern) H75 junction
 2022-09-05;Israel;H16;isr.h016;Route added
 2021-09-30;Israel;H9;isr.h061;Route removed (renamed H61)
 2021-09-30;Israel;H61;isr.h061;Route added (formerly H9)
@@ -2162,6 +2171,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
+2022-09-16;Malaysia;E19;mys.e019;Route added
 2019-12-17;Malaysia;E32 (Klang);mys.e032kla;New Route
 2019-12-17;Malaysia;E32 (Sitiawan);mys.e032sit;New Route
 2019-06-08;Malaysia;E32;mys.e032;New Route
@@ -2452,6 +2462,13 @@ date;region;route;root;description
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2022-09-16;Palestine;F50 (Giv'at);isr.f050;Route part of Israeli section now, per border change from Google Maps to OSM
+2022-09-16;Palestine;F50 (Ramat);pse.f050;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H1;pse.h001;Route truncated at west end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H3;pse.h003;Route extended at east end from L4249 to L4556
+2022-09-16;Palestine;H45;pse.h045;Route truncated at east end from NamTeuSt to Israeli border
+2022-09-16;Palestine;H60 (Hebron);pse.h060heb;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H60 (Nablus);pse.h060;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
 2021-09-30;Palestine;H57 (Tulkarm);pse.h057tul;Route added
 2021-09-30;Palestine;H57 (Hamra);pse.h057;Route extended at west end from R578 to R548/R588
 2021-12-13;Pakistan;M14;pak.m014;Route added
@@ -2468,6 +2485,7 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-09-13;Poland;S61 (Szcuczyn);pol.s061szc;Route extended at north end from exit 12 to exit 13
 2022-09-03;Poland;S5 (Sartowice);pol.s005sar;Route extended at south end from exit 5 to exit 6
 2022-09-03;Poland;S7 (Warsaw);pol.s007war;Route extended at south end from S2 exit R10b to exit 67
 2022-09-03;Poland;DK5 (Świecie);pol.dk005swi;Route truncated at north end from S5 exit 5 to S5 exit 6
@@ -3168,6 +3186,8 @@ date;region;route;root;description
 2015-07-28;Romania;A1 (Sibiu);rou.a001sib;Route extended at west end from DC67 to DN76, including former Deva section
 2015-07-28;Romania;A11;rou.a011;New Route
 2015-07-28;Romania;E68;rou.e68;Route removed from DN7 through Nadlac onto DN7G and A1 between western junction with the DN7 and the Hungarian border
+2022-09-13;Russia;M12;rus.m012;Route added
+2022-09-13;Russia;Avtomagistral Moskva - Nizhny Novgorod - Kazan;rus.avtmnnk;Route added
 2022-01-23;Russia;AH9;rus.ah009;Route added
 2021-07-14;Russia;CKAD;rus.ckad;Route extended at south end from A107 at Synkovo to A107 at Lisincevo
 2020-12-30;Russia;CKAD;rus.ckad;Route extended at north end from M11 to M10 and route extended at south end from M7 to the A107 at Synkovo
@@ -3274,6 +3294,8 @@ date;region;route;root;description
 2018-12-21;Senegal;A1;sen.a001;Route extended at east end from A2 to exit 19
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2022-09-13;Slovakia;II527;svk.ii527;Route removed from Maly Krtis and Velky Krtis centres and relocated onto II527B between Maly Krtis and A. H. Skuletyho Cesta
+2022-09-13;Slovakia;II527B;svk.ii527;Route deleted (now part of II527)
 2021-11-13;Slovakia;D4 (Bratislava);svk.d004;Route extended at east end from exit 25 to exit 30
 2021-11-13;Slovakia;D4 (Vajnory);svk.d004;Route deleted (merged into main route)
 2021-10-30;Slovakia;II127;svk.ii127;Route added
@@ -3783,6 +3805,7 @@ date;region;route;root;description
 2016-05-01;Sweden;Västkustvägen;swe.vastkustvag;New Route
 2016-05-01;Sweden;Vätterleden;swe.vatled;New Route
 2016-05-01;Sweden;Ystadvägen, Malmo;swe.ystvag;New Route
+2022-09-15;Switzerland;Umfahrung Bütschwil, Lichtensteig und Wattwil;che.umflicwat;Route extended at south end from Wattwil/Brendi (H8) to north of Ebnat-Kappel (H16)
 2022-07-31;Switzerland;H7 (Main);che.h007;Route relocated in Aadorf from Morgentalstrasse and Bahnhofstrasse, and onto Wittenwilerstrasse and Schützenstrasse
 2022-07-31;Switzerland;H16;che.h016;Route extended at north end from Tägerwilen to the German border
 2021-09-20;Switzerland;H20;che.h020;Route relocated from Le Crêt-du-Locle bypass (A20), and through Le Crêt-du-Locle
@@ -3875,6 +3898,8 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2022-09-15;Turkey;O6;tur.o006;New route (existing O6 near Istanbul renamed to O6Ist)
+2022-09-15;Turkey;D555;tur.d555;Relocated on the bypass of Cene
 2021-06-01;Turkey;O7;tur.o007;Newly opened section added (from exit O7Koc to O4)
 2021-06-01;Turkey;O7;tur.o007Koc;Renamed the branch between O7 and O4 near Kocaeli (former part of O7) 
 2020-12-17;Turkey;O21;tur.o021;Merged O21, O21Ank and added the newly opened section (between exits 8 and 12)
@@ -5333,6 +5358,9 @@ date;region;route;root;description
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2022-09-16;(USA) Missouri;MO 28 Spur (Vienna);mo.mo028sprvie;Created route
+2022-09-16;(USA) Missouri;MO 134;mo.mo134;Truncated from US 54 to MO42_E, renamed MO42
+2022-09-16;(USA) Missouri;MO 112 Spur (Roaring River State Park);;Deleted route
 2022-03-07;(USA) Missouri;I-44 BL (Lebanon);;Route deleted.
 2022-03-07;(USA) Missouri;US 54 Business (Lake Ozark);;Route deleted.
 2022-03-07;(USA) Missouri;MO 79;mo.mo079;Relocated US54_W (in-use) from Frank Ford Road to 7th Street in Louisiana.
