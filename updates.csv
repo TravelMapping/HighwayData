@@ -434,8 +434,8 @@ date;region;route;root;description
 2022-09-05;Cyprus;B19;cyp.b019;Route added
 2022-09-05;Cyprus;B22;cyp.b022;Route extended at east end from B1 to E119 and at west end from A9 to U280
 2022-09-05;Cyprus;D20 (Hamitkoy);cyp.d020ham;Route extended at west end from 3Cad to D25 and at east end from LF01 to LF05
-2022-09-05;Cyprus;D30;cyp.d030;Route extended at west end from to the UN Buffer Zone
-2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d030;Route merged into main route
+2022-09-05;Cyprus;D30;cyp.d30;Route extended at west end from to the UN Buffer Zone
+2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
 2022-09-09;Czechia;D48 (Chlebovice);cze.d048chl;Route extended at east end from exit 45A to exit 48
@@ -1867,6 +1867,15 @@ date;region;route;root;description
 2018-05-25;Isle of Man;A45;imn.a045;New Route
 2018-05-25;Isle of Man;A46;imn.a046;New Route
 2018-05-25;Isle of Man;A47;imn.a047;New Route
+2022-09-16;Israel;F2;isr.f002;Route extended at south end from H65 to F5
+2022-09-16;Israel;F4;isr.f004;Route extended at north end from Jerusalem Avenue to F1
+2022-09-16;Israel;F50;isr.f050;Route extended at north end from Google Maps' Palestinian border to OSM's Palestinian border, and at south end from Google Maps' Palestinian border to H60
+2022-09-16;Israel;H1;isr.h001;Route extended at east end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Israel;H2;isr.h002;Route truncated at north end from H65 to F5
+2022-09-16;Israel;H4 (Haifa);isr.h004;Route truncated at south end from Jerusalem Avenue to F1
+2022-09-16;Israel;H45;isr.h045;Route added
+2022-09-16;Israel;H60 (Jerusalem);isr.h060jer;Route extended at north and south ends from Google Maps' Palestinian borders to OSM's Palestinian borders
+2022-09-16;Israel;H70;isr.h070;Route truncated at south end from former southern F6 junction to (formerly northern) H75 junction
 2022-09-05;Israel;H16;isr.h016;Route added
 2021-09-30;Israel;H9;isr.h061;Route removed (renamed H61)
 2021-09-30;Israel;H61;isr.h061;Route added (formerly H9)
@@ -2162,6 +2171,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
+2022-09-16;Malaysia;E19;mys.e019;Route added
 2019-12-17;Malaysia;E32 (Klang);mys.e032kla;New Route
 2019-12-17;Malaysia;E32 (Sitiawan);mys.e032sit;New Route
 2019-06-08;Malaysia;E32;mys.e032;New Route
@@ -2452,6 +2462,13 @@ date;region;route;root;description
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2022-09-16;Palestine;F50 (Giv'at);isr.f050;Route part of Israeli section now, per border change from Google Maps to OSM
+2022-09-16;Palestine;F50 (Ramat);pse.f050;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H1;pse.h001;Route truncated at west end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H3;pse.h003;Route extended at east end from L4249 to L4556
+2022-09-16;Palestine;H45;pse.h045;Route truncated at east end from NamTeuSt to Israeli border
+2022-09-16;Palestine;H60 (Hebron);pse.h060heb;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H60 (Nablus);pse.h060;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
 2021-09-30;Palestine;H57 (Tulkarm);pse.h057tul;Route added
 2021-09-30;Palestine;H57 (Hamra);pse.h057;Route extended at west end from R578 to R548/R588
 2021-12-13;Pakistan;M14;pak.m014;Route added
@@ -4759,6 +4776,7 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 31;il.il031;Relocated in Algonquin from Main Street between Huntington Drive and Elmwood Court, west onto new bypass
 2015-09-06;(USA) Illinois;IL 62;il.il062;Extended west in Algongquin, along Algonquin Road from Main Street (old IL 31) to new IL 31 bypass
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
+2022-09-17;(USA) Indiana;IN 267 (Plainfield);;Route deleted
 2022-07-03;(USA) Indiana;IN 51 Truck (Hobart);in.in051trkhob;Route added
 2022-06-26;(USA) Indiana;IN 9;in.in009;Removed from Harrison St north of IN 44 in Shelbyville and onto IN 44 and I-74
 2022-06-26;(USA) Indiana;IN 9 Truck (Shelbyville);in.in009trkshe;Truncated from I-74/IN 9 junction (exit 113) to former IN44_W point, now labeled IN9_N
@@ -5341,6 +5359,9 @@ date;region;route;root;description
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2022-09-16;(USA) Missouri;MO 28 Spur (Vienna);mo.mo028sprvie;Created route
+2022-09-16;(USA) Missouri;MO 134;mo.mo134;Truncated from US 54 to MO42_E, renamed MO42
+2022-09-16;(USA) Missouri;MO 112 Spur (Roaring River State Park);;Deleted route
 2022-03-07;(USA) Missouri;I-44 BL (Lebanon);;Route deleted.
 2022-03-07;(USA) Missouri;US 54 Business (Lake Ozark);;Route deleted.
 2022-03-07;(USA) Missouri;MO 79;mo.mo079;Relocated US54_W (in-use) from Frank Ford Road to 7th Street in Louisiana.
