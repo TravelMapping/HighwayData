@@ -2006,6 +2006,7 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2022-09-25;Japan;E59;jpn.e059;Route extended at south end from exit 5 to exit 6
 2022-03-29;Japan;E29 (Tatsuno);jpn.n029tat;Route extended north to Shisou JCT, connecting with E2A
 2022-03-29;Japan;E55 (Tokushima);jpn.e055tok;Route extended north to Tokushima JCT, connecting with E11/E32
 2022-02-18;Japan;E52 (Shimizu);;Route deleted, merged into E52
@@ -4531,6 +4532,7 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2022-10-05;(USA) California;CA 123;ca.ca123;In Oakland and Emeryville, south end changed from San Pablo Ave. between I-580 exit 19B and Adeline St., to MacArthur Blvd. service roads and Adeline St. between I-580 exit 19A and San Pablo Ave. Caltrans logs indicate the route has followed the latter alignment since at least 2002.
 2022-09-26;(USA) California;CA 79 (Julian);ca.ca079;Truncated north end, from I-10 to Menlo Ave. south of downtown San Jacinto
 2022-09-26;(USA) California;CA 79 (Beaumont);ca.ca079bea;Added route, including non-decommissioned part of CA 79 north of downtown San Jacinto.
 2022-09-26;(USA) California;CA 107;ca.ca107;Truncated north end, from I-405 south to Redondo Beach Blvd.
@@ -4562,6 +4564,7 @@ date;region;route;root;description
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2022-10-02;(USA) Colorado;I-76 BS (Keenesburg);;Route deleted since there is no sign it actually existed (per forum)
 2022-07-10;(USA) Colorado;CO 109 Truck (La Junta);co.co109trklaj;New Route
 2021-11-27;(USA) Colorado;CO 14;co.co014;Route extended from former east end at US 6 in Sterling to new east end at I-76 outside Sterling along US 6 due to signage changes from the Sterling S Curve project
 2021-10-20;(USA) Colorado;I-70 BL (Limon);co.i070bllim;Route extended on east end from Exit 361 to Exit 363 along US 24, US 40, and US 287 between the two exits. This also required point "I-70_E" to shift locations.
@@ -5870,6 +5873,10 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2022-10-03;(USA) Oklahoma;OK 344;ok.ok344;Route added
+2022-09-28;(USA) Oklahoma;US 69 Business (Durant);;Route deleted
+2022-09-28;(USA) Oklahoma;US 70 Business (Hugo);;Route deleted
+2022-09-28;(USA) Oklahoma;US 75 Business (Durant);;Route deleted
 2022-09-23;(USA) Oklahoma;OK 20;ok.ok020;Removed from 2-lane roadway (partially along the Limestone CDP boundary) and relocated southwestward onto the 4-lane Keetonville Bypass between S 4080 and River Bend Dr.
 2022-02-07;(USA) Oklahoma;Stillwater Connection;ok.ok312;Deleted route. Renamed to OK 312.
 2022-02-07;(USA) Oklahoma;OK 312;ok.ok312;Added route. Renamed from Stillwater Connection.
@@ -5924,6 +5931,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2022-10-04;(USA) Pennsylvania;US 30;pa.us030;Realigned east of WV/PA and west of PA 168 between *OldUS30_A and *OldUS30_B.
 2022-08-28;(USA) Pennsylvania;Betsy Ross Bridge;pa.betrossbri;Extended west from I-95 to Adams Ave/Aramingo Ave along the Aramingo Ave Connector.
 2022-07-07;(USA) Pennsylvania;PA 405;pa.pa405;Extended south from its previous end at the old alignment of PA 147 (now *OldPA147) to follow the old alignment of PA 147 south to PA 61 in Sunbury.
 2022-07-07;(USA) Pennsylvania;PA 147;pa.pa147;Realigned between PA61_S and *OldPA147 to follow PA 61, US 15, and the newly opened northern section of the Central Susquehanna Valley Thruway (CSVT).  The old routing is now just PA 61 to Sunbury, and an extended PA 405 north of there.
