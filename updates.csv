@@ -271,6 +271,9 @@ date;region;route;root;description
 2016-11-19;(Canada) Nova Scotia;TCH (Main);ns.tchmai;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-02-27;(Canada) Nova Scotia;NS 255;ns.ns255;Removed from a closed roadway and demolished bridge, and relocated onto a new parallel roadway and bridge to the east between points labeled *OldNS255_N and *OldNS255_S
 2016-01-02;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from partially-closed local roads through Port Joli and East Port L'Hebert, and relocated onto a limited-access bypass to the north, between closed intersections labeled *OldNS103_PJo and *OldNS103_EPL
+2022-10-09;(Canada) Ontario;ON 11;on.on011;Rerouted onto a brand new alignment to the west of Nipigon, between the points of RedRockRd7 and *OldON17_NipN, which happened in 2018. The old highway is now just local access between those two points.
+2022-10-09;(Canada) Ontario;ON 17;on.on017;Rerouted onto a brand new alignment to the west of Nipigon, between the points of RedRockRd7 and *OldON17_NipN, which happened in 2018. The old highway is now just local access between those two points.
+2022-10-09;(Canada) Ontario;TCH (Lake Superior);on.tchlak;Rerouted onto a brand new alignment to the west of Nipigon, between the points of RedRockRd7 and *OldON17_NipN, which happened in 2018. The old highway is now just local access between those two points.
 2022-04-11;(Canada) Ontario;Gardiner Expressway;on.ongar;Route truncated on eastern end from Lake Shore Blvd to the ramps to the Don Valley Parkway (exit 157), as it's been demolished to help make way for a future realignment of the Gardiner Expressway.
 2022-01-01;(Canada) Ontario;ON 69;on.on069;Rerouted onto a new freeway alignment in Bigwood/French River area, between the points of *OldON69_Gru & *OldON69_NoeS that opened mid 2021. The old highway became just local access between those two points.
 2022-01-01;(Canada) Ontario;TCH (Georgian Bay);on.tchgeo;Rerouted onto a new ON 69 freeway alignment in Bigwood/French River area, between the points of *OldON69_Gru & *OldON69_NoeS that opened mid 2021. The old highway became just local access between those two points.
@@ -1343,6 +1346,8 @@ date;region;route;root;description
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
 2021-11-23;(Germany) Saxony-Anhalt;L193 (Techwitz);;Route deleted
+2022-10-09;(Germany) Saxony-Anhalt;L159;deust.l159;Route relocated from through Salzmünde and onto Benkendorfer Straße and new southern bypass
+2022-10-09;(Germany) Saxony-Anhalt;L173;deust.l173;Route truncated at north end in Salzmünde from K2127 to L159 bypass
 2021-09-17;(Germany) Saxony-Anhalt;B71;deust.b071;Route relocated from through Wedringen and onto new bypass from K1158 interchange west of Wedringen to west of Vahldorf
 2021-07-18;(Germany) Saxony-Anhalt;B188;deust.b188;Route relocated from through Weddendorf, Niendorf and Bergfriede and onto new bypass north of the railway track from K1124 to Frankenfelde
 2020-10-03;(Germany) Saxony-Anhalt;B189;deust.b189;Route relocated onto new A14 section from south of Dolle to north of Colbitz (L38 now)
@@ -2494,6 +2499,9 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
 2022-09-26;Poland;DW987;pol.dw987;Route truncated at north end from DK9 to northern junction with Ulica Sedziszowska, and extended at north end from UliSed_N to (relocated) DK9
+2022-10-06;Poland;A18 (Zary);pol.a018zar;Route added
+2022-10-06;Poland;DK18 (Trezbiel);pol.dk018;Route truncated at east end from exit 6 to exit 2
+2022-10-06;Poland;DK18 (Ilowa);pol.dk018ilo;Route added
 2022-09-13;Poland;S61 (Szcuczyn);pol.s061szc;Route extended at north end from exit 12 to exit 13
 2022-09-03;Poland;S5 (Sartowice);pol.s005sar;Route extended at south end from exit 5 to exit 6
 2022-09-03;Poland;S7 (Warsaw);pol.s007war;Route extended at south end from S2 exit R10b to exit 67
@@ -4532,6 +4540,7 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2022-10-05;(USA) California;CA 123;ca.ca123;In Oakland and Emeryville, south end changed from San Pablo Ave. between I-580 exit 19B and Adeline St., to MacArthur Blvd. service roads and Adeline St. between I-580 exit 19A and San Pablo Ave. Caltrans logs indicate the route has followed the latter alignment since at least 2002.
 2022-09-26;(USA) California;CA 79 (Julian);ca.ca079;Truncated north end, from I-10 to Menlo Ave. south of downtown San Jacinto
 2022-09-26;(USA) California;CA 79 (Beaumont);ca.ca079bea;Added route, including non-decommissioned part of CA 79 north of downtown San Jacinto.
 2022-09-26;(USA) California;CA 107;ca.ca107;Truncated north end, from I-405 south to Redondo Beach Blvd.
@@ -5480,6 +5489,7 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2022-10-08;(USA) Nevada;US 6 Business (Ely);;Route deleted (unsigned)
 2022-09-05;(USA) Nevada;US 95 Spur (Fernley);;Route deleted (decommissioned), concurrent with I-80BL and NV 427
 2022-06-02;(USA) Nevada;NV 518;;Route deleted (decommissioned)
 2022-04-20;(USA) Nevada;US 93 Truck (Laughlin);;Route deleted (included all of NV 163, and part of US 95)
@@ -5872,6 +5882,7 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2022-10-03;(USA) Oklahoma;OK 344;ok.ok344;Route added
 2022-09-28;(USA) Oklahoma;US 69 Business (Durant);;Route deleted
 2022-09-28;(USA) Oklahoma;US 70 Business (Hugo);;Route deleted
 2022-09-28;(USA) Oklahoma;US 75 Business (Durant);;Route deleted
@@ -5929,6 +5940,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2022-10-04;(USA) Pennsylvania;US 30;pa.us030;Realigned east of WV/PA and west of PA 168 between *OldUS30_A and *OldUS30_B.
 2022-08-28;(USA) Pennsylvania;Betsy Ross Bridge;pa.betrossbri;Extended west from I-95 to Adams Ave/Aramingo Ave along the Aramingo Ave Connector.
 2022-07-07;(USA) Pennsylvania;PA 405;pa.pa405;Extended south from its previous end at the old alignment of PA 147 (now *OldPA147) to follow the old alignment of PA 147 south to PA 61 in Sunbury.
 2022-07-07;(USA) Pennsylvania;PA 147;pa.pa147;Realigned between PA61_S and *OldPA147 to follow PA 61, US 15, and the newly opened northern section of the Central Susquehanna Valley Thruway (CSVT).  The old routing is now just PA 61 to Sunbury, and an extended PA 405 north of there.
