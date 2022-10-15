@@ -141,6 +141,11 @@ date;region;route;root;description
 2016-01-12;Belgium;Ring Mons Est;bel.ringmonse;New Route
 2016-01-12;Belgium;Ring Mons Ouest;bel.ringmonso;New Route
 2015-07-24;Belgium;A601;;Route deleted
+2022-09-26;Bosnia and Herzegovina;A1;bih.a001;Route extended at south end from exit 22 to M17 at Bradina
+2022-09-26;Bosnia and Herzegovina;E73;bih.e73;Route removed from M17 and relocated onto A1 between A1 exit 22 and A1/M17 junction at Bradina
+2022-09-05;Bosnia and Herzegovina;A1 (Rudanka);bih.a001rud;Route added
+2022-09-05;Bosnia and Herzegovina;Autoput Banja Luka - Doboj;bih.autbldob;Route extended at east end from exit 5 to exit 6
+2022-09-05;Bosnia and Herzegovina;E73;bih.e73;Route removed from M17 and relocated onto Autoput Banja Luka - Doboj and A1 between M17 junctions north and south of Rudanka
 2021-12-13;Bosnia and Herzegovina;M17.1;bih.m0171;Route added
 2021-12-13;Bosnia and Herzegovina;M17.6;bih.m0176;Route added
 2021-09-30;Bosnia and Herzegovina;A1 (Odzak);bih.a001odz;Route extended at north end from exit 1 to Croatian border
@@ -266,6 +271,9 @@ date;region;route;root;description
 2016-11-19;(Canada) Nova Scotia;TCH (Main);ns.tchmai;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-02-27;(Canada) Nova Scotia;NS 255;ns.ns255;Removed from a closed roadway and demolished bridge, and relocated onto a new parallel roadway and bridge to the east between points labeled *OldNS255_N and *OldNS255_S
 2016-01-02;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from partially-closed local roads through Port Joli and East Port L'Hebert, and relocated onto a limited-access bypass to the north, between closed intersections labeled *OldNS103_PJo and *OldNS103_EPL
+2022-10-09;(Canada) Ontario;ON 11;on.on011;Rerouted onto a brand new alignment to the west of Nipigon, between the points of RedRockRd7 and *OldON17_NipN, which happened in 2018. The old highway is now just local access between those two points.
+2022-10-09;(Canada) Ontario;ON 17;on.on017;Rerouted onto a brand new alignment to the west of Nipigon, between the points of RedRockRd7 and *OldON17_NipN, which happened in 2018. The old highway is now just local access between those two points.
+2022-10-09;(Canada) Ontario;TCH (Lake Superior);on.tchlak;Rerouted onto a brand new alignment to the west of Nipigon, between the points of RedRockRd7 and *OldON17_NipN, which happened in 2018. The old highway is now just local access between those two points.
 2022-04-11;(Canada) Ontario;Gardiner Expressway;on.ongar;Route truncated on eastern end from Lake Shore Blvd to the ramps to the Don Valley Parkway (exit 157), as it's been demolished to help make way for a future realignment of the Gardiner Expressway.
 2022-01-01;(Canada) Ontario;ON 69;on.on069;Rerouted onto a new freeway alignment in Bigwood/French River area, between the points of *OldON69_Gru & *OldON69_NoeS that opened mid 2021. The old highway became just local access between those two points.
 2022-01-01;(Canada) Ontario;TCH (Georgian Bay);on.tchgeo;Rerouted onto a new ON 69 freeway alignment in Bigwood/French River area, between the points of *OldON69_Gru & *OldON69_NoeS that opened mid 2021. The old highway became just local access between those two points.
@@ -413,9 +421,32 @@ date;region;route;root;description
 2015-07-28;Croatia;A2;hrv.a002;Route extended at north end from exit 1 to Slovenian border
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
+2022-09-05;Cyprus;A1;cyp.a001;Route extended at north end from E116 to B18 and at south end from exit 28a to E147/E604
+2022-09-05;Cyprus;A2;cyp.a002;Route extended at south end from A3 to B2
+2022-09-05;Cyprus;A9;cyp.a009;Route extended at north end from exit 92 to B18
+2022-09-05;Cyprus;B1;cyp.b001;Route truncated at north end from B18 to A1 exit 2
+2022-09-05;Cyprus;B2;cyp.b002;Route truncated at north end from B1 to F201 and extended at north end from F201 to B1 (at a different location)
+2022-09-05;Cyprus;B4;cyp.b004;Route extended at south end from F405 to E336
+2022-09-05;Cyprus;B6;cyp.b006;Route truncated at east end from B1 to E147 and extended at east end from E147 to E114
+2022-09-05;Cyprus;B8;cyp.b008;Route truncated at south end from B1 to E147
+2022-09-05;Cyprus;B9;cyp.b009;Route truncated at east end from B18 to E903
+2022-09-05;Cyprus;B10 (Paliometocho);cyp.b010;Route truncated at east end from UN Buffer Zone to Nicosia Airport and at west end from B9 to A9
+2022-09-05;Cyprus;B10 (Lefkosa);cyp.b010lef;Route added (formerly B18)
+2022-09-05;Cyprus;B13;cyp.b013;Route extended at east end from E1701 to UN Buffer Zone
+2022-09-05;Cyprus;B16;cyp.b016;Route truncated at west end from B17 to E130 and at east end from UN Buffer Zone to E1701
+2022-09-05;Cyprus;B17;cyp.b017;Route truncated at north end from 'Sat' to B18 and at south end from UN Buffer Zone to E115
+2022-09-05;Cyprus;B18;cyp.b018;Route reentered (old route now B10 (Lefkosa))
+2022-09-05;Cyprus;B19;cyp.b019;Route added
+2022-09-05;Cyprus;B22;cyp.b022;Route extended at east end from B1 to E119 and at west end from A9 to U280
+2022-09-05;Cyprus;D20 (Hamitkoy);cyp.d020ham;Route extended at west end from 3Cad to D25 and at east end from LF01 to LF05
+2022-09-05;Cyprus;D30;cyp.d30;Route extended at west end from to the UN Buffer Zone
+2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
+2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
-2022-07-03;Czechia;D48 (Frýdek-Místek);cze.d048fry;New Route
-2022-07-03;Czechia;D56 (Frýdek-Místek);cze.d048fry;Route truncated at south end from I48 to exit 51 (I56 now) and reextended to new D48 section
+2022-09-09;Czechia;D48 (Chlebovice);cze.d048chl;Route extended at east end from exit 45A to exit 48
+2022-09-09;Czechia;D48 (Frýdek-Místek);cze.d048chl;Route merged into Chlebovice route
+2022-07-03;Czechia;D48 (Frýdek-Místek);cze.d048chl;New Route
+2022-07-03;Czechia;D56 (Frýdek-Místek);cze.d056;Route truncated at south end from I48 to exit 51 (I56 now) and reextended to new D48 section
 2022-07-03;Czechia;I56 (Frýdlant nad Ostravicí);cze.i056fry;Route extended at north end from I48 to D56 (former D56)
 2022-03-06;Czechia;II353;cze.ii353;Route relocated from through Budeč and Nové Veselí, and onto new bypass from north of Budeč to south of Nové Veselí
 2021-12-20;Czechia;I37 (Pardubice);cze.i037;Route relocated from through Slatiňany and onto new bypass from I17 to II324
@@ -697,6 +728,9 @@ date;region;route;root;description
 2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
 2016-01-04;(France) Corsica;E25;frh.e25;New Route (formerly FRA E25Bas)
+2022-09-22;(France) French Guiana;N5;;Route removed
+2022-09-22;(France) French Guiana;N2001 (Sinnamary);guf.d021;Route removed
+2022-09-22;(France) French Guiana;N2001 (Kourou);;Route removed
 2022-05-14;(France) Grand-Est;N52 (Rombas);frages.n052rom;Route relocated from through frages.n052rom and onto new bypass from D52A to D181
 2021-12-21;(France) Grand-Est;A4 (Metz);frages.a004;Route truncated at east end from exit 51 to exit 48 (M35-6ae now)
 2021-12-21;(France) Grand-Est;A35 (Strasbourg);frages.a035;Route truncated at south end from exit 18 to exit 48 (M35-6ae and A35 (Sélestat) now)
@@ -734,6 +768,7 @@ date;region;route;root;description
 2019-11-15;(France) Île-de-France;N1;fraidf.n001;Route truncated at north end from A16/N184 to D78 (replaced by new A16 route)
 2019-11-15;(France) Île-de-France;A16;fraidf.a016;Route extended at south end from N184 to N104
 2019-11-10;(France) Île-de-France;Antenne de Montreuil;;Route deleted (demolished)
+2022-09-03;(France) Normandy;N27;franor.n027;Route truncated at north end from D925 in Dieppe to D108 near Catteville (D927-76 now), and reextended to D23/D54 near Arques-la-Bataille
 2020-01-03;(France) Normandy;N15;;Route deleted
 2020-01-03;(France) Normandy;N138 (Rouen);;Route deleted
 2020-01-03;(France) Normandy;N2050;;Route deleted
@@ -1311,6 +1346,8 @@ date;region;route;root;description
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
 2021-11-23;(Germany) Saxony-Anhalt;L193 (Techwitz);;Route deleted
+2022-10-09;(Germany) Saxony-Anhalt;L159;deust.l159;Route relocated from through Salzmünde and onto Benkendorfer Straße and new southern bypass
+2022-10-09;(Germany) Saxony-Anhalt;L173;deust.l173;Route truncated at north end in Salzmünde from K2127 to L159 bypass
 2021-09-17;(Germany) Saxony-Anhalt;B71;deust.b071;Route relocated from through Wedringen and onto new bypass from K1158 interchange west of Wedringen to west of Vahldorf
 2021-07-18;(Germany) Saxony-Anhalt;B188;deust.b188;Route relocated from through Weddendorf, Niendorf and Bergfriede and onto new bypass north of the railway track from K1124 to Frankenfelde
 2020-10-03;(Germany) Saxony-Anhalt;B189;deust.b189;Route relocated onto new A14 section from south of Dolle to north of Colbitz (L38 now)
@@ -1332,6 +1369,7 @@ date;region;route;root;description
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2022-09-10;(Germany) Thuringia;B88;deuth.b088;Route relocated from through Rothenstein and onto new bypass between K166 and L2309
 2022-07-25;(Germany) Thuringia;L1047 (Arnstadt);deuth.l1047;Route truncated at south end from Gräfinau-Angstedt to L3087
 2022-07-25;(Germany) Thuringia;L1144;deuth.l1144;Route truncated at north end from Gräfinau-Angstedt to B88
 2022-07-25;(Germany) Thuringia;L2049;;Route deleted
@@ -1599,6 +1637,8 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2022-09-22;Indonesia;T9 (Java);idn.t009;Route extended at west end from exit 12 to exit 16
+2022-09-22;Indonesia;T17 (Cikarang, Java);idn.t017cik;Route extended at north end from exit 2 to exit 27
 2022-02-28;Indonesia;Jalan Tol Manado - Bitung;idn.jtmb;Route extended at east end from exit 25 at Danowudu to Jalan Raya Pateten in Bitung
 2022-02-11;Indonesia;T1 (Sumatra);idn.t001sum;Route extended at west end from exit 15 to exit 29
 2022-01-24;Indonesia;T4 (Java);idn.t004;Route extended at east end from exit 156 to exit 166
@@ -1839,6 +1879,16 @@ date;region;route;root;description
 2018-05-25;Isle of Man;A45;imn.a045;New Route
 2018-05-25;Isle of Man;A46;imn.a046;New Route
 2018-05-25;Isle of Man;A47;imn.a047;New Route
+2022-09-16;Israel;F2;isr.f002;Route extended at south end from H65 to F5
+2022-09-16;Israel;F4;isr.f004;Route extended at north end from Jerusalem Avenue to F1
+2022-09-16;Israel;F50;isr.f050;Route extended at north end from Google Maps' Palestinian border to OSM's Palestinian border, and at south end from Google Maps' Palestinian border to H60
+2022-09-16;Israel;H1;isr.h001;Route extended at east end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Israel;H2;isr.h002;Route truncated at north end from H65 to F5
+2022-09-16;Israel;H4 (Haifa);isr.h004;Route truncated at south end from Jerusalem Avenue to F1
+2022-09-16;Israel;H45;isr.h045;Route added
+2022-09-16;Israel;H60 (Jerusalem);isr.h060jer;Route extended at north and south ends from Google Maps' Palestinian borders to OSM's Palestinian borders
+2022-09-16;Israel;H70;isr.h070;Route truncated at south end from former southern F6 junction to (formerly northern) H75 junction
+2022-09-05;Israel;H16;isr.h016;Route added
 2021-09-30;Israel;H9;isr.h061;Route removed (renamed H61)
 2021-09-30;Israel;H61;isr.h061;Route added (formerly H9)
 2019-03-29;Israel;F6;isr.f006;Route extended at north end from H75 to H79
@@ -1961,6 +2011,7 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2022-09-25;Japan;E59;jpn.e059;Route extended at south end from exit 5 to exit 6
 2022-03-29;Japan;E29 (Tatsuno);jpn.n029tat;Route extended north to Shisou JCT, connecting with E2A
 2022-03-29;Japan;E55 (Tokushima);jpn.e055tok;Route extended north to Tokushima JCT, connecting with E11/E32
 2022-02-18;Japan;E52 (Shimizu);;Route deleted, merged into E52
@@ -2133,6 +2184,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
+2022-09-16;Malaysia;E19;mys.e019;Route added
 2019-12-17;Malaysia;E32 (Klang);mys.e032kla;New Route
 2019-12-17;Malaysia;E32 (Sitiawan);mys.e032sit;New Route
 2019-06-08;Malaysia;E32;mys.e032;New Route
@@ -2251,6 +2303,7 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2022-09-03;Norway;E39 (Trondheim);nor.e39tro;Route relocated from through Stokkan and onto new alignment from Leirvika (Fv6182) to west of Renndalen
 2022-06-26;Norway;Fv659 (Myklebust);nor.fv659myk;New Route
 2022-04-30;Norway;Helgelandskysten Nasjonal Turistvei (Nesna);nor.heltvnes;Route relocated from old route along coastline and onto new alignment through Liatindtunnelen from south of the tunnel to Olvik
 2022-04-05;Norway;E39 (Skjersholmane);nor.fv544hei;Route renamed to Fv244
@@ -2422,6 +2475,13 @@ date;region;route;root;description
 2015-07-24;Norway;E6 (Oslo);nor.e6osl;New Route
 2015-07-24;Norway;E6 (Ryen);nor.e6rye;New Route
 2015-07-24;Norway;E6 (Trondheim);nor.e6tro;New Route
+2022-09-16;Palestine;F50 (Giv'at);isr.f050;Route part of Israeli section now, per border change from Google Maps to OSM
+2022-09-16;Palestine;F50 (Ramat);pse.f050;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H1;pse.h001;Route truncated at west end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H3;pse.h003;Route extended at east end from L4249 to L4556
+2022-09-16;Palestine;H45;pse.h045;Route truncated at east end from NamTeuSt to Israeli border
+2022-09-16;Palestine;H60 (Hebron);pse.h060heb;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
+2022-09-16;Palestine;H60 (Nablus);pse.h060;Route truncated at south end from Google Maps' Palestinian border to OSM's Palestinian border
 2021-09-30;Palestine;H57 (Tulkarm);pse.h057tul;Route added
 2021-09-30;Palestine;H57 (Hamra);pse.h057;Route extended at west end from R578 to R548/R588
 2021-12-13;Pakistan;M14;pak.m014;Route added
@@ -2438,6 +2498,14 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-09-26;Poland;DW987;pol.dw987;Route truncated at north end from DK9 to northern junction with Ulica Sedziszowska, and extended at north end from UliSed_N to (relocated) DK9
+2022-10-06;Poland;A18 (Zary);pol.a018zar;Route added
+2022-10-06;Poland;DK18 (Trezbiel);pol.dk018;Route truncated at east end from exit 6 to exit 2
+2022-10-06;Poland;DK18 (Ilowa);pol.dk018ilo;Route added
+2022-09-13;Poland;S61 (Szcuczyn);pol.s061szc;Route extended at north end from exit 12 to exit 13
+2022-09-03;Poland;S5 (Sartowice);pol.s005sar;Route extended at south end from exit 5 to exit 6
+2022-09-03;Poland;S7 (Warsaw);pol.s007war;Route extended at south end from S2 exit R10b to exit 67
+2022-09-03;Poland;DK5 (Świecie);pol.dk005swi;Route truncated at north end from S5 exit 5 to S5 exit 6
 2022-08-26;Poland;E371;pol.e371;Route removed from Ulica Danuty Siedzikowny, Ulica Podzamcze and Ulica Blazinska, and relocated onto Ilza bypass between Ulica Blazinska and Ulica Polna
 2022-08-26;Poland;DK9;pol.dk009;Route removed from Ulica Danuty Siedzikowny, Ulica Podzamcze and Ulica Blazinska, and relocated onto Ilza bypass between Ulica Blazinska and Ulica Polna
 2022-08-26;Poland;DW747;pol.dw747;Route extended a west end from southern junction with Ulica Podzamcze (formerly DK9 junction) to DK9
@@ -3135,6 +3203,8 @@ date;region;route;root;description
 2015-07-28;Romania;A1 (Sibiu);rou.a001sib;Route extended at west end from DC67 to DN76, including former Deva section
 2015-07-28;Romania;A11;rou.a011;New Route
 2015-07-28;Romania;E68;rou.e68;Route removed from DN7 through Nadlac onto DN7G and A1 between western junction with the DN7 and the Hungarian border
+2022-09-13;Russia;M12;rus.m012;Route added
+2022-09-13;Russia;Avtomagistral Moskva - Nizhny Novgorod - Kazan;rus.avtmnnk;Route added
 2022-01-23;Russia;AH9;rus.ah009;Route added
 2021-07-14;Russia;CKAD;rus.ckad;Route extended at south end from A107 at Synkovo to A107 at Lisincevo
 2020-12-30;Russia;CKAD;rus.ckad;Route extended at north end from M11 to M10 and route extended at south end from M7 to the A107 at Synkovo
@@ -3241,6 +3311,8 @@ date;region;route;root;description
 2018-12-21;Senegal;A1;sen.a001;Route extended at east end from A2 to exit 19
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2022-09-13;Slovakia;II527;svk.ii527;Route removed from Maly Krtis and Velky Krtis centres and relocated onto II527B between Maly Krtis and A. H. Skuletyho Cesta
+2022-09-13;Slovakia;II527B;svk.ii527;Route deleted (now part of II527)
 2021-11-13;Slovakia;D4 (Bratislava);svk.d004;Route extended at east end from exit 25 to exit 30
 2021-11-13;Slovakia;D4 (Vajnory);svk.d004;Route deleted (merged into main route)
 2021-10-30;Slovakia;II127;svk.ii127;Route added
@@ -3324,6 +3396,7 @@ date;region;route;root;description
 2017-03-22;Slovenia;G111;svn.g111;Route truncated at north end from H6 exit 2 to Polje Cesta
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
+2022-09-26;(Spain) Andulucia;A32;espan.a032;Route extended at east end from exit 45 to the N322 at Endrinosa
 2022-01-05;(Spain) Andulucia;A334 (Autovía del Almanzora);espan.a334;Route extended at east end from exit 79 to exit 85
 2021-07-29;(Spain) Andulucia;A4 (Sevilla);espan.a004;Route extended at south end from exit 558 to exit 564
 2021-07-29;(Spain) Andulucia;NIV (Las Cabezas de San Juan);espan.n004;Route truncated at north end from exit 549 to junction north of Los Palacios y Villafranca
@@ -3351,6 +3424,8 @@ date;region;route;root;description
 2019-05-04;(Spain) Andulucia;CA36;espan.ca036;New Route
 2018-07-24;(Spain) Andulucia;SE40 (Coria del Rio);espan.se040cor;New Route
 2017-10-13;(Spain) Andulucia;H30;espan.h030;Route extended at north end from Paseo Marina to A49
+2022-09-26;(Spain) Aragon;A68;espar.a068;Route extended at west end from exit 282 to exit 294
+2022-09-26;(Spain) Aragon;N232 (Gallur);espar.n232gal;Route truncated at east end from A68 exit 282 to A68 exit 288
 2021-03-24;(Spain) Aragon;A68;espar.a068;Route extended at west end from exit 268 to exit 282
 2021-03-24;(Spain) Aragon;N232 (Gallur);espar.n232gal;Route truncated at east end from A68 exit 268 to A68 exit 282
 2019-12-05;(Spain) Aragon;A21 (Santa Cilia);espar.a021san;Route extended at west end from exit 92 to exit 86
@@ -3750,6 +3825,7 @@ date;region;route;root;description
 2016-05-01;Sweden;Västkustvägen;swe.vastkustvag;New Route
 2016-05-01;Sweden;Vätterleden;swe.vatled;New Route
 2016-05-01;Sweden;Ystadvägen, Malmo;swe.ystvag;New Route
+2022-09-15;Switzerland;Umfahrung Bütschwil, Lichtensteig und Wattwil;che.umflicwat;Route extended at south end from Wattwil/Brendi (H8) to north of Ebnat-Kappel (H16)
 2022-07-31;Switzerland;H7 (Main);che.h007;Route relocated in Aadorf from Morgentalstrasse and Bahnhofstrasse, and onto Wittenwilerstrasse and Schützenstrasse
 2022-07-31;Switzerland;H16;che.h016;Route extended at north end from Tägerwilen to the German border
 2021-09-20;Switzerland;H20;che.h020;Route relocated from Le Crêt-du-Locle bypass (A20), and through Le Crêt-du-Locle
@@ -3842,6 +3918,8 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2022-09-15;Turkey;O6;tur.o006;New route (existing O6 near Istanbul renamed to O6Ist)
+2022-09-15;Turkey;D555;tur.d555;Relocated on the bypass of Cene
 2021-06-01;Turkey;O7;tur.o007;Newly opened section added (from exit O7Koc to O4)
 2021-06-01;Turkey;O7;tur.o007Koc;Renamed the branch between O7 and O4 near Kocaeli (former part of O7) 
 2020-12-17;Turkey;O21;tur.o021;Merged O21, O21Ank and added the newly opened section (between exits 8 and 12)
@@ -4462,6 +4540,14 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2022-10-05;(USA) California;CA 123;ca.ca123;In Oakland and Emeryville, south end changed from San Pablo Ave. between I-580 exit 19B and Adeline St., to MacArthur Blvd. service roads and Adeline St. between I-580 exit 19A and San Pablo Ave. Caltrans logs indicate the route has followed the latter alignment since at least 2002.
+2022-09-26;(USA) California;CA 79 (Julian);ca.ca079;Truncated north end, from I-10 to Menlo Ave. south of downtown San Jacinto
+2022-09-26;(USA) California;CA 79 (Beaumont);ca.ca079bea;Added route, including non-decommissioned part of CA 79 north of downtown San Jacinto.
+2022-09-26;(USA) California;CA 107;ca.ca107;Truncated north end, from I-405 south to Redondo Beach Blvd.
+2022-09-26;(USA) California;CA 238 (Fremont);ca.ca238;Truncated north end, from Industrial Pkwy. south to Hayward southern city limit.
+2022-09-24;(USA) California;CA 132;ca.ca132;In Modesto, relocated from Maze Blvd. between Dakota Ave. and CA 99, north to new expressway along Kansas Ave., via Dakota Ave. and ramps along CA 99.
+2022-09-24;(USA) California;CA 162 (Covelo);ca.ca162;East end extended about one mile, from Short Creek Rd. to Bauer Drewery Rd.
+2022-09-24;(USA) California;CA 178 (Lake Isabella);ca.ca178;In Bakersfield, waypoint 6 for Fairfax Rd. exit (corrected to point 7) moved about one mile west to Oswell St. exit (old point 5).
 2022-08-30;(USA) California;US 101;ca.us101;South end of route truncated from CA 60 to junction with I-5 (truncated segment is also I-5, between exits 134A and 134B). Old US 101 waypoint I-5/10 => new 1A (I-5/10 label in use preserved). Old 1A => new 1B, and old 1B => new 1C. 
 2022-04-21;(USA) California;I-105;ca.i105;Route extended east, from I-605 to Studebaker Rd. in Norwalk
 2022-04-21;(USA) California;I-780;ca.i780;Route extended west, from I-80 to Lemon St. in Vallejo
@@ -4486,6 +4572,8 @@ date;region;route;root;description
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2022-10-11;(USA) Colorado;I-70 BL (Rifle);;Route deleted (unsigned)
+2022-10-02;(USA) Colorado;I-76 BS (Keenesburg);;Route deleted since there is no sign it actually existed (per forum)
 2022-07-10;(USA) Colorado;CO 109 Truck (La Junta);co.co109trklaj;New Route
 2021-11-27;(USA) Colorado;CO 14;co.co014;Route extended from former east end at US 6 in Sterling to new east end at I-76 outside Sterling along US 6 due to signage changes from the Sterling S Curve project
 2021-10-20;(USA) Colorado;I-70 BL (Limon);co.i070bllim;Route extended on east end from Exit 361 to Exit 363 along US 24, US 40, and US 287 between the two exits. This also required point "I-70_E" to shift locations.
@@ -4664,9 +4752,11 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
-2022-08-17;(USA) Illinois;IL 19;il.il019;Relocated to current alignment between YorkRd and *OldIL19
-2022-07-13;(USA) Illinois;I-94;il.i094;Relocated exit 59B from 69th Street to Marquette Road
-2022-05-21;(USA) Illinois;IL 14;il.il014;Truncated from Indiana state line to CR2250E (bridge closed)
+2022-09-08;(USA) Illinois;IL 108 (Kampsville);il.il108kam;Created route due to split at Kampsville Ferry. 
+2022-09-08;(USA) Illinois;IL 108;il.il108;Split route at Kampsville Ferry. Long segment now ends at point KamFry. Short segment renamed IL108Kam.
+2022-08-17;(USA) Illinois;IL 19;il.il019;Relocated to current alignment between YorkRd and *OldIL19.
+2022-07-13;(USA) Illinois;I-94;il.i094;Relocated exit 59B from 69th Street to Marquette Road.
+2022-05-21;(USA) Illinois;IL 14;il.il014;Truncated from Indiana state line to CR2250E (bridge closed).
 2022-03-07;(USA) Illinois;US 54;il.us054;Slightly realigned at MO/IL due to new Mississippi River Bridge built slightly to the south.
 2022-03-07;(USA) Illinois;IL 29;il.il029;Removed from Springfield Road through Edinburg and relocated onto four-lane bypass on east side of Edinburg (between points OldIL29_S and OldIL29_N).
 2022-03-07;(USA) Illinois;IL 104;il.il104;Slightly realigned between IL 99 and MorSt due to new bridge across the Illinois River.
@@ -4716,6 +4806,7 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 31;il.il031;Relocated in Algonquin from Main Street between Huntington Drive and Elmwood Court, west onto new bypass
 2015-09-06;(USA) Illinois;IL 62;il.il062;Extended west in Algongquin, along Algonquin Road from Main Street (old IL 31) to new IL 31 bypass
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
+2022-09-17;(USA) Indiana;IN 267 (Plainfield);;Route deleted
 2022-07-03;(USA) Indiana;IN 51 Truck (Hobart);in.in051trkhob;Route added
 2022-06-26;(USA) Indiana;IN 9;in.in009;Removed from Harrison St north of IN 44 in Shelbyville and onto IN 44 and I-74
 2022-06-26;(USA) Indiana;IN 9 Truck (Shelbyville);in.in009trkshe;Truncated from I-74/IN 9 junction (exit 113) to former IN44_W point, now labeled IN9_N
@@ -4829,6 +4920,7 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2022-09-12;(USA) Kentucky;KY 237;ky.ky0237;Removed from Old Camp Ernst Rd and Old Pleasant Valley Rd and relocated onto new parallel road between OldKY237_S & OldKY237_N
 2022-07-27;(USA) Kentucky;KY 495;ky.ky0495;Extended at south end to KY 20 and at north end to KY 237
 2022-07-24;(USA) Kentucky;KY 154;ky.ky0154;US27 endpoint moved approximately 0.2 miles south to reflect relocation that happened in 2012 between the west end and Old Peach Grove Rd
 2022-06-26;(USA) Kentucky;US 127;ky.us127;Removed from CR1596 and Sewellton Rd (now part of KY 2284) onto new alignment between *OldUS127 and StoLn
@@ -5297,6 +5389,9 @@ date;region;route;root;description
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2022-09-16;(USA) Missouri;MO 28 Spur (Vienna);mo.mo028sprvie;Created route
+2022-09-16;(USA) Missouri;MO 134;mo.mo134;Truncated from US 54 to MO42_E, renamed MO42
+2022-09-16;(USA) Missouri;MO 112 Spur (Roaring River State Park);;Deleted route
 2022-03-07;(USA) Missouri;I-44 BL (Lebanon);;Route deleted.
 2022-03-07;(USA) Missouri;US 54 Business (Lake Ozark);;Route deleted.
 2022-03-07;(USA) Missouri;MO 79;mo.mo079;Relocated US54_W (in-use) from Frank Ford Road to 7th Street in Louisiana.
@@ -5395,6 +5490,8 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2022-10-08;(USA) Nevada;US 6 Business (Ely);;Route deleted (unsigned)
+2022-09-05;(USA) Nevada;US 95 Spur (Fernley);;Route deleted (decommissioned), concurrent with I-80BL and NV 427
 2022-06-02;(USA) Nevada;NV 518;;Route deleted (decommissioned)
 2022-04-20;(USA) Nevada;US 93 Truck (Laughlin);;Route deleted (included all of NV 163, and part of US 95)
 2021-08-02;(USA) Nevada;NV 613;nv.nv613;Route added, as replacement for nv.sumpkwy (former county freeway, now part of state system and signed as such)
@@ -5786,6 +5883,11 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2022-10-03;(USA) Oklahoma;OK 344;ok.ok344;Route added
+2022-09-28;(USA) Oklahoma;US 69 Business (Durant);;Route deleted
+2022-09-28;(USA) Oklahoma;US 70 Business (Hugo);;Route deleted
+2022-09-28;(USA) Oklahoma;US 75 Business (Durant);;Route deleted
+2022-09-23;(USA) Oklahoma;OK 20;ok.ok020;Removed from 2-lane roadway (partially along the Limestone CDP boundary) and relocated southwestward onto the 4-lane Keetonville Bypass between S 4080 and River Bend Dr.
 2022-02-07;(USA) Oklahoma;Stillwater Connection;ok.ok312;Deleted route. Renamed to OK 312.
 2022-02-07;(USA) Oklahoma;OK 312;ok.ok312;Added route. Renamed from Stillwater Connection.
 2022-02-07;(USA) Oklahoma;OK 412A;ok.ok412a;Added route.
@@ -5839,6 +5941,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2022-10-04;(USA) Pennsylvania;US 30;pa.us030;Realigned east of WV/PA and west of PA 168 between *OldUS30_A and *OldUS30_B.
 2022-08-28;(USA) Pennsylvania;Betsy Ross Bridge;pa.betrossbri;Extended west from I-95 to Adams Ave/Aramingo Ave along the Aramingo Ave Connector.
 2022-07-07;(USA) Pennsylvania;PA 405;pa.pa405;Extended south from its previous end at the old alignment of PA 147 (now *OldPA147) to follow the old alignment of PA 147 south to PA 61 in Sunbury.
 2022-07-07;(USA) Pennsylvania;PA 147;pa.pa147;Realigned between PA61_S and *OldPA147 to follow PA 61, US 15, and the newly opened northern section of the Central Susquehanna Valley Thruway (CSVT).  The old routing is now just PA 61 to Sunbury, and an extended PA 405 north of there.
@@ -6013,6 +6116,7 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2022-09-03;(USA) South Carolina;SC 460;sc.sc460;extended Jan 2020 south back around to US 21 Bus
 2022-07-04;(USA) South Carolina;US 123 Con (Easley);sc.us123coneas;Route added
 2022-03-05;(USA) South Carolina;I-585;sc.i585;truncated back to I-85 BL which is still its actual endpoint
 2022-03-05;(USA) South Carolina;I-26;sc.i026;extended east one waypoint to its actual endpoint
@@ -6129,6 +6233,8 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2022-09-20;(USA) Texas;US 77 Business (Yoakum);tx.us077altbusyoa;renamed to US 77 Alternate Business.
+2022-09-20;(USA) Texas;US 183 Truck (Cisco);tx.us183trkcis;Route added.
 2022-07-17;(USA) Texas;US 57;tx.us057;South end truncated from Mexican border to TX Spur 240.
 2022-06-30;(USA) Texas;US 69;tx.us069;Relocated eastward onto limited-access highway between TX63 and a point north of Zavalla labeled *OldUS69.
 2022-05-19;(USA) Texas;TX 99 (Baytown);tx.tx099;Deleted, merged into main TX 99 route.
@@ -6340,6 +6446,9 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2022-09-03;(USA) Virginia;VA 349;;no longer posted
+2022-09-03;(USA) Virginia;VA 392;;decommissioned
+2022-09-03;(USA) Virginia;US 60 Truck (Lexington);;decommissioned
 2022-06-25;(USA) Virginia;VA 369 (Tazewell Hall);va.va369taz;Added route
 2022-06-25;(USA) Virginia;VA 369;va.va369;reconfigured to actual longtime routing - original file was a combination of now 369taz and some of the rest of 369
 2022-06-25;(USA) Virginia;US 29 Bus (Danville);va.us029busdan;VA 293N-S labels were backward
@@ -6431,6 +6540,8 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2022-09-08;(USA) Wisconsin;WI 113 (Baraboo);wi.wi113bar;Created route due to split at Merrimac Ferry.
+2022-09-08;(USA) Wisconsin;WI 113;wi.wi113;Split route at Merrimac Ferry. South segment now ends at point MerFry. North segment renamed WI113Bar.
 2022-08-10;(USA) Wisconsin;WI 42 Business (Manitowoc);;Removed route
 2022-08-10;(USA) Wisconsin;US 151;wi.us151;Truncated from US 10 in Manitowoc to I-43 exit 149
 2022-08-10;(USA) Wisconsin;WI 42;wi.wi042;Removed from I-43 and US 10, and relocated onto Maritime Drive and former US 151, in Manitowoc
