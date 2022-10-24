@@ -2508,6 +2508,9 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2022-10-23;Poland;S5;pol.s005;Route extended at north end from exit 8 to A1
+2022-10-23;Poland;S5 (Sartowice);pol.s005sar;Route deleted (merged into main S5)
+2022-10-23;Poland;DK5 (Świecie);pol.dk005swi;Route deleted (merged into S5)
 2022-10-15;Poland;S6 (Bozepole);pol.s006boz;Route added
 2022-10-15;Poland;E28;pol.e28;Route removed from Ulica Wejherowska and relocated onto S6 between S6 exit 47 and 'UliWej_W'
 2022-10-15;Poland;DK6 (Lebork);pol.dk006leb;Route truncated at east end from DW468 to S6 exit 47
@@ -3933,6 +3936,10 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2022-10-24;Turkey;D605;tur.d605;Relocated on the newly opened route north of Izmit
+2022-10-24;Turkey;O7 (Silivri);tur.o003sil;New Route, former part of O7.
+2022-10-24;Turkey;O7 (Sirapinar);tur.o007cek;New Route, part of deprecated O6.
+2022-10-24;Turkey;O7 (Çekmeköy);tur.o007cek;New Route, part of deprecated O6.
 2022-09-15;Turkey;O6;tur.o006;New route (existing O6 near Istanbul renamed to O6Ist)
 2022-09-15;Turkey;D555;tur.d555;Relocated on the bypass of Cene
 2021-06-01;Turkey;O7;tur.o007;Newly opened section added (from exit O7Koc to O4)
@@ -5958,6 +5965,8 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2022-10-23;(USA) Pennsylvania;PA 96 Truck (Manns Choice);;Route deleted.
+2022-10-23;(USA) Pennsylvania;PA 31 Truck (Manns Choice);;Route deleted.
 2022-10-04;(USA) Pennsylvania;US 30;pa.us030;Realigned east of WV/PA and west of PA 168 between *OldUS30_A and *OldUS30_B.
 2022-08-28;(USA) Pennsylvania;Betsy Ross Bridge;pa.betrossbri;Extended west from I-95 to Adams Ave/Aramingo Ave along the Aramingo Ave Connector.
 2022-07-07;(USA) Pennsylvania;PA 405;pa.pa405;Extended south from its previous end at the old alignment of PA 147 (now *OldPA147) to follow the old alignment of PA 147 south to PA 61 in Sunbury.
