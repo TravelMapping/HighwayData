@@ -23,6 +23,9 @@ FRA-87 = `HVi` = Haute-Vienne
 
 
 **NOTES TO ROUTES:**
+*FRA-33 - Gironde:*
+- D route signs often disappear at the Métropole boundary, e.g. see D1010 north and south or D1215, often with km posts at the boundary. All D routes drafted to the Métropole boundary only. M routes are not signed (yet).
+
 *FRA-40 - Landes:*
 - `D933N` is indicated on GM and OSM but only signed at `D932` and `D392` junction according to 2021 GSV. However, it is not signed at roundabout to `A65` in-between nor further to the east, drafted as vanilla `D933`
 - `D933S` is indicated on GM, OSM and 2021 GSV but only from Mont-de-Marsan to Momuy, the signs on the southern-most 5km show `D933` only, fully drafted as `D933S` though; Northern feeder to Saint-Sever is signed as `D933`, so drafted too

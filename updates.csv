@@ -722,6 +722,7 @@ date;region;route;root;description
 2021-08-07;(France) Auvergne-Rhône-Alpes;E62 (Montlucon);fraara.e62;Route relocated from N79 and onto A79 from A71's new A79 junction to N79 east of Montmarault
 2019-10-31;(France) Auvergne-Rhône-Alpes;N7;fraara.n007;Route relocated from through Villeneuve-sur-Allier and onto bypass from D707_ViN to D707_ViS
 2019-10-31;(France) Auvergne-Rhône-Alpes;Autoroute du Soleil, Lyon;fraara.autsol;Route added
+2022-10-29;(France) Brittany;N164;frabre.n164;Route relocated onto new expressway from 1.5km east of Rostrenen to D790 (old alignment is D2164 now)
 2021-12-26;(France) Brittany;N165;frabre.n165;Renumbered all exit numbers between exit 28 and 36 (decreased by 1)
 2021-12-26;(France) Brittany;E60;frabre.e60;Renumbered all exit numbers between exit 28 and 36 (decreased by 1)
 2021-12-26;(France) Brittany;D137;frabre.d137;Route truncated at south end in Rennes from Rond-Point de la Robiquette to N136
@@ -1078,6 +1079,8 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2022-10-29;(Germany) Brandenburg;L86 (Ketzin);deubb.l086ket;New Route (former nothern part of main route)
+2022-10-29;(Germany) Brandenburg;L86 (Damsdorf);deubb.l086;Route truncated at north end from Nauen to Schmergow ferry terminal
 2021-10-30;(Germany) Brandenburg;L17 (Marwitz);deubb.l017;Route truncated at west end from Staffelde to Schwante
 2021-10-30;(Germany) Brandenburg;L161;deubb.l161;Route truncated at north end from Vehlefanz to Perwenitz
 2021-09-26;(Germany) Brandenburg;L30 (Main);deubb.l030;Route relocated from through Niederlehme, and onto new eastern bypass from Karl-Marx-Straße to Am Möllenberg via A10 interchange
@@ -1107,6 +1110,9 @@ date;region;route;root;description
 2019-10-18;(Germany) Hamburg;A253;;Route deleted (B75 now)
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2022-10-29;(Germany) Hesse;L3225 (Großalmerode);deuhe.l3225gro;Route extended at south end from A44's exit 76 to L3228 in Fürstenhagen
+2022-10-29;(Germany) Hesse;L3460;deuhe.l3460;Route extended at east end from Eschenstruth to A44's exit 75
+2022-10-29;(Germany) Hesse;B7 (Kassel);deuhe.b007;Route truncated at east end from A44's exit 76 to exit 75
 2022-10-15;(Germany) Hesse;A44 (Hessisch Lichtenau);deuhe.a044hes;Route extended at west end from exit 76 to exit 75
 2022-07-03;(Germany) Hesse;A49;deuhe.a049;Route extended at south end from exit 17 to 18
 2021-11-28;(Germany) Hesse;L2305;deuhe.l2305;New Route
@@ -1187,6 +1193,9 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2022-10-28;(Germany) North Rhine-Westphalia;B58 (Beckum);deunw.b058bec;New Route
+2022-10-28;(Germany) North Rhine-Westphalia;B288;deunw.b288;Route truncated at east end from A59 to B8 (now A524)
+2022-10-28;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 2 to exit 1 (former B288)
 2022-06-25;(Germany) North Rhine-Westphalia;L794;;Route deleted
 2022-07-12;(Germany) North Rhine-Westphalia;B54 (Steinfurt);deunw.b054;Route merged into main route
 2022-07-12;(Germany) North Rhine-Westphalia;B54 (Münster);deunw.b054;Route extended at north end from B51 in Münster to Dutch border near Gronau (different route through Münster than pre-2020)
@@ -1325,6 +1334,8 @@ date;region;route;root;description
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Kirchheim);deurp.b271kir;Route relocated from northern section of the bypass and through Kirchheim
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
+2022-10-28;(Germany) Saarland;B51 (Saarbrücken);deusl.b051;Route relocated from through Roden and onto new bypass from Gustav-Heinemann-Brücke to A8 exit 10
+2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
 2022-02-19;(Germany) Saxony;L190;deusn.s190;Route relocated from northern segment of Alte Altenberger Straße through Dippoldiswalde and onto B170 bypass and central segment of Alte Altenberger Straße
@@ -2191,6 +2202,8 @@ date;region;route;root;description
 2016-01-05;Lithuania;Vilnius - Kaunas Greitkelio;ltu.vilkaugre;New Route
 2016-01-05;Lithuania;Vilnius - Panevezys Greitkelio;ltu.vilpangre;New Route
 2015-10-17;Lithuania;E262;ltu.e262;Route relocated from A6 onto A20 between western and eastern junctions between the A6 and A20
+2022-10-28;Luxembourg;N11;lux.n011;Route relocated from through Junglinster and onto bypass (opened 2015) from CR121A north of Junlingster to CR121A south of Junglinster
+2022-10-28;Luxembourg;E29;lux.e29;Route relocated from through Junglinster and onto bypass (opened 2015) from CR121A north of Junlingster to CR121A south of Junglinster
 2018-03-02;Luxembourg;N2;lux.n002;Route truncated at north end from Blo Breck between N4 and N3 and extended at north end along Pont Adolphe from N3 to N4/N7
 2017-10-04;Luxembourg;B40;lux.b040;New Route
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
@@ -5262,6 +5275,8 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2022-10-27;(USA) Maryland;MD 5 Business (Leonardtown);;Deleted route
+2022-10-26;(USA) Maryland;MD 787;;Deleted route
 2022-10-15;(USA) Maryland;US 301;md.us301;Removed from the original 1940 Gov. Harry W. Nice Bridge and relocated onto the replacement 2022 bridge across the Potomac River.
 2022-05-07;(USA) Maryland;MD 103;md.md103;Truncated at west end from High Point Road to US 29, this short dangling end is unsigned
 2021-12-06;(USA) Maryland;MD 309;md.md309;Relocated south end off of Cordova Road (RIRO with US 50) and onto Black Dog Alley (intersection with US 50)
@@ -5689,6 +5704,7 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2022-10-26;(USA) North Carolina;I-587;nc.i587;Added route - addition to US 264
 2022-07-04;(USA) North Carolina;I-85;nc.i085;Exits 174A and 174 labels needed to be swapped - alt labels not possible
 2022-06-12;(USA) North Carolina;Bryan Blvd;nc.bryblvd;Added route
 2022-06-12;(USA) North Carolina;I-885;nc.i885;Added route
