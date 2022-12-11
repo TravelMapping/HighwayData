@@ -339,6 +339,8 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
+2022-12-08;(Canada) Quebec;QC 185;qc.qc185;In St-Honore-de-Temiscuota, route relocated from Route Gerard-Roy north to new freeway segment (extended by 1.3 mi.), between *RteGerRoy_A and *RteGerRoy_B 
+2022-12-08;(Canada) Quebec;TCH (Main);qc.tchmai;In St-Honore-de-Temiscuota, route relocated from Route Gerard-Roy north to new freeway segment (extended by 1.3 mi.), between *RteGerRoy_A and *RteGerRoy_B
 2021-12-23;(Canada) Quebec;QC 185;qc.qc185;In St-Honore-de-Temiscuota, route relocated from Route Gerard-Roy north to new freeway segment
 2021-12-23;(Canada) Quebec;TCH (Main);qc.tchmai;In St-Honore-de-Temiscuota, route relocated from Route Gerard-Roy north to new freeway segment
 2021-12-23;(Canada) Quebec;QC 291;qc.qc291;South end in St-Honore-de-Temiscuota relabeled to RteGerRoy (former QC 185), and new QC185 waypoint added at new QC 185 interchange
@@ -768,6 +770,7 @@ date;region;route;root;description
 2020-10-18;(France) Grand-Est;Rocade Nord de Reims;frages.rnr;New Route
 2019-12-29;(France) Grand-Est;Voie Sacrée;frages.nvs;Route extended at south end from N135 to D935
 2019-11-08;(France) Grand-Est;N19;frages.n019;Re-entered route (swapped with BFC file to be in correct regions)
+2022-12-11;(France) Hauts-de-France;D166-62;frahdf.d016659;Route extended at north end from D945 to D166
 2022-10-24;(France) Hauts-de-France;N49;frahdf.n049;New Route
 2020-11-22;(France) Hauts-de-France;D4-95;frahdf.d000495;New Route
 2021-06-05;(France) Île-de-France;N19;fraidf.n019;Route relocated from through Boissy-Saint-Léger and onto new bypass from D229 to Avenue Général Leclerc
@@ -1005,6 +1008,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2022-12-08;(Germany) Bavaria;St1171;deuby.st1171;New Route
 2022-11-14;(Germany) Bavaria;St2171;deuby.st2171;Route extended at north end from Hauptstraße to St2172 junction west of Plößberg (former St2172)
 2022-11-14;(Germany) Bavaria;St2172;deuby.st2172;Route relocated from through Plößberg and onto new bypass from St2172 to TIR2
 2022-08-17;(Germany) Bavaria;St999;deuby.st0999;New Route
@@ -1343,6 +1347,7 @@ date;region;route;root;description
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2022-12-08;(Germany) Saxony;S177n;deusn.s177n;New Route
 2022-11-25;(Germany) Saxony;A72;deusn.a072;Route extended at north end from exit 28 to temporary end at B95 north of Rötha
 2022-02-19;(Germany) Saxony;L190;deusn.s190;Route relocated from northern segment of Alte Altenberger Straße through Dippoldiswalde and onto B170 bypass and central segment of Alte Altenberger Straße
 2021-11-21;(Germany) Saxony;B95 (Rötha);deusn.b095rot;Route truncated at south end from B176 Kesselshain to S242 Espenhain (S242 now)
@@ -1398,6 +1403,7 @@ date;region;route;root;description
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2022-12-08;(Germany) Thuringia;B247;deuth.b247;Route relocated from through Kallmerode and onto new bypass from L1032 to south of Kallmerode
 2022-11-06;(Germany) Thuringia;L2391;deuth.l2391;Route extended at east end in Zeutsch to the new bypass (former B88)
 2022-11-06;(Germany) Thuringia;B88;deuth.b088;Route relocated from through Zeutsch and onto new bypass between K12 and L2391
 2022-09-10;(Germany) Thuringia;B88;deuth.b088;Route relocated from through Rothenstein and onto new bypass between K166 and L2309
@@ -1814,6 +1820,9 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2022-12-10;Ireland;N22;irl.n022;Route removed from R584, Cork Street and R618 and relocated onto Macroom bypass between (moved) R584 junction and (moved) R618_W junction
+2022-12-10;Ireland;R584;irl.r584;Route extended at east end (along former N22) from 'CorkSt_N' (formerly N22) to relocated N22 junction
+2022-12-10;Ireland;R618;irl.r618;Route extended at west end (along former N22) from 'CorkSt_S' (formerly 'N22_W') to relocated N22_W junction
 2022-08-11;Ireland;N8 (Cork);irl.n008;Route merged into main route
 2022-08-11;Ireland;N22 (Cork);irl.n022;Route merged into main route
 2022-08-11;Ireland;R105 (Dublin);irl.r105;Route merged into main route
@@ -3990,6 +3999,8 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2022-12-06;Turkey;D965;tur.d270;Route shortened on the east side in Tutak, between actual D965 and former D965 through Tutak
+2022-12-06;Turkey;D965;tur.d965;Route relocated on new alignment between Hamur and Oglaksuyu
 2022-11-16;Turkey;O21 (Bor (branch));;Route deleted
 2022-11-16;Turkey;O22 (Alasarköy (branch));;Route deleted
 2022-11-16;Turkey;O22 (Dudaklı (branch));;Route deleted
@@ -4088,6 +4099,7 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2022-12-10;(UK) England;A6184;eng.a6184;Route added
 2022-11-14;(UK) England;A3822;eng.a3822;Route extended at north end from A38_W to B3413/B3432
 2022-11-14;(UK) England;B3413;eng.b3413;Route truncated at east end from A38_E to A3822
 2022-08-26;(UK) England;A6120;eng.a6120;Route removed from B6902 and relocated onto East Leeds Orbital Route between B6902 and M1 junction 46'a'
@@ -4967,6 +4979,7 @@ date;region;route;root;description
 2015-08-03;(USA) Indiana;US 24;in.us024;Relocated from Monticello Road onto Hoosier Heartland Highway between MonRd_W and MonRd_E
 2015-08-03;(USA) Indiana;US 31;in.us031;Relocated from Dixie Highway onto freeway between exit 240 and 246
 2015-08-03;(USA) Indiana;US 35;in.us035;Relocated from Monticello Road and onto Hoosier Heartland Highway between MonRd_W and MonRd_E
+2022-12-08;(USA) Iowa;IA 17;ia.ia017;Removed from County Road E41, and T Avenue south of 200th Street, and moved onto new road on S Avenue and 200th Street
 2022-03-07;(USA) Iowa;IA 136;ia.ia136;Truncated from IA 3 to US 20.
 2022-03-07;(USA) Iowa;US 151 Business (Cascade);ia.us151buscas;Removed from 1st Avenue southwest of IA 136 and relocated onto IA 136 between 1st Avenue and US 151 in Cascade. Point US151_S relocated from old south end to IA 136 interchange.  
 2022-03-07;(USA) Iowa;US 30 Business (Mount Vernon);ia.us030busmtv;Route added.
