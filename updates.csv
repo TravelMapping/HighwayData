@@ -383,6 +383,7 @@ date;region;route;root;description
 2018-10-26;(China) Heilongjiang;AH6;chnhl.ah006;New Route
 2018-10-26;(China) Heilongjiang;AH31;chnhl.ah031;New Route
 2018-10-26;(China) Heilongjiang;AH33;chnhl.ah033;New Route
+2022-12-13;(China) Hong Kong;Rt6;hkg.rt006;Route added
 2019-01-24;(China) Hong Kong;Rt4;hkg.rt004;Route removed from Victoria Park Road, Gloucester Road, Harcourt Road and Connaught Road Central and relocated onto Central-Wan Chai Bypass Tunnel between exits 6A and 8 (formerly 12C)
 2018-10-26;(China) Jilin;AH31;chnjl.ah031;New Route
 2018-10-26;(China) Jilin;AH32;chnjl.ah032;New Route
@@ -1820,9 +1821,10 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
-2022-12-10;Ireland;N22;irl.n022;Route removed from R584, Cork Street and R618 and relocated onto Macroom bypass between (moved) R584 junction and (moved) R618_W junction
-2022-12-10;Ireland;R584;irl.r584;Route extended at east end (along former N22) from 'CorkSt_N' (formerly N22) to relocated N22 junction
-2022-12-10;Ireland;R618;irl.r618;Route extended at west end (along former N22) from 'CorkSt_S' (formerly 'N22_W') to relocated N22_W junction
+2022-12-13;Ireland;R582;irl.r582;Route extended at south end (along former N22) from R618_W (formerly N22, which moved) to R584
+2022-12-10;Ireland;N22;irl.n022;Route removed from R584, R582 and R618 and relocated onto Macroom bypass between (moved) R584 junction and (moved) R618_W junction
+2022-12-10;Ireland;R584;irl.r584;Route extended at east end (along former N22) from R582 (formerly N22) to relocated N22 junction
+2022-12-10;Ireland;R618;irl.r618;Route extended at west end (along former N22) from R582 (formerly 'N22_W') to relocated N22_W junction
 2022-08-11;Ireland;N8 (Cork);irl.n008;Route merged into main route
 2022-08-11;Ireland;N22 (Cork);irl.n022;Route merged into main route
 2022-08-11;Ireland;R105 (Dublin);irl.r105;Route merged into main route
@@ -2053,6 +2055,9 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2022-12-16;Japan;E13;jpn.e013;Route extended at north end from exit 28 to exit 29
+2022-12-16;Japan;E13 (Shinjo);;Route deleted, merged into E13
+2022-12-16;Japan;E13;jpn.e013;Route extended at north end to exit 20-2, including former E13 (Shinjo) section
 2022-09-25;Japan;E59;jpn.e059;Route extended at south end from exit 5 to exit 6
 2022-03-29;Japan;E29 (Tatsuno);jpn.n029tat;Route extended north to Shisou JCT, connecting with E2A
 2022-03-29;Japan;E55 (Tokushima);jpn.e055tok;Route extended north to Tokushima JCT, connecting with E11/E32
