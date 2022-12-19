@@ -14,14 +14,17 @@ ausnb;AUS;Australia N Roads (Bannered);TMred;4;active
 ausr;AUS;Australia Ring Roads;TMred;4;active
 ausntb;AUS;Northern Territory B Roads;TMyellow;4;active
 ausqld;AUS;Queensland State Higways;TMyellow;4;active
-aussab;AUS;South Australia B Roads;TMyellow;4;active
 ausqldmr;AUS;Brisbane Metroads;TMred;4;active
+aussab;AUS;South Australia B Roads;TMyellow;4;active
+austasb;AUS;Tasmania B Roads;TMyellow;4;active
 auswa;AUS;Western Australia State Highways;TMyellow;4;active
 ausnt;AUS;Northern Territory Territorial Highways;TMlightsalmon;5;active
 ausntc;AUS;Northern Territory C Roads;TMgray;5;active
 auta;AUT;Austria Autobahnen;TMblue;1;active
 auts;AUT;Austria Schnellstrassen;TMteal;2;active
 autb;AUT;Austria Landesstraßen B;TMlightsalmon;4;active
+autl4;AUT;Upper Austria Landesstraßen 1. Ordnung;TMyellow;5;active
+autl7;AUT;Tyrol Landesstraßen L;TMyellow;5;active
 azem;AZE;Azerbaijan Magistrale;TMlightsalmon;4;active
 bela;BEL;Belgium Autosnelwegen / Autoroutes;TMblue;1;active
 belb;BEL;Belgium Bretelles;TMteal;2;active
@@ -132,7 +135,10 @@ nclt;FRA;New Caledonia Routes Territoriales;TMlightsalmon;4;active
 reun;FRA;Reunion Routes Nationales;TMlightsalmon;4;active
 spmn;FRA;Saint Pierre and Miquelon Routes Territoriales;TMlightsalmon;4;active
 wlft;FRA;Wallis and Futuna Routes Territoriales;TMlightsalmon;4;active
+frabfcd90;FRA;Territoire de Belfort Routes Départementales;TMyellow;5;active
 fracord;FRA;Corsica Routes Départementales;TMyellow;5;active
+fragesm6ae;FRA;Eurométropole de Strasbourg Routes Métropolitaines;TMyellow;5;active
+frahdfd59;FRA;Nord Routes Départementales;TMyellow;5;active
 frahdfm59;FRA;Métropole européenne de Lille Routes Métropolitaines;TMyellow;5;active
 frahdfd62;FRA;Pas-de-Calais Routes Départementales;TMyellow;5;active
 fraidfd77;FRA;Seine-et-Marne Routes Départementales;TMyellow;5;active
@@ -142,6 +148,7 @@ fraidfd92;FRA;Hauts-de-Seine Routes Départementales;TMyellow;5;active
 fraidfd93;FRA;Seine-Saint-Denis Routes Départementales;TMyellow;5;active
 fraidfd94;FRA;Val-de-Marne Routes Départementales;TMyellow;5;active
 fraidfd95;FRA;Val-d'Oise Routes Départementales;TMyellow;5;active
+fraoccm31;FRA;Toulouse Métropole Routes Métropolitaines;TMyellow;5;active
 glpd;FRA;Guadaloupe Routes Départementales;TMyellow;5;active
 mytd;FRA;Mayotte Routes Départementales;TMyellow;5;active
 reud;FRA;Reunion Routes Départementales;TMyellow;5;active
@@ -351,7 +358,6 @@ afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
 asiahp;ASI;UNESCAP Asian Highways (for preview);TMred;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
 ausnswb;AUS;New South Wales B Roads;TMyellow;4;preview
-austasb;AUS;Tasmania B Roads;TMyellow;4;preview
 ausvicb;AUS;Victoria B Roads;TMyellow;4;preview
 austasc;AUS;Tasmania C Roads;TMgray;5;preview
 ausvicc;AUS;Victoria C Roads;TMgray;5;preview
@@ -361,8 +367,6 @@ ausnswtd;AUS;New South Wales Tourist Drives;TMbrown;5;preview
 ausqldtd;AUS;Queensland Tourist Drives;TMbrown;5;preview
 ausvictd;AUS;Victoria Tourist Drives;TMbrown;5;preview
 auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;preview
-autl4;AUT;Upper Austria Landesstraßen 1. Ordnung;TMyellow;5;preview
-autl7;AUT;Tyrol Landesstraßen L;TMyellow;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);TMblue;1;preview
 bihm2;BIH;Bosnia and Herzegovina Magistrale (Srpska renumbering);TMlightsalmon;4;preview
@@ -397,7 +401,6 @@ frabfcd58;FRA;Nièvre Routes Départementales;TMyellow;5;preview
 frabfcd70;FRA;Haute-Saône Routes Départementales;TMyellow;5;preview
 frabfcd71;FRA;Saône-et-Loire Routes Départementales;TMyellow;5;preview
 frabfcd89;FRA;Yonne Routes Départementales;TMyellow;5;preview
-frabfcd90;FRA;Territoire de Belfort Routes Départementales;TMyellow;5;preview
 frabred22;FRA;Côtes-d’Armor Routes Départementales;TMyellow;5;preview
 frabred29;FRA;Finistère Routes Départementales;TMyellow;5;preview
 frabred35;FRA;Ille-et-Vilaine Routes Départementales;TMyellow;5;preview
@@ -416,10 +419,8 @@ fragesd54;FRA;Meurthe-et-Moselle Routes Départementales;TMyellow;5;preview
 fragesd55;FRA;Meuse Routes Départementales;TMyellow;5;preview
 fragesd57;FRA;Moselle Routes Départementales;TMyellow;5;preview
 fragesd6ae;FRA;Collectivité européenne d'Alsace Routes Départementales;TMyellow;5;preview
-fragesm6ae;FRA;Eurométropole de Strasbourg Routes Métropolitaines;TMyellow;5;preview
 fragesd88;FRA;Vosges Routes Départementales;TMyellow;5;preview
 frahdfd02;FRA;Aisne Routes Départementales;TMyellow;5;preview
-frahdfd59;FRA;Nord Routes Départementales;TMyellow;5;preview
 frahdfd60;FRA;Oise Routes Départementales;TMyellow;5;preview
 frahdfd80;FRA;Somme Routes Départementales;TMyellow;5;preview
 franord14;FRA;Calvados Routes Départementales;TMyellow;5;preview
@@ -427,13 +428,17 @@ franord27;FRA;Eure Routes Départementales;TMyellow;5;preview
 franord50;FRA;Manche Routes Départementales;TMyellow;5;preview
 franord61;FRA;Orne Routes Départementales;TMyellow;5;preview
 franord76;FRA;Seine-Maritime Routes Départementales;TMyellow;5;preview
+franaqd17;FRA;Charente-Maritime Routes Départementales;TMyellow;5;preview
+franaqd24;FRA;Dordogne Routes Départementales;TMyellow;5;preview
+franaqd33;FRA;Gironde Routes Départementales;TMyellow;5;preview
+franaqd40;FRA;Landes Routes Départementales;TMyellow;5;preview
+franaqd47;FRA;Lot-et-Garonne Routes Départementales;TMyellow;5;preview
 franaqd64;FRA;Pyrénées-Atlantiques Routes Départementales;TMyellow;5;preview
 fraoccd09;FRA;Ariège Routes Départementales;TMyellow;5;preview
 fraoccd11;FRA;Aude Routes Départementales;TMyellow;5;preview
 fraoccd12;FRA;Aveyron Routes Départementales;TMyellow;5;preview
 fraoccd30;FRA;Gard Routes Départementales;TMyellow;5;preview
 fraoccd31;FRA;Haute-Garonne Routes Départementales;TMyellow;5;preview
-fraoccm31;FRA;Toulouse Métropole Routes Métropolitaines;TMyellow;5;preview
 fraoccd32;FRA;Gers Routes Départementales;TMyellow;5;preview
 fraoccd34;FRA;Hérault Routes Départementales;TMyellow;5;preview
 fraoccm34;FRA;Montpellier Méditerranée Routes Métropolitaines;TMyellow;5;preview
@@ -520,14 +525,9 @@ codn;COD;DRC Routes Nationale;TMgreen;4;devel
 #fragesm57;FRA;Metz Métropole Routes Métropolitaines;TMyellow;5;devel
 #franorm76;FRA;Métropole Rouen Normandie Routes Métropolitaines;TMyellow;5;devel
 franaqd16;FRA;Charente Routes Départementales;TMyellow;5;devel
-franaqd17;FRA;Charente-Maritime Routes Départementales;TMyellow;5;devel
 franaqd19;FRA;Corrèze Routes Départementales;TMyellow;5;devel
 franaqd23;FRA;Creuse Routes Départementales;TMyellow;5;devel
-franaqd24;FRA;Dordogne Routes Départementales;TMyellow;5;devel
-franaqd33;FRA;Gironde Routes Départementales;TMyellow;5;devel
 #franaqm33;FRA;Bordeaux Métropole Routes Métropolitaines;TMyellow;5;devel
-franaqd40;FRA;Landes Routes Départementales;TMyellow;5;devel
-franaqd47;FRA;Lot-et-Garonne Routes Départementales;TMyellow;5;devel
 franaqd79;FRA;Deux-Sèvres Routes Départementales;TMyellow;5;devel
 franaqd86;FRA;Vienne Routes Départementales;TMyellow;5;devel
 franaqd87;FRA;Haute-Vienne Routes Départementales;TMyellow;5;devel
