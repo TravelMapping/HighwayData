@@ -452,6 +452,12 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2022-12-24;Czechia;D48 (Frýdek-Místek);cze.d048;Route extended at west end from exit 52 east of Frýdek-Místek to II462 at Rybí
+2022-12-24;Czechia;D48 (Chlebovice);cze.d048;Route merged into main route
+2022-12-24;Czechia;I48 (Frýdek-Místek);cze.i048fry;Route extended at east end from II477 to D48's exit 52
+2022-12-24;Czechia;E462;cze.e462;Route relocated from I48 through Frýdek-Místek and onto D48 Frýdek-Místek bypass from exit 46A to exit 52
+2022-12-22;Czechia;D35 (Opatovice nad Labem);cze.d035opa;Route extended at east end from exit 144 to I17 east of Ostrov
+2022-12-22;Czechia;E442;cze.e442;Route relocated from I35 through Hradec Králové and Holice, and onto D11, D35 and I17 from west of Hradec Králové to Zámrsk
 2022-10-25;Czechia;I38;cze.i038;Route relocated from through Církvice and onto new bypass from north of Církvice to II339
 2022-10-15;Czechia;I3 (Benešov);cze.i003ben;Route relocated from through Olbramovice and onto new bypass from north of Olbramovice to south of Olbramovice
 2022-10-15;Czechia;I9;cze.i009;Route relocated in Mělník from through the built-up area and onto new bypass from (new) junction with I16 (west) and Řípská
@@ -935,6 +941,9 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2022-12-24;(Germany) Baden-Württemberg;L1204;deubw.l1204;Route truncated at west end from L1016 east of Plieningen to K1269, and reextended onto new southern bypass of Plieningen
+2022-12-24;(Germany) Baden-Württemberg;L1204;deubw.l1204;Route relocated from through Neuhausen ob Fildern and onto new northern bypass from L1209 to L1202
+2022-12-24;(Germany) Baden-Württemberg;L1209;deubw.l1209;Route extended at east end from Plieninger Straße in Neuhausen ob Fildern to new L1204 bypass north of A8 (formerly L1204)
 2022-07-24;(Germany) Baden-Württemberg;B33 (Radolfzell);deubw.b033rad;Route relocated from through Reichenau Waldsiedlung and onto new bypass (tunnel)
 2022-07-24;(Germany) Baden-Württemberg;L220 (Reichenau Waldsiedlung);;Route deleted
 2022-06-04;(Germany) Baden-Württemberg;B292 (Mosbach);deubw.b292;Route reloacted from through Adelsheim (B292a now) and onto new bypass
@@ -1009,6 +1018,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2022-12-24;(Germany) Bavaria;B16 (Bertoldshofen);deuby.b472;New deleted, merged into B472
+2022-12-24;(Germany) Bavaria;B472;deuby.b472;Route relocated from through Bertoldshofen and onto northern bypass
 2022-12-08;(Germany) Bavaria;St1171;deuby.st1171;New Route
 2022-11-14;(Germany) Bavaria;St2171;deuby.st2171;Route extended at north end from Hauptstraße to St2172 junction west of Plößberg (former St2172)
 2022-11-14;(Germany) Bavaria;St2172;deuby.st2172;Route relocated from through Plößberg and onto new bypass from St2172 to TIR2
@@ -1119,6 +1130,9 @@ date;region;route;root;description
 2019-10-18;(Germany) Hamburg;A253;;Route deleted (B75 now)
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2022-12-24;(Germany) Hesse;B80 (Bad Karlshafen);deuhe.b080;Route extended at west end from Bremer Straße in Bad Karlshafen to border with NW (former B83)
+2022-12-24;(Germany) Hesse;B83 (Hofgeismar);deuhe.b083hof;Route truncated at north end from Bad Karlshafen to K74 south of Bad Karlshafen and reextended onto new bypass to the border with NW
+2022-12-24;(Germany) Hesse;B7 (Calden);deuhe.b007cal;New Route
 2022-10-29;(Germany) Hesse;L3225 (Großalmerode);deuhe.l3225gro;Route extended at south end from A44's exit 76 to L3228 in Fürstenhagen
 2022-10-29;(Germany) Hesse;L3460;deuhe.l3460;Route extended at east end from Eschenstruth to A44's exit 75
 2022-10-29;(Germany) Hesse;B7 (Kassel);deuhe.b007;Route truncated at east end from A44's exit 76 to exit 75
@@ -1203,6 +1217,11 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2022-12-24;(Germany) North Rhine-Westphalia;Münchener Straße Düsseldorf;deunw.l293;Route deleted (L293 now)
+2022-12-24;(Germany) North Rhine-Westphalia;L293 (Düsseldorf);deunw.l293;Route truncated at south end from Rheinpromenade Monheim to Münchener Straße and reextended onto Münchener Straße to B228
+2022-12-24;(Germany) North Rhine-Westphalia;L353;deunw.l353;Route truncated at west end from Rheinpromenade Monheim to A59
+2022-12-24;(Germany) North Rhine-Westphalia;B80;deunw.b080;New Route (former B83)
+2022-12-24;(Germany) North Rhine-Westphalia;B83 (Beverungen);deunw.b083;Route truncated at south end from Bad Karlshafen to west of Herstelle and reextended onto new bypass to the border with Hesse
 2022-10-28;(Germany) North Rhine-Westphalia;B58 (Beckum);deunw.b058bec;New Route
 2022-10-28;(Germany) North Rhine-Westphalia;B288;deunw.b288;Route truncated at east end from A59 to B8 (now A524)
 2022-10-28;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 2 to exit 1 (former B288)
@@ -1348,6 +1367,7 @@ date;region;route;root;description
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2022-12-24;(Germany) Saxony;B172n;deusn.b172n;New Route
 2022-12-08;(Germany) Saxony;S177n;deusn.s177n;New Route
 2022-11-25;(Germany) Saxony;A72;deusn.a072;Route extended at north end from exit 28 to temporary end at B95 north of Rötha
 2022-02-19;(Germany) Saxony;L190;deusn.s190;Route relocated from northern segment of Alte Altenberger Straße through Dippoldiswalde and onto B170 bypass and central segment of Alte Altenberger Straße
@@ -5049,6 +5069,9 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2022-12-23;(USA) Kentucky;US 23;ky.us023;KY244 waypoint moved to new location at location of former KY750_S point, with old KY244 point now named ToOH93
+2022-12-23;(USA) Kentucky;KY 244;ky.ky0244;Removed from closed segment of Bellefonte St south of Clinton St and relocated onto new viaduct passing over US 23 and connecting approximately 0.25 miles north
+2022-12-23;(USA) Kentucky;KY 750;ky.ky0750;Route truncated at east end to new KY 244 viaduct
 2022-12-17;(USA) Kentucky;US 68;ky.us068;Removed from Canton Rd and relocated onto new parallel expressway between CanRd_W and CanRd_E
 2022-12-17;(USA) Kentucky;KY 80;ky.ky0080;Removed from Canton Rd and relocated onto new parallel expressway between CanRd_W and CanRd_E
 2022-12-17;(USA) Kentucky;KY 272;ky.ky0272;Extended 0.1 mile at west end to new alignment of US68/KY 80
