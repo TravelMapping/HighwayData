@@ -5,7 +5,7 @@
 **SOURCES:**
 - https://no.wikipedia.org/wiki/Fylkesvei
 - https://no.wikipedia.org/wiki/Kategori:Prim%C3%A6re_fylkesveier
-- https://vegkart.atlas.vegvesen.no/
+- https://www.vegvesen.no/trafikk/#/kart
 *Regionreformen:*
 - https://vegvesen.maps.arcgis.com/apps/webappviewer/index.html?id=7ffd2bbd172448d1a912fe63787435e2
 
