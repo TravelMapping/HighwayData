@@ -21,7 +21,7 @@ MS149Wig_S http://www.openstreetmap.org/?lat=30.837244&lon=-89.137890
 MS26 http://www.openstreetmap.org/?lat=30.851810&lon=-89.155737
 +x02 http://www.openstreetmap.org/?lat=30.868139&lon=-89.165404
 MS149Wig_N http://www.openstreetmap.org/?lat=30.883123&lon=-89.164250
-MS13Wig http://www.openstreetmap.org/?lat=30.950412&lon=-89.187733
+MS13_S +MS13Wig http://www.openstreetmap.org/?lat=30.950412&lon=-89.187733
 +x03 http://www.openstreetmap.org/?lat=30.982135&lon=-89.200766
 CarRd http://www.openstreetmap.org/?lat=31.048674&lon=-89.202987
 +x04 http://www.openstreetmap.org/?lat=31.102334&lon=-89.215937
@@ -33,9 +33,8 @@ TatDr http://www.openstreetmap.org/?lat=31.292212&lon=-89.303556
 US11 http://www.openstreetmap.org/?lat=31.307348&lon=-89.316627
 MamSt http://www.openstreetmap.org/?lat=31.319309&lon=-89.328300
 MS198 http://www.openstreetmap.org/?lat=31.324689&lon=-89.329013
-W4thSt http://www.openstreetmap.org/?lat=31.330106&lon=-89.329040
-W7thSt http://www.openstreetmap.org/?lat=31.334436&lon=-89.329051
-+x05 http://www.openstreetmap.org/?lat=31.342660&lon=-89.329340
+4thSt +W4thSt http://www.openstreetmap.org/?lat=31.330106&lon=-89.329040
+7thSt http://www.openstreetmap.org/?lat=31.334436&lon=-89.329051
 OldHwy42 +PriRd http://www.openstreetmap.org/?lat=31.346733&lon=-89.332473
 I-59 +I-59(67) http://www.openstreetmap.org/?lat=31.356816&lon=-89.346485
 MS42_W http://www.openstreetmap.org/?lat=31.419494&lon=-89.409667
@@ -45,7 +44,7 @@ MS590 http://www.openstreetmap.org/?lat=31.562228&lon=-89.511768
 KolaRd +Old49Col_S http://www.openstreetmap.org/?lat=31.623001&lon=-89.541377
 MS184 http://www.openstreetmap.org/?lat=31.638743&lon=-89.562762
 US84 http://www.openstreetmap.org/?lat=31.654368&lon=-89.572134
-+x06 http://www.openstreetmap.org/?lat=31.701371&lon=-89.616895
++x05 http://www.openstreetmap.org/?lat=31.701371&lon=-89.616895
 MS149MtO_S http://www.openstreetmap.org/?lat=31.745039&lon=-89.644926
 MS35 http://www.openstreetmap.org/?lat=31.748528&lon=-89.652219
 JayRd http://www.openstreetmap.org/?lat=31.766459&lon=-89.675595
@@ -58,15 +57,15 @@ GooRdNW http://www.openstreetmap.org/?lat=31.876735&lon=-89.761731
 MS149/545 http://www.openstreetmap.org/?lat=31.888891&lon=-89.763064
 SmiCroRd http://www.openstreetmap.org/?lat=31.894812&lon=-89.765360
 MS149San http://www.openstreetmap.org/?lat=31.910191&lon=-89.791069
-+x07 http://www.openstreetmap.org/?lat=31.929292&lon=-89.823017
++x06 http://www.openstreetmap.org/?lat=31.929292&lon=-89.823017
 MS149Men http://www.openstreetmap.org/?lat=31.954008&lon=-89.847272
 MS540 http://www.openstreetmap.org/?lat=31.957330&lon=-89.849823
-+x08 http://www.openstreetmap.org/?lat=31.973680&lon=-89.862885
-MS13 http://www.openstreetmap.org/?lat=31.981215&lon=-89.872297
++x07 http://www.openstreetmap.org/?lat=31.973680&lon=-89.862885
+MS13_N +MS13 http://www.openstreetmap.org/?lat=31.981215&lon=-89.872297
 SawRd http://www.openstreetmap.org/?lat=32.017228&lon=-89.949296
 MS149Bra http://www.openstreetmap.org/?lat=32.046255&lon=-89.981478
 StarRd http://www.openstreetmap.org/?lat=32.096250&lon=-90.040072
-+x09 http://www.openstreetmap.org/?lat=32.141461&lon=-90.098748
++x08 http://www.openstreetmap.org/?lat=32.141461&lon=-90.098748
 MS469 http://www.openstreetmap.org/?lat=32.154428&lon=-90.123988
 HarSt http://www.openstreetmap.org/?lat=32.221147&lon=-90.155938
 OldHwy49Jac http://www.openstreetmap.org/?lat=32.239757&lon=-90.165106
@@ -78,13 +77,13 @@ I-20(45A) http://www.openstreetmap.org/?lat=32.275826&lon=-90.193130
 I-20(45) http://www.openstreetmap.org/?lat=32.276221&lon=-90.199846
 I-20(44) http://www.openstreetmap.org/?lat=32.275504&lon=-90.208161
 I-20(43) http://www.openstreetmap.org/?lat=32.279695&lon=-90.212420
-+x10 http://www.openstreetmap.org/?lat=32.285836&lon=-90.215521
++x09 http://www.openstreetmap.org/?lat=32.285836&lon=-90.215521
 I-20(42) http://www.openstreetmap.org/?lat=32.287799&lon=-90.227693
 I-20(41) http://www.openstreetmap.org/?lat=32.289173&lon=-90.249885
 I-220(1B) http://www.openstreetmap.org/?lat=32.300455&lon=-90.246506
 I-220(2) http://www.openstreetmap.org/?lat=32.327639&lon=-90.246484
 I-220(3) http://www.openstreetmap.org/?lat=32.340358&lon=-90.245637
-+x11 http://www.openstreetmap.org/?lat=32.352395&lon=-90.244703
++x10 http://www.openstreetmap.org/?lat=32.352395&lon=-90.244703
 I-220(5) http://www.openstreetmap.org/?lat=32.359446&lon=-90.235809
 NatTraPkwy http://www.openstreetmap.org/?lat=32.381570&lon=-90.259793
 CoLinRd http://www.openstreetmap.org/?lat=32.400287&lon=-90.277212
@@ -93,8 +92,9 @@ KenRd http://www.openstreetmap.org/?lat=32.480296&lon=-90.288863
 MS22 http://www.openstreetmap.org/?lat=32.538739&lon=-90.319789
 1stSt http://www.openstreetmap.org/?lat=32.561296&lon=-90.322938
 +x12 http://www.openstreetmap.org/?lat=32.606411&lon=-90.366240
+MS830_S http://www.openstreetmap.org/?lat=32.630575&lon=-90.369501
 MS433 http://www.openstreetmap.org/?lat=32.640554&lon=-90.373557
-RaiAve http://www.openstreetmap.org/?lat=32.658088&lon=-90.373382
+MS830_N http://www.openstreetmap.org/?lat=32.658088&lon=-90.373382
 MyrRd http://www.openstreetmap.org/?lat=32.798711&lon=-90.371947
 MS16_E http://www.openstreetmap.org/?lat=32.834813&lon=-90.384049
 MS16/149 http://www.openstreetmap.org/?lat=32.839758&lon=-90.386667
