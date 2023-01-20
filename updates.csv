@@ -214,6 +214,8 @@ date;region;route;root;description
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and relocated onto A4 between the former junction between the A3 and N8 east of Generalovo (labeled *N8_GenE) and the junction between the A4 and N8 next to the Turkish border
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
 2015-07-22;Bulgaria;E85;bgr.e85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
+2023-01-18;(Canada) Alberta;AB 1A (Cochrane);ab.ab001acoc;East end removed from Banff Trail and relocated onto Crowchild Trail between Banff Trail and AB 1.
+2023-01-18;(Canada) Alberta;AB 8;ab.ab008;East end truncated from Sarcee Trail to AB 201.
 2022-02-12;(Canada) Alberta;AB 14;ab.ab014;Curve straightened between waypoints *OldAB14_W and *OldAB14_E. Relocated southward.
 2021-10-03;(Canada) Alberta;AB 201 (South Calgary);ab.ab201swc;Route deleted. Merged into Southwest Calgary segment.
 2021-10-03;(Canada) Alberta;AB 201 (Southwest Calgary);ab.ab201swc;Extended counterclockwise along Tsuut'ina Trail from Exit 13 to Exit 9, thence along the former South Calgary segment to AB 2.
@@ -1021,6 +1023,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2023-01-14;(Germany) Bavaria;St2032;deuby.st2032;Route relocated from through Adelsried and onto bypass between Ehgatten and A8 interchange
 2023-01-12;(Germany) Bavaria;St2381;deuby.st2381;Route relocated Bahnhofstraße in Gersthofen and onto Donauwörther Straße from Augsburger Straße to B2
 2022-12-24;(Germany) Bavaria;B16 (Bertoldshofen);deuby.b472;New deleted, merged into B472
 2022-12-24;(Germany) Bavaria;B472;deuby.b472;Route relocated from through Bertoldshofen and onto northern bypass
@@ -1221,6 +1224,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2023-01-13;(Germany) North Rhine-Westphalia;B59;deunw.b059;Route truncated at east end  in Cologne from B9 to L34
 2022-12-24;(Germany) North Rhine-Westphalia;Münchener Straße Düsseldorf;deunw.l293;Route deleted (L293 now)
 2022-12-24;(Germany) North Rhine-Westphalia;L293 (Düsseldorf);deunw.l293;Route truncated at south end from Rheinpromenade Monheim to Münchener Straße and reextended onto Münchener Straße to B228
 2022-12-24;(Germany) North Rhine-Westphalia;L353;deunw.l353;Route truncated at west end from Rheinpromenade Monheim to A59
@@ -1650,6 +1654,10 @@ date;region;route;root;description
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2023-01-19;Iceland;TH411;isl.th411;Extended east from TH41 to Rjúpnavegur
+2023-01-19;Iceland;TH410;isl.th410;Relocated onto new alignment between Brekkuás and Ásvallabraut
+2023-01-19;Iceland;TH408;;Route deleted
+2023-01-19;Iceland;TH41;isl.th041;Truncated at north end from Ægisgata to Faxagata
 2021-08-28;Iceland;TH953;isl.th953;Extended east from Brekka to Dalatangi
 2021-08-28;Iceland;TH833;isl.th833;Extended south from Illugastaðir to Reykir
 2021-08-28;Iceland;TH646;isl.th646;New Route
@@ -5881,7 +5889,7 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
-2023-01-07;(USA) North Carolina;I-840;nc.I-840;extended east as new freeway to US 29 and absorbs I-840Fut (E Greensboro) east to I-85
+2023-01-07;(USA) North Carolina;I-840;nc.i840;extended east as new freeway to US 29 and absorbs I-840Fut (E Greensboro) east to I-85
 2023-01-07;(USA) North Carolina;I-840Fut (E Greensboro);;removed and is now part of I-840
 2023-01-02;(USA) North Carolina;NC 561;nc.nc561;moved onto Short St in Rich Square instead of directly from US 258 to NC 305 - this reroute is at least 15 years old
 2023-01-02;(USA) North Carolina;US 264 ALT (Wilson);nc.us264altwil;Route truncated to I-587 east of Wilson with middle third becoming US 264 and eastern third becoming US 264 ALT (Greenville)
@@ -6057,7 +6065,10 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
-2022-07-24;(USA) Ohio;OH 266;oh.oh266; Removed from demolished old roadway and relocated to new roadway approximately 0.2 miles north between *OldOH266_W and *OldOH266_E
+2023-01-17;(USA) Ohio;OH 4;oh.oh004;Removed from Germantown St in Dayton between GetAve_S and GerSt and relocated onto Gettysburg Ave and US 35, which resulted in the US35_W label moving from what is now GerSt to US 35's Gettysburg Ave exit
+2023-01-17;(USA) Ohio;OH 128;oh.oh128;Truncated at east end from OH 4 to US 127
+2023-01-17;(USA) Ohio;OH 177;oh.oh177;Truncated at south end from OH 4 to US 127
+2022-07-24;(USA) Ohio;OH 266;oh.oh266;Removed from demolished old roadway and relocated to new roadway approximately 0.2 miles north between *OldOH266_W and *OldOH266_E
 2021-12-07;(USA) Ohio;US 30 Business (Van Wert);oh.us030busvan;Route added
 2021-11-22;(USA) Ohio;OH 10;oh.oh010;Extended at east end from US 422 (now US422_W waypoint) along US 422/OH 8/OH 14/OH 43/OH87, I-77, I-490, new construction, and E 105th St to US 322 
 2021-09-07;(USA) Ohio;OH 521;oh.oh521;Re-extended to former west end at OH37_W (reversion of 2019-01-19 edit due to unsigned segment now being signed)
