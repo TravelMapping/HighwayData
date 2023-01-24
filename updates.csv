@@ -21,6 +21,10 @@ date;region;route;root;description
 2021-06-09;Andorra;CG3A;and.cg003a;Route reentered
 2021-06-09;Andorra;Tunel d'Envarlira;and.cg002a;Route renamed CG2a
 2021-01-14;(Australia) Australia Capital Territory;A23;ausact.a023;Route extended at south end from northern junction with State Circle to NSW border
+2023-01-20;(Australia) New South Wales;M4;ausnsw.m004;Route extended at east end from A4 at Five Dock / Paramatta Road junction to M8
+2023-01-20;(Australia) New South Wales;M8;ausnsw.m008;Route extended at north end from Euston Road to M4
+2023-01-20;(Australia) New South Wales;A4;ausnsw.a004;Route truncated at west end from former western junction with M4 (at Strathfield) to M4 at Haberfield
+2023-01-20;(Australia) New South Wales;A44;ausnsw.a044;Route extended at east end from M4 at Strathfield to M4 at Haberfield 
 2020-09-23;(Australia) New South Wales;M1 (Ballina);ausnsw.m001bal;Route extended at south end from B60 to Trustmans Hill Road
 2020-09-23;(Australia) New South Wales;M1 (Grafton);ausnsw.m001gra;Route extended at north end from Oval Link Road to Iluka Road
 2020-07-05;(Australia) New South Wales;M8;ausnsw.m008;Route added
@@ -214,6 +218,8 @@ date;region;route;root;description
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and relocated onto A4 between the former junction between the A3 and N8 east of Generalovo (labeled *N8_GenE) and the junction between the A4 and N8 next to the Turkish border
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
 2015-07-22;Bulgaria;E85;bgr.e85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
+2023-01-18;(Canada) Alberta;AB 1A (Cochrane);ab.ab001acoc;East end removed from Banff Trail and relocated onto Crowchild Trail between Banff Trail and AB 1.
+2023-01-18;(Canada) Alberta;AB 8;ab.ab008;East end truncated from Sarcee Trail to AB 201.
 2022-02-12;(Canada) Alberta;AB 14;ab.ab014;Curve straightened between waypoints *OldAB14_W and *OldAB14_E. Relocated southward.
 2021-10-03;(Canada) Alberta;AB 201 (South Calgary);ab.ab201swc;Route deleted. Merged into Southwest Calgary segment.
 2021-10-03;(Canada) Alberta;AB 201 (Southwest Calgary);ab.ab201swc;Extended counterclockwise along Tsuut'ina Trail from Exit 13 to Exit 9, thence along the former South Calgary segment to AB 2.
@@ -798,6 +804,7 @@ date;region;route;root;description
 2020-01-03;(France) Normandy;N15;;Route deleted
 2020-01-03;(France) Normandy;N138 (Rouen);;Route deleted
 2020-01-03;(France) Normandy;N2050;;Route deleted
+2023-01-21;(France) Nouvelle-Aquitaine;N520 (Romanet);;Route deleted
 2023-01-06;(France) Nouvelle-Aquitaine;E606;franaq.e606;Route truncated at north end from exit N10's exit 55 to exit 58
 2022-04-03;(France) Nouvelle-Aquitaine;N147;franaq.n147;Route extended at north end from N149 to D347
 2022-04-03;(France) Nouvelle-Aquitaine;N237;franaq.n237;Route extended at west end from D735 to D21/D106
@@ -1652,6 +1659,10 @@ date;region;route;root;description
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2023-01-19;Iceland;TH411;isl.th411;Extended east from TH41 to Rjúpnavegur
+2023-01-19;Iceland;TH410;isl.th410;Relocated onto new alignment between Brekkuás and Ásvallabraut
+2023-01-19;Iceland;TH408;;Route deleted
+2023-01-19;Iceland;TH41;isl.th041;Truncated at north end from Ægisgata to Faxagata
 2021-08-28;Iceland;TH953;isl.th953;Extended east from Brekka to Dalatangi
 2021-08-28;Iceland;TH833;isl.th833;Extended south from Illugastaðir to Reykir
 2021-08-28;Iceland;TH646;isl.th646;New Route
@@ -5448,6 +5459,7 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2023-01-21;(USA) Maryland;MD 331;md.md331;Truncated at south end from Old Ocean Gateway to US 50.
 2022-11-10;(USA) Maryland;Beach Drive;;Deleted route, no longer meets inclusion criteria due to permanent closure to motorized traffic south of DC/MD line.
 2022-10-27;(USA) Maryland;MD 5 Business (Leonardtown);;Deleted route
 2022-10-26;(USA) Maryland;MD 787;;Deleted route
