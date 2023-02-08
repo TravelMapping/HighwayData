@@ -15,20 +15,20 @@ MS145Shu_S http://www.openstreetmap.org/?lat=31.823276&lon=-88.692294
 CR210 http://www.openstreetmap.org/?lat=31.857482&lon=-88.720297
 MS145Shu_N http://www.openstreetmap.org/?lat=31.879915&lon=-88.712368
 +x02 http://www.openstreetmap.org/?lat=31.927088&lon=-88.716445
-MS145Des http://www.openstreetmap.org/?lat=31.956054&lon=-88.725310
+MS145_Des http://www.openstreetmap.org/?lat=31.956054&lon=-88.725310
 CR280 http://www.openstreetmap.org/?lat=31.968515&lon=-88.727305
-MS145Qui_S http://www.openstreetmap.org/?lat=31.979382&lon=-88.720492
+MS145_SQu http://www.openstreetmap.org/?lat=31.979382&lon=-88.720492
 +x03 http://www.openstreetmap.org/?lat=32.000070&lon=-88.694944
 MS511 http://www.openstreetmap.org/?lat=32.040049&lon=-88.678572
 MS18 http://www.openstreetmap.org/?lat=32.059671&lon=-88.678443
-MS145Qui_N http://www.openstreetmap.org/?lat=32.101396&lon=-88.706953
+MS145_NQu +MS145Qui_N http://www.openstreetmap.org/?lat=32.101396&lon=-88.706953
 CR150 http://www.openstreetmap.org/?lat=32.115376&lon=-88.716263
 MS514 http://www.openstreetmap.org/?lat=32.180909&lon=-88.709410
-MS145Cla http://www.openstreetmap.org/?lat=32.212688&lon=-88.698123
+MS145_Cla http://www.openstreetmap.org/?lat=32.212688&lon=-88.698123
 MitBotRd http://www.openstreetmap.org/?lat=32.243062&lon=-88.690452
 SprHillRd http://www.openstreetmap.org/?lat=32.269703&lon=-88.693145
 +x04 http://www.openstreetmap.org/?lat=32.287532&lon=-88.698270
-MS145Mer_S http://www.openstreetmap.org/?lat=32.302305&lon=-88.690269
+MS145_Mer +MS145Mer_S http://www.openstreetmap.org/?lat=32.302305&lon=-88.690269
 +x05 http://www.openstreetmap.org/?lat=32.325436&lon=-88.675804
 CauRd http://www.openstreetmap.org/?lat=32.331435&lon=-88.662887
 +x06 http://www.openstreetmap.org/?lat=32.347410&lon=-88.638382
@@ -54,7 +54,7 @@ MS145Mac_S http://www.openstreetmap.org/?lat=33.065008&lon=-88.562929
 MS14 http://www.openstreetmap.org/?lat=33.105985&lon=-88.546937
 MagDr http://www.openstreetmap.org/?lat=33.148769&lon=-88.553611
 MS145Mac_N http://www.openstreetmap.org/?lat=33.171495&lon=-88.564474
-US45AltBro http://www.openstreetmap.org/?lat=33.237804&lon=-88.572316
+US45Alt_S +US45AltBro http://www.openstreetmap.org/?lat=33.237804&lon=-88.572316
 MS388 http://www.openstreetmap.org/?lat=33.245752&lon=-88.570468
 MS792 http://www.openstreetmap.org/?lat=33.346093&lon=-88.537421
 MS789 http://www.openstreetmap.org/?lat=33.467195&lon=-88.496504
@@ -87,7 +87,7 @@ US278/41 http://www.openstreetmap.org/?lat=33.997140&lon=-88.627500
 +x12 http://www.openstreetmap.org/?lat=34.006993&lon=-88.632288
 MS145Net_S http://www.openstreetmap.org/?lat=34.068934&lon=-88.626486
 MS145Net_N http://www.openstreetmap.org/?lat=34.093473&lon=-88.641174
-US45AltSha http://www.openstreetmap.org/?lat=34.116892&lon=-88.701290
+US45Alt/145 +US45AltSha http://www.openstreetmap.org/?lat=34.116892&lon=-88.701290
 BreRd http://www.openstreetmap.org/?lat=34.153732&lon=-88.702535
 VerPlaRd http://www.openstreetmap.org/?lat=34.192316&lon=-88.706725
 US278/6_W +GreSt http://www.openstreetmap.org/?lat=34.209564&lon=-88.707848
@@ -98,7 +98,7 @@ MS178 http://www.openstreetmap.org/?lat=34.274879&lon=-88.706532
 I-22/78 +US78 http://www.openstreetmap.org/?lat=34.295019&lon=-88.702782
 BarCroRd http://www.openstreetmap.org/?lat=34.315565&lon=-88.699587
 +x13 http://www.openstreetmap.org/?lat=34.342267&lon=-88.693464
-MS145Sal http://www.openstreetmap.org/?lat=34.376680&lon=-88.697849
+MS145_Sal +MS145Sal http://www.openstreetmap.org/?lat=34.376680&lon=-88.697849
 EucRd http://www.openstreetmap.org/?lat=34.398146&lon=-88.699000
 MS348 http://www.openstreetmap.org/?lat=34.448326&lon=-88.672623
 +x14 http://www.openstreetmap.org/?lat=34.468708&lon=-88.662887
@@ -110,7 +110,7 @@ CR7000 http://www.openstreetmap.org/?lat=34.641214&lon=-88.605391
 +x30 http://www.openstreetmap.org/?lat=34.655875&lon=-88.607225
 MS4 http://www.openstreetmap.org/?lat=34.683257&lon=-88.592210
 CR8050 http://www.openstreetmap.org/?lat=34.712576&lon=-88.580637
-MS145Boo http://www.openstreetmap.org/?lat=34.730065&lon=-88.562666
+MS145_Boo http://www.openstreetmap.org/?lat=34.730065&lon=-88.562666
 MS356 http://www.openstreetmap.org/?lat=34.763414&lon=-88.559933
 CR511 http://www.openstreetmap.org/?lat=34.865247&lon=-88.558967
 HarRd http://www.openstreetmap.org/?lat=34.909058&lon=-88.544494

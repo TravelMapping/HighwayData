@@ -19,7 +19,7 @@ FRA-85 = `Ven` = Vendée
 **NOTES TO ROUTES:**
 *FRA-44 - Loire-Atlantique:*
 - shp accuracy for border coordinates seem to be better based on km posts in the field than those from Maine-et-Loire's shp files but the latter was drafted first
-- M route indication on OSM and GM is not consistent and GSV is often not recent enough (pre-2020), to be checked with updated GSV
+- `M58` (Le Pellerin) is only signed at west end's junction. Not sure where it ends exactly.
 
 *FRA-49 - Maine-et-Loire:*
 - There is a shp file `D149V` connecting the two `D149-85` routes. `V` might stand for Vendée, not drafted as -49 route
