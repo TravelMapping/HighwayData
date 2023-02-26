@@ -145,6 +145,8 @@ date;region;route;root;description
 2016-01-12;Belgium;Ring Mons Est;bel.ringmonse;New Route
 2016-01-12;Belgium;Ring Mons Ouest;bel.ringmonso;New Route
 2015-07-24;Belgium;A601;;Route deleted
+2023-02-17;Bosnia and Herzegovina;M4.2;bih.m0042;Route removed from R400a and relocated onto Ulica Ibrahima Mrzljaka between R400a and Croatian border
+2023-02-17;Bosnia and Herzegovina;M4.3;bih.m0043;Route added
 2022-09-26;Bosnia and Herzegovina;A1;bih.a001;Route extended at south end from exit 22 to M17 at Bradina
 2022-09-26;Bosnia and Herzegovina;E73;bih.e73;Route removed from M17 and relocated onto A1 between A1 exit 22 and A1/M17 junction at Bradina
 2022-09-05;Bosnia and Herzegovina;A1 (Rudanka);bih.a001rud;Route added
@@ -405,6 +407,15 @@ date;region;route;root;description
 2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
 2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2022-01-23;(China) Xianjiang;AH9;chnxj.ah009;Route added
+2023-02-23;Croatia;D110;hrv.d110;Route relocated at east end from old to new ferry terminal in Tkon
+2023-02-23;Croatia;D112;hrv.d112;Route relocated from through Grohote and onto northern bypass
+2023-02-23;Croatia;D114;hrv.d114;Route truncated at est end from the town center to L67236 in Milna
+2023-02-23;Croatia;D116;hrv.d116;Route extended at west end from from Domovinskog rata to Ulica Vlade Stošića in Hvar
+2023-02-21;Croatia;D114;hrv.d114;Route relocated from through Ložišća and onto bypass from west of Ložišća to Z6188
+2023-02-20;Croatia;D422;hrv.d422;Route extended at east end from the airport to Z6040
+2023-02-19;Croatia;D218;hrv.d218;Route truncated at south end from D1 (Bruvno) to Donji Lapac, and reextened to D1 (Bjelopolje)
+2023-02-18;Croatia;D34;hrv.d034;Route relocated from through Petrijevci and onto bypass
+2023-02-16;Croatia;D517;hrv.d517;Route extended at south end from Belišće (D34) to Koška (D2)
 2023-02-15;Croatia;D232;hrv.d232;Route truncated at west end from west of Galdovo (D36) to Topolovac and reextended to Novo Selo Palanječko (D36)
 2023-02-12;Croatia;D36;hrv.d036;Route extended at east end from A3 to Popovača
 2023-02-12;Croatia;D43;hrv.d043;Route extended at west end from A3 exit 12 (Ivanić-Grad) to A3 exit 11 (Dugo Selo)
@@ -3607,6 +3618,7 @@ date;region;route;root;description
 2015-08-20;Slovakia;R2 (Zvolen);svk.r002zvo;New Route
 2015-08-20;Slovakia;R3 (Vrutky);svk.r003vru;New Route
 2015-08-20;Slovakia;R6;svk.r006;Route truncated at north end from II507 to I49
+2023-02-19;Slovenia;R656;svn.r656;Route relocated at west end from through Sela and onto new Sela bypass
 2023-02-05;Slovenia;R230;svn.r230;Route relocated from through Ormož and onto eastern bypass from G2 to the Croatian border
 2021-12-02;Slovenia;G104 (Mengeš (spur));svn.g104men;Route extended at north end from R225 to G104 north of Mengeš
 2020-01-03;Slovenia;H2;svn.r430;Route deleted (R430 now)
@@ -4250,6 +4262,8 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2023-02-17;(UK) England;A5288;eng.a5288;Route added
+2023-02-17;(UK) England;B6271;eng.b6271;Route extended at east end from (now southern junction with) A167 to A684
 2023-01-10;(UK) England;A325;eng.a0325;Route removed from B3228 and relocated onto A31 between eastern and western junctions with A31
 2023-01-10;(UK) England;B3228;eng.b3228;Route added
 2022-12-10;(UK) England;A6184;eng.a6184;Route added
@@ -4907,6 +4921,7 @@ date;region;route;root;description
 2017-06-07;(USA) Connecticut;CT 2A;ct.ct002a;Relabeled exits from sequential to mileage-based, all numbered exits changed
 2016-02-12;(USA) Connecticut;Milford Parkway;ct.milpkwy;Route added
 2015-12-16;(USA) Connecticut;I-395;ct.i395;Relabeled exits from sequential to mileage-based, all numbers changed
+2023-02-19;(USA) Delaware;DE 30;de.de030;South end truncated from Bi State Blvd (BiStaBlvd) to DE 24 (formerly DE24_E) north of Millsboro.
 2022-02-22;(USA) Delaware;DE 23;de.de023;Slightly realigned between Stockley Rd (StoRd) and Hopkins Rd (HopRd) due to roundabout at new Anchors Run Subdivision between these two points.
 2020-06-20;(USA) Delaware;DE 54 Alternate (Bethany Beach);;Route deleted.
 2020-06-20;(USA) Delaware;DE 24 Alternate (Zoar);;Route deleted.
@@ -4921,6 +4936,7 @@ date;region;route;root;description
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2022-11-10;(USA) District of Columbia;Beach Drive;;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2023-02-21;(USA) Florida;FL 52;fl.fl052;Removed from Pasco County Road (now CR 52) thru San Antonio & Dade City, and relocated south onto a partially new 4-lane highway and Clinton Avenue (former CR 52 Alt), between the intersections of CR52 (former FL 52) & US301/98.
 2022-11-07;(USA) Florida;FL 429;fl.fl429;Extended eastward along a newly opened segment of the Wekiva Parkway between Exits 50 and 54 (I-4).
 2022-08-02;(USA) Florida;FL 5 (Jacksonville);fl.fl005jac;Extended northward along Main Street in Jacksonville to the northern half of the split US 1/US 90 interchange.
 2022-08-02;(USA) Florida;FL 399;fl.fl399;Added route.
@@ -5030,6 +5046,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2023-02-17;(USA) Illinois;IL 53;il.il053;Truncated south end from I-55 to OldUS66_E
 2022-09-08;(USA) Illinois;IL 108 (Kampsville);il.il108kam;Created route due to split at Kampsville Ferry. 
 2022-09-08;(USA) Illinois;IL 108;il.il108;Split route at Kampsville Ferry. Long segment now ends at point KamFry. Short segment renamed IL108Kam.
 2022-08-17;(USA) Illinois;IL 19;il.il019;Relocated to current alignment between YorkRd and *OldIL19.
@@ -5803,6 +5820,8 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2023-02-22;(USA) Nevada;NV 121;;Route deleted (removed from primary state system, demoted to secondary system not covered by Travel Mapping)
+2023-02-22;(USA) Nevada;NV 720;nv.nv720;East end extended from Union Ln. at Pasture Rd., north along Pasture Rd. to Churchill Ave. 
 2022-10-08;(USA) Nevada;US 6 Business (Ely);;Route deleted (unsigned)
 2022-09-05;(USA) Nevada;US 95 Spur (Fernley);;Route deleted (decommissioned), concurrent with I-80BL and NV 427
 2022-06-02;(USA) Nevada;NV 518;;Route deleted (decommissioned)
