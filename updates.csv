@@ -407,6 +407,8 @@ date;region;route;root;description
 2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
 2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2022-01-23;(China) Xianjiang;AH9;chnxj.ah009;Route added
+2023-02-16;Croatia;D517;hrv.d517;Route extended at south end from Belišće (D34) to Koška (D2)
+2023-02-15;Croatia;D232;hrv.d232;Route truncated at west end from west of Galdovo (D36) to Topolovac and reextended to Novo Selo Palanječko (D36)
 2023-02-12;Croatia;D36;hrv.d036;Route extended at east end from A3 to Popovača
 2023-02-12;Croatia;D43;hrv.d043;Route extended at west end from A3 exit 12 (Ivanić-Grad) to A3 exit 11 (Dugo Selo)
 2023-02-09;Croatia;D24;hrv.d024;Route truncated at west end from D14 to D29 (Z2264 and Z2198 now)
@@ -794,6 +796,7 @@ date;region;route;root;description
 2022-09-22;(France) French Guiana;N5;;Route removed
 2022-09-22;(France) French Guiana;N2001 (Sinnamary);guf.d021;Route removed
 2022-09-22;(France) French Guiana;N2001 (Kourou);;Route removed
+2023-02-13;(France) Grand-Est;M663-6ae;frages.m06636ae;New Route
 2022-05-14;(France) Grand-Est;N52 (Rombas);frages.n052rom;Route relocated from through frages.n052rom and onto new bypass from D52A to D181
 2021-12-21;(France) Grand-Est;A4 (Metz);frages.a004;Route truncated at east end from exit 51 to exit 48 (M35-6ae now)
 2021-12-21;(France) Grand-Est;A35 (Strasbourg);frages.a035;Route truncated at south end from exit 18 to exit 48 (M35-6ae and A35 (Sélestat) now)
@@ -3350,6 +3353,7 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2023-02-14;Romania;DJ229N;rou.dj229n;New Route
 2023-01-26;Romania;DNVO24F;rou.dnvo24f;New Route (Tecuci bypass)
 2022-12-19;Romania;A1 (Sibiu);rou.a001sib;New section opened between Sibiu South and Boita
 2022-10-25;Romania;DN19H;rou.dn19h;New Route
@@ -5031,6 +5035,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2023-02-17;(USA) Illinois;IL 53;il.il053;Truncated south end from I-55 to OldUS66_E
 2022-09-08;(USA) Illinois;IL 108 (Kampsville);il.il108kam;Created route due to split at Kampsville Ferry. 
 2022-09-08;(USA) Illinois;IL 108;il.il108;Split route at Kampsville Ferry. Long segment now ends at point KamFry. Short segment renamed IL108Kam.
 2022-08-17;(USA) Illinois;IL 19;il.il019;Relocated to current alignment between YorkRd and *OldIL19.
@@ -6151,6 +6156,12 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2023-02-13;(USA) Ohio;OH 7;oh.oh007;OH26 point moved 0.1 mi south to reflect relocation that occurred in 2011, and old point location relabeled WesResRd
+2023-02-13;(USA) Ohio;OH 14 Truck (Salem);oh.oh014trksal;Route added
+2023-02-13;(USA) Ohio;OH 17;oh.oh017;GraRd point moved to Grayton Rd, and old point location relabeled NASAPkwy
+2023-02-13;(USA) Ohio;OH 122 Truck (Middletown);oh.oh122trkmid;Route added
+2023-02-13;(USA) Ohio;OH 626;oh.oh626;North end moved 0.1 mi south to reflect relocation that occurred in 2011 between OldWooRd and OH7
+2023-02-13;(USA) Ohio;Berea Freeway;oh.berfwy;Route added
 2023-01-24;(USA) Ohio;I-71;oh.i071;Point label 1J (the exit to I-471) renamed 1A to match signage, point label 1A renamed 1A(75) 
 2023-01-24;(USA) Ohio;I-280;oh.i280;Point label 6 renamed 6A, point label 6A renamed 6B
 2023-01-24;(USA) Ohio;I-471;oh.i471;Point label 7 changed to represent Liberty St exit, I-71 point added at end 
