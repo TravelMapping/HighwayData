@@ -1282,7 +1282,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
-2023-01-13;(Germany) North Rhine-Westphalia;B59;deunw.b059;Route truncated at east end  in Cologne from B9 to L34
+2023-04-07;(Germany) North Rhine-Westphalia;L12 (Holzweiler);deunw.l012hol;Route truncated at north end from Keyenberg to Holzweiler due to mining (to be resumed in 2026)
+2023-01-13;(Germany) North Rhine-Westphalia;B59;deunw.b059;Route truncated at east end in Cologne from B9 to L34
 2022-12-24;(Germany) North Rhine-Westphalia;Münchener Straße Düsseldorf;deunw.l293;Route deleted (L293 now)
 2022-12-24;(Germany) North Rhine-Westphalia;L293 (Düsseldorf);deunw.l293;Route truncated at south end from Rheinpromenade Monheim to Münchener Straße and reextended onto Münchener Straße to B228
 2022-12-24;(Germany) North Rhine-Westphalia;L353;deunw.l353;Route truncated at west end from Rheinpromenade Monheim to A59
@@ -2324,6 +2325,13 @@ date;region;route;root;description
 2015-10-08;Latvia;E22;lva.e22;Route removed from P136 and relocated onto A12 between P136 and P52_W
 2015-10-08;Latvia;E22;lva.e22;Route removed from A6 and relocated onto A4, P5 and P80 between A4/A6 junction and A6/P80 junction (includes former Turkane section)
 2015-10-08;Latvia;E22;lva.e22tur;Route merged into main E22
+2023-04-08;Lithuania;K112;ltu.k112;Route extended at east end from R4402 to east of Didžiasalis
+2023-04-08;Lithuania;K159;ltu.k159;Route extended at north end from Kuršėnai (K203) to Drąsučiai
+2023-04-08;Lithuania;K182;ltu.k182;Route truncated at north end from Vytauto gatvėje (K201) to Geležinkelio gatvėje in Marijampolė
+2023-04-08;Lithuania;Kaunas - Klaipėda Greitkelio;ltu.kauklagre;Route truncated at west end (not signed as motorway) from A13 to Klaipėda Airport
+2023-04-08;Lithuania;Šiauliai - Radviliškis Greitkelio;ltu.siaradgre;New Route
+2023-04-07;Lithuania;E85;ltu.e85;Route relocated at west end from Taikos plentas to Baltijos plentas in Klaipėda
+2023-04-07;Lithuania;A1;ltu.a001;Route relocated at west end from Taikos plentas to Baltijos plentas in Klaipėda
 2022-04-01;Lithuania;Vilnius - Kaunas Greitkelio (Grigiškės);ltu.vilkaugregri;New Route
 2022-04-01;Lithuania;Vilnius - Kaunas Greitkelio (Žiežmariai);ltu.vilkaugre;New Route
 2020-08-08;Lithuania;Vilnius - Kaunas Greitkelio;ltu.a001;Route deleted (not signed as motorway, concurrent to A1)
@@ -2331,7 +2339,7 @@ date;region;route;root;description
 2018-12-16;Lithuania;Kaunas - Marijampolė Greitkelio;ltu.kaumargre;New Route
 2018-01-21;Lithuania;A20;ltu.a020;Re-entered
 2016-12-30;Lithuania;E272;ltu.e272;Route removed from Laisves Prospect and relocated onto Vakrinis Aplinkkelis (Vilnius Western Bypass) between A2_S and E85
-2016-01-05;Lithuania;Kaunas - Klapieda Greitkelio;ltu.kauklagre;New Route
+2016-01-05;Lithuania;Kaunas - Klaipėda Greitkelio;ltu.kauklagre;New Route
 2016-01-05;Lithuania;Vilnius - Kaunas Greitkelio;ltu.vilkaugre;New Route
 2016-01-05;Lithuania;Vilnius - Panevezys Greitkelio;ltu.vilpangre;New Route
 2015-10-17;Lithuania;E262;ltu.e262;Route relocated from A6 onto A20 between western and eastern junctions between the A6 and A20
@@ -7198,6 +7206,7 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2023-04-03;(USA) Wisconsin;WI 137;wi.wi137;Truncated from WI 13 to WI 112
 2022-11-14;(USA) Wisconsin;WI 311;wi.wi311;Added route
 2022-09-08;(USA) Wisconsin;WI 113 (Baraboo);wi.wi113bar;Created route due to split at Merrimac Ferry.
 2022-09-08;(USA) Wisconsin;WI 113;wi.wi113;Split route at Merrimac Ferry. South segment now ends at point MerFry. North segment renamed WI113Bar.
