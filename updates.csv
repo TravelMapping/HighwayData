@@ -5533,6 +5533,11 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2023-04-26;(USA) Kentucky;KY 92;ky.ky0092;Removed from old alignment (now KY 592 and KY 1044) between OldKY92_W & OldKY92_E and relocated onto new parallel alignment mostly to the south
+2023-04-26;(USA) Kentucky;KY 592;ky.ky0592;Route extended at east end along new KY 92 alignment and old KY 92 alignment from KY92_B to KY92_D
+2023-04-26;(USA) Kentucky;KY 1044;ky.ky1044;Route extended at east end along old KY 92 alignment from KY592_W to KY92, which made moving the KY92 point to a new location necessary (old location of KY92 point is now KY592_W)
+2023-04-26;(USA) Kentucky;KY 1470;ky.ky1470;KY92 point moved to new KY 92 alignment, and old location for KY92 renamed KY592
+2023-04-26;(USA) Kentucky;KY 1673;ky.ky1673;Truncated at south end from junction with old KY 92 alignment to junction with new KY 92 alignment
 2023-03-17;(USA) Kentucky;KY 79 Truck (Morgantown);ky.ky0079trkmor;Route added
 2023-03-17;(USA) Kentucky;KY 100 Truck (Franklin);ky.ky0100trkfra;Route added
 2023-03-17;(USA) Kentucky;KY 278;ky.ky0278;Route extended at west end from Highland Ave/Lakeshore Dr intersection to KY 91
@@ -6893,6 +6898,9 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2023-04-26;(USA) Tennessee;TN 66 (Morristown);tn.tn066mor;TN341 point split into TN341_W & TN341_E
+2023-04-26;(USA) Tennessee;TN 341;tn.tn341;TN66 point split into TN66_S & TN66_N
+2023-04-26;(USA) Tennessee;TN 342;tn.tn342;Truncated at south end to US11E (former location of US11E_N point) (US 11E and TN 160 include parts of the deleted segment) 
 2023-03-21;(USA) Tennessee;TN 462;tn.tn462;Extended at east end from US 70N to TN 298
 2023-03-03;(USA) Tennessee;TN 189;tn.tn189;Truncated at north end from Depot St to US 412
 2022-12-05;(USA) Tennessee;TN 147 (Big Sandy);tn.tn147big;Route added
