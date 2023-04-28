@@ -1966,6 +1966,13 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2022-04-27;Ireland;N5;irl.n005;Route removed from R309 and relocated onto Castlebar bypass between the R309 east of Castlebar and the R309 west of Castlebar
+2022-04-27;Ireland;N60;irl.n060;Route truncated at west end from old N5 junction to new N5 junction (old route now R307 and R308)
+2022-04-27;Ireland;N84;irl.n084;Route truncated at north end from N60 to N5 junction (old route now R307)
+2022-04-27;Ireland;R307;irl.r307;Route added (was N60, N84 and R917)
+2022-04-27;Ireland;R308;irl.r308;Route added (was N60)
+2022-04-27;Ireland;R309;irl.r309;Route added (was N5)
+2022-04-27;Ireland;R917;irl.r307;Route deleted (now R307)
 2022-12-13;Ireland;R582;irl.r582;Route extended at south end (along former N22) from R618_W (formerly N22, which moved) to R584
 2022-12-10;Ireland;N22;irl.n022;Route removed from R584, R582 and R618 and relocated onto Macroom bypass between (moved) R584 junction and (moved) R618_W junction
 2022-12-10;Ireland;R584;irl.r584;Route extended at east end (along former N22) from R582 (formerly N22) to relocated N22 junction
@@ -2906,6 +2913,8 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2023-04-27;Poland;DK42;pol.dk042;Route removed from Ulica Kluczborska, Ulica Fryderyka Chopina, DW487, Ulica Gorzowska, Ulica Jozefa Piluskiego and Ulica Warszawska and relocated onto Gorzow Slaski and Praszka bypasses between Ulica Kluczborska and northern junction with DK45
+2023-04-27;Poland;DK45;pol.dk045;Route removed from Ulica Kluczborska, Ulica Fryderyka Chopina, DW487, Ulica Gorzowska, Ulica Jozefa Piluskiego, Ulica Kaliska and Ulica Wielunska and relocated onto Gorzow Slaski and Praszka bypasses between Ulica Kluczborska and Ulica Wielunska
 2023-04-18;Poland;DK32;pol.dk032;Route removed from DW298 and relocated onto Zielona Gora southern bypass and S3 between DW298 and S3 exit 34
 2023-04-18;Poland;DW298;pol.dw298;Route added
 2023-02-08;Poland;DK61 (Grajewo);pol.dw665;Route deleted (renumbered DW665)
@@ -4566,6 +4575,8 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2023-04-27;(UK) England;A601(M);eng.a6070;Route deleted
+2023-04-27;(UK) England;A6070;eng.a6070;Route extended at southern end from (now northern) junction with A6 to M6
 2023-03-06;(UK) England;A523;eng.a0523;Route removed from B5092 and relocated onto Roy Chadwick Way and A555 between southern junction with B5092 and now-eastern junction with A555
 2023-03-06;(UK) England;B5092;eng.b5092;Route added
 2022-02-28;(UK) England;A3822;eng.a3822;Route extended at north end from B3413/B3432 to A386
@@ -5533,6 +5544,11 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2023-04-26;(USA) Kentucky;KY 92;ky.ky0092;Removed from old alignment (now KY 592 and KY 1044) between OldKY92_W & OldKY92_E and relocated onto new parallel alignment mostly to the south
+2023-04-26;(USA) Kentucky;KY 592;ky.ky0592;Route extended at east end along new KY 92 alignment and old KY 92 alignment from KY92_B to KY92_D
+2023-04-26;(USA) Kentucky;KY 1044;ky.ky1044;Route extended at east end along old KY 92 alignment from KY592_W to KY92, which made moving the KY92 point to a new location necessary (old location of KY92 point is now KY592_W)
+2023-04-26;(USA) Kentucky;KY 1470;ky.ky1470;KY92 point moved to new KY 92 alignment, and old location for KY92 renamed KY592
+2023-04-26;(USA) Kentucky;KY 1673;ky.ky1673;Truncated at south end from junction with old KY 92 alignment to junction with new KY 92 alignment
 2023-03-17;(USA) Kentucky;KY 79 Truck (Morgantown);ky.ky0079trkmor;Route added
 2023-03-17;(USA) Kentucky;KY 100 Truck (Franklin);ky.ky0100trkfra;Route added
 2023-03-17;(USA) Kentucky;KY 278;ky.ky0278;Route extended at west end from Highland Ave/Lakeshore Dr intersection to KY 91
@@ -6893,6 +6909,9 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2023-04-26;(USA) Tennessee;TN 66 (Morristown);tn.tn066mor;TN341 point split into TN341_W & TN341_E
+2023-04-26;(USA) Tennessee;TN 341;tn.tn341;TN66 point split into TN66_S & TN66_N
+2023-04-26;(USA) Tennessee;TN 342;tn.tn342;Truncated at south end to US11E (former location of US11E_N point) (US 11E and TN 160 include parts of the deleted segment) 
 2023-03-21;(USA) Tennessee;TN 462;tn.tn462;Extended at east end from US 70N to TN 298
 2023-03-03;(USA) Tennessee;TN 189;tn.tn189;Truncated at north end from Depot St to US 412
 2022-12-05;(USA) Tennessee;TN 147 (Big Sandy);tn.tn147big;Route added
