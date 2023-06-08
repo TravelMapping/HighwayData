@@ -5,6 +5,7 @@
 **SOURCES:**
 - https://www.rsd.cz/wps/portal/web/Silnice-a-dalnice/mapy
 - https://cs.wikipedia.org/wiki/Seznam_silnic_II._t%C5%99%C3%ADdy_v_%C4%8Cesku
+- https://geoportal.rsd.cz/apps/silnicni_a_dalnicni_sit_cr_verejna/ (reliable source)
 
 
 **NOTES TO ROUTES:**

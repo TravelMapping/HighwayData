@@ -1,5 +1,8 @@
-systemName;region;route;banner;abbrev;city;root
-indwb;IND-WB;WB1;;;;indwb.wb001;
+systemName;region;route;banner;abbrev;city;root;altroutenames
+indwb;IND-WB;WB1;;;South 24 Parganas;indwb.wb001;
+indwb;IND-WB;WB1-W;;;Kolkata;indwb.wb001-w;
+indwb;IND-WB;WB1-E;;;Eastern Metropolitan Bypass;indwb.wb001-e;
+indwb;IND-WB;WB1;;bar;Barrakpore;indwb.wb001bar;
 indwb;IND-WB;WB2;;;;indwb.wb002;
 indwb;IND-WB;WB3;;;;indwb.wb003;
 indwb;IND-WB;WB4;;;;indwb.wb004;
@@ -18,3 +21,4 @@ indwb;IND-WB;WB12A;;;;indwb.wb012a;
 indwb;IND-WB;WB13;;;;indwb.wb013;
 indwb;IND-WB;WB14;;;;indwb.wb014;
 indwb;IND-WB;WB15;;;;indwb.wb015;
+indwb;IND-WB;MaaFly;;;Maa Flyover;indwb.maafly;
