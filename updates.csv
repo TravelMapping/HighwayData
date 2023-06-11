@@ -910,6 +910,7 @@ date;region;route;root;description
 2020-10-18;(France) Grand-Est;Rocade Nord de Reims;frages.rnr;New Route
 2019-12-29;(France) Grand-Est;Voie Sacrée;frages.nvs;Route extended at south end from N135 to D935
 2019-11-08;(France) Grand-Est;N19;frages.n019;Re-entered route (swapped with BFC file to be in correct regions)
+2023-06-04;(France) Hauts-de-France;D1016-59;frahdf.d101659;Route extended at south end from D115 to Rue Gustave Delory
 2022-12-11;(France) Hauts-de-France;D166-62;frahdf.d016662;Route extended at north end from D945 to D166
 2022-10-24;(France) Hauts-de-France;N49;frahdf.n049;New Route
 2020-11-22;(France) Hauts-de-France;D4-95;frahdf.d000495;New Route
@@ -1576,6 +1577,7 @@ date;region;route;root;description
 2018-12-31;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from border to Lower Saxony to A14 junction (A36 now)
 2018-12-19;(Germany) Saxony-Anhalt;B79;deust.b079;Route removed from through Harsleben and onto the bypass
 2015-09-15;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;New Route
+2023-06-04;(Germany) Schleswig-Holstein;B404 (Schwarzenbek);deush.b404;Route relocated from Ernst-Schefe-Allee in Schwarzenbek and onto new northern bypass and Möllner Straße from north of Schwarzenbek to B207
 2017-12-09;(Germany) Schleswig-Holstein;A21;deush.a021;Route extended at north end from temporary south of Nettelsee end to exit 6
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
@@ -5209,6 +5211,7 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2023-06-03;(USA) California;CA 1;ca.ca001;North of Bodega Bay, route relocated from eroding coastal bluffs, and onto new viaduct over Scotty Creek floodplain, between Calle del Sol and OldCA1Gle_N
 2023-05-08;(USA) California;CA 180 (Fresno);ca.ca180;Route relocated east of Fresno, between waypoints AcaAve and *OldCA180_E, north to new divided highway
 2022-10-05;(USA) California;CA 123;ca.ca123;In Oakland and Emeryville, south end changed from San Pablo Ave. between I-580 exit 19B and Adeline St., to MacArthur Blvd. service roads and Adeline St. between I-580 exit 19A and San Pablo Ave. Caltrans logs indicate the route has followed the latter alignment since at least 2002.
 2022-09-26;(USA) California;CA 79 (Julian);ca.ca079;Truncated north end, from I-10 to Menlo Ave. south of downtown San Jacinto
@@ -5242,6 +5245,7 @@ date;region;route;root;description
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2023-06-08;(USA) Colorado;E470;co.e470;Adjusted I-70 interchange to match real-world interchange geometry. Point "20" now refers to the flyover ramp from NB E470 to WB I-70, while points "20A" and "20B" refer to the NB E470 and SB E470 access points to I-70 exit 289.
 2022-12-18;(USA) Colorado;CO 2;co.co002;Route truncated to southern US6/85 junction per CDOT online logs and signage report
 2022-10-11;(USA) Colorado;I-70 BL (Rifle);;Route deleted (unsigned)
 2022-10-02;(USA) Colorado;I-76 BS (Keenesburg);;Route deleted since there is no sign it actually existed (per forum)
