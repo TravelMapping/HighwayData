@@ -221,6 +221,8 @@ date;region;route;root;description
 2015-07-22;Bosnia and Herzegovina;E772;bih.e772;Route extended at north end from junction of M17 and M18 to A1
 2018-10-13;Brunei;AH150 (Bandar Seri Begawan);brn.ah150;New Route
 2018-10-13;Brunei;AH150 (Bangar);brn.ah150ban;New Route
+2023-06-14;Bulgaria;A4 'Maritsa';bgr.a004;Route extended at east end from former junction with the I8 east of Kapitan Andrevo to the Turkish border
+2023-06-14;Bulgaria;A6 'Europa' (Sofia);bgr.a006sof;Route extended at west end from II18 to Vasil Levski
 2023-04-14;Bulgaria;A6 'Europa' (Slivnitsa);bgr.a006;Route extended from former junction with I8 to Serbian border
 2023-04-14;Bulgaria;E79;bgr.e79;Route removed from road through Skravena and relocated onto expressway between 'Skr' and 'Nov'
 2023-04-14;Bulgaria;I1 (Montana);bgr.i001;Route removed from road through Skravena and relocated onto expressway between 'Skr' and 'Nov'
@@ -1804,6 +1806,8 @@ date;region;route;root;description
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2023-06-14;Iceland;TH35;isl.th035;Truncated at south end from old TH1 alignment to new TH1 alignment
+2023-06-14;Iceland;TH1;isl.th001;Relocated onto new Alignment west of Selfoss between points *OldTH1Sel_W and OlfVeg
 2023-05-17;Iceland;TH424;isl.th424;New Route
 2023-05-15;Iceland;TH413;isl.th413;Extended west from Skemmuvegur to TH40
 2023-01-19;Iceland;TH411;isl.th411;Extended east from TH41 to Rjúpnavegur
@@ -2011,6 +2015,9 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2023-06-19;Ireland;N5;irl.n005;Route removed from R309 and relocated onto new Castlebar-Westport dual carriageway between N59 (point moved) and western junction with R309
+2023-06-19;Ireland;N59;irl.n059;Point 'N5' moved (old point now called R309/R330)
+2023-06-19;Ireland;N5;irl.r309;Route extended at west end from western junction with N5 to N59
 2023-04-27;Ireland;N5;irl.n005;Route removed from R309 and relocated onto Castlebar bypass between the R309 east of Castlebar and the R309 west of Castlebar
 2023-04-27;Ireland;N60;irl.n060;Route truncated at west end from old N5 junction to new N5 junction (old route now R307 and R308)
 2023-04-27;Ireland;N84;irl.n084;Route truncated at north end from N60 to N5 junction (old route now R307)
@@ -2492,6 +2499,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
+2022-06-19;Malaysia;E19;mys.e019;Route extended at south end from exit 1904 to exit 1901
 2022-10-15;Malaysia;E31;mys.e031;Route added
 2022-09-16;Malaysia;E19;mys.e019;Route added
 2019-12-17;Malaysia;E32 (Klang);mys.e032kla;New Route
@@ -2508,6 +2516,10 @@ date;region;route;root;description
 2018-10-13;Malaysia;AH150 (Limbang);mys.ah150lim;New Route
 2018-10-13;Malaysia;AH150 (Kuching branch);mys.ah150kuc;New Route
 2018-09-13;(Mexico) Estado de Mexico;MEX 15D;mexemex.mex015d;East end extended from MEX 55 to MEX 40D.
+2023-06-14;Moldova;M3 (Chisinau);mda.m003chi;Route extended at south end from western junction with G122.1 to southern junction with R3
+2023-06-14;Moldova;M3 (Cimislia);mda.m003;Route deleted (merged into Comrat section)
+2023-06-14;Moldova;M3 (Comrat);mda.m003;Route extended at north end from R23 to R3
+2023-06-14;Moldova;E584;mda.e584;Route removed from R28 and relocated to M3 between M3/R28 junctions north and south of Comrat
 2020-03-29;Moldova;M1;mda.m001;Route extended at east end from R6 to Ukrainian border
 2020-03-29;Moldova;M2;mda.m002;Route reentered
 2020-03-29;Moldova;M3 (Chisinau);mda.m003chi;Route added
@@ -2718,6 +2730,8 @@ date;region;route;root;description
 2015-07-28;Netherlands;A261;;Route deleted
 2015-07-28;Netherlands;A4 (Bergen op Zoom);nld.a004ber;Route extended at north end from N259 to A29/A59, including Dinteloord section
 2015-07-28;Netherlands;A4 (Dintleloord);;Route merged with Bergen op Zoom section
+2023-06-19;New Zealand;Auckland Northern Motorway;nzl.aucnmot;Route extended at north end from exit 386 to SH1's continuation northwards at Warkworth
+2023-06-19;New Zealand;SH1;nzl.sh001;Route removed from Old State Highway 1 and relocated onto Auckland Northern Motorway between exit 386 and junction with Old State Highway 1 at Warkworth
 2023-03-25;New Zealand;Upper Harbour Motorway;nzl.uppharmot;Route extended at east end from exit 1 to SH1
 2023-03-25;New Zealand;SH18;nzl.sh018;Route removed from Upper Harbour Highway and onto Upper Harbour Motorway between exit 1 and SH1 (point moved from exit 414 to exit 413)
 2023-03-25;New Zealand;Twin Coast Discovery Route;nzl.tcdr;Route removed from Upper Harbour Highway and SH1 and onto Upper Harbour Motorway between SH18 exit 1 and SH1 exit 314
