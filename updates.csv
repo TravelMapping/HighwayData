@@ -2018,7 +2018,7 @@ date;region;route;root;description
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
 2023-06-19;Ireland;N5;irl.n005;Route removed from R309 and relocated onto new Castlebar-Westport dual carriageway between N59 (point moved) and western junction with R309
 2023-06-19;Ireland;N59;irl.n059;Point 'N5' moved (old point now called R309/R330)
-2023-06-19;Ireland;N5;irl.r309;Route extended at west end from western junction with N5 to N59
+2023-06-19;Ireland;R309;irl.r309;Route extended at west end from western junction with N5 to N59
 2023-04-27;Ireland;N5;irl.n005;Route removed from R309 and relocated onto Castlebar bypass between the R309 east of Castlebar and the R309 west of Castlebar
 2023-04-27;Ireland;N60;irl.n060;Route truncated at west end from old N5 junction to new N5 junction (old route now R307 and R308)
 2023-04-27;Ireland;N84;irl.n084;Route truncated at north end from N60 to N5 junction (old route now R307)
@@ -2500,7 +2500,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
-2022-06-19;Malaysia;E19;mys.e019;Route extended at south end from exit 1904 to exit 1901
+2023-06-19;Malaysia;E19;mys.e019;Route extended at south end from exit 1904 to exit 1901
 2022-10-15;Malaysia;E31;mys.e031;Route added
 2022-09-16;Malaysia;E19;mys.e019;Route added
 2019-12-17;Malaysia;E32 (Klang);mys.e032kla;New Route
@@ -3863,6 +3863,10 @@ date;region;route;root;description
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2023-06-28;Serbia;A1;srb.a001;Route extended at north end from former exit 25 (now 28) to the Hungarian border
+2023-06-28;Serbia;A1 (Novi Sad);srb.a001;Route deleted (now part of main section)
+2023-06-28;Serbia;A1;srb.a001;Waypoint labels changed: 13 is now 15, 15 is now 17, 17 is now 19, 19 is now 22, 20 is now 23, 21 is now 24, 22 is now 25, 23 is now 26, 24 is now *R154_Res, 25 is now 28, 33 is now 36, 38 is now 41, 40 is now 43, 45 is now 48, 53 is now 55, *56 is now *R441
+2023-06-28;Serbia;E75;srb.e75;Waypoint labels changed: 23(A1) is now 26(A1), 24(A1) is now *R154_Res, 25(A1) is now 28(A1), 53(A1) is now 55(A1), *56(A1) is now *R441
 2023-04-29;Serbia;A5;srb.a005;Route added
 2023-04-29;Serbia;E761;srb.e761;Route removed from B23 and relocated onto A5 between northern and southern A5/B23 junctions
 2023-04-14;Serbia;A2;srb.a002;Route extended at north end from A1 to Ulica Surchinska
