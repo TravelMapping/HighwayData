@@ -2018,7 +2018,7 @@ date;region;route;root;description
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
 2023-06-19;Ireland;N5;irl.n005;Route removed from R309 and relocated onto new Castlebar-Westport dual carriageway between N59 (point moved) and western junction with R309
 2023-06-19;Ireland;N59;irl.n059;Point 'N5' moved (old point now called R309/R330)
-2023-06-19;Ireland;N5;irl.r309;Route extended at west end from western junction with N5 to N59
+2023-06-19;Ireland;R309;irl.r309;Route extended at west end from western junction with N5 to N59
 2023-04-27;Ireland;N5;irl.n005;Route removed from R309 and relocated onto Castlebar bypass between the R309 east of Castlebar and the R309 west of Castlebar
 2023-04-27;Ireland;N60;irl.n060;Route truncated at west end from old N5 junction to new N5 junction (old route now R307 and R308)
 2023-04-27;Ireland;N84;irl.n084;Route truncated at north end from N60 to N5 junction (old route now R307)
@@ -2500,7 +2500,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
-2022-06-19;Malaysia;E19;mys.e019;Route extended at south end from exit 1904 to exit 1901
+2023-06-19;Malaysia;E19;mys.e019;Route extended at south end from exit 1904 to exit 1901
 2022-10-15;Malaysia;E31;mys.e031;Route added
 2022-09-16;Malaysia;E19;mys.e019;Route added
 2019-12-17;Malaysia;E32 (Klang);mys.e032kla;New Route
@@ -2976,6 +2976,10 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2023-07-01;Poland;E65;pol.e65;Point 'DK93' moved. Old point now 'UliPom'.
+2023-07-01;Poland;DK3 (Swinoujscie);pol.dk003swi;Point 'DK93' moved. Old point now 'UliPom'.
+2023-07-01;Poland;DK93;pol.dk093;Route truncated at east end from Karsibor Ferry to southern junction with Ulica Karsiborska, and route extended at east end from southern junction with Ulica Karsiborska to DK3
+2023-07-01;Poland;DK93 (Prztor);pol.dk093prz;Route deleted
 2023-06-02;Poland;S61 (Łomża);pol.s061lom;Route extended at north end from exit 4 to exit 5
 2023-06-02;Poland;DK63 (Łomża);pol.dk063lom;Route extended at north end from S61 exit 4 to S61 exit 5
 2023-04-29;Poland;S7 (Warszawa);pol.s007;Route extended at south end from exit 67 to Zagora
@@ -3863,6 +3867,10 @@ date;region;route;root;description
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2023-06-28;Serbia;A1;srb.a001;Route extended at north end from former exit 25 (now 28) to the Hungarian border
+2023-06-28;Serbia;A1 (Novi Sad);srb.a001;Route deleted (now part of main section)
+2023-06-28;Serbia;A1;srb.a001;Waypoint labels changed: 13 is now 15, 15 is now 17, 17 is now 19, 19 is now 22, 20 is now 23, 21 is now 24, 22 is now 25, 23 is now 26, 24 is now *R154_Res, 25 is now 28, 33 is now 36, 38 is now 41, 40 is now 43, 45 is now 48, 53 is now 55, *56 is now *R441
+2023-06-28;Serbia;E75;srb.e75;Waypoint labels changed: 23(A1) is now 26(A1), 24(A1) is now *R154_Res, 25(A1) is now 28(A1), 53(A1) is now 55(A1), *56(A1) is now *R441
 2023-04-29;Serbia;A5;srb.a005;Route added
 2023-04-29;Serbia;E761;srb.e761;Route removed from B23 and relocated onto A5 between northern and southern A5/B23 junctions
 2023-04-14;Serbia;A2;srb.a002;Route extended at north end from A1 to Ulica Surchinska
@@ -6197,6 +6205,10 @@ date;region;route;root;description
 2015-09-06;(USA) Missouri;US 169 Spur (Smithville);mo.us169sprsmi;Extended route south on Bridge St. from Route F to Church St.
 2015-09-06;(USA) Missouri;US 36 Business (Chillicothe);mo.us036buschi;Relocated from frontage road west of US 65, to US 65 between frontage road and US 36
 2015-09-06;(USA) Missouri;US 36 Spur (Utica);;Deleted route
+2023-06-29;(USA) Montana;SR 359;mt.sr359;Route extended to MT 69 per signage
+2023-06-29;(USA) Montana;SR 291;mt.sr291;Route truncated to SR 205, no evidence route ever extended further north.
+2023-06-29;(USA) Montana;SR 375;;Route deleted (unsigned)
+2023-06-29;(USA) Montana;SR 290;;Route deleted (unsigned due to realignment)
 2023-06-20;(USA) Montana;MT 77;mt.mt077;New route
 2022-10-19;(USA) Montana;MT 42 Truck (Glasgow);mt.mt042trkgla;New route
 2022-07-12;(USA) Montana;SR 201;mt.sr201;Portion of route between MT 16 and MT 200 renumbered MT201
