@@ -2980,7 +2980,7 @@ date;region;route;root;description
 2023-07-01;Poland;E65;pol.e65;Point 'DK93' moved. Old point now 'UliPom'.
 2023-07-01;Poland;DK3 (Swinoujscie);pol.dk003swi;Point 'DK93' moved. Old point now 'UliPom'.
 2023-07-01;Poland;DK93;pol.dk093;Route truncated at east end from Karsibor Ferry to southern junction with Ulica Karsiborska, and route extended at east end from southern junction with Ulica Karsiborska to DK3
-2023-07-01;Poland;DK93 (Prztor);pol.dk093prz;Route deleted
+2023-07-01;Poland;DK93 (Prztor);;Route deleted
 2023-06-02;Poland;S61 (Łomża);pol.s061lom;Route extended at north end from exit 4 to exit 5
 2023-06-02;Poland;DK63 (Łomża);pol.dk063lom;Route extended at north end from S61 exit 4 to S61 exit 5
 2023-04-29;Poland;S7 (Warszawa);pol.s007;Route extended at south end from exit 67 to Zagora
@@ -4663,6 +4663,9 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2023-07-03;(UK) England;A582 (Cottam);eng.a582cot;Route added
+2023-07-03;(UK) England;B5467;eng.b5467;Route added
+2023-07-03;(UK) England;B5468;eng.b5468;Route added
 2023-06-11;(UK) England;B1540;eng.b1540;Route added
 2023-06-11;(UK) England;B1541;eng.b1541;Route added
 2023-06-02;(UK) England;A4199;eng.a4199;Route added
@@ -7017,6 +7020,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2023-07-03;(USA) Tennessee;TN 126;tn.tn126;Removed from Old Wilcox Dr and relocated onto Wilcox Dr between OldWilDr and TN93
 2023-04-26;(USA) Tennessee;TN 66 (Morristown);tn.tn066mor;TN341 point split into TN341_W & TN341_E
 2023-04-26;(USA) Tennessee;TN 341;tn.tn341;TN66 point split into TN66_S & TN66_N
 2023-04-26;(USA) Tennessee;TN 342;tn.tn342;Truncated at south end to US11E (former location of US11E_N point) (US 11E and TN 160 include parts of the deleted segment) 
