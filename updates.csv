@@ -52,6 +52,7 @@ date;region;route;root;description
 2020-12-01;(Australia) South Australia;M2 (Southern Expressway, Adelaide);aussa.m002noa;Route extended at north end from A13_N to A2
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
+2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
 2023-04-22;Austria;B163 Wagrainer Straße Abzweigung Flachau;;Route deleted
 2023-04-23;Austria;B186;aut.b186;Route truncated at south end from the Italian border to L15 (the remainder is a private toll road)
 2023-04-23;Austria;B197;aut.b197;Route truncated at west end from S16 to Vorarlberg/Tyrol border (L197 now)
@@ -314,6 +315,10 @@ date;region;route;root;description
 2021-12-03;(Canada) Northwest Territories;NT 9;nt.nt009;New route
 2017-12-08;(Canada) Northwest Territories;NT 10;nt.nt010;New route
 2017-12-08;(Canada) Northwest Territories;NT 1;nt.nt001;West end truncated from Wrigley village centre, to Tulita winter road entrance southeast of Wrigley
+2023-07-12;(Canada) Nova Scotia;NS 4 (New Glasgow);ns.ns004ngl;Removed from "Old Highway 4" between Rossfield Rd and Barneys River Rd, relocated northwestward onto a NS104 (exit 29) connector to point *OldNS104_Bar, extended eastward over the former NS 104 alignment to point *OldNS104_Mar, northeastward via a direct transition into the former NS 4 (Antigonish) route at point *OldNS4, then eastward over the former Antigonish route to NS 316.
+2023-07-12;(Canada) Nova Scotia;NS 4 (Antigonish);ns.ns004ngl;Route deleted, and merged into NS 4 (New Glasgow) east of point *OldNS4. Segment between *OldNS4 and Strathglass Rd demolished.
+2023-07-12;(Canada) Nova Scotia;NS 104;ns.ns104;Removed from NS 4 (New Glasgow) and demolished roadway, and relocated southward onto a 4-lane divided highway between Exit 29 and a point labeled *OldNS104_Gle.
+2023-07-12;(Canada) Nova Scotia;TCH (Main);ns.tchmai;Removed from NS 4 (New Glasgow) and demolished roadway, and relocated southward onto a 4-lane divided highway between NS 104 Exit 29 and a point labeled *OldNS104_Gle.
 2022-02-07;(Canada) Nova Scotia;NS 236;ns.ns236;Glen Brook bridge relocated southward between waypoints *OldNS236_W and *OldNS236_E.
 2019-09-22;(Canada) Nova Scotia;NS 101;ns.ns101;Removed from NS 1 and relocated onto a northwestern controlled access bypass of Marshalltown between Exit 26 and Middle Cross Road.
 2019-09-22;(Canada) Nova Scotia;NS 1 (Smiths Cove);ns.ns001smi;Extended west from NS 101 Exit 25 to NS 101 at the west end of the Marshalltown bypass.
@@ -1808,6 +1813,8 @@ date;region;route;root;description
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2023-07-19;Iceland;TH630;isl.th630;Extended east from Stigahlíð to TH61
+2023-07-18;Iceland;TH218 (Dyrhólaey);isl.th218dyr;New Route
 2023-06-14;Iceland;TH35;isl.th035;Truncated at south end from old TH1 alignment to new TH1 alignment
 2023-06-14;Iceland;TH1;isl.th001;Relocated onto new Alignment west of Selfoss between points *OldTH1Sel_W and OlfVeg
 2023-05-17;Iceland;TH424;isl.th424;New Route
@@ -2977,10 +2984,22 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2023-07-10;Poland;S6 (Sianów);pol.s006sia;Route added
+2023-07-10;Poland;S14;pol.s014;Route extended at north end from exit 4 to A1
+2023-07-10;Poland;E28;pol.e28;Route removed from and relocated onto between S6 exits 25 and 26
+2023-07-10;Poland;DK6 (Koszalin);pol.dk006kos;Route added
+2023-07-10;Poland;DK6 (Sławno);pol.dk006;Route truncated at west end from S6 exit 23 to Karnieszewice
+2023-07-10;Poland;DK71 (Zgierz);pol.dk071;Route truncated at west end from S14 to DK91
+2023-07-10;Poland;DK71 (Alesandrow Lodzki);pol.dk071ale;Route added
+2023-07-10;Poland;DW100;;Route deleted
+2023-07-10;Poland;DW101;;Route deleted
+2023-07-10;Poland;DW218 (Wejherowo);pol.dw218;Route truncated at south end from DW468 to DW224
+2023-07-10;Poland;DW218 (Osowa);pol.dw218oso;Route added
+2023-07-10;Poland;DW468;pol.dw468;Route extended at west end from S7 to S6 (along former DK6)
 2023-07-01;Poland;E65;pol.e65;Point 'DK93' moved. Old point now 'UliPom'.
 2023-07-01;Poland;DK3 (Swinoujscie);pol.dk003swi;Point 'DK93' moved. Old point now 'UliPom'.
 2023-07-01;Poland;DK93;pol.dk093;Route truncated at east end from Karsibor Ferry to southern junction with Ulica Karsiborska, and route extended at east end from southern junction with Ulica Karsiborska to DK3
-2023-07-01;Poland;DK93 (Prztor);pol.dk093prz;Route deleted
+2023-07-01;Poland;DK93 (Prztor);;Route deleted
 2023-06-02;Poland;S61 (Łomża);pol.s061lom;Route extended at north end from exit 4 to exit 5
 2023-06-02;Poland;DK63 (Łomża);pol.dk063lom;Route extended at north end from S61 exit 4 to S61 exit 5
 2023-04-29;Poland;S7 (Warszawa);pol.s007;Route extended at south end from exit 67 to Zagora
@@ -3721,6 +3740,8 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2023-07-10;Romania;DN22J;rou.dn22j;New Route
+2023-07-10;Romania;DN2S;rou.dn02s;New Route
 2023-06-23;Romania;DN21;rou.dn021;Route relocated on Drajna Overpass 
 2023-03-28;Romania;DJ291E;rou.dj291e;New Route
 2023-03-28;Romania;DJ291F;rou.dj291f;New Route
@@ -4663,6 +4684,9 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2023-07-03;(UK) England;A582 (Cottam);eng.a0582cot;Route added
+2023-07-03;(UK) England;B5467;eng.b5467;Route added
+2023-07-03;(UK) England;B5468;eng.b5468;Route added
 2023-06-11;(UK) England;B1540;eng.b1540;Route added
 2023-06-11;(UK) England;B1541;eng.b1541;Route added
 2023-06-02;(UK) England;A4199;eng.a4199;Route added
@@ -7344,6 +7368,7 @@ date;region;route;root;description
 2018-01-01;(USA) Virginia;US 15 Alt (Farmville);va.us015altfar;New route
 2018-01-01;(USA) Virginia;VA 167;va.va167;New route
 2018-01-01;(USA) Virginia;VA 154 (Covington);;Route deleted
+2023-07-07;(USA) Washington;US 12;wa.us012;Route re-aligned onto newly-opened Touchet bypass between waypoints *OldUS12_W and *OldUS12_E
 2021-08-02;(USA) Washington;WA 531;wa.wa531;Route extended at western terminus from RoseRd to new WenCouPark waypoint
 2021-08-02;(USA) Washington;WA 525 Spur (Mukilteo);wa.wa525sprmuk;Route added
 2021-08-02;(USA) Washington;WA 110 Spur (Mora);wa.wa110sprmor;Route added
