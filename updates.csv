@@ -1879,8 +1879,9 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
-2023-04-17;Indonesia;T17 (Cikarang);idnjw.t017cik;Route extended at north end from exit 27 to exit 33
-2023-04-17;Indonesia;T17 (Depok);idnjw.t017;Route extended at west end from exit 40 (formerly 15) to exit 38
+2023-07-27;Indonesia;T4 (Java);idn.t004;Route extended at east end from exit 187 to exit 217
+2023-04-17;Indonesia;T17 (Cikarang, Java);idn.t017cik;Route extended at north end from exit 27 to exit 33
+2023-04-17;Indonesia;T17 (Depok, Java);idn.t017;Route extended at west end from exit 40 (formerly 15) to exit 38
 2023-04-17;Indonesia;Jalan Tol Sigli - Banda Aceh, Sumatra;idn.jtsba;Route extended at south end from exit 32 to exit 25
 2023-03-25;Indonesia;Jalan Tol Semarang - Demak;idn.jtsd;Route added
 2023-01-13;Indonesia;Jalan Tol Bengkulu–Lubuklinggau;idn.jtbl;Route added
@@ -2990,6 +2991,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2023-07-28;Poland;A18 (Zary);pol.a018zar;Route extended at west end from exit 2 to exit 1
+2023-07-28;Poland;S11 (Olesno);pol.s011ole;Route added
+2023-07-28;Poland;DK11 (Kluczbork);pol.dk011klu;Route truncated at south end from DK79 to the S11 at Bakow
+2023-07-28;Poland;DK11 (Lubliniec);pol.dk011lub;Route added
+2023-07-28;Poland;DK18 (Trezbiel);pol.dk018;Route truncated at east end from exit 2 to exit 1
 2023-07-10;Poland;S6 (Sianów);pol.s006sia;Route added
 2023-07-10;Poland;S14;pol.s014;Route extended at north end from exit 4 to A1
 2023-07-10;Poland;E28;pol.e28;Route removed from and relocated onto between S6 exits 25 and 26
@@ -4030,6 +4036,8 @@ date;region;route;root;description
 2017-03-22;Slovenia;G111;svn.g111;Route truncated at north end from H6 exit 2 to Polje Cesta
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
+2023-07-28;(Spain) Andulucia;AP7;espan.ap007;Route extended at west end from exit 214 (now 1010) to exit 0 of MA20
+2023-07-28;(Spain) Andulucia;MA20;espan.ma020;Route truncated at south end from A7 exit 225 to exit 0
 2023-01-01;(Spain) Andulucia;A32;espan.a032;Route extended at east end from the N322 at Endrinosa to exit 78
 2022-09-26;(Spain) Andulucia;A32;espan.a032;Route extended at east end from exit 45 to the N322 at Endrinosa
 2022-01-05;(Spain) Andulucia;A334 (Autovía del Almanzora);espan.a334;Route extended at east end from exit 79 to exit 85
@@ -4078,6 +4086,24 @@ date;region;route;root;description
 2019-10-16;(Spain) Balearic Islands;Ma13;espib.ma013;Route extended at north end from exit 40 to Ma2220
 2019-10-16;(Spain) Balearic Islands;Ma15;espib.ma015;Route extended at east end from exit 20 to Ma1020
 2019-10-16;(Spain) Balearic Islands;Ma19;espib.ma019;Route extended at west end from Avinguda de Gabriel Alomar i Villalonga to Avinguda d'Antoni Maura, and extended at east end from Ma19a to Passeig del Port
+2023-07-28;(Spain) Basque Country;A8;esppv.a008;Route extended at east end from exit 130 to exit 104
+2023-07-28;(Spain) Basque Country;A8 (Galdakao);esppv.a008;Route deleted (merged into main section)
+2023-07-28;(Spain) Basque Country;AP8 (Buia);esppv.ap008bui;Route added
+2023-07-28;(Spain) Basque Country;BI10;esppv.a008;Route deleted (merged into A8)
+2023-07-28;(Spain) Basque Country;BI30;esppv.n637;Route deleted (now N637)
+2023-07-28;(Spain) Basque Country;N634 (Bilbao);;Route deleted
+2023-07-28;(Spain) Basque Country;N637;esppv.n637;Route added
+2023-07-28;(Spain) Basque Country;BI11;esppv.bi604;Route deleted (now BI604)
+2023-07-28;(Spain) Basque Country;BI20;esppv.bi631;Route deleted (now part of BI631)
+2023-07-28;(Spain) Basque Country;BI604;esppv.bi604;Route added
+2023-07-28;(Spain) Basque Country;BI625;esppv.bi625;Route truncated at ? end from BI627 to N634 (former eastern junction with N634)
+2023-07-28;(Spain) Basque Country;BI628 (Abanto-Zierbena);;Route deleted
+2023-07-28;(Spain) Basque Country;BI628 (Sestao);;Route deleted
+2023-07-28;(Spain) Basque Country;BI629;esppv.bi629;Route added
+2023-07-28;(Spain) Basque Country;BI634;;Route deleted
+2023-07-28;(Spain) Basque Country;BI635;esppv.bi635;Route truncated at south end from N240 to BI3334
+2023-07-28;(Spain) Basque Country;BI644;;Route deleted
+2023-07-28;(Spain) Basque Country;BI647;;Route deleted
 2020-06-03;(Spain) Basque Country;A8 (Muskiz);esppv.a008;Route truncated at east end from exit 113 to exit 130 (that section now BI-10 and part of A8 Galdakoa section)
 2020-06-03;(Spain) Basque Country;A8 (Galdakao);esppv.a008gal;Route added
 2020-06-03;(Spain) Basque Country;BI10;esppv.bi010;Route added
@@ -5672,6 +5698,7 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2023-07-23;(USA) Kentucky;KY 1560;ky.ky1560;Truncated at east end from US 25 to KY 3025
 2023-04-26;(USA) Kentucky;KY 92;ky.ky0092;Removed from old alignment (now KY 592 and KY 1044) between OldKY92_W & OldKY92_E and relocated onto new parallel alignment mostly to the south
 2023-04-26;(USA) Kentucky;KY 592;ky.ky0592;Route extended at east end along new KY 92 alignment and old KY 92 alignment from KY92_B to KY92_D
 2023-04-26;(USA) Kentucky;KY 1044;ky.ky1044;Route extended at east end along old KY 92 alignment from KY592_W to KY92, which made moving the KY92 point to a new location necessary (old location of KY92 point is now KY592_W)
@@ -6649,6 +6676,7 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2023-07-29;(USA) Ohio;OH 9 Truck (Salem);oh.oh009trksal;Route added
 2023-04-17;(USA) Ohio;OH 423;oh.oh423;Truncated at north end from US 23 to OH 231 (OH 231 includes the deleted segment)
 2023-04-16;(USA) Ohio;OH 319;oh.oh319;Truncated at west end from former railroad crossing to signed endpoint west of Washington St in Burkettsville
 2023-04-16;(USA) Ohio;OH 315;oh.oh315;1C waypoint moved to northbound US33 exit, and former 1C point at northbound I-670 (East)/southboundI-670 (West) exit renamed 1D
