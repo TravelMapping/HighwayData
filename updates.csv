@@ -1742,6 +1742,7 @@ date;region;route;root;description
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2023-08-08;Hungary;F405;hun.f405;Route extended at eastern end from F4 to M4
 2023-08-03;Hungary;F4;hun.f004;Route relocated on the former F400 between west of Vecsés and east of Üllő and on the former F40 between F405 and F406/F32
 2023-08-03;Hungary;F400;hun.f004;Route deleted (integrated into F4)
 2023-08-03;Hungary;F40;hun.f004;Route deleted (integrated into F4)
@@ -1887,6 +1888,7 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2023-08-12;Indonesia;T2 (Java);idn.t002;Route extended at south end from exit 61 to exit 72
 2023-07-27;Indonesia;T4 (Java);idn.t004;Route extended at east end from exit 187 to exit 217
 2023-04-17;Indonesia;T17 (Cikarang, Java);idn.t017cik;Route extended at north end from exit 27 to exit 33
 2023-04-17;Indonesia;T17 (Depok, Java);idn.t017;Route extended at west end from exit 40 (formerly 15) to exit 38
@@ -2999,6 +3001,12 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2023-08-12;Poland;S16 (Elk);pol.s016elk;Route added
+2023-08-12;Poland;S61 (Suwalki);pol.s061;Route extended at south end from exit 15 to exit 8
+2023-08-12;Poland;S61 (Szcuczyn);pol.s061;Route deleted (now part of Suwalki portion)
+2023-08-12;Poland;DK16 (Elk);pol.dk016elk;Route truncated at east end from Lithuanian border to S16 exit 23
+2023-08-12;Poland;DK16 (Augustow);pol.dk016aug;Route added
+2023-08-12;Poland;DK65;pol.dk065;Route removed from Ulica Elcka and Ulica Przemyslowa and relocated onto S61 and S16 between S61 exit 13 and S16 exit 23
 2023-07-28;Poland;A18 (Zary);pol.a018zar;Route extended at west end from exit 2 to exit 1
 2023-07-28;Poland;S11 (Olesno);pol.s011ole;Route added
 2023-07-28;Poland;DK11 (Kluczbork);pol.dk011klu;Route truncated at south end from DK79 to the S11 at Bakow
@@ -5440,6 +5448,8 @@ date;region;route;root;description
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2022-11-10;(USA) District of Columbia;Beach Drive;;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2023-08-11;(USA) Florida;FL 528;fl.fl528;Extended eastward to George King Blvd (Exit 54B) along FL A1A.
+2023-08-11;(USA) Florida;FL 7;fl.fl007;Extended northward to 60th Street N.
 2023-05-12;(USA) Florida;FL 388;fl.fl388;Removed from Connector Road (now CR 388), and relocated north onto a brand new 4-lane highway alignment, between the intersections of FL 79 & West Bay Parkway. Please double check your entries, as the FL79 label moved 1.3 miles to the north of it's old location.
 2023-05-12;(USA) Florida;FL 79;fl.fl079;Label 'FL388' has shifted to the north 1.3 miles due to recent reroute of FL 388. Old location at Connector Road is now 'CR388'.
 2023-02-21;(USA) Florida;FL 52;fl.fl052;Removed from Pasco County Road (now CR 52) thru San Antonio & Dade City, and relocated south onto a partially new 4-lane highway and Clinton Avenue (former CR 52 Alt), between the intersections of CR52 (former FL 52) & US301/98.
