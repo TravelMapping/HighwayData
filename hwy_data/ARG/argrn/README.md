@@ -3,7 +3,7 @@
 
 
 **SOURCES:**
-- https://www.argentina.gob.ar/sites/default/files/tabla_evento_0.pdf (to be added to credits.php)
+- https://www.argentina.gob.ar/sites/default/files/tabla_evento_0.pdf
 - https://es.wikipedia.org/wiki/Rutas_nacionales_de_Argentina
 - https://es.wikipedia.org/wiki/Anexo:Primeras_rutas_nacionales_de_la_Argentina
 - https://es.wikipedia.org/wiki/Anexo:Autopistas_de_Argentina

@@ -1,8 +1,8 @@
 KY/IN http://www.openstreetmap.org/?lat=38.730452&lon=-85.369864
-IN56_E http://www.openstreetmap.org/?lat=38.736344&lon=-85.371966
-IN56_W http://www.openstreetmap.org/?lat=38.736277&lon=-85.377245
-OldSta62 http://www.openstreetmap.org/?lat=38.774729&lon=-85.363040
-IN62 http://www.openstreetmap.org/?lat=38.785435&lon=-85.372009
+IN56_E http://www.openstreetmap.org/?lat=38.735143&lon=-85.369762
+MainSt_W  +IN56_W http://www.openstreetmap.org/?lat=38.736277&lon=-85.377245
+OldIN62 http://www.openstreetmap.org/?lat=38.774704&lon=-85.363228
+IN56/62 +IN62 http://www.openstreetmap.org/?lat=38.785435&lon=-85.372009
 CR400N http://www.openstreetmap.org/?lat=38.796875&lon=-85.384369
 IN250 http://www.openstreetmap.org/?lat=38.832855&lon=-85.381021
 CampMeeRd http://www.openstreetmap.org/?lat=38.905395&lon=-85.371752
@@ -43,7 +43,7 @@ I-465(35) http://www.openstreetmap.org/?lat=39.909177&lon=-86.076593
 I-465(33) http://www.openstreetmap.org/?lat=39.921323&lon=-86.112256
 I-465(31) http://www.openstreetmap.org/?lat=39.930274&lon=-86.157832
 I-465(27) http://www.openstreetmap.org/?lat=39.923659&lon=-86.228342
-116thSt +IN334 http://www.openstreetmap.org/?lat=39.955214&lon=-86.243448
+116thSt http://www.openstreetmap.org/?lat=39.955214&lon=-86.243448
 IN32 http://www.openstreetmap.org/?lat=40.040922&lon=-86.285291
 IN47 http://www.openstreetmap.org/?lat=40.127900&lon=-86.328120
 IN38 http://www.openstreetmap.org/?lat=40.193266&lon=-86.360350
@@ -58,7 +58,7 @@ IN26 http://www.openstreetmap.org/?lat=40.416894&lon=-86.594839
 CR600W http://www.openstreetmap.org/?lat=40.463242&lon=-86.635394
 IN18_E http://www.openstreetmap.org/?lat=40.547265&lon=-86.643934
 IN25 +IN25_S http://www.openstreetmap.org/?lat=40.567448&lon=-86.658568
-WasSt_N +IN25_N http://www.openstreetmap.org/?lat=40.586028&lon=-86.673975
+WasSt_N http://www.openstreetmap.org/?lat=40.586028&lon=-86.673975
 OldIN25 http://www.openstreetmap.org/?lat=40.583714&lon=-86.679962
 HowSt http://www.openstreetmap.org/?lat=40.591307&lon=-86.700497
 IN18_W http://www.openstreetmap.org/?lat=40.593980&lon=-86.733541

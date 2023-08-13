@@ -1,4 +1,5 @@
 systemName;route;banner;groupName;roots
+gbnb;B77;;;sct.b0077
 gbnb;B100;;;eng.b0100
 gbnb;B101;;;eng.b0101
 gbnb;B102;;;eng.b0102
@@ -287,7 +288,6 @@ gbnb;B551;;;eng.b0551
 gbnb;B552;;;eng.b0552
 gbnb;B556;;;eng.b0556
 gbnb;B560;;;eng.b0560
-gbnb;B562;;;eng.b0562
 gbnb;B565;;;eng.b0565
 gbnb;B568;;;eng.b0568
 gbnb;B569;;;eng.b0569
@@ -371,6 +371,7 @@ gbnb;B724;;;sct.b0724
 gbnb;B725;;;sct.b0725
 gbnb;B726;;;sct.b0726
 gbnb;B727;;;sct.b0727
+gbnb;B728;;;sct.b0728
 gbnb;B729;;;sct.b0729
 gbnb;B730;;;sct.b0730
 gbnb;B731;;;sct.b0731
@@ -388,7 +389,8 @@ gbnb;B742;;;sct.b0742
 gbnb;B743;;;sct.b0743
 gbnb;B744;;;sct.b0744
 gbnb;B745;;;sct.b0745
-gbnb;B746;;;sct.b0746
+gbnb;B746;;Barassie;sct.b0746
+gbnb;B746;;Loans;sct.b0746loa
 gbnb;B747;;;sct.b0747
 gbnb;B748;;;sct.b0748
 gbnb;B749;;;sct.b0749
@@ -603,9 +605,10 @@ gbnb;B979;;;sct.b0979
 gbnb;B980;;;sct.b0980
 gbnb;B981;;;sct.b0981
 gbnb;B983;;;sct.b0983
+gbnb;B984;;;sct.b0984
 gbnb;B985;;;sct.b0985
-gbnb;B986;;;sct.b0986
 gbnb;B987;;;sct.b0987
+gbnb;B988;;;sct.b0988
 gbnb;B990;;;sct.b0990
 gbnb;B991;;;sct.b0991
 gbnb;B992;;;sct.b0992
@@ -658,7 +661,8 @@ gbnb;B1041;;;eng.b1041
 gbnb;B1042;;;eng.b1042
 gbnb;B1043;;St Neots;eng.b1043
 gbnb;B1043;;Stilton;eng.b1043sti
-gbnb;B1044;;;eng.b1044
+gbnb;B1044;;(main);eng.b1044
+gbnb;B1044;;Huntingdon (loop);eng.b1044hun
 gbnb;B1046;;;eng.b1046
 gbnb;B1047;;;eng.b1047
 gbnb;B1048;;;eng.b1048
@@ -1028,7 +1032,8 @@ gbnb;B1505;;;eng.b1505
 gbnb;B1506;;;eng.b1506
 gbnb;B1508;;;eng.b1508
 gbnb;B1513;;;eng.b1513
-gbnb;B1514;;;eng.b1514
+gbnb;B1514;;(main);eng.b1514
+gbnb;B1514;;Huntingdon (loop);eng.b1514hun
 gbnb;B1515;;;eng.b1515
 gbnb;B1516;;;eng.b1516
 gbnb;B1517;;;eng.b1517
@@ -1044,9 +1049,14 @@ gbnb;B1528;;;eng.b1528
 gbnb;B1529;;;eng.b1529
 gbnb;B1531;;;eng.b1531
 gbnb;B1532;;;eng.b1532
+gbnb;B1533;;;eng.b1533
 gbnb;B1534;;;eng.b1534
 gbnb;B1535;;;eng.b1535
+gbnb;B1538;;;eng.b1538
 gbnb;B1539;;;eng.b1539
+gbnb;B1540;;;eng.b1540
+gbnb;B1541;;;eng.b1541
+gbnb;B1542;;;eng.b1542
 gbnb;B1600;;;eng.b1600
 gbnb;B2000;;;eng.b2000
 gbnb;B2001;;;eng.b2001
@@ -1447,6 +1457,7 @@ gbnb;B3224;;;eng.b3224
 gbnb;B3225;;;eng.b3225
 gbnb;B3226;;;eng.b3226
 gbnb;B3227;;;eng.b3227
+gbnb;B3228;;;eng.b3228
 gbnb;B3229;;;eng.b3229
 gbnb;B3230;;;eng.b3230
 gbnb;B3231;;;eng.b3231
@@ -1598,6 +1609,7 @@ gbnb;B3430;;;eng.b3430
 gbnb;B3432;;;eng.b3432
 gbnb;B3440;;Weston-super-Mare;eng.b3440
 gbnb;B3440;;Uffculme;eng.b3440uff
+gbnb;B3800;;;eng.b3800
 gbnb;B4000;;;eng.b4000
 gbnb;B4001;;;eng.b4001
 gbnb;B4003;;;eng.b4003
@@ -1640,6 +1652,7 @@ gbnb;B4044;;;eng.b4044
 gbnb;B4046;;;eng.b4046
 gbnb;B4047;;;eng.b4047
 gbnb;B4048;;;eng.b4048
+gbnb;B4051;;;eng.b4051
 gbnb;B4052;;;eng.b4052
 gbnb;B4053;;;eng.b4053
 gbnb;B4054;;;eng.b4054
@@ -1647,7 +1660,6 @@ gbnb;B4055;;;eng.b4055
 gbnb;B4056;;;eng.b4056
 gbnb;B4057;;Stoke Gifford;eng.b4057
 gbnb;B4057;;Lawrence Weston;eng.b4057law
-gbnb;B4058;;;eng.b4051
 gbnb;B4058;;;eng.b4058
 gbnb;B4059;;;eng.b4059
 gbnb;B4060;;;eng.b4060
@@ -1696,6 +1708,7 @@ gbnb;B4102;;;eng.b4102
 gbnb;B4103;;;eng.b4103
 gbnb;B4104;;Kenilworth;eng.b4104ken
 gbnb;B4104;;Meriden;eng.b4104
+gbnb;B4105;;;eng.b4105
 gbnb;B4106;;;eng.b4106
 gbnb;B4107;;;eng.b4107
 gbnb;B4109;;;eng.b4109
@@ -1752,6 +1765,8 @@ gbnb;B4155;;;eng.b4155
 gbnb;B4156;;;eng.b4156
 gbnb;B4158;;;eng.b4158
 gbnb;B4160;;;eng.b4160
+gbnb;B4161;;;eng.b4161
+gbnb;B4162;;;eng.b4162
 gbnb;B4163;;;eng.b4163
 gbnb;B4164;;;eng.b4164
 gbnb;B4166;;;eng.b4166
@@ -2020,7 +2035,7 @@ gbnb;B4459;;;wls.b4459
 gbnb;B4461;;;eng.b4461
 gbnb;B4463;;;eng.b4463
 gbnb;B4464;;;eng.b4464
-gbnb;B4466;;;eng.b4465
+gbnb;B4465;;;eng.b4465
 gbnb;B4466;;;eng.b4466
 gbnb;B4467;;;eng.b4467
 gbnb;B4468;;;eng.b4468
@@ -2115,7 +2130,7 @@ gbnb;B4576;;;wls.b4576
 gbnb;B4577;;;wls.b4577
 gbnb;B4578;;;wls.b4578
 gbnb;B4579;;;eng.b4579,wls.b4579
-gbnb;B4580;;;eng.b4580,wls.b4580
+gbnb;B4580;;;wls.b4580,eng.b4580
 gbnb;B4582;;;wls.b4582
 gbnb;B4583;;;wls.b4583
 gbnb;B4584;;;wls.b4584
@@ -2132,7 +2147,7 @@ gbnb;B4595;;;wls.b4595
 gbnb;B4596;;;wls.b4596
 gbnb;B4598;;;wls.b4598
 gbnb;B4599;;;wls.b4599
-gbnb;B4599;Gur;Gurnos (spur);wls.b4599gur
+gbnb;B4599;;Gurnos (spur);wls.b4599gur
 gbnb;B4600;;;wls.b4600
 gbnb;B4601;;;wls.b4601
 gbnb;B4602;;;wls.b4602
@@ -2231,6 +2246,7 @@ gbnb;B5087;;;eng.b5087
 gbnb;B5088;;;eng.b5088
 gbnb;B5090;;;eng.b5090
 gbnb;B5091;;;eng.b5091
+gbnb;B5092;;;eng.b5092
 gbnb;B5093;;;eng.b5093
 gbnb;B5094;;;eng.b5094
 gbnb;B5095;;;eng.b5095
@@ -2346,8 +2362,7 @@ gbnb;B5207;;Netherton;eng.b5207net
 gbnb;B5207;;Bryn;eng.b5207
 gbnb;B5208;;;eng.b5208
 gbnb;B5209;;;eng.b5209
-gbnb;B5210;;Warrington;eng.b5210war
-gbnb;B5210;;Grange;eng.b5210
+gbnb;B5210;;;eng.b5210
 gbnb;B5211;;;eng.b5211
 gbnb;B5212;;;eng.b5212
 gbnb;B5213;;;eng.b5213
@@ -2489,6 +2504,7 @@ gbnb;B5382;;;wls.b5382
 gbnb;B5383;;;wls.b5383
 gbnb;B5384;;;wls.b5384
 gbnb;B5385;;;eng.b5385
+gbnb;B5386;;;eng.b5386
 gbnb;B5388;;;eng.b5388
 gbnb;B5390;;;eng.b5390
 gbnb;B5391;;;eng.b5391
@@ -2542,6 +2558,8 @@ gbnb;B5446;;;wls.b5446
 gbnb;B5461;;;eng.b5461
 gbnb;B5463;;;eng.b5463
 gbnb;B5465;;;eng.b5465
+gbnb;B5467;;;eng.b5467
+gbnb;B5468;;;eng.b5468
 gbnb;B5470;;;eng.b5470
 gbnb;B5471;;;eng.b5471
 gbnb;B5472;;;eng.b5472
@@ -2852,8 +2870,7 @@ gbnb;B6314;;;eng.b6314
 gbnb;B6315;;;eng.b6315
 gbnb;B6316;;;eng.b6316
 gbnb;B6317;;;eng.b6317
-gbnb;B6318;;;eng.b6318
-gbnb;B6318;;;sct.b6318
+gbnb;B6318;;;eng.b6318,sct.b6318
 gbnb;B6319;;;eng.b6319
 gbnb;B6320;;;eng.b6320
 gbnb;B6321;;;eng.b6321
@@ -2969,8 +2986,8 @@ gbnb;B6446;;;eng.b6446
 gbnb;B6447;;;eng.b6447
 gbnb;B6449;;;eng.b6449
 gbnb;B6451;;;eng.b6451
-gbnb;B6452;;;sct.b6452
-gbnb;B6452;;;eng.b6452
+gbnb;B6452;;Rochdale;eng.b6452
+gbnb;B6452;;Galashiels;sct.b6452
 gbnb;B6453;;;sct.b6453
 gbnb;B6454;;;sct.b6454
 gbnb;B6456;;;sct.b6456
@@ -3020,6 +3037,8 @@ gbnb;B6543;;;eng.b6543
 gbnb;B6545;;;eng.b6545
 gbnb;B6546;;;eng.b6546
 gbnb;B6547;;;eng.b6547
+gbnb;B6601;;;eng.b6601
+gbnb;B6902;;;eng.b6902
 gbnb;B6918;;;eng.b6918
 gbnb;B6961;;;sct.b6961
 gbnb;B7000;;;sct.b7000
@@ -3058,6 +3077,7 @@ gbnb;B7033;;;sct.b7033
 gbnb;B7034;;;sct.b7034
 gbnb;B7035;;;sct.b7035
 gbnb;B7036;;;sct.b7036
+gbnb;B7037;;;sct.b7037
 gbnb;B7038;;;sct.b7038
 gbnb;B7039;;;sct.b7039
 gbnb;B7040;;;sct.b7040
@@ -3200,7 +3220,6 @@ gbnb;B9015;;;sct.b9015
 gbnb;B9016;;;sct.b9016
 gbnb;B9017;;;sct.b9017
 gbnb;B9018;;;sct.b9018
-gbnb;B9019;;;sct.b9019
 gbnb;B9020;;;sct.b9020
 gbnb;B9021;;;sct.b9021
 gbnb;B9022;;;sct.b9022
@@ -3319,7 +3338,6 @@ gbnb;B9138;;;sct.b9138
 gbnb;B9139;;;sct.b9139
 gbnb;B9140;;;sct.b9140
 gbnb;B9141;;;sct.b9141
-gbnb;B9142;;;sct.b9142
 gbnb;B9143;;;sct.b9143
 gbnb;B9144;;;sct.b9144
 gbnb;B9148;;;sct.b9148

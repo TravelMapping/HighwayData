@@ -10,6 +10,7 @@ usatx;TX6;Bus;College Station;tx.tx006buscol
 usatx;TX6;Bus;Marlin;tx.tx006busmar
 usatx;TX7;;;tx.tx007
 usatx;TX7;Bus;Chilton;tx.tx007buschi
+usatx;TX7;Bus;Nacogdoches;tx.tx007busnac
 usatx;TX8;;;tx.tx008
 usatx;TX9;;;tx.tx009
 usatx;TX10;;;tx.tx010
@@ -26,6 +27,7 @@ usatx;TX19;Bus;Athens;tx.tx019busath
 usatx;TX20;;;tx.tx020
 usatx;TX21;;;tx.tx021
 usatx;TX21;Bus;Kurten;tx.tx021buskur
+usatx;TX21;Bus;Nacogdoches;tx.tx021busnac
 usatx;TX22;;;tx.tx022
 usatx;TX23;;;tx.tx023
 usatx;TX24;;;tx.tx024
@@ -37,11 +39,12 @@ usatx;TX29;;;tx.tx029
 usatx;TX30;;;tx.tx030
 usatx;TX31;;;tx.tx031
 usatx;TX31;Bus;Mount Calm;tx.tx031busmtc
+usatx;TX31;Bus;Hubbard;tx.tx031bushub
+usatx;TX31;Bus;Corsicana;tx.tx031buscor
 usatx;TX31;Bus;Athens;tx.tx031busath
 usatx;TX33;;;tx.tx033
 usatx;TX34;;;tx.tx034
 usatx;TX34;Bus;Kaufman;tx.tx034buskau
-usatx;TX34;Bus;Terrell;tx.tx034buster
 usatx;TX35;;;tx.tx035
 usatx;TX35;Bus;Rockport;tx.tx035busroc
 usatx;TX35;Bus;Palacios;tx.tx035buspal
@@ -62,7 +65,7 @@ usatx;TX44;;;tx.tx044
 usatx;TX44;Bus;Robstown;tx.tx044busrob
 usatx;TX44;Bus;(West) Corpus Christi;tx.tx044buswco
 usatx;TX44;Bus;Corpus Christi;tx.tx044buscor
-usatx;TX45;;;tx.tx045
+usatx;TX45;;(Main);tx.tx045
 usatx;TX45;;Bear Creek;tx.tx045bea
 usatx;TX46;;;tx.tx046
 usatx;TX46;Bus;New Braunfels;tx.tx046busnew
@@ -121,8 +124,7 @@ usatx;TX95;;;tx.tx095
 usatx;TX96;;;tx.tx096
 usatx;TX97;;;tx.tx097
 usatx;TX98;;;tx.tx098
-usatx;TX99;;Cinco Ranch;tx.tx099
-usatx;TX99;;Baytown;tx.tx099bay
+usatx;TX99;;;tx.tx099
 usatx;TX100;;;tx.tx100
 usatx;TX101;;;tx.tx101
 usatx;TX101;Bus;Chico;tx.tx101buschi
@@ -189,7 +191,6 @@ usatx;TX163;;;tx.tx163
 usatx;TX164;;;tx.tx164
 usatx;TX165;;;tx.tx165
 usatx;TX166;;;tx.tx166
-usatx;TX167;;;tx.tx167
 usatx;TX168;;;tx.tx168
 usatx;TX170;;;tx.tx170
 usatx;TX171;;;tx.tx171
@@ -230,8 +231,7 @@ usatx;TX206;;;tx.tx206
 usatx;TX207;;;tx.tx207
 usatx;TX208;;;tx.tx208
 usatx;TX208;Bus;Colorado City;tx.tx208buscol
-usatx;TX211;;(Main);tx.tx211
-usatx;TX211;;Government Canyon;tx.tx211gov
+usatx;TX211;;;tx.tx211
 usatx;TX213;;;tx.tx213
 usatx;TX214;;;tx.tx214
 usatx;TX214;Bus;Friona;tx.tx214busfri
@@ -264,6 +264,7 @@ usatx;TX273;;;tx.tx273
 usatx;TX274;;;tx.tx274
 usatx;TX275;;;tx.tx275
 usatx;TX276;;;tx.tx276
+usatx;TX276;Bus;Quinlan;tx.tx276busqui
 usatx;TX279;;;tx.tx279
 usatx;TX283;;;tx.tx283
 usatx;TX285;;;tx.tx285
@@ -272,7 +273,6 @@ usatx;TX286;Bus;Corpus Christi;tx.tx286buscor
 usatx;TX288;;;tx.tx288
 usatx;TX288;Bus;Angleton;tx.tx288busang
 usatx;TX289;;;tx.tx289
-usatx;TX289;Bus;Prosper;tx.tx289buspro
 usatx;TX289;Bus;Celina;tx.tx289buscel
 usatx;TX290;;;tx.tx290
 usatx;TX294;;;tx.tx294
@@ -316,7 +316,6 @@ usatx;TX359;Bus;Mathis;tx.tx359busmat
 usatx;TX360;;;tx.tx360
 usatx;TX361;;Port Aransas;tx.tx361
 usatx;TX361;;Aransas Pass;tx.tx361ara
-usatx;TX364;;Palmview;tx.tx364pal
 usatx;TX364;;;tx.tx364
 usatx;TX495;;;tx.tx495
 usatx;TX550;;;tx.tx550

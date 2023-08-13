@@ -7,7 +7,7 @@ Kt45 http://www.openstreetmap.org/?lat=60.187601&lon=24.969757
 St170 http://www.openstreetmap.org/?lat=60.187201&lon=24.977084
 AgrKuja http://www.openstreetmap.org/?lat=60.192700&lon=24.978232
 HamTie_W +HaStie_W http://www.openstreetmap.org/?lat=60.201488&lon=24.963062
-HamTie_E +HaStie_E http://www.openstreetmap.org/?lat=60.203125&lon=24.965090
+HamTie_E http://www.openstreetmap.org/?lat=60.203125&lon=24.965090
 1 http://www.openstreetmap.org/?lat=60.216754&lon=24.974756
 2 http://www.openstreetmap.org/?lat=60.228732&lon=25.011706
 3 http://www.openstreetmap.org/?lat=60.238043&lon=25.041060
@@ -34,8 +34,9 @@ MusTie http://www.openstreetmap.org/?lat=60.826638&lon=25.527463
 15 http://www.openstreetmap.org/?lat=60.857996&lon=25.562010
 16 http://www.openstreetmap.org/?lat=60.931058&lon=25.636103
 17A http://www.openstreetmap.org/?lat=60.954600&lon=25.695090
+Vt12_W http://www.openstreetmap.org/?lat=60.957371&lon=25.697923
 17B http://www.openstreetmap.org/?lat=60.969119&lon=25.716977
-17 http://www.openstreetmap.org/?lat=60.970921&lon=25.721097
+Vt12_E http://www.openstreetmap.org/?lat=60.970921&lon=25.721097
 18 http://www.openstreetmap.org/?lat=60.985640&lon=25.735903
 19 http://www.openstreetmap.org/?lat=60.997461&lon=25.784826
 +X10 http://www.openstreetmap.org/?lat=61.011565&lon=25.819759
@@ -97,13 +98,14 @@ KuoTie http://www.openstreetmap.org/?lat=62.239872&lon=25.816369
 Vt9/23 http://www.openstreetmap.org/?lat=62.246547&lon=25.769827
 TouTie http://www.openstreetmap.org/?lat=62.250863&lon=25.770879
 St637_S http://www.openstreetmap.org/?lat=62.257297&lon=25.756288
-SaaTie http://www.openstreetmap.org/?lat=62.270569&lon=25.730281
-PalNor http://www.openstreetmap.org/?lat=62.290061&lon=25.720367
-St630 http://www.openstreetmap.org/?lat=62.300691&lon=25.714595
-MatTie http://www.openstreetmap.org/?lat=62.340038&lon=25.704660
-+X41 http://www.openstreetmap.org/?lat=62.361556&lon=25.699596
-St638_N http://www.openstreetmap.org/?lat=62.387197&lon=25.706763
-St632 http://www.openstreetmap.org/?lat=62.407867&lon=25.697622
+53 http://www.openstreetmap.org/?lat=62.270569&lon=25.730281
+54 http://www.openstreetmap.org/?lat=62.290061&lon=25.720367
+55 http://www.openstreetmap.org/?lat=62.300691&lon=25.714595
+56 http://www.openstreetmap.org/?lat=62.318534&lon=25.699511
+57 http://www.openstreetmap.org/?lat=62.355494&lon=25.699854
+58 http://www.openstreetmap.org/?lat=62.385243&lon=25.707171
+59 http://www.openstreetmap.org/?lat=62.408836&lon=25.696120
+60 http://www.openstreetmap.org/?lat=62.434043&lon=25.688910
 +X42 http://www.openstreetmap.org/?lat=62.464265&lon=25.670586
 PolTie http://www.openstreetmap.org/?lat=62.492543&lon=25.679641
 Kt69 http://www.openstreetmap.org/?lat=62.516034&lon=25.687486
@@ -113,7 +115,7 @@ VaaTie http://www.openstreetmap.org/?lat=62.587928&lon=25.695734
 KokTie_S http://www.openstreetmap.org/?lat=62.608706&lon=25.689125
 St642 http://www.openstreetmap.org/?lat=62.616247&lon=25.684555
 +X44 http://www.openstreetmap.org/?lat=62.638583&lon=25.686121
-MamTie +MaStie http://www.openstreetmap.org/?lat=62.645840&lon=25.708952
+MamTie http://www.openstreetmap.org/?lat=62.645840&lon=25.708952
 +X45 http://www.openstreetmap.org/?lat=62.676507&lon=25.756416
 +X46 http://www.openstreetmap.org/?lat=62.685528&lon=25.755472
 +X47 http://www.openstreetmap.org/?lat=62.691947&lon=25.765600
@@ -174,7 +176,7 @@ Vt28 http://www.openstreetmap.org/?lat=63.982927&lon=25.757704
 +X80 http://www.openstreetmap.org/?lat=64.008027&lon=25.757790
 Yt7980 http://www.openstreetmap.org/?lat=64.018858&lon=25.763969
 +X81 http://www.openstreetmap.org/?lat=64.052378&lon=25.794182
-HamTie +HaStie http://www.openstreetmap.org/?lat=64.118808&lon=25.801392
+HamTie http://www.openstreetmap.org/?lat=64.118808&lon=25.801392
 St800 http://www.openstreetmap.org/?lat=64.178911&lon=25.803698
 +X82 http://www.openstreetmap.org/?lat=64.193228&lon=25.805511
 Kt88 http://www.openstreetmap.org/?lat=64.264504&lon=25.866709
@@ -218,7 +220,7 @@ Vt8 http://www.openstreetmap.org/?lat=64.815173&lon=25.484934
 St848 http://www.openstreetmap.org/?lat=65.161695&lon=25.427513
 Yt8460 http://www.openstreetmap.org/?lat=65.200388&lon=25.423737
 +X100 http://www.openstreetmap.org/?lat=65.217088&lon=25.401077
-St847_N +St847 http://www.openstreetmap.org/?lat=65.264741&lon=25.363789
+St847_N http://www.openstreetmap.org/?lat=65.264741&lon=25.363789
 OjaTie http://www.openstreetmap.org/?lat=65.281932&lon=25.368805
 St851 http://www.openstreetmap.org/?lat=65.317457&lon=25.373611
 IilTie http://www.openstreetmap.org/?lat=65.329945&lon=25.377645
@@ -304,7 +306,7 @@ AnsaTie http://www.openstreetmap.org/?lat=66.737715&lon=26.268311
 +X131 http://www.openstreetmap.org/?lat=66.745867&lon=26.259727
 +X132 http://www.openstreetmap.org/?lat=66.754201&lon=26.240845
 +X133 http://www.openstreetmap.org/?lat=66.764633&lon=26.237240
-AmmTie +AmStie http://www.openstreetmap.org/?lat=66.784340&lon=26.235191
+AmmTie http://www.openstreetmap.org/?lat=66.784340&lon=26.235191
 +X135 http://www.openstreetmap.org/?lat=66.841377&lon=26.193466
 +X136 http://www.openstreetmap.org/?lat=66.883670&lon=26.181107
 +X137 http://www.openstreetmap.org/?lat=66.898020&lon=26.201363

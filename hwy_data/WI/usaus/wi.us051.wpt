@@ -6,7 +6,7 @@ WI81 http://www.openstreetmap.org/?lat=42.508315&lon=-89.031787
 HenAve http://www.openstreetmap.org/?lat=42.522423&lon=-89.034534
 CraRd http://www.openstreetmap.org/?lat=42.532275&lon=-89.035692
 CRQ_Roc http://www.openstreetmap.org/?lat=42.540181&lon=-89.036679
-+X01 http://www.openstreetmap.org/?lat=42.554629&lon=-89.039383
+InmPkwy http://www.openstreetmap.org/?lat=42.555505&lon=-89.039200
 TownLineRd http://www.openstreetmap.org/?lat=42.584307&lon=-89.019728
 HapHolRd http://www.openstreetmap.org/?lat=42.601399&lon=-89.025350
 WI11 http://www.openstreetmap.org/?lat=42.635285&lon=-89.030972
@@ -19,13 +19,14 @@ WI26 http://www.openstreetmap.org/?lat=42.686395&lon=-89.024706
 MemDr http://www.openstreetmap.org/?lat=42.693839&lon=-89.029276
 BlaBrRd http://www.openstreetmap.org/?lat=42.704231&lon=-89.030886
 US14 http://www.openstreetmap.org/?lat=42.730181&lon=-89.033053
-+X02 http://www.openstreetmap.org/?lat=42.772440&lon=-89.033203
++X01 http://www.openstreetmap.org/?lat=42.772440&lon=-89.033203
 CRM_RocE http://www.openstreetmap.org/?lat=42.794078&lon=-89.054446
 CRM_RocW http://www.openstreetmap.org/?lat=42.803430&lon=-89.067793
 WI59 http://www.openstreetmap.org/?lat=42.833430&lon=-89.069445
-I-90(160) http://www.openstreetmap.org/?lat=42.873102&lon=-89.055390
-+X02a http://www.openstreetmap.org/?lat=42.908254&lon=-89.084787
-I-90(156) http://www.openstreetmap.org/?lat=42.920921&lon=-89.085045
+HemSt http://www.openstreetmap.org/?lat=42.846989&lon=-89.058635
+160(90) +I-90(160) http://www.openstreetmap.org/?lat=42.873102&lon=-89.055390
++X02 http://www.openstreetmap.org/?lat=42.908254&lon=-89.084787
+156(90) +I-90(156) http://www.openstreetmap.org/?lat=42.920921&lon=-89.085045
 CRA_Dan http://www.openstreetmap.org/?lat=42.920889&lon=-89.091783
 CRW_Dan http://www.openstreetmap.org/?lat=42.920418&lon=-89.098735
 TowDr http://www.openstreetmap.org/?lat=42.919035&lon=-89.151478
@@ -36,12 +37,12 @@ WI138_W http://www.openstreetmap.org/?lat=42.918611&lon=-89.249003
 CRB_Dan http://www.openstreetmap.org/?lat=42.939334&lon=-89.250269
 LakeKegRd http://www.openstreetmap.org/?lat=42.951554&lon=-89.279151
 CRB/AB_Dan http://www.openstreetmap.org/?lat=42.968765&lon=-89.283485
-+X03 http://www.openstreetmap.org/?lat=42.990868&lon=-89.307261
+MahRd http://www.openstreetmap.org/?lat=42.990701&lon=-89.307338
 CRMN_Dan http://www.openstreetmap.org/?lat=43.013387&lon=-89.302733
 SigRd http://www.openstreetmap.org/?lat=43.025734&lon=-89.299407
 US12/18 http://www.openstreetmap.org/?lat=43.045982&lon=-89.306896
 CRBW_Dan http://www.openstreetmap.org/?lat=43.048004&lon=-89.307818
-PfaRd http://www.openstreetmap.org/?lat=43.062257&lon=-89.309363
+PflRd http://www.openstreetmap.org/?lat=43.062257&lon=-89.309363
 BucRd http://www.openstreetmap.org/?lat=43.073347&lon=-89.309771
 CRBB_Dan http://www.openstreetmap.org/?lat=43.083997&lon=-89.311252
 MilSt http://www.openstreetmap.org/?lat=43.098304&lon=-89.316359
@@ -50,104 +51,120 @@ US151 http://www.openstreetmap.org/?lat=43.116883&lon=-89.324534
 KinBlvd http://www.openstreetmap.org/?lat=43.125607&lon=-89.325070
 HoeRd http://www.openstreetmap.org/?lat=43.164465&lon=-89.324427
 CRCV_Dan http://www.openstreetmap.org/?lat=43.171899&lon=-89.324448
-I-90(132) http://www.openstreetmap.org/?lat=43.178956&lon=-89.323997
-WI19 http://www.openstreetmap.org/?lat=43.194696&lon=-89.324598
-WinRd http://www.openstreetmap.org/?lat=43.216342&lon=-89.323311
-VinRd http://www.openstreetmap.org/?lat=43.238012&lon=-89.323826
-CRDV_Dan http://www.openstreetmap.org/?lat=43.247547&lon=-89.323997
-CRV_DanW http://www.openstreetmap.org/?lat=43.252736&lon=-89.324169
-CRV_DanE http://www.openstreetmap.org/?lat=43.267206&lon=-89.324384
+132(90) +I-90(132) http://www.openstreetmap.org/?lat=43.178956&lon=-89.323997
+61 +WI19 http://www.openstreetmap.org/?lat=43.194696&lon=-89.324598
+63 +WinRd http://www.openstreetmap.org/?lat=43.216285&lon=-89.322915
+*CRDV_Dan http://www.openstreetmap.org/?lat=43.247626&lon=-89.323063
+65 http://www.openstreetmap.org/?lat=43.252760&lon=-89.324081
 CRDM_W http://www.openstreetmap.org/?lat=43.280923&lon=-89.324727
 CRDM_E http://www.openstreetmap.org/?lat=43.295481&lon=-89.324641
-WI22/60 http://www.openstreetmap.org/?lat=43.331109&lon=-89.327130
+WI22/60 http://www.openstreetmap.org/?lat=43.332096&lon=-89.325271
++X03 http://www.openstreetmap.org/?lat=43.332733&lon=-89.360364
 WI60_W http://www.openstreetmap.org/?lat=43.337415&lon=-89.367728
-+X04 http://www.openstreetmap.org/?lat=43.375015&lon=-89.394722
+LovRd http://www.openstreetmap.org/?lat=43.377537&lon=-89.395347
 CRCS/Q_Col http://www.openstreetmap.org/?lat=43.395444&lon=-89.395237
 CRB_Col http://www.openstreetmap.org/?lat=43.438960&lon=-89.400816
-CRVJ_Col http://www.openstreetmap.org/?lat=43.458776&lon=-89.408412
+CRJ/V_Col http://www.openstreetmap.org/?lat=43.458776&lon=-89.408412
 WI16_E http://www.openstreetmap.org/?lat=43.493966&lon=-89.409013
 CRP_Col http://www.openstreetmap.org/?lat=43.515008&lon=-89.419055
 WI33 http://www.openstreetmap.org/?lat=43.539667&lon=-89.460318
-I-39(92) http://www.openstreetmap.org/?lat=43.576971&lon=-89.470167
-I-39(100) http://www.openstreetmap.org/?lat=43.701078&lon=-89.471068
-I-39(104) http://www.openstreetmap.org/?lat=43.759317&lon=-89.483857
-I-39(106) http://www.openstreetmap.org/?lat=43.790645&lon=-89.483042
-I-39(113) http://www.openstreetmap.org/?lat=43.885491&lon=-89.482870
-+X05 http://www.openstreetmap.org/?lat=43.959615&lon=-89.485788
-I-39(124) http://www.openstreetmap.org/?lat=44.035128&lon=-89.528532
-+X06 http://www.openstreetmap.org/?lat=44.058757&lon=-89.542351
-+X07 http://www.openstreetmap.org/?lat=44.085982&lon=-89.532309
-I-39(131) http://www.openstreetmap.org/?lat=44.133620&lon=-89.532094
-I-39(136) http://www.openstreetmap.org/?lat=44.213771&lon=-89.524026
-I-39(139) http://www.openstreetmap.org/?lat=44.258755&lon=-89.523511
-I-39(143) http://www.openstreetmap.org/?lat=44.309263&lon=-89.523082
-I-39(151) http://www.openstreetmap.org/?lat=44.430501&lon=-89.518189
-I-39(153) http://www.openstreetmap.org/?lat=44.453726&lon=-89.517889
-I-39(156) http://www.openstreetmap.org/?lat=44.497240&lon=-89.518018
-I-39(158) http://www.openstreetmap.org/?lat=44.523284&lon=-89.527030
-I-39(159) http://www.openstreetmap.org/?lat=44.540630&lon=-89.544067
-I-39(161) http://www.openstreetmap.org/?lat=44.548277&lon=-89.576125
-I-39(163) http://www.openstreetmap.org/?lat=44.569895&lon=-89.597948
-I-39(165) http://www.openstreetmap.org/?lat=44.597863&lon=-89.615479
-+X08 http://www.openstreetmap.org/?lat=44.633879&lon=-89.635391
-I-39(171) http://www.openstreetmap.org/?lat=44.675825&lon=-89.641571
-+X09 http://www.openstreetmap.org/?lat=44.689678&lon=-89.641228
-I-39(175) http://www.openstreetmap.org/?lat=44.728991&lon=-89.678178
-I-39(179) http://www.openstreetmap.org/?lat=44.786130&lon=-89.680066
-I-39(181) http://www.openstreetmap.org/?lat=44.811070&lon=-89.672084
-+X10 http://www.openstreetmap.org/?lat=44.854439&lon=-89.637194
-I-39(185) http://www.openstreetmap.org/?lat=44.863443&lon=-89.641056
-I-39(187) http://www.openstreetmap.org/?lat=44.897593&lon=-89.640369
-CRR/N_Mar http://www.openstreetmap.org/?lat=44.911544&lon=-89.650712
-MouRd http://www.openstreetmap.org/?lat=44.932815&lon=-89.664445
-WI29_W http://www.openstreetmap.org/?lat=44.951861&lon=-89.666634
-WI52 http://www.openstreetmap.org/?lat=44.960759&lon=-89.662997
-BriSt http://www.openstreetmap.org/?lat=44.969899&lon=-89.656248
-CRU_Mar http://www.openstreetmap.org/?lat=44.984744&lon=-89.656677
-US51BusWau http://www.openstreetmap.org/?lat=44.992119&lon=-89.656849
-CRWW_Mar http://www.openstreetmap.org/?lat=45.025222&lon=-89.668307
-+X11 http://www.openstreetmap.org/?lat=45.063609&lon=-89.642773
-CRQ_Lin http://www.openstreetmap.org/?lat=45.132134&lon=-89.639897
-WI64 http://www.openstreetmap.org/?lat=45.177802&lon=-89.646592
-+X12 http://www.openstreetmap.org/?lat=45.196040&lon=-89.647751
-CRK_Lin http://www.openstreetmap.org/?lat=45.211038&lon=-89.667749
-+X13 http://www.openstreetmap.org/?lat=45.261083&lon=-89.684229
-CRH_Lin http://www.openstreetmap.org/?lat=45.315581&lon=-89.684572
-+X14 http://www.openstreetmap.org/?lat=45.339507&lon=-89.664745
+ColSt http://www.openstreetmap.org/?lat=43.562667&lon=-89.469541
+CRCX_Col http://www.openstreetmap.org/?lat=43.572207&lon=-89.469595
+92 +I-39(92) http://www.openstreetmap.org/?lat=43.576971&lon=-89.470167
+100 +I-39(100) http://www.openstreetmap.org/?lat=43.701078&lon=-89.471068
+104 http://www.openstreetmap.org/?lat=43.759317&lon=-89.483857
+106 +I-39(106) http://www.openstreetmap.org/?lat=43.790645&lon=-89.483042
+113 http://www.openstreetmap.org/?lat=43.885491&lon=-89.482870
++X04 http://www.openstreetmap.org/?lat=43.959615&lon=-89.485788
++X05 http://www.openstreetmap.org/?lat=43.971603&lon=-89.496204
++X06 http://www.openstreetmap.org/?lat=44.001923&lon=-89.499446
+124 +I-39(124) http://www.openstreetmap.org/?lat=44.035128&lon=-89.528532
++X07 http://www.openstreetmap.org/?lat=44.058757&lon=-89.542351
++X08 http://www.openstreetmap.org/?lat=44.085982&lon=-89.532309
+131 http://www.openstreetmap.org/?lat=44.133620&lon=-89.532094
++X09 http://www.openstreetmap.org/?lat=44.169189&lon=-89.532172
++X10 http://www.openstreetmap.org/?lat=44.194830&lon=-89.523054
+136 http://www.openstreetmap.org/?lat=44.213771&lon=-89.524026
+139 http://www.openstreetmap.org/?lat=44.258755&lon=-89.523511
+143 http://www.openstreetmap.org/?lat=44.309263&lon=-89.523082
+151 +I-39(151) http://www.openstreetmap.org/?lat=44.430501&lon=-89.518189
+153 http://www.openstreetmap.org/?lat=44.453726&lon=-89.517889
+156 +I-39(156) http://www.openstreetmap.org/?lat=44.497240&lon=-89.518018
+158 +I-39(158) http://www.openstreetmap.org/?lat=44.523284&lon=-89.527030
+159 http://www.openstreetmap.org/?lat=44.540630&lon=-89.544067
++X11 http://www.openstreetmap.org/?lat=44.547774&lon=-89.553420
+161 http://www.openstreetmap.org/?lat=44.548277&lon=-89.576125
+163 http://www.openstreetmap.org/?lat=44.569895&lon=-89.597948
+165 +I-39(165) http://www.openstreetmap.org/?lat=44.597863&lon=-89.615479
++X12 http://www.openstreetmap.org/?lat=44.633879&lon=-89.635391
+171 http://www.openstreetmap.org/?lat=44.675825&lon=-89.641571
++X13 http://www.openstreetmap.org/?lat=44.689678&lon=-89.641228
+175 http://www.openstreetmap.org/?lat=44.728991&lon=-89.678178
+179 +I-39(179) http://www.openstreetmap.org/?lat=44.786130&lon=-89.680066
+181 http://www.openstreetmap.org/?lat=44.811070&lon=-89.672084
++X14 http://www.openstreetmap.org/?lat=44.854439&lon=-89.637194
+185 http://www.openstreetmap.org/?lat=44.863443&lon=-89.641056
+187 +I-39(187) http://www.openstreetmap.org/?lat=44.897593&lon=-89.640369
+188 +CRR/N_Mar http://www.openstreetmap.org/?lat=44.911544&lon=-89.650712
+190 http://www.openstreetmap.org/?lat=44.932815&lon=-89.664445
+191B http://www.openstreetmap.org/?lat=44.951737&lon=-89.666568
+191A +WI29_W http://www.openstreetmap.org/?lat=44.954216&lon=-89.666869
+192 +WI52 http://www.openstreetmap.org/?lat=44.960759&lon=-89.662997
+193 +BriSt http://www.openstreetmap.org/?lat=44.969650&lon=-89.656258
+194A http://www.openstreetmap.org/?lat=44.985119&lon=-89.656818
+194B http://www.openstreetmap.org/?lat=44.990039&lon=-89.656602
+197 http://www.openstreetmap.org/?lat=45.025222&lon=-89.668307
++X15 http://www.openstreetmap.org/?lat=45.063609&lon=-89.642773
++X16 http://www.openstreetmap.org/?lat=45.100968&lon=-89.636311
+205 http://www.openstreetmap.org/?lat=45.132134&lon=-89.639897
+208 +WI64 http://www.openstreetmap.org/?lat=45.177802&lon=-89.646592
++X17 http://www.openstreetmap.org/?lat=45.196040&lon=-89.647751
+211 http://www.openstreetmap.org/?lat=45.211038&lon=-89.667749
++X18 http://www.openstreetmap.org/?lat=45.261083&lon=-89.684229
+*CRH_Lin http://www.openstreetmap.org/?lat=45.315581&lon=-89.684572
+CRK_Lin http://www.openstreetmap.org/?lat=45.337167&lon=-89.665676
 CRJ_Lin http://www.openstreetmap.org/?lat=45.351633&lon=-89.666033
-CRS_Lin http://www.openstreetmap.org/?lat=45.417281&lon=-89.671268
-WI86 http://www.openstreetmap.org/?lat=45.470695&lon=-89.691439
-CRA_Lin http://www.openstreetmap.org/?lat=45.496391&lon=-89.696116
-+X15 http://www.openstreetmap.org/?lat=45.517384&lon=-89.676247
-US8 http://www.openstreetmap.org/?lat=45.543299&lon=-89.671440
-CRN_One http://www.openstreetmap.org/?lat=45.565987&lon=-89.674916
-+X16 http://www.openstreetmap.org/?lat=45.593681&lon=-89.692812
-+X17 http://www.openstreetmap.org/?lat=45.623853&lon=-89.684401
+225 +CRS_Lin http://www.openstreetmap.org/?lat=45.417281&lon=-89.671268
+229 +WI86 http://www.openstreetmap.org/?lat=45.470695&lon=-89.691439
+231 http://www.openstreetmap.org/?lat=45.496391&lon=-89.696116
++X19 http://www.openstreetmap.org/?lat=45.517384&lon=-89.676247
+234 +US8 http://www.openstreetmap.org/?lat=45.543299&lon=-89.671440
++X20 http://www.openstreetmap.org/?lat=45.566097&lon=-89.675044
++X21 http://www.openstreetmap.org/?lat=45.593681&lon=-89.692812
++X22 http://www.openstreetmap.org/?lat=45.623853&lon=-89.684401
 CRL_One http://www.openstreetmap.org/?lat=45.639608&lon=-89.704142
 CRK_One http://www.openstreetmap.org/?lat=45.644858&lon=-89.704957
-+X18 http://www.openstreetmap.org/?lat=45.681389&lon=-89.714355
-+X19 http://www.openstreetmap.org/?lat=45.733654&lon=-89.723969
+RocRunRd http://www.openstreetmap.org/?lat=45.681326&lon=-89.714345
++X23 http://www.openstreetmap.org/?lat=45.733654&lon=-89.723969
 CRY_One http://www.openstreetmap.org/?lat=45.768960&lon=-89.716930
 CRD_One http://www.openstreetmap.org/?lat=45.785422&lon=-89.711180
-+X20 http://www.openstreetmap.org/?lat=45.817704&lon=-89.726973
-+X21 http://www.openstreetmap.org/?lat=45.843899&lon=-89.706073
++X24 http://www.openstreetmap.org/?lat=45.817704&lon=-89.726973
+LeeRd http://www.openstreetmap.org/?lat=45.825170&lon=-89.721608
++X25 http://www.openstreetmap.org/?lat=45.843899&lon=-89.706073
+CouClubRd http://www.openstreetmap.org/?lat=45.862924&lon=-89.708377
+MilSt_Min http://www.openstreetmap.org/?lat=45.870601&lon=-89.709232
 WI70_W http://www.openstreetmap.org/?lat=45.887379&lon=-89.703627
 WI47 http://www.openstreetmap.org/?lat=45.896490&lon=-89.697790
 WI70_E http://www.openstreetmap.org/?lat=45.920737&lon=-89.695473
 CRM_Vil http://www.openstreetmap.org/?lat=45.982411&lon=-89.698648
 CRN_Vil http://www.openstreetmap.org/?lat=46.011210&lon=-89.694614
-+X22 http://www.openstreetmap.org/?lat=46.047889&lon=-89.710579
+GreRd http://www.openstreetmap.org/?lat=46.038902&lon=-89.705475
++X26 http://www.openstreetmap.org/?lat=46.052744&lon=-89.717382
 CRH_Vil http://www.openstreetmap.org/?lat=46.066264&lon=-89.755125
-+X23 http://www.openstreetmap.org/?lat=46.114628&lon=-89.829111
++X27 http://www.openstreetmap.org/?lat=46.114628&lon=-89.829111
 CRW_Vil http://www.openstreetmap.org/?lat=46.129471&lon=-89.889021
-+X24 http://www.openstreetmap.org/?lat=46.143537&lon=-89.930992
++X28 http://www.openstreetmap.org/?lat=46.143537&lon=-89.930992
 WI47/182 http://www.openstreetmap.org/?lat=46.131791&lon=-90.012188
 CRJ_Iro http://www.openstreetmap.org/?lat=46.167052&lon=-90.066690
 CRFF_Iro http://www.openstreetmap.org/?lat=46.175522&lon=-90.091667
-+X25 http://www.openstreetmap.org/?lat=46.192517&lon=-90.141106
++X29 http://www.openstreetmap.org/?lat=46.192517&lon=-90.141106
 CRG_Iro http://www.openstreetmap.org/?lat=46.268486&lon=-90.151405
-+X26 http://www.openstreetmap.org/?lat=46.377343&lon=-90.154753
+CRCC_Iro http://www.openstreetmap.org/?lat=46.378548&lon=-90.155078
 CRC_Iro http://www.openstreetmap.org/?lat=46.385011&lon=-90.164752
-+X27 http://www.openstreetmap.org/?lat=46.404102&lon=-90.181017
+CenDr http://www.openstreetmap.org/?lat=46.398822&lon=-90.179147
 WI77 http://www.openstreetmap.org/?lat=46.449833&lon=-90.181746
-US2 http://www.openstreetmap.org/?lat=46.467069&lon=-90.195050
+PopSt http://www.openstreetmap.org/?lat=46.453087&lon=-90.181982
++X30 http://www.openstreetmap.org/?lat=46.456382&lon=-90.182300
+5thAve http://www.openstreetmap.org/?lat=46.457557&lon=-90.186467
+10thAve http://www.openstreetmap.org/?lat=46.460837&lon=-90.193872
+US2 http://www.openstreetmap.org/?lat=46.466444&lon=-90.194258

@@ -20,7 +20,6 @@ usaga;GA3;Con;Marietta;ga.ga003conmar
 usaga;GA3;Con;Dalton;ga.ga003condal
 usaga;GA4;;;ga.ga004
 usaga;GA4;Bus;Waycross;ga.ga004busway
-usaga;GA4;Alt;Alma;ga.ga004altalm
 usaga;GA4;Bus;Swainsboro;ga.ga004busswa
 usaga;GA4;Bus;Wadley;ga.ga004buswad
 usaga;GA4;Bus;Louisville;ga.ga004buslou
@@ -73,6 +72,7 @@ usaga;GA15;Lp;Tallulah Falls;ga.ga015lptal
 usaga;GA16;;;ga.ga016
 usaga;GA17;;;ga.ga017
 usaga;GA17;Byp;Millen;ga.ga017bypmil
+usaga;GA17;Con;Bloomingdale;ga.ga017conblo
 usaga;GA17;Con;Warrenton;ga.ga017conwar
 usaga;GA17;Byp;Thomson;ga.ga017byptho
 usaga;GA17;Bus;Washington;ga.ga017buswas
@@ -88,6 +88,7 @@ usaga;GA21;Alt;Port Wentworth;ga.ga021altpor
 usaga;GA21;Spr;Garden City;ga.ga021sprgar
 usaga;GA21;Spr;Springfield;ga.ga021sprspr
 usaga;GA21;Bus;Newington;ga.ga021busnew
+usaga;GA21;Bus;Springfield;ga.ga021busspr
 usaga;GA21;Bus;Sylvania;ga.ga021bussyl
 usaga;GA22;;;ga.ga022
 usaga;GA22;Con;Columbus;ga.ga022concol
@@ -117,20 +118,21 @@ usaga;GA30;;;ga.ga030
 usaga;GA31;;;ga.ga031
 usaga;GA31;Con;Lakeland;ga.ga031conlak
 usaga;GA32;;;ga.ga032
+usaga;GA32;Trk;Leesburg;ga.ga032trklee
 usaga;GA33;;;ga.ga033
 usaga;GA33;Con;Wenona;ga.ga033conwen
 usaga;GA34;;;ga.ga034
 usaga;GA34;Byp;Newnan;ga.ga034bypnew
 usaga;GA35;;;ga.ga035
 usaga;GA35;Con;Thomasville;ga.ga035contho
-usaga;GA35;Lp;Tifton;ga.ga035lptif
+usaga;GA35;Con;Tifton;ga.ga035contif
 usaga;GA36;;;ga.ga036
 usaga;GA37;;;ga.ga037
 usaga;GA37;Con;Camilla;ga.ga037concam
 usaga;GA37;Trk;Camilla;ga.ga037trkcam
 usaga;GA38;;;ga.ga038
 usaga;GA38;Bus;Bainbridge;ga.ga038busbai
-usaga;GA38;Spr;Cairo;ga.ga038sprcai
+usaga;GA38;Con;Cairo;ga.ga038concai
 usaga;GA38;Bus;Thomasville;ga.ga038bustho
 usaga;GA38;Con;Hinesville;ga.ga038conhin
 usaga;GA39;;;ga.ga039
@@ -237,7 +239,6 @@ usaga;GA95;;;ga.ga095
 usaga;GA96;;;ga.ga096
 usaga;GA97;;;ga.ga097
 usaga;GA97;Spr;Lake Seminole;ga.ga097sprlks
-usaga;GA97;Con;Bainbridge;ga.ga097conbai
 usaga;GA98;;;ga.ga098
 usaga;GA99;;;ga.ga099
 usaga;GA100;;;ga.ga100
@@ -363,7 +364,6 @@ usaga;GA201;;;ga.ga201
 usaga;GA202;;;ga.ga202
 usaga;GA203;;;ga.ga203
 usaga;GA204;;;ga.ga204
-usaga;GA204;Spr;Savannah;ga.ga204sprsav
 usaga;GA206;;;ga.ga206
 usaga;GA206;Con;Douglas;ga.ga206condou
 usaga;GA208;;;ga.ga208
@@ -391,10 +391,9 @@ usaga;GA240;Con;Mauk;ga.ga240conmau
 usaga;GA241;;;ga.ga241
 usaga;GA242;;;ga.ga242
 usaga;GA242;Spr;Sandersville;ga.ga242sprsan
-usaga;GA243;;;ga.ga243
 usaga;GA246;;;ga.ga246
-usaga;GA246;Rab;Rabun County;ga.ga246rab
-usaga;GA246;Sky;Sky Valley;ga.ga246sky
+usaga;GA246;;Rabun County;ga.ga246rab
+usaga;GA246;;Sky Valley;ga.ga246sky
 usaga;GA247;;;ga.ga247
 usaga;GA247;Con;Warner Robins;ga.ga247conwar
 usaga;GA247;Spr;Perry;ga.ga247sprper
@@ -486,7 +485,6 @@ usaga;GA365;;;ga.ga365
 usaga;GA368;;;ga.ga368
 usaga;GA369;;;ga.ga369
 usaga;GA370;;;ga.ga370
-usaga;GA371;;;ga.ga371
 usaga;GA372;;;ga.ga372
 usaga;GA374;;;ga.ga374
 usaga;GA376;;;ga.ga376

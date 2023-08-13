@@ -27,16 +27,14 @@ espa;AP7;;Barcelona;espct.ap007,espvc.ap007cas
 espa;AP7;;Alicante;espvc.ap007
 espa;AP7;;Cartagena;espvc.ap007tor,espmc.ap007,espan.ap007pul
 espa;AP7;;Marbella;espan.ap007
-espa;A8;;Galdakao;esppv.a008gal
 espa;A8;;;esppv.a008,espcb.a008,espas.a008,espga.a008
 espa;AP8;;;esppv.ap008
+espa;AP8;;Buia;esppv.ap008bui
 espa;AP9;;;espga.ap009
 espa;AP9;;Ferrol;espga.ap009fer
 espa;AP9;;Vigo;espga.ap009vig
 espa;A10;;;espnc.a010
-espa;A11;;La Mallona;espcl.a011mal
 espa;A11;;Burgo de Osma;espcl.a011bur
-espa;A11;;Soto de San Esteban;espcl.a011sot
 espa;A11;;Aranda de Duero;espcl.a011ara
 espa;A11;;Valladolid;espcl.a011val
 espa;A11;;Zamora;espcl.a011
@@ -45,8 +43,7 @@ espa;A13;;;espri.a013
 espa;A14;;;espct.a014
 espa;A15;;Soria;espcl.a015
 espa;A15;;Ágreda;espcl.a015agr
-espa;A15;;Lekunberri;espnc.a015
-espa;A15;;Lekunberri;esppv.a015
+espa;A15;;Lekunberri;espnc.a015,esppv.a015
 espa;AP15;;;espnc.ap015
 espa;A21;;Lumbier;espnc.a021,espar.a021tie
 espa;A21;;Miramont;espar.a021
@@ -61,8 +58,8 @@ espa;A30;;;espcm.a030,espmc.a030
 espa;A31;;;espcm.a031,espvc.a031
 espa;A32;;Linares;espan.a032
 espa;A32;;Albacate;espcm.a032
-espa;A33;;La Font de la Figuera;espvc.a033
-espa;A33;;;espmc.a033
+espa;A33;;Blanca-Abaran;espmc.a033
+espa;A33;;La Font de la Figuera;espcm.a033,espvc.a033
 espa;A35;;;espcm.a035,espvc.a035
 espa;AP36;;;espcm.ap036
 espa;A38;;Sueca;espvc.a038
@@ -85,12 +82,14 @@ espa;AP53;;;espga.ap053
 espa;A54;;Lugo;espga.a054lug
 espa;A54;;Santiago de Compostela;espga.a054
 espa;A55;;;espga.a055
+espa;A56;;;espga.a056
 espa;A58;;;espex.a058
 espa;A60;;Villanubla;espcl.a060vil
 espa;A60;;Villarente;espcl.a060
 espa;AP61;;;espcl.ap061
 espa;A62;;;espcl.a062
-espa;A63;;;espas.a063
+espa;A63;;Oviedo;espas.a063
+espa;A63;;Salas;espas.a063sal
 espa;A64;;;espas.a064
 espa;A65;;;espcl.a065
 espa;A66;;Oviedo;espas.a066
@@ -103,7 +102,8 @@ espa;A68;;Zaragoza;espar.a068
 espa;AP68;;;esppv.ap068,espcl.ap068,espri.ap068,espnc.ap068sar,espri.ap068cal,espnc.ap068,espar.ap068
 espa;A70;;;espvc.a070
 espa;AP71;;;espcl.ap071
-espa;A73;;;espcl.a073
+espa;A73;;Quintanoartuno;espcl.a073
+espa;A73;;Quintanas de Valdelucio;espcl.a073qui
 espa;A75;;;espga.a075
 espa;A77;;;espvc.a077
 espa;A91;;;espmc.a091
@@ -117,6 +117,7 @@ espa;AC14;;;espga.ac014
 espa;AC15;;;espga.ac015
 espa;AG11;;;espga.ag011
 espa;AG13;;;espga.ag013
+espa;AG22;;;espga.ag022
 espa;AG31;;;espga.ag031
 espa;AG41;;;espga.ag041
 espa;AG46;;;espga.ag046
@@ -146,8 +147,6 @@ espa;B30;;;espct.b030
 espa;B40;;Abrera;espct.b040abr
 espa;B40;;Terrassa;espct.b040
 espa;B40;;La Roca de Valles;espct.b040roc
-espa;BI10;;;esppv.bi010
-espa;BI30;;;esppv.bi030
 espa;BU11;;;espcl.bu011
 espa;BU30;;;espcl.bu030
 espa;CA31;;;espan.ca031
@@ -165,6 +164,7 @@ espa;CT34;;;espmc.ct034
 espa;EL20;;;espvc.el020
 espa;EXA1;;;espex.exa001
 espa;EXA2;;;espex.exa002
+espa;EXC1;;;espex.exc001
 espa;FE11;;;espga.fe011
 espa;FE12;;;espga.fe012
 espa;FE13;;;espga.fe013
@@ -173,6 +173,7 @@ espa;GJ81;;;espas.gj081
 espa;GR14;;;espan.gr014
 espa;GR16;;;espan.gr016
 espa;GR30;;;espan.gr030
+espa;GR43;;;espan.gr043
 espa;H30;;;espan.h030
 espa;H31;;;espan.h031
 espa;LE11;;;espcl.le011
@@ -198,7 +199,8 @@ espa;MA20;;;espan.ma020
 espa;MA21;;;espan.ma021
 espa;MA23;;;espan.ma023
 espa;MA24;;;espan.ma024
-espa;MU30;;;espmc.mu030
+espa;MU30;;Murcia;espmc.mu030
+espa;MU30;;Torreaguera;espmc.mu030tor
 espa;MU31;;;espmc.mu031
 espa;O11;;;espas.o011
 espa;O12;;;espas.o012
@@ -220,6 +222,7 @@ espa;SC21;;;espga.sc021
 espa;SE30;;;espan.se030
 espa;SE40;;Alcala de Guadaira;espan.se040
 espa;SE40;;Coria del Rio;espan.se040cor
+espa;SG20;;;espcl.sg020
 espa;SO20;;;espcl.so020
 espa;T11;;;espct.t011
 espa;TO21;;;espcm.to021

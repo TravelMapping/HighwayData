@@ -40,30 +40,30 @@ AR128_E http://www.openstreetmap.org/?lat=34.556132&lon=-92.810907
 AR88_E http://www.openstreetmap.org/?lat=34.550504&lon=-92.788811
 I-30(111) http://www.openstreetmap.org/?lat=34.533947&lon=-92.676748
 I-30(114) http://www.openstreetmap.org/?lat=34.545007&lon=-92.631011
-I-30(116) http://www.openstreetmap.org/?lat=34.564875&lon=-92.603014
+I-30(116) http://www.openstreetmap.org/?lat=34.561332&lon=-92.612123
+I-30(116A) http://www.openstreetmap.org/?lat=34.564875&lon=-92.603014
 I-30(117) http://www.openstreetmap.org/?lat=34.572883&lon=-92.590982
 I-30(118) http://www.openstreetmap.org/?lat=34.586898&lon=-92.568510
 I-30(121) http://www.openstreetmap.org/?lat=34.605661&lon=-92.534575
 I-30(123) http://www.openstreetmap.org/?lat=34.618827&lon=-92.498242
 I-30(126) http://www.openstreetmap.org/?lat=34.640693&lon=-92.444641
 I-30(128) http://www.openstreetmap.org/?lat=34.656055&lon=-92.409466
-I-30(129) http://www.openstreetmap.org/?lat=34.661805&lon=-92.402444
-I-30(130) http://www.openstreetmap.org/?lat=34.670201&lon=-92.380353
-I-30(131) http://www.openstreetmap.org/?lat=34.677816&lon=-92.360940
-I-30(132) http://www.openstreetmap.org/?lat=34.679024&lon=-92.354197
-I-30(133) http://www.openstreetmap.org/?lat=34.678862&lon=-92.343805
-I-30(134) http://www.openstreetmap.org/?lat=34.679236&lon=-92.319430
-I-30(135) http://www.openstreetmap.org/?lat=34.689051&lon=-92.305825
-+x30(137) http://www.openstreetmap.org/?lat=34.704470&lon=-92.293653
-I-30(138) http://www.openstreetmap.org/?lat=34.710856&lon=-92.270994
-I-30(139A) http://www.openstreetmap.org/?lat=34.723912&lon=-92.266938
-I-30(139B) http://www.openstreetmap.org/?lat=34.733924&lon=-92.261853
-I-30(140A) http://www.openstreetmap.org/?lat=34.739505&lon=-92.262336
-I-30(140B) http://www.openstreetmap.org/?lat=34.742071&lon=-92.262894
-I-30(141A) http://www.openstreetmap.org/?lat=34.746175&lon=-92.262888
-I-30(141B) http://www.openstreetmap.org/?lat=34.755978&lon=-92.262363
+I-30(129) +I-30(132) http://www.openstreetmap.org/?lat=34.661805&lon=-92.402444
+I-430(128) http://www.openstreetmap.org/?lat=34.664495&lon=-92.403635
+I-430(1) http://www.openstreetmap.org/?lat=34.679060&lon=-92.406671
+AR300 http://www.openstreetmap.org/?lat=34.709699&lon=-92.378868
+36thSt http://www.openstreetmap.org/?lat=34.717958&lon=-92.352491
+UniAve +AR5 +US70_W http://www.openstreetmap.org/?lat=34.717620&lon=-92.342249
+AshAve http://www.openstreetmap.org/?lat=34.725795&lon=-92.318265
+AR367 http://www.openstreetmap.org/?lat=34.724507&lon=-92.280178
+AR365_S http://www.openstreetmap.org/?lat=34.724419&lon=-92.278826
+I-630 http://www.openstreetmap.org/?lat=34.739281&lon=-92.276975
+AR10 http://www.openstreetmap.org/?lat=34.749851&lon=-92.274878
+AR365_N http://www.openstreetmap.org/?lat=34.756511&lon=-92.273569
+MainSt +MainSt_Lit http://www.openstreetmap.org/?lat=34.756140&lon=-92.268462
+I-30(141B) +US70_E http://www.openstreetmap.org/?lat=34.755978&lon=-92.262363
 US165 http://www.openstreetmap.org/?lat=34.754342&lon=-92.220697
-AR161 http://www.openstreetmap.org/?lat=34.766938&lon=-92.199470
+JacHwy http://www.openstreetmap.org/?lat=34.766938&lon=-92.199470
 I-440 http://www.openstreetmap.org/?lat=34.771018&lon=-92.161860
 AR391_N http://www.openstreetmap.org/?lat=34.777831&lon=-92.128708
 AR391_S http://www.openstreetmap.org/?lat=34.777602&lon=-92.128193
@@ -95,7 +95,7 @@ AR78 http://www.openstreetmap.org/?lat=34.912214&lon=-91.107302
 AR259 http://www.openstreetmap.org/?lat=34.945658&lon=-90.995695
 AR261 http://www.openstreetmap.org/?lat=34.969021&lon=-90.906565
 AR1 http://www.openstreetmap.org/?lat=34.994167&lon=-90.817586
-AR1B +AR1Bus http://www.openstreetmap.org/?lat=35.009229&lon=-90.785249
+AR1B http://www.openstreetmap.org/?lat=35.009229&lon=-90.785249
 AR50_W http://www.openstreetmap.org/?lat=35.016273&lon=-90.726128
 AR38_W http://www.openstreetmap.org/?lat=35.051843&lon=-90.689720
 AR75_S http://www.openstreetmap.org/?lat=35.094767&lon=-90.612589
@@ -103,6 +103,7 @@ AR75_N +AR75 http://www.openstreetmap.org/?lat=35.117403&lon=-90.548029
 AR149_S http://www.openstreetmap.org/?lat=35.129395&lon=-90.488596
 AR149_N http://www.openstreetmap.org/?lat=35.129544&lon=-90.485195
 AR357 http://www.openstreetmap.org/?lat=35.130772&lon=-90.458604
++X375343 http://www.openstreetmap.org/?lat=35.132663&lon=-90.436350
 US79/218 http://www.openstreetmap.org/?lat=35.148231&lon=-90.400486
 AR50_E http://www.openstreetmap.org/?lat=35.147675&lon=-90.328297
 AR147 http://www.openstreetmap.org/?lat=35.147420&lon=-90.292790

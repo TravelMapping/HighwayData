@@ -10,7 +10,7 @@ WY89_S http://www.openstreetmap.org/?lat=41.815586&lon=-110.982696
 +X05 http://www.openstreetmap.org/?lat=41.825566&lon=-110.919352
 CR209 http://www.openstreetmap.org/?lat=41.824597&lon=-110.825568
 FosButRd http://www.openstreetmap.org/?lat=41.815932&lon=-110.719598
-CR328 +TwinCreRd http://www.openstreetmap.org/?lat=41.809605&lon=-110.687626
+CR328 http://www.openstreetmap.org/?lat=41.809605&lon=-110.687626
 +X06 http://www.openstreetmap.org/?lat=41.815338&lon=-110.631123
 US30Byp http://www.openstreetmap.org/?lat=41.792486&lon=-110.577001
 HamsForkDr http://www.openstreetmap.org/?lat=41.800286&lon=-110.559188
@@ -36,7 +36,7 @@ CR323 http://www.openstreetmap.org/?lat=41.791031&lon=-110.266286
 +X15 http://www.openstreetmap.org/?lat=41.636663&lon=-110.026343
 CR16 http://www.openstreetmap.org/?lat=41.612391&lon=-109.979735
 WY375 http://www.openstreetmap.org/?lat=41.601131&lon=-109.954369
-CR2 +LitAmeRd http://www.openstreetmap.org/?lat=41.568548&lon=-109.938717
+CR2 http://www.openstreetmap.org/?lat=41.568548&lon=-109.938717
 WY374 http://www.openstreetmap.org/?lat=41.551065&lon=-109.918921
 I-80(66) http://www.openstreetmap.org/?lat=41.544240&lon=-109.911175
 I-80(68) http://www.openstreetmap.org/?lat=41.542329&lon=-109.857381
@@ -56,7 +56,7 @@ I-80(102) http://www.openstreetmap.org/?lat=41.579369&lon=-109.256115
 I-80(103) http://www.openstreetmap.org/?lat=41.597473&lon=-109.242125
 I-80(104) http://www.openstreetmap.org/?lat=41.607613&lon=-109.229593
 +I-80(X11) http://www.openstreetmap.org/?lat=41.610052&lon=-109.216976
-I-80(106) http://www.openstreetmap.org/?lat=41.594367&lon=-109.197316
+I-80(107) +I-80(106) http://www.openstreetmap.org/?lat=41.594367&lon=-109.197316
 +I-80(X12) http://www.openstreetmap.org/?lat=41.596767&lon=-109.160070
 I-80(111) http://www.openstreetmap.org/?lat=41.613004&lon=-109.127369
 +I-80(X13) http://www.openstreetmap.org/?lat=41.668616&lon=-108.958797
@@ -72,12 +72,12 @@ I-80(142) http://www.openstreetmap.org/?lat=41.645338&lon=-108.576593
 I-80(146) http://www.openstreetmap.org/?lat=41.640078&lon=-108.486471
 I-80(150) http://www.openstreetmap.org/?lat=41.635460&lon=-108.410511
 I-80(152) http://www.openstreetmap.org/?lat=41.633407&lon=-108.378754
-I-80(154) http://www.openstreetmap.org/?lat=41.631675&lon=-108.347940
+*I-80(154) http://www.openstreetmap.org/?lat=41.631675&lon=-108.347940
 I-80(156) http://www.openstreetmap.org/?lat=41.630392&lon=-108.310003
 I-80(158) http://www.openstreetmap.org/?lat=41.633760&lon=-108.261852
 I-80(165) http://www.openstreetmap.org/?lat=41.651655&lon=-108.128343
-I-80(166) http://www.openstreetmap.org/?lat=41.655824&lon=-108.103065
-I-80(168) http://www.openstreetmap.org/?lat=41.661082&lon=-108.064656
+*I-80(166) http://www.openstreetmap.org/?lat=41.655824&lon=-108.103065
+*I-80(168) http://www.openstreetmap.org/?lat=41.661082&lon=-108.064656
 I-80(170) http://www.openstreetmap.org/?lat=41.665474&lon=-108.031611
 I-80(173) http://www.openstreetmap.org/?lat=41.674611&lon=-107.980628
 +I-80(X18) http://www.openstreetmap.org/?lat=41.704575&lon=-107.895355
@@ -91,7 +91,9 @@ I-80(204) http://www.openstreetmap.org/?lat=41.785329&lon=-107.410583
 I-80(206) http://www.openstreetmap.org/?lat=41.786865&lon=-107.371960
 I-80(209) http://www.openstreetmap.org/?lat=41.776689&lon=-107.311277
 I-80(211) http://www.openstreetmap.org/?lat=41.781817&lon=-107.267268
-+I-80(X201) http://www.openstreetmap.org/?lat=41.778537&lon=-107.248605
++I-80(X203) http://www.openstreetmap.org/?lat=41.782177&lon=-107.261329
++I-80(X204) http://www.openstreetmap.org/?lat=41.778425&lon=-107.247838
++I-80(X201) http://www.openstreetmap.org/?lat=41.777785&lon=-107.229593
 I-80(214) http://www.openstreetmap.org/?lat=41.778321&lon=-107.224524
 I-80(215) http://www.openstreetmap.org/?lat=41.789137&lon=-107.200470
 I-80(219) http://www.openstreetmap.org/?lat=41.779057&lon=-107.124853
@@ -114,6 +116,7 @@ CR121 http://www.openstreetmap.org/?lat=41.897960&lon=-106.251745
 WY487 http://www.openstreetmap.org/?lat=41.895645&lon=-106.204786
 +X20 http://www.openstreetmap.org/?lat=41.895827&lon=-106.185458
 +X21 http://www.openstreetmap.org/?lat=41.866325&lon=-106.112607
+FosCab http://www.openstreetmap.org/?lat=41.864774&lon=-106.073062
 +X22 http://www.openstreetmap.org/?lat=41.863138&lon=-106.064317
 CR610 http://www.openstreetmap.org/?lat=41.823373&lon=-106.004506
 +X23 http://www.openstreetmap.org/?lat=41.808651&lon=-105.986616
@@ -154,7 +157,9 @@ I-25 +I-25(9)/87 http://www.openstreetmap.org/?lat=41.118341&lon=-104.851010
 MisDr http://www.openstreetmap.org/?lat=41.128218&lon=-104.827459
 I-180 +I-180/85 http://www.openstreetmap.org/?lat=41.133368&lon=-104.813624
 MorAve http://www.openstreetmap.org/?lat=41.136915&lon=-104.804125
+Nat http://www.openstreetmap.org/?lat=41.136403&lon=-104.7983175
 LogAve http://www.openstreetmap.org/?lat=41.138178&lon=-104.795199
+RidRd http://www.openstreetmap.org/?lat=41.138555&lon=-104.768536
 WY212 http://www.openstreetmap.org/?lat=41.141530&lon=-104.761248
 DellRanBlvd http://www.openstreetmap.org/?lat=41.159639&lon=-104.716879
 I-80SerRd_W http://www.openstreetmap.org/?lat=41.159285&lon=-104.655843
@@ -166,6 +171,6 @@ I-80(391) http://www.openstreetmap.org/?lat=41.158689&lon=-104.253902
 +I-80(X43) http://www.openstreetmap.org/?lat=41.149900&lon=-104.120865
 I-80(401) http://www.openstreetmap.org/?lat=41.175779&lon=-104.075771
 WY215_N +WY215 http://www.openstreetmap.org/?lat=41.176716&lon=-104.075804
-I-80SerRd_E +I-80SerRd http://www.openstreetmap.org/?lat=41.180200&lon=-104.075758
+I-80SerRd_E http://www.openstreetmap.org/?lat=41.180200&lon=-104.075758
 MainSt http://www.openstreetmap.org/?lat=41.183643&lon=-104.068208
 WY/NE http://www.openstreetmap.org/?lat=41.185857&lon=-104.052715
