@@ -33,7 +33,7 @@ SCT/ENG http://www.openstreetmap.org/?lat=54.994887&lon=-3.052461
 +M6(X23) http://www.openstreetmap.org/?lat=53.925166&lon=-2.758942
 +M6(X22) http://www.openstreetmap.org/?lat=53.864473&lon=-2.742119
 32(M6) http://www.openstreetmap.org/?lat=53.807506&lon=-2.698431
-31a(M6) http://www.openstreetmap.org/?lat=53.788889&lon=-2.658348
+31A(M6) http://www.openstreetmap.org/?lat=53.788889&lon=-2.658348
 31(M6) http://www.openstreetmap.org/?lat=53.765101&lon=-2.636032
 30(M6) http://www.openstreetmap.org/?lat=53.735360&lon=-2.648520
 29a(M6) http://www.openstreetmap.org/?lat=53.718933&lon=-2.656889
@@ -48,7 +48,7 @@ SCT/ENG http://www.openstreetmap.org/?lat=54.994887&lon=-3.052461
 24(M6) http://www.openstreetmap.org/?lat=53.486654&lon=-2.652683
 23(M6) http://www.openstreetmap.org/?lat=53.471190&lon=-2.633629
 22(M6) http://www.openstreetmap.org/?lat=53.439963&lon=-2.583933
-21a(M6) http://www.openstreetmap.org/?lat=53.426048&lon=-2.556167
+21A(M6) http://www.openstreetmap.org/?lat=53.426048&lon=-2.556167
 21(M6) http://www.openstreetmap.org/?lat=53.397712&lon=-2.509947
 20a(M6) http://www.openstreetmap.org/?lat=53.360438&lon=-2.509131
 20(M6) http://www.openstreetmap.org/?lat=53.352588&lon=-2.502952
@@ -85,10 +85,10 @@ T4(M6Toll) http://www.openstreetmap.org/?lat=52.639313&lon=-1.812615
 T3a(M6Toll) http://www.openstreetmap.org/?lat=52.580353&lon=-1.782768
 T3(M6Toll) http://www.openstreetmap.org/?lat=52.568030&lon=-1.770322
 T2(M6Toll) http://www.openstreetmap.org/?lat=52.551358&lon=-1.736387
-T1a(M6Toll) http://www.openstreetmap.org/?lat=52.538635&lon=-1.729553
-T1(M6Toll) T1(M6T) http://www.openstreetmap.org/?lat=52.533114&lon=-1.729574
-M6Toll/M42 http://www.openstreetmap.org/?lat=52.508830&lon=-1.726549
-7a(M42) http://www.openstreetmap.org/?lat=52.485420&lon=-1.711764
+T1(M6Toll) http://www.openstreetmap.org/?lat=52.538635&lon=-1.729553
+M6Toll/M42 +T1(M6T) http://www.openstreetmap.org/?lat=52.533114&lon=-1.729574
+8(M42) http://www.openstreetmap.org/?lat=52.508830&lon=-1.726549
+7A(M42) http://www.openstreetmap.org/?lat=52.485420&lon=-1.711764
 7(M42) http://www.openstreetmap.org/?lat=52.477452&lon=-1.710670
 6(M42) http://www.openstreetmap.org/?lat=52.445181&lon=-1.709833
 +M42(X02) http://www.openstreetmap.org/?lat=52.410914&lon=-1.730626
@@ -101,7 +101,7 @@ M40/M42 http://www.openstreetmap.org/?lat=52.348711&lon=-1.809654
 15(M40) http://www.openstreetmap.org/?lat=52.260094&lon=-1.613574
 14(M40) http://www.openstreetmap.org/?lat=52.256627&lon=-1.587138
 13(M40) http://www.openstreetmap.org/?lat=52.240967&lon=-1.554222
-12(M40) http://www.openstreetmap.org/?lat=52.192824&lon=-1.459293
+12(M40) http://www.openstreetmap.org/?lat=52.192792&lon=-1.459175
 +M40(X16) http://www.openstreetmap.org/?lat=52.141179&lon=-1.411915
 +M40(X15) http://www.openstreetmap.org/?lat=52.129062&lon=-1.388741
 11(M40) http://www.openstreetmap.org/?lat=52.072754&lon=-1.313381
@@ -111,8 +111,8 @@ M40/M42 http://www.openstreetmap.org/?lat=52.348711&lon=-1.809654
 +M40(X11) http://www.openstreetmap.org/?lat=51.961827&lon=-1.222057
 10(M40) http://www.openstreetmap.org/?lat=51.948339&lon=-1.205063
 M40/A34 http://www.openstreetmap.org/?lat=51.868781&lon=-1.198454
-B430 http://www.openstreetmap.org/?lat=51.856236&lon=-1.219131
-B4027 http://www.openstreetmap.org/?lat=51.838206&lon=-1.246222
+B430 http://www.openstreetmap.org/?lat=51.856159&lon=-1.218935
+B4027 http://www.openstreetmap.org/?lat=51.838055&lon=-1.246052
 BicRd http://www.openstreetmap.org/?lat=51.825357&lon=-1.261875
 A44 http://www.openstreetmap.org/?lat=51.794620&lon=-1.285882
 +A34(X12) http://www.openstreetmap.org/?lat=51.779577&lon=-1.303768

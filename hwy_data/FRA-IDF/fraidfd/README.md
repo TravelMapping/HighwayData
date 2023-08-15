@@ -1,6 +1,6 @@
 ﻿**FORUM THREAD:**
 - http://forum.travelmapping.net/index.php?topic=2976
-
+- http://forum.travelmapping.net/index.php?topic=3568
 
 **DEPARTMENT BORDER LABELS AND SOURCES:**
 FRA-75 = `Par` = Paris does not have a D route network
@@ -46,7 +46,6 @@ FRA-95 = `VdO` = Val-d'Oise
 
 *FRA-92 - Hauts-de-Seine:*
 - wikisara overview is very incomplete, route articles exist for more routes, added everything that is confirmed by OSM and GM or GSV
-- `D4` routing not clear
 - `D13` is not indicated on OSM but on GM and GSV
 - `D913` extension not drafted (in HB as `N1013`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
 - `D992` extension not drafted (in HB as `N192`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
@@ -65,6 +64,3 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D9E` is indicated on OSM and GM but it's missing on wikisara and I couldn't find anything on GSV, added though
 - `D23` is not signed but there is a SSD sign at junction with `D311`, in HB as `D234(93)`
 - `D84B` not drafted since it's not indicated anywhere except of wikisara. It should end halfway between `B84B` and `D84`
-
-**TODO:**
-- Check wikisara `Liste des anciennes routes départementales` Yvelines

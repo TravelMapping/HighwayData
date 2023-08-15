@@ -9,7 +9,7 @@ CarRd http://www.openstreetmap.org/?lat=39.870354&lon=-74.733271
 NJ70 http://www.openstreetmap.org/?lat=39.887156&lon=-74.741026
 RidRd http://www.openstreetmap.org/?lat=39.905860&lon=-74.740224
 BudRd http://www.openstreetmap.org/?lat=39.933143&lon=-74.742731
-NMainSt http://www.openstreetmap.org/?lat=39.952303&lon=-74.744183
+MainSt http://www.openstreetmap.org/?lat=39.952303&lon=-74.744183
 NJ38 http://www.openstreetmap.org/?lat=39.969825&lon=-74.735366
 NPemRd http://www.openstreetmap.org/?lat=39.997196&lon=-74.733869
 CR537 http://www.openstreetmap.org/?lat=40.017794&lon=-74.732850
@@ -17,7 +17,7 @@ JacJobRd http://www.openstreetmap.org/?lat=40.039035&lon=-74.728087
 CR543 http://www.openstreetmap.org/?lat=40.072844&lon=-74.722127
 HedRd http://www.openstreetmap.org/?lat=40.079875&lon=-74.718259
 NJ68 http://www.openstreetmap.org/?lat=40.113545&lon=-74.706194
-OldYorkRd_W http://www.openstreetmap.org/?lat=40.119772&lon=-74.706664
+ConRd +OldYorkRd_W http://www.openstreetmap.org/?lat=40.121164&lon=-74.706696
 I-95 http://www.openstreetmap.org/?lat=40.123944&lon=-74.706468
 DunMillRd http://www.openstreetmap.org/?lat=40.127958&lon=-74.705642
 CR545 http://www.openstreetmap.org/?lat=40.136249&lon=-74.704129
@@ -49,9 +49,11 @@ CR518 http://www.openstreetmap.org/?lat=40.403066&lon=-74.649576
 CR533_N http://www.openstreetmap.org/?lat=40.416843&lon=-74.652537
 SunRd http://www.openstreetmap.org/?lat=40.439068&lon=-74.661887
 BelGriRd http://www.openstreetmap.org/?lat=40.459228&lon=-74.658231
-BlaRd http://www.openstreetmap.org/?lat=40.467703&lon=-74.662563
+TreAve +BlaRd http://www.openstreetmap.org/?lat=40.466884&lon=-74.662812
+US206Byp_S http://www.openstreetmap.org/?lat=40.478040&lon=-74.655340
 CR514 http://www.openstreetmap.org/?lat=40.502332&lon=-74.644729
-TriRd http://www.openstreetmap.org/?lat=40.517810&lon=-74.631742
+US206Byp_N http://www.openstreetmap.org/?lat=40.508672&lon=-74.633810
+TriRd http://www.openstreetmap.org/?lat=40.517792&lon=-74.631688
 DukPkwyW http://www.openstreetmap.org/?lat=40.547832&lon=-74.614278
 DukPkwyE http://www.openstreetmap.org/?lat=40.554505&lon=-74.615423
 SomSt http://www.openstreetmap.org/?lat=40.569653&lon=-74.625621
@@ -62,12 +64,12 @@ I-287(17) http://www.openstreetmap.org/?lat=40.594649&lon=-74.623022
 FooRd http://www.openstreetmap.org/?lat=40.613877&lon=-74.625857
 WasValRd http://www.openstreetmap.org/?lat=40.646656&lon=-74.640134
 I-287(22) http://www.openstreetmap.org/?lat=40.657879&lon=-74.644522
+ATTWay http://www.openstreetmap.org/?lat=40.664967&lon=-74.644002
 US202_N http://www.openstreetmap.org/?lat=40.672869&lon=-74.645029
 CR523 http://www.openstreetmap.org/?lat=40.679187&lon=-74.649879
-SkiHillDr http://www.openstreetmap.org/?lat=40.691875&lon=-74.659063
 PfiWay http://www.openstreetmap.org/?lat=40.708854&lon=-74.663987
 CR512 http://www.openstreetmap.org/?lat=40.719304&lon=-74.678375
-FoxChaLn http://www.openstreetmap.org/?lat=40.744865&lon=-74.694312
+FoxChaRd +FoxChaLn http://www.openstreetmap.org/?lat=40.744865&lon=-74.694312
 CR513 http://www.openstreetmap.org/?lat=40.783515&lon=-74.698298
 4BriRd http://www.openstreetmap.org/?lat=40.803403&lon=-74.714372
 FlaBarRd http://www.openstreetmap.org/?lat=40.832846&lon=-74.709367
@@ -84,7 +86,7 @@ CR517_S http://www.openstreetmap.org/?lat=40.985782&lon=-74.742005
 CR517_N http://www.openstreetmap.org/?lat=40.987708&lon=-74.742321
 LimRd http://www.openstreetmap.org/?lat=40.996059&lon=-74.743587
 BriRd http://www.openstreetmap.org/?lat=41.009012&lon=-74.758825
-FreSprRd http://www.openstreetmap.org/?lat=41.020366&lon=-74.769256
+FreRd +FreSprRd http://www.openstreetmap.org/?lat=41.020366&lon=-74.769256
 WooAve http://www.openstreetmap.org/?lat=41.046344&lon=-74.756539
 NJ94/519 http://www.openstreetmap.org/?lat=41.058189&lon=-74.753138
 CR519_N http://www.openstreetmap.org/?lat=41.059754&lon=-74.752782
@@ -92,9 +94,9 @@ NJ94_N http://www.openstreetmap.org/?lat=41.087448&lon=-74.731394
 HalRd http://www.openstreetmap.org/?lat=41.094301&lon=-74.731936
 NJ15 http://www.openstreetmap.org/?lat=41.120362&lon=-74.713106
 CR519 http://www.openstreetmap.org/?lat=41.141342&lon=-74.746444
-UniTpk http://www.openstreetmap.org/?lat=41.157790&lon=-74.783641
+OldUniTpk http://www.openstreetmap.org/?lat=41.157790&lon=-74.783641
 CR521_S http://www.openstreetmap.org/?lat=41.168678&lon=-74.792111
-UpNShoRd http://www.openstreetmap.org/?lat=41.177162&lon=-74.791317
+UppNSRd http://www.openstreetmap.org/?lat=41.177162&lon=-74.791317
 CR560 http://www.openstreetmap.org/?lat=41.198070&lon=-74.802872
 DegRd http://www.openstreetmap.org/?lat=41.251905&lon=-74.800957
 CloRd http://www.openstreetmap.org/?lat=41.290905&lon=-74.790684

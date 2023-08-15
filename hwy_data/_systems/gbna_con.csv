@@ -23,7 +23,6 @@ gbna;A11;;Norwich;eng.a0011
 gbna;A12;;;eng.a0012
 gbna;A13;;;eng.a0013
 gbna;A14;;;eng.a0014
-gbna;A14;;Huntingdon (spur);eng.a0014hun
 gbna;A15;;;eng.a0015
 gbna;A15;;Peterborough (spur);eng.a0015pet
 gbna;A16;;;eng.a0016
@@ -67,6 +66,7 @@ gbna;A41;;Birmingham;eng.a0041
 gbna;A42;;;eng.a0042
 gbna;A43;;;eng.a0043
 gbna;A44;;;eng.a0044,wls.a0044
+gbna;A44;;Chipping Norton (loop);eng.a0044chi
 gbna;A44;;Whittington (spur);eng.a0044whi
 gbna;A45;;;eng.a0045
 gbna;A46;;Stroud;eng.a0046str
@@ -114,6 +114,7 @@ gbna;A79;;;sct.a0079
 gbna;A80;;;sct.a0080
 gbna;A81;;;sct.a0081
 gbna;A82;;;sct.a0082
+gbna;A82;;Torvean (spur);sct.a0082tor
 gbna;A83;;;sct.a0083
 gbna;A84;;;sct.a0084
 gbna;A85;;;sct.a0085
@@ -134,7 +135,8 @@ gbna;A98;;;sct.a0098
 gbna;A99;;;sct.a0099
 gbna;A100;;;eng.a0100
 gbna;A101;;;eng.a0101
-gbna;A102;;;eng.a0102
+gbna;A102;;Homerton;eng.a0102hom
+gbna;A102;;Blackwall;eng.a0102
 gbna;A103;;;eng.a0103
 gbna;A104;;;eng.a0104
 gbna;A105;;;eng.a0105
@@ -294,7 +296,8 @@ gbna;A255;;;eng.a0255
 gbna;A256;;;eng.a0256
 gbna;A257;;;eng.a0257
 gbna;A258;;;eng.a0258
-gbna;A259;;;eng.a0259
+gbna;A259;;(main);eng.a0259
+gbna;A259;;Eastbourne (loop);eng.a0259eas
 gbna;A260;;;eng.a0260
 gbna;A261;;;eng.a0261
 gbna;A262;;;eng.a0262
@@ -336,9 +339,11 @@ gbna;A302;;;eng.a0302
 gbna;A303;;;eng.a0303
 gbna;A304;;;eng.a0304
 gbna;A305;;;eng.a0305
-gbna;A306;;;eng.a0306
+gbna;A306;;Barnes;eng.a0306
+gbna;A306;;Hammersmith;eng.a0306ham
 gbna;A307;;;eng.a0307
-gbna;A308;;;eng.a0308
+gbna;A308;;Fulham;eng.a0308ful
+gbna;A308;;Staines-upon-Thames;eng.a0308
 gbna;A309;;Thames Ditton;eng.a0309
 gbna;A309;;Teddington;eng.a0309ted
 gbna;A310;;;eng.a0310
@@ -453,7 +458,8 @@ gbna;A407;;;eng.a0407
 gbna;A408;;;eng.a0408
 gbna;A409;;;eng.a0409
 gbna;A410;;;eng.a0410
-gbna;A411;;;eng.a0411
+gbna;A411;;(main);eng.a0411
+gbna;A411;;Watford (loop);eng.a0411wat
 gbna;A412;;;eng.a0412
 gbna;A413;;;eng.a0413
 gbna;A414;;;eng.a0414
@@ -462,11 +468,11 @@ gbna;A416;;;eng.a0416
 gbna;A417;;;eng.a0417
 gbna;A417;;Gloucester (spur);eng.a0417glo
 gbna;A418;;;eng.a0418
+gbna;A418;;Kingsbrook (spur);eng.a0418kin
 gbna;A419;;;eng.a0419
 gbna;A420;;Oxford;eng.a0420
 gbna;A420;;Bristol;eng.a0420bri
 gbna;A421;;;eng.a0421
-gbna;A421;;Milton Keynes (spur);eng.a0421mil
 gbna;A422;;;eng.a0422
 gbna;A423;;Oxford;eng.a0423oxf
 gbna;A423;;Banbury;eng.a0423
@@ -507,9 +513,12 @@ gbna;A454;;;eng.a0454
 gbna;A456;;;eng.a0456
 gbna;A457;;;eng.a0457
 gbna;A458;;Stourbridge;eng.a0458
+gbna;A458;;Stourbridge (loop);eng.a0458sto
 gbna;A458;;Welshpool;eng.a0458she,wls.a0458
 gbna;A459;;;eng.a0459
+gbna;A459;;Halesowen (spur);eng.a0459hal
 gbna;A460;;;eng.a0460
+gbna;A460;;Rugeley (spur);eng.a0460rug
 gbna;A461;;;eng.a0461
 gbna;A462;;;eng.a0462
 gbna;A463;;;eng.a0463
@@ -519,6 +528,7 @@ gbna;A466;;;wls.a0466,eng.a0466red,wls.a0466mon,eng.a0466
 gbna;A467;;;wls.a0467
 gbna;A468;;;wls.a0468
 gbna;A469;;;wls.a0469
+gbna;A469;;Pengam;wls.a0469pen
 gbna;A470;;Butetown;wls.a0470but
 gbna;A470;;;wls.a0470
 gbna;A472;;;wls.a0472
@@ -538,10 +548,11 @@ gbna;A484;;;wls.a0484
 gbna;A485;;;wls.a0485
 gbna;A486;;;wls.a0486
 gbna;A487;;;wls.a0487
-gbna;A487;;;wls.a0488,eng.a0488bis,wls.a0488bis,eng.a0488
+gbna;A488;;;wls.a0488,eng.a0488bis,wls.a0488bis,eng.a0488
 gbna;A489;;;wls.a0489,eng.a0489pen,wls.a0489chu,eng.a0489
 gbna;A490;;;wls.a0490chu,eng.a0490,wls.a0490
-gbna;A491;;;eng.a0491
+gbna;A491;;(main);eng.a0491
+gbna;A491;;Stourbridge (loop);eng.a0491sto
 gbna;A493;;;wls.a0493
 gbna;A494;;;wls.a0494,eng.a0494
 gbna;A495;;;wls.a0495,eng.a0495,wls.a0495bro
@@ -555,6 +566,7 @@ gbna;A502;;;eng.a0502
 gbna;A503;;;eng.a0503
 gbna;A504;;;eng.a0504
 gbna;A505;;;eng.a0505
+gbna;A505;;Thorn (spur);eng.a0505tho
 gbna;A506;;;eng.a0506
 gbna;A507;;;eng.a0507
 gbna;A508;;;eng.a0508
@@ -575,7 +587,7 @@ gbna;A521;;;eng.a0521
 gbna;A522;;;eng.a0522
 gbna;A523;;;eng.a0523
 gbna;A525;;St. Asaph;wls.a0525
-gbna;A525;;Whitchurch;wls.a0525wre,eng.a0525
+gbna;A525;;Whitchurch;wls.a0525whi,eng.a0525
 gbna;A526;;;eng.a0526
 gbna;A527;;;eng.a0527
 gbna;A528;;;eng.a0528,wls.a0528
@@ -633,7 +645,8 @@ gbna;A578;;;eng.a0578
 gbna;A579;;;eng.a0579
 gbna;A580;;;eng.a0580
 gbna;A581;;;eng.a0581
-gbna;A582;;;eng.a0582
+gbna;A582;;Penwortham;eng.a0582
+gbna;A582;;Cottam;eng.a0582cot
 gbna;A583;;;eng.a0583
 gbna;A584;;;eng.a0584
 gbna;A585;;;eng.a0585
@@ -703,6 +716,7 @@ gbna;A646;;;eng.a0646
 gbna;A647;;;eng.a0647
 gbna;A649;;;eng.a0649
 gbna;A650;;;eng.a0650
+gbna;A650;;Manningham (spur);eng.a0650man
 gbna;A651;;;eng.a0651
 gbna;A652;;;eng.a0652
 gbna;A653;;;eng.a0653
@@ -914,7 +928,8 @@ gbna;A916;;;sct.a0916
 gbna;A917;;;sct.a0917
 gbna;A918;;;sct.a0918
 gbna;A919;;;sct.a0919
-gbna;A920;;;sct.a0920
+gbna;A920;;Huntley;sct.a0920hun
+gbna;A920;;Oldmeldrum;sct.a0920
 gbna;A921;;;sct.a0921
 gbna;A922;;;sct.a0922
 gbna;A923;;;sct.a0923
@@ -934,7 +949,6 @@ gbna;A940;;;sct.a0940
 gbna;A941;;;sct.a0941
 gbna;A942;;;sct.a0942
 gbna;A944;;;sct.a0944
-gbna;A945;;;sct.a0945
 gbna;A947;;;sct.a0947
 gbna;A948;;;sct.a0948
 gbna;A949;;;sct.a0949
@@ -963,7 +977,6 @@ gbna;A971;;Walls (spur);sct.a0971wal
 gbna;A972;;;sct.a0972
 gbna;A975;;;sct.a0975
 gbna;A977;;;sct.a0977
-gbna;A978;;;sct.a0978
 gbna;A980;;;sct.a0980
 gbna;A981;;;sct.a0981
 gbna;A982;;;sct.a0982
@@ -1138,7 +1151,9 @@ gbna;A1206;;;eng.a1206
 gbna;A1207;;;eng.a1207
 gbna;A1208;;;eng.a1208
 gbna;A1209;;;eng.a1209
+gbna;A1210;;;eng.a1210
 gbna;A1211;;;eng.a1211
+gbna;A1213;;;eng.a1213
 gbna;A1214;;;eng.a1214
 gbna;A1231;;;eng.a1231
 gbna;A1232;;;eng.a1232
@@ -1346,6 +1361,8 @@ gbna;A3290;;;eng.a3290
 gbna;A3400;;;eng.a3400
 gbna;A3604;;;eng.a3604
 gbna;A3807;;;eng.a3807
+gbna;A3822;;;eng.a3822
+gbna;A3860;;;eng.a3860
 gbna;A4000;;;eng.a4000
 gbna;A4003;;;eng.a4003
 gbna;A4005;;;eng.a4005
@@ -1387,7 +1404,7 @@ gbna;A4050;;;wls.a4050
 gbna;A4051;;;wls.a4051
 gbna;A4053;;;eng.a4053
 gbna;A4054;;;wls.a4054
-gbna;A4057;;;wls.a4055
+gbna;A4055;;;wls.a4055
 gbna;A4058;;;wls.a4058
 gbna;A4059;;;wls.a4059
 gbna;A4060;;;wls.a4060
@@ -1404,9 +1421,9 @@ gbna;A4071;;;eng.a4071
 gbna;A4074;;;eng.a4074
 gbna;A4075;;;wls.a4075
 gbna;A4076;;;wls.a4076
-gbna;A4074;;;wls.a4077
-gbna;A4074;;;wls.a4078
-gbna;A4074;;;wls.a4079
+gbna;A4077;;;wls.a4077
+gbna;A4078;;;wls.a4078
+gbna;A4079;;;wls.a4079
 gbna;A4080;;;wls.a4080
 gbna;A4080;;Llanfaelog (loop);wls.a4080lla
 gbna;A4081;;;wls.a4081
@@ -1439,7 +1456,8 @@ gbna;A4107;;;wls.a4107
 gbna;A4109;;;wls.a4109
 gbna;A4110;;;eng.a4110
 gbna;A4111;;;eng.a4111
-gbna;A4113;;;eng.a4112
+gbna;A4112;;Tenbury Wells;eng.a4112ten
+gbna;A4112;;Dilwyn;eng.a4112
 gbna;A4113;;;eng.a4113,wls.a4113
 gbna;A4114;;;eng.a4114
 gbna;A4115;;;wls.a4115
@@ -1499,10 +1517,11 @@ gbna;A4182;;;eng.a4182
 gbna;A4183;;;eng.a4183
 gbna;A4184;;;eng.a4184
 gbna;A4185;;;eng.a4185
-gbna;A4180;;;eng.a4189
+gbna;A4189;;;eng.a4189
 gbna;A4193;;;eng.a4193
 gbna;A4196;;;eng.a4196
 gbna;A4198;;;eng.a4198
+gbna;A4199;;;eng.a4199
 gbna;A4200;;;eng.a4200
 gbna;A4201;;;eng.a4201
 gbna;A4202;;;eng.a4202
@@ -1546,6 +1565,7 @@ gbna;A4259;;;eng.a4259
 gbna;A4260;;;eng.a4260
 gbna;A4280;;;eng.a4280
 gbna;A4281;;;wls.a4281
+gbna;A4281;;Rassau (spur);wls.a4281ras
 gbna;A4289;;(South) Swindon;eng.a4289
 gbna;A4289;;(North) Swindon;eng.a4289nsw
 gbna;A4300;;;eng.a4300
@@ -1576,6 +1596,7 @@ gbna;A4601;;;eng.a4601
 gbna;A4640;;;eng.a4640
 gbna;A4810;;;wls.a4810
 gbna;A4811;;;wls.a4811
+gbna;A4871;;;wls.a4871
 gbna;A4971;;;wls.a4971
 gbna;A5001;;;eng.a5001
 gbna;A5004;;;eng.a5004
@@ -1597,7 +1618,8 @@ gbna;A5025;;;wls.a5025
 gbna;A5026;;;wls.a5026
 gbna;A5026;;Whelston (spur);wls.a5026whe
 gbna;A5027;;;eng.a5027
-gbna;A5028;;;eng.a5028
+gbna;A5028;;Rushden;eng.a5028
+gbna;A5028;;Seacombe;eng.a5028sea
 gbna;A5029;;;eng.a5029
 gbna;A5030;;;eng.a5030
 gbna;A5032;;;eng.a5032
@@ -1609,10 +1631,16 @@ gbna;A5036;;Bootle;eng.a5036
 gbna;A5037;;;eng.a5037
 gbna;A5038;;;eng.a5038
 gbna;A5039;;;eng.a5039
+gbna;A5040;;;eng.a5040
+gbna;A5045;;;eng.a5045
+gbna;A5046;;;eng.a5046
 gbna;A5047;;;eng.a5047
 gbna;A5048;;;eng.a5048
 gbna;A5049;;;eng.a5049
 gbna;A5050;;;eng.a5050
+gbna;A5051;;;eng.a5051
+gbna;A5052;;;eng.a5052
+gbna;A5053;;;eng.a5053
 gbna;A5054;;;eng.a5054
 gbna;A5055;;;eng.a5055
 gbna;A5056;;;eng.a5056
@@ -1687,7 +1715,7 @@ gbna;A5140;;;eng.a5140
 gbna;A5141;;;eng.a5141
 gbna;A5143;;;eng.a5143
 gbna;A5144;;;eng.a5144
-gbna;A5144;;;eng.a5145
+gbna;A5145;;;eng.a5145
 gbna;A5147;;;eng.a5147
 gbna;A5148;;;eng.a5148
 gbna;A5149;;;eng.a5149
@@ -1712,6 +1740,7 @@ gbna;A5192;;;eng.a5192
 gbna;A5193;;;eng.a5193
 gbna;A5194;;;eng.a5194
 gbna;A5195;;;eng.a5195
+gbna;A5196;;;eng.a5196
 gbna;A5199;;;eng.a5199
 gbna;A5200;;;eng.a5200
 gbna;A5201;;;eng.a5201
@@ -1739,7 +1768,9 @@ gbna;A5280;;;eng.a5280
 gbna;A5281;;;eng.a5281
 gbna;A5282;;;eng.a5282
 gbna;A5284;;;eng.a5284
+gbna;A5288;;;eng.a5288
 gbna;A5300;;;eng.a5300
+gbna;A5365;;;eng.a5365
 gbna;A5460;;;eng.a5460
 gbna;A5480;;;eng.a5480
 gbna;A5505;;;eng.a5505
@@ -1856,6 +1887,7 @@ gbna;A6143;;;eng.a6143
 gbna;A6144;;;eng.a6144
 gbna;A6144;;Urmston (spur);eng.a6144urm
 gbna;A6145;;;eng.a6145
+gbna;A6172;;;eng.a6172
 gbna;A6175;;;eng.a6175
 gbna;A6176;;;eng.a6176
 gbna;A6177;;;eng.a6177
@@ -1863,14 +1895,17 @@ gbna;A6178;;;eng.a6178
 gbna;A6181;;;eng.a6181
 gbna;A6182;;;eng.a6182
 gbna;A6183;;;eng.a6183
+gbna;A6184;;;eng.a6184
 gbna;A6185;;;eng.a6185
 gbna;A6186;;;eng.a6186
 gbna;A6187;;;eng.a6187
+gbna;A6188;;;eng.a6188
 gbna;A6191;;;eng.a6191
 gbna;A6192;;;eng.a6192
 gbna;A6193;;;eng.a6193
 gbna;A6194;;;eng.a6194
 gbna;A6195;;;eng.a6195
+gbna;A6196;;;eng.a6196
 gbna;A6200;;;eng.a6200
 gbna;A6201;;;eng.a6201
 gbna;A6211;;;eng.a6211
@@ -1888,11 +1923,8 @@ gbna;A8011;;;sct.a8011
 gbna;A8014;;;sct.a8014
 gbna;A8015;;;sct.a8015
 gbna;A8082;;;sct.a8082
-gbna;A8082;;Torvean (spur);sct.a8082tor
 gbna;A9000;;;sct.a9000
-gbna;A9011;;;sct.a9011
-gbna;A9012;;;sct.a9012
-gbna;A9013;;;sct.a9013
+gbna;A9119;;;sct.a9119
 gbna;AirWay;;Airport Way, Gatwick;eng.airway
 gbna;CirByp;;Cirencester Bypass;eng.cirbyp
 gbna;KinTun;;Kingsway Tunnel;eng.kintun

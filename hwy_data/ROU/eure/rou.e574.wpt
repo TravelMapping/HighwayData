@@ -1,8 +1,9 @@
 DN2 http://www.openstreetmap.org/?lat=46.539573&lon=26.917212
 DJ119 http://www.openstreetmap.org/?lat=46.542687&lon=26.901484
-StrArcSep http://www.openstreetmap.org/?lat=46.556913&lon=26.885948
-DJ119B_S http://www.openstreetmap.org/?lat=46.546008&lon=26.851283
-DJ119B_N http://www.openstreetmap.org/?lat=46.549926&lon=26.842078
+StrArcSep +DN2G http://www.openstreetmap.org/?lat=46.556913&lon=26.885948
+DNVO2T http://www.openstreetmap.org/?lat=46.548976&lon=26.868469
+DJ119B_S http://www.openstreetmap.org/?lat=46.546080&lon=26.851256
+DJ119B_N http://www.openstreetmap.org/?lat=46.549935&lon=26.842204
 +X02 http://www.openstreetmap.org/?lat=46.551497&lon=26.820674
 +X03 http://www.openstreetmap.org/?lat=46.508827&lon=26.821768
 +X04 http://www.openstreetmap.org/?lat=46.492484&lon=26.791363
@@ -43,7 +44,7 @@ DJ103B_S http://www.openstreetmap.org/?lat=45.800054&lon=25.848384
 DN12 http://www.openstreetmap.org/?lat=45.775878&lon=25.812257
 DJ112D http://www.openstreetmap.org/?lat=45.750754&lon=25.770916
 DN10 http://www.openstreetmap.org/?lat=45.711334&lon=25.706034
-DJ112A http://www.openstreetmap.org/?lat=45.700961&lon=25.690466
+DJ112 http://www.openstreetmap.org/?lat=45.700961&lon=25.690466
 DNVO1K http://www.openstreetmap.org/?lat=45.685092&lon=25.663419
 StrFunHar http://www.openstreetmap.org/?lat=45.673953&lon=25.646210
 StrTimSec http://www.openstreetmap.org/?lat=45.665166&lon=25.633507
@@ -55,10 +56,13 @@ DN13 http://www.openstreetmap.org/?lat=45.666186&lon=25.592051
 StrLun http://www.openstreetmap.org/?lat=45.663487&lon=25.577974
 DN1/73 http://www.openstreetmap.org/?lat=45.659527&lon=25.557075
 DNVO1K_W http://www.openstreetmap.org/?lat=45.651908&lon=25.541818
+DN73G http://www.openstreetmap.org/?lat=45.635388&lon=25.497100
 DN73B http://www.openstreetmap.org/?lat=45.630429&lon=25.487933
-DJ112B http://www.openstreetmap.org/?lat=45.624547&lon=25.481463
+DJ112B http://www.openstreetmap.org/?lat=45.624963&lon=25.481898
 DN73A/1E http://www.openstreetmap.org/?lat=45.589477&lon=25.455301
-DN73A_E http://www.openstreetmap.org/?lat=45.579565&lon=25.447683
+DN73A_E http://www.openstreetmap.org/?lat=45.579152&lon=25.447243
+A3 http://www.openstreetmap.org/?lat=45.577147&lon=25.444561
++X32C http://www.openstreetmap.org/?lat=45.571365&lon=25.418887
 DJ112E http://www.openstreetmap.org/?lat=45.550444&lon=25.387039
 DJ112H http://www.openstreetmap.org/?lat=45.516136&lon=25.366756
 DN73F http://www.openstreetmap.org/?lat=45.502798&lon=25.335696
@@ -87,7 +91,7 @@ DJ732C http://www.openstreetmap.org/?lat=45.182286&lon=25.001385
 Laz http://www.openstreetmap.org/?lat=45.157348&lon=24.994047
 DJ738_S http://www.openstreetmap.org/?lat=45.115510&lon=25.006412
 +X29 http://www.openstreetmap.org/?lat=45.085278&lon=25.009346
-DJ732 http://www.openstreetmap.org/?lat=45.051999&lon=24.987202
+DJ732 http://www.openstreetmap.org/?lat=45.051857&lon=24.987078
 DJ732A http://www.openstreetmap.org/?lat=45.007072&lon=24.953714
 DC83 http://www.openstreetmap.org/?lat=44.985078&lon=24.941744
 +X30 http://www.openstreetmap.org/?lat=44.972571&lon=24.934673
@@ -121,11 +125,13 @@ DJ703C_N http://www.openstreetmap.org/?lat=44.551402&lon=24.558400
 DJ703C_S http://www.openstreetmap.org/?lat=44.543752&lon=24.544393
 DJ657C http://www.openstreetmap.org/?lat=44.541685&lon=24.539348
 DJ657 http://www.openstreetmap.org/?lat=44.481626&lon=24.437799
+DEx12 http://www.openstreetmap.org/?lat=44.472830&lon=24.425029
 StrCir http://www.openstreetmap.org/?lat=44.442026&lon=24.375948
 DJ546 http://www.openstreetmap.org/?lat=44.431418&lon=24.355415
 DJ677_S http://www.openstreetmap.org/?lat=44.418027&lon=24.327378
 DJ677_N http://www.openstreetmap.org/?lat=44.418226&lon=24.319238
 DN64 http://www.openstreetmap.org/?lat=44.398730&lon=24.276215
+DC13 http://www.openstreetmap.org/?lat=44.385288&lon=24.240453
 DJ644 http://www.openstreetmap.org/?lat=44.351941&lon=24.153743
 Teis http://www.openstreetmap.org/?lat=44.343118&lon=24.128793
 DJ643_S http://www.openstreetmap.org/?lat=44.345055&lon=24.121760
@@ -138,5 +144,4 @@ DN65F_S http://www.openstreetmap.org/?lat=44.313992&lon=23.909866
 DJ652A http://www.openstreetmap.org/?lat=44.312831&lon=23.889792
 DN65F_N http://www.openstreetmap.org/?lat=44.312303&lon=23.868484
 BulDec http://www.openstreetmap.org/?lat=44.313769&lon=23.834721
-DN6/65 http://www.openstreetmap.org/?lat=44.363774&lon=23.745613
-
+DN6/65 +DN6 http://www.openstreetmap.org/?lat=44.319617&lon=23.801995

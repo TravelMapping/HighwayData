@@ -14,7 +14,7 @@ US60/67Bus +US67BusPop/60 http://www.openstreetmap.org/?lat=36.794792&lon=-90.44
 US60_W http://www.openstreetmap.org/?lat=36.841576&lon=-90.498451
 +X03 http://www.openstreetmap.org/?lat=36.860800&lon=-90.508480
 +X04 http://www.openstreetmap.org/?lat=36.886100&lon=-90.499400
-MOsO_But +X05 http://www.openstreetmap.org/?lat=36.919990&lon=-90.462750
+MOsO_But http://www.openstreetmap.org/?lat=36.919990&lon=-90.462750
 +X05a http://www.openstreetmap.org/?lat=36.929890&lon=-90.456830
 MO49/172 http://www.openstreetmap.org/?lat=36.942310&lon=-90.455560
 +X06 http://www.openstreetmap.org/?lat=36.981815&lon=-90.445890
@@ -41,7 +41,7 @@ MOsJJ http://www.openstreetmap.org/?lat=37.409147&lon=-90.313926
 +X13 http://www.openstreetmap.org/?lat=37.433397&lon=-90.297575
 MurMillRd http://www.openstreetmap.org/?lat=37.473377&lon=-90.301394
 US67BusChe_S http://www.openstreetmap.org/?lat=37.486353&lon=-90.306523
-US67BusChe_N +US67BusFre_S http://www.openstreetmap.org/?lat=37.491681&lon=-90.307574
+US67BusChe_N http://www.openstreetmap.org/?lat=37.491681&lon=-90.307574
 US67BusFre/E http://www.openstreetmap.org/?lat=37.521742&lon=-90.313550
 +X13a http://www.openstreetmap.org/?lat=37.547436&lon=-90.324268
 US67BusFre/72 http://www.openstreetmap.org/?lat=37.564370&lon=-90.321565
@@ -52,10 +52,10 @@ MO221 http://www.openstreetmap.org/?lat=37.771775&lon=-90.445236
 MapSt http://www.openstreetmap.org/?lat=37.787505&lon=-90.443959
 MO32_E http://www.openstreetmap.org/?lat=37.797145&lon=-90.443101
 FairDr http://www.openstreetmap.org/?lat=37.822967&lon=-90.461361
-US67BusDes/32 +US67BusPar/32 http://www.openstreetmap.org/?lat=37.838962&lon=-90.484471
+US67BusDes/32 http://www.openstreetmap.org/?lat=37.838962&lon=-90.484471
 ParDr http://www.openstreetmap.org/?lat=37.864385&lon=-90.493441
 US67BusDes/8 http://www.openstreetmap.org/?lat=37.880942&lon=-90.509566
-MO47 +MO47/K http://www.openstreetmap.org/?lat=37.922179&lon=-90.538416
+MO47 http://www.openstreetmap.org/?lat=37.922179&lon=-90.538416
 +X14 http://www.openstreetmap.org/?lat=37.954993&lon=-90.551634
 +X15 http://www.openstreetmap.org/?lat=37.991259&lon=-90.526915
 MOsY_StF http://www.openstreetmap.org/?lat=38.010932&lon=-90.487615
@@ -69,11 +69,11 @@ SunRd http://www.openstreetmap.org/?lat=38.147855&lon=-90.465342
 MOsCC_Jef http://www.openstreetmap.org/?lat=38.191632&lon=-90.415238
 I-55(174) http://www.openstreetmap.org/?lat=38.197273&lon=-90.400057
 US61_S http://www.openstreetmap.org/?lat=38.201303&lon=-90.395851
-MOsA_Jef +MOsA_Cry http://www.openstreetmap.org/?lat=38.211108&lon=-90.392504
+MOsA_Jef http://www.openstreetmap.org/?lat=38.211108&lon=-90.392504
 MainSt_Cry http://www.openstreetmap.org/?lat=38.218980&lon=-90.385140
 MisAve http://www.openstreetmap.org/?lat=38.229770&lon=-90.386840
 +X17 http://www.openstreetmap.org/?lat=38.244399&lon=-90.396194
-I-55BL_N http://www.openstreetmap.org/?lat=38.254850&lon=-90.393250
+McNSt +I-55BL_N http://www.openstreetmap.org/?lat=38.254850&lon=-90.393250
 HerHorRd http://www.openstreetmap.org/?lat=38.267272&lon=-90.387751
 JoaAve http://www.openstreetmap.org/?lat=38.274060&lon=-90.386520
 MOsZ_Jef http://www.openstreetmap.org/?lat=38.291174&lon=-90.396109
@@ -83,10 +83,10 @@ MOsZ_Jef http://www.openstreetmap.org/?lat=38.291174&lon=-90.396109
 +X20 http://www.openstreetmap.org/?lat=38.341219&lon=-90.393448
 MOsM_Jef http://www.openstreetmap.org/?lat=38.343516&lon=-90.385981
 SulSprRd http://www.openstreetmap.org/?lat=38.343600&lon=-90.382515
-MainSt_Imp +ImpMainSt http://www.openstreetmap.org/?lat=38.368899&lon=-90.376142
+MainSt_Imp http://www.openstreetmap.org/?lat=38.368899&lon=-90.376142
 MO231 http://www.openstreetmap.org/?lat=38.405009&lon=-90.377011
 RicRd http://www.openstreetmap.org/?lat=38.409894&lon=-90.381496
-StJohChuRd http://www.openstreetmap.org/?lat=38.414467&lon=-90.378417
+SJCRd http://www.openstreetmap.org/?lat=38.414467&lon=-90.378417
 MO141 http://www.openstreetmap.org/?lat=38.444178&lon=-90.373782
 BraBeaRd http://www.openstreetmap.org/?lat=38.454420&lon=-90.360693
 MerBotRd http://www.openstreetmap.org/?lat=38.464771&lon=-90.357152
@@ -94,39 +94,40 @@ ButHillRd http://www.openstreetmap.org/?lat=38.485450&lon=-90.348794
 MatRd http://www.openstreetmap.org/?lat=38.494360&lon=-90.344814
 ForRd http://www.openstreetmap.org/?lat=38.501296&lon=-90.332294
 I-255 http://www.openstreetmap.org/?lat=38.502605&lon=-90.330362
-US50_E +US50 http://www.openstreetmap.org/?lat=38.505939&lon=-90.325974
+US50_E http://www.openstreetmap.org/?lat=38.505939&lon=-90.325974
 I-55(197) http://www.openstreetmap.org/?lat=38.511370&lon=-90.335823
 MO21 http://www.openstreetmap.org/?lat=38.523761&lon=-90.354481
 BapChuRd http://www.openstreetmap.org/?lat=38.525230&lon=-90.361487
 SapRd http://www.openstreetmap.org/?lat=38.529191&lon=-90.380123
 MO30 http://www.openstreetmap.org/?lat=38.533018&lon=-90.384715
 MO366 http://www.openstreetmap.org/?lat=38.555490&lon=-90.406955
-I-44 http://www.openstreetmap.org/?lat=38.559241&lon=-90.406408
-BigBendBlvd http://www.openstreetmap.org/?lat=38.566707&lon=-90.406762
+I-44 http://www.openstreetmap.org/?lat=38.559355&lon=-90.406983
+BigBendRd http://www.openstreetmap.org/?lat=38.566707&lon=-90.406762
 AdaAve http://www.openstreetmap.org/?lat=38.583298&lon=-90.406322
 MO100 http://www.openstreetmap.org/?lat=38.600153&lon=-90.406312
 ClaRd http://www.openstreetmap.org/?lat=38.632980&lon=-90.405722
 I-64 http://www.openstreetmap.org/?lat=38.635511&lon=-90.405679
-MOsAB_StL http://www.openstreetmap.org/?lat=38.655061&lon=-90.405368
+LadRd http://www.openstreetmap.org/?lat=38.655061&lon=-90.405368
 MO340 http://www.openstreetmap.org/?lat=38.673164&lon=-90.404831
 SchRd http://www.openstreetmap.org/?lat=38.684413&lon=-90.404241
 MOsD_StL http://www.openstreetmap.org/?lat=38.696338&lon=-90.408726
 MidBlvd http://www.openstreetmap.org/?lat=38.707440&lon=-90.408887
-OldStChaRd http://www.openstreetmap.org/?lat=38.731314&lon=-90.404541
+AdieRd http://www.openstreetmap.org/?lat=38.710943&lon=-90.408609
+OldSCRd +OldStChaRd http://www.openstreetmap.org/?lat=38.731314&lon=-90.404541
 MO180 http://www.openstreetmap.org/?lat=38.737716&lon=-90.399102
 I-70 http://www.openstreetmap.org/?lat=38.743582&lon=-90.395508
 NatBriRd http://www.openstreetmap.org/?lat=38.749866&lon=-90.394596
 +X21 http://www.openstreetmap.org/?lat=38.759438&lon=-90.392761
 MisBotRd http://www.openstreetmap.org/?lat=38.757564&lon=-90.377269
-MOsTT_StL http://www.openstreetmap.org/?lat=38.764959&lon=-90.369726
+McDRd +MOsTT_StL http://www.openstreetmap.org/?lat=38.764959&lon=-90.369726
 I-270 http://www.openstreetmap.org/?lat=38.778242&lon=-90.359974
 DunRd http://www.openstreetmap.org/?lat=38.782157&lon=-90.357313
-WWasSt http://www.openstreetmap.org/?lat=38.796800&lon=-90.338849
+WasSt http://www.openstreetmap.org/?lat=38.796800&lon=-90.338849
 PatRd http://www.openstreetmap.org/?lat=38.800069&lon=-90.333849
 StFerSt http://www.openstreetmap.org/?lat=38.799224&lon=-90.328249
 NewFloRd http://www.openstreetmap.org/?lat=38.800128&lon=-90.315943
-MOsAC_StL +MOsAC http://www.openstreetmap.org/?lat=38.809224&lon=-90.298980
-OHalFerRd http://www.openstreetmap.org/?lat=38.815954&lon=-90.280881
+MOsAC_StL http://www.openstreetmap.org/?lat=38.809224&lon=-90.298980
+OldHFRd http://www.openstreetmap.org/?lat=38.815954&lon=-90.280881
 OldJamRd http://www.openstreetmap.org/?lat=38.823042&lon=-90.249778
 MO367 http://www.openstreetmap.org/?lat=38.818244&lon=-90.231475
 BelBr http://www.openstreetmap.org/?lat=38.838605&lon=-90.237923

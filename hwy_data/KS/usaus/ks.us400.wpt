@@ -51,7 +51,7 @@ BucRd_N http://www.openstreetmap.org/?lat=37.586282&lon=-99.639902
 BucRd_S http://www.openstreetmap.org/?lat=37.586282&lon=-99.635353
 MainSt_Mul http://www.openstreetmap.org/?lat=37.586240&lon=-99.475700
 US54_W http://www.openstreetmap.org/?lat=37.585806&lon=-99.448360
-CR17_Kio http://www.openstreetmap.org/?lat=37.586452&lon=-99.412408
+CR17 http://www.openstreetmap.org/?lat=37.586452&lon=-99.412408
 CR19 http://www.openstreetmap.org/?lat=37.587980&lon=-99.394206
 +x05404 http://www.openstreetmap.org/?lat=37.597816&lon=-99.378084
 US183 http://www.openstreetmap.org/?lat=37.606140&lon=-99.321985
@@ -70,10 +70,10 @@ US281 http://www.openstreetmap.org/?lat=37.646044&lon=-98.739495
 KS61 http://www.openstreetmap.org/?lat=37.645738&lon=-98.716418
 KS64 http://www.openstreetmap.org/?lat=37.645415&lon=-98.694536
 60thAve http://www.openstreetmap.org/?lat=37.645602&lon=-98.629589
-100thAve http://www.openstreetmap.org/?lat=37.645602&lon=-98.556848
+100thAve http://www.openstreetmap.org/?lat=37.646156&lon=-98.556821
 *190thAve +190Ave http://www.openstreetmap.org/?lat=37.645194&lon=-98.464896
 170thAve http://www.openstreetmap.org/?lat=37.638109&lon=-98.428724
-140thAve +140Ave http://www.openstreetmap.org/?lat=37.644920&lon=-98.374044
+*140thAve +140Ave http://www.openstreetmap.org/?lat=37.644920&lon=-98.374044
 110thAve http://www.openstreetmap.org/?lat=37.645058&lon=-98.319311
 90thAve http://www.openstreetmap.org/?lat=37.645330&lon=-98.282704
 SW50thAve http://www.openstreetmap.org/?lat=37.646061&lon=-98.208783
@@ -94,11 +94,11 @@ GodSt http://www.openstreetmap.org/?lat=37.664153&lon=-97.571297
 119thSt http://www.openstreetmap.org/?lat=37.664518&lon=-97.480595
 MaiRd http://www.openstreetmap.org/?lat=37.665174&lon=-97.462209
 TylRd http://www.openstreetmap.org/?lat=37.670574&lon=-97.444042
-MidConRd http://www.openstreetmap.org/?lat=37.672459&lon=-97.428254
+EisAirPkwy +MidConRd http://www.openstreetmap.org/?lat=37.672459&lon=-97.428254
 DugRd http://www.openstreetmap.org/?lat=37.672807&lon=-97.416641
 I-235 http://www.openstreetmap.org/?lat=37.673121&lon=-97.401094
 WestSt_Wic http://www.openstreetmap.org/?lat=37.673588&lon=-97.389389
-SouBlvd http://www.openstreetmap.org/?lat=37.675040&lon=-97.372395
+MerAve http://www.openstreetmap.org/?lat=37.675040&lon=-97.372395
 SenSt http://www.openstreetmap.org/?lat=37.676959&lon=-97.352954
 BroSt http://www.openstreetmap.org/?lat=37.678913&lon=-97.335520
 WasSt http://www.openstreetmap.org/?lat=37.678798&lon=-97.326401
@@ -106,10 +106,13 @@ I-135 http://www.openstreetmap.org/?lat=37.678997&lon=-97.312260
 GroSt http://www.openstreetmap.org/?lat=37.679231&lon=-97.308183
 HilSt http://www.openstreetmap.org/?lat=37.679371&lon=-97.298859
 OliSt http://www.openstreetmap.org/?lat=37.679464&lon=-97.280459
-WooSt http://www.openstreetmap.org/?lat=37.679227&lon=-97.262167
+WooSt http://www.openstreetmap.org/?lat=37.679430&lon=-97.262164
 ArmSt http://www.openstreetmap.org/?lat=37.679426&lon=-97.250108
-RockRd http://www.openstreetmap.org/?lat=37.679269&lon=-97.244453
-I-35 http://www.openstreetmap.org/?lat=37.679252&lon=-97.230645
+RockRd http://www.openstreetmap.org/?lat=37.679409&lon=-97.244470
+*I-35(50) +I-35 http://www.openstreetmap.org/?lat=37.679252&lon=-97.230645
+WebbRd http://www.openstreetmap.org/?lat=37.679105&lon=-97.226083
+GreRd http://www.openstreetmap.org/?lat=37.679213&lon=-97.207994
+I-35(53A) http://www.openstreetmap.org/?lat=37.679311&lon=-97.190874
 KS96 http://www.openstreetmap.org/?lat=37.679346&lon=-97.185520
 AndRd +RoseHillRd http://www.openstreetmap.org/?lat=37.679464&lon=-97.135320
 SFLakeRd http://www.openstreetmap.org/?lat=37.679660&lon=-97.043878
@@ -130,23 +133,19 @@ CR21 http://www.openstreetmap.org/?lat=37.635662&lon=-96.289995
 KS99_S http://www.openstreetmap.org/?lat=37.636465&lon=-96.253114
 KS99_N http://www.openstreetmap.org/?lat=37.636622&lon=-96.234135
 XRd http://www.openstreetmap.org/?lat=37.630016&lon=-96.143943
-CR17_Gre http://www.openstreetmap.org/?lat=37.619364&lon=-96.037588
-CR33_S http://www.openstreetmap.org/?lat=37.618821&lon=-96.029177
-CR33_N http://www.openstreetmap.org/?lat=37.618787&lon=-96.019950
+CR33_S http://www.openstreetmap.org/?lat=37.619437&lon=-96.029169
+CR33_N http://www.openstreetmap.org/?lat=37.619460&lon=-96.019966
 BarRd http://www.openstreetmap.org/?lat=37.615047&lon=-95.942788
 KS39 http://www.openstreetmap.org/?lat=37.613008&lon=-95.896912
 +x40003 http://www.openstreetmap.org/?lat=37.566139&lon=-95.860176
-HarRd http://www.openstreetmap.org/?lat=37.555397&lon=-95.833182
-15thSt http://www.openstreetmap.org/?lat=37.550940&lon=-95.814943
-KS47 http://www.openstreetmap.org/?lat=37.529944&lon=-95.801339
-CR1126 http://www.openstreetmap.org/?lat=37.515292&lon=-95.798571
-CR5_A http://www.openstreetmap.org/?lat=37.501862&lon=-95.773959
-CR5_B http://www.openstreetmap.org/?lat=37.497776&lon=-95.761170
-+x40004 http://www.openstreetmap.org/?lat=37.487114&lon=-95.731419
-CR5_C http://www.openstreetmap.org/?lat=37.457733&lon=-95.724381
+HarRd http://www.openstreetmap.org/?lat=37.555293&lon=-95.832984
+15thSt http://www.openstreetmap.org/?lat=37.550910&lon=-95.814959
+KS47 http://www.openstreetmap.org/?lat=37.529906&lon=-95.801790
+CR1126 http://www.openstreetmap.org/?lat=37.515077&lon=-95.798794
+MeadRd http://www.openstreetmap.org/?lat=37.488755&lon=-95.733887
 425thRd http://www.openstreetmap.org/?lat=37.432098&lon=-95.706802
-US75_N http://www.openstreetmap.org/?lat=37.413851&lon=-95.710402
-CR6600 http://www.openstreetmap.org/?lat=37.385358&lon=-95.708781
+US75_N http://www.openstreetmap.org/?lat=37.413391&lon=-95.710369
+CR6600 http://www.openstreetmap.org/?lat=37.384941&lon=-95.708704
 US75_S http://www.openstreetmap.org/?lat=37.358901&lon=-95.696282
 CR4500 http://www.openstreetmap.org/?lat=37.355388&lon=-95.656586
 CR5100 http://www.openstreetmap.org/?lat=37.348531&lon=-95.602169
@@ -181,7 +180,7 @@ LosRd http://www.openstreetmap.org/?lat=37.104514&lon=-94.704423
 QuaRd http://www.openstreetmap.org/?lat=37.089555&lon=-94.704509
 KS66 +KS66_E http://www.openstreetmap.org/?lat=37.075664&lon=-94.716139
 US69Alt_S http://www.openstreetmap.org/?lat=37.055357&lon=-94.735086
-+x40005 http://www.openstreetmap.org/?lat=37.047231&lon=-94.714154
+ComAve http://www.openstreetmap.org/?lat=37.045053&lon=-94.712287
 US166_W http://www.openstreetmap.org/?lat=37.023713&lon=-94.702084
 KS26 http://www.openstreetmap.org/?lat=37.023636&lon=-94.642378
 KS/MO http://www.openstreetmap.org/?lat=37.004729&lon=-94.617916

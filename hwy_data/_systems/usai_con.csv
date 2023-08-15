@@ -13,6 +13,7 @@ usai;I-PR3;;;pr.ipr003
 usai;I-2;;;tx.i002
 usai;I-4;;;fl.i004
 usai;I-5;;;ca.i005,or.i005,wa.i005
+usai;I-5;Trk;Newhall, CA;ca.i005trknew
 usai;I-8;;;ca.i008,az.i008
 usai;I-10;;;ca.i010,az.i010,nm.i010,tx.i010,la.i010,ms.i010,al.i010,fl.i010
 usai;I-11;;;nv.i011
@@ -47,8 +48,7 @@ usai;I-44;;;tx.i044,ok.i044,mo.i044
 usai;I-45;;;tx.i045
 usai;I-49;;S. Louisiana;la.i049
 usai;I-49;;N. Louisiana - S. Arkansas;la.i049bel,ar.i049tex
-usai;I-49;;N. Arkansas;ar.i049
-usai;I-49;;Missouri;mo.i049
+usai;I-49;;N. Arkansas - Missouri;ar.i049,mo.i049
 usai;I-55;;;la.i055,ms.i055,tn.i055,ar.i055,mo.i055,il.i055
 usai;I-57;;;mo.i057,il.i057
 usai;I-59;;;la.i059,ms.i059,al.i059,ga.i059
@@ -174,7 +174,7 @@ usai;I-264;;Kentucky;ky.i264
 usai;I-264;;Virginia;va.i264
 usai;I-265;;Kentucky;ky.i265
 usai;I-265;;Indiana;in.i265
-usai;I-269;;Mississippi - Tennessee;ms.i269,tn.i269
+usai;I-269;;;ms.i269,tn.i269
 usai;I-270;;Colorado;co.i270
 usai;I-270;;Missouri - Illinois;mo.i270,il.i270
 usai;I-270;;Ohio;oh.i270
@@ -210,6 +210,7 @@ usai;I-295;;Virginia;va.i295
 usai;I-295;;Maryland - District of Columbia;md.i295,dc.i295
 usai;I-295;;Delaware - New Jersey - Pennsylvania;de.i295,nj.i295,pa.i295
 usai;I-295;;New York;ny.i295
+usai;I-295;;North Carolina;nc.i295
 usai;I-295;;Rhode Island - Massachusetts;ri.i295,ma.i295
 usai;I-295;;Maine;me.i295
 usai;I-296;;;mi.i296
@@ -298,7 +299,8 @@ usai;I-580;;California;ca.i580
 usai;I-580;;Nevada;nv.i580
 usai;I-581;;;va.i581
 usai;I-585;;;sc.i585
-usai;I-587;;;ny.i587
+usai;I-587;;North Carolina;nc.i587
+usai;I-587;;New York;ny.i587
 usai;I-590;;;ny.i590
 usai;I-595;;Florida;fl.i595
 usai;I-595;;Maryland;md.i595
@@ -333,7 +335,7 @@ usai;I-710;;;ca.i710
 usai;I-759;;;al.i759
 usai;I-780;;;ca.i780
 usai;I-781;;;ny.i781
-usai;I-785;;North Carolina;nc.i785
+usai;I-785;;;nc.i785
 usai;I-787;;;ny.i787
 usai;I-790;;;ny.i790
 usai;I-794;;;wi.i794
@@ -345,13 +347,14 @@ usai;I-840;;Tennessee;tn.i840
 usai;I-840;;North Carolina;nc.i840
 usai;I-865;;;in.i865
 usai;I-878;;;ny.i878
-usai;I-880;;;ca.i880
+usai;I-880;;California;ca.i880
+usai;I-880;;Iowa;ia.i880
+usai;I-885;;;nc.i885
 usai;I-890;;;ny.i890
 usai;I-894;;;wi.i894
-usai;I-895;;Maryland;md.i895
+usai;I-895;;;md.i895
 usai;I-895;Spr;Ferndale, MD;md.i895sprfer
 usai;I-895;Spr;Furnace Branch, MD;md.i895sprfur
-usai;I-895;;New York;ny.i895
 usai;I-910;;;la.i910
 usai;I-980;;;ca.i980
 usai;I-985;;;ga.i985

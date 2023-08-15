@@ -69,23 +69,24 @@ CRR70 http://www.openstreetmap.org/?lat=43.123994&lon=-93.517642
 CRS14 http://www.openstreetmap.org/?lat=43.129710&lon=-93.477688
 CRS18 http://www.openstreetmap.org/?lat=43.141736&lon=-93.408551
 I-35BL_S http://www.openstreetmap.org/?lat=43.143742&lon=-93.378853
-I-35(194) http://www.openstreetmap.org/?lat=43.146214&lon=-93.355469
-I-35(193) http://www.openstreetmap.org/?lat=43.133530&lon=-93.355682
-I-35(190) http://www.openstreetmap.org/?lat=43.099133&lon=-93.345421
-CRS36 http://www.openstreetmap.org/?lat=43.104931&lon=-93.261952
-US65 http://www.openstreetmap.org/?lat=43.104336&lon=-93.201227
-CRS56 http://www.openstreetmap.org/?lat=43.112074&lon=-93.122499
-CRS70 http://www.openstreetmap.org/?lat=43.116366&lon=-93.023493
+194(35) +I-35(194) http://www.openstreetmap.org/?lat=43.146214&lon=-93.355469
+193(35) +I-35(193) http://www.openstreetmap.org/?lat=43.133530&lon=-93.355682
+178 +I-35(190) http://www.openstreetmap.org/?lat=43.099133&lon=-93.345421
+183 +CRS36 http://www.openstreetmap.org/?lat=43.105342&lon=-93.260786
+186 +US65 http://www.openstreetmap.org/?lat=43.104336&lon=-93.201227
+190 +CRS56 http://www.openstreetmap.org/?lat=43.112074&lon=-93.122499
++X01a http://www.openstreetmap.org/?lat=43.119140&lon=-93.102242
+195 +CRS70 http://www.openstreetmap.org/?lat=43.116366&lon=-93.023493
 CRT24 http://www.openstreetmap.org/?lat=43.118089&lon=-92.945151
 CRT26 http://www.openstreetmap.org/?lat=43.119045&lon=-92.905573
 CRB30 http://www.openstreetmap.org/?lat=43.125873&lon=-92.880929
 CRT38 http://www.openstreetmap.org/?lat=43.126922&lon=-92.810526
 CRT44 http://www.openstreetmap.org/?lat=43.123704&lon=-92.742119
 US218_N http://www.openstreetmap.org/?lat=43.121034&lon=-92.738729
-US218Bus_N http://www.openstreetmap.org/?lat=43.090516&lon=-92.719202
-IA14_X http://www.openstreetmap.org/?lat=43.059983&lon=-92.717657
+212 +US218Bus_N http://www.openstreetmap.org/?lat=43.090516&lon=-92.719202
+214 +IA14_X http://www.openstreetmap.org/?lat=43.059983&lon=-92.717657
 +X02 http://www.openstreetmap.org/?lat=43.039191&lon=-92.712421
-US218_S http://www.openstreetmap.org/?lat=43.038783&lon=-92.672639
+218 +US218_S http://www.openstreetmap.org/?lat=43.038783&lon=-92.672639
 OldHwyRd http://www.openstreetmap.org/?lat=43.051109&lon=-92.672553
 IA14_End http://www.openstreetmap.org/?lat=43.062868&lon=-92.676544
 CRT64 http://www.openstreetmap.org/?lat=43.066380&lon=-92.672553
@@ -93,10 +94,10 @@ CRT66 http://www.openstreetmap.org/?lat=43.067069&lon=-92.633629
 CRT76 http://www.openstreetmap.org/?lat=43.066819&lon=-92.515612
 CRV14 http://www.openstreetmap.org/?lat=43.066819&lon=-92.455745
 CRV18 http://www.openstreetmap.org/?lat=43.066536&lon=-92.416670
-US63/24 http://www.openstreetmap.org/?lat=43.067195&lon=-92.334423
-US63Bus http://www.openstreetmap.org/?lat=43.030188&lon=-92.326655
+204(63) +US63/24 http://www.openstreetmap.org/?lat=43.067195&lon=-92.334423
+201(63) +US63Bus http://www.openstreetmap.org/?lat=43.030188&lon=-92.326655
 OldUS63 http://www.openstreetmap.org/?lat=43.008358&lon=-92.318770
-US63/346 http://www.openstreetmap.org/?lat=42.965687&lon=-92.317729
+196(63) +US63/346 http://www.openstreetmap.org/?lat=42.965687&lon=-92.317729
 CRV48_S http://www.openstreetmap.org/?lat=42.965122&lon=-92.204175
 CRV48_N http://www.openstreetmap.org/?lat=42.965248&lon=-92.190785
 CRV56 http://www.openstreetmap.org/?lat=42.965342&lon=-92.140789
@@ -110,7 +111,7 @@ CRB64 http://www.openstreetmap.org/?lat=42.965059&lon=-91.792789
 CRW51 http://www.openstreetmap.org/?lat=42.999123&lon=-91.656961
 CRB60 http://www.openstreetmap.org/?lat=43.003611&lon=-91.652670
 +X05 http://www.openstreetmap.org/?lat=43.037623&lon=-91.611986
-+X06 http://www.openstreetmap.org/?lat=43.076427&lon=-91.605120
++X06 http://www.openstreetmap.org/?lat=43.076443&lon=-91.605051
 US52_N http://www.openstreetmap.org/?lat=43.085462&lon=-91.589005
 IA51 http://www.openstreetmap.org/?lat=43.084593&lon=-91.568341
 CRB38 http://www.openstreetmap.org/?lat=43.082618&lon=-91.565123

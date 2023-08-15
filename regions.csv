@@ -56,7 +56,7 @@ BWA;Botswana;BWA;AFR;Country
 CA;California;USA;NA;State
 CAF;Central African Republic;CAF;AFR;Country
 CAN;Canada;CAN;NA;Country
-CCK;Cocos (Keeling) Islands;AUS;OCE;External Territory
+CCK;Cocos (Keeling) Islands;AUS;ASI;External Territory
 CHE;Switzerland;CHE;EUR;Country
 CHL;Chile;CHL;SA;Country
 CHN;China;CHN;ASI;Country
@@ -105,7 +105,7 @@ CRM;Crimea;UKR;EUR;Autonomous Republic
 CT;Connecticut;USA;NA;State
 CUB;Cuba;CUB;NA;Country
 CUW;Curacao;NLD;NA;Constituent Country
-CXR;Christmas Island;AUS;OCE;External Territory
+CXR;Christmas Island;AUS;ASI;External Territory
 CYM;Cayman Islands;GBR;NA;Overseas Territory
 CYP;Cyprus;CYP;ASI;Country
 CZE;Czechia;CZE;EUR;Country
@@ -166,19 +166,19 @@ FJI;Fiji;FJI;OCE;Country
 FL;Florida;USA;NA;State
 FLK;Falkland Islands;GBR;SA;Overseas Territory
 FRA;France;FRA;EUR;Country
-FRA-ARA;Auvergne-Rhône-Alpes;FRA;EUR;Metropolitan Region
-FRA-BFC;Bourgogne-Franche-Comté;FRA;EUR;Metropolitan Region
+FRA-ARA;Auvergne-Rhone-Alpes;FRA;EUR;Metropolitan Region
+FRA-BFC;Bourgogne-Franche-Comte;FRA;EUR;Metropolitan Region
 FRA-BRE;Brittany;FRA;EUR;Metropolitan Region
 FRA-CVL;Centre-Val de Loire;FRA;EUR;Metropolitan Region
 FRA-COR;Corsica;FRA;EUR;Collectivity
 FRA-GES;Grand-Est;FRA;EUR;Metropolitan Region
 FRA-HDF;Hauts-de-France;FRA;EUR;Metropolitan Region
-FRA-IDF;Île-de-France;FRA;EUR;Metropolitan Region
+FRA-IDF;Ile-de-France;FRA;EUR;Metropolitan Region
 FRA-NOR;Normandy;FRA;EUR;Metropolitan Region
 FRA-NAQ;Nouvelle-Aquitaine;FRA;EUR;Metropolitan Region
 FRA-OCC;Occitanie;FRA;EUR;Metropolitan Region
 FRA-PDL;Pays-de-la-Loire;FRA;EUR;Metropolitan Region
-FRA-PAC;Provence-Alpes-Côte-d’Azur;FRA;EUR;Metropolitan Region
+FRA-PAC;Provence-Alpes-Cote-d’Azur;FRA;EUR;Metropolitan Region
 FRH;Corse;FRA;EUR;Collectivity
 FRO;Faroe Islands;DNK;EUR;Constituent Country
 FSM;Micronesia;FSM;OCE;Country
@@ -211,6 +211,13 @@ HUN;Hungary;HUN;EUR;Country
 IA;Iowa;USA;NA;State
 ID;Idaho;USA;NA;State
 IDN;Indonesia;IDN;ASI;Country
+IDN-JW;Java;IDN;ASI;Geographical Unit
+IDN-KA;Kalimantan;IDN;ASI;Geographical Unit
+IDN-ML;Maluku;IDN;OCE;Geographical Unit
+IDN-NU;Nusa Tenggara;IDN;ASI;Geographical Unit
+IDN-PP;(West) Papua;IDN;OCE;Geographical Unit
+IDN-SL;Sulawesi;IDN;ASI;Geographical Unit
+IDN-SM;Sumatra;IDN;ASI;Geographical Unit
 IL;Illinois;USA;NA;State
 IMN;Isle of Man;IMN;EUR;Crown Dependency
 IN;Indiana;USA;NA;State
@@ -234,6 +241,7 @@ IND-JK;Jammu and Kashmir;IND;ASI;State
 IND-KA;Karnataka;IND;ASI;State
 IND-KL;Kerala;IND;ASI;State
 IND-LD;Lakshadweep;IND;ASI;Union Territory
+IND-MG;Meghalaya;IND;ASI;State
 IND-MH;Maharashtra;IND;ASI;State
 IND-ML;Meghalaya;IND;ASI;State
 IND-MN;Manipur;IND;ASI;State
@@ -258,6 +266,26 @@ IRQ;Iraq;IRQ;ASI;Country
 ISL;Iceland;ISL;EUR;Country
 ISR;Israel;ISR;ASI;Country
 ITA;Italy;ITA;EUR;Country
+ITA-ABR;Abruzzo;ITA;EUR;Region
+ITA-BAS;Basilicata;ITA;EUR;Region
+ITA-CAL;Calabria;ITA;EUR;Region
+ITA-CAM;Campania;ITA;EUR;Region
+ITA-EMI;Emilia-Romagna;ITA;EUR;Region
+ITA-FRI;Friuli-Venezia Giulia;ITA;EUR;Autonomous Region
+ITA-LAZ;Lazio;ITA;EUR;Region
+ITA-LIG;Liguria;ITA;EUR;Region
+ITA-LOM;Lombardy;ITA;EUR;Region
+ITA-MAR;Marche;ITA;EUR;Region
+ITA-MOL;Molise;ITA;EUR;Region
+ITA-PIE;Piedmont;ITA;EUR;Region
+ITA-PUG;Apuilia;ITA;EUR;Region
+ITA-SAR;Sardinia;ITA;EUR;Autonomous Region
+ITA-SIC;Sicily;ITA;EUR;Autonomous Region
+ITA-TOS;Tuscany;ITA;EUR;Region
+ITA-TRE;Trentino-South Tyrol;ITA;EUR;Autonomous Region
+ITA-UMB;Umbria;ITA;EUR;Region
+ITA-VAL;Aosta Valley;ITA;EUR;Autonomous Region
+ITA-VEN;Veneto;ITA;EUR;Region
 JAM;Jamaica;JAM;NA;Country
 JEY;Jersey;JEY;EUR;Crown Dependency
 JOR;Jordan;JOR;ASI;Country
@@ -311,22 +339,22 @@ MEX-GRO;Guerrero;MEX;NA;State
 MEX-GTO;Guanajuato;MEX;NA;State
 MEX-HGO;Hidalgo;MEX;NA;State
 MEX-JAL;Jalisco;MEX;NA;State
-MEX-MICH;Michoacán;MEX;NA;State
+MEX-MICH;Michoacan;MEX;NA;State
 MEX-MOR;Morelos;MEX;NA;State
 MEX-NAY;Nayarit;MEX;NA;State
-MEX-NL;Nuevo León;MEX;NA;State
+MEX-NL;Nuevo Leon;MEX;NA;State
 MEX-OAX;Oaxaca;MEX;NA;State
 MEX-PUE;Puebla;MEX;NA;State
 MEX-QRO;Queretaro;MEX;NA;State
 MEX-QROO;Quintana Roo;MEX;NA;State
 MEX-SIN;Sinaloa;MEX;NA;State
-MEX-SLP;San Luis Potosí;MEX;NA;State
+MEX-SLP;San Luis Potosi;MEX;NA;State
 MEX-SON;Sonora;MEX;NA;State
 MEX-TAB;Tabasco;MEX;NA;State
 MEX-TAM;Tamaulipas;MEX;NA;State
 MEX-TLAX;Tlaxcala;MEX;NA;State
 MEX-VER;Veracruz;MEX;NA;State
-MEX-YUC;Yucatán;MEX;NA;State
+MEX-YUC;Yucatan;MEX;NA;State
 MEX-ZAC;Zacatecas;MEX;NA;State
 MHL;Marshall Islands;MHL;OCE;Country
 MI;Michigan;USA;NA;State
