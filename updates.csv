@@ -21,6 +21,8 @@ date;region;route;root;description
 2021-06-09;Andorra;CG3A;and.cg003a;Route reentered
 2021-06-09;Andorra;Tunel d'Envarlira;and.cg002a;Route renamed CG2a
 2021-01-14;(Australia) Australia Capital Territory;A23;ausact.a023;Route extended at south end from northern junction with State Circle to NSW border
+2023-08-17;(Australia) New South Wales;M11;ausnsw.m011;Route added
+2023-08-17;(Australia) New South Wales;(North Connex);ausnsw.m011;Route deleted (renamed M11)
 2023-04-17;(Australia) New South Wales;M1 (Wollongong);ausnsw.m001wol;Route extended at south end from Princes Highway at Dapto to Weir Street
 2023-04-17;(Australia) New South Wales;A1;ausnsw.a001she;Route truncated at north end from A48 to Weir Street
 2023-01-20;(Australia) New South Wales;M4;ausnsw.m004;Route extended at east end from A4 at Five Dock / Paramatta Road junction to M8
@@ -2185,6 +2187,8 @@ date;region;route;root;description
 2017-05-31;Israel;F7;isr.f007;New Route
 2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
 2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
+2023-08-17;Italy;Viadotto Indiano, Firenze;ita.viaind;Route added
+2023-08-17;Italy;Via Marco Polo, Firenze;ita.viamarpol;Route added
 2023-04-14;Italy;A33 Autostrada Asti - Cuneo (Alba);ita.a033alb;Route added
 2023-04-14;Italy;Superstrada Pedemontana Veneta;ita.spv;Route extended at east end from Variante di Spresiano to A27
 2022-07-14;Italy;Superstrada Pedemontana Veneta;ita.spv;Route extended at east end from SR348 to Variante di Spresiano
@@ -2250,7 +2254,7 @@ date;region;route;root;description
 2015-08-25;Italy;A6 (Fossano);ita.a006fos;New Route
 2015-08-25;Italy;A60;ita.a060;New Route
 2015-08-25;Italy;A91;ita.a091;Route extended at west end from Via Renato Ciprari to Via Alessandro Guidoni
-2015-08-25;Italy;Autostrade Sistiana-Rabuiese;autsisrab;New Route
+2015-08-25;Italy;Autostrade Sistiana-Rabuiese;ita.autsisrab;New Route
 2015-08-25;Italy;Dramazione per Fernetti;;Route renamed RA14
 2015-08-25;Italy;E31;ita.e31;Route extended at south end from A12 to Via Bologna
 2015-08-25;Italy;E45 (Roma);ita.e45rom;New Route
@@ -2404,6 +2408,7 @@ date;region;route;root;description
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E123;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E125;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan (Alekseevka);E125;;Deleted route
+2023-08-17;Korea, South;Ex400 (Suwon);kor.ex400;Route extended at east end from exit 5 '(B)' at to exit 7 '(C)' at Ex35
 2023-01-13;Korea, South;Ex500;kor.ex500;Route added
 2022-04-01;Korea, South;Ex700 (Dasa);kor.ex700;Route added
 2022-04-01;Korea, South;Ex700 (Pagunjae);kor.ex700pag;Route added
@@ -2527,6 +2532,10 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
+2023-08-17;Malaysia;AH2;mys.ah002;Route truncated at south end from Singapore border to exit 253
+2023-08-17;Malaysia;AH2W;mys.ah002w;Route added
+2023-08-17;Malaysia;AH2E;mys.ah002e;Route added
+2023-08-17;Malaysia;AH143;mys.ah002w;Route renumbered
 2023-06-19;Malaysia;E19;mys.e019;Route extended at south end from exit 1904 to exit 1901
 2022-10-15;Malaysia;E31;mys.e031;Route added
 2022-09-16;Malaysia;E19;mys.e019;Route added
@@ -3961,6 +3970,10 @@ date;region;route;root;description
 2015-07-28;Serbia;E75 (Belgrade);srb.e75bel;New Route
 2019-01-24;Senegal;A2;sen.a002;Route extended at east end from exit 14 to exit 17
 2018-12-21;Senegal;A1;sen.a001;Route extended at east end from A2 to exit 19
+2023-08-17;Singapore;AH2;sgp.ah002;Route deleted and readded on a different alignment
+2023-08-17;Singapore;AH2W;sgp.ah002w;Route added
+2023-08-17;Singapore;AH2E;sgp.ah002e;Route added
+2023-08-17;Singapore;AH143;;Route deleted
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
 2022-12-31;Slovakia;R2 (Mytna);svk.r002myt;Route added
@@ -4388,6 +4401,7 @@ date;region;route;root;description
 2015-08-25;Spain;VA20;;Route deleted
 2015-08-25;Spain;VA30;esp.va030;Route extended at east end from exit 13 to exit
 2015-08-25;Spain;Z32;esp.z032;New Route
+2023-08-17;Sri Lanka;AH43;lka.ah043;Route truncated at south end from A2 to 'ToA24' and extended at south end from 'ToA24' to A02
 2022-01-15;Sri Lanka;E04;lka.e004;Route added
 2021-11-29;Sri Lanka;E03;lka.e003;Route extended at south end from A001 to Baseline Road
 2021-01-22;Sri Lanka;E06;lka.e006;Route added
@@ -5598,7 +5612,7 @@ date;region;route;root;description
 2020-01-28;(USA) Illinois;IL 9;il.il009;Removed from Court St between IL 29 and Veterans Drive in Pekin and relocated onto Veterans Drive and IL 29, Relocated point IL29_S from 2nd/3rd Street to intersection of IL 29 and Veterans Drive
 2020-01-28;(USA) Illinois;IL 159;il.il159;Removed from Troy Road and South Buchanan Street in Edwardsville from the intersection of Illini Drive to Vandalia Street and relocated onto Illini Drive, Plum Street, and South Main Street
 2019-12-30;(USA) Illinois;IL 150;il.il150;Moved point IL3_N to Holmes Street, old IL3_N location now StaSt
-2019-11-22;(USA) Illinois;IL 57;il/il057;Extended south from I-72 to signed end at CR79
+2019-11-22;(USA) Illinois;IL 57;il.il057;Extended south from I-172 to signed end at CR79
 2019-10-01;(USA) Illinois;IL 4;il.il004;Removed from Easton Avenue and part of Macoupin Street in Gillespie and moved on to Jersey and Pine streets between the Macoupin/Pine and Jersey/Easton intersections
 2019-06-23;(USA) Illinois;BL I-55 (Springfield);il.i055blspr;Relocated from one-way pair on Spruce/Myrtle streets and then 9th Street between Myrtle and Cook streets and relocated onto one-way pair of 5th/6th streets and Lawrence Avenue/Cook Street between same points
 2018-09-15;(USA) Illinois;I-294;il.i294;Relabeled 7->8 and 8->9
