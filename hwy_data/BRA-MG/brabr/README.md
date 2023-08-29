@@ -1,0 +1,3 @@
+Notes on routes:
+* BR-060: [signed](https://www.google.com/maps/@-16.7867528,-49.243859,3a,48.8y,252.99h,80.07t/data=!3m6!1e1!3m4!1sxNewJy8BzcYD72j-wrPWbQ!2e0!7i16384!8i8192?entry=ttu) along the southern bypass of Goiânia, which GIS labels 060N
+* BR-060: As of 2023, at least [one sign](https://www.google.com/maps/@-17.9153275,-51.7684434,3a,16.3y,287.42h,89.28t/data=!3m6!1e1!3m4!1svQuubPwGMOps7lYbKDDz_A!2e0!7i16384!8i8192?entry=ttu) exists south of Jataí, but beyond Serranópolis signs are only for [GO-184](https://www.google.com/maps/@-18.304775,-51.9626757,3a,47.1y,285.25h,76.59t/data=!3m6!1e1!3m4!1s0NDE7-7heOfEEaoE6_J8ng!2e0!7i13312!8i6656). However, GIS and maps currently show BR-060 planned to split from BR-364 farther west, at GO-050, with BR-158 planned here.
