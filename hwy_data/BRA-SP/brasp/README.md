@@ -7,32 +7,29 @@ Sources:
 * https://pt.wikipedia.org/wiki/Lista_de_rodovias_estaduais_de_S%C3%A3o_Paulo
 
 The following routes are not included due to apparent lack of signs:
-* SP-008 segments between Mairiporã and Bragança Paulista (as of 2011)
-* SPA-109/008 (to Pedra Bela, as of 2011) [or is it now signed?](https://www.google.com/maps/@-22.8160032,-46.5465815,3a,15y,94.1h,89.81t/data=!3m6!1e1!3m4!1skszx-l9tv8_3dEC3Qa5btw!2e0!7i13312!8i6656)
-* SPA-113/008 (to Pinhalzinho, as of 2011) [or is it now signed?](https://www.google.com/maps/@-22.783687,-46.5612466,3a,15y,226.91h,86.38t/data=!3m6!1e1!3m4!1sY51zNV-z4n0vgHunw3VsOQ!2e0!7i13312!8i6656)
+* SP-008 segments between Mairiporã and Bragança Paulista (as of 2023)
 * SP-015 (Marginal Pinheiros and Marginal Tietê): mostly included in brasf
-* SPI-016/021
+* SPI-016/021 (as of 2023)
 * SP-036 through Cumbica
-* SPA-036/036 (as of 2020)
-* SPA-166/042 ([as of 2018](https://www.google.com/maps/@-22.6872281,-45.7281462,3a,20.8y,84.05h,85.42t/data=!3m6!1e1!3m4!1s9TGGVBfI3k0jIO2fyQsNHw!2e0!7i13312!8i6656); no imagery at the east end)
-* SPA-162/050 (as of 2019)
+* SPA-036/036 (as of 2023)
+* SPA-166/042 ([as of 2021](https://www.google.com/maps/@-22.6871866,-45.728102,3a,32.9y,114.74h,88.12t/data=!3m6!1e1!3m4!1szfZqYGcXyScfSgmd-ZEerQ!2e0!7i16384!8i8192?entry=ttu)
+* SPA-162/050 ([as of 2019](https://www.google.com/maps/@-22.774481,-45.7027667,3a,15y,342.68h,87.35t/data=!3m6!1e1!3m4!1sZ71CDjRRrbNUcuDsr13abQ!2e0!7i16384!8i8192?entry=ttu))
 * SP-054 (unpaved)
-* SPA-165/055 (municipal maintenance, as of 2019)
-* SPA-175/055 (municipal maintenance, as of 2019)
-* 01 SPA-248/055 (municipal maintenance, as of 2019)
+* SPA-165/055 (municipal maintenance, as of 2023)
+* SPA-175/055 (municipal maintenance, as of 2023)
+* 01 SPA-248/055 (municipal maintenance, as of 2023)
 * SP-058 through and east of Cruzeiro (municipal maintenance or unpaved, as of 2019; no imagery available for the paved portion between SPA-227/058 and Pinheiros)
-* SPA-205/058 (as of 2019)
+* SPA-205/058 (as of 2021)
 * SPA-227/058 (as of 2019; imagery only available at south end)
 * SPA-029/060 (as of 2019)
-* SPA-110/062 (municipal maintenance, as of 2019)
+* SPA-110/062 (municipal maintenance, as of 2022)
 * SPA-133/062 (as of 2019)
-* SPA-069/066 (as of 2011)
-* SPA-073/066 (municipal maintenance, as of 2019)
-* SPA-244/068 (as of 2011, but no imagery along the actual route)
-* SP-073 south of SP-324 (municipal maintenance or unpaved, as of 2019; imagery not available on all segments) - but it [is signed](https://www.google.com/maps/@-23.1727401,-47.2700371,3a,75y,80.39h,85.69t/data=!3m6!1e1!3m4!1sJ7Sb4w50c-6_ebvHrTZKrQ!2e0!7i16384!8i8192) on SP-075!
-* SP-092 (unpaved, as of 2011)
-* SPA-103/079 (as of 2019)
-* SPA-115/079 (municipal maintenance, as of 2019)
+* SPA-069/066 (as of 2023)
+* SPA-073/066 (municipal maintenance, as of 2022)
+* SP-073 south of SP-324 (municipal maintenance or unpaved, as of 2023) - but it [is signed](https://www.google.com/maps/@-23.1727401,-47.2700371,3a,75y,80.39h,85.69t/data=!3m6!1e1!3m4!1sJ7Sb4w50c-6_ebvHrTZKrQ!2e0!7i16384!8i8192) on SP-075!
+* SPA-115/079 (municipal maintenance, as of 2023)
+* SP-092 (unpaved, as of 2023)
+  
 * SPA-032/099 (as of 2011)
 * SPA-033/099 (as of 2011)
 * SPA-035/099 (as of 2011) - but [is that a shield in the background](https://www.google.com/maps/@-23.3939203,-45.6546953,3a,15y,295.68h,88.33t/data=!3m7!1e1!3m5!1sQTtgRJQ8nVGeC6w6ytKKZA!2e0!5s20190801T000000!7i16384!8i8192) in 2019?
