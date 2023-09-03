@@ -307,6 +307,7 @@ Notes on routes:
 * SPA-291/055 [is signed](https://www.google.com/maps/@-23.9977704,-46.4111343,3a,21.3y,278.54h,88.17t/data=!3m6!1e1!3m4!1ss0U16t3V0_o7fyq-yD-rpA!2e0!7i16384!8i8192).
 * SPA-344/055: the east end is poorly defined; it officially continues locally-maintained back to SP-055 at Per, but this is not signed.
 * SPI-084/066 [is signed](https://www.google.com/maps/@-23.3467599,-46.0205593,3a,15y,157.05h,88.23t/data=!3m6!1e1!3m4!1sTodoGdcHL2NWMrKnvZOY9Q!2e0!7i16384!8i8192) (with missing 0s).
+* SPA-103/079's north end may be wrong.
 * SPA-032/101 [is signed](https://www.google.com/maps/@-22.9846962,-47.3781872,3a,15y,168.37h,89.1t/data=!3m6!1e1!3m4!1s77uriIBHBI5JiTaDOBTHFA!2e0!7i16384!8i8192), but imagery at the south end is older, so it may extend another block.
 * SPA-043/125 [is signed](https://www.google.com/maps/@-23.2376732,-45.3050466,3a,15y,31.84h,92.78t/data=!3m6!1e1!3m4!1sCiBm-JO2KWwhJOTkB5NZow!2e0!7i16384!8i8192).
 * SPA-046/125 is signed at the north end, but imagery may not be new enough to show signage at the south end (on the unpaved portion). Since there are no photos along the route, it's assumed to end where pavement does.
