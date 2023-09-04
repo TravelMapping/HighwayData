@@ -14,6 +14,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-036/036 (as of 2023)
 * SPA-166/042 ([as of 2021](https://www.google.com/maps/@-22.6871866,-45.728102,3a,32.9y,114.74h,88.12t/data=!3m6!1e1!3m4!1szfZqYGcXyScfSgmd-ZEerQ!2e0!7i16384!8i8192?entry=ttu)
 * SPA-162/050 ([as of 2019](https://www.google.com/maps/@-22.774481,-45.7027667,3a,15y,342.68h,87.35t/data=!3m6!1e1!3m4!1sZ71CDjRRrbNUcuDsr13abQ!2e0!7i16384!8i8192?entry=ttu))
+* SPA-220/052 [was signed in 2018](https://www.google.com/maps/@-22.5706432,-44.9950992,3a,15y,99.07h,88.21t/data=!3m6!1e1!3m4!1s7agpg3qodERMEe15umV3hw!2e0!7i16384!8i8192), but not anymore.
 * SP-054 (unpaved)
 * SPA-165/055 (municipal maintenance, as of 2023)
 * SPA-175/055 (municipal maintenance, as of 2023)
@@ -174,6 +175,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-396/300 (as of 2021)
 * SPA-425/300 (municipal maintenance, as of 2021)
 * 01 SPA-568/300 (as of 2023)
+* SPA-653/300 (as of 2021)
 * SPA-015/303 (municipal maintenance, as of 2021)
 * SPA-127/304 (as of 2023)
 * SPA-227/304 (as of 2011)
@@ -203,9 +205,7 @@ The following routes are not included due to apparent lack of signs:
 
 Notes on routes:
 * SP-023 [is signed](https://www.google.com/maps/@-23.3311657,-46.6881006,3a,15y,323.87h,85.55t/data=!3m6!1e1!3m4!1s5A4-ftmAyB5rGudEevLz_w!2e0!7i16384!8i8192). The east end is where maintenance and signage ends; the west end is a little sketchy due to a gap in maintenance through Franco da Rocha.
-* SP-036 has no signs near the north end; maintenance ends at SPA-003/010 (though without any signs saying so).
-* SP-039 [is signed](https://www.google.com/maps/@-23.6861814,-46.2145589,3a,15.7y,47.07h,83.52t/data=!3m6!1e1!3m4!1sLrD2-QRhtPcfx895QDHHxw!2e0!7i13312!8i6656) (as of 2011) on what sources say is actually SP-043.
-* SP-043 [is signed](https://www.google.com/maps/@-23.6752074,-46.3500887,3a,36.6y,35.45h,79.66t/data=!3m6!1e1!3m4!1shoac_0g64ulAmSb9NO9prw!2e0!7i16384!8i8192) from SP-031 despite being a low-quality dirt road. No post-2011 imagery is available elsewhere to see how it's signed.
+* SP-043 [is signed](https://www.google.com/maps/@-23.6752074,-46.3500887,3a,36.6y,35.45h,79.66t/data=!3m6!1e1!3m4!1shoac_0g64ulAmSb9NO9prw!2e0!7i16384!8i8192) from SP-031 despite being a low-quality dirt road.
 * SP-046 [is signed](https://www.google.com/maps/@-22.8256856,-45.6306235,3a,36y,277.65h,85.52t/data=!3m6!1e1!3m4!1sPT9sgPZXR4cKcJfaLjAMNQ!2e0!7i16384!8i8192).
 * SP-050 does not have a well-defined or signed south end. Numerous signs in São José dos Campos point the way between SP-050 and BR-116, but sources do not show that this is SP-050 proper. The south end of SP-050 and the south end of state maintenance are somewhere north of Estrada Juca Carvalho, but again there are no signs indicating where and km posts are missing.
 * SP-056 may not be signed anywhere west of the end of state maintenance in Arujá, but SPI-035/056 [is signed](https://www.google.com/maps/@-23.4617075,-46.3393103,3a,22.5y,337.44h,89.61t/data=!3m6!1e1!3m4!1sZJw8RMPcJQDR01CtW7csiw!2e0!7i16384!8i8192).
@@ -216,63 +216,50 @@ Notes on routes:
 * SP-062 is not signed and poorly defined through Aparecida, Guaratinguetá, and Lorena, but [at least one sign](https://www.google.com/maps/@-22.7457959,-45.1342764,3a,15y,223.55h,90.49t/data=!3m6!1e1!3m4!1sg4RwOOuKLkjz48_DfZOLrg!2e0!7i16384!8i8192) exists just west of Lorena. The east end in Cachoeira Paulista is poorly defined.
 * SP-066 has [at least one sign](https://www.google.com/maps/@-23.5312569,-46.3152639,3a,15y,276.07h,86.6t/data=!3m6!1e1!3m4!1s13mSalCxoM6sD2aOm8l2Ig!2e0!7i16384!8i8192) on the locally maintained portion through and west of Mogi das Cruzes. But if there are none actually on the route, this may not be enough given the lack of a well-defined route through Mogi das Cruzes.
 * SP-066 has no signed or defined route through Jacareí. On the other hand, it [is signed](https://www.google.com/maps/@-23.2278201,-45.9010078,3a,41.2y,203.13h,85.06t/data=!3m6!1e1!3m4!1sLF1MGs4OkJ3iNBG2wYFUhQ!2e0!7i16384!8i8192) in Dos Campos (despite the map showing it meeting BR-116 at Saída 154).
-* SP-102's south end may be wrong.
 * SP-105's east end is sketchy; maps and GIS show it ending at the junction of Avenida 23 de Setembro and Rua Dr. Pedro E. Pinheiro, both of which are supposed to carry SP-360, but signs point SP-360 through traffic as Google and OSM show. The end as mapped is where the [easternmost known SP-105 sign](https://www.google.com/maps/@-22.592155,-46.7110773,3a,15y,314.73h,86.7t/data=!3m6!1e1!3m4!1s0Z3rB3iJw-CdaIKC_7NfUQ!2e0!7i13312!8i6656) is located.
 * SP-129's south end is where state maintenance ends at km 74, since there is no signage south of there and no logical intersection with SP-157/SP-268. But [does it even exist south of Tatuí?](https://www.google.com/maps/@-23.3596368,-47.8907831,3a,16y,289.78h,88.43t/data=!3m6!1e1!3m4!1sy6yNEmcp8g-Oh98-WJp6Gg!2e0!7i16384!8i8192) It may become state maintained at the turnoff for Quadra.
 * SP-141 [is signed](https://www.google.com/maps/@-23.1855933,-48.1244037,3a,15y,335.8h,89.24t/data=!3m6!1e1!3m4!1sEYzli8vqOeeRcZYK_6iRRw!2e0!7i16384!8i8192).
-* SP-147 has no well-defined east end in Piracicaba.
+* SP-147 has no well-defined east end in Piracicaba, but it [is signed](https://www.google.com/maps/@-22.7455604,-47.6795928,3a,15y,317.2h,83.19t/data=!3m6!1e1!3m4!1sz0xkyubRn2TFIIXQRGqIww!2e0!7i16384!8i8192?entry=ttu) where we end it.
 * SP-148 appears to be partially closed to motor vehicle traffic, but is signed and walkable.
 * SP-157's south end is ill-defined.
-* SP-167 [is signed](https://www.google.com/maps/@-22.4128376,-46.9513354,3a,27.8y,85.48h,86.86t/data=!3m6!1e1!3m4!1soiWXbzvq6AZmNIUkYDZOLA!2e0!7i13312!8i6656) but not through Mogi Guaçu, so the end is at the border.
-* SP-189 bypasses Campina do Monte Alegre (using Rua Marcelina V. dos Santos) according to maps, but [signs (as of 2011)](https://www.google.com/maps/@-23.5580123,-48.4520605,3a,75y,321.41h,68.24t/data=!3m6!1e1!3m4!1sFEXSyyU6zKhRbr-2PDmWdQ!2e0!7i13312!8i6656) show that the bypass is locally maintained, and distance matches the through-town route.
+* SP-167 [was signed in 2017](https://www.google.com/maps/@-22.4128485,-46.9513544,3a,15y,82.95h,87.54t/data=!3m7!1e1!3m5!1sQFhhRo34y751NA_IRuw23g!2e0!5s20170501T000000!7i13312!8i6656?entry=ttu), but not anymore.
+* SP-189 bypasses Campina do Monte Alegre (using Rua Marcelina V. dos Santos) according to maps, but [signs](https://www.google.com/maps/@-23.5579909,-48.4520475,3a,75y,321.41h,68.24t/data=!3m6!1e1!3m4!1su0U3t7ZDmFerPDn4T07hWg!2e0!7i16384!8i8192?entry=ttu) show that the bypass is locally maintained, and distance matches the through-town route.
 * SP-211 [is signed](https://www.google.com/maps/@-21.6525034,-46.8712168,3a,48.3y,358h,82.25t/data=!3m7!1e1!3m5!1svOSOVX_KnPijN2kj-FMfUg!2e0!5s20150601T000000!7i16384!8i8192).
 * SP-228 and SP-234 essentially intersect in a huge circle around downtown Itapecerica da Serra. One point is placed at the rough center.
-* SP-249 [is signed](https://www.google.com/maps/@-23.9994865,-48.8786124,3a,16.1y,205.19h,83.82t/data=!3m6!1e1!3m4!1s8MrOhh5DDaXdM9iHquMgAg!2e0!7i16384!8i8192) in Itapeva.
+* SP-249 [is signed](https://www.google.com/maps/@-23.9988984,-48.8786963,3a,34.5y,195.45h,81.48t/data=!3m6!1e1!3m4!1s2OsKOnWOQ2bN7qcVmTEENQ!2e0!7i16384!8i8192?entry=ttu) in Itapeva.
 * SP-261 [is signed](https://www.google.com/maps/@-23.206947,-49.238938,3a,18.9y,17.5h,88.27t/data=!3m6!1e1!3m4!1sA3QMA8BXyahTGI3abeXlvA!2e0!7i13312!8i6656).
-* SP-266's west end may be wrong due to lack of imagery.
 * SP-268 is signed [east of Capela do Alto](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656), [at Tupy](https://www.google.com/maps/@-23.5437859,-48.2309901,3a,15.2y,41.85h,84.33t/data=!3m6!1e1!3m4!1sNbEgiOsFLKRKrqjsFniCKw!2e0!7i16384!8i8192?entry=ttu), [at Angatuba](https://www.google.com/maps/@-23.4955655,-48.4163289,3a,15.6y,186.75h,82.51t/data=!3m6!1e1!3m4!1sz0ZXNsZ6vfYnourOU9sziw!2e0!7i16384!8i8192?entry=ttu), and [west of Paranapanema](https://www.google.com/maps/@-23.4189686,-48.8804453,3a,15y,68.65h,90.8t/data=!3m6!1e1!3m4!1s6Ug2dUykR7jkhqqviZhgwA!2e0!7i16384!8i8192?entry=ttu) (but is it actually driveable there? there seems to be [another](https://www.google.com/maps/@-23.3727376,-48.7340733,3a,15y,246.02h,86.36t/data=!3m6!1e1!3m4!1sDLciJNC7GSuv-kHhO8FzMQ!2e0!7i16384!8i8192?entry=ttu) closer to Paranapanema). The route thru Angatuba is guesswork based on limited signage for destinations and one-way streets (are there any signs west of Angatuba?). The end west of Angatuba is rough. The end in Paranapanema is guessed.
 * SP-300 is closed to all traffic west of BR-262.
 * SP-316's north end may be slightly off.
 
+Acessos and Interligações:
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
 * SPA-052/031 [is signed](https://www.google.com/maps/@-23.688352,-46.3925401,3a,15y,34.25h,106.56t/data=!3m6!1e1!3m4!1sRyaEiBL2hLdKPXeffxIKAw!2e0!7i16384!8i8192).
 * SPA-058/031 [is signed](https://www.google.com/maps/@-23.6433758,-46.3216465,3a,15y,100.14h,81.93t/data=!3m6!1e1!3m4!1sU7JpdrhaB6Ls1BjYOUqS0g!2e0!7i16384!8i8192).
-* SPA-220/052 [is signed](https://www.google.com/maps/@-22.5706432,-44.9950992,3a,15y,99.07h,88.21t/data=!3m6!1e1!3m4!1s7agpg3qodERMEe15umV3hw!2e0!7i16384!8i8192), but as of 2011 the east end is unclear.
-* SPA-248/055 [is signed](https://www.google.com/maps/@-23.9829983,-46.2650202,3a,18.2y,285.58h,87.42t/data=!3m6!1e1!3m4!1sHpNepqI08kMsoh5dUws1_A!2e0!7i16384!8i8192) (with a missing 0). Sources show that it continues south to Avenida Ademar de Barros (01 SPA-248/055), but the Ecovias concession and signage end at the circle where the freeway ends.
+* SPA-248/055 [is signed](https://www.google.com/maps/@-23.9294665,-46.2845404,3a,17y,174.44h,86.19t/data=!3m6!1e1!3m4!1skofyAA3dJ5zU8zsUIwI0Bw!2e0!7i16384!8i8192?entry=ttu) (with a missing 0). Sources show that it continues south to Avenida Ademar de Barros (01 SPA-248/055), but the Ecovias concession and signage end at the circle where the freeway ends.
 * SPA-291/055 [is signed](https://www.google.com/maps/@-23.9977704,-46.4111343,3a,21.3y,278.54h,88.17t/data=!3m6!1e1!3m4!1ss0U16t3V0_o7fyq-yD-rpA!2e0!7i16384!8i8192).
 * SPA-344/055: the east end is poorly defined; it officially continues locally-maintained back to SP-055 at Per, but this is not signed.
 * SPI-084/066 [is signed](https://www.google.com/maps/@-23.3467599,-46.0205593,3a,15y,157.05h,88.23t/data=!3m6!1e1!3m4!1sTodoGdcHL2NWMrKnvZOY9Q!2e0!7i16384!8i8192) (with missing 0s).
 * SPA-103/079's north end may be wrong.
-* SPA-032/101 [is signed](https://www.google.com/maps/@-22.9846962,-47.3781872,3a,15y,168.37h,89.1t/data=!3m6!1e1!3m4!1s77uriIBHBI5JiTaDOBTHFA!2e0!7i16384!8i8192), but imagery at the south end is older, so it may extend another block.
+* SPA-032/101 [is signed](https://www.google.com/maps/@-22.9861221,-47.3779481,3a,36.7y,193.85h,88.03t/data=!3m6!1e1!3m4!1sI75DcdmMrRkIIqN2PqUX_w!2e0!7i16384!8i8192?entry=ttu) (erroneously as SPA-032).
 * SPA-043/125 [is signed](https://www.google.com/maps/@-23.2376732,-45.3050466,3a,15y,31.84h,92.78t/data=!3m6!1e1!3m4!1sCiBm-JO2KWwhJOTkB5NZow!2e0!7i16384!8i8192).
-* SPA-046/125 is signed at the north end, but imagery may not be new enough to show signage at the south end (on the unpaved portion). Since there are no photos along the route, it's assumed to end where pavement does.
 * SPA-084/127 [is signed](https://www.google.com/maps/@-23.1244141,-47.7164213,3a,15.4y,77.91h,85.1t/data=!3m6!1e1!3m4!1synketLEGA2THqgbSdbfqwQ!2e0!7i16384!8i8192) despite municipal maintenance!
 * SPI-083/191 [is erroneously signed as SPI-083](https://www.google.com/maps/@-22.4071664,-47.675512,3a,24.6y,119.9h,94.61t/data=!3m6!1e1!3m4!1sHLXKG1uALeP9u1uDc1T69g!2e0!7i16384!8i8192?entry=ttu).
-* SPA-007/209 [is signed](https://www.google.com/maps/@-23.0116653,-48.5065781,3a,15y,147.3h,88.55t/data=!3m6!1e1!3m4!1sydzae-UaTybOx9zk9_RkdQ!2e0!7i16384!8i8192) (blue sign in the background).
-* SPA-069/255 [is consistently signed](https://www.google.com/maps/@-21.7531989,-48.0730017,3a,15.3y,280.55h,100.78t/data=!3m6!1e1!3m4!1sRpT8v97KeLHn_XdPFtTH8g!2e0!7i16384!8i8192) (as of 2018) on what other sources show to be part of SP-257. According to [a list from 2016](https://repositorio.ufscar.br/bitstream/handle/ufscar/10394/MASSARO_Camila_2018.pdf) (p. 58 of 105), SPA-069/255 was 4 km long, placing the transition at the southernmost turnoff for Américo Brasiliense.
-* SPA-106/255 [was signed as SPA-105/255](https://www.google.com/maps/@-21.9403512,-48.3400779,3a,15.6y,308.47h,96.88t/data=!3m6!1e1!3m4!1sQmSeuQn6XEozqaYU1WBcMg!2e0!7i13312!8i6656) in 2011. Since other sources all show SPA-106/255, that is assumed to be the current designation.
-* SPA-115/255 [was signed as SPA-114/255](https://www.google.com/maps/@-22.0037561,-48.383964,3a,28.7y,146.17h,105.15t/data=!3m6!1e1!3m4!1sDanTSBN5UFTvTiTQCXCikA!2e0!7i13312!8i6656) in 2011. Other sources show SPA-115/255, but this is an extension of the "real" SPA-114/255, which is not explicitly signed on its segment, so the entire route is listed here as SPA-114/255.
+* SPA-069/255 [wass consistently signed](https://www.google.com/maps/@-21.7531989,-48.0730017,3a,15.3y,280.55h,100.78t/data=!3m6!1e1!3m4!1sRpT8v97KeLHn_XdPFtTH8g!2e0!7i16384!8i8192) (as of 2018) on what is now SP-257. According to [a list from 2016](https://repositorio.ufscar.br/bitstream/handle/ufscar/10394/MASSARO_Camila_2018.pdf) (p. 58 of 105), SPA-069/255 was 4 km long, placing the transition at the southernmost turnoff for Américo Brasiliense. This is all moot since it's now signed properly.
 * SPA-338/255's north end may be wrong.
-* SPA-004/257 [is signed](https://www.google.com/maps/@-21.7375108,-48.1041429,3a,18.2y,219.42h,81.18t/data=!3m6!1e1!3m4!1s6MpvhG4kSZh3yzMg11viCQ!2e0!7i13312!8i6656).
-* SPA-502/266's west end may be wrong due to lack of imagery.
-* SPA-142/270's south end may be wrong due to lack of imagery.
+* SPA-004/257 [is signed](https://www.google.com/maps/@-21.738196,-48.104228,3a,15y,221.67h,87.26t/data=!3m6!1e1!3m4!1sxyyR3OgczHKmpl4FUMZNqw!2e0!7i16384!8i8192?entry=ttu).
+* SPA-142/270's south end may be wrong, but it [is signed into town](https://www.google.com/maps/@-23.6201522,-47.8242806,3a,15y,204.21h,84.23t/data=!3m6!1e1!3m4!1sKBDehEntKec0wWFHTYNk2w!2e0!7i16384!8i8192?entry=ttu).
 * SPA-552/270's north end may be wrong.
 * SPA-032/280 [is signed](https://www.google.com/maps/@-23.5172741,-46.9216489,3a,37.1y,89.4h,90.8t/data=!3m6!1e1!3m4!1sl3-gLKTtY7PRULYVyEddXQ!2e0!7i16384!8i8192).
 * SPA-475/284's north end may be wrong.
 * SPA-570/294's route thru Osvaldo Cruz may be wrong; the 2017 map may show Rua Armando Salles.
-* SPA-172/300 [is signed](https://www.google.com/maps/@-23.0633737,-47.8221026,3a,15y,193.31h,88.76t/data=!3m6!1e1!3m4!1sqUewpf6CK5IH2HI9R10D6w!2e0!7i16384!8i8192).
 * SPA-241/300's west end is at SP-300 according to its length, but the 2017 map shows a stub north of SP-300.
-* There may be [an access road](https://www.google.com/maps/@-22.9434324,-48.3816025,3a,15y,170.72h,88.59t/data=!3m6!1e1!3m4!1sgsEoQ8hvviMEQGZn7a_EKg!2e0!7i16384!8i8192) off SP-300 towards Pardinho.
 * SPA-397/300's south end may be wrong.
-* SPA-483/300 [is signed](https://www.google.com/maps/@-21.4769048,-50.0802699,3a,15y,4.64h,87.28t/data=!3m6!1e1!3m4!1sxXF_3dYDK1iVq9_P38fhVg!2e0!7i16384!8i8192) despite being locally maintained!
-* SPA-624/300 was not signed as of 2011, but is assumed to be signed now based on all the other nearby accesses.
-* SPA-653/300 was not signed as of 2011, but is assumed to be signed now based on all the other nearby accesses.
-* SPA-341/310 [appears to be signed](https://www.google.com/maps/@-21.4133618,-48.6854137,3a,15y,352.72h,91.14t/data=!3m6!1e1!3m4!1sXIqjSjZ_9_Ct5dlNzOyX2g!2e0!7i13312!8i6656). The east end may be wrong due to lack of imagery.
+* SPA-483/300 [is signed](https://www.google.com/maps/@-21.4764035,-50.0802913,3a,15y,5.25h,86.55t/data=!3m6!1e1!3m4!1spA4LvF3JtbVQm5w-PvzD1g!2e0!7i16384!8i8192?entry=ttu) (erroneously as SPA-483) despite being locally maintained!
 * SPA-348/310's east end may be wrong.
-* SPA-402/310 [is signed](https://www.google.com/maps/@-21.1003689,-49.1768081,3a,16.9y,70.52h,86.64t/data=!3m6!1e1!3m4!1sy2Eqi5LUOEYVpccwE4UXlw!2e0!7i13312!8i6656).
 * SPA-430/310 is locally maintained and [mis-signed](https://www.google.com/maps/@-20.8704045,-49.3249814,3a,19.1y,107.16h,82.94t/data=!3m6!1e1!3m4!1sOy6kRFwEuWOVO9iO4_QcGg!2e0!7i16384!8i8192) as SP-430.
 * SPA-482/310's south end may be wrong.
 * SPA-565/310 [is signed](https://www.google.com/maps/@-20.6703662,-50.5522369,3a,15y,189.77h,86.04t/data=!3m6!1e1!3m4!1sLJuPNKxgNoycr1wZqEcEIQ!2e0!7i16384!8i8192?entry=ttu) erroneously as SPA-565. Its south end may be wrong.
 * SPA-605/310 [is signed](https://www.google.com/maps/@-20.681446,-50.9232505,3a,15.4y,22.27h,84.52t/data=!3m6!1e1!3m4!1ss05U7AnCqgJ-xIBtvCKGYQ!2e0!7i16384!8i8192?entry=ttu).
 * SPA-621/310 [is signed](https://www.google.com/maps/@-20.6303898,-51.0904345,3a,15y,52.77h,85.45t,0.14r/data=!3m6!1e1!3m4!1sHiyGvAWE3Nzr5jgQBVUdMw!2e0!7i16384!8i8192?entry=ttu).
-* SPI-627/310 [is signed](https://www.google.com/maps/@-20.6032514,-51.122967,3a,15y,263.47h,83.99t/data=!3m6!1e1!3m4!1shJReYsavF5z9V9XWamsivQ!2e0!7i16384!8i8192).
+* SPI-627/310 [is signed](https://www.google.com/maps/@-20.6040945,-51.1233726,3a,15y,62.27h,85.69t/data=!3m6!1e1!3m4!1sT92U89FvLOHqJeXdVLkaXg!2e0!7i16384!8i8192?entry=ttu).
