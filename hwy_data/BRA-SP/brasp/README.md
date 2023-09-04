@@ -8,6 +8,7 @@ Sources:
 
 The following routes are not included due to apparent lack of signs:
 * SP-008 segments between Mairiporã and Bragança Paulista (as of 2023)
+* SPA-134/008 (municipal maintenance; assuming this is [Estrada Municipal Saturnino Rodrigues de Moraes](https://www.google.com/maps/@-22.6128466,-46.5308865,3a,39.2y,119.33h,85.88t/data=!3m6!1e1!3m4!1sOxAw4XTv7ItKZfDSYCgMLQ!2e0!7i16384!8i8192?entry=ttu))
 * SP-015 (Marginal Pinheiros and Marginal Tietê): mostly included in brasf
 * SPI-016/021 (as of 2023)
 * SP-036 through Cumbica
@@ -28,13 +29,20 @@ The following routes are not included due to apparent lack of signs:
 * SPA-069/066 (as of 2023)
 * SPA-073/066 (municipal maintenance, as of 2022)
 * SP-073 south of SP-324 (municipal maintenance or unpaved, as of 2023) - but it [is signed](https://www.google.com/maps/@-23.1727401,-47.2700371,3a,75y,80.39h,85.69t/data=!3m6!1e1!3m4!1sJ7Sb4w50c-6_ebvHrTZKrQ!2e0!7i16384!8i8192) on SP-075!
+* SPA-043/075 (as of 2023) - this also seems to be inventoried as the north end of SP-079
+* 01 SPA-103/079 is not shown on maps, but none of the potential routes seem to be signed as anything
 * SPA-115/079 (municipal maintenance, as of 2023)
 * SP-092 (unpaved, as of 2023)
+* 01 SPA-032/099 is not shown on maps, and its location is unclear
+* SPI-065/099 is mapped as SP-099Car, since it is currently signed as the northbound lanes of SP-099 from SPI-097/055 to the top of the hill. It is unknown whether this will change in the future when SPI-097/055 is complete.
 * SPA-008/101 (municipal maintenance, as of 2023)
 * SPA-026/101 (as of 2018)
 * SPA-031/107 (municipal maintenance, as of 2021)
 * SPA-045/107 (municipal maintenance, as of 2012)
 * SPA-003/125 (municipal maintenance, as of 2021)
+* SPA-014/125 (as of 2019)
+* SPA-079/127 (planned, as of 2021)
+* SPA-091/127 (maps are unclear about its exact location)
 * SPA-097/127 (unpaved, as of 2011)
 * SPA-117/127 (as of 2022)
 * SPA-146/127 (as of 2023)
@@ -45,6 +53,7 @@ The following routes are not included due to apparent lack of signs:
 * SP-133 (as of 2021)
 * SPA-099/139 (unpaved, as of 2022)
 * SPA-009/141 (as of 2023)
+* SPA-047/141 (maps are unclear about where this is; it may be one direction of SP-141)
 * SPA-018/143 (as of 2021)
 * SPI-059/150 (Interligação Baixada, as of 2019): included in brasf
 * SPA-163/165 (no imagery, but does not appear to even exist on the ground)
@@ -74,6 +83,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-101/225 (municipal maintenance, as of 2021)
 * SPA-036/226 (as of 2022)
 * SPA-552/230 (as of 2023, but no imagery along the actual route)
+* SPA-005/245 (as of 2011)
 * SPA-022/245 (as of 2021)
 * SPA-026/245 (as of 2021)
 * SPA-010/249 (as of 2021)
@@ -122,12 +132,14 @@ The following routes are not included due to apparent lack of signs:
 * SPA-205/270 (as of 2023)
 * SPA-223/270 (as of 2021)
 * SPA-326/270 (as of 2021)
+* SPA-350/270 (as of 2021)
 * SPA-405/270 (as of 2021)
 * SPA-441/270 (municipal maintenance, as of 2022)
 * SPA-471/270 (as of 2021)
 * SPA-569/270 (municipal maintenance, as of 2022)
 * SPA-576/270 (municipal maintenance, as of 2012)
 * SPA-597/270 (as of 2022)
+* SPA-619/270 (as of 2022)
 * SPA-652/270 (municipal maintenance, as of 2021)
 * SPA-654/270 (municipal maintenance, as of 2018)
 * SPA-007/271 (as of 2018)
@@ -178,6 +190,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-653/300 (as of 2021)
 * SPA-015/303 (municipal maintenance, as of 2021)
 * SPA-127/304 (as of 2023)
+* SPA-191/304 (as of 2022)
 * SPA-227/304 (as of 2011)
 * SPA-270/304 (municipal maintenance, as of 2018)
 * SPA-341/304 (as of 2023)
@@ -190,6 +203,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-301/310 (as of 2022)
 * 06 SPA-364/310 (as of 2015)
 * 08 SPA-364/310 (as of 2021, but no imagery along the actual route)
+* SPA-382/310 (as of 2022)
 * SPA-424/310 (as of 2023)
 * SPA-492/310 (as of 2022, but no imagery along the actual route)
 * SPA-508/310 (as of 2022, but no imagery along the actual route)
@@ -197,6 +211,7 @@ The following routes are not included due to apparent lack of signs:
 * SPA-555/310 (as of 2023)
 * SPA-029/312 (municipal maintenance, as of 2019)
 * SPA-053/312 (as of 2022)
+* SPA-018/315 (as of 2022)
 * SPA-020/315 (as of 2022)
 * SPA-244/344 (as of 2023)
 * SPA-183/387 (as of 2022)
@@ -219,6 +234,7 @@ Notes on routes:
 * SP-105's east end is sketchy; maps and GIS show it ending at the junction of Avenida 23 de Setembro and Rua Dr. Pedro E. Pinheiro, both of which are supposed to carry SP-360, but signs point SP-360 through traffic as Google and OSM show. The end as mapped is where the [easternmost known SP-105 sign](https://www.google.com/maps/@-22.592155,-46.7110773,3a,15y,314.73h,86.7t/data=!3m6!1e1!3m4!1s0Z3rB3iJw-CdaIKC_7NfUQ!2e0!7i13312!8i6656) is located.
 * SP-129's south end is where state maintenance ends at km 74, since there is no signage south of there and no logical intersection with SP-157/SP-268. But [does it even exist south of Tatuí?](https://www.google.com/maps/@-23.3596368,-47.8907831,3a,16y,289.78h,88.43t/data=!3m6!1e1!3m4!1sy6yNEmcp8g-Oh98-WJp6Gg!2e0!7i16384!8i8192) It may become state maintained at the turnoff for Quadra.
 * SP-141 [is signed](https://www.google.com/maps/@-23.1855933,-48.1244037,3a,15y,335.8h,89.24t/data=!3m6!1e1!3m4!1sEYzli8vqOeeRcZYK_6iRRw!2e0!7i16384!8i8192).
+* SPA-019/143 [is signed](https://www.google.com/maps/@-23.0670875,-47.974411,3a,15y,262.23h,85.21t/data=!3m6!1e1!3m4!1st6E9p0FkV2CBY7RJLvAWsA!2e0!7i16384!8i8192?entry=ttu), but 1.05 km is way too long for where the south end appears to be in reality.
 * SP-147 has no well-defined east end in Piracicaba, but it [is signed](https://www.google.com/maps/@-22.7455604,-47.6795928,3a,15y,317.2h,83.19t/data=!3m6!1e1!3m4!1sz0xkyubRn2TFIIXQRGqIww!2e0!7i16384!8i8192?entry=ttu) where we end it.
 * SP-148 appears to be partially closed to motor vehicle traffic, but is signed and walkable.
 * SP-157's south end is ill-defined.
@@ -266,24 +282,6 @@ Acessos and Interligações:
 * SPI-627/310 [is signed](https://www.google.com/maps/@-20.6040945,-51.1233726,3a,15y,62.27h,85.69t/data=!3m6!1e1!3m4!1sT92U89FvLOHqJeXdVLkaXg!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
-* SPA-134/008
-* SPI-097/055
-* SPI-126/070
-* SPA-043/075
-* 01 SPA-103/079
-* 01 SPA-032/099
-* SPI-065/099
-* SPA-014/125
-* SPA-079/127
-* SPA-091/127
-* SPA-047/141
-* SPA-019/143
-* SPA-005/245
-* SPA-350/270
-* SPA-619/270
-* SPA-191/304
-* SPA-382/310
-* SPA-018/315
 * SP-317
 * SPA-020/317
 * SP-318
