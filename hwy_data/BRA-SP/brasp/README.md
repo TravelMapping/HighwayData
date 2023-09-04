@@ -217,6 +217,22 @@ The following routes are not included due to apparent lack of signs:
 * SPA-183/387 (as of 2022)
 * SPA-373/425 (as of 2021)
 * SPA-481/425 (as of 2021)
+* SPA-000/563 (as of 2018)
+* SPA-051/563 (as of 2011)
+* SPA-080/563 (as of 2012)
+* SPA-126/563 (as of 2022)
+* SPA-127/563 (as of 2022)
+* SPA-140/563 (as of 2021)
+* SPA-141/563 (as of 2021)
+* SPA-172/563 (as of 2022)
+* SPA-308/563 (as of 2023)
+* SPA-314/563 (as of 2023)
+* SPA-322/563 (as of 2023)
+* SPA-331/563 (as of 2023)
+* SPA-349/563 (as of 2011)
+* SPA-041/613 (as of 2011)
+* SPA-074/613 (as of 2021)
+* SPA-079/613 (as of 2022)
 
 Notes on routes:
 * SP-023 [is signed](https://www.google.com/maps/@-23.3311657,-46.6881006,3a,15y,323.87h,85.55t/data=!3m6!1e1!3m4!1s5A4-ftmAyB5rGudEevLz_w!2e0!7i16384!8i8192). The east end is where maintenance and signage ends; the west end is a little sketchy due to a gap in maintenance through Franco da Rocha.
@@ -280,6 +296,7 @@ Acessos and Interligações:
 * SPA-605/310 [is signed](https://www.google.com/maps/@-20.681446,-50.9232505,3a,15.4y,22.27h,84.52t/data=!3m6!1e1!3m4!1ss05U7AnCqgJ-xIBtvCKGYQ!2e0!7i16384!8i8192?entry=ttu).
 * SPA-621/310 [is signed](https://www.google.com/maps/@-20.6303898,-51.0904345,3a,15y,52.77h,85.45t,0.14r/data=!3m6!1e1!3m4!1sHiyGvAWE3Nzr5jgQBVUdMw!2e0!7i16384!8i8192?entry=ttu).
 * SPI-627/310 [is signed](https://www.google.com/maps/@-20.6040945,-51.1233726,3a,15y,62.27h,85.69t/data=!3m6!1e1!3m4!1sT92U89FvLOHqJeXdVLkaXg!2e0!7i16384!8i8192?entry=ttu).
+* SP-613's east end is east of downtown Teodoro Sampaio, where it becomes SPA-000/563. However, SPA-000/563 is not signed and neither is SP-613 thru Teodoro Sampaio.
 
 Routes that have not been mapped yet:
 * SP-317
@@ -580,30 +597,10 @@ Routes that have not been mapped yet:
 * SPA-579/543
 * SP-557
 * SP-561
-* SP-563
-* SPA-000/563
-* SPA-001/563
-* SPA-051/563
-* SPA-080/563
-* SPA-126/563
-* SPA-127/563
-* SPA-140/563
-* SPA-141/563
-* SPA-142/563
-* SPA-147/563
-* SPA-172/563
-* SPA-308/563
-* SPA-314/563
-* SPA-322/563
-* SPA-331/563
-* SPA-349/563
 * SP-595
 * SPA-022/595
 * SPA-106/595
 * SPA-110/595
 * SPA-111/595
 * SPA-121/595
-* SP-613
-* SPA-041/613
-* SPA-074/613
-* SPA-079/613
+
