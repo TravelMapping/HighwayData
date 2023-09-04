@@ -147,86 +147,59 @@ The following routes are not included due to apparent lack of signs:
 * SPA-057/287 (as of 2021)
 * SPA-010/291 (as of 2023)
 * SPA-026/291 (as of 2022)
-* 
-* SPA-354/294 (as of 2017)
-* SPA-360/294 (as of 2011)
-* SPA-402/294 (as of 2011)
-* SPA-420/294 (as of 2011)
-* SPA-458/294 (municipal maintenance, as of 2018)
-* SPA-498/294 (as of 2011)
-* SPA-511/294 (as of 2011)
+* SPA-354/294 (as of 2022)
+* SPA-458/294 (municipal maintenance, as of 2022)
 * SPA-561/294 (municipal maintenance, as of 2012)
-* SPA-569/294 (municipal maintenance, as of 2012)
-* SPA-570/294 (as of 2012)
-* SPA-571/294 (as of 2011)
-* SPA-585/294 (as of 2012)
-* SPA-592/294 (as of 2011)
-* SPA-593/294 (as of 2012)
-* SPA-605/294 (as of 2011)
-* SPA-606/294 (as of 2011)
-* SPA-616/294 (as of 2019, but no imagery along the actual route)
-* SPA-627/294 (as of 2019) - but it's signed as leading to [SP-501](https://www.google.com/maps/@-21.5351603,-51.3494266,3a,17.6y,334.22h,91.18t/data=!3m6!1e1!3m4!1stKMCg-vTS9EvWnqxCQZiuA!2e0!7i16384!8i8192)
-* SPA-637/294 (municipal maintenance, as of 2011)
+* SPA-569/294 (unpaved, as of 2021)
+* SPA-585/294 (as of 2023)
+* SPA-593/294 (as of 2023)
+* SPA-606/294 (as of 2023)
+* SPA-637/294 (municipal maintenance, as of 2021)
 * SPA-647/294 (as of 2012)
-* SPA-648/294 (as of 2012)
-* SPA-658/294 (as of 2018)
-* SPA-675/294 (as of 2011, but no imagery along the actual route)
+* SPA-648/294 (as of 2021)
+* SPA-675/294 (as of 2022, but no imagery along the actual route)
 * SPA-683/294 (as of 2018)
-* SPA-097/300 (as of 2019)
-* SPA-129/300 (as of 2019)
-* SPA-155/300 (as of 2019, but no imagery along the actual route)
-* SPA-157/300 (municipal maintenance, as of 2019)
+* SPA-097/300 (as of 2023)
+* SPA-129/300 (as of 2022)
+* SPA-155/300 (as of 2022, but no imagery along the actual route)
+* SPA-157/300 (municipal maintenance, as of 2021)
 * SPA-159/300 (municipal maintenance, as of 2011)
-* SPA-176/300 (municipal maintenance, as of 2019)
+* SPA-176/300 (municipal maintenance, as of 2022)
 * SPA-196/300 (as of 2019)
-* SPA-241/300 (as of 2011)
-* SPA-258/300 (as of 2011)
-* SPA-270/300 (as of 2011)
-* SPA-283/300 (as of 2011)
-* SPA-323/300 (municipal maintenance, as of 2015)
-* SPA-326/300 (municipal maintenance, as of 2015)
-* SPA-396/300 (as of 2018, but no imagery along the actual route)
-* SPA-425/300 (municipal maintenance, as of 2011)
-* 01 SPA-568/300 (as of 2011)
-* SPA-015/303 (municipal maintenance, as of 2018)
-* SPA-127/304 (as of 2019)
-* SPA-195/304 (as of 2011)
-* SPA-201/304 (as of 2011)
-* SPA-223/304 (as of 2011, but no imagery along the actual route)
+* SPA-258/300 (as of 2023)
+* SPA-270/300 (as of 2023)
+* SPA-283/300 (as of 2023)
+* SPA-323/300 (municipal maintenance, as of 2023)
+* SPA-326/300 (municipal maintenance, as of 2023)
+* SPA-396/300 (as of 2021)
+* SPA-425/300 (municipal maintenance, as of 2021)
+* 01 SPA-568/300 (as of 2023)
+* SPA-015/303 (municipal maintenance, as of 2021)
+* SPA-127/304 (as of 2023)
 * SPA-227/304 (as of 2011)
 * SPA-270/304 (municipal maintenance, as of 2018)
-* SPA-341/304 (as of 2018, but no imagery along the actual route)
-* SPA-363/304 (as of 2018, but no imagery along the actual route)
+* SPA-341/304 (as of 2023)
+* SPA-363/304 (as of 2021, but no imagery along the actual route)
 * SPA-365/304 (as of 2011)
-* SPA-394/304 (as of 2018)
+* SPA-394/304 (as of 2022)
 * SPA-016/305 (as of 2011)
-* SPA-117/308 (municipal maintenance, as of 2015)
-* SPI-194/308 (no imagery since the bypass was built)
-* SPA-193/310 (as of 2020, but no imagery along the actual route)
-* SPA-200/310 (as of 2019, but no imagery along the actual route)
-* SPA-271/310 (as of 2017)
-* SPA-301/310 (as of 2012)
+* SPA-117/308 (municipal maintenance, as of 2022)
+* SPA-200/310 (as of 2021, but no imagery along the actual route)
+* SPA-301/310 (as of 2022)
 * 06 SPA-364/310 (as of 2015)
-* 08 SPA-364/310 (as of 2015, but no imagery along the actual route)
-* SPA-424/310 (as of 2020)
-* SPA-482/310 (no imagery available)
-* SPA-492/310 (as of 2018, but no imagery along the actual route)
-* SPA-498/310 (as of 2011, but no imagery along the actual route)
-* SPA-499/310 (as of 2011, but no imagery along the actual route)
-* SPA-508/310 (as of 2011, but no imagery along the actual route)
+* 08 SPA-364/310 (as of 2021, but no imagery along the actual route)
+* SPA-424/310 (as of 2023)
+* SPA-492/310 (as of 2022, but no imagery along the actual route)
+* SPA-508/310 (as of 2022, but no imagery along the actual route)
 * SPA-520/310 (municipal maintenance, as of 2011)
-* SPA-555/310 (as of 2011)
-* SPA-565/310 (as of 2011)
-* SPA-605/310 (as of 2011, but no imagery along the actual route)
-* SPA-621/310 (as of 2018)
+* SPA-555/310 (as of 2023)
 * SPA-029/312 (municipal maintenance, as of 2019)
-* SPA-053/312 (as of 2019)
-* SPA-020/315 (as of 2011)
-* SPA-119/333 (as of 2018)
-* SPA-244/344 (as of 2015)
-* SPA-183/387 (as of 2018)
-* SPA-373/425 (as of 2012)
-* SPA-481/425 (as of 2018, but no imagery along the actual route)
+* SPA-053/312 (as of 2022)
+* SPA-020/315 (as of 2022)
+* SPA-244/344 (as of 2023)
+* SPA-183/387 (as of 2022)
+* SPA-373/425 (as of 2021)
+* SPA-481/425 (as of 2021)
 
 Notes on routes:
 * SP-023 [is signed](https://www.google.com/maps/@-23.3311657,-46.6881006,3a,15y,323.87h,85.55t/data=!3m6!1e1!3m4!1s5A4-ftmAyB5rGudEevLz_w!2e0!7i16384!8i8192). The east end is where maintenance and signage ends; the west end is a little sketchy due to a gap in maintenance through Franco da Rocha.
@@ -237,7 +210,7 @@ Notes on routes:
 * SP-050 does not have a well-defined or signed south end. Numerous signs in São José dos Campos point the way between SP-050 and BR-116, but sources do not show that this is SP-050 proper. The south end of SP-050 and the south end of state maintenance are somewhere north of Estrada Juca Carvalho, but again there are no signs indicating where and km posts are missing.
 * SP-056 may not be signed anywhere west of the end of state maintenance in Arujá, but SPI-035/056 [is signed](https://www.google.com/maps/@-23.4617075,-46.3393103,3a,22.5y,337.44h,89.61t/data=!3m6!1e1!3m4!1sZJw8RMPcJQDR01CtW7csiw!2e0!7i16384!8i8192).
 * SP-058's east end is according to length shown in the log, due to lack of signage.
-* SP-062 [is signed](https://www.google.com/maps/@-23.1129399,-45.7288434,3a,15.6y,247.02h,87.17t/data=!3m6!1e1!3m4!1swgx6UNLfixpJVot5SvnM2A!2e0!7i16384!8i8192) west of Caçapava. The log shows that state maintenance ends at the border with São José dos Campos, and that SP-062 continued locally-maintained for another 2.8 km to somewhere in Eugênio de Melo.
+* SP-062 [is signed](https://www.google.com/maps/@-23.1129399,-45.7288434,3a,15.6y,247.02h,87.17t/data=!3m6!1e1!3m4!1swgx6UNLfixpJVot5SvnM2A!2e0!7i16384!8i8192) west of Caçapava. The log shows that state maintenance ends at the border with São José dos Campos, and that SP-062 continues locally-maintained for another 2.8 km to somewhere in Eugênio de Melo.
 * SP-062 has no signed or defined westbound route through Caçapava.
 * SP-062 has no signed or defined route through Pindamonhangaba, so it has been split at the bypass (Anel Viario). It may in fact be completely unsigned in this area until the SPA-085/060 intersection.
 * SP-062 is not signed and poorly defined through Aparecida, Guaratinguetá, and Lorena, but [at least one sign](https://www.google.com/maps/@-22.7457959,-45.1342764,3a,15y,223.55h,90.49t/data=!3m6!1e1!3m4!1sg4RwOOuKLkjz48_DfZOLrg!2e0!7i16384!8i8192) exists just west of Lorena. The east end in Cachoeira Paulista is poorly defined.
@@ -286,7 +259,9 @@ Notes on routes:
 * SPA-552/270's north end may be wrong.
 * SPA-032/280 [is signed](https://www.google.com/maps/@-23.5172741,-46.9216489,3a,37.1y,89.4h,90.8t/data=!3m6!1e1!3m4!1sl3-gLKTtY7PRULYVyEddXQ!2e0!7i16384!8i8192).
 * SPA-475/284's north end may be wrong.
+* SPA-570/294's route thru Osvaldo Cruz may be wrong; the 2017 map may show Rua Armando Salles.
 * SPA-172/300 [is signed](https://www.google.com/maps/@-23.0633737,-47.8221026,3a,15y,193.31h,88.76t/data=!3m6!1e1!3m4!1sqUewpf6CK5IH2HI9R10D6w!2e0!7i16384!8i8192).
+* SPA-241/300's west end is at SP-300 according to its length, but the 2017 map shows a stub north of SP-300.
 * There may be [an access road](https://www.google.com/maps/@-22.9434324,-48.3816025,3a,15y,170.72h,88.59t/data=!3m6!1e1!3m4!1sgsEoQ8hvviMEQGZn7a_EKg!2e0!7i16384!8i8192) off SP-300 towards Pardinho.
 * SPA-397/300's south end may be wrong.
 * SPA-483/300 [is signed](https://www.google.com/maps/@-21.4769048,-50.0802699,3a,15y,4.64h,87.28t/data=!3m6!1e1!3m4!1sxXF_3dYDK1iVq9_P38fhVg!2e0!7i16384!8i8192) despite being locally maintained!
@@ -296,4 +271,8 @@ Notes on routes:
 * SPA-348/310's east end may be wrong.
 * SPA-402/310 [is signed](https://www.google.com/maps/@-21.1003689,-49.1768081,3a,16.9y,70.52h,86.64t/data=!3m6!1e1!3m4!1sy2Eqi5LUOEYVpccwE4UXlw!2e0!7i13312!8i6656).
 * SPA-430/310 is locally maintained and [mis-signed](https://www.google.com/maps/@-20.8704045,-49.3249814,3a,19.1y,107.16h,82.94t/data=!3m6!1e1!3m4!1sOy6kRFwEuWOVO9iO4_QcGg!2e0!7i16384!8i8192) as SP-430.
+* SPA-482/310's south end may be wrong.
+* SPA-565/310 [is signed](https://www.google.com/maps/@-20.6703662,-50.5522369,3a,15y,189.77h,86.04t/data=!3m6!1e1!3m4!1sLJuPNKxgNoycr1wZqEcEIQ!2e0!7i16384!8i8192?entry=ttu) erroneously as SPA-565. Its south end may be wrong.
+* SPA-605/310 [is signed](https://www.google.com/maps/@-20.681446,-50.9232505,3a,15.4y,22.27h,84.52t/data=!3m6!1e1!3m4!1ss05U7AnCqgJ-xIBtvCKGYQ!2e0!7i16384!8i8192?entry=ttu).
+* SPA-621/310 [is signed](https://www.google.com/maps/@-20.6303898,-51.0904345,3a,15y,52.77h,85.45t,0.14r/data=!3m6!1e1!3m4!1sHiyGvAWE3Nzr5jgQBVUdMw!2e0!7i16384!8i8192?entry=ttu).
 * SPI-627/310 [is signed](https://www.google.com/maps/@-20.6032514,-51.122967,3a,15y,263.47h,83.99t/data=!3m6!1e1!3m4!1shJReYsavF5z9V9XWamsivQ!2e0!7i16384!8i8192).
