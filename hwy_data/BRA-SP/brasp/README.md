@@ -129,32 +129,25 @@ The following routes are not included due to apparent lack of signs:
 * SPA-597/270 (as of 2022)
 * SPA-652/270 (municipal maintenance, as of 2021)
 * SPA-654/270 (municipal maintenance, as of 2018)
-* 
-* SPA-007/271 (as of 2019)
+* SPA-007/271 (as of 2018)
 * SPA-000/272 (as of 2012)
-* SPA-007/272 (as of 2012, but no imagery along the actual route)
-* SPA-041/272 (as of 2018)
-* SP-273 (as of 2015)
+* SPA-007/272 (as of 2022, but no imagery along the actual route)
+* SPA-041/272 (as of 2022)
+* SP-273 (as of 2023)
 * SP-274 east of SP-029 (as of 2019)
-* SP-275 (as of 2018)
-* 06 SPA-053/280 (as of 2019, but no imagery along the actual route)
-* SPA-054/280 (as of 2011)
-* SPA-116/280 (municipal maintenance, as of 2019)
-* SPA-216/280 (as of 2019)
-* SPA-039/281 (as of 2011, but no imagery along the actual route)
-* SPA-043/281 (as of 2011)
-* SPA-475/284 (municipal maintenance, as of 2012)
-* SPA-498/284 (as of 2012)
+* 06 SPA-053/280 (as of 2023)
+* SPA-054/280 (as of 2023)
+* SPA-116/280 (municipal maintenance, as of 2022)
+* SPA-216/280 (as of 2022)
+* SPA-039/281 (as of 2022, but no imagery along the actual route)
 * SPA-504/284 (as of 2012)
-* SPA-517/284 (as of 2012)
 * SPA-519/284 (municipal maintenance, as of 2012)
-* SPA-005/287 (as of 2018, but no imagery along the actual route)
-* SPA-017/287 (municipal maintenance, as of 2018)
-* SPA-057/287 (as of 2011)
-* SPA-010/291 (as of 2012)
+* SPA-005/287 (as of 2021)
+* SPA-017/287 (municipal maintenance, as of 2022)
+* SPA-057/287 (as of 2021)
+* SPA-010/291 (as of 2023)
 * SPA-026/291 (as of 2022)
-* SPA-006/293 (as of 2017, but no imagery along the actual route)
-* SPA-017/293 (as of 2011, but no imagery along the actual route)
+* 
 * SPA-354/294 (as of 2017)
 * SPA-360/294 (as of 2011)
 * SPA-402/294 (as of 2011)
@@ -292,6 +285,7 @@ Notes on routes:
 * SPA-142/270's south end may be wrong due to lack of imagery.
 * SPA-552/270's north end may be wrong.
 * SPA-032/280 [is signed](https://www.google.com/maps/@-23.5172741,-46.9216489,3a,37.1y,89.4h,90.8t/data=!3m6!1e1!3m4!1sl3-gLKTtY7PRULYVyEddXQ!2e0!7i16384!8i8192).
+* SPA-475/284's north end may be wrong.
 * SPA-172/300 [is signed](https://www.google.com/maps/@-23.0633737,-47.8221026,3a,15y,193.31h,88.76t/data=!3m6!1e1!3m4!1sqUewpf6CK5IH2HI9R10D6w!2e0!7i16384!8i8192).
 * There may be [an access road](https://www.google.com/maps/@-22.9434324,-48.3816025,3a,15y,170.72h,88.59t/data=!3m6!1e1!3m4!1sgsEoQ8hvviMEQGZn7a_EKg!2e0!7i16384!8i8192) off SP-300 towards Pardinho.
 * SPA-397/300's south end may be wrong.
