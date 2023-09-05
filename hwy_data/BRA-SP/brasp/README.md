@@ -213,6 +213,11 @@ The following routes are not included due to apparent lack of signs:
 * SPA-053/312 (as of 2022)
 * SPA-018/315 (as of 2022)
 * SPA-020/315 (as of 2022)
+* SPA-617/320 (as of 2023)
+* SPA-027/331 (as of 2021)
+* SPA-128/331 (as of 2021)
+* SPA-168/331 (as of 2022)
+* SPA-202/331 (as of 2022)
 * SPA-002/333 (as of 2021)
 * SPA-015/333 (as of 2022, but no imagery along the actual route)
 * SPA-039/333 (as of 2012)
@@ -224,7 +229,20 @@ The following routes are not included due to apparent lack of signs:
 * SPA-182/333 (as of 2021)
 * SPA-209/333 (as of 2022)
 * SPA-244/344 (as of 2023)
+* SPA-012/383 (as of 2022)
+* SPA-028/387 (as of 2021, but no imagery along the actual route)
+* SPA-030/387 (as of 2020)
+* SPA-069/387 (as of 2023, but no imagery along the actual route)
+* SPA-108/387 (as of 2022)
+* SPA-162/387 (as of 2023)
+* SPA-174/387 (as of 2022)
+* SPA-175/387 (as of 2022)
 * SPA-183/387 (as of 2022)
+* SPA-195/387 (as of 2022)
+* SPA-209/387 (as of 2022)
+* SPA-303/387 (as of 2011)
+* SPA-327/387 (as of 2022)
+* SPA-016/419 (as of 2023)
 * SPA-015/421 (as of 2018, but no imagery along the actual route)
 * SPA-030/421 (as of 2011)
 * SPA-047/421 (as of 2022)
@@ -244,6 +262,10 @@ The following routes are not included due to apparent lack of signs:
 * SPA-008/457 (as of 2022)
 * SPA-060/457 (as of 2022)
 * SPA-097/457 (as of 2021)
+* SPA-129/463 (as of 2011)
+* SPA-157/463 (as of 2022, but no imagery along the actual route)
+* SPA-169/463 (as of 2022, but no imagery along the actual route)
+* SPA-181/463 (can't tell from [2022 imagery](https://www.google.com/maps/@-19.989185,-50.4558171,3a,15y,328.39h,90.86t/data=!3m6!1e1!3m4!1suRfnpT9yMrf0f6Bnbamzmw!2e0!7i16384!8i8192?entry=ttu))
 * SP-487 (as of 2022) - [this has a long gap in the middle](https://www.google.com/maps/@-22.2658349,-51.2584057,3a,30.1y,-0.32h,80.23t/data=!3m6!1e1!3m4!1sRJ6w12oAQsPVirI1ZtqdxA!2e0!7i16384!8i8192?entry=ttu)
 * SPA-030/501 (as of 2022)
 * SPA-000/563 (as of 2018)
@@ -259,6 +281,10 @@ The following routes are not included due to apparent lack of signs:
 * SPA-322/563 (as of 2023)
 * SPA-331/563 (as of 2023)
 * SPA-349/563 (as of 2011)
+* SPA-022/595 (as of 2023)
+* SPA-106/595 (as of 2023)
+* SPA-110/595 (as of 2023)
+* SPA-121/595 (as of 2023)
 * SPA-041/613 (as of 2011)
 * SPA-074/613 (as of 2021)
 * SPA-079/613 (as of 2022)
@@ -291,6 +317,7 @@ Notes on routes:
 * SP-261 [is signed](https://www.google.com/maps/@-23.206947,-49.238938,3a,18.9y,17.5h,88.27t/data=!3m6!1e1!3m4!1sA3QMA8BXyahTGI3abeXlvA!2e0!7i13312!8i6656).
 * SP-268 is signed [east of Capela do Alto](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656), [at Tupy](https://www.google.com/maps/@-23.5437859,-48.2309901,3a,15.2y,41.85h,84.33t/data=!3m6!1e1!3m4!1sNbEgiOsFLKRKrqjsFniCKw!2e0!7i16384!8i8192?entry=ttu), [at Angatuba](https://www.google.com/maps/@-23.4955655,-48.4163289,3a,15.6y,186.75h,82.51t/data=!3m6!1e1!3m4!1sz0ZXNsZ6vfYnourOU9sziw!2e0!7i16384!8i8192?entry=ttu), and [west of Paranapanema](https://www.google.com/maps/@-23.4189686,-48.8804453,3a,15y,68.65h,90.8t/data=!3m6!1e1!3m4!1s6Ug2dUykR7jkhqqviZhgwA!2e0!7i16384!8i8192?entry=ttu) (but is it actually driveable there? there seems to be [another](https://www.google.com/maps/@-23.3727376,-48.7340733,3a,15y,246.02h,86.36t/data=!3m6!1e1!3m4!1sDLciJNC7GSuv-kHhO8FzMQ!2e0!7i16384!8i8192?entry=ttu) closer to Paranapanema). The route thru Angatuba is guesswork based on limited signage for destinations and one-way streets (are there any signs west of Angatuba?). The end west of Angatuba is rough. The end in Paranapanema is guessed.
 * SP-300 is closed to all traffic west of BR-262.
+* SP-463's south end is [clearly marked](https://www.google.com/maps/@-21.5718331,-50.4376207,3a,15.4y,232.04h,86.32t/data=!3m6!1e1!3m4!1sNFnuoTZ3gi1D1Be8r0LNvw!2e0!7i16384!8i8192?entry=ttu) at SP-425, even though the route continues south to Usina Clealco.
 * SP-316's north end may be slightly off.
 * SP-613's east end is east of downtown Teodoro Sampaio, where it becomes SPA-000/563. However, SPA-000/563 is not signed and neither is SP-613 thru Teodoro Sampaio.
 
@@ -315,6 +342,7 @@ Acessos and Interligações:
 * SPA-552/270's north end may be wrong.
 * SPA-032/280 [is signed](https://www.google.com/maps/@-23.5172741,-46.9216489,3a,37.1y,89.4h,90.8t/data=!3m6!1e1!3m4!1sl3-gLKTtY7PRULYVyEddXQ!2e0!7i16384!8i8192).
 * SPA-475/284's north end may be wrong.
+* SPA-287/387 [appears to be signed](https://www.google.com/maps/@-22.4708327,-49.8871945,3a,15y,323.49h,87.66t/data=!3m6!1e1!3m4!1sZCKfMy0iDR4VSQ8jt8ef9g!2e0!7i16384!8i8192?entry=ttu).
 * SPA-570/294's route thru Osvaldo Cruz may be wrong; the 2017 map may show Rua Armando Salles.
 * SPA-241/300's west end is at SP-300 according to its length, but the 2017 map shows a stub north of SP-300.
 * SPA-397/300's south end may be wrong.
@@ -329,6 +357,8 @@ Acessos and Interligações:
 * SPI-627/310 [is signed](https://www.google.com/maps/@-20.6040945,-51.1233726,3a,15y,62.27h,85.69t/data=!3m6!1e1!3m4!1sT92U89FvLOHqJeXdVLkaXg!2e0!7i16384!8i8192?entry=ttu).
 * SPA-024/333's west end may be wrong.
 * SPA-245/333's route thru Pongaí is from the 2017 map; there appears to be no signage thru town (as least as of 2011).
+* SPA-075/463 [is signed](https://www.google.com/maps/@-20.9131193,-50.416388,3a,15y,261.46h,85.3t/data=!3m6!1e1!3m4!1sp6Cg7bXIIl6rAB8QiNrZqg!2e0!7i16384!8i8192?entry=ttu).
+* SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
 * SP-317
@@ -347,7 +377,6 @@ Routes that have not been mapped yet:
 * SPA-569/320
 * SPA-599/320
 * SPA-610/320
-* SPA-617/320
 * SPA-626/320
 * 06 SPA-626/320
 * SPA-627/320
@@ -425,14 +454,6 @@ Routes that have not been mapped yet:
 * SPA-381/330
 * SPA-410/330
 * SPA-426/330
-* SP-331
-* SPA-027/331
-* SPA-040/331
-* SPA-128/331
-* SPA-168/331
-* SPA-195/331
-* SPA-196/331
-* SPA-202/331
 * SP-332
 * SPA-042/332
 * SPA-053/332
@@ -485,7 +506,6 @@ Routes that have not been mapped yet:
 * SPA-101/345
 * SP-346
 * SPA-203/346
-* SP-349
 * SP-350
 * SPA-264/350
 * SPA-270/350
@@ -521,27 +541,8 @@ Routes that have not been mapped yet:
 * SPA-039/379
 * SPA-041/379
 * SP-381
-* SP-383
-* SPA-012/383
 * SP-385
-* SP-387
-* SPA-028/387
-* SPA-030/387
-* SPA-038/387
-* SPA-069/387
-* SPA-108/387
-* SPA-162/387
-* SPA-174/387
-* SPA-175/387
-* SPA-195/387
-* SPA-209/387
-* SPA-287/387
-* SPA-303/387
-* SPA-321/387
-* SPA-327/387
 * SP-413
-* SP-419
-* SPA-016/419
 * SP-423
 * SPA-007/423
 * SPA-018/423
@@ -555,30 +556,12 @@ Routes that have not been mapped yet:
 * SPA-076/461
 * SPA-137/461
 * SPA-164/461
-* SP-463
-* SPA-075/463
-* SPA-096/463
-* SPA-129/463
-* SPA-157/463
-* SPA-169/463
-* SPA-174/463
-* SPA-181/463
 * SP-473
 * SP-479
 * SPA-025/479
 * SPA-040/479
 * SP-527
 * SPA-014/527
-* SP-541
 * SP-543
 * SPA-571/543
 * SPA-579/543
-* SP-557
-* SP-561
-* SP-595
-* SPA-022/595
-* SPA-106/595
-* SPA-110/595
-* SPA-111/595
-* SPA-121/595
-
