@@ -215,8 +215,19 @@ The following routes are not included due to apparent lack of signs:
 * SPA-020/315 (as of 2022)
 * SPA-244/344 (as of 2023)
 * SPA-183/387 (as of 2022)
+* SPA-028/425 (as of 2021)
+* SPA-058/425 (as of 2021)
+* SPA-061/425 (as of 2021)
+* SPA-137/425 (as of 2022)
+* SPA-228/425 (as of 2022)
+* SPA-266/425 (as of 2023)
+* SPA-311/425 (as of 2023)
+* SPA-360/425 (as of 2021)
+* SPA-363/425 (as of 2021)
 * SPA-373/425 (as of 2021)
+* SPA-430/425 (as of 2022)
 * SPA-481/425 (as of 2021)
+* SPA-030/501 (as of 2022)
 * SPA-000/563 (as of 2018)
 * SPA-051/563 (as of 2011)
 * SPA-080/563 (as of 2012)
@@ -292,6 +303,7 @@ Acessos and Interligações:
 * SPA-348/310's east end may be wrong.
 * SPA-430/310 is locally maintained and [mis-signed](https://www.google.com/maps/@-20.8704045,-49.3249814,3a,19.1y,107.16h,82.94t/data=!3m6!1e1!3m4!1sOy6kRFwEuWOVO9iO4_QcGg!2e0!7i16384!8i8192) as SP-430.
 * SPA-482/310's south end may be wrong.
+* SP-501's north end is at SPA627/294's south end per km posts, but it's not signed thru Irapuru.
 * SPA-565/310 [is signed](https://www.google.com/maps/@-20.6703662,-50.5522369,3a,15y,189.77h,86.04t/data=!3m6!1e1!3m4!1sLJuPNKxgNoycr1wZqEcEIQ!2e0!7i16384!8i8192?entry=ttu) erroneously as SPA-565. Its south end may be wrong.
 * SPA-605/310 [is signed](https://www.google.com/maps/@-20.681446,-50.9232505,3a,15.4y,22.27h,84.52t/data=!3m6!1e1!3m4!1ss05U7AnCqgJ-xIBtvCKGYQ!2e0!7i16384!8i8192?entry=ttu).
 * SPA-621/310 [is signed](https://www.google.com/maps/@-20.6303898,-51.0904345,3a,15y,52.77h,85.45t,0.14r/data=!3m6!1e1!3m4!1sHiyGvAWE3Nzr5jgQBVUdMw!2e0!7i16384!8i8192?entry=ttu).
@@ -537,26 +549,6 @@ Routes that have not been mapped yet:
 * SP-423
 * SPA-007/423
 * SPA-018/423
-* SP-425
-* SPA-028/425
-* SPA-058/425
-* SPA-061/425
-* SPA-137/425
-* SPA-171/425
-* SPA-228/425
-* SPA-244/425
-* SPA-266/425
-* SPA-311/425
-* SPA-328/425
-* SPA-339/425
-* SPA-339/425
-* SPA-360/425
-* SPA-363/425
-* SPA-430/425
-* SPA-431/425
-* SPA-437/425
-* SPA-488/425
-* SPA-501/425
 * SP-427
 * SPA-020/427
 * SP-437
@@ -587,8 +579,6 @@ Routes that have not been mapped yet:
 * SP-483
 * SPA-009/483
 * SP-487
-* SP-501
-* SPA-030/501
 * SP-527
 * SPA-014/527
 * SP-541
