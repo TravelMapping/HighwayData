@@ -213,8 +213,22 @@ The following routes are not included due to apparent lack of signs:
 * SPA-053/312 (as of 2022)
 * SPA-018/315 (as of 2022)
 * SPA-020/315 (as of 2022)
+* SPA-002/333 (as of 2021)
+* SPA-015/333 (as of 2022, but no imagery along the actual route)
+* SPA-039/333 (as of 2012)
+* SPA-098/333 (as of 2021)
+* SPA-107/333 (as of 2022)
+* SPA-145/333 (as of 2012)
+* SPA-147/333 (as of 2021)
+* SPA-168/333 (as of 2021)
+* SPA-182/333 (as of 2021)
+* SPA-209/333 (as of 2022)
 * SPA-244/344 (as of 2023)
 * SPA-183/387 (as of 2022)
+* SPA-015/421 (as of 2018, but no imagery along the actual route)
+* SPA-030/421 (as of 2011)
+* SPA-047/421 (as of 2022)
+* SPA-048/421 (as of 2022)
 * SPA-028/425 (as of 2021)
 * SPA-058/425 (as of 2021)
 * SPA-061/425 (as of 2021)
@@ -278,6 +292,7 @@ Notes on routes:
 * SP-268 is signed [east of Capela do Alto](https://www.google.com/maps/@-23.4633552,-47.7270265,3a,15y,67.92h,85.07t/data=!3m6!1e1!3m4!1sz86xRb_J0uWvltRs3GM5DQ!2e0!7i13312!8i6656), [at Tupy](https://www.google.com/maps/@-23.5437859,-48.2309901,3a,15.2y,41.85h,84.33t/data=!3m6!1e1!3m4!1sNbEgiOsFLKRKrqjsFniCKw!2e0!7i16384!8i8192?entry=ttu), [at Angatuba](https://www.google.com/maps/@-23.4955655,-48.4163289,3a,15.6y,186.75h,82.51t/data=!3m6!1e1!3m4!1sz0ZXNsZ6vfYnourOU9sziw!2e0!7i16384!8i8192?entry=ttu), and [west of Paranapanema](https://www.google.com/maps/@-23.4189686,-48.8804453,3a,15y,68.65h,90.8t/data=!3m6!1e1!3m4!1s6Ug2dUykR7jkhqqviZhgwA!2e0!7i16384!8i8192?entry=ttu) (but is it actually driveable there? there seems to be [another](https://www.google.com/maps/@-23.3727376,-48.7340733,3a,15y,246.02h,86.36t/data=!3m6!1e1!3m4!1sDLciJNC7GSuv-kHhO8FzMQ!2e0!7i16384!8i8192?entry=ttu) closer to Paranapanema). The route thru Angatuba is guesswork based on limited signage for destinations and one-way streets (are there any signs west of Angatuba?). The end west of Angatuba is rough. The end in Paranapanema is guessed.
 * SP-300 is closed to all traffic west of BR-262.
 * SP-316's north end may be slightly off.
+* SP-613's east end is east of downtown Teodoro Sampaio, where it becomes SPA-000/563. However, SPA-000/563 is not signed and neither is SP-613 thru Teodoro Sampaio.
 
 Acessos and Interligações:
 * SPA-086/021 [is signed](https://www.google.com/maps/@-23.7180762,-46.4694927,3a,15y,82.82h,85.18t/data=!3m6!1e1!3m4!1s-zf9qD976hEcRSMQFwg82w!2e0!7i16384!8i8192) (with a missing 0).
@@ -312,7 +327,8 @@ Acessos and Interligações:
 * SPA-605/310 [is signed](https://www.google.com/maps/@-20.681446,-50.9232505,3a,15.4y,22.27h,84.52t/data=!3m6!1e1!3m4!1ss05U7AnCqgJ-xIBtvCKGYQ!2e0!7i16384!8i8192?entry=ttu).
 * SPA-621/310 [is signed](https://www.google.com/maps/@-20.6303898,-51.0904345,3a,15y,52.77h,85.45t,0.14r/data=!3m6!1e1!3m4!1sHiyGvAWE3Nzr5jgQBVUdMw!2e0!7i16384!8i8192?entry=ttu).
 * SPI-627/310 [is signed](https://www.google.com/maps/@-20.6040945,-51.1233726,3a,15y,62.27h,85.69t/data=!3m6!1e1!3m4!1sT92U89FvLOHqJeXdVLkaXg!2e0!7i16384!8i8192?entry=ttu).
-* SP-613's east end is east of downtown Teodoro Sampaio, where it becomes SPA-000/563. However, SPA-000/563 is not signed and neither is SP-613 thru Teodoro Sampaio.
+* SPA-024/333's west end may be wrong.
+* SPA-245/333's route thru Pongaí is from the 2017 map; there appears to be no signage thru town (as least as of 2011).
 
 Routes that have not been mapped yet:
 * SP-317
@@ -423,24 +439,6 @@ Routes that have not been mapped yet:
 * SPA-114/332
 * SPA-128/332
 * SPA-129/332
-* SP-333
-* SPA-002/333
-* SPA-015/333
-* SPA-024/333
-* SPA-039/333
-* SPA-098/333
-* SPA-107/333
-* SPA-112/333
-* SPA-145/333
-* SPA-147/333
-* SPA-160/333
-* SPA-168/333
-* SPA-182/333
-* SPA-209/333
-* SPA-245/333
-* SPA-274/333
-* SPA-370/333
-* SPA-409/333
 * SP-334
 * SPA-321/334
 * SPA-334/334
@@ -515,7 +513,6 @@ Routes that have not been mapped yet:
 * SPA-148/360
 * SP-373
 * SPA-140/373
-* SP-375
 * SP-377
 * SP-379
 * SPA-004/379
@@ -545,17 +542,11 @@ Routes that have not been mapped yet:
 * SP-413
 * SP-419
 * SPA-016/419
-* SP-421
-* SPA-015/421
-* SPA-030/421
-* SPA-047/421
-* SPA-048/421
 * SP-423
 * SPA-007/423
 * SPA-018/423
 * SP-427
 * SPA-020/427
-* SP-437
 * SP-461
 * SPA-018/461
 * SPA-019/461
