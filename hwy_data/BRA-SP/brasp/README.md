@@ -227,6 +227,10 @@ The following routes are not included due to apparent lack of signs:
 * SPA-373/425 (as of 2021)
 * SPA-430/425 (as of 2022)
 * SPA-481/425 (as of 2021)
+* SPA-008/457 (as of 2022)
+* SPA-060/457 (as of 2022)
+* SPA-097/457 (as of 2021)
+* SP-487 (as of 2022) - [this has a long gap in the middle](https://www.google.com/maps/@-22.2658349,-51.2584057,3a,30.1y,-0.32h,80.23t/data=!3m6!1e1!3m4!1sRJ6w12oAQsPVirI1ZtqdxA!2e0!7i16384!8i8192?entry=ttu)
 * SPA-030/501 (as of 2022)
 * SPA-000/563 (as of 2018)
 * SPA-051/563 (as of 2011)
@@ -552,10 +556,6 @@ Routes that have not been mapped yet:
 * SP-427
 * SPA-020/427
 * SP-437
-* SP-457
-* SPA-008/457
-* SPA-060/457
-* SPA-097/457
 * SP-461
 * SPA-018/461
 * SPA-019/461
@@ -576,9 +576,6 @@ Routes that have not been mapped yet:
 * SP-479
 * SPA-025/479
 * SPA-040/479
-* SP-483
-* SPA-009/483
-* SP-487
 * SP-527
 * SPA-014/527
 * SP-541
