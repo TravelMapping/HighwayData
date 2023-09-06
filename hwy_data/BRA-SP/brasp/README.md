@@ -397,7 +397,7 @@ Acessos and Interligações:
 * SPI-627/310 [is signed](https://www.google.com/maps/@-20.6040945,-51.1233726,3a,15y,62.27h,85.69t/data=!3m6!1e1!3m4!1sT92U89FvLOHqJeXdVLkaXg!2e0!7i16384!8i8192?entry=ttu).
 * SPA-024/333's west end may be wrong.
 * SPA-245/333's route thru Pongaí is from the 2017 map; there appears to be no signage thru town (as least as of 2011).
-* SPA-018/461 [is erroneously signed](https://www.google.com/maps/@-21.2329433,-50.4131602,3a,16.6y,156.43h,84.34t/data=!3m6!1e1!3m4!1suo8eGHCbrPbr118DvaKkDA!2e0!7i16384!8i8192?entry=ttu] as SPA-018.
+* SPA-018/461 [is erroneously signed](https://www.google.com/maps/@-21.2329433,-50.4131602,3a,16.6y,156.43h,84.34t/data=!3m6!1e1!3m4!1suo8eGHCbrPbr118DvaKkDA!2e0!7i16384!8i8192?entry=ttu) as SPA-018.
 * SPA-065/461 [is erroneously signed](https://www.google.com/maps/@-20.9466662,-50.1166809,3a,15y,145.12h,85.9t/data=!3m6!1e1!3m4!1s7y9Ph__XPCzTmgvpXtQxQw!2e0!7i16384!8i8192?entry=ttu) as SPA-065.
 * SPA-075/463 [is signed](https://www.google.com/maps/@-20.9131193,-50.416388,3a,15y,261.46h,85.3t/data=!3m6!1e1!3m4!1sp6Cg7bXIIl6rAB8QiNrZqg!2e0!7i16384!8i8192?entry=ttu).
 * SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
