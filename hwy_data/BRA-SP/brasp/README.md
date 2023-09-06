@@ -214,7 +214,16 @@ The following routes are not included due to apparent lack of signs:
 * SPA-018/315 (as of 2022)
 * SPA-020/315 (as of 2022)
 * SPA-020/317 (as of 2021)
+* SPA-463/320 (as of 2022)
+* SPA-478/320 (as of 2022)
+* SPA-499/320 (as of 2022, but no imagery along the actual route)
+* SPA-554/320 (as of 2022)
+* SPA-599/320 (no imagery available)
 * SPA-617/320 (as of 2023)
+* 06 SPA-626/320 (as of 2023)
+* SPA-627/320 (as of 2011)
+* SPA-631/320 (as of 2023)
+* 05 SPA-631/320 (as of 2023)
 * SPA-372/321 (as of 2023)
 * SPA-390/321 (as of 2021)
 * SPA-473/321 (as of 2022)
@@ -395,6 +404,8 @@ Acessos and Interligações:
 * SPA-605/310 [is signed](https://www.google.com/maps/@-20.681446,-50.9232505,3a,15.4y,22.27h,84.52t/data=!3m6!1e1!3m4!1ss05U7AnCqgJ-xIBtvCKGYQ!2e0!7i16384!8i8192?entry=ttu).
 * SPA-621/310 [is signed](https://www.google.com/maps/@-20.6303898,-51.0904345,3a,15y,52.77h,85.45t,0.14r/data=!3m6!1e1!3m4!1sHiyGvAWE3Nzr5jgQBVUdMw!2e0!7i16384!8i8192?entry=ttu).
 * SPI-627/310 [is signed](https://www.google.com/maps/@-20.6040945,-51.1233726,3a,15y,62.27h,85.69t/data=!3m6!1e1!3m4!1sT92U89FvLOHqJeXdVLkaXg!2e0!7i16384!8i8192?entry=ttu).
+* SPA-569/320 only has imagery available near the north end, so the remainder may be unsigned. The route thru Estrela D'Oeste is unknown and hence undetailed.
+* SPA-626/320 [is signed](https://www.google.com/maps/@-20.1772187,-50.9863237,3a,15y,121.27h,88.54t/data=!3m6!1e1!3m4!1sozFGLgjWI3HMtH0M7vnISA!2e0!7i16384!8i8192?entry=ttu).
 * SPA-024/333's west end may be wrong.
 * SPA-245/333's route thru Pongaí is from the 2017 map; there appears to be no signage thru town (as least as of 2011).
 * SPA-018/461 [is erroneously signed](https://www.google.com/maps/@-21.2329433,-50.4131602,3a,16.6y,156.43h,84.34t/data=!3m6!1e1!3m4!1suo8eGHCbrPbr118DvaKkDA!2e0!7i16384!8i8192?entry=ttu) as SPA-018.
@@ -403,24 +414,6 @@ Acessos and Interligações:
 * SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
-* SP-318
-* SP-320
-* SPA-463/320
-* SPA-478/320
-* SPA-498/320
-* SPA-499/320
-* SPA-529/320
-* SPA-541/320
-* SPA-550/320
-* SPA-554/320
-* SPA-569/320
-* SPA-599/320
-* SPA-610/320
-* SPA-626/320
-* 06 SPA-626/320
-* SPA-627/320
-* SPA-631/320
-* 05 SPA-631/320
 * SP-322
 * SPA-314/322
 * SPA-325/322
