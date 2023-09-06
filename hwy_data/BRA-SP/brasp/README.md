@@ -227,6 +227,24 @@ The following routes are not included due to apparent lack of signs:
 * SPA-372/321 (as of 2023)
 * SPA-390/321 (as of 2021)
 * SPA-473/321 (as of 2022)
+* SPA-314/322 (as of 2022)
+* SPA-333/322 (as of 2021)
+* SPA-336/322 (as of 2022)
+* SPA-364/322 (as of 2021)
+* SPA-411/322 (as of 2022)
+* SPA-419/322 (as of 2021)
+* SPA-426/322 (as of 2021)
+* SPA-442/322 (as of 2021)
+* SPA-458/322 (as of 2021)
+* SPA-462/322 (as of 2021)
+* SPA-473/322 (as of 2021)
+* SPA-498/322 (as of 2022)
+* SPA-523/322 (as of 2022)
+* SPA-540/322 (as of 2021) - [erroneously signed](https://www.google.com/maps/@-19.9920842,-49.4271149,3a,26.2y,144.79h,86.67t/data=!3m6!1e1!3m4!1s2R_JTsJ3cZY-mQha4GmKUQ!2e0!7i16384!8i8192?entry=ttu) as SP-322
+* SPA-542/322 (as of 2011)
+* SPA-572/322 (as of 2021)
+* SPA-601/322 (as of 2022)
+* SPA-602/322 (as of 2021)
 * SPA-030/323 (as of 2021? not sure where it is)
 * SPA-031/323 (as of 2021? not sure where it is)
 * SPA-040/323 (as of 2021)
@@ -406,6 +424,7 @@ Acessos and Interligações:
 * SPI-627/310 [is signed](https://www.google.com/maps/@-20.6040945,-51.1233726,3a,15y,62.27h,85.69t/data=!3m6!1e1!3m4!1sT92U89FvLOHqJeXdVLkaXg!2e0!7i16384!8i8192?entry=ttu).
 * SPA-569/320 only has imagery available near the north end, so the remainder may be unsigned. The route thru Estrela D'Oeste is unknown and hence undetailed.
 * SPA-626/320 [is signed](https://www.google.com/maps/@-20.1772187,-50.9863237,3a,15y,121.27h,88.54t/data=!3m6!1e1!3m4!1sozFGLgjWI3HMtH0M7vnISA!2e0!7i16384!8i8192?entry=ttu).
+* SPA-343/322's north end may be wrong.
 * SPA-024/333's west end may be wrong.
 * SPA-245/333's route thru Pongaí is from the 2017 map; there appears to be no signage thru town (as least as of 2011).
 * SPA-018/461 [is erroneously signed](https://www.google.com/maps/@-21.2329433,-50.4131602,3a,16.6y,156.43h,84.34t/data=!3m6!1e1!3m4!1suo8eGHCbrPbr118DvaKkDA!2e0!7i16384!8i8192?entry=ttu) as SPA-018.
@@ -414,28 +433,6 @@ Acessos and Interligações:
 * SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
-* SP-322
-* SPA-314/322
-* SPA-325/322
-* SPA-333/322
-* SPA-336/322
-* SPA-343/322
-* SPA-364/322
-* SPA-375/322
-* SPA-411/322
-* SPA-419/322
-* SPA-426/322
-* SPA-442/322
-* SPA-458/322
-* SPA-462/322
-* SPA-473/322
-* SPA-498/322
-* SPA-523/322
-* SPA-540/322
-* SPA-542/322
-* SPA-572/322
-* SPA-601/322
-* SPA-602/322
 * SP-324
 * SP-326
 * SPA-302/326
