@@ -257,6 +257,22 @@ The following routes are not included due to apparent lack of signs:
 * SPA-421/326 (as of 2022)
 * SPA-453/326 (as of 2022, but no imagery along the actual route)
 * SPA-007/327 (as of 2022)
+* SP-328 south of SP-215 (as of 2022) - it [is signed](https://www.google.com/maps/@-21.7309674,-47.4945083,3a,15.2y,137.32h,87.36t/data=!3m6!1e1!3m4!1sQVKbpaWwJA8NlixjcbROXQ!2e0!7i16384!8i8192?entry=ttu) (both ways) at SPA-241/330
+* SP-328 from SP-330 at Ribeirão Preto north to SP-351 (as of 2021)
+* SP-328 thru Orlândia (as of 2022)
+* SPA-238/328 (as of 2021)
+* SPA-244/328 (as of 2021)
+* SPA-335/328 (as of 2022)
+* SPA-470/328 (as of 2021)
+* SPA-013/330 (is this the ramp south from MargPin?)
+* SPA-015/330 (as of 2023)
+* SPA-128/330 (as of 2023)
+* SPA-194/330 (as of 2021)
+* SPA-198/330 (as of 2022)
+* SPA-307/330 (as of 2023)
+* SPA-381/330 (as of 2022)
+* SPA-410/330 (as of 2021)
+* SPA-426/330 (as of 2021)
 * SPA-027/331 (as of 2021)
 * SPA-128/331 (as of 2021)
 * SPA-168/331 (as of 2022)
@@ -389,6 +405,7 @@ Notes on routes:
 * SP-300 is closed to all traffic west of BR-262.
 * SP-463's south end is [clearly marked](https://www.google.com/maps/@-21.5718331,-50.4376207,3a,15.4y,232.04h,86.32t/data=!3m6!1e1!3m4!1sNFnuoTZ3gi1D1Be8r0LNvw!2e0!7i16384!8i8192?entry=ttu) at SP-425, even though the route continues south to Usina Clealco.
 * SP-316's north end may be slightly off.
+* SP-332 [is signed](https://www.google.com/maps/@-23.0164057,-47.0005563,3a,40.9y,22.14h,84.47t/data=!3m6!1e1!3m4!1sUEMNs3FLqkDc0tSaYTzUSQ!2e0!7i16384!8i8192?entry=ttu) north of Vinhedo.
 * SP-355's route thru Nova Aliança is from the 2017 map; destination signs point via a one-way loop around downtown. Its route thru Mendonça is a guess based on destination signs and the 2017 map.
 * SP-373Mor's west end is probably inexact.
 * SP-381's south end may be wrong.
@@ -433,6 +450,11 @@ Acessos and Interligações:
 * SPA-569/320 only has imagery available near the north end, so the remainder may be unsigned. The route thru Estrela D'Oeste is unknown and hence undetailed.
 * SPA-626/320 [is signed](https://www.google.com/maps/@-20.1772187,-50.9863237,3a,15y,121.27h,88.54t/data=!3m6!1e1!3m4!1sozFGLgjWI3HMtH0M7vnISA!2e0!7i16384!8i8192?entry=ttu).
 * SPA-343/322's north end may be wrong.
+* SPA-250/328 [is signed](https://www.google.com/maps/@-21.7053792,-47.4925845,3a,41.1y,340.32h,82.35t/data=!3m6!1e1!3m4!1svFhV4I_hdN-4sN3mjX8R-g!2e0!7i16384!8i8192?entry=ttu)!
+* SPA-075/330's east end may be wrong.
+* SPA-082/330's north end has been placed where sources say state maintenance ends. The route north of there seems to be unsigned and ill-defined.
+* SPA-115/330 [is signed](https://www.google.com/maps/@-22.8070826,-47.2489096,3a,15.7y,105.25h,89.69t/data=!3m6!1e1!3m4!1si4KPa4NfvRGjHNm9RykedQ!2e0!7i16384!8i8192?entry=ttu).
+* SPA-193/330 [is signed](https://www.google.com/maps/@-22.1486213,-47.4069254,3a,15.2y,290.7h,84.89t/data=!3m6!1e1!3m4!1sTxhJ-xM0ToXiD3qY9CqPCQ!2e0!7i16384!8i8192?entry=ttu).
 * SPA-024/333's west end may be wrong.
 * SPA-245/333's route thru Pongaí is from the 2017 map; there appears to be no signage thru town (as least as of 2011).
 * SPA-018/461 [is erroneously signed](https://www.google.com/maps/@-21.2329433,-50.4131602,3a,16.6y,156.43h,84.34t/data=!3m6!1e1!3m4!1suo8eGHCbrPbr118DvaKkDA!2e0!7i16384!8i8192?entry=ttu) as SPA-018.
@@ -441,33 +463,6 @@ Acessos and Interligações:
 * SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
-* SP-328
-* SPA-238/328
-* SPA-244/328
-* SPA-250/328
-* SPA-335/328
-* SPA-468/328
-* SPA-470/328
-* SPA-013/330
-* SPA-015/330
-* SPA-075/330
-* SPA-082/330
-* SPA-102/330
-* SPA-110/330
-* SPA-115/330
-* SPA-119/330
-* SPA-128/330
-* SPA-193/330
-* SPA-194/330
-* SPA-198/330
-* SPA-241/330
-* SPA-307/330
-* SPA-318/330
-* SPA-327/330
-* SPA-355/330
-* SPA-381/330
-* SPA-410/330
-* SPA-426/330
 * SP-332
 * SPA-042/332
 * SPA-053/332
