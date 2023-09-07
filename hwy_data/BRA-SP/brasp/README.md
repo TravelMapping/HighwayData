@@ -293,6 +293,8 @@ The following routes are not included due to apparent lack of signs:
 * SPA-407/334 (as of 2021)
 * SPA-455/334 (as of 2021, but no imagery along the actual route)
 * SPA-457/334 (as of 2021)
+* SPA-309/338 (as of 2021)
+* SPA-310/338 (as of 2021)
 * SPA-244/344 (as of 2023)
 * SPA-032/345 (as of 2022)
 * SPA-059/345 (as of 2021)
@@ -471,10 +473,6 @@ Acessos and Interligações:
 * SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
-* SP-336
-* SP-338
-* SPA-309/338
-* SPA-310/338
 * SP-340
 * SPA-127/340
 * SPA-179/340
