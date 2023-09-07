@@ -248,6 +248,14 @@ The following routes are not included due to apparent lack of signs:
 * SPA-030/323 (as of 2021? not sure where it is)
 * SPA-031/323 (as of 2021? not sure where it is)
 * SPA-040/323 (as of 2021)
+* SPA-302/326 (as of 2022)
+* SPA-318/326 (as of 2021)
+* SPA-336/326 (as of 2022, but no imagery along the actual route)
+* SPA-357/326 (as of 2021)
+* SPA-379/326 (as of 2022)
+* SPA-405/326 (as of 2022)
+* SPA-421/326 (as of 2022)
+* SPA-453/326 (as of 2022, but no imagery along the actual route)
 * SPA-007/327 (as of 2022)
 * SPA-027/331 (as of 2021)
 * SPA-128/331 (as of 2021)
@@ -433,18 +441,6 @@ Acessos and Interligações:
 * SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
-* SP-324
-* SP-326
-* SPA-302/326
-* SPA-312/326
-* SPA-318/326
-* SPA-336/326
-* SPA-341/326
-* SPA-357/326
-* SPA-379/326
-* SPA-405/326
-* SPA-421/326
-* SPA-453/326
 * SP-328
 * SPA-238/328
 * SPA-244/328
