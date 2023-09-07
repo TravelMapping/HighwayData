@@ -277,6 +277,8 @@ The following routes are not included due to apparent lack of signs:
 * SPA-128/331 (as of 2021)
 * SPA-168/331 (as of 2022)
 * SPA-202/331 (as of 2022)
+* SPA-128/332 (as of 2022) - [signed as PLN-234](https://www.google.com/maps/@-22.7372672,-47.1554208,3a,15.6y,163.38h,89.7t/data=!3m6!1e1!3m4!1s0PF2NrR0A2ntGa0QsKkwag!2e0!7i16384!8i8192?entry=ttu)
+* SPA-129/332 (as of 2022)
 * SPA-002/333 (as of 2021)
 * SPA-015/333 (as of 2022, but no imagery along the actual route)
 * SPA-039/333 (as of 2012)
@@ -405,7 +407,7 @@ Notes on routes:
 * SP-300 is closed to all traffic west of BR-262.
 * SP-463's south end is [clearly marked](https://www.google.com/maps/@-21.5718331,-50.4376207,3a,15.4y,232.04h,86.32t/data=!3m6!1e1!3m4!1sNFnuoTZ3gi1D1Be8r0LNvw!2e0!7i16384!8i8192?entry=ttu) at SP-425, even though the route continues south to Usina Clealco.
 * SP-316's north end may be slightly off.
-* SP-332 [is signed](https://www.google.com/maps/@-23.0164057,-47.0005563,3a,40.9y,22.14h,84.47t/data=!3m6!1e1!3m4!1sUEMNs3FLqkDc0tSaYTzUSQ!2e0!7i16384!8i8192?entry=ttu) north of Vinhedo.
+* SP-332 is signed [north of Jundiaí](https://www.google.com/maps/@-23.1760971,-46.8992036,3a,43.4y,57.03h,115.33t/data=!3m6!1e1!3m4!1sqwjaXwKMzS-ZmzTWNSvOJA!2e0!7i16384!8i8192?entry=ttu), [south of Vinhedo](https://www.google.com/maps/@-23.0394954,-46.9693354,3a,15y,158.17h,88.55t/data=!3m6!1e1!3m4!1s88hRVQYpC1SYXGBi50ZTmQ!2e0!7i16384!8i8192?entry=ttu), and [north of Vinhedo](https://www.google.com/maps/@-23.0164057,-47.0005563,3a,40.9y,22.14h,84.47t/data=!3m6!1e1!3m4!1sUEMNs3FLqkDc0tSaYTzUSQ!2e0!7i16384!8i8192?entry=ttu). There may be no signs on the segment south of Jundiaí, but two acessos with denominator of 332 are signed spurring from it. Gaps are mapped thru Jundiaí, Vinhedo, and Campinas due to lack of signage and no well-defined route.
 * SP-355's route thru Nova Aliança is from the 2017 map; destination signs point via a one-way loop around downtown. Its route thru Mendonça is a guess based on destination signs and the 2017 map.
 * SP-373Mor's west end is probably inexact.
 * SP-381's south end may be wrong.
@@ -463,12 +465,6 @@ Acessos and Interligações:
 * SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
-* SP-332
-* SPA-042/332
-* SPA-053/332
-* SPA-114/332
-* SPA-128/332
-* SPA-129/332
 * SP-334
 * SPA-321/334
 * SPA-334/334
