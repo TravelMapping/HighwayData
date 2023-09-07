@@ -289,6 +289,10 @@ The following routes are not included due to apparent lack of signs:
 * SPA-168/333 (as of 2021)
 * SPA-182/333 (as of 2021)
 * SPA-209/333 (as of 2022)
+* SPA-397/334 north of SP-345 (municipal maintenance, as of 2022)
+* SPA-407/334 (as of 2021)
+* SPA-455/334 (as of 2021, but no imagery along the actual route)
+* SPA-457/334 (as of 2021)
 * SPA-244/344 (as of 2023)
 * SPA-032/345 (as of 2022)
 * SPA-059/345 (as of 2021)
@@ -459,23 +463,14 @@ Acessos and Interligações:
 * SPA-193/330 [is signed](https://www.google.com/maps/@-22.1486213,-47.4069254,3a,15.2y,290.7h,84.89t/data=!3m6!1e1!3m4!1sTxhJ-xM0ToXiD3qY9CqPCQ!2e0!7i16384!8i8192?entry=ttu).
 * SPA-024/333's west end may be wrong.
 * SPA-245/333's route thru Pongaí is from the 2017 map; there appears to be no signage thru town (as least as of 2011).
+* SPA-321/334 [is signed](https://www.google.com/maps/@-21.0672433,-47.7447416,3a,15y,236.77h,86.47t/data=!3m6!1e1!3m4!1s_sWgXVInYMGy6oogqSnMKQ!2e0!7i16384!8i8192?entry=ttu).
+* SPA-334/334 [is signed](https://www.google.com/maps/@-21.0665802,-47.7436961,3a,39.9y,84.23h,86.43t/data=!3m6!1e1!3m4!1sXVUMiixTRnUHbC9Xm0x-Rg!2e0!7i16384!8i8192?entry=ttu).
 * SPA-018/461 [is erroneously signed](https://www.google.com/maps/@-21.2329433,-50.4131602,3a,16.6y,156.43h,84.34t/data=!3m6!1e1!3m4!1suo8eGHCbrPbr118DvaKkDA!2e0!7i16384!8i8192?entry=ttu) as SPA-018.
 * SPA-065/461 [is erroneously signed](https://www.google.com/maps/@-20.9466662,-50.1166809,3a,15y,145.12h,85.9t/data=!3m6!1e1!3m4!1s7y9Ph__XPCzTmgvpXtQxQw!2e0!7i16384!8i8192?entry=ttu) as SPA-065.
 * SPA-075/463 [is signed](https://www.google.com/maps/@-20.9131193,-50.416388,3a,15y,261.46h,85.3t/data=!3m6!1e1!3m4!1sp6Cg7bXIIl6rAB8QiNrZqg!2e0!7i16384!8i8192?entry=ttu).
 * SPA-174/463 [appears to be signed](https://www.google.com/maps/@-20.0505176,-50.4540679,3a,15y,268.09h,90.34t/data=!3m6!1e1!3m4!1srPMYwBx6f36l1E4N1gJZvw!2e0!7i16384!8i8192?entry=ttu).
 
 Routes that have not been mapped yet:
-* SP-334
-* SPA-321/334
-* SPA-334/334
-* SPA-348/334
-* SPA-352/334
-* SPA-384/334
-* SPA-397/334
-* SPA-407/334
-* SPA-420/334
-* SPA-455/334
-* SPA-457/334
 * SP-336
 * SP-338
 * SPA-309/338
