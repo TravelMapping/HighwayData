@@ -4,3 +4,4 @@ Notes on routes:
 * BR-158Mar seems to be mostly unsigned, but [at least one construction sign](https://www.google.com/maps/@-24.8905521,-52.2564705,3a,15y,270.77h,82.22t/data=!3m6!1e1!3m4!1s9BF2w1iICHcYKM9WjV_d1w!2e0!7i16384!8i8192?entry=ttu) calls it BR-158.
 * BR-376: GIS shows federal maintenance continuing north to the center of Nova Londrina, but there are no signs beyond the curve on the outskirts (where the Viapar concession ends).
 * BR-467 may be unsigned, even [on the independent portion in Cascavel](https://www.google.com/maps/@-24.9149451,-53.4885105,3a,37y,328.75h,85.14t/data=!3m6!1e1!3m4!1sNatY9wt3SmVx0prCQ7cqnQ!2e0!7i16384!8i8192?entry=ttu).
+* BR-469 [is signed](https://www.google.com/maps/@-25.6916088,-54.4354645,2a,41.1y,101.64h,90.56t/data=!3m6!1e1!3m4!1syVS5MqaUvoPr44Fn0C20Kg!2e0!7i13312!8i6656?entry=ttu) within the park.
