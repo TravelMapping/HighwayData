@@ -3,3 +3,4 @@ Notes on routes:
 * BR-135 (not BR-235) [is the signed route](https://www.google.com/maps/@-9.4659598,-44.6442715,3a,15y,104.29h,81.99t/data=!3m6!1e1!3m4!1srV7J6YX78wG1WS9qqAysQg!2e0!7i16384!8i8192?entry=ttu) east of Monte Alegre do Piauí.
 * BR-135 (not BR-343) [is the signed route](https://www.google.com/maps/@-7.086629,-43.5035547,3a,15y,259.37h,86.41t/data=!3m6!1e1!3m4!1shUu4KLk-oXrKIHBfVoRCpw!2e0!7i16384!8i8192?entry=ttu) thru Jerumenha.
 * BR-235's status near Caracol is unknown.
+* BR-235 (west of BR-135) [is signed](https://www.google.com/maps/@-9.1240223,-45.9205127,3a,75y,84.75h,105.28t/data=!3m6!1e1!3m4!1sUK2yLeawpoQMN5_mMKtOEQ!2e0!7i16384!8i8192?entry=ttu).
