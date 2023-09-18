@@ -4,3 +4,4 @@ Notes on routes:
 * BR-135 (not BR-343) [is the signed route](https://www.google.com/maps/@-7.086629,-43.5035547,3a,15y,259.37h,86.41t/data=!3m6!1e1!3m4!1shUu4KLk-oXrKIHBfVoRCpw!2e0!7i16384!8i8192?entry=ttu) thru Jerumenha.
 * BR-235's status near Caracol is unknown.
 * BR-235 (west of BR-135) [is signed](https://www.google.com/maps/@-9.1240223,-45.9205127,3a,75y,84.75h,105.28t/data=!3m6!1e1!3m4!1sUK2yLeawpoQMN5_mMKtOEQ!2e0!7i16384!8i8192?entry=ttu). GIS shows the former routing to the ferry in Santa Filomena, but [the bridge is BR-235](https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2021/05/inaugurada-ponte-que-beneficiara-o-agronegocio-de-estados-do-nordeste).
+* BR-404 [is signed](https://www.google.com/maps/@-4.4417492,-41.5308961,3a,15y,304.5h,82.08t/data=!3m6!1e1!3m4!1suALkO-ED4m4kOyzRnHX2TA!2e0!7i16384!8i8192?entry=ttu).
