@@ -1,3 +1,7 @@
+Sources:
+* [2023 state maps](https://www.gov.br/dnit/pt-br/rodovias/mapa-de-gerenciamento/)
+* [2023 GIS data](https://geo.epl.gov.br/portal/home/item.html?id=1e51ef64981f48b08e56e9b98d92fa56) (SNV 202301B)
+
 Notes on routes:
 * BR-120 [is signed](https://www.google.com/maps/@-18.7994259,-42.7608248,3a,38y,163.13h,79.75t/data=!3m6!1e1!3m4!1skMWAJ3c0BrX6R5WFmj6MoA!2e0!7i16384!8i8192?entry=ttu) via a connecting state route, but signs on the route itself are for [MGC-120](https://www.google.com/maps/@-19.7516289,-43.0277273,3a,15y,62.71h,85.08t/data=!3m6!1e1!3m4!1srVjqfUj1Cqzz7Na50jRYuA!2e0!7i16384!8i8192?entry=ttu) and [MGT-120](https://www.google.com/maps/@-18.3475337,-42.6135426,3a,15y,187.17h,82.75t/data=!3m6!1e1!3m4!1sror-hQAvp_Q9WcFoYXTGZw!2e0!7i16384!8i8192?entry=ttu).
 * BR-135 [is signed](https://www.google.com/maps/@-14.5927825,-44.1499438,3a,36.8y,208.72h,84.3t/data=!3m6!1e1!3m4!1sR5G8PRMi_d6PoAqj9MG2wg!2e0!7i16384!8i8192?entry=ttu) along the state-maintained portion between Montalvânia and Manga. Signage south of Itacarambi is unknown; a random sampling of km posts shows [basic signs](https://www.google.com/maps/@-15.9459888,-44.2920309,3a,21.3y,191.21h,80.72t/data=!3m6!1e1!3m4!1s7Kgsr-zpcA09eCxtUULmpA!2e0!7i16384!8i8192?entry=ttu) with no route number.
