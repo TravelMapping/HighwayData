@@ -1,3 +1,7 @@
+Sources:
+* [2023 state maps](https://www.gov.br/dnit/pt-br/rodovias/mapa-de-gerenciamento/)
+* [2023 GIS data](https://geo.epl.gov.br/portal/home/item.html?id=1e51ef64981f48b08e56e9b98d92fa56) (SNV 202301B)
+
 Notes on routes:
 * BR-020 is signed [near Simplício Mendes](https://www.google.com/maps/@-7.8747848,-41.9133934,3a,19y,58.16h,86.24t/data=!3m6!1e1!3m4!1skrRLC7wM34rxMjL5vfC24g!2e0!7i16384!8i8192?entry=ttu), [near São João do Piauí](https://www.google.com/maps/@-8.3715139,-42.2410493,3a,15y,61.1h,83.03t/data=!3m6!1e1!3m4!1smXzwfuozUCRovA2a_Liiwg!2e0!7i16384!8i8192?entry=ttu), [near Colonel José Dias](https://www.google.com/maps/@-8.8299113,-42.481243,3a,42.3y,254.6h,89.3t/data=!3m6!1e1!3m4!1sRkeN4S-mKlFR1UPdmqc_-Q!2e0!7i16384!8i8192?entry=ttu), [near São Raimundo Nonato](https://www.google.com/maps/@-8.9969605,-42.6822242,3a,15.6y,213.34h,86.7t/data=!3m6!1e1!3m4!1svJ7TkheTSTfWcJeJXY5C1g!2e0!7i16384!8i8192?entry=ttu), and [at the state line](https://www.google.com/maps/@-9.431364,-42.9604646,3a,27.1y,68.3h,88.33t/data=!3m6!1e1!3m4!1s5s6wDEOju0Z_bRJdlN70cQ!2e0!7i16384!8i8192?entry=ttu). The stub north of Simpicio Mendes may not be signed, but all sources indicate that it is federally maintained. The 2023 state map shows that all is federally maintained except São Raimundo Nonato to near Coronel José Dias.
 * BR-135 (not BR-235) [is the signed route](https://www.google.com/maps/@-9.4659598,-44.6442715,3a,15y,104.29h,81.99t/data=!3m6!1e1!3m4!1srV7J6YX78wG1WS9qqAysQg!2e0!7i16384!8i8192?entry=ttu) east of Monte Alegre do Piauí.
