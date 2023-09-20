@@ -1,4 +1,13 @@
 date;region;route;root;description
+2023-09-19;Albania;A1 (Klos);alb.a001;Route extended at south end from SH30 at Rreshen to southern junction with SH1, and at north end from SH5 to Kosovo border
+2023-09-19;Albania;A1 (Thumane);alb.a001;Route merged with main segment
+2023-09-19;Albania;A3;alb.a003;Route truncated at north end from SH56 to SH3 at Lundër
+2023-09-19;Albania;Unaza Lindore, Tiranë;alb.unalin;Route added
+2023-09-19;Albania;Unaza e Madhe, Tiranë;alb.unamad;Route added (consisting of truncated parts of A3 and SH56)
+2023-09-19;Albania;SH5;alb.sh005;Route truncated at east end from Kosovo border to A1
+2023-09-19;Albania;SH6;alb.sh006;Route truncated at west end from SH1 to A1
+2023-09-19;Albania;SH8;alb.sh008;Route truncated at north end from SH73/94 to SH4 at Levan, and route clarified in Vlore
+2023-09-19;Albania;SH56;alb.sh056;Route truncated at east end from SH1 to Unaza e Madhe
 2022-01-05;Albania;E762;alb.e762;Route removed from SH1 and relocated onto Shkoder West Bypass between the SH1 north of Shkoder and the SH1 south of Shkoder
 2020-04-20;Albania;A2;alb.a002;Route extended at north end from SH4 and SH8 at Levan to SH4 at Mbrostar
 2020-04-20;Albania;A3;alb.a003;Route extended at south end from SH3 at Berzhite to SH3 at Bradashesh
@@ -1906,6 +1915,7 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2023-09-19;Indonesia;T13 (Java);idn.t013;Route extended at east end from exit 840 to exit 849
 2023-08-12;Indonesia;T2 (Java);idn.t002;Route extended at south end from exit 61 to exit 72
 2023-07-27;Indonesia;T4 (Java);idn.t004;Route extended at east end from exit 187 to exit 217
 2023-04-17;Indonesia;T17 (Cikarang, Java);idn.t017cik;Route extended at north end from exit 27 to exit 33
@@ -2202,7 +2212,7 @@ date;region;route;root;description
 2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
 2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
 2023-08-17;Italy;Viadotto Indiano, Firenze;ita.viaind;Route added
-2023-08-17;Italy;Via Marco Polo, Firenze;ita.viamarpol;Route added
+2023-08-17;Italy;Via Marco Polo, Firenze;ita.viamarpolo;Route added
 2023-04-14;Italy;A33 Autostrada Asti - Cuneo (Alba);ita.a033alb;Route added
 2023-04-14;Italy;Superstrada Pedemontana Veneta;ita.spv;Route extended at east end from Variante di Spresiano to A27
 2022-07-14;Italy;Superstrada Pedemontana Veneta;ita.spv;Route extended at east end from SR348 to Variante di Spresiano
@@ -2306,6 +2316,7 @@ date;region;route;root;description
 2015-08-25;Italy;Tangenziale di Bologna;;Route renamed RA1
 2015-08-25;Italy;Tangenziale di Bologna (Borgo Panigale);;Route renamed RA1 (Borgo Panigale)
 2015-08-25;Italy;Tangenziale di Catania;;Renamed RA15
+2023-09-19;Jamaica;T1;jam.t001;Route extended at west end from A2 at Denbigh to A2 at Mandeville
 2016-03-28;Jamaica;T3;jam.t003;Route extended at north end from temporary terminus with A1 at Monleague to the A3.
 2016-03-11;Jamaica;T3;jam.t003;Route extended at south end from the A1 at Angels to the A1 at Caymanas
 2016-02-07;Jamaica;T3;jam.t003;Route extended at south end from A1 at Linstead to A1 at Spanish Town
@@ -2806,6 +2817,7 @@ date;region;route;root;description
 2020-03-09;New Zealand;SH1 (Te Ika-a-Māui);nzl.sh001;Route removed from Great South Road and Gordonton Road and relocated onto Waikato Expressway between Great South Road and northern junction with SH1B
 2020-03-09;New Zealand;Thermal Explorer Highway;nzl.theexphwy;Route removed from Gordonton Road and Waikato Expressway and relocated onto Great South Road between Gordonton Road and the SH1 at Horotiu
 2020-03-09;New Zealand;Thermal Explorer Highway;nzl.theexphwy;Route removed from Waikato Expressway and relocated onto Cambridge Road, Hamilton Road, Victoria Street, Queen Street, Albert Street and Tirau Road between the SH1 west of Cambridge and the SH1 east of Cambridge
+2023-09-19;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;Route extended at west end from exit 25 to 'UliBorKid'
 2023-01-13;North Macedonia;A3 (Shtip);mkd.a003sht;Route removed from R1205 and route through Krupiste and Oblesevo and relocated onto Shtip-Kochani Expressway between R1205 and R2342
 2020-11-25;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;Route truncated at west end from A4 exit 13 to eastern junction with A3
 2020-10-26;North Macedonia;A3 (Shtip);mkd.a003sht;Route removed from A4 and R1, and relocated onto Shtip bypass between A4_S and R1205_S
@@ -3026,6 +3038,11 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2023-09-19;Poland;S7;pol.s007;Route extended at south end from Zagora to exit 107
+2023-09-19;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7 and DW783 between Zagora and western junction with DW783
+2023-09-19;Poland;DK7 (Miechow);pol.dk007mie;Route truncated at north end from Zagora to DW783 and extended at north end from DW783 to S7 exit 107
+2023-09-19;Poland;DK63;pol.dk063;Route removed from  and  and relocated onto DK63 (Łomża), S61 and DK61 between Ulica Lomza and DW645
+2023-09-19;Poland;DK63 (Łomża);pol.dk063;Route deleted (merged into main route)
 2023-08-12;Poland;S16 (Elk);pol.s016elk;Route added
 2023-08-12;Poland;S61 (Suwalki);pol.s061;Route extended at south end from exit 15 to exit 8
 2023-08-12;Poland;S61 (Szcuczyn);pol.s061;Route deleted (now part of Suwalki portion)
@@ -3944,6 +3961,11 @@ date;region;route;root;description
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2023-09-19;Serbia;A5;srb.a005;Route extended at north end from 'B38_N' to A1 south end from 'B38_S' to B23
+2023-09-19;Serbia;E75 (Belgrade);;Route deleted
+2023-09-19;Serbia;B23;srb.b023;Route truncated at north end between A1 and A5
+2023-09-19;Serbia;B23 (Stalec);srb.b023sta;Route added
+2023-09-19;Serbia;B35;srb.b035;Route removed from Nis and relocated onto E80 (via A1 and A4) between eastern junction with Ulica Niska and R259
 2023-06-28;Serbia;A1;srb.a001;Route extended at north end from former exit 25 (now 28) to the Hungarian border
 2023-06-28;Serbia;A1 (Novi Sad);srb.a001;Route deleted (now part of main section)
 2023-06-28;Serbia;A1;srb.a001;Waypoint labels changed: 13 is now 15, 15 is now 17, 17 is now 19, 19 is now 22, 20 is now 23, 21 is now 24, 22 is now 25, 23 is now 26, 24 is now *R154_Res, 25 is now 28, 33 is now 36, 38 is now 41, 40 is now 43, 45 is now 48, 53 is now 55, *56 is now *R441
@@ -3992,6 +4014,7 @@ date;region;route;root;description
 2023-08-17;Singapore;AH143;;Route deleted
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2023-09-19;Slovakia;II426;svk.ii426;Route added
 2022-12-31;Slovakia;R2 (Mytna);svk.r002myt;Route added
 2022-12-31;Slovakia;E58;svk.e58;Route removed from I16 and relocated onto R2 between I16 at Mytna and I16 at Tomasovce
 2022-12-31;Slovakia;E571;svk.e571;Route removed from I16 and relocated onto R2 between I16 at Mytna and I16 at Tomasovce
@@ -5129,6 +5152,7 @@ date;region;route;root;description
 2015-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+2023-09-19;(UK) Scotland;B7020;sct.b7020;Route extended at south end from western junction with B725 to A75
 2023-01-05;(UK) Scotland;A97;sct.a0097;Route truncated at north end from A953 to what was the eastern junction with the A98
 2023-01-07;(UK) Scotland;A98;sct.a0098;Route truncated at east end from former B9034 (that point relocated) to A90
 2023-01-07;(UK) Scotland;A953;;Route deleted
