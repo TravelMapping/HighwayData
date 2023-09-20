@@ -1,3 +1,7 @@
+Sources:
+* [2023 state maps](https://www.gov.br/dnit/pt-br/rodovias/mapa-de-gerenciamento/)
+* [2023 GIS data](https://geo.epl.gov.br/portal/home/item.html?id=1e51ef64981f48b08e56e9b98d92fa56) (SNV 202301B)
+
 Notes on routes:
 * BR-174 is probably unsigned south of BR-070 except on [construction signs](https://www.google.com/maps/@-16.1554767,-57.6176691,3a,15y,175.52h,92.57t/data=!3m6!1e1!3m4!1sc2hMQdkAAPdvnx4xH4QrHg!2e0!7i16384!8i8192?entry=ttu).
 * BR-174's spur to Vila Bela da Santíssima Trinidade [is signed](https://www.google.com/maps/@-15.2152641,-59.3541814,3a,38.8y,185.14h,83.13t/data=!3m6!1e1!3m4!1sEs9I4IXSHwdje9IaUADagA!2e0!7i16384!8i8192?entry=ttu) as BR-174 (GIS calls it BR-174A). The west end may be wrong.
