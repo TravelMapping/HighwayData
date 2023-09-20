@@ -1,3 +1,7 @@
+Sources:
+* [2023 state maps](https://www.gov.br/dnit/pt-br/rodovias/mapa-de-gerenciamento/)
+* [2023 GIS data](https://geo.epl.gov.br/portal/home/item.html?id=1e51ef64981f48b08e56e9b98d92fa56) (SNV 202301B)
+
 Notes on routes:
 * BR-020 is shown as no longer using the Fortaleza bypass in 2023, but signs are still posted.
 * BR-122 south of CE-265 is signed as both [BR-122](https://www.google.com/maps/@-5.0727015,-39.0627108,3a,30.8y,155.36h,82.61t/data=!3m6!1e1!3m4!1siCxj2A7kuIYp0csvbODxhg!2e0!7i16384!8i8192?entry=ttu) and [CE-368](https://www.google.com/maps/@-5.297447,-38.9204353,3a,30.5y,0.76h,97.78t/data=!3m6!1e1!3m4!1sz8oLW6Vf5306LME3nLHa8A!2e0!7i16384!8i8192?entry=ttu) (but note the construction sign for BR-122).
