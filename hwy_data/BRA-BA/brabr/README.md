@@ -1,3 +1,7 @@
+Sources:
+* [2023 state maps](https://www.gov.br/dnit/pt-br/rodovias/mapa-de-gerenciamento/)
+* [2023 GIS data](https://geo.epl.gov.br/portal/home/item.html?id=1e51ef64981f48b08e56e9b98d92fa56) (SNV 202301B)
+
 Notes on routes:
 * BR-020 appears to be unsigned north of BR-235 (this part is unpaved but federally maintained).
 * BR-030 appears to be unsigned on the unpaved but federally maintained portion from Carinhanha west to the state line, but there is no street view on most of it. The mostly-unpaved section east of Sussurana also seems to be unsigned, except for [at least one construction sign](https://www.google.com/maps/@-14.3525118,-40.3320716,3a,15y,153.4h,87.63t/data=!3m6!1e1!3m4!1sECf1Gr5SoK6eGtsW6fLNrA!2e0!7i16384!8i8192?entry=ttu) on the paved connection from BR-116 to Boa Nova and [at least one state-posted sign](https://www.google.com/maps/@-14.2277792,-39.0929345,3a,15y,351.99h,84.46t/data=!3m6!1e1!3m4!1s8zahtKQEmIyxNLzEjlaQhw!2e0!7i16384!8i8192?entry=ttu) east of Ubaitaba.
