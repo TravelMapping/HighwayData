@@ -1,4 +1,4 @@
 Notes on routes:
 * BR-174 is probably unsigned south of BR-070 except on [construction signs](https://www.google.com/maps/@-16.1554767,-57.6176691,3a,15y,175.52h,92.57t/data=!3m6!1e1!3m4!1sc2hMQdkAAPdvnx4xH4QrHg!2e0!7i16384!8i8192?entry=ttu).
-* BR-174's spur to Vila Bela da Santíssima Trinidade [is signed](https://www.google.com/maps/@-15.2152641,-59.3541814,3a,38.8y,185.14h,83.13t/data=!3m6!1e1!3m4!1sEs9I4IXSHwdje9IaUADagA!2e0!7i16384!8i8192?entry=ttu) as BR-174 (GIS calls it BR-174A).
+* BR-174's spur to Vila Bela da Santíssima Trinidade [is signed](https://www.google.com/maps/@-15.2152641,-59.3541814,3a,38.8y,185.14h,83.13t/data=!3m6!1e1!3m4!1sEs9I4IXSHwdje9IaUADagA!2e0!7i16384!8i8192?entry=ttu) as BR-174 (GIS calls it BR-174A). The west end may be wrong.
 * BR-242 is signed [east](https://www.google.com/maps/@-11.6261944,-50.706865,3a,47.6y,273.51h,111.52t/data=!3m6!1e1!3m4!1sWcFjn5qJqe8xfa2U8uo3zA!2e0!7i16384!8i8192?entry=ttu) and [west](https://www.google.com/maps/@-12.6014492,-52.1845971,3a,26.8y,272.92h,87.49t/data=!3m6!1e1!3m4!1s4B4LZsVkZzMm8hZQMtWM7g!2e0!7i16384!8i8192?entry=ttu) of BR-158.
