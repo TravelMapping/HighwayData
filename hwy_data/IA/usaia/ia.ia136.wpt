@@ -1,6 +1,6 @@
 IL/IA http://www.openstreetmap.org/?lat=41.864895&lon=-90.173163
 US67_S http://www.openstreetmap.org/?lat=41.866237&lon=-90.182219
-+MainAve_E http://www.openstreetmap.org/?lat=41.872677&lon=-90.179901
+MainAve_E http://www.openstreetmap.org/?lat=41.872677&lon=-90.179901
 US67_N http://www.openstreetmap.org/?lat=41.873428&lon=-90.183506
 CRZ50 http://www.openstreetmap.org/?lat=41.873843&lon=-90.223675
 +X01 http://www.openstreetmap.org/?lat=41.873763&lon=-90.246763
@@ -36,8 +36,8 @@ CRE17_W http://www.openstreetmap.org/?lat=42.183186&lon=-91.014540
 +X08 http://www.openstreetmap.org/?lat=42.191931&lon=-91.015291
 +X09 http://www.openstreetmap.org/?lat=42.213469&lon=-90.992374
 +X10 http://www.openstreetmap.org/?lat=42.258953&lon=-90.976796
-US151Bus http://www.openstreetmap.org/?lat=42.298135&lon=-91.016107
-US151 http://www.openstreetmap.org/?lat=42.305245&lon=-91.023059
+US151Bus_N +US151Bus http://www.openstreetmap.org/?lat=42.298135&lon=-91.016107
+US151/151Bus +US151 http://www.openstreetmap.org/?lat=42.305245&lon=-91.023059
 CRD47 http://www.openstreetmap.org/?lat=42.310545&lon=-91.031470
 +X11 http://www.openstreetmap.org/?lat=42.333074&lon=-91.077604
 +X12 http://www.openstreetmap.org/?lat=42.375254&lon=-91.088462
@@ -45,9 +45,4 @@ CRD35 http://www.openstreetmap.org/?lat=42.395985&lon=-91.118438
 CRD39 http://www.openstreetmap.org/?lat=42.397221&lon=-91.119490
 +X13 http://www.openstreetmap.org/?lat=42.409437&lon=-91.126292
 +X14 http://www.openstreetmap.org/?lat=42.424439&lon=-91.116593
-US20 http://www.openstreetmap.org/?lat=42.468900&lon=-91.114297
-CRD22 http://www.openstreetmap.org/?lat=42.482099&lon=-91.111829
-CRD17 http://www.openstreetmap.org/?lat=42.548496&lon=-91.114190
-+X15 http://www.openstreetmap.org/?lat=42.557095&lon=-91.112623
-+X16 http://www.openstreetmap.org/?lat=42.574795&lon=-91.086273
-US52/3 http://www.openstreetmap.org/?lat=42.602552&lon=-91.074257
+US20 +CRD22 US52/3 http://www.openstreetmap.org/?lat=42.468900&lon=-91.114297

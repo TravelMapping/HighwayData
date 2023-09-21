@@ -2,16 +2,16 @@ NM/CO http://www.openstreetmap.org/?lat=36.999074&lon=-109.034125
 +X01 http://www.openstreetmap.org/?lat=37.008173&lon=-109.027419
 CO41 http://www.openstreetmap.org/?lat=37.030874&lon=-108.959270
 +X02 http://www.openstreetmap.org/?lat=37.050656&lon=-108.895068
-IR238 http://www.openstreetmap.org/?lat=37.066239&lon=-108.788896
++025 http://www.openstreetmap.org/?lat=37.060759&lon=-108.802714
 US491_S http://www.openstreetmap.org/?lat=37.089324&lon=-108.732891
 MikeWashRd http://www.openstreetmap.org/?lat=37.199894&lon=-108.686564
 CR-G http://www.openstreetmap.org/?lat=37.312052&lon=-108.609810
 US491_N http://www.openstreetmap.org/?lat=37.346961&lon=-108.594403
-US491Spr http://www.openstreetmap.org/?lat=37.348616&lon=-108.588127
+PinDr +US491Spr http://www.openstreetmap.org/?lat=37.348616&lon=-108.588127
 CO145 http://www.openstreetmap.org/?lat=37.353230&lon=-108.552958
 CR29 http://www.openstreetmap.org/?lat=37.349350&lon=-108.527026
 CR34 http://www.openstreetmap.org/?lat=37.352795&lon=-108.425446
-MesaVerdNP http://www.openstreetmap.org/?lat=37.340735&lon=-108.411412
+MesaVerNP +MesaVerdNP http://www.openstreetmap.org/?lat=37.340735&lon=-108.411412
 CR38 http://www.openstreetmap.org/?lat=37.324407&lon=-108.353058
 US160BusMan_W http://www.openstreetmap.org/?lat=37.344744&lon=-108.314944
 CO184 http://www.openstreetmap.org/?lat=37.347473&lon=-108.289157
@@ -36,10 +36,10 @@ US550_S http://www.openstreetmap.org/?lat=37.221692&lon=-107.846582
 CO172 http://www.openstreetmap.org/?lat=37.229679&lon=-107.795920
 FoxRd http://www.openstreetmap.org/?lat=37.225681&lon=-107.665544
 DanaDr http://www.openstreetmap.org/?lat=37.219735&lon=-107.651424
-US160BusBay_W http://www.openstreetmap.org/?lat=37.222896&lon=-107.622344
-ValRd http://www.openstreetmap.org/?lat=37.230465&lon=-107.601385
-US160BusBay_E http://www.openstreetmap.org/?lat=37.234335&lon=-107.587384
-WingSongLn http://www.openstreetmap.org/?lat=37.272106&lon=-107.557225
+BayPkwy_W +US160BusBay_W http://www.openstreetmap.org/?lat=37.222896&lon=-107.622344
+CR501/521 http://www.openstreetmap.org/?lat=37.230531&lon=-107.601305
+BayPkwy_E +US160BusBay_E http://www.openstreetmap.org/?lat=37.234335&lon=-107.587384
+WindSongLn http://www.openstreetmap.org/?lat=37.270809&lon=-107.558802
 BeaCreRd http://www.openstreetmap.org/?lat=37.287029&lon=-107.525640
 BeaMouRd http://www.openstreetmap.org/?lat=37.285014&lon=-107.493796
 +X07 http://www.openstreetmap.org/?lat=37.285014&lon=-107.475944
@@ -61,7 +61,9 @@ JacMouRd http://www.openstreetmap.org/?lat=37.356172&lon=-106.912766
 EForkRd http://www.openstreetmap.org/?lat=37.379365&lon=-106.899247
 FR648 http://www.openstreetmap.org/?lat=37.435544&lon=-106.885986
 +X12 http://www.openstreetmap.org/?lat=37.442598&lon=-106.877704
-+X13 http://www.openstreetmap.org/?lat=37.457520&lon=-106.883454
++X13 http://www.openstreetmap.org/?lat=37.457439&lon=-106.883492
++X132 http://www.openstreetmap.org/?lat=37.457452&lon=-106.884559
++X135 http://www.openstreetmap.org/?lat=37.450715&lon=-106.887386
 +X14 http://www.openstreetmap.org/?lat=37.451047&lon=-106.888647
 +X15 http://www.openstreetmap.org/?lat=37.461336&lon=-106.884956
 FallCreRd http://www.openstreetmap.org/?lat=37.475888&lon=-106.860269
@@ -141,14 +143,14 @@ CR24.4 http://www.openstreetmap.org/?lat=37.168866&lon=-103.754711
 CR169 http://www.openstreetmap.org/?lat=37.219188&lon=-103.611460
 CR173 http://www.openstreetmap.org/?lat=37.218889&lon=-103.575100
 CR191 http://www.openstreetmap.org/?lat=37.220282&lon=-103.409715
-CR197 http://www.openstreetmap.org/?lat=37.220658&lon=-103.354901
+CR197 http://www.openstreetmap.org/?lat=37.222076&lon=-103.354944
 CO109 http://www.openstreetmap.org/?lat=37.276323&lon=-103.355513
 CR215 http://www.openstreetmap.org/?lat=37.279243&lon=-103.192649
 CR3 http://www.openstreetmap.org/?lat=37.279184&lon=-103.031695
-CR10/W http://www.openstreetmap.org/?lat=37.279329&lon=-102.904730
-CR10/CC http://www.openstreetmap.org/?lat=37.366346&lon=-102.904783
+CRW +CR10/W http://www.openstreetmap.org/?lat=37.279354&lon=-102.906704
+CRCC http://www.openstreetmap.org/?lat=37.366329&lon=-102.902917
 CR12.5 http://www.openstreetmap.org/?lat=37.367284&lon=-102.859991
-CR-DD http://www.openstreetmap.org/?lat=37.382017&lon=-102.858274
+CRDD http://www.openstreetmap.org/?lat=37.382017&lon=-102.858274
 CR19 http://www.openstreetmap.org/?lat=37.382545&lon=-102.742413
 US287/385 http://www.openstreetmap.org/?lat=37.383483&lon=-102.615438
 CR32 http://www.openstreetmap.org/?lat=37.383688&lon=-102.491959

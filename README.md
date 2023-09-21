@@ -2,7 +2,7 @@
 
 This repository is for raw data used by the Travel Mapping project.
 
-Please help us improve our data by reporting any problems you notice with the data in [the project forum](http://forum.travelmapping.net/).
+Please help us improve our data by reporting any problems you notice with the data in [the project forum](https://forum.travelmapping.net/).
 
 In general, the project's data is in plain text files in two formats: CSV using semicolon separators, and WPT or "waypoint" files.  WPT files are required to contain only plain ASCII text.  Some CSV files can include non-ASCII characters, but should always use a UTF-8 encoding when such characters are used.
 
@@ -24,7 +24,7 @@ The `chm_final` directory contains an archive of the version of the project's da
 
 The `boundaries` directory contains descriptions of shorelines and borders that can be used to render certain types of maps.  Travel Mapping does not currently use these.
 
-The `graphs` directory contains CSV files that guide the creation of some of the graphs generated for use by the [METAL project](http://courses.teresco.org/metal/).
+The `graphs` directory contains CSV files that guide the creation of some of the graphs generated for use by the [METAL project](https://courses.teresco.org/metal/).
 
 The `hwy_data` directory contains all of the information about which routes are in each system and the points that make up each route.
 

@@ -41,17 +41,17 @@ CR10_Cot http://www.openstreetmap.org/?lat=44.616118&lon=-95.663624
 CR18_Han http://www.openstreetmap.org/?lat=44.688107&lon=-95.617146
 210thAve http://www.openstreetmap.org/?lat=44.702734&lon=-95.613456
 CR17 http://www.openstreetmap.org/?lat=44.746002&lon=-95.574403
-MN274 http://www.openstreetmap.org/?lat=44.773138&lon=-95.547473
-MN67_E http://www.openstreetmap.org/?lat=44.802728&lon=-95.547194
+MN67_E +MN274 http://www.openstreetmap.org/?lat=44.773138&lon=-95.547473
+MN167 http://www.openstreetmap.org/?lat=44.802728&lon=-95.547194
 US212/67 +US212/67_W http://www.openstreetmap.org/?lat=44.805681&lon=-95.545800
 US212_E http://www.openstreetmap.org/?lat=44.796287&lon=-95.484399
 CR38 http://www.openstreetmap.org/?lat=44.810796&lon=-95.483594
 CR11_A http://www.openstreetmap.org/?lat=44.847107&lon=-95.483615
 90thSt http://www.openstreetmap.org/?lat=44.890691&lon=-95.482864
-CR4_S +CR4May http://www.openstreetmap.org/?lat=44.906165&lon=-95.464303
+CR4_S http://www.openstreetmap.org/?lat=44.906165&lon=-95.464303
 MN7 http://www.openstreetmap.org/?lat=44.949082&lon=-95.373688
 CR2_Cla http://www.openstreetmap.org/?lat=44.955111&lon=-95.366285
-CR7_Ray +CR7Ray http://www.openstreetmap.org/?lat=45.015954&lon=-95.238740
+CR7_Ray http://www.openstreetmap.org/?lat=45.015954&lon=-95.238740
 CR1_S http://www.openstreetmap.org/?lat=45.044191&lon=-95.186384
 CR5/15 http://www.openstreetmap.org/?lat=45.089126&lon=-95.104351
 US71_S http://www.openstreetmap.org/?lat=45.090528&lon=-95.042682
@@ -61,10 +61,10 @@ CivCenDr http://www.openstreetmap.org/?lat=45.142404&lon=-95.007824
 US71Bus http://www.openstreetmap.org/?lat=45.154791&lon=-95.017995
 CR25_S http://www.openstreetmap.org/?lat=45.183073&lon=-95.013231
 US71_N http://www.openstreetmap.org/?lat=45.199465&lon=-95.003715
-CR9 +CR9Kan http://www.openstreetmap.org/?lat=45.204371&lon=-94.987192
+CR9 http://www.openstreetmap.org/?lat=45.204371&lon=-94.987192
 71stSt http://www.openstreetmap.org/?lat=45.214757&lon=-94.945607
 CR10_Spi http://www.openstreetmap.org/?lat=45.231473&lon=-94.939878
-CR30_A  +CR30Kan http://www.openstreetmap.org/?lat=45.263530&lon=-94.942796
+CR30_A http://www.openstreetmap.org/?lat=45.263530&lon=-94.942796
 MN9 http://www.openstreetmap.org/?lat=45.291932&lon=-94.938912
 CR31_N http://www.openstreetmap.org/?lat=45.304414&lon=-94.907370
 115thSt_N http://www.openstreetmap.org/?lat=45.327349&lon=-94.885354
@@ -83,7 +83,7 @@ CR12/43 http://www.openstreetmap.org/?lat=45.445214&lon=-94.556944
 MN22 http://www.openstreetmap.org/?lat=45.448932&lon=-94.521453
 CR71 http://www.openstreetmap.org/?lat=45.451687&lon=-94.501133
 CR49 http://www.openstreetmap.org/?lat=45.448390&lon=-94.445043
-CR2_Col +CR2Ste http://www.openstreetmap.org/?lat=45.452515&lon=-94.428906
+CR2_Col http://www.openstreetmap.org/?lat=45.452515&lon=-94.428906
 CR82_W http://www.openstreetmap.org/?lat=45.461470&lon=-94.363954
 RauLakeRd http://www.openstreetmap.org/?lat=45.461786&lon=-94.326510
 CR82_E http://www.openstreetmap.org/?lat=45.479573&lon=-94.323850
@@ -123,14 +123,14 @@ CR11_N http://www.openstreetmap.org/?lat=45.888515&lon=-93.245838
 CR5_S http://www.openstreetmap.org/?lat=45.908540&lon=-93.188996
 CR5_N http://www.openstreetmap.org/?lat=45.913511&lon=-93.177259
 MN107 http://www.openstreetmap.org/?lat=45.941914&lon=-93.097286
-CR13_Bro +CR13Pine http://www.openstreetmap.org/?lat=45.948315&lon=-93.078361
+CR13_Bro http://www.openstreetmap.org/?lat=45.948315&lon=-93.078361
 CR61 +CR61Hin http://www.openstreetmap.org/?lat=45.976014&lon=-92.958026
 I-35(180) http://www.openstreetmap.org/?lat=45.976431&lon=-92.955859
 I-35(183) http://www.openstreetmap.org/?lat=46.011114&lon=-92.931944
 +x152 http://www.openstreetmap.org/?lat=46.102757&lon=-92.888288
 I-35(191) http://www.openstreetmap.org/?lat=46.125188&lon=-92.887838
 MN123_W http://www.openstreetmap.org/?lat=46.125203&lon=-92.879502
-CR64 +CR64Pine http://www.openstreetmap.org/?lat=46.135672&lon=-92.866144
+CR64 http://www.openstreetmap.org/?lat=46.135672&lon=-92.866144
 MN18 http://www.openstreetmap.org/?lat=46.179801&lon=-92.866488
 I-35(195) http://www.openstreetmap.org/?lat=46.179771&lon=-92.856724
 +X225429 http://www.openstreetmap.org/?lat=46.180603&lon=-92.829537
@@ -144,7 +144,7 @@ CR47 http://www.openstreetmap.org/?lat=46.369941&lon=-92.554557
 CR155 http://www.openstreetmap.org/?lat=46.422860&lon=-92.487931
 CR153 http://www.openstreetmap.org/?lat=46.440785&lon=-92.459006
 CR8_A http://www.openstreetmap.org/?lat=46.475758&lon=-92.428815
-CR1_N +CR1Car http://www.openstreetmap.org/?lat=46.530170&lon=-92.384613
+CR1_N http://www.openstreetmap.org/?lat=46.530170&lon=-92.384613
 +X405108 http://www.openstreetmap.org/?lat=46.539676&lon=-92.363563
 CR4_N http://www.openstreetmap.org/?lat=46.595926&lon=-92.334874
 CR18_Wre http://www.openstreetmap.org/?lat=46.619497&lon=-92.326891

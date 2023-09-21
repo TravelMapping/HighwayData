@@ -5,14 +5,14 @@ IN/MI http://www.openstreetmap.org/?lat=41.760156&lon=-86.331393
 +x1 http://www.openstreetmap.org/?lat=41.896573&lon=-86.317912
 13 +SnoRd http://www.openstreetmap.org/?lat=41.930012&lon=-86.361262
 +x10 http://www.openstreetmap.org/?lat=41.946997&lon=-86.374506
-15 +MI139 http://www.openstreetmap.org/?lat=41.963487&lon=-86.374662
+15 http://www.openstreetmap.org/?lat=41.963487&lon=-86.374662
 18 http://www.openstreetmap.org/?lat=42.000046&lon=-86.364748
 +x20 http://www.openstreetmap.org/?lat=42.028442&lon=-86.378079
 22 http://www.openstreetmap.org/?lat=42.053834&lon=-86.376239
 24 http://www.openstreetmap.org/?lat=42.089449&lon=-86.374211
-30(94) +I-94(30) http://www.openstreetmap.org/?lat=42.090548&lon=-86.409144
-33(94) +I-94(33) http://www.openstreetmap.org/?lat=42.119044&lon=-86.390862
-34(94) +I-94(34) http://www.openstreetmap.org/?lat=42.134513&lon=-86.368160
++X854662 http://www.openstreetmap.org/?lat=42.109685&lon=-86.375670
+33(94) +I-94(33) http://www.openstreetmap.org/?lat=42.116116&lon=-86.393180
+34(94) http://www.openstreetmap.org/?lat=42.134513&lon=-86.368160
 1(196) http://www.openstreetmap.org/?lat=42.149660&lon=-86.368504
 4(196) http://www.openstreetmap.org/?lat=42.186334&lon=-86.376915
 7(196) http://www.openstreetmap.org/?lat=42.229757&lon=-86.365457
@@ -30,7 +30,7 @@ IN/MI http://www.openstreetmap.org/?lat=41.760156&lon=-86.331393
 41(196) http://www.openstreetmap.org/?lat=42.682151&lon=-86.170020
 +x60 http://www.openstreetmap.org/?lat=42.698272&lon=-86.170111
 44(196) +I-196(44) http://www.openstreetmap.org/?lat=42.732829&lon=-86.143541
-47 +WasAve http://www.openstreetmap.org/?lat=42.753354&lon=-86.116269
+47 http://www.openstreetmap.org/?lat=42.753354&lon=-86.116269
 MI40 http://www.openstreetmap.org/?lat=42.760791&lon=-86.096989
 16thSt http://www.openstreetmap.org/?lat=42.783244&lon=-86.080627
 I-196BL_N +US31BusHol http://www.openstreetmap.org/?lat=42.796440&lon=-86.081421
@@ -44,13 +44,14 @@ MI45 http://www.openstreetmap.org/?lat=42.972101&lon=-86.181875
 105 http://www.openstreetmap.org/?lat=43.095862&lon=-86.211339
 107 http://www.openstreetmap.org/?lat=43.132344&lon=-86.210524
 109 http://www.openstreetmap.org/?lat=43.154231&lon=-86.211511
+110A http://www.openstreetmap.org/?lat=43.168785&lon=-86.208773
 110 +I-96 http://www.openstreetmap.org/?lat=43.171757&lon=-86.206886
 110B http://www.openstreetmap.org/?lat=43.173084&lon=-86.205889
 112 http://www.openstreetmap.org/?lat=43.205019&lon=-86.205039
 113 http://www.openstreetmap.org/?lat=43.219480&lon=-86.204944
-114 +MI46 http://www.openstreetmap.org/?lat=43.234190&lon=-86.204545
-116 +US31BusMus http://www.openstreetmap.org/?lat=43.257401&lon=-86.206520
-118 +MI120 http://www.openstreetmap.org/?lat=43.292654&lon=-86.208408
+114 http://www.openstreetmap.org/?lat=43.234190&lon=-86.204545
+116 http://www.openstreetmap.org/?lat=43.257401&lon=-86.206520
+118 http://www.openstreetmap.org/?lat=43.292654&lon=-86.208408
 121 http://www.openstreetmap.org/?lat=43.322063&lon=-86.236367
 +x80 http://www.openstreetmap.org/?lat=43.350388&lon=-86.248834
 126 http://www.openstreetmap.org/?lat=43.383938&lon=-86.280012
@@ -74,7 +75,7 @@ MI45 http://www.openstreetmap.org/?lat=42.972101&lon=-86.181875
 +x152 http://www.openstreetmap.org/?lat=43.907924&lon=-86.416188
 166 +US31BusLud http://www.openstreetmap.org/?lat=43.915238&lon=-86.403083
 +x160 http://www.openstreetmap.org/?lat=43.923069&lon=-86.385047
-170  +US10_W http://www.openstreetmap.org/?lat=43.955939&lon=-86.384329
+170 +US10_W http://www.openstreetmap.org/?lat=43.955939&lon=-86.384329
 US10_E http://www.openstreetmap.org/?lat=43.955070&lon=-86.291916
 MainSt_Sco http://www.openstreetmap.org/?lat=43.967687&lon=-86.280726
 FouRd http://www.openstreetmap.org/?lat=44.048877&lon=-86.280232
@@ -102,7 +103,7 @@ OrcHillRd http://www.openstreetmap.org/?lat=44.644840&lon=-86.074491
 +x200 http://www.openstreetmap.org/?lat=44.662779&lon=-86.069829
 HonRd http://www.openstreetmap.org/?lat=44.663945&lon=-86.021039
 MapCityHwy http://www.openstreetmap.org/?lat=44.662073&lon=-85.934769
-MI137 http://www.openstreetmap.org/?lat=44.658710&lon=-85.767678
+LongLakeRd +MI137 http://www.openstreetmap.org/?lat=44.658710&lon=-85.767678
 SilLkRd http://www.openstreetmap.org/?lat=44.664830&lon=-85.690227
 MI37_S http://www.openstreetmap.org/?lat=44.671880&lon=-85.656152
 MI72_W http://www.openstreetmap.org/?lat=44.768880&lon=-85.634201

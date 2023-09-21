@@ -13,7 +13,7 @@ usai;PR;I-PR3;;;;pr.ipr003;
 usai;TX;I-2;;;;tx.i002;
 usai;FL;I-4;;;;fl.i004;
 usai;CA;I-5;;;;ca.i005;
-usai;CA;I-5;Trk;New;Newhall, CA;ca.i005trknew;
+usai;CA;I-5;Trk;New;Newhall, CA;ca.i005trknew;CA14TrkNew
 usai;OR;I-5;;;;or.i005;
 usai;WA;I-5;;;;wa.i005;
 usai;CA;I-8;;;;ca.i008;
@@ -126,9 +126,9 @@ usai;VA;I-66;;;;va.i066;
 usai;DC;I-66;;;;dc.i066;
 usai;WV;I-68;;;;wv.i068;
 usai;MD;I-68;;;;md.i068;
-usai;TX;I-69;;;Houston, TX;tx.i069;I-69Sug
+usai;TX;I-69;;;;tx.i069;I-69Sug
 usai;MS;I-69;;;;ms.i069;
-usai;KY;I-69;;;;ky.i069;I-69FutMad
+usai;KY;I-69;;;;ky.i069;
 usai;IN;I-69;;Whe;Wheatonville, IN;in.i069whe;I-164
 usai;IN;I-69;;;Fort Wayne, IN;in.i069;
 usai;MI;I-69;;;;mi.i069;
@@ -150,13 +150,13 @@ usai;KY;I-71;;;;ky.i071;
 usai;OH;I-71;;;;oh.i071;
 usai;MO;I-72;;;;mo.i072;
 usai;IL;I-72;;;;il.i072;
-usai;NC;I-73;;;;nc.i073;I-73Gre,I-73FutGre,I-73_N,I-73FutEll,I-73FutWGr
+usai;NC;I-73;;;;nc.i073;I-73FutGre,I-73_N,I-73FutEll,I-73FutWGr
 usai;IA;I-74;;;;ia.i074;
 usai;IL;I-74;;;;il.i074;
 usai;IN;I-74;;;;in.i074;
 usai;OH;I-74;;;;oh.i074;
 usai;NC;I-74;;;Mount Airy, NC;nc.i074;
-usai;NC;I-74;;Hig;High Point, NC;nc.i074hig;I-74Sea,I-74_E,I-74FutEll,I-74FutHig
+usai;NC;I-74;;Hig;High Point, NC;nc.i074hig;I-74_E,I-74FutEll,I-74FutHig
 usai;NC;I-74;;Pem;Pembroke, NC;nc.i074pem;
 usai;FL;I-75;;;;fl.i075;
 usai;GA;I-75;;;;ga.i075;
@@ -388,6 +388,7 @@ usai;VA;I-295;;;;va.i295;
 usai;MD;I-295;;;;md.i295;
 usai;DC;I-295;;;;dc.i295;
 usai;DE;I-295;;;;de.i295;
+usai;NC;I-295;;;;nc.i295;I-295FutFay
 usai;NJ;I-295;;;;nj.i295;I-95_M,I-95Tre
 usai;PA;I-295;;;;pa.i295;
 usai;NY;I-295;;;;ny.i295;
@@ -487,9 +488,10 @@ usai;AL;I-565;;;;al.i565;
 usai;GA;I-575;;;;ga.i575;
 usai;PA;I-579;;;;pa.i579;
 usai;CA;I-580;;;;ca.i580;
-usai;NV;I-580;;;;nv.i580;I-580FutCar,I-580FutRen
+usai;NV;I-580;;;;nv.i580;
 usai;VA;I-581;;;;va.i581;
 usai;SC;I-585;;;;sc.i585;
+usai;NC;I-587;;;;nc.i587;
 usai;NY;I-587;;;;ny.i587;
 usai;NY;I-590;;;;ny.i590;
 usai;FL;I-595;;;;fl.i595;
@@ -516,7 +518,7 @@ usai;CA;I-680;;;;ca.i680;
 usai;NE;I-680;;;;ne.i680;
 usai;IA;I-680;;;;ia.i680;
 usai;OH;I-680;;;;oh.i680;
-usai;NY;I-684;;Pur;Purchase, NY;ny.i684pur;I-684_S
+usai;NY;I-684;;Pur;Purchase, NY;ny.i684pur;
 usai;CT;I-684;;;;ct.i684;
 usai;NY;I-684;;;Bedford, NY;ny.i684;
 usai;NY;I-690;;;;ny.i690;
@@ -539,16 +541,17 @@ usai;MD;I-795;;;;md.i795;
 usai;NC;I-795;;;;nc.i795;
 usai;CA;I-805;;;;ca.i805;
 usai;TX;I-820;;;;tx.i820;
-usai;TN;I-840;;;;tn.i840;TN840,TN840WNa
-usai;NC;I-840;;;;nc.i840;I-840FutWGr
+usai;TN;I-840;;;;tn.i840;TN840
+usai;NC;I-840;;;;nc.i840;I-840FutWGr,I-840FutEGr
 usai;IN;I-865;;;;in.i865;
 usai;NY;I-878;;;;ny.i878;
 usai;CA;I-880;;;;ca.i880;
 usai;IA;I-880;;;;ia.i880;
+usai;NC;I-885;;;;nc.i885;
 usai;NY;I-890;;;;ny.i890;
 usai;WI;I-894;;;;wi.i894;
 usai;MD;I-895;;;Lansdowne, MD;md.i895;
-usai;MD;I-895;Spr;Fer;Ferndale, MD;md.i895sprfer;I-895_SPUR_A,I-895Fer
+usai;MD;I-895;Spr;Fer;Ferndale, MD;md.i895sprfer;I-895_SPUR_A
 usai;MD;I-895;Spr;Fur;Furnace Branch, MD;md.i895sprfur;I-895_SPUR_B
 usai;LA;I-910;;;;la.i910;
 usai;CA;I-980;;;;ca.i980;

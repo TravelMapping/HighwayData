@@ -7,5 +7,4 @@
 
 
 **NOTES TO ROUTES:**
-- Ring Almere seems to be unsigned (GSV, OSM, GM)
-- Ring Hoofddorp seems to be unsigned (GSV, OSM, GM)
+- Ring Eindhoven is not listed but signed, drafted

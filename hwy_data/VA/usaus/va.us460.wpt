@@ -4,7 +4,7 @@ US219 http://www.openstreetmap.org/?lat=37.383474&lon=-80.824882
 VA61 http://www.openstreetmap.org/?lat=37.334755&lon=-80.805355
 +x02 http://www.openstreetmap.org/?lat=37.350168&lon=-80.765047
 SR640 http://www.openstreetmap.org/?lat=37.335199&lon=-80.751271
-US460BusPea_W +MainSt +NMainSt http://www.openstreetmap.org/?lat=37.335941&lon=-80.738525
+US460BusPea_W http://www.openstreetmap.org/?lat=37.335941&lon=-80.738525
 US460BusPea_E http://www.openstreetmap.org/?lat=37.332409&lon=-80.693432
 +x03 http://www.openstreetmap.org/?lat=37.318230&lon=-80.653253
 SR613/617 http://www.openstreetmap.org/?lat=37.321540&lon=-80.598536
@@ -75,9 +75,9 @@ SR613 http://www.openstreetmap.org/?lat=37.359328&lon=-78.869648
 US460BusApp_W http://www.openstreetmap.org/?lat=37.364828&lon=-78.836775
 VA24_E http://www.openstreetmap.org/?lat=37.369475&lon=-78.826872
 US460BusApp_E http://www.openstreetmap.org/?lat=37.348045&lon=-78.808043
-SR620Flo http://www.openstreetmap.org/?lat=37.292457&lon=-78.733950
-US460BusPap_W http://www.openstreetmap.org/?lat=37.275846&lon=-78.687043
-US460BusPap_E http://www.openstreetmap.org/?lat=37.266420&lon=-78.651896
+SR620_Flo http://www.openstreetmap.org/?lat=37.292457&lon=-78.733950
+US460BusPam_W +US460BusPap_W http://www.openstreetmap.org/?lat=37.275846&lon=-78.687043
+US460BusPam_E +US460BusPap_E http://www.openstreetmap.org/?lat=37.266420&lon=-78.651896
 SR626 http://www.openstreetmap.org/?lat=37.304594&lon=-78.559520
 US15_N http://www.openstreetmap.org/?lat=37.312752&lon=-78.460912
 US15_S http://www.openstreetmap.org/?lat=37.269306&lon=-78.405325
@@ -88,9 +88,9 @@ VA307 http://www.openstreetmap.org/?lat=37.272747&lon=-78.285881
 CR756 http://www.openstreetmap.org/?lat=37.240502&lon=-78.245530
 +x70 http://www.openstreetmap.org/?lat=37.200586&lon=-78.227055
 US360_W http://www.openstreetmap.org/?lat=37.191245&lon=-78.213547
-US360/460Bus +US360/460Bus_E http://www.openstreetmap.org/?lat=37.190382&lon=-78.193345
+US360/460Bus http://www.openstreetmap.org/?lat=37.190382&lon=-78.193345
 US360_E http://www.openstreetmap.org/?lat=37.189972&lon=-78.185416
-VA323 http://www.openstreetmap.org/?lat=37.189767&lon=-78.179355
+VA323 http://www.openstreetmap.org/?lat=37.189809&lon=-78.173819
 VA49_N http://www.openstreetmap.org/?lat=37.189442&lon=-78.146836
 VA49_S http://www.openstreetmap.org/?lat=37.172500&lon=-78.122535
 US460BusBla_W http://www.openstreetmap.org/?lat=37.135020&lon=-78.080070
@@ -127,7 +127,7 @@ SR642 http://www.openstreetmap.org/?lat=36.765043&lon=-76.553142
 US13/58Bus_E http://www.openstreetmap.org/?lat=36.752493&lon=-76.523563
 I-664(13) http://www.openstreetmap.org/?lat=36.786879&lon=-76.423302
 US58/460Alt_E http://www.openstreetmap.org/?lat=36.787412&lon=-76.413614
-MilHwy +WMilHwy http://www.openstreetmap.org/?lat=36.785401&lon=-76.414558
+MilHwy http://www.openstreetmap.org/?lat=36.785401&lon=-76.414558
 I-664(14) http://www.openstreetmap.org/?lat=36.784507&lon=-76.406618
 I-64(297) http://www.openstreetmap.org/?lat=36.771824&lon=-76.364765
 US17 http://www.openstreetmap.org/?lat=36.772399&lon=-76.342696
@@ -136,7 +136,7 @@ US13_N http://www.openstreetmap.org/?lat=36.776619&lon=-76.285597
 FreAve http://www.openstreetmap.org/?lat=36.786527&lon=-76.281660
 +x100 http://www.openstreetmap.org/?lat=36.801124&lon=-76.276209
 VA337 http://www.openstreetmap.org/?lat=36.815787&lon=-76.278806
-VA246 http://www.openstreetmap.org/?lat=36.819935&lon=-76.271950
+LibSt +VA246 http://www.openstreetmap.org/?lat=36.819935&lon=-76.271950
 VA168_S http://www.openstreetmap.org/?lat=36.833899&lon=-76.262434
 I-264 +I-264(11) http://www.openstreetmap.org/?lat=36.844735&lon=-76.267648
 VA166_N http://www.openstreetmap.org/?lat=36.846599&lon=-76.270545

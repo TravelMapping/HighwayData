@@ -1,8 +1,10 @@
 IN/OH http://www.openstreetmap.org/?lat=41.438737&lon=-84.803982
 OH49_S http://www.openstreetmap.org/?lat=41.447994&lon=-84.748074
 OH49_N http://www.openstreetmap.org/?lat=41.448718&lon=-84.748127
+AshSt_N http://www.openstreetmap.org/?lat=41.448766&lon=-84.743106
+AshSt_S http://www.openstreetmap.org/?lat=41.448082&lon=-84.743063
 OH576 http://www.openstreetmap.org/?lat=41.441407&lon=-84.612300
-OH2Bry_W http://www.openstreetmap.org/?lat=41.441407&lon=-84.597462
+OH2_W +OH2Bry_W http://www.openstreetmap.org/?lat=41.441407&lon=-84.597462
 US127 http://www.openstreetmap.org/?lat=41.441713&lon=-84.550706
 OH191 http://www.openstreetmap.org/?lat=41.441898&lon=-84.406543
 OH66_S http://www.openstreetmap.org/?lat=41.442043&lon=-84.361106
@@ -15,22 +17,23 @@ OH34 http://www.openstreetmap.org/?lat=41.441898&lon=-84.271789
 43(24) +US24_E http://www.openstreetmap.org/?lat=41.415907&lon=-84.065012
 44A http://www.openstreetmap.org/?lat=41.412270&lon=-84.060935
 44B http://www.openstreetmap.org/?lat=41.407193&lon=-84.057180
-US6Bus http://www.openstreetmap.org/?lat=41.371308&lon=-84.048275
+US6Bus_E http://www.openstreetmap.org/?lat=41.371308&lon=-84.048275
 OH109 http://www.openstreetmap.org/?lat=41.370778&lon=-84.038318
 OH65 http://www.openstreetmap.org/?lat=41.371406&lon=-83.941469
 OH235 http://www.openstreetmap.org/?lat=41.372163&lon=-83.786395
-BowGrnRd_E http://www.openstreetmap.org/?lat=41.371334&lon=-83.713256
+BowGreRd_W http://www.openstreetmap.org/?lat=41.371334&lon=-83.713256
 +x10 http://www.openstreetmap.org/?lat=41.351305&lon=-83.685157
 65 +OH25 http://www.openstreetmap.org/?lat=41.348963&lon=-83.650256
 66 +I-75 http://www.openstreetmap.org/?lat=41.351138&lon=-83.622565
 +x20 http://www.openstreetmap.org/?lat=41.352859&lon=-83.586924
-BowGrnRd_W http://www.openstreetmap.org/?lat=41.361607&lon=-83.566142
+BowGreRd_E http://www.openstreetmap.org/?lat=41.361607&lon=-83.566142
 OH199_N http://www.openstreetmap.org/?lat=41.362171&lon=-83.513249
 OH199_S http://www.openstreetmap.org/?lat=41.355052&lon=-83.498186
 +x30 http://www.openstreetmap.org/?lat=41.355412&lon=-83.472801
 OH281 http://www.openstreetmap.org/?lat=41.341279&lon=-83.436559
 US23 http://www.openstreetmap.org/?lat=41.341336&lon=-83.417312
-OH300 http://www.openstreetmap.org/?lat=41.341062&lon=-83.320709
+OH300 http://www.openstreetmap.org/?lat=41.341082&lon=-83.320806
+ChuSt http://www.openstreetmap.org/?lat=41.341287&lon=-83.291774
 OH635 http://www.openstreetmap.org/?lat=41.341295&lon=-83.272676
 OH590 http://www.openstreetmap.org/?lat=41.341497&lon=-83.224493
 OH53_S http://www.openstreetmap.org/?lat=41.341972&lon=-83.167695
@@ -38,15 +41,15 @@ OH53_S http://www.openstreetmap.org/?lat=41.341972&lon=-83.167695
 100(20) http://www.openstreetmap.org/?lat=41.368137&lon=-83.134639
 101(20) +OH53_N http://www.openstreetmap.org/?lat=41.367960&lon=-83.117130
 102(20) +US20Fre_E http://www.openstreetmap.org/?lat=41.362887&lon=-83.085823
-ShiRd http://www.openstreetmap.org/?lat=41.393562&lon=-83.030999
+TR222 http://www.openstreetmap.org/?lat=41.393524&lon=-83.031058
 OH510 http://www.openstreetmap.org/?lat=41.408504&lon=-82.973063
-DufRd http://www.openstreetmap.org/?lat=41.408909&lon=-82.915884
+TR280 http://www.openstreetmap.org/?lat=41.408909&lon=-82.915884
 OH269_S http://www.openstreetmap.org/?lat=41.437507&lon=-82.823782
 OH269_N http://www.openstreetmap.org/?lat=41.441777&lon=-82.812989
-OH2San http://www.openstreetmap.org/?lat=41.441432&lon=-82.779214
-VenRd http://www.openstreetmap.org/?lat=41.445837&lon=-82.770363
+OH2(131) +OH2San http://www.openstreetmap.org/?lat=41.441432&lon=-82.779214
+VenRd_W +VenRd http://www.openstreetmap.org/?lat=41.445837&lon=-82.770363
 OH101_W http://www.openstreetmap.org/?lat=41.439858&lon=-82.745795
-AndAve +OH101 http://www.openstreetmap.org/?lat=41.439751&lon=-82.734593
+SanSt +OH101 +AndAve http://www.openstreetmap.org/?lat=41.439751&lon=-82.734593
 CampSt http://www.openstreetmap.org/?lat=41.451675&lon=-82.720833
 OH4 http://www.openstreetmap.org/?lat=41.454966&lon=-82.710947
 WaySt_N http://www.openstreetmap.org/?lat=41.455462&lon=-82.709295
@@ -54,42 +57,49 @@ WaySt_S http://www.openstreetmap.org/?lat=41.455097&lon=-82.709064
 WarSt_N http://www.openstreetmap.org/?lat=41.452383&lon=-82.701897
 WarSt_S http://www.openstreetmap.org/?lat=41.447518&lon=-82.698973
 US250 http://www.openstreetmap.org/?lat=41.446924&lon=-82.697589
-CedPoiCau http://www.openstreetmap.org/?lat=41.441745&lon=-82.680724
-PerRd http://www.openstreetmap.org/?lat=41.420382&lon=-82.633415
-CleRd http://www.openstreetmap.org/?lat=41.407684&lon=-82.591352
-OH2San_W http://www.openstreetmap.org/?lat=41.404513&lon=-82.591213
-OH2San_E http://www.openstreetmap.org/?lat=41.398671&lon=-82.575699
+ButSt http://www.openstreetmap.org/?lat=41.443048&lon=-82.688706
+CedPoiDr +CedPoiCau http://www.openstreetmap.org/?lat=41.441745&lon=-82.680724
+PerAve +PerRd http://www.openstreetmap.org/?lat=41.420382&lon=-82.633415
+CleRd_E +CleRd http://www.openstreetmap.org/?lat=41.407684&lon=-82.591352
+142(2) +OH2San_W http://www.openstreetmap.org/?lat=41.404513&lon=-82.591213
+143(2) +OH2San_E http://www.openstreetmap.org/?lat=41.398671&lon=-82.575699
 OH13 http://www.openstreetmap.org/?lat=41.391322&lon=-82.557986
 BerRd http://www.openstreetmap.org/?lat=41.389006&lon=-82.542413
 OH61 http://www.openstreetmap.org/?lat=41.378209&lon=-82.492057
 JopRd http://www.openstreetmap.org/?lat=41.389155&lon=-82.445521
 OH60 http://www.openstreetmap.org/?lat=41.422022&lon=-82.364620
+VerRd http://www.openstreetmap.org/?lat=41.423615&lon=-82.353913
 BauRd http://www.openstreetmap.org/?lat=41.428331&lon=-82.280248
 OakPoiRd http://www.openstreetmap.org/?lat=41.435598&lon=-82.248888
 OH611 http://www.openstreetmap.org/?lat=41.446748&lon=-82.223461
 OH58 http://www.openstreetmap.org/?lat=41.458721&lon=-82.202346
 OH57 http://www.openstreetmap.org/?lat=41.468256&lon=-82.178142
+ColAve http://www.openstreetmap.org/?lat=41.471769&lon=-82.170707
 OH301 http://www.openstreetmap.org/?lat=41.498108&lon=-82.075381
 OH83 http://www.openstreetmap.org/?lat=41.513044&lon=-82.018540
 LearRd http://www.openstreetmap.org/?lat=41.510700&lon=-81.988134
 BasRd http://www.openstreetmap.org/?lat=41.493306&lon=-81.949655
 OH252 http://www.openstreetmap.org/?lat=41.485474&lon=-81.901295
 ClaRd http://www.openstreetmap.org/?lat=41.482470&lon=-81.881871
-OH2Cle_W http://www.openstreetmap.org/?lat=41.483875&lon=-81.836944
-US20/237 http://www.openstreetmap.org/?lat=41.491076&lon=-81.822438
-BunRd +BurRd http://www.openstreetmap.org/?lat=41.491283&lon=-81.789688
+US6Alt_W +OH2Cle_W http://www.openstreetmap.org/?lat=41.483875&lon=-81.836944
+US20/237 http://www.openstreetmap.org/?lat=41.491048&lon=-81.822562
+BunRd http://www.openstreetmap.org/?lat=41.491283&lon=-81.789688
 117thSt +W117thSt http://www.openstreetmap.org/?lat=41.487500&lon=-81.768773
 LakeAve http://www.openstreetmap.org/?lat=41.484847&lon=-81.746424
-192(2) +CleMemSho http://www.openstreetmap.org/?lat=41.490007&lon=-81.732734
-193A(2) http://www.openstreetmap.org/?lat=41.488400&lon=-81.718304
-193B(2) +OH2Cle_E http://www.openstreetmap.org/?lat=41.490377&lon=-81.712028
+EdgPark +192(2) http://www.openstreetmap.org/?lat=41.490007&lon=-81.732734
+193(2) http://www.openstreetmap.org/?lat=41.488400&lon=-81.718304
+194A(2) +193B(2) +OH2Cle_E http://www.openstreetmap.org/?lat=41.491912&lon=-81.709131
+25thSt_N http://www.openstreetmap.org/?lat=41.491928&lon=-81.707854
 US42 http://www.openstreetmap.org/?lat=41.491381&lon=-81.707361
 PubSqu http://www.openstreetmap.org/?lat=41.499667&lon=-81.693617
 US322_E http://www.openstreetmap.org/?lat=41.504198&lon=-81.684884
 I-90 http://www.openstreetmap.org/?lat=41.509960&lon=-81.672063
 OH283 http://www.openstreetmap.org/?lat=41.517903&lon=-81.651903
-US20Euc_W http://www.openstreetmap.org/?lat=41.523150&lon=-81.589376
-US20Euc_E http://www.openstreetmap.org/?lat=41.568566&lon=-81.535538
+105thSt http://www.openstreetmap.org/?lat=41.521656&lon=-81.615500
+US20_W +US20Euc_W http://www.openstreetmap.org/?lat=41.523150&lon=-81.589376
+EddyRd http://www.openstreetmap.org/?lat=41.525479&lon=-81.587090
+NobRd http://www.openstreetmap.org/?lat=41.543630&lon=-81.568208
+US20_E +US20Euc_E http://www.openstreetmap.org/?lat=41.568566&lon=-81.535538
 OH175 http://www.openstreetmap.org/?lat=41.575621&lon=-81.496131
 OH84 http://www.openstreetmap.org/?lat=41.583599&lon=-81.479899
 OH91 http://www.openstreetmap.org/?lat=41.587659&lon=-81.439537
@@ -110,6 +120,6 @@ OH45 http://www.openstreetmap.org/?lat=41.605375&lon=-80.864986
 OH46 http://www.openstreetmap.org/?lat=41.605335&lon=-80.780282
 OH11 http://www.openstreetmap.org/?lat=41.606875&lon=-80.713441
 OH193 http://www.openstreetmap.org/?lat=41.606915&lon=-80.666567
-OH7_S http://www.openstreetmap.org/?lat=41.607156&lon=-80.571231
+OH7/85  +OH7_S http://www.openstreetmap.org/?lat=41.607156&lon=-80.571231
 OH7_N http://www.openstreetmap.org/?lat=41.714451&lon=-80.570619
 OH/PA http://www.openstreetmap.org/?lat=41.714739&lon=-80.519378

@@ -66,11 +66,11 @@ I-25(128) http://www.openstreetmap.org/?lat=38.672913&lon=-104.709020
 OhioAve http://www.openstreetmap.org/?lat=38.683123&lon=-104.704610
 ComVilDr http://www.openstreetmap.org/?lat=38.696539&lon=-104.705533
 CO16 http://www.openstreetmap.org/?lat=38.722852&lon=-104.718547
-CO83 http://www.openstreetmap.org/?lat=38.768080&lon=-104.760936
+AcaBlvd http://www.openstreetmap.org/?lat=38.768080&lon=-104.760936
 LasVegSt http://www.openstreetmap.org/?lat=38.776904&lon=-104.770646
 BSt http://www.openstreetmap.org/?lat=38.777272&lon=-104.784164
 LakeAve_E http://www.openstreetmap.org/?lat=38.795704&lon=-104.803605
-CO115 http://www.openstreetmap.org/?lat=38.797276&lon=-104.822263
+CO115(46) +CO115 http://www.openstreetmap.org/?lat=38.797276&lon=-104.822263
 I-25(140) http://www.openstreetmap.org/?lat=38.815034&lon=-104.823475
 I-25(141) http://www.openstreetmap.org/?lat=38.828108&lon=-104.835019
 I-25(142) http://www.openstreetmap.org/?lat=38.836900&lon=-104.830341
@@ -79,11 +79,12 @@ I-25(144) http://www.openstreetmap.org/?lat=38.860763&lon=-104.834204
 I-25(145) http://www.openstreetmap.org/?lat=38.876367&lon=-104.834933
 I-25(146) http://www.openstreetmap.org/?lat=38.896778&lon=-104.830256
 I-25(147) http://www.openstreetmap.org/?lat=38.912374&lon=-104.820986
-I-25(148) +I-25(148A) +I-25(148B) http://www.openstreetmap.org/?lat=38.915546&lon=-104.817123
+I-25(148) +I-25(148A) http://www.openstreetmap.org/?lat=38.915546&lon=-104.817123
 I-25(149) http://www.openstreetmap.org/?lat=38.932908&lon=-104.812832
 I-25(150) http://www.openstreetmap.org/?lat=38.952367&lon=-104.806995
 I-25(151) http://www.openstreetmap.org/?lat=38.969486&lon=-104.804935
 I-25(153) http://www.openstreetmap.org/?lat=38.990770&lon=-104.814806
+I-25(155) http://www.openstreetmap.org/?lat=39.019084&lon=-104.829912
 I-25(156) http://www.openstreetmap.org/?lat=39.025919&lon=-104.834204
 I-25(158) http://www.openstreetmap.org/?lat=39.056651&lon=-104.851542
 I-25(161) http://www.openstreetmap.org/?lat=39.092299&lon=-104.862700
@@ -96,16 +97,24 @@ I-25(174) http://www.openstreetmap.org/?lat=39.267746&lon=-104.896131
 I-25(181) http://www.openstreetmap.org/?lat=39.366421&lon=-104.865489
 I-25(182) http://www.openstreetmap.org/?lat=39.380122&lon=-104.860640
 I-25(184) http://www.openstreetmap.org/?lat=39.412656&lon=-104.868064
-MedPkwy http://www.openstreetmap.org/?lat=39.408843&lon=-104.874909
-DanParkRd http://www.openstreetmap.org/?lat=39.429696&lon=-104.914756
+MedPkwy_W +MedPkwy http://www.openstreetmap.org/?lat=39.408808&lon=-104.874837
+CasRockPkwy http://www.openstreetmap.org/?lat=39.420468&lon=-104.888518
+CR33 http://www.openstreetmap.org/?lat=39.426419&lon=-104.903694
+CR29 +DanParkRd http://www.openstreetmap.org/?lat=39.429734&lon=-104.914831
 CO67 http://www.openstreetmap.org/?lat=39.439350&lon=-104.961641
++X04 http://www.openstreetmap.org/?lat=39.442499&lon=-104.971436
+AirRd http://www.openstreetmap.org/?lat=39.471107&lon=-104.988559
+KelAve http://www.openstreetmap.org/?lat=39.481833&lon=-104.993905
 TitRd http://www.openstreetmap.org/?lat=39.509984&lon=-105.017356
 HigRanPkwy http://www.openstreetmap.org/?lat=39.538205&lon=-105.036378
+TownCenDr http://www.openstreetmap.org/?lat=39.547715&lon=-105.036469
 CO470 http://www.openstreetmap.org/?lat=39.564495&lon=-105.033342
-CO75 http://www.openstreetmap.org/?lat=39.613235&lon=-105.020928
+MinAve http://www.openstreetmap.org/?lat=39.579277&lon=-105.025982
+BowAve +CO75 http://www.openstreetmap.org/?lat=39.613235&lon=-105.020928
 CO88 http://www.openstreetmap.org/?lat=39.624193&lon=-105.013343
 US285 http://www.openstreetmap.org/?lat=39.653284&lon=-105.002228
 EvaAve http://www.openstreetmap.org/?lat=39.678424&lon=-104.993559
+MisAve http://www.openstreetmap.org/?lat=39.696654&lon=-104.992476
 I-25(207B) http://www.openstreetmap.org/?lat=39.705503&lon=-104.995887
 I-25(208) http://www.openstreetmap.org/?lat=39.711181&lon=-104.999127
 I-25(209A) http://www.openstreetmap.org/?lat=39.725574&lon=-105.013268
@@ -118,12 +127,12 @@ I-25(212C) http://www.openstreetmap.org/?lat=39.761014&lon=-105.004642
 I-25(213) http://www.openstreetmap.org/?lat=39.768140&lon=-104.994922
 I-25/I-70 +I-25(214A) http://www.openstreetmap.org/?lat=39.780113&lon=-104.989429
 I-70(275A) http://www.openstreetmap.org/?lat=39.779585&lon=-104.979172
-I-70(275B) http://www.openstreetmap.org/?lat=39.779981&lon=-104.967113
-I-70(275C) http://www.openstreetmap.org/?lat=39.780047&lon=-104.959431
-I-70(276A) http://www.openstreetmap.org/?lat=39.779981&lon=-104.949775
-CO2_S http://www.openstreetmap.org/?lat=39.794045&lon=-104.938703
+I-70(275B) http://www.openstreetmap.org/?lat=39.780073&lon=-104.967035
++I-70(X408) http://www.openstreetmap.org/?lat=39.780364&lon=-104.959297
+I-70(276A) +276A(I-70) http://www.openstreetmap.org/?lat=39.780331&lon=-104.949651
+CO2 +CO2_S http://www.openstreetmap.org/?lat=39.794045&lon=-104.938703
 I-270(2) http://www.openstreetmap.org/?lat=39.799997&lon=-104.933295
-CO2_N http://www.openstreetmap.org/?lat=39.812162&lon=-104.931664
+OldHwy2 +CO2_N http://www.openstreetmap.org/?lat=39.812162&lon=-104.931664
 64thAve http://www.openstreetmap.org/?lat=39.814330&lon=-104.931675
 CO265 http://www.openstreetmap.org/?lat=39.821837&lon=-104.930999
 CO224 http://www.openstreetmap.org/?lat=39.830835&lon=-104.925957
@@ -132,31 +141,39 @@ I-76(10) http://www.openstreetmap.org/?lat=39.857672&lon=-104.912782
 I-76(11) http://www.openstreetmap.org/?lat=39.870717&lon=-104.901538
 I-76(12) http://www.openstreetmap.org/?lat=39.880433&lon=-104.887676
 CO44 http://www.openstreetmap.org/?lat=39.885290&lon=-104.882011
+120thAve http://www.openstreetmap.org/?lat=39.914328&lon=-104.857180
 CO22 http://www.openstreetmap.org/?lat=39.921611&lon=-104.853065
-E470 http://www.openstreetmap.org/?lat=39.927674&lon=-104.849610
+E470 http://www.openstreetmap.org/?lat=39.927633&lon=-104.849535
+144thAve http://www.openstreetmap.org/?lat=39.957813&lon=-104.832326
+BroLn http://www.openstreetmap.org/?lat=39.972253&lon=-104.827273
 CO7 http://www.openstreetmap.org/?lat=39.986854&lon=-104.823893
+CR2 http://www.openstreetmap.org/?lat=40.000391&lon=-104.821887
 CO52 http://www.openstreetmap.org/?lat=40.080140&lon=-104.819655
 US85BusFor_N http://www.openstreetmap.org/?lat=40.094652&lon=-104.812317
-CR22 http://www.openstreetmap.org/?lat=40.145297&lon=-104.811212
+CR22 http://www.openstreetmap.org/?lat=40.145281&lon=-104.811126
 US85BusPla_S http://www.openstreetmap.org/?lat=40.188291&lon=-104.819527
 CO66 http://www.openstreetmap.org/?lat=40.206640&lon=-104.820696
 US85BusPla_N http://www.openstreetmap.org/?lat=40.225991&lon=-104.821039
++X03 http://www.openstreetmap.org/?lat=40.241455&lon=-104.819645
 CO60 http://www.openstreetmap.org/?lat=40.252256&lon=-104.810257
 CR44 http://www.openstreetmap.org/?lat=40.304657&lon=-104.751441
 CR394 http://www.openstreetmap.org/?lat=40.359871&lon=-104.696864
 US34_W http://www.openstreetmap.org/?lat=40.391151&lon=-104.687937
 US34_E http://www.openstreetmap.org/?lat=40.393529&lon=-104.680181
 US34Bus http://www.openstreetmap.org/?lat=40.410098&lon=-104.680009
-CO263 http://www.openstreetmap.org/?lat=40.424940&lon=-104.678797
-7Ave http://www.openstreetmap.org/?lat=40.449070&lon=-104.691253
-US85BusGre_N +US85BusGre http://www.openstreetmap.org/?lat=40.451062&lon=-104.693999
+8thSt http://www.openstreetmap.org/?lat=40.424940&lon=-104.678797
++X02 http://www.openstreetmap.org/?lat=40.444074&lon=-104.682967
+7thAve http://www.openstreetmap.org/?lat=40.449070&lon=-104.691253
+US85BusGre_N http://www.openstreetmap.org/?lat=40.451062&lon=-104.693999
 CO392 http://www.openstreetmap.org/?lat=40.480912&lon=-104.699986
 ColSt http://www.openstreetmap.org/?lat=40.524606&lon=-104.711391
 CO14 http://www.openstreetmap.org/?lat=40.582442&lon=-104.731615
-RoweAve http://www.openstreetmap.org/?lat=40.640132&lon=-104.754274
+CR90 http://www.openstreetmap.org/?lat=40.640119&lon=-104.754177
 CR100 http://www.openstreetmap.org/?lat=40.710483&lon=-104.782298
 CR104 http://www.openstreetmap.org/?lat=40.739519&lon=-104.791288
 CR114 http://www.openstreetmap.org/?lat=40.812088&lon=-104.791374
 CR126 http://www.openstreetmap.org/?lat=40.899176&lon=-104.796095
 +X01 http://www.openstreetmap.org/?lat=40.922820&lon=-104.804549
++X05 http://www.openstreetmap.org/?lat=40.937260&lon=-104.796717
++X06 http://www.openstreetmap.org/?lat=40.963020&lon=-104.794303
 CO/WY http://www.openstreetmap.org/?lat=40.999844&lon=-104.773200

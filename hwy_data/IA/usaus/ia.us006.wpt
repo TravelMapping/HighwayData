@@ -4,8 +4,8 @@ I-29(53B) +I-29 http://www.openstreetmap.org/?lat=41.262195&lon=-95.908113
 I-29(53A) http://www.openstreetmap.org/?lat=41.253581&lon=-95.906482
 I-29(52) http://www.openstreetmap.org/?lat=41.242030&lon=-95.904422
 I-80(1A) http://www.openstreetmap.org/?lat=41.232800&lon=-95.897255
-*I-29(50) +I-80(1B) http://www.openstreetmap.org/?lat=41.232413&lon=-95.879230
-*I-29(49) +I-80(3) http://www.openstreetmap.org/?lat=41.232114&lon=-95.851400
+I-29(50) http://www.openstreetmap.org/?lat=41.232413&lon=-95.879230
+I-29(49) http://www.openstreetmap.org/?lat=41.232114&lon=-95.851400
 I-80(4) http://www.openstreetmap.org/?lat=41.228895&lon=-95.838976
 I-80(5) http://www.openstreetmap.org/?lat=41.241997&lon=-95.823355
 I-80(8) http://www.openstreetmap.org/?lat=41.279967&lon=-95.784130
@@ -53,7 +53,7 @@ CRR22 http://www.openstreetmap.org/?lat=41.614993&lon=-93.891563
 WAve http://www.openstreetmap.org/?lat=41.614929&lon=-93.852940
 142ndSt http://www.openstreetmap.org/?lat=41.614993&lon=-93.814402
 128thSt http://www.openstreetmap.org/?lat=41.614961&lon=-93.791614
-I-80(125) http://www.openstreetmap.org/?lat=41.614801&lon=-93.776550
+I-80(125) http://www.openstreetmap.org/?lat=41.614862&lon=-93.776818
 100thSt http://www.openstreetmap.org/?lat=41.614801&lon=-93.755951
 86thSt http://www.openstreetmap.org/?lat=41.614865&lon=-93.736467
 72ndSt http://www.openstreetmap.org/?lat=41.614704&lon=-93.718572
@@ -100,7 +100,7 @@ IA21_S http://www.openstreetmap.org/?lat=41.746342&lon=-92.357941
 CRV30_N http://www.openstreetmap.org/?lat=41.746694&lon=-92.338243
 CRV36 http://www.openstreetmap.org/?lat=41.745701&lon=-92.299747
 IA21_N http://www.openstreetmap.org/?lat=41.742787&lon=-92.276959
-CRF29 +CRV44 http://www.openstreetmap.org/?lat=41.742243&lon=-92.240138
+CRF29 http://www.openstreetmap.org/?lat=41.742243&lon=-92.240138
 CRV52 http://www.openstreetmap.org/?lat=41.755306&lon=-92.181602
 IA212 http://www.openstreetmap.org/?lat=41.789585&lon=-92.074528
 CRV66 http://www.openstreetmap.org/?lat=41.789489&lon=-92.064829
@@ -148,11 +148,12 @@ HicGroRd http://www.openstreetmap.org/?lat=41.563589&lon=-90.634396
 PineSt http://www.openstreetmap.org/?lat=41.560169&lon=-90.610342
 DivSt http://www.openstreetmap.org/?lat=41.560041&lon=-90.600729
 NWBlvd http://www.openstreetmap.org/?lat=41.560202&lon=-90.578413
-US61 http://www.openstreetmap.org/?lat=41.560298&lon=-90.569658
-JerRidRd http://www.openstreetmap.org/?lat=41.556894&lon=-90.541849
-KimRd http://www.openstreetmap.org/?lat=41.554999&lon=-90.527387
-I-74(2) http://www.openstreetmap.org/?lat=41.55479&lon=-90.52193
-+X19 http://www.openstreetmap.org/?lat=41.54911&lon=-90.52126
-I-74(3) http://www.openstreetmap.org/?lat=41.54098&lon=-90.51782
-I-74(4) http://www.openstreetmap.org/?lat=41.52606&lon=-90.5135
-IA/IL http://www.openstreetmap.org/?lat=41.519566&lon=-90.512970
+US61Bus +US61 http://www.openstreetmap.org/?lat=41.560298&lon=-90.569658
+JerRidRd http://www.openstreetmap.org/?lat=41.556904&lon=-90.541672
+KimRd_E +KimRd http://www.openstreetmap.org/?lat=41.554999&lon=-90.527387
+I-74(2) http://www.openstreetmap.org/?lat=41.554790&lon=-90.521930
++X19 http://www.openstreetmap.org/?lat=41.549110&lon=-90.521260
+I-74(3) http://www.openstreetmap.org/?lat=41.540980&lon=-90.517820
+*OldI-74 http://www.openstreetmap.org/?lat=41.530709&lon=-90.514971
+I-74(4) http://www.openstreetmap.org/?lat=41.526330&lon=-90.512947
+IA/IL http://www.openstreetmap.org/?lat=41.519464&lon=-90.511548

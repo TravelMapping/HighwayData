@@ -10,6 +10,4 @@
 
 
 **NOTES TO ROUTES:**
-- `L602` Huttenheim - Rußheim u/c (to be opened late 2019)
-- `L1106` Nordhausen bypass u/c
-- `L1129` Pleidelsheim is wrong on OSM. The bypass is still NOT yet dedicated `L1129` (https://www.openstreetmap.org/changeset/52770646)
+-

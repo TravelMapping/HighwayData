@@ -1,4 +1,4 @@
-systemName;route;banner;groupName;roots
+system;route;banner;name;roots
 deubwl;L67;;;deubw.l0067
 deubwl;L75;;;deubw.l0075
 deubwl;L76;;;deubw.l0076
@@ -23,7 +23,8 @@ deubwl;L87;;;deubw.l0087
 deubwl;L87a;;;deubw.l0087a
 deubwl;L88;;;deubw.l0088
 deubwl;L89;;;deubw.l0089
-deubwl;L90;;;deubw.l0090
+deubwl;L90;;(Main);deubw.l0090
+deubwl;L90;;Kork;deubw.l0090kor
 deubwl;L91;;;deubw.l0091
 deubwl;L92;;;deubw.l0092
 deubwl;L93;;;deubw.l0093
@@ -72,6 +73,7 @@ deubwl;L139;;;deubw.l0139
 deubwl;L140;;;deubw.l0140
 deubwl;L141;;;deubw.l0141
 deubwl;L142;;;deubw.l0142
+deubwl;L143;;;deubw.l0143
 deubwl;L146;;;deubw.l0146
 deubwl;L148;;;deubw.l0148
 deubwl;L149;;;deubw.l0149
@@ -126,8 +128,7 @@ deubwl;L195;;;deubw.l0195
 deubwl;L195c;;;deubw.l0195c
 deubwl;L196;;;deubw.l0196
 deubwl;L197;;;deubw.l0197
-deubwl;L200;;(Main);deubw.l0200
-deubwl;L200;;Überlingen;deubw.l0200ube
+deubwl;L200;;;deubw.l0200
 deubwl;L200a;;;deubw.l0200a
 deubwl;L201;;;deubw.l0201
 deubwl;L201b;;;deubw.l0201b
@@ -142,8 +143,7 @@ deubwl;L212;;;deubw.l0212
 deubwl;L214;;;deubw.l0214
 deubwl;L218;;;deubw.l0218
 deubwl;L219;;;deubw.l0219
-deubwl;L220;;(Main);deubw.l0220
-deubwl;L220;;Reichenau Waldsiedlung;deubw.l0220rei
+deubwl;L220;;;deubw.l0220
 deubwl;L221;;;deubw.l0221
 deubwl;L221n;;;deubw.l0221n
 deubwl;L222;;;deubw.l0222
@@ -170,7 +170,8 @@ deubwl;L255;;;deubw.l0255
 deubwl;L257;;;deubw.l0257
 deubwl;L259;;Laupheim;deubw.l0259
 deubwl;L259;;Schwendi;deubw.l0259sch
-deubwl;L260;;;deubw.l0260
+deubwl;L260;;Illerkirchberg;deubw.l0260ill
+deubwl;L260;;Tannheim;deubw.l0260
 deubwl;L261;;;deubw.l0261
 deubwl;L263;;;deubw.l0263
 deubwl;L264;;;deubw.l0264
@@ -178,8 +179,7 @@ deubwl;L265;;Ochsenhausen;deubw.l0265
 deubwl;L265;;Kißlegg;deubw.l0265kis
 deubwl;L266;;;deubw.l0266
 deubwl;L267;;;deubw.l0267
-deubwl;L268;;Blochingen;deubw.l0268blo
-deubwl;L268;;Pfullendorf;deubw.l0268
+deubwl;L268;;;deubw.l0268
 deubwl;L270;;;deubw.l0270
 deubwl;L271;;;deubw.l0271
 deubwl;L273;;;deubw.l0273
@@ -295,7 +295,6 @@ deubwl;L412;;;deubw.l0412
 deubwl;L413;;;deubw.l0413
 deubwl;L415;;Oberndorf;deubw.l0415
 deubwl;L415;;Veringenstadt;deubw.l0415ver
-deubwl;L415b;;;deubw.l0415b
 deubwl;L419;;;deubw.l0419
 deubwl;L422;;;deubw.l0422
 deubwl;L423;;;deubw.l0423
@@ -314,13 +313,13 @@ deubwl;L442;;Balingen;deubw.l0442bal
 deubwl;L442;;Albstadt;deubw.l0442
 deubwl;L443;;;deubw.l0443
 deubwl;L446;;;deubw.l0446
-deubwl;L448;;(Main);deubw.l0448
-deubwl;L448;;Albstadt;deubw.l0448alb
+deubwl;L448;;;deubw.l0448
 deubwl;L449;;;deubw.l0449
 deubwl;L453;;;deubw.l0453
 deubwl;L455;;;deubw.l0455
 deubwl;L456;;;deubw.l0456
 deubwl;L460;;;deubw.l0460
+deubwl;L495;;;deubw.l0495
 deubwl;L504;;;deubw.l0504
 deubwl;L506;;;deubw.l0506
 deubwl;L507;;;deubw.l0507
@@ -410,8 +409,7 @@ deubwl;L598;;;deubw.l0598
 deubwl;L599;;;deubw.l0599
 deubwl;L600;;;deubw.l0600
 deubwl;L600a;;;deubw.l0600a
-deubwl;L602;;Philippsburg;deubw.l0602phi
-deubwl;L602;;Linkenheim-Hochstetten;deubw.l0602
+deubwl;L602;;;deubw.l0602
 deubwl;L604;;;deubw.l0604
 deubwl;L605;;;deubw.l0605
 deubwl;L607;;;deubw.l0607
@@ -575,8 +573,7 @@ deubwl;L1177;;;deubw.l1177
 deubwl;L1179;;;deubw.l1179
 deubwl;L1180;;Perouse;deubw.l1180per
 deubwl;L1180;;Leonberg;deubw.l1180
-deubwl;L1181;;Nattheim;deubw.l1181nat
-deubwl;L1181;;Feinheim;deubw.l1181
+deubwl;L1181;;;deubw.l1181nat,deuby.l1181,deubw.l1181
 deubwl;L1182;;;deubw.l1182
 deubwl;L1183;;;deubw.l1183
 deubwl;L1184;;;deubw.l1184

@@ -4,7 +4,7 @@
 
 **SOURCES:**
 - https://de.wikipedia.org/wiki/Liste_der_Landesstra%C3%9Fen_in_Sachsen-Anhalt
-- http://www.lvermgeo.sachsen-anhalt.de/de/geoservice/viewer/main2.htm
+- https://www.lvermgeo.sachsen-anhalt.de/de/startseite_viewer.html
 
 
 **NOTES TO ROUTES:**
