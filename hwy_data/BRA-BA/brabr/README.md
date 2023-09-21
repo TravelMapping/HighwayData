@@ -1,6 +1,24 @@
+Sources:
+* [2023 state maps](https://www.gov.br/dnit/pt-br/rodovias/mapa-de-gerenciamento/)
+* [2023 GIS data](https://geo.epl.gov.br/portal/home/item.html?id=1e51ef64981f48b08e56e9b98d92fa56) (SNV 202301B)
+
 Notes on routes:
-* BR-020 appears to be unsigned north of BA-235 (this part is unpaved but federally maintained).
+* BR-020 appears to be unsigned north of BR-235 (this part is unpaved but federally maintained).
 * BR-030 appears to be unsigned on the unpaved but federally maintained portion from Carinhanha west to the state line, but there is no street view on most of it. The mostly-unpaved section east of Sussurana also seems to be unsigned, except for [at least one construction sign](https://www.google.com/maps/@-14.3525118,-40.3320716,3a,15y,153.4h,87.63t/data=!3m6!1e1!3m4!1sECf1Gr5SoK6eGtsW6fLNrA!2e0!7i16384!8i8192?entry=ttu) on the paved connection from BR-116 to Boa Nova and [at least one state-posted sign](https://www.google.com/maps/@-14.2277792,-39.0929345,3a,15y,351.99h,84.46t/data=!3m6!1e1!3m4!1s8zahtKQEmIyxNLzEjlaQhw!2e0!7i16384!8i8192?entry=ttu) east of Ubaitaba.
-* BR-235 [is signed](https://youtu.be/lGgngPTsxPs?t=127) around Canudos.
+* BR-122 seems to be unsigned north of BR-030.
+* BR-135 [is signed](https://www.google.com/maps/@-12.3574364,-44.9785133,3a,15.6y,227.58h,88.77t/data=!3m6!1e1!3m4!1sSVPHarfVYCBPuFIcGnBebQ!2e0!7i16384!8i8192?entry=ttu) to use the in-town bypass of São Desidério, despite what GIS shows.
+* BR-135 [is signed](https://www.google.com/maps/@-13.164236,-44.6147327,3a,75y,3.55h,80.16t/data=!3m6!1e1!3m4!1sfTEyQaV7BqF-ajSUo05bHQ!2e0!7i16384!8i8192?entry=ttu) north of Correntina.
+* BR-135 was added to GIS between 2020 and 2023 from Correntina south to BA-172 (SaoFelCor), but it doesn't seem to be signed or even completely built.
+* BR-135 [is signed](https://www.google.com/maps/@-14.2761921,-44.5182613,3a,17.6y,205.25h,88.89t/data=!3m6!1e1!3m4!1sAwyvdNA30_WUSpBS5krwog!2e0!7i16384!8i8192?entry=ttu) south of Cocos.
+* BR-235's and BR-407's alignments at Juazeiro are from GIS, due to an utter lack of signage.
 * BR-324 may be almost entirely unsigned west of BR-407 to Umburanas. Except between Marotinho and Jacobina, this segment was taken over federally between 2013 and 2018, but as of 2022 it doesn't seem to be signed, and [the west end](https://www.google.com/maps/@-10.7226732,-41.306337,3a,17.7y,286.51h,113.07t/data=!3m6!1e1!3m4!1sDe6Sjxdl5ZMfCN6HcTaDfg!2e0!7i16384!8i8192?entry=ttu) is signed as BA-368. There is [at least one nonstandard sign](https://www.google.com/maps/@-11.1649918,-40.5474246,3a,32y,171.29h,86.29t/data=!3m6!1e1!3m4!1sn4YgarvYgN8WIKzXhM4_bg!2e0!7i16384!8i8192?entry=ttu) at Jacobina.
-* BR-367 is unsigned west of BR-101 (as of 2019 near the state line and 2014 elsewhere).
+* BR-324 [is signed](https://www.google.com/maps/@-9.6110394,-42.0946745,3a,17.5y,0.45h,84.44t/data=!3m6!1e1!3m4!1s7ufXvJVWpFztWKbdqZJKkA!2e0!7i16384!8i8192?entry=ttu) west of BR-235.
+* BR-330 seems to be unsigned from BR-116 east to [downtown Jequié](https://www.google.com/maps/@-13.8628174,-40.080882,3a,15.6y,132.95h,94.64t/data=!3m6!1e1!3m4!1sr4NgziF2B0Ndn5tK9LGJ4A!2e0!7i16384!8i8192?entry=ttu), with the westernmost explicit sign being [km 787](https://www.google.com/maps/@-13.867498,-40.0660417,3a,35.2y,98.83h,85.66t/data=!3m6!1e1!3m4!1sRu5F4-uKBwC1rIJqeAfpMQ!2e0!7i16384!8i8192?entry=ttu).
+* BR-330 southeast from Iramaia to BA-026 seems to be unsigned other than [construction signs](https://www.google.com/maps/@-13.2957742,-40.9522818,3a,16.1y,121.73h,87.01t/data=!3m6!1e1!3m4!1sPwiCY4kBz1aXgmNMWVUkuQ!2e0!7i16384!8i8192?entry=ttu) at each end.
+* BR-349's segments near Pintadas and Ibiaporã seem to be unsigned, but available imagery is limited.
+* BR-349's east end as signed seems to be [here](https://www.google.com/maps/@-13.2658664,-43.4115849,3a,32.6y,321.25h,83.22t/data=!3m6!1e1!3m4!1syfJNfC-njszABMdXIzLObA!2e0!7i16384!8i8192?entry=ttu).
+* BR-367: the bypass around Porto Seguro [is signed as BA-001](https://www.google.com/maps/@-16.4080969,-39.1047934,3a,27.6y,125.75h,78.82t/data=!3m6!1e1!3m4!1sY6CqXdnV5FeiBdeonFPlZQ!2e0!7i16384!8i8192?entry=ttu).
+* BR-367 west of BR-101 [is signed as BA-275](https://www.google.com/maps/@-16.0916534,-39.7192183,3a,15.2y,302.55h,85.8t/data=!3m6!1e1!3m4!1sgbTlVCDcLsmuYRtq3PGyYQ!2e0!7i16384!8i8192?entry=ttu).
+* BR-415 [is signed](https://www.google.com/maps/@-14.800375,-39.0665069,3a,26.9y,233.94h,104.11t/data=!3m6!1e1!3m4!1sJvwKaCVosAVLRaS64fDvXQ!2e0!7i16384!8i8192?entry=ttu) on what is no longer part of BR-415 (due to a planned bypass) per GIS and the state map. It [is also signed](https://www.google.com/maps/@-14.7849813,-39.2449779,3a,33.2y,251.65h,82.46t/data=!3m6!1e1!3m4!1siwQFf2xl7Sg3zmfh5E-tvQ!2e0!7i16384!8i8192?entry=ttu) as state maintained into Itabuna (this point is where a southern bypass is planned to begin), but just beyond is [km 0 for BA-963](https://www.google.com/maps/@-14.7866226,-39.2460146,3a,33.8y,166.28h,86.88t/data=!3m6!1e1!3m4!1sel-YquVNULk66ME9oCDNVQ!2e0!7i16384!8i8192?entry=ttu). The same happens [at BA-120](https://www.google.com/maps/@-14.8579184,-39.4178239,3a,39y,257.72h,84.76t/data=!3m6!1e1!3m4!1sYFM2moZSoTt3aL7YNWPDzg!2e0!7i16384!8i8192?entry=ttu), though without a state highway number, but there may be no more BR-415 signage west of there.
+* BR-430 may be completely unsigned.
+* BR-498 [is signed](https://www.google.com/maps/@-16.8876457,-39.4164507,3a,15.7y,344.44h,84.32t/data=!3m6!1e1!3m4!1sLN3oGyGoFlItV5ko576_3g!2e0!7i13312!8i6656?entry=ttu).
