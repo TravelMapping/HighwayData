@@ -13,7 +13,6 @@
 **NOTES TO ROUTES:**
 - Unsigned GSJs should be named with `RN9_U111` style. The U index could be anything, e.g. derived from the nearest km / mile post. See http://forum.travelmapping.net/index.php?topic=3620
 - RN1 is not signed (but the vast majority is in argsf as AuBALP)
-- RN3 north of RP6 is only signed on mileposts
 - RN8 has many interchanges w/o any sign, OSM names used
 - RNA011 is only signed at RN11 (GSV) but clearly described on OSM and wikipedia
 
