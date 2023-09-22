@@ -15,6 +15,7 @@
 - RN1 is not signed (but the vast majority is in argsf as AuBALP)
 - RN8 has many interchanges w/o any sign, OSM names used
 - RNA011 is only signed at RN11 (GSV) but clearly described on OSM and wikipedia
+- RNA026 [is signed](https://www.google.com/maps/@-40.7133845,-65.0031998,3a,15y,111.97h,84.98t/data=!3m6!1e1!3m4!1s0MpU3xQP1cjCCQyL1beEtA!2e0!7i13312!8i6656?entry=ttu).
 
 - !! RNA001 et cetera must still being checked if signed !!
 - ?? RNV146 to be added ?? (is signed)
