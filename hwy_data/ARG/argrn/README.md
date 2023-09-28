@@ -12,7 +12,7 @@
 
 **NOTES TO ROUTES:**
 - Unsigned GSJs should be named with `RN9_U111` style. The U index could be anything, e.g. derived from the nearest km / mile post. See http://forum.travelmapping.net/index.php?topic=3620
-- RN 1 is not signed (but the vast majority is in argsf as AuBALP)
+- RN 1 is not signed (but the vast majority is in argsf as AutBALP)
 - RN 3 (and RN 40) has been realigned to bypass Rio Gallegos. It is unknown if RN 2V03 is signed on the old route.
 - RN 7 does not use the southern bypass of San Luis according to official sources. Neither route seems to be explicitly signed.
 - RN 9 overlaps RN A008 according to Eventos de las rutas (it's labeled as a superposition, not an interruption).
@@ -25,6 +25,9 @@
 - RN 129 [is fully signed](https://www.google.com/maps/@-30.2742958,-57.9565668,3a,16.4y,338.09h,88.62t/data=!3m6!1e1!3m4!1sqIbfN_Dyamp9qQGaP66BHw!2e0!7i16384!8i8192?entry=ttu) from RN 14, even though all sources show it as RP 129. This has been treated as an error, since no sources show that an RN 129 ever existed here.
 - RN 173 is unsigned (and unpaved).
 - RN 281 has been extended west to Chile, but the latest imagery available (2014) shows [RP 43](https://www.google.com/maps/@-47.0133625,-67.2598466,3a,44.3y,283.35h,86.5t/data=!3m6!1e1!3m4!1shxqOmyhWyFk2rlgJ2XJVxw!2e0!7i13312!8i6656?entry=ttu).
+- RN A001 is unsigned, but is in argsf as AvGenPaz, AccSud, and PueNicAve.
+- RN A002 is unsigned, but is in argsf as AutRic.
+- RN A002 is unsigned, but is in argsf as RamTig.
 - RN A004 is unsigned, but is in argsf as part of AutoVia2.
 - RN A010 [is signed](https://www.google.com/maps/@-42.7402428,-65.0402514,3a,15y,222.38h,81.25t/data=!3m6!1e1!3m4!1sTdSJjwcRVEslE_L6yhXQ_w!2e0!7i13312!8i6656?entry=ttu) - also note the older sign for [S/N](https://www.google.com/maps/@-42.7405371,-65.040196,3a,15y,229.02h,80.18t/data=!3m6!1e1!3m4!1s5RlMASrJTC7peaH2OLRO3w!2e0!7i13312!8i6656?entry=ttu) (sin nombre/no number).
 - RN A015 [is signed](https://www.google.com/maps/@-31.2848541,-58.077599,3a,31.5y,64.15h,84.37t/data=!3m6!1e1!3m4!1s8WQbdQdHfRW2cr2_fXMDng!2e0!7i16384!8i8192?entry=ttu).
