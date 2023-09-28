@@ -21,6 +21,7 @@
 - RN120 [is signed](https://www.google.com/maps/@-27.5850308,-56.6350629,3a,32.2y,268.84h,81.92t/data=!3m6!1e1!3m4!1s2aRrVadc-cPiupY3YqZP3A!2e0!7i16384!8i8192?entry=ttu) west of RN12, but other sources show it doesn't extend there.
 - RN121 [is signed](https://www.google.com/maps/@-28.5738042,-56.0583919,3a,15.3y,156.54h,84.64t/data=!3m6!1e1!3m4!1sMffopIsL0cxvOnO3WZwJlA!2e0!7i13312!8i6656?entry=ttu) (as of 2014).
 - RN122 seems to be unsigned, at least at RN14.
+- RN129 [is fully signed](https://www.google.com/maps/@-30.2742958,-57.9565668,3a,16.4y,338.09h,88.62t/data=!3m6!1e1!3m4!1sqIbfN_Dyamp9qQGaP66BHw!2e0!7i16384!8i8192?entry=ttu) from RN14, even though all sources show it as RP129. This has been treated as an error, since no sources show that an RN129 ever existed here.
 - RN173 is unsigned (and unpaved).
 - RN281 has been extended west to Chile, but the latest imagery available (2014) shows [RP43](https://www.google.com/maps/@-47.0133625,-67.2598466,3a,44.3y,283.35h,86.5t/data=!3m6!1e1!3m4!1shxqOmyhWyFk2rlgJ2XJVxw!2e0!7i13312!8i6656?entry=ttu).
 - RNA010 [is signed](https://www.google.com/maps/@-42.7402428,-65.0402514,3a,15y,222.38h,81.25t/data=!3m6!1e1!3m4!1sTdSJjwcRVEslE_L6yhXQ_w!2e0!7i13312!8i6656?entry=ttu) - also note the older sign for [S/N](https://www.google.com/maps/@-42.7405371,-65.040196,3a,15y,229.02h,80.18t/data=!3m6!1e1!3m4!1s5RlMASrJTC7peaH2OLRO3w!2e0!7i13312!8i6656?entry=ttu) (sin nombre/no number).
