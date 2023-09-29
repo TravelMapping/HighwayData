@@ -24,6 +24,7 @@
 - RN 122 seems to be unsigned, at least at RN 14.
 - RN 129 [is fully signed](https://www.google.com/maps/@-30.2742958,-57.9565668,3a,16.4y,338.09h,88.62t/data=!3m6!1e1!3m4!1sqIbfN_Dyamp9qQGaP66BHw!2e0!7i16384!8i8192?entry=ttu) from RN 14, even though all sources show it as RP 129. This has been treated as an error, since no sources show that an RN 129 ever existed here.
 - RN 173 is unsigned (and unpaved).
+- RN 229 is only defined southbound thru Punta Alta. Signs for Bahia Blanca point northbound along Dorrego, but then disappear when Dorrego ends at Alem. Thus only the southbound route is mapped.
 - RN 281 has been extended west to Chile, but the latest imagery available (2014) shows [RP 43](https://www.google.com/maps/@-47.0133625,-67.2598466,3a,44.3y,283.35h,86.5t/data=!3m6!1e1!3m4!1shxqOmyhWyFk2rlgJ2XJVxw!2e0!7i13312!8i6656?entry=ttu).
 - RN A001 is unsigned, but is in argsf as AvGenPaz, AccSud, and PueNicAve.
 - RN A002 is unsigned, but is in argsf as AutRic.
