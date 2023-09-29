@@ -28,13 +28,16 @@
 - RN A001 is unsigned, but is in argsf as AvGenPaz, AccSud, and PueNicAve.
 - RN A002 is unsigned, but is in argsf as AutRic.
 - RN A002 is unsigned, but is in argsf as RamTig.
-- RN A004 is unsigned, but is in argsf as part of AutoVia2.
+- RN A004 is unsigned, but is in argsf as part of Aut2.
 - RN A010 [is signed](https://www.google.com/maps/@-42.7402428,-65.0402514,3a,15y,222.38h,81.25t/data=!3m6!1e1!3m4!1sTdSJjwcRVEslE_L6yhXQ_w!2e0!7i13312!8i6656?entry=ttu) - also note the older sign for [S/N](https://www.google.com/maps/@-42.7405371,-65.040196,3a,15y,229.02h,80.18t/data=!3m6!1e1!3m4!1s5RlMASrJTC7peaH2OLRO3w!2e0!7i13312!8i6656?entry=ttu) (sin nombre/no number).
 - RN A013 seems to be unsigned (as of 2013).
 - RN A014 [is signed](https://www.google.com/maps/@-31.5505221,-68.5005258,3a,17.1y,296.94h,103.22t/data=!3m6!1e1!3m4!1sJtXsS-3d8-Qv9Wn61orvvA!2e0!7i16384!8i8192?entry=ttu).
 - RN A015 [is signed](https://www.google.com/maps/@-31.2848541,-58.077599,3a,31.5y,64.15h,84.37t/data=!3m6!1e1!3m4!1s8WQbdQdHfRW2cr2_fXMDng!2e0!7i16384!8i8192?entry=ttu).
 - RN A016 seems to be unsigned.
-- RN A026 [is signed](https://www.google.com/maps/@-40.7133845,-65.0031998,3a,15y,111.97h,84.98t/data=!3m6!1e1!3m4!1s0MpU3xQP1cjCCQyL1beEtA!2e0!7i13312!8i6656?entry=ttu).
+- RN A019 seems to be unsigned, but is in argsf as AvCirCor.
+- RN A022 seems to be [signed only as a second route for RN 22](https://youtu.be/8gzlCpMIhiY?t=1025), so it has been mapped as RN 22Neu.
+- RN A025 seems to be unsigned (as of 2014).
+- RN A026 [is signed](https://www.google.com/maps/@-40.7133845,-65.0031998,3a,15y,111.97h,84.98t/data=!3m6!1e1!3m4!1s0MpU3xQP1cjCCQyL1beEtA!2e0!7i13312!8i6656?entry=ttu), but perhaps not all the way to the end (available imagery is from 2014).
 - RN 24CA [is signed](https://www.google.com/maps/@-54.2313883,-67.2065627,3a,31.8y,231.82h,79.36t/data=!3m6!1e1!3m4!1s3xUwpKRt5hhrIUaXCGpHqg!2e0!7i13312!8i6656?entry=ttu) as RN A.
 - RN 24CB [is signed](https://www.google.com/maps/@-53.8538716,-67.7566283,3a,15y,334.25h,83.98t/data=!3m6!1e1!3m4!1soEQpmAtRoEjhncm6UfBLZQ!2e0!7i13312!8i6656?entry=ttu) as RN B.
 - RN 24CF [is signed](https://www.google.com/maps/@-53.8689748,-67.6908394,3a,33.1y,168.53h,80.25t/data=!3m6!1e1!3m4!1sGGwq91xrDwcUdHPs_xxuoQ!2e0!7i13312!8i6656?entry=ttu) as RN F, even though sources show it is not federally maintained.
