@@ -18,8 +18,8 @@
 - RN 1V08 (old RN 8 thru San Antonio de Areco, Capitán Sarmiento, and Arrecifes-Pergamino) is too recently bypassed to know if it is signed.
 - RN 9 overlaps RN A008 according to Eventos de las rutas (it's labeled as a superposition, not an interruption).
 - RN 9 has a gap in northern Salto (between AvAre_W and the Río Vaqueros bridge), but a route [is signed](https://www.google.com/maps/@-24.7735826,-65.4148852,3a,38.6y,333.67h,93.37t/data=!3m6!1e1!3m4!1sHGudDziXOj7C-J2tJqH1Gg!2e0!7i16384!8i8192?entry=ttu).
-- RN 1V09 [is signed](https://www.google.com/maps/@-32.9265087,-60.7235596,3a,15y,195.96h,96.25t/data=!3m6!1e1!3m4!1swjRlxtE2QjHmxeXTm03WLA!2e0!7i16384!8i8192?entry=ttu), but perhaps only at the east end.
-- RN 2V09 seems to be signed only as a second route of RN 9, so it is mapped as RN 9Cor.
+- RN 1V09 [is signed](https://www.google.com/maps/@-32.9265087,-60.7235596,3a,15y,195.96h,96.25t/data=!3m6!1e1!3m4!1swjRlxtE2QjHmxeXTm03WLA!2e0!7i16384!8i8192?entry=ttu), [and not only at the east end](https://www.google.com/maps/@-32.7844692,-61.5446597,3a,15y,323.28h,83.43t/data=!3m6!1e1!3m4!1sa9o9yRtKAhfoxdfJx3-nHg!2e0!7i16384!8i8192?entry=ttu).
+- RN 2V09 seems to be unsigned, but it is in argsf as AutJuaCel.
 - RN 3V09 seems to be unsigned.
 - RN 12 is signed along both [the bypass of Posadas](https://www.google.com/maps/@-27.448722,-56.0298176,3a,15.2y,148.81h,86.99t/data=!3m6!1e1!3m4!1s9V9grb9epX59Znexox2iGA!2e0!7i13312!8i6656?entry=ttu) and [the route thru Posadas](https://www.google.com/maps/@-27.4595809,-55.862663,3a,35.8y,17.33h,110.8t/data=!3m6!1e1!3m4!1s6tjEJzfJnJvotAZ8ljQLVg!2e0!7i16384!8i8192?entry=ttu). Online official sources showing it using the older route, so that is how the main RN 12 file goes, and the bypass is RN 12Pos.
 - RN 1V26 seems to be unsigned (as of 2014).
