@@ -233,6 +233,8 @@ date;region;route;root;description
 2015-07-22;Bosnia and Herzegovina;E772;bih.e772;Route extended at north end from junction of M17 and M18 to A1
 2018-10-13;Brunei;AH150 (Bandar Seri Begawan);brn.ah150;New Route
 2018-10-13;Brunei;AH150 (Bangar);brn.ah150ban;New Route
+2023-09-25;Bulgaria;A6 'Europa' (Slivnitsa);bgr.a006;Route truncated from Serbian border to junction with I8
+2023-09-25;Bulgaria;I8 (Dragoman);bgr.i008dra;Route added
 2023-06-14;Bulgaria;A4 'Maritsa';bgr.a004;Route extended at east end from former junction with the I8 east of Kapitan Andrevo to the Turkish border
 2023-06-14;Bulgaria;A6 'Europa' (Sofia);bgr.a006sof;Route extended at west end from II18 to Vasil Levski
 2023-04-14;Bulgaria;A6 'Europa' (Slivnitsa);bgr.a006;Route extended from former junction with I8 to Serbian border
@@ -565,6 +567,7 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2023-09-26;Czechia;D7 (Louny);cze.d007lou;New Route
 2023-08-29;Czechia;I11;cze.i011;Route relocated from through Doudleby nad Orlicí and onto new bypass from Rudé armády west of Doudleby nad Orlicí to roundabout with I14
 2023-08-28;Czechia;I47 (Hranice na Moravě);cze.i047;Route extended at west end from Velká Dlážka roundabout to I55
 2023-08-28;Czechia;I55;cze.i055;Route relocated from Durychova, 9. května, tř. 17. listopadu, Komenského, Palackého and Velká Dlážka, and onto Tovární, Velké Novosady, Tržní and Polní from Durychova in Přerov to west of D1 interchange Přerov-sever
@@ -1184,6 +1187,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2023-09-26;(Germany) Bavaria;B15a;deuby.b015a;Route extended at north end from St2078 to RO19
+2023-09-26;(Germany) Bavaria;B15n;deuby.b015n;Route extended at south end from exit 7 to exit 8
 2023-09-13;(Germany) Bavaria;B2 (Weilheim);deuby.b002wei;Route relocated from through (now closed) Olympiastraße tunnel section, and onto Michael-Fischer-Straße and A95 at Eschenlohe
 2023-09-13;(Germany) Bavaria;St20260 (Eschenlohe);deuby.st2060esc;New Route (bypass for the tunnel section
 2023-08-21;(Germany) Bavaria;B15 (Regensburg);deuby.b015reg;New Route (former B15 main route)
@@ -1405,6 +1410,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2023-09-26;(Germany) North Rhine-Westphalia;B66 (Barntrup);deunw.b066bar;Route extended at east end from west of Barntrup (B66) to east of Barntrup (B1)
 2023-09-08;(Germany) North Rhine-Westphalia;L776;deunw.l776;Route relocated from through Bad Fredeburg and onto new western bypass from north of the Bad Fredeberg to B511
 2023-08-20;(Germany) North Rhine-Westphalia;L117n;deunw.l117n;New Route
 2023-07-30;(Germany) North Rhine-Westphalia;B66 (Barntrup);deunw.b066bar;New Route
@@ -2578,6 +2584,10 @@ date;region;route;root;description
 2018-10-13;Malaysia;AH150 (Limbang);mys.ah150lim;New Route
 2018-10-13;Malaysia;AH150 (Kuching branch);mys.ah150kuc;New Route
 2018-09-13;(Mexico) Estado de Mexico;MEX 15D;mexemex.mex015d;East end extended from MEX 55 to MEX 40D.
+2023-09-28;Moldova;R30;mda.r030;Route removed from Strada Ismail and Anenii Noi-Causeni and relocated onto Drumul de ocolire a satului Torita Noua between G110 and L487
+2023-09-28;Moldova;R32;mda.r032;Route removed from R32.2 and L664 and relocated onto Cahul bypass between R32.2 and L664
+2023-09-28;Moldova;R32.2;mda.r0322;Route rentered (was heading north from Cahul, now heading east from Cahul)
+2023-09-28;Moldova;R34.1;mda.r0341;Route truncated at east end from R32 to R34
 2023-06-14;Moldova;M3 (Chisinau);mda.m003chi;Route extended at south end from western junction with G122.1 to southern junction with R3
 2023-06-14;Moldova;M3 (Cimislia);mda.m003;Route deleted (merged into Comrat section)
 2023-06-14;Moldova;M3 (Comrat);mda.m003;Route extended at north end from R23 to R3
@@ -3038,6 +3048,13 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2023-09-29;Poland;A18 (Zary);pol.a018zar;Route extended at west end from exit 1 to the German border and at east end from exit 4 to exit 5
+2023-09-29;Poland;S3 (Lubawka);pol.s003lub;Route added
+2023-09-29;Poland;DK18 (Ilowa);pol.dk018ilo;Route truncated at west end from exit 4 to exit 5
+2023-09-29;Poland;DK18 (Trezbiel);pol.a018zar;Route deleted (now part of A18)
+2023-09-28;Poland;S11 (Koszalin);pol.s011kos;Route extended at south end from exit 2 to exit 6
+2023-09-28;Poland;DK11 (Koszalin);pol.dk011kos;Route truncated at north end from S11 exit 2 to S11 exit 6
+2023-09-28;Poland;DW168;pol.dw168;Route truncated at west end from DW167 to OldDK11
 2023-09-19;Poland;S7;pol.s007;Route extended at south end from Zagora to exit 107
 2023-09-19;Poland;E77;pol.e77;Route removed from former DK7 and relocated onto S7 and DW783 between Zagora and western junction with DW783
 2023-09-19;Poland;DK7 (Miechow);pol.dk007mie;Route truncated at north end from Zagora to DW783 and extended at north end from DW783 to S7 exit 107
@@ -4014,6 +4031,7 @@ date;region;route;root;description
 2023-08-17;Singapore;AH143;;Route deleted
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2023-09-25;Slovakia;R4 (Prešov);svk.r004pre;Route added
 2023-09-19;Slovakia;II426;svk.ii426;Route added
 2022-12-31;Slovakia;R2 (Mytna);svk.r002myt;Route added
 2022-12-31;Slovakia;E58;svk.e58;Route removed from I16 and relocated onto R2 between I16 at Mytna and I16 at Tomasovce
@@ -4106,6 +4124,7 @@ date;region;route;root;description
 2017-03-22;Slovenia;G111;svn.g111;Route truncated at north end from H6 exit 2 to Polje Cesta
 2015-07-24;Slovenia;H5;svn.h005;Route truncated at south end from Piranska Ulica to G11
 2015-07-24;Slovenia;H6;svn.h006;New Route
+2023-09-28;(Spain) Andulucia;A334 (Autovía del Almanzora);espan.a334;Route extended at east end from exit 85 to A7
 2023-07-28;(Spain) Andulucia;AP7;espan.ap007;Route extended at west end from exit 214 (now 1010) to exit 0 of MA20
 2023-07-28;(Spain) Andulucia;MA20;espan.ma020;Route truncated at south end from A7 exit 225 to exit 0
 2023-01-01;(Spain) Andulucia;A32;espan.a032;Route extended at east end from the N322 at Endrinosa to exit 78
@@ -5626,6 +5645,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2023-09-28;(USA) Illinois;IL 3 Spur (East St. Louis);il.il003spresl;Added route
 2023-02-17;(USA) Illinois;IL 53;il.il053;Truncated south end from I-55 to OldUS66_E
 2022-09-08;(USA) Illinois;IL 108 (Kampsville);il.il108kam;Created route due to split at Kampsville Ferry. 
 2022-09-08;(USA) Illinois;IL 108;il.il108;Split route at Kampsville Ferry. Long segment now ends at point KamFry. Short segment renamed IL108Kam.
