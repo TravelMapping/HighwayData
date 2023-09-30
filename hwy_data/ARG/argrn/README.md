@@ -22,6 +22,7 @@
 - RN 2V09 seems to be unsigned, but it is in argsf as AutJuaCel.
 - RN 3V09 seems to be unsigned.
 - RN 12 is signed along both [the bypass of Posadas](https://www.google.com/maps/@-27.448722,-56.0298176,3a,15.2y,148.81h,86.99t/data=!3m6!1e1!3m4!1s9V9grb9epX59Znexox2iGA!2e0!7i13312!8i6656?entry=ttu) and [the route thru Posadas](https://www.google.com/maps/@-27.4595809,-55.862663,3a,35.8y,17.33h,110.8t/data=!3m6!1e1!3m4!1s6tjEJzfJnJvotAZ8ljQLVg!2e0!7i16384!8i8192?entry=ttu). Online official sources showing it using the older route, so that is how the main RN 12 file goes, and the bypass is RN 12Pos.
+- RN 20's route in Córdoba is per GIS; Eventos de las rutas is unclear east of ElpGon. However, the left turn westbound at BvSanJuan_W cannot be made, and the right turn eastbound is made using Montevideo and Belgrano.
 - RN 1V26 seems to be unsigned (as of 2014).
 - RN 120 [is signed](https://www.google.com/maps/@-27.5850308,-56.6350629,3a,32.2y,268.84h,81.92t/data=!3m6!1e1!3m4!1s2aRrVadc-cPiupY3YqZP3A!2e0!7i16384!8i8192?entry=ttu) west of RN 12, but other sources show it doesn't extend there.
 - RN 121 [is signed](https://www.google.com/maps/@-28.5738042,-56.0583919,3a,15.3y,156.54h,84.64t/data=!3m6!1e1!3m4!1sMffopIsL0cxvOnO3WZwJlA!2e0!7i13312!8i6656?entry=ttu) (as of 2014).
