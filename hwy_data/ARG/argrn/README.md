@@ -25,6 +25,8 @@
 - RN 20's route in Córdoba is per GIS; Eventos de las rutas is unclear east of ElpGon. However, the left turn westbound at BvSanJuan_W cannot be made, and the right turn eastbound is made using Montevideo and Belgrano.
 - RN 1V26 seems to be unsigned (as of 2014).
 - RN 1S40 and RN 2S40 seem to be unsigned.
+- RN 95's south end, as signed, seems to be at RP 17 northeast of Ceres (sources show it uses RP 17 to RN 34 in Ceres).
+- RN 98 seems to be unsigned at its west end in Pinto (as of 2014), but it [is signed](https://www.google.com/maps/@-28.8956185,-62.2676789,3a,28.8y,84.63h,107.03t/data=!3m6!1e1!3m4!1s6OEbKWbPeSZG6IUJxxjH2A!2e0!7i13312!8i6656?entry=ttu) at Bandera.
 - RN 120 [is signed](https://www.google.com/maps/@-27.5850308,-56.6350629,3a,32.2y,268.84h,81.92t/data=!3m6!1e1!3m4!1s2aRrVadc-cPiupY3YqZP3A!2e0!7i16384!8i8192?entry=ttu) west of RN 12, but other sources show it doesn't extend there.
 - RN 121 [is signed](https://www.google.com/maps/@-28.5738042,-56.0583919,3a,15.3y,156.54h,84.64t/data=!3m6!1e1!3m4!1sMffopIsL0cxvOnO3WZwJlA!2e0!7i13312!8i6656?entry=ttu) (as of 2014).
 - RN 122 seems to be unsigned, at least at RN 14.
