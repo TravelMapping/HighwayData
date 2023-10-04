@@ -24,7 +24,7 @@
 - RN 12 is signed along both [the bypass of Posadas](https://www.google.com/maps/@-27.448722,-56.0298176,3a,15.2y,148.81h,86.99t/data=!3m6!1e1!3m4!1s9V9grb9epX59Znexox2iGA!2e0!7i13312!8i6656?entry=ttu) and [the route thru Posadas](https://www.google.com/maps/@-27.4595809,-55.862663,3a,35.8y,17.33h,110.8t/data=!3m6!1e1!3m4!1s6tjEJzfJnJvotAZ8ljQLVg!2e0!7i16384!8i8192?entry=ttu). Online official sources showing it using the older route, so that is how the main RN 12 file goes, and the bypass is RN 12Pos.
 - RN 20's route in Córdoba is per GIS; Eventos de las rutas is unclear east of ElpGon. However, the left turn westbound at BvSanJuan_W cannot be made, and the right turn eastbound is made using Montevideo and Belgrano.
 - RN 1V26 seems to be unsigned (as of 2014).
-- RN 1V38 [is signed](https://www.google.com/maps/@-27.0618694,-65.3835789,3a,15y,225.69h,79t/data=!3m6!1e1!3m4!1sH3WpRm4w--ADVNIv_kmarw!2e0!7i16384!8i8192?entry=ttu).
+- RN 1V38 [is signed](https://www.google.com/maps/@-27.3714294,-65.5650386,3a,17.1y,138.3h,105.74t/data=!3m6!1e1!3m4!1sc54ghIMfna99TCsEOYysSQ!2e0!7i16384!8i8192?entry=ttu).
 - RN 1S40 and RN 2S40 seem to be unsigned.
 - RN 1V66 [is signed](https://www.google.com/maps/@-24.4734316,-65.0382964,3a,15.2y,25.41h,89.41t/data=!3m6!1e1!3m4!1sd30ub7F9tkvA91bsgKjqUQ!2e0!7i16384!8i8192?entry=ttu).
 - RN 95's south end, as signed, seems to be at RP 17 northeast of Ceres (sources show it uses RP 17 to RN 34 in Ceres).
