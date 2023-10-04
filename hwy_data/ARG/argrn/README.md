@@ -26,6 +26,9 @@
 - RN 1V26 seems to be unsigned (as of 2014).
 - RN 1V38 [is signed](https://www.google.com/maps/@-27.3714294,-65.5650386,3a,17.1y,138.3h,105.74t/data=!3m6!1e1!3m4!1sc54ghIMfna99TCsEOYysSQ!2e0!7i16384!8i8192?entry=ttu).
 - RN 1S40 and RN 2S40 seem to be unsigned.
+- RN 1V40 [is signed](https://www.google.com/maps/@-24.2176037,-66.3203401,3a,16.7y,315.11h,85.34t/data=!3m6!1e1!3m4!1siowPiWD_giS60fded_4iaw!2e0!7i16384!8i8192?entry=ttu).
+- RN 2V40 [is signed](https://www.google.com/maps/@-27.7190292,-67.1581034,3a,27.2y,55.94h,109.26t/data=!3m6!1e1!3m4!1s8xtwRUQSdjEoNFVaxHhBsA!2e0!7i16384!8i8192?entry=ttu) as another route of RN 40, essentially a truck route, but signage on the route itself is unknown. It is mapped as RN 40Lon.
+- RN 51 seems to be signed on the bypass of San Antonio de los Cobres, contrary to what GIS shows.
 - RN 1V66 [is signed](https://www.google.com/maps/@-24.4734316,-65.0382964,3a,15.2y,25.41h,89.41t/data=!3m6!1e1!3m4!1sd30ub7F9tkvA91bsgKjqUQ!2e0!7i16384!8i8192?entry=ttu).
 - RN 95's south end, as signed, seems to be at RP 17 northeast of Ceres (sources show it uses RP 17 to RN 34 in Ceres).
 - RN 98 seems to be unsigned at its west end in Pinto (as of 2014), but it [is signed](https://www.google.com/maps/@-28.8956185,-62.2676789,3a,28.8y,84.63h,107.03t/data=!3m6!1e1!3m4!1s6OEbKWbPeSZG6IUJxxjH2A!2e0!7i13312!8i6656?entry=ttu) at Bandera.
@@ -35,9 +38,14 @@
 - RN 122 seems to be unsigned, at least at RN 14.
 - RN 129 [is fully signed](https://www.google.com/maps/@-30.2742958,-57.9565668,3a,16.4y,338.09h,88.62t/data=!3m6!1e1!3m4!1sqIbfN_Dyamp9qQGaP66BHw!2e0!7i16384!8i8192?entry=ttu) from RN 14, even though all sources show it as RP 129. This has been treated as an error, since no sources show that an RN 129 ever existed here.
 - RN 142 seems to be unsigned (as of 2022).
+- RN 153 [is signed](https://www.google.com/maps/@-31.9848216,-68.6930735,3a,15y,15.08h,82.58t/data=!3m6!1e1!3m4!1s0ribq4Z_QVICb7qDW4MCyg!2e0!7i16384!8i8192?entry=ttu).
 - RN 173 is unsigned (and unpaved).
+- RN 188 seems to be unsigned near its west end.
 - RN 229 is only defined southbound thru Punta Alta. Signs for Bahia Blanca point northbound along Dorrego, but then disappear when Dorrego ends at Alem. Thus only the southbound route is mapped.
 - RN 232 seems to be unsigned (as of 2014-15).
+- RN 242 [is signed](https://www.google.com/maps/@-38.5060229,-70.4672872,3a,39.4y,313.12h,80.19t/data=!3m6!1e1!3m4!1si7tl4_2HukX27YrZSLbnUA!2e0!7i13312!8i6656?entry=ttu).
+- RN 259 [is signed](https://radio3cadenapatagonia.com.ar/en-pocas-semanas-habra-novedades-sobre-la-pavimentacion-de-la-ruta-259/).
+- RN 260 seems to be unsigned (as of 2014), but the only imagery available is at the east end.
 - RN 281 has been extended west to Chile, but the latest imagery available (2014) shows [RP 43](https://www.google.com/maps/@-47.0133625,-67.2598466,3a,44.3y,283.35h,86.5t/data=!3m6!1e1!3m4!1shxqOmyhWyFk2rlgJ2XJVxw!2e0!7i13312!8i6656?entry=ttu).
 - RN A001 is unsigned, but is in argsf as AvGenPaz, AccSud, and PueNicAve.
 - RN A002 is unsigned, but is in argsf as AutRic.
