@@ -29,7 +29,9 @@
 - RN 1V40 [is signed](https://www.google.com/maps/@-24.2176037,-66.3203401,3a,16.7y,315.11h,85.34t/data=!3m6!1e1!3m4!1siowPiWD_giS60fded_4iaw!2e0!7i16384!8i8192?entry=ttu).
 - RN 2V40 [is signed](https://www.google.com/maps/@-27.7190292,-67.1581034,3a,27.2y,55.94h,109.26t/data=!3m6!1e1!3m4!1s8xtwRUQSdjEoNFVaxHhBsA!2e0!7i16384!8i8192?entry=ttu) as another route of RN 40, essentially a truck route, but signage on the route itself is unknown. It is mapped as RN 40Lon.
 - RN 51 seems to be signed on the bypass of San Antonio de los Cobres, contrary to what GIS shows.
+- RN 64 seems to be unsigned east of RN 9.
 - RN 1V66 [is signed](https://www.google.com/maps/@-24.4734316,-65.0382964,3a,15.2y,25.41h,89.41t/data=!3m6!1e1!3m4!1sd30ub7F9tkvA91bsgKjqUQ!2e0!7i16384!8i8192?entry=ttu).
+- RN 73 seems to be unsigned (as of 2014-15).
 - RN 95's south end, as signed, seems to be at RP 17 northeast of Ceres (sources show it uses RP 17 to RN 34 in Ceres).
 - RN 98 seems to be unsigned at its west end in Pinto (as of 2014), but it [is signed](https://www.google.com/maps/@-28.8956185,-62.2676789,3a,28.8y,84.63h,107.03t/data=!3m6!1e1!3m4!1s6OEbKWbPeSZG6IUJxxjH2A!2e0!7i13312!8i6656?entry=ttu) at Bandera.
 - RN 89 seems to be poorly signed near its west end, but it [is signed](https://www.google.com/maps/@-27.6570494,-62.4292388,3a,75y,250.83h,94.03t/data=!3m6!1e1!3m4!1syBe59wN5pzWYUJ_tlz19RQ!2e0!7i16384!8i8192?entry=ttu) west from Quimilí.
