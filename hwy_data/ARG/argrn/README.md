@@ -43,7 +43,7 @@
 - RN 142 seems to be unsigned (as of 2022).
 - RN 153 [is signed](https://www.google.com/maps/@-31.9848216,-68.6930735,3a,15y,15.08h,82.58t/data=!3m6!1e1!3m4!1s0ribq4Z_QVICb7qDW4MCyg!2e0!7i16384!8i8192?entry=ttu).
 - RN 173 is unsigned (and unpaved).
-- RN 188 seems to be unsigned near its west end.
+- RN 188 seems to be unsigned west of RN 143.
 - RN 229 is only defined southbound thru Punta Alta. Signs for Bahia Blanca point northbound along Dorrego, but then disappear when Dorrego ends at Alem. Thus only the southbound route is mapped.
 - RN 232 seems to be unsigned (as of 2014-15).
 - RN 242 [is signed](https://www.google.com/maps/@-38.5060229,-70.4672872,3a,39.4y,313.12h,80.19t/data=!3m6!1e1!3m4!1si7tl4_2HukX27YrZSLbnUA!2e0!7i13312!8i6656?entry=ttu).
