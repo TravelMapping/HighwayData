@@ -41,6 +41,7 @@
 - RN 129 [is fully signed](https://www.google.com/maps/@-30.2742958,-57.9565668,3a,16.4y,338.09h,88.62t/data=!3m6!1e1!3m4!1sqIbfN_Dyamp9qQGaP66BHw!2e0!7i16384!8i8192?entry=ttu) from RN 14, even though all sources show it as RP 129. This has been treated as an error, since no sources show that an RN 129 ever existed here.
 - RN 131's route thru Strobel is from GIS.
 - RN 142 seems to be unsigned (as of 2022).
+- RN 146 seems to be completely unsigned thru San Luis, not even with destination signs (as of 2016).
 - RN V146 seems to be unsigned.
 - RN 153 [is signed](https://www.google.com/maps/@-31.9848216,-68.6930735,3a,15y,15.08h,82.58t/data=!3m6!1e1!3m4!1s0ribq4Z_QVICb7qDW4MCyg!2e0!7i16384!8i8192?entry=ttu).
 - RN 173 is unsigned (and unpaved).
