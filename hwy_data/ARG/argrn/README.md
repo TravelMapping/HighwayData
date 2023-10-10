@@ -47,7 +47,7 @@
 - RN 173 is unsigned (and unpaved).
 - RN 175's easternmost block (on Nerbutti) is blocked off (as of 2023).
 - RN 188 seems to be unsigned west of RN 143.
-- RN 205 is very consistently signed along what is officially RP 205, while actual RN 205 is in argsf as AutEzeCan.
+- RN 205 is very consistently signed along what is officially RP 205 (south of [El Jagüel](https://www.google.com/maps/@-34.8326312,-58.4957098,3a,15y,68.34h,102t/data=!3m6!1e1!3m4!1s9sRL9jBXHKHgE22u_u6EJA!2e0!7i16384!8i8192?entry=ttu)), while actual RN 205 is in argsf as AutEzeCan. Signage getting onto the freeway at Ezeiza is confusing; it has been mapped along the route without tolls.
 - RN 229 is only defined southbound thru Punta Alta. Signs for Bahia Blanca point northbound along Dorrego, but then disappear when Dorrego ends at Alem. Thus only the southbound route is mapped.
 - RN 232 seems to be unsigned (as of 2014-15).
 - RN 242 [is signed](https://www.google.com/maps/@-38.5060229,-70.4672872,3a,39.4y,313.12h,80.19t/data=!3m6!1e1!3m4!1si7tl4_2HukX27YrZSLbnUA!2e0!7i13312!8i6656?entry=ttu).
