@@ -1190,7 +1190,7 @@ date;region;route;root;description
 2023-09-26;(Germany) Bavaria;B15a;deuby.b015a;Route extended at north end from St2078 to RO19
 2023-09-26;(Germany) Bavaria;B15n;deuby.b015n;Route extended at south end from exit 7 to exit 8
 2023-09-13;(Germany) Bavaria;B2 (Weilheim);deuby.b002wei;Route relocated from through (now closed) Olympiastraße tunnel section, and onto Michael-Fischer-Straße and A95 at Eschenlohe
-2023-09-13;(Germany) Bavaria;St20260 (Eschenlohe);deuby.st2060esc;New Route (bypass for the tunnel section
+2023-09-13;(Germany) Bavaria;St20260 (Eschenlohe);deuby.st2060esc;New Route (bypass for the tunnel section)
 2023-08-21;(Germany) Bavaria;B15 (Regensburg);deuby.b015reg;New Route (former B15 main route)
 2023-08-21;(Germany) Bavaria;St2615;deuby.st2615;New Route (former B15)
 2023-08-21;(Germany) Bavaria;B15 (Dorfen);deuby.b015;Route truncated at north end from A93 to A92 (B15 (Regensburg) and St2615 now)
@@ -3827,6 +3827,7 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2023-10-04;Romania;A3 (Suplacu de Barcău);rou.a003sup;New route
 2023-08-21;Romania;DJ103D;rou.dj103d;Route extended at southern end between DJ104A and DJ102G
 2023-08-21;Romania;DJ102G;rou.dj102g;New Route
 2023-07-10;Romania;DN22J;rou.dn22j;New Route
@@ -5352,6 +5353,7 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2023-10-01;(USA) Arkansas;AR 5 (Little Rock);ar.ar005lit;Extended from old west end at AR 7 southward to US 70.
 2023-09-21;(USA) Arkansas;AR 17 (Brinkley);ar.ar017;South end truncated from Butler Lane to Morgan Loop Road.
 2023-09-17;(USA) Arkansas;US 67 Business (Walnut Ridge);ar.us067buswal;South end extended from the US 412 West split at 4th and Main to AR 34/367.
 2022-12-04;(USA) Arkansas;AR 161 (North Little Rock);ar.ar161jac;South end truncated from US 70 to AR 440. Renamed to AR 161 (Jacksonville).
@@ -5505,6 +5507,8 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
+2023-10-01;(USA) Connecticut;I-691;ct.i691;Relabeled exits from sequential to mileage-based.
+2023-10-01;(USA) Connecticut;CT 66;ct.ct066;Relabeled exits from sequential to mileage-based.
 2023-03-12;(USA) Connecticut;CT 9;ct.ct009;Relabeled exits from sequential to mileage-based.
 2022-04-04;(USA) Connecticut;CT 17;ct.ct017;Corrected to follow Saint John's Square instead of Washington Street between CT 9 and CT 66.
 2021-02-08;(USA) Connecticut;CT 148;ct.ct148;Split into two segments at the Chester-Hadlyme Ferry.
@@ -6164,6 +6168,7 @@ date;region;route;root;description
 2017-06-19;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended south from exit 215 to exit 211
 2015-10-10;(USA) Louisiana;US 371;la.us371;Removed from LA 177 and US84 and relocated onto a new two-lane east-west roadway between the LA 177 north split and the US 84 / LA 1 junction
 2015-09-03;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended north from exit 234 to the Arkansas state line
+2023-10-09;(USA) Maine;US 201;me.us201;SB alignment removed from ME11 and Main St in Waterville, and relocated onto existing NB alignment on Front St, which now carries two-way-traffic.
 2021-01-28;(USA) Maine;Paradise Hill Road, Acadia NP;me.parhillrd;North end truncated from ME 3 to Visitor Center Rd.
 2019-08-30;(USA) Maine;US 2;me.us002;Waypoint label ME232 moved from Church Street to the 2015 Martin Memorial Bridge.
 2019-08-30;(USA) Maine;ME 232;me.me232;North end removed from the 1955 Martin Memorial Bridge between a point labeled *OldME232 and US 2 at Church St, and relocated onto the 2015 Martin Memorial Bridge approx. 600 feet upriver.
@@ -6184,6 +6189,7 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2023-09-30;(USA) Maryland;MD 334;md.md334;Truncated at east end from Washington St to end of state maintenance at Clay St
 2023-05-25;(USA) Maryland;MD 97;md.md097;Relocated onto new bypass of Brookeville
 2023-01-25;(USA) Maryland;MD 806 (Thurmont);md.md806thu;Truncated at north end from Roddy Creek Road to Albert Staub Road and truncated at south end to remove MD 550 concurrency.
 2023-01-25;(USA) Maryland;MD 144 (New Market);md.md144new;Truncated at west end from former endpoint near Royal Oak Drive to new endpoint at New Market town line.
@@ -6446,6 +6452,7 @@ date;region;route;root;description
 2017-09-03;(USA) Montana;I-94 BL (Hysham);;Route deleted
 2015-11-02;(USA) Montana;I-94 BL (Wibaux);;Route deleted
 2015-08-03;(USA) Montana;US 93 Alternate (Kalispell);mt.us093altkal;New Route
+2023-09-30;(USA) Nebraska;NE 35;ne.ne035;Removed from the NE 35 Frontage Road and relocated northwestward onto a parallel 4-lane divided highway between waypoints *OldNE35_S & *OldNE35_N to reflect a circa 2012-2014 realignment.
 2023-09-17;(USA) Nebraska;US 136 Truck ((South) Beatrice);ne.us136trksbe;Route Added.
 2023-09-17;(USA) Nebraska;US 136 Truck ((North) Beatrice);ne.us136trknbe;Route Added.
 2023-09-17;(USA) Nebraska;NE 4 Truck ((South) Beatrice);ne.ne004trksbe;Route Added.
@@ -6564,6 +6571,7 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2023-10-08;(USA) New York;LaSalle Expressway;ny.lasexpy;West end removed from Niagara Scenic Parkway and extended west to connect directly to I-190 at exit 21A.
 2023-09-21;(USA) New York;NY 63;ny.ny063;Relocated northward between waypoints *OldNY63_S & *OldNY63_N to reflect a circa 2008 realignment.
 2023-09-21;(USA) New York;NY 364;ny.ny364;NY245_S and NY245_N point labels swapped.
 2023-09-18;(USA) New York;NY 29A;ny.ny029a;Waypoint NY309 moved from Bleecker St to Frontage Rd.
@@ -6649,6 +6657,9 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2023-10-02;(USA) North Carolina;US 70;nc.us070;rerouted between High Point and Greensboro - new routing is between US 29 and US29/220 points
+2023-10-02;(USA) North Carolina;US 21 Truck (Sparta);nc.us021trkspa;added route
+2023-10-02;(USA) North Carolina;NC 417;nc.nc417;added route
 2023-05-20;(USA) North Carolina;US 441 Bus Franklin;nc.us441busfra;NC28_N waypoint was moved in 2010 and is now changed in TM to HarAve with alt name NC28_N not possible
 2023-05-20;(USA) North Carolina;NC 22;nc.nc022;placed on new alignment near airport - new routing is between points WarWooRd and RusCt
 2023-05-20;(USA) North Carolina;NC 28;nc.nc028;rerouted in 2010 from Harrison Ave to Depot St in Franklin - new routing is between points US441Bus_S and BryCityRd_S
@@ -6924,6 +6935,7 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2023-09-30;(USA) Oklahoma;OK 7;ok.ok007;Removed from Medcalf Rd and US 81 and relocated onto the Duncan Bypass.
 2022-11-17;(USA) Oklahoma;OK 344;ok.ok344;Extended northward from Exit 2 to US 64/412.
 2022-10-03;(USA) Oklahoma;OK 344;ok.ok344;Route added
 2022-09-28;(USA) Oklahoma;US 69 Business (Durant);;Route deleted
@@ -6984,6 +6996,8 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2023-10-07;(USA) Pennsylvania;PA 352 Alternate Truck (Frazer);pa.pa352alttrkfra;Route added.
+2023-10-07;(USA) Pennsylvania;PA 401 Alternate Truck (West Pikeland Township);pa.pa401alttrkwes;Route added.
 2023-09-10;(USA) Pennsylvania;PA 228;pa.pa228;Realigned onto straightened alignment (ultimately will be four lanes) between *OldPA228_A and OldPA8.
 2023-08-12;(USA) Pennsylvania;PA 291 Alternate Truck (Philadelphia);pa.pa291alttrkphi;Route added.
 2023-08-12;(USA) Pennsylvania;PA 462 Truck (Columbia);pa.pa462trkcol;Route added.
@@ -7169,6 +7183,9 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2023-10-02;(USA) South Carolina;US 1 Truck (Camden);sc.us001trkcam;rerouted from Mill St to stay on York to US 1
+2023-10-02;(USA) South Carolina;US 521 Truck (E Camden);sc.us521trkeca;rerouted from Mill St to stay on York to US 1
+2023-10-02;(USA) South Carolina;SC 34 Truck (Camden);sc.sc034trkcam;rerouted from Mill St to stay on York to US 1
 2022-09-03;(USA) South Carolina;SC 460;sc.sc460;extended Jan 2020 south back around to US 21 Bus
 2022-07-04;(USA) South Carolina;US 123 Con (Easley);sc.us123coneas;Route added
 2022-03-05;(USA) South Carolina;I-585;sc.i585;truncated back to I-85 BL which is still its actual endpoint
