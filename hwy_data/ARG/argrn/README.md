@@ -14,7 +14,7 @@
 - Unsigned GSJs should be named with `RN9_U111` style. The U index could be anything, e.g. derived from the nearest km / mile post. See http://forum.travelmapping.net/index.php?topic=3620
 - RN 1 is not signed (but the vast majority is in argsf as AutBALP)
 - RN 3 (and RN 40) has been realigned to bypass Rio Gallegos. It is unknown if RN 2V03 is signed on the old route.
-- RN 7 does not use the southern bypass of San Luis according to official sources. Neither route seems to be explicitly signed.
+- RN 7 does not use the southern bypass of San Luis according to official sources. Neither route seems to be explicitly signed. The bypass is in argsf as AutSerPun.
 - RN 1V08 (old RN 8 thru San Antonio de Areco, Capitán Sarmiento, and Arrecifes-Pergamino) is too recently bypassed to know if it is signed.
 - RN 9 overlaps RN A008 according to Eventos de las rutas (it's labeled as a superposition, not an interruption).
 - RN 9 has a gap in northern Salto (between AvAre_W and the Río Vaqueros bridge), but a route [is signed](https://www.google.com/maps/@-24.7735826,-65.4148852,3a,38.6y,333.67h,93.37t/data=!3m6!1e1!3m4!1sHGudDziXOj7C-J2tJqH1Gg!2e0!7i16384!8i8192?entry=ttu).
