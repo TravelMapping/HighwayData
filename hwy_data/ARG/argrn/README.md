@@ -26,6 +26,7 @@
 - RN 1V26 seems to be unsigned (as of 2014).
 - RN 38 is shown going thru downtown Cosquín on GIS and Eventos de las rutas.
 - RN 1V38 [is signed](https://www.google.com/maps/@-27.3714294,-65.5650386,3a,17.1y,138.3h,105.74t/data=!3m6!1e1!3m4!1sc54ghIMfna99TCsEOYysSQ!2e0!7i16384!8i8192?entry=ttu).
+- RN 40Sus is shown on GIS using Catamarca in Susques, but the street is closed at its west end. Instead it is mapped [as signed](https://www.google.com/maps/@-23.3993213,-66.3676129,3a,15y,27.24h,78.84t/data=!3m6!1e1!3m4!1sfdrgWA0Yk1Kq5SgqjqdS8g!2e0!7i16384!8i8192?entry=ttu).
 - RN 1S40 and RN 2S40 seem to be unsigned.
 - RN 1V40 [is signed](https://www.google.com/maps/@-24.2176037,-66.3203401,3a,16.7y,315.11h,85.34t/data=!3m6!1e1!3m4!1siowPiWD_giS60fded_4iaw!2e0!7i16384!8i8192?entry=ttu).
 - RN 2V40 [is signed](https://www.google.com/maps/@-27.7190292,-67.1581034,3a,27.2y,55.94h,109.26t/data=!3m6!1e1!3m4!1s8xtwRUQSdjEoNFVaxHhBsA!2e0!7i16384!8i8192?entry=ttu) as another route of RN 40, essentially a truck route, but signage on the route itself is unknown. It is mapped as RN 40Lon.
