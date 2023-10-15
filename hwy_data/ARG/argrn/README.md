@@ -23,7 +23,7 @@
 - RN 3V09 seems to be unsigned.
 - RN 12 is signed along both [the bypass of Posadas](https://www.google.com/maps/@-27.448722,-56.0298176,3a,15.2y,148.81h,86.99t/data=!3m6!1e1!3m4!1s9V9grb9epX59Znexox2iGA!2e0!7i13312!8i6656?entry=ttu) and [the route thru Posadas](https://www.google.com/maps/@-27.4595809,-55.862663,3a,35.8y,17.33h,110.8t/data=!3m6!1e1!3m4!1s6tjEJzfJnJvotAZ8ljQLVg!2e0!7i16384!8i8192?entry=ttu). Online official sources showing it using the older route, so that is how the main RN 12 file goes, and the bypass is RN 12Pos.
 - RN 20's route in Córdoba is per GIS; Eventos de las rutas is unclear east of ElpGon. However, the left turn westbound at BvSanJuan_W cannot be made, and the right turn eastbound is made using Montevideo and Belgrano.
-- RN 1V26 seems to be unsigned (as of 2014).
+- RN 1V26 seems to be unsigned (as of 2014), although [an old sign](https://www.google.com/maps/@-45.9337229,-69.9193133,3a,15y,128.16h,87.99t/data=!3m6!1e1!3m4!1sJzSkUKpH6DYx59pbOV00Jg!2e0!7i13312!8i6656?entry=ttu) remained in Chubut Province (not part of RN 1V26) from when it was part of RN 26.
 - RN 38 is shown going thru downtown Cosquín on GIS and Eventos de las rutas.
 - RN 1V38 [is signed](https://www.google.com/maps/@-27.3714294,-65.5650386,3a,17.1y,138.3h,105.74t/data=!3m6!1e1!3m4!1sc54ghIMfna99TCsEOYysSQ!2e0!7i16384!8i8192?entry=ttu).
 - RN 40Sus is shown on GIS using Catamarca in Susques, but the street is closed at its west end. Instead it is mapped [as signed](https://www.google.com/maps/@-23.3993213,-66.3676129,3a,15y,27.24h,78.84t/data=!3m6!1e1!3m4!1sfdrgWA0Yk1Kq5SgqjqdS8g!2e0!7i16384!8i8192?entry=ttu).
