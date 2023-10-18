@@ -1,5 +1,5 @@
 ﻿**NAME:**
-Peru Carreteras Nacionales
+Peru Red Vial Nacional
 
 **FORUM THREAD:**
 - 
@@ -7,7 +7,9 @@ Peru Carreteras Nacionales
 
 **SOURCES:**
 - https://es.wikipedia.org/wiki/Categor%C3%ADa:Carreteras_de_Per%C3%BA
+- https://portal.mtc.gob.pe/transportes/caminos/rutas.html
+- https://portal.mtc.gob.pe/transportes/caminos/normas_carreteras/mapas_viales.html
 
 
 **NOTES TO ROUTES:**
-- Are routes signed?
+- 
