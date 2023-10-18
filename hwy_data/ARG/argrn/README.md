@@ -26,7 +26,9 @@
 - RN 1V26 seems to be unsigned (as of 2014), although [an old sign](https://www.google.com/maps/@-45.9337229,-69.9193133,3a,15y,128.16h,87.99t/data=!3m6!1e1!3m4!1sJzSkUKpH6DYx59pbOV00Jg!2e0!7i13312!8i6656?entry=ttu) remained in Chubut Province (not part of RN 1V26) from when it was part of RN 26.
 - RN 38 is shown going thru downtown Cosquín on GIS and Eventos de las rutas.
 - RN 1V38 [is signed](https://www.google.com/maps/@-27.3714294,-65.5650386,3a,17.1y,138.3h,105.74t/data=!3m6!1e1!3m4!1sc54ghIMfna99TCsEOYysSQ!2e0!7i16384!8i8192?entry=ttu).
-- RN 40's route on GIS goes directly from Avenida de las Americas to Avenida San Martin, but the extra turns seem to be signed (the one at AvAme_N [definitely is](https://www.google.com/maps/@-26.8043966,-66.07165,3a,15y,55.63h,88.03t/data=!3m6!1e1!3m4!1sOePL9r3wc4jAa611qbpTlA!2e0!7i16384!8i8192?entry=ttu)).
+- RN 40's route on GIS and Eventos de las rutas goes directly from Avenida de las Americas to Avenida San Martin, but the extra turns seem to be signed (the one at AvAme_N [definitely is](https://www.google.com/maps/@-26.8043966,-66.07165,3a,15y,55.63h,88.03t/data=!3m6!1e1!3m4!1sOePL9r3wc4jAa611qbpTlA!2e0!7i16384!8i8192?entry=ttu)).
+- RN 40 is shown on GIS and Eventos de las rutas as going thru downtown Santa Maria and rejoining at OldRN40, but the signed route (which is unclear south of AvVicSaa_E, especially southbound) is mapped.
+- RN 40's northbound route thru Cafayate is unclear (it may use Nuestra Señora del Rosario).
 - RN 40Sus is shown on GIS using Catamarca in Susques, but the street is closed at its west end. Instead it is mapped [as signed](https://www.google.com/maps/@-23.3993213,-66.3676129,3a,15y,27.24h,78.84t/data=!3m6!1e1!3m4!1sfdrgWA0Yk1Kq5SgqjqdS8g!2e0!7i16384!8i8192?entry=ttu).
 - RN 1S40 and RN 2S40 seem to be unsigned.
 - RN 1V40 [is signed](https://www.google.com/maps/@-24.2176037,-66.3203401,3a,16.7y,315.11h,85.34t/data=!3m6!1e1!3m4!1siowPiWD_giS60fded_4iaw!2e0!7i16384!8i8192?entry=ttu).
