@@ -568,6 +568,9 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2023-10-21;Czechia;I11;cze.i011;Route relocated from through Opava and onto bypass from west of Jaktař to Těšínská (III4642) east of Opava
+2023-10-21;Czechia;I11;cze.i011;Route truncated at east end from the Slovakian border to I68 at Nebory (I68 now)
+2023-10-21;Czechia;I68;cze.i068;Route completely relocated from D48's Tošanovice exit to Nebory (mainly II474 now), and onto new expressway from D48's Třanovice exit to Nebory, and absorbing former I11 up to the Slovakian border
 2023-09-26;Czechia;D7 (Louny);cze.d007lou;New Route
 2023-08-29;Czechia;I11;cze.i011;Route relocated from through Doudleby nad Orlicí and onto new bypass from Rudé armády west of Doudleby nad Orlicí to roundabout with I14
 2023-08-28;Czechia;I47 (Hranice na Moravě);cze.i047;Route extended at west end from Velká Dlážka roundabout to I55
@@ -1188,6 +1191,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2023-10-21;(Germany) Bavaria;St2056;deuby.st2056;Route truncated at west end from north of Lengenfeld to east of Lengenfeld (St2057 now)
+2023-10-21;(Germany) Bavaria;St2057;deuby.st2057;Route relocated from through Lengenfeld and onto bypass from Gewerbering to Streicherhof
 2023-09-26;(Germany) Bavaria;B15a;deuby.b015a;Route extended at north end from St2078 to RO19
 2023-09-26;(Germany) Bavaria;B15n;deuby.b015n;Route extended at south end from exit 7 to exit 8
 2023-09-13;(Germany) Bavaria;B2 (Weilheim);deuby.b002wei;Route relocated from through (now closed) Olympiastraße tunnel section, and onto Michael-Fischer-Straße and A95 at Eschenlohe
@@ -1316,6 +1321,7 @@ date;region;route;root;description
 2019-10-18;(Germany) Hamburg;A253;;Route deleted (B75 now)
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2023-10-21;(Germany) Hesse;B252 (Main);deuhe.b252;Route relocated from through Dorfitter and onto eastern bypass
 2022-12-24;(Germany) Hesse;B80 (Bad Karlshafen);deuhe.b080;Route extended at west end from Bremer Straße in Bad Karlshafen to border with NW (former B83)
 2022-12-24;(Germany) Hesse;B83 (Hofgeismar);deuhe.b083hof;Route truncated at north end from Bad Karlshafen to K74 south of Bad Karlshafen and reextended onto new bypass to the border with NW
 2022-12-24;(Germany) Hesse;B7 (Calden);deuhe.b007cal;New Route
@@ -4718,6 +4724,18 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2023-10-21;Turkey;D805 (Suluova);tur.d100;Route deleted (D100 now)
+2023-10-21;Turkey;D100;tur.d100;Route relocated from through Çeltekmadeni and onto western bypass from Kayadüzü (D795) to Hacıbayram
+2023-10-21;Turkey;D100;tur.e80;Route relocated from through Çeltekmadeni and onto western bypass from Kayadüzü (D795) to Hacıbayram
+2023-10-21;Turkey;D080;tur.d080;Route relocated from old alignment close to the river to new alignment from east of Horasan to east of the Karakurt Baraj Gölü barrage
+2023-10-21;Turkey;D957;tur.d957;Route truncated at south end from Karakurt to south of Mescitli
+2023-10-21;Turkey;E691;tur.e691;Route relocated from old alignment close to the river to new alignment from east of Horasan to D080
+2023-10-21;Turkey;D052 (Erzurum);tur.d100;Route deleted (D100 now)
+2023-10-21;Turkey;D100;tur.d100;Route relocated from through Erzurum and onto northern bypass
+2023-10-21;Turkey;D260 (Erzurum);tur.d260erz;New Route (former D100 route through Erzurum)
+2023-10-21;Turkey;D320;tur.d320;Route relocated from through Akhan and onto Denizli bypass from juntion with I20-09 to east of Kale
+2023-10-21;Turkey;D585;tur.d585;Route relocated from through Denizli and onto bypass from north of Kumkisik to Cankurtaran
+2023-10-21;Turkey;E87;tur.e87;Route relocated from through Denizli and onto bypass from juntion with I20-09 to Cankurtaran
 2023-09-13;Turkey;O33 (Horozgediği (branch));tur.o033hor;New Route
 2023-08-04;Turkey;O1 (Libadiye (branch));;Route deleted
 2023-08-04;Turkey;O1 (Ulubatlı Hasan (branch));;Route deleted
@@ -7329,6 +7347,9 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2023-10-18;(USA) Texas;US 83;tx.us083;Removed from US 83 Business between its north end and its ToUS83 point, and an unnumbered direct connector east of that point to the La Joya Bypass, and relocated onto the La Joya Bypass.
+2023-10-18;(USA) Texas;US 83 Business (McAllen);tx.us083busmca;Extended from a point labeled ToUS83 to the west end of the La Joya Bypass.
+2023-10-18;(USA) Texas;TX Loop 48;;Route deleted.
 2023-03-19;(USA) Texas;TX Loop 335 ((Southwest) Amarillo);tx.lp0335swa;Route added.
 2023-03-11;(USA) Texas;I-35E;tx.i035e;Waypoint label 428C moved from the I-30 west split (now labeled 428B) to Commerce St.
 2023-03-11;(USA) Texas;US 77;tx.us077;Waypoint label I-35E(428C) moved from the I-30 west split (now labeled I-35E(428B)) to Commerce St.
