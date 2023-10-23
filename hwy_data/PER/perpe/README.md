@@ -11,7 +11,8 @@ Notes on routes:
 * PE-02 [is signed](https://www.google.com/maps/@-5.1032909,-81.0664084,3a,15y,314.26h,79.53t/data=!3m6!1e1!3m4!1sasTySbpQ15ZsQz9ENlZ14Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
-* PE-14A [is signed](https://www.google.com/maps/@-9.4849449,-78.2734422,3a,15y,336.93h,94.01t/data=!3m6!1e1!3m4!1sXPM46bLweh63eaw8qBYEhQ!2e0!7i16384!8i8192?entry=ttu) (erroneously here as a departamental route).
+* PE-10A [is signed](https://www.google.com/maps/@-8.1022167,-78.9466604,3a,15y,183.77h,75.96t/data=!3m6!1e1!3m4!1s811146UZWc7h_eiJBIPCOQ!2e0!7i16384!8i8192?entry=ttu).
+* PE-14A [is signed](https://www.google.com/maps/@-9.4849449,-78.2734422,3a,15y,336.93h,94.01t/data=!3m6!1e1!3m4!1sXPM46bLweh63eaw8qBYEhQ!2e0!7i16384!8i8192?entry=ttu) (erroneously here as a departmental route).
 * PE-16 [is signed](https://www.google.com/maps/@-10.6579088,-77.8076411,3a,18.4y,25.42h,94.68t/data=!3m6!1e1!3m4!1sQM_97bqSkKwGovhFEvs4XQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-18 [is signed](https://www.google.com/maps/@-11.4096992,-77.3652705,3a,15y,264.03h,81.56t/data=!3m6!1e1!3m4!1sZW0Cvopt2WSUuTDML0xkJw!2e0!7i16384!8i8192?entry=ttu).
 * PE-20A [is signed](https://www.google.com/maps/@-10.8016613,-76.2385108,3a,15y,235.15h,75.64t/data=!3m6!1e1!3m4!1spGTu8dV8j0NEz5U7BFqWKA!2e0!7i16384!8i8192?entry=ttu).
