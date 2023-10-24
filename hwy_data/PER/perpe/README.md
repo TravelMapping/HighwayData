@@ -1,8 +1,8 @@
 Peru Red Vial Nacional
 
 Sources:
-* https://portal.mtc.gob.pe/transportes/caminos/rutas.html
-* https://portal.mtc.gob.pe/transportes/caminos/normas_carreteras/mapas_viales.html
+* Definitions: https://portal.mtc.gob.pe/transportes/caminos/rutas.html https://www.gob.pe/institucion/mtc/colecciones/3142-clasificador-de-rutas-del-sistema-nacional-de-carreteras-sinac-d-s-n-011-2016-mtc
+* Maps: https://portal.mtc.gob.pe/transportes/caminos/normas_carreteras/mapas_viales.html https://www.gob.pe/institucion/mtc/informes-publicaciones/4656456-mapas-viales-departamentales-del-sinac-2023-d-s-n-011-2016-mtc
 
 Notes on routes:
 * PE-1N thru Chimbote is shown in official sources using Avenida Pescadores and Avenida Pardo in one direction (probably southbound), but this does not seem to be signed.
