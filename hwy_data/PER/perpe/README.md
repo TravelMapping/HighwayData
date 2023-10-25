@@ -19,3 +19,4 @@ Notes on routes:
 * PE-16 [is signed](https://www.google.com/maps/@-10.6579088,-77.8076411,3a,18.4y,25.42h,94.68t/data=!3m6!1e1!3m4!1sQM_97bqSkKwGovhFEvs4XQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-18 [is signed](https://www.google.com/maps/@-11.4096992,-77.3652705,3a,15y,264.03h,81.56t/data=!3m6!1e1!3m4!1sZW0Cvopt2WSUuTDML0xkJw!2e0!7i16384!8i8192?entry=ttu).
 * PE-20A [is signed](https://www.google.com/maps/@-10.8016613,-76.2385108,3a,15y,235.15h,75.64t/data=!3m6!1e1!3m4!1spGTu8dV8j0NEz5U7BFqWKA!2e0!7i16384!8i8192?entry=ttu).
+* PE-22 [is signed](https://www.google.com/maps/@-11.8685567,-76.4258215,3a,38.6y,31.5h,96.22t/data=!3m6!1e1!3m4!1sgvaWEjbD6-2JhSIibOnZgA!2e0!7i16384!8i8192?entry=ttu).
