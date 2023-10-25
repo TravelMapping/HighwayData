@@ -28,5 +28,8 @@ Notes on routes:
 * PE-24 [is signed](https://www.google.com/maps/@-12.2339191,-75.6380545,3a,15y,302.83h,79.69t/data=!3m6!1e1!3m4!1sJnnNiEHLBbBumwpTZGGe2Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-24A [is signed](https://www.google.com/maps/@-11.9151496,-75.3245691,3a,15y,62.82h,80.79t/data=!3m6!1e1!3m4!1scHzCVidWBAjQ6IayZOLxpQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-26 [is signed](https://www.google.com/maps/@-13.420477,-75.9641756,3a,26.6y,186.45h,73.47t/data=!3m6!1e1!3m4!1s0eIY7ScPq1AUNJXXt0ArHQ!2e0!7i16384!8i8192?entry=ttu).
+* PE-26B [is signed](https://www.google.com/maps/@-13.0788633,-74.2308938,3a,15.2y,318.81h,83.67t/data=!3m6!1e1!3m4!1shkdrcnR1zzUdpDFeUkzuNg!2e0!7i16384!8i8192?entry=ttu).
+* PE-28A [is signed](https://www.google.com/maps/@-13.3746122,-74.9395423,3a,41.1y,162.32h,97.85t/data=!3m6!1e1!3m4!1sREdzCdMgpumj_7Wm6JmptA!2e0!7i16384!8i8192?entry=ttu) (the other side of the sign has its former number, PE-24).
+* PE-28B [is signed](https://www.google.com/maps/@-13.0763964,-74.2215464,3a,15y,55.59h,89.95t/data=!3m6!1e1!3m4!1sdqU0HVDYAa-HbCp5Yoeenw!2e0!7i16384!8i8192?entry=ttu) with a standalone shield!
 * 
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
