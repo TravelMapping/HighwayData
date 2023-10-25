@@ -13,6 +13,7 @@ Notes on routes:
 * PE-3SA [is signed as JU-105](https://www.google.com/maps/@-11.7624099,-75.5186047,3a,42.7y,276.3h,86.79t/data=!3m6!1e1!3m4!1sN2_TAgClAPFmMEsjabgl8w!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SB [is signed](https://www.google.com/maps/@-11.8121338,-75.4728247,3a,15y,258.47h,79.98t/data=!3m6!1e1!3m4!1spNEedYwzD05qOOgDzHW8GQ!2e0!7i16384!8i8192?entry=ttu), including [on what is officially 3SZ](https://www.google.com/maps/@-12.1289537,-75.2489238,3a,15y,46.44h,78.3t/data=!3m6!1e1!3m4!1szie2r0ZjHHU2UfKZuBJ89w!2e0!7i16384!8i8192?entry=ttu) (since 2018).
 * PE-3SD [appears to be signed](https://www.google.com/maps/@-12.2999567,-75.0833388,3a,15y,96.99h,91.68t/data=!3m6!1e1!3m4!1sM5L-IenBR6LALM6pRzrtnA!2e0!7i16384!8i8192?entry=ttu).
+* PE-3SE [is signed](https://www.google.com/maps/@-13.6841572,-73.1298072,3a,15y,159.15h,85.91t/data=!3m6!1e1!3m4!1syyUw0EKstnu4noRXbyd0-Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
@@ -31,5 +32,7 @@ Notes on routes:
 * PE-26B [is signed](https://www.google.com/maps/@-13.0788633,-74.2308938,3a,15.2y,318.81h,83.67t/data=!3m6!1e1!3m4!1shkdrcnR1zzUdpDFeUkzuNg!2e0!7i16384!8i8192?entry=ttu).
 * PE-28A [is signed](https://www.google.com/maps/@-13.3746122,-74.9395423,3a,41.1y,162.32h,97.85t/data=!3m6!1e1!3m4!1sREdzCdMgpumj_7Wm6JmptA!2e0!7i16384!8i8192?entry=ttu) (the other side of the sign has its former number, PE-24).
 * PE-28B [is signed](https://www.google.com/maps/@-13.0763964,-74.2215464,3a,15y,55.59h,89.95t/data=!3m6!1e1!3m4!1sdqU0HVDYAa-HbCp5Yoeenw!2e0!7i16384!8i8192?entry=ttu) with a standalone shield!
+* PE-30A [is signed](https://www.google.com/maps/@-14.84068,-74.934016,3a,15y,38.26h,78.75t/data=!3m6!1e1!3m4!1skkBQOHOIc7ek9ZoyToJIlw!2e0!7i16384!8i8192?entry=ttu).
+* PE-30B [is signed](https://www.google.com/maps/@-14.2145164,-73.536159,3a,15.1y,338.9h,68.04t/data=!3m6!1e1!3m4!1ssigYxtGStKW4nGbSm27nfA!2e0!7i16384!8i8192?entry=ttu). It is also [signed](https://www.google.com/maps/@-13.6590381,-73.3822057,3a,15y,8.76h,90.65t/data=!3m6!1e1!3m4!1siTLm6Vx_wkaeeDiWyHq3GQ!2e0!7i16384!8i8192?entry=ttu) at its east end, even though sources show it using the next bridge to the east to reach PE-3S.
 * 
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
