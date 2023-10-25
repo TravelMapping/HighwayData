@@ -14,6 +14,7 @@ Notes on routes:
 * PE-3SB [is signed](https://www.google.com/maps/@-11.8121338,-75.4728247,3a,15y,258.47h,79.98t/data=!3m6!1e1!3m4!1spNEedYwzD05qOOgDzHW8GQ!2e0!7i16384!8i8192?entry=ttu), including [on what is officially 3SZ](https://www.google.com/maps/@-12.1289537,-75.2489238,3a,15y,46.44h,78.3t/data=!3m6!1e1!3m4!1szie2r0ZjHHU2UfKZuBJ89w!2e0!7i16384!8i8192?entry=ttu) (since 2018).
 * PE-3SD [appears to be signed](https://www.google.com/maps/@-12.2999567,-75.0833388,3a,15y,96.99h,91.68t/data=!3m6!1e1!3m4!1sM5L-IenBR6LALM6pRzrtnA!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SE [is signed](https://www.google.com/maps/@-13.6841572,-73.1298072,3a,15y,159.15h,85.91t/data=!3m6!1e1!3m4!1syyUw0EKstnu4noRXbyd0-Q!2e0!7i16384!8i8192?entry=ttu).
+* PE-3SV [is signed](https://www.google.com/maps/@-13.5534864,-72.8136791,3a,15y,320.59h,81.46t/data=!3m6!1e1!3m4!1syCQq8aBiyPqh1ex7EUmFeQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
