@@ -10,6 +10,9 @@ Notes on routes:
 * PE-1NJ [is signed](https://www.google.com/maps/@-6.6745808,-79.900585,3a,15y,222.88h,82.95t/data=!3m6!1e1!3m4!1srRDKmPdqq8mBaNgW_AV8BA!2e0!7i16384!8i8192?entry=ttu), including [on the new bypass of Piura](https://www.google.com/maps/@-5.1854085,-80.5665495,3a,15y,167.24h,73.38t/data=!3m6!1e1!3m4!1sc2-vPowIvejrO7yzV8o3ZQ!2e0!7i16384!8i8192?entry=ttu) (kmposted separately from the intersection with old PE-1NJ).
 * PE-1NN [is signed](https://www.google.com/maps/@-4.8864994,-80.6979898,3a,15.9y,7.22h,90.16t/data=!3m6!1e1!3m4!1sCwbcSh29pJdClmoMgEIIfw!2e0!7i16384!8i8192?entry=ttu).
 * PE-02 [is signed](https://www.google.com/maps/@-5.1032909,-81.0664084,3a,15y,314.26h,79.53t/data=!3m6!1e1!3m4!1sasTySbpQ15ZsQz9ENlZ14Q!2e0!7i16384!8i8192?entry=ttu).
+* PE-3SA [is signed as JU-105](https://www.google.com/maps/@-11.7624099,-75.5186047,3a,42.7y,276.3h,86.79t/data=!3m6!1e1!3m4!1sN2_TAgClAPFmMEsjabgl8w!2e0!7i16384!8i8192?entry=ttu).
+* PE-3SB [is signed](https://www.google.com/maps/@-11.8121338,-75.4728247,3a,15y,258.47h,79.98t/data=!3m6!1e1!3m4!1spNEedYwzD05qOOgDzHW8GQ!2e0!7i16384!8i8192?entry=ttu), including [on what is officially 3SZ](https://www.google.com/maps/@-12.1289537,-75.2489238,3a,15y,46.44h,78.3t/data=!3m6!1e1!3m4!1szie2r0ZjHHU2UfKZuBJ89w!2e0!7i16384!8i8192?entry=ttu) (since 2018).
+* PE-3SD [appears to be signed](https://www.google.com/maps/@-12.2999567,-75.0833388,3a,15y,96.99h,91.68t/data=!3m6!1e1!3m4!1sM5L-IenBR6LALM6pRzrtnA!2e0!7i16384!8i8192?entry=ttu).
 * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
@@ -22,5 +25,8 @@ Notes on routes:
 * PE-20A [is signed](https://www.google.com/maps/@-10.8016613,-76.2385108,3a,15y,235.15h,75.64t/data=!3m6!1e1!3m4!1spGTu8dV8j0NEz5U7BFqWKA!2e0!7i16384!8i8192?entry=ttu).
 * PE-22 [is signed](https://www.google.com/maps/@-11.8685567,-76.4258215,3a,38.6y,31.5h,96.22t/data=!3m6!1e1!3m4!1sgvaWEjbD6-2JhSIibOnZgA!2e0!7i16384!8i8192?entry=ttu).
 * PE-22B [is signed](https://www.google.com/maps/@-11.3956279,-75.8808896,3a,15y,8.7h,80.52t/data=!3m6!1e1!3m4!1sdZbyYRHLc1EVpcATtCdxrg!2e0!7i16384!8i8192?entry=ttu).
+* PE-24 [is signed](https://www.google.com/maps/@-12.2339191,-75.6380545,3a,15y,302.83h,79.69t/data=!3m6!1e1!3m4!1sJnnNiEHLBbBumwpTZGGe2Q!2e0!7i16384!8i8192?entry=ttu).
+* PE-24A [is signed](https://www.google.com/maps/@-11.9151496,-75.3245691,3a,15y,62.82h,80.79t/data=!3m6!1e1!3m4!1scHzCVidWBAjQ6IayZOLxpQ!2e0!7i16384!8i8192?entry=ttu).
+* PE-26 [is signed](https://www.google.com/maps/@-13.420477,-75.9641756,3a,26.6y,186.45h,73.47t/data=!3m6!1e1!3m4!1s0eIY7ScPq1AUNJXXt0ArHQ!2e0!7i16384!8i8192?entry=ttu).
 * 
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
