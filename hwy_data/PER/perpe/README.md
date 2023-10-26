@@ -38,6 +38,7 @@ Notes on routes:
 * PE-02A
 * PE-02B
 * PE-02C
+* PE-02D (temporary)
 * PE-3N
 * PE-3NA
 * PE-3NB
@@ -45,6 +46,7 @@ Notes on routes:
 * PE-3ND
 * PE-3NE
 * PE-3NG
+* PE-3NJ (temporary)
 * PE-3S
 * PE-3SA [is signed as JU-105](https://www.google.com/maps/@-11.7624099,-75.5186047,3a,42.7y,276.3h,86.79t/data=!3m6!1e1!3m4!1sN2_TAgClAPFmMEsjabgl8w!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SB [is signed](https://www.google.com/maps/@-11.8121338,-75.4728247,3a,15y,258.47h,79.98t/data=!3m6!1e1!3m4!1spNEedYwzD05qOOgDzHW8GQ!2e0!7i16384!8i8192?entry=ttu).
@@ -57,6 +59,16 @@ Notes on routes:
 * PE-3SK
 * PE-3SL
 * PE-3SM
+* PE-3SM (temporary)
+* PE-3SN (temporary)
+* PE-3SÑ (temporary)
+* PE-3SO (temporary)
+* PE-3SP (temporary)
+* PE-3SQ (temporary)
+* PE-3SR (temporary)
+* PE-3SS (temporary)
+* PE-3ST (temporary) [appears to be signed](https://www.google.com/maps/@-15.9479725,-69.8311762,3a,15y,104.44h,87.51t/data=!3m6!1e1!3m4!1ssRjf-MLTZNke4TcOMpVVfw!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-126!
+* PE-3SU (temporary)
 * PE-3SV [is signed](https://www.google.com/maps/@-13.5534864,-72.8136791,3a,15y,320.59h,81.46t/data=!3m6!1e1!3m4!1syCQq8aBiyPqh1ex7EUmFeQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SW
 * PE-3SX
@@ -114,6 +126,7 @@ Notes on routes:
 * PE-20F
 * PE-20H
 * PE-20I
+* PE-20J (temporary)
 * PE-20K
 * PE-22 [is signed](https://www.google.com/maps/@-11.8685567,-76.4258215,3a,38.6y,31.5h,96.22t/data=!3m6!1e1!3m4!1sgvaWEjbD6-2JhSIibOnZgA!2e0!7i16384!8i8192?entry=ttu).
 * PE-22A
@@ -122,6 +135,7 @@ Notes on routes:
 * PE-22D
 * PE-24 [is signed](https://www.google.com/maps/@-12.2339191,-75.6380545,3a,15y,302.83h,79.69t/data=!3m6!1e1!3m4!1sJnnNiEHLBbBumwpTZGGe2Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-24A [is signed](https://www.google.com/maps/@-11.9151496,-75.3245691,3a,15y,62.82h,80.79t/data=!3m6!1e1!3m4!1scHzCVidWBAjQ6IayZOLxpQ!2e0!7i16384!8i8192?entry=ttu).
+* PE-24B (temporary)
 * PE-24C
 * PE-26 [is signed](https://www.google.com/maps/@-13.420477,-75.9641756,3a,26.6y,186.45h,73.47t/data=!3m6!1e1!3m4!1s0eIY7ScPq1AUNJXXt0ArHQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-26A
@@ -155,11 +169,23 @@ Notes on routes:
 * PE-34J
 * PE-34K
 * PE-34L
+* PE-34M (temporary)
+* PE-34N (temporary)
+* PE-34Ñ (temporary)
+* PE-34O (temporary)
+* PE-34P (temporary)
+* PE-34Q (temporary)
+* PE-34R (temporary)
+* PE-34S (temporary)
+* PE-34T (temporary)
+* PE-34U (temporary)
 * PE-36
 * PE-36A [is signed](https://www.google.com/maps/@-16.8568015,-70.5079335,3a,15.4y,244.14h,76.65t/data=!3m6!1e1!3m4!1s4wPDuY331ObHMWFg55Tmzg!2e0!7i16384!8i8192?entry=ttu).
 * PE-36B
 * PE-36C
 * PE-36D
+* PE-36E (temporary)
+* PE-36F (temporary)
 * PE-38
 * PE-38A [is signed](https://www.google.com/maps/@-16.0935922,-69.6264506,3a,15y,291.64h,90.5t/data=!3m6!1e1!3m4!1sEQurHBZbLk9j8c-F9Lt_fQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-40
