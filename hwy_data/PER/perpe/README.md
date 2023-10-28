@@ -5,6 +5,7 @@ Sources:
 * Maps: https://portal.mtc.gob.pe/transportes/caminos/normas_carreteras/mapas_viales.html https://www.gob.pe/institucion/mtc/informes-publicaciones/4656456-mapas-viales-departamentales-del-sinac-2023-d-s-n-011-2016-mtc
 
 Notes on routes:
+* PE-1N is signed.
 * PE-1N thru Chimbote is shown in official sources using Avenida Pescadores and Avenida Pardo in one direction (probably southbound), but this does not seem to be signed.
 * PE-1NA
 * PE-1NB
@@ -47,7 +48,7 @@ Notes on routes:
 * PE-3NE
 * PE-3NG
 * PE-3NJ (temporary)
-* PE-3S
+* PE-3S is signed.
 * PE-3SA [is signed as JU-105](https://www.google.com/maps/@-11.7624099,-75.5186047,3a,42.7y,276.3h,86.79t/data=!3m6!1e1!3m4!1sN2_TAgClAPFmMEsjabgl8w!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SB [is signed](https://www.google.com/maps/@-11.8121338,-75.4728247,3a,15y,258.47h,79.98t/data=!3m6!1e1!3m4!1spNEedYwzD05qOOgDzHW8GQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SC
@@ -79,14 +80,15 @@ Notes on routes:
 * PE-04A
 * PE-04B
 * PE-04C
+* PE-5N [is signed](https://www.google.com/maps/@-10.3245516,-74.9858739,3a,39.7y,220.72h,87.86t/data=!3m6!1e1!3m4!1sIyLGMcPa5A7aMpV8TXrXgg!2e0!7i16384!8i8192?entry=ttu).
 * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
-* PE-5NA
+* PE-5NA [is signed](https://www.google.com/maps/@-9.5571257,-75.0134336,3a,15y,191.96h,88.28t/data=!3m6!1e1!3m4!1sry_quipsp9v5TJvobxrB2A!2e0!7i16384!8i8192?entry=ttu) (on what seems to be a recent realignment).
 * PE-5NB
 * PE-5NC
 * PE-5ND
 * PE-5NE
 * PE-5NG
-* PE-5NH
+* PE-5NH [is signed as HU-106](https://www.google.com/maps/@-9.3829245,-75.0315072,3a,15.9y,18.92h,92.61t/data=!3m6!1e1!3m4!1s97jhUMR0aSXS__pEe-6XHQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-5NI
 * PE-5S
 * PE-5SA
@@ -116,7 +118,7 @@ Notes on routes:
 * PE-18 [is signed](https://www.google.com/maps/@-11.4096992,-77.3652705,3a,15y,264.03h,81.56t/data=!3m6!1e1!3m4!1sZW0Cvopt2WSUuTDML0xkJw!2e0!7i16384!8i8192?entry=ttu).
 * PE-18A
 * PE-18B
-* PE-18C
+* PE-18C [is signed](https://www.google.com/maps/@-8.8248861,-75.0519156,3a,15.4y,152.26h,79.34t/data=!3m6!1e1!3m4!1sEIn2IAwUnzmQgDB6iixlgg!2e0!7i16384!8i8192?entry=ttu).
 * PE-18D
 * PE-20
 * PE-20A [is signed](https://www.google.com/maps/@-10.8016613,-76.2385108,3a,15y,235.15h,75.64t/data=!3m6!1e1!3m4!1spGTu8dV8j0NEz5U7BFqWKA!2e0!7i16384!8i8192?entry=ttu).
