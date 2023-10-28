@@ -568,9 +568,10 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2023-10-22;Czechia;II474;cze.ii474;Route relocated from direct route between Třanovice and Hnojník, and via Horní Tošanovice
 2023-10-21;Czechia;I11;cze.i011;Route relocated from through Opava and onto bypass from west of Jaktař to Těšínská (III4642) east of Opava
 2023-10-21;Czechia;I11;cze.i011;Route truncated at east end from the Slovakian border to I68 at Nebory (I68 now)
-2023-10-21;Czechia;I68;cze.i068;Route completely relocated from D48's Tošanovice exit to Nebory (mainly II474 now), and onto new expressway from D48's Třanovice exit to Nebory, and absorbing former I11 up to the Slovakian border
+2023-10-21;Czechia;I68;cze.i068;Route completely relocated from D48's Tošanovice exit to Nebory (II474 now), and onto new expressway from D48's Třanovice exit to Nebory, and absorbing former I11 up to the Slovakian border
 2023-09-26;Czechia;D7 (Louny);cze.d007lou;New Route
 2023-08-29;Czechia;I11;cze.i011;Route relocated from through Doudleby nad Orlicí and onto new bypass from Rudé armády west of Doudleby nad Orlicí to roundabout with I14
 2023-08-28;Czechia;I47 (Hranice na Moravě);cze.i047;Route extended at west end from Velká Dlážka roundabout to I55
@@ -2510,6 +2511,7 @@ date;region;route;root;description
 2015-10-08;Latvia;E22;lva.e22;Route removed from P136 and relocated onto A12 between P136 and P52_W
 2015-10-08;Latvia;E22;lva.e22;Route removed from A6 and relocated onto A4, P5 and P80 between A4/A6 junction and A6/P80 junction (includes former Turkane section)
 2015-10-08;Latvia;E22;lva.e22tur;Route merged into main E22
+2023-10-27;Lithuania;Marijampolė - Kalvarija Greitkelio;ltu.markalgre;New Route
 2023-04-08;Lithuania;K112;ltu.k112;Route extended at east end from R4402 to east of Didžiasalis
 2023-04-08;Lithuania;K159;ltu.k159;Route extended at north end from Kuršėnai (K203) to Drąsučiai
 2023-04-08;Lithuania;K182;ltu.k182;Route truncated at north end from Vytauto gatvėje (K201) to Geležinkelio gatvėje in Marijampolė
@@ -3059,6 +3061,7 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2023-10-28;Poland;DW645;pol.dw645;Route extended at eastern end from DK61/63 to southern junction with DK63
 2023-10-14;Poland;A18;pol.a018;Route extended from exit 6 to the German border
 2023-10-14;Poland;A18 (Zary);pol.a018;Route deleted (now part of main route)
 2023-10-14;Poland;S61 (Lomza);pol.s061lom;Route extended at south end from exit 3 to exit 1
@@ -3843,6 +3846,13 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2023-10-23;Romania;DJ703L;rou.dj703l;Route shortened at northern end, between DJ703G and ManTur (most of it is now DN7CC)
+2023-10-23;Romania;DN7CC;rou.dn007cc;New route
+2023-10-23;Romania;DJ106D;rou.dj106d;Route extended at northern end from Orlat to Sacel (DN1/7)
+2023-10-23;Romania;DJ106J;rou.dj106j;Route truncated at north end from DJ106E to DJ106D in Orlat
+2023-10-23;Romania;DJ143D;rou.dj143d;New Route
+2023-10-23;Romania;DJ143C;rou.dj143c;New Route
+2023-10-23;Romania;DJ712B;rou.dj712b;Route changed on the northern part, now goes from Vulcana Bai to Pucioasa instead of Pietrari
 2023-10-04;Romania;A3 (Suplacu de Barcău);rou.a003sup;New route
 2023-08-21;Romania;DJ103D;rou.dj103d;Route extended at southern end between DJ104A and DJ102G
 2023-08-21;Romania;DJ102G;rou.dj102g;New Route
@@ -4254,6 +4264,7 @@ date;region;route;root;description
 2019-09-05;(Spain) Castilla-La Mancha;CM45;espcm.cm045;Route extended at west end from CM4111 to A41, and at east end from exit 26 to CM412
 2018-11-04;(Spain) Castille-le-Mancha;N344;espcm.n344;Route truncated at north end from A35 to A31
 2017-10-11;(Spain) Castille-le-Mancha;TO21;espcm.to021;Route extended at east end from southern junction with N403 to A42
+2023-10-28;(Spain) Catalonia;A27;espct.a027;Route extended at north end from exit 23 to exit 29
 2021-06-07;(Spain) Catalonia;N154 (Llivia);espct.n154lli;Route added
 2019-11-07;(Spain) Catalonia;B24;espct.b024;Route extended at west end from N340 east of Vallirana to N340 west of Vallirana
 2019-07-27;(Spain) Catalonia;A2 (Orriols);espct.a002orr;New Route
@@ -4724,6 +4735,28 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2023-10-28;Turkey;D020 (Sile);tur.d020sil;Route truncated at west end from O1 in İstanbul to Nişantepe, and reextended to Kurtköy
+2023-10-28;Turkey;D885;tur.d885;Route relocated from through Erzincan and onto southern bypass
+2023-10-28;Turkey;D887;tur.d887;New Route
+2023-10-26;Turkey;D240 (Bergama);tur.d240ber;Route relocated from through Bergama and onto new southern bypass
+2023-10-26;Turkey;D765;tur.d765;Route relocated from through Kastamonu and onto western bypass from Batı Çevre Yolu to Stadyum Caddesi
+2023-10-26;Turkey;D775;tur.d775;Route extended at north end onto Kastamonu-Sinop Yolu up to D030
+2023-10-23;Turkey;D020 (Main);tur.d020;Route relocated from through Kaynarca and onto new bypass between west of Kaynarca and D565 west of Pınarhisar
+2023-10-22;Turkey;D100 (Çorlu (Europe));tur.d100cor;New Route (split off from main route)
+2023-10-22;Turkey;D100 (Asia);tur.d100;Route truncated at west end from Bulgarian border to O1's east end in İstanbul (partially Büyükçekmece Bayrampaşa Bağlantısı now)
+2023-10-22;Turkey;D100 (Asia);tur.d100;Route reextended at new west end from O1's east end in İstanbul to Harem Kavşağı
+2023-10-22;Turkey;İstanbul 1. Çevre Yolu;tur.o001;Route truncated at west end from exit 1 to 3 (Büyükçekmece Bayrampaşa Bağlantısı now)
+2023-10-22;Turkey;İstanbul 1. Çevre Yolu;tur.o001;Route truncated at east end from exit 15 to 14
+2023-10-22;Turkey;O2 (Esenler (branch));tur.metesebag;Route deleted (Metris Esenler Bağlantısı now)
+2023-10-22;Turkey;O2 (Okmeydanı (branch));tur.hasokmbag;Route deleted (Hasdal Okmeydanı Bağlantısı now)
+2023-10-22;Turkey;O3 (Haramidere (branch));tur.avcharbag;Route deleted (Avcılar Haramidere Bağlantısı now)
+2023-10-22;Turkey;O4 (Kartal (branch));tur.samkarbag;Route deleted (Samandıra Kartal Bağlantısı now)
+2023-10-22;Turkey;O4 (Pendik (branch));tur.kurpenbag;Route deleted (Kurtköy Pendik Bağlantısı now)
+2023-10-22;Turkey;O5 (Görükle (branch));tur.gorbagyolu;Route deleted (Görükle Bağlantı Yolu now)
+2023-10-22;Turkey;D875 (Malatya);tur.d875mal;Route extended from Malatya to D260 at Saraycık
+2023-10-22;Turkey;D330;tur.d330;Route relocated at east end between Bor and D805, from Niğde-Bor Yolu and Devlet Bahçeli Bulvarı, and onto Aksaray - Niğde Yolu
+2023-10-22;Turkey;D080;tur.d080;Route relocated from through Horasan and onto eastern bypass from D100 to I25-11
+2023-10-22;Turkey;E691;tur.e691;Route relocated from through Horasan and onto eastern bypass from D100 to I25-11
 2023-10-21;Turkey;D805 (Suluova);tur.d100;Route deleted (D100 now)
 2023-10-21;Turkey;D100;tur.d100;Route relocated from through Çeltekmadeni and onto western bypass from Kayadüzü (D795) to Hacıbayram
 2023-10-21;Turkey;D100;tur.e80;Route relocated from through Çeltekmadeni and onto western bypass from Kayadüzü (D795) to Hacıbayram
@@ -6241,6 +6274,7 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2023-10-26;(USA) Maryland;MD 978;md.md978;Added route
 2023-09-30;(USA) Maryland;MD 334;md.md334;Truncated at east end from Washington St to end of state maintenance at Clay St
 2023-05-25;(USA) Maryland;MD 97;md.md097;Relocated onto new bypass of Brookeville
 2023-01-25;(USA) Maryland;MD 806 (Thurmont);md.md806thu;Truncated at north end from Roddy Creek Road to Albert Staub Road and truncated at south end to remove MD 550 concurrency.
@@ -6533,6 +6567,11 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2023-10-23;(USA) Nevada;NV 613;nv.nv613;Route reversed to reflect mileposting, exit numbers added to west end
+2023-10-23;(USA) Nevada;NV 147;nv.nv147;West end of route truncated from I-15 to Pecos Road
+2023-10-23;(USA) Nevada;NV 596;nv.nv596;North end of route truncated from Smoke Ranch Road to US 95
+2023-10-23;(USA) Nevada;NV 574;nv.nv574;West end of route truncated from US 95 to US 95 Business
+2023-10-23;(USA) Nevada;NV 582;nv.nv582;North end of route truncated from 8th Street to NV 159
 2023-02-22;(USA) Nevada;NV 121;;Route deleted (removed from primary state system, demoted to secondary system not covered by Travel Mapping)
 2023-02-22;(USA) Nevada;NV 720;nv.nv720;East end extended from Union Ln. at Pasture Rd., north along Pasture Rd. to Churchill Ave. 
 2022-10-08;(USA) Nevada;US 6 Business (Ely);;Route deleted (unsigned)
@@ -6628,6 +6667,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2023-10-21;(USA) New York;NY 12;ny.ny012;Waypoint NY79_E moved about 0.9 mi northeast from the OldNY79 waypoint to a new Chenango River bridge approach.
+2023-10-21;(USA) New York;NY 79;ny.ny079;Removed from "Old Route 79", a truss bridge over the Chenango River, and Pigeon Hill Road, and relocated onto NY 12 and a new Chenango River bridge about 0.6 mi northeast of the existing one, between waypoint OldNY79 and Pigeon Hill Road.
 2023-10-08;(USA) New York;LaSalle Expressway;ny.lasexpy;West end removed from Niagara Scenic Parkway and extended west to connect directly to I-190 at exit 21A.
 2023-09-21;(USA) New York;NY 63;ny.ny063;Relocated northward between waypoints *OldNY63_S & *OldNY63_N to reflect a circa 2008 realignment.
 2023-09-21;(USA) New York;NY 364;ny.ny364;NY245_S and NY245_N point labels swapped.
