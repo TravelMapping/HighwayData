@@ -84,7 +84,7 @@ Notes on routes:
 * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
 * PE-5NA [is signed](https://www.google.com/maps/@-9.5571257,-75.0134336,3a,15y,191.96h,88.28t/data=!3m6!1e1!3m4!1sry_quipsp9v5TJvobxrB2A!2e0!7i16384!8i8192?entry=ttu) (on what seems to be a recent realignment).
 * PE-5NB
-* PE-5NC [is signed](https://www.google.com/maps/@-5.7170782,-78.617038,3a,15y,3.81h,78.47t/data=!3m6!1e1!3m4!1sb51AO9EnTxjxN2Hg16Vlow!2e0!7i16384!8i8192?entry=ttu).
+* PE-5NC [is signed](https://www.google.com/maps/@-5.717445,-78.6175833,3a,15y,105.07h,94.87t/data=!3m6!1e1!3m4!1sPvDU_tlrVQkTkeKWnNp2VA!2e0!7i16384!8i8192?entry=ttu).
 * PE-5ND
 * PE-5NE
 * PE-5NG
