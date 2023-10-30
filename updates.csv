@@ -2338,6 +2338,7 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2023-10-29;Japan;E67 (Eiheiji);jpn.e067eih;Route extended at east end from P127 to N158_Kad
 2023-04-23;Japan;E4A;jpn.e004a;Route extended at north end from N394 to N4
 2023-03-26;Japan;E78 (Nichinan);;Route deleted, merged into E78Miy
 2023-03-26;Japan;E78 (Miyazaki);jpn.e078miy;Route extended south to exit 31, combining with former E78 (Nichinan) section
@@ -4140,6 +4141,14 @@ date;region;route;root;description
 2015-08-20;Slovakia;R2 (Zvolen);svk.r002zvo;New Route
 2015-08-20;Slovakia;R3 (Vrutky);svk.r003vru;New Route
 2015-08-20;Slovakia;R6;svk.r006;Route truncated at north end from II507 to I49
+2023-10-29;Slovenia;G6;svn.g006;Route relocated from through Ilirska Bistrica and onto western bypass from R404 to R632
+2023-10-29;Slovenia;G104;svn.g104;Route relocated from through Mengeš and onto bypass from Slovenska cesta to Gorenjska cesta
+2023-10-29;Slovenia;G104 (Mengeš (spur));svn.g104;Route deleted (merged into main route)
+2023-10-29;Slovenia;G109 (Dolga vas);svn.g109dol;New Route
+2023-10-29;Slovenia;G111;svn.g111;Route truncated at north end from Priključek Ruda to H6 in Izola
+2023-10-29;Slovenia;G114;svn.g114;New Route
+2023-10-29;Slovenia;R225;svn.r225;Route truncated at south end from Prešernova cesta in Mengeš to G104
+2023-10-29;Slovenia;R404;svn.r404;Route relocated from through Ilirska Bistrica and onto northern bypass from Brinškova ulica to G6
 2023-02-19;Slovenia;R656;svn.r656;Route relocated at west end from through Sela and onto new Sela bypass
 2023-02-05;Slovenia;R230;svn.r230;Route relocated from through Ormož and onto eastern bypass from G2 to the Croatian border
 2021-12-02;Slovenia;G104 (Mengeš (spur));svn.g104men;Route extended at north end from R225 to G104 north of Mengeš
@@ -4735,6 +4744,15 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2023-10-30;Turkey;O7 (Sirapinar (branch));tur.kombag;Route deleted (Kömürlük Bağlantısı now)
+2023-10-30;Turkey;D825 (Göksun);;Route removed
+2023-10-30;Turkey;D555 (Salihli);tur.d555sah;Route relocated from through Salihli and onto northern bypass
+2023-10-30;Turkey;D300;tur.d300;Route relocated on the new alignment west of Afyonkarahisar
+2023-10-30;Turkey;D650;tur.d650;Route relocated on the new alignment west of Afyonkarahisar
+2023-10-30;Turkey;E96;tur.e096;Route relocated on the new alignment west of Afyonkarahisar
+2023-10-30;Turkey;AH87;tur.ah087;Route relocated on the new alignment west of Afyonkarahisar
+2023-10-29;Turkey;O31 (Denizli);tur.o031den;New Route
+2023-10-29;Turkey;D565 (Muratlı);;Route removed
 2023-10-28;Turkey;D020 (Sile);tur.d020sil;Route truncated at west end from O1 in İstanbul to Nişantepe, and reextended to Kurtköy
 2023-10-28;Turkey;D885;tur.d885;Route relocated from through Erzincan and onto southern bypass
 2023-10-28;Turkey;D887;tur.d887;New Route
@@ -5779,6 +5797,7 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 31;il.il031;Relocated in Algonquin from Main Street between Huntington Drive and Elmwood Court, west onto new bypass
 2015-09-06;(USA) Illinois;IL 62;il.il062;Extended west in Algongquin, along Algonquin Road from Main Street (old IL 31) to new IL 31 bypass
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
+2023-10-28;(USA) Indiana;IN 252 (Edinburgh);in.in252;Truncated at east end from IN 9 to I-65
 2023-10-21;(USA) Indiana;IN 931 (Lakeville);in.in931lak;Truncated at north end from US 31 to the South Bend city limit
 2022-12-17;(USA) Indiana;I-69 (Wheatonville);in.i069whe;Extended at north end from exit 140A to exit 153
 2022-12-17;(USA) Indiana;IN 19;in.in019;Removed from Main St and Jefferson St in Tipton and relocated onto Park Rd and Ash St between MainSt_N and IN28_E
@@ -6943,6 +6962,7 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2023-10-28;(USA) Ohio;OH 100 Truck ((North) Tiffin);oh.oh100trktif;Removed from Adams St and Monroe St and relocated onto Frost Pkwy, Miami St, Sandusky St, and Hudson St between AdaSt and MonSt points
 2023-07-29;(USA) Ohio;OH 9 Truck (Salem);oh.oh009trksal;Route added
 2023-04-17;(USA) Ohio;OH 423;oh.oh423;Truncated at north end from US 23 to OH 231 (OH 231 includes the deleted segment)
 2023-04-16;(USA) Ohio;OH 319;oh.oh319;Truncated at west end from former railroad crossing to signed endpoint west of Washington St in Burkettsville
