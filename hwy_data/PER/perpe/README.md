@@ -186,13 +186,13 @@ Notes on routes:
 * PE-36A [is signed](https://www.google.com/maps/@-16.8568015,-70.5079335,3a,15.4y,244.14h,76.65t/data=!3m6!1e1!3m4!1s4wPDuY331ObHMWFg55Tmzg!2e0!7i16384!8i8192?entry=ttu).
 * PE-36B
 * PE-36C
-* PE-36D
+* PE-36D [is signed](https://www.google.com/maps/@-17.5800041,-71.0481049,3a,15y,304.52h,77.91t/data=!3m6!1e1!3m4!1svpPod-3Ym3yyJZttH5tipw!2e0!7i16384!8i8192?entry=ttu).
 * PE-36E (temporary)
 * PE-36F (temporary)
-* PE-38
+* PE-38 [is signed](https://www.google.com/maps/@-17.9450691,-70.2563707,3a,15.1y,145.44h,79.71t/data=!3m6!1e1!3m4!1s89hBQZgLpBDBBSStz1akaw!2e0!7i16384!8i8192?entry=ttu).
 * PE-38A [is signed](https://www.google.com/maps/@-16.0935922,-69.6264506,3a,15y,291.64h,90.5t/data=!3m6!1e1!3m4!1sEQurHBZbLk9j8c-F9Lt_fQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-40
-* PE-40A
+* PE-40 [is signed](https://www.google.com/maps/@-17.8615169,-70.0738987,3a,15y,30.84h,85.09t/data=!3m6!1e1!3m4!1sNLL6MS5USVKSzL8y6mxVmA!2e0!7i16384!8i8192?entry=ttu).
+* PE-40A [is signed](https://www.google.com/maps/@-17.543355,-69.5897348,3a,34.8y,150.89h,90.32t/data=!3m6!1e1!3m4!1sOxCx3-NiGxfHURfj7jktjw!2e0!7i16384!8i8192?entry=ttu).
 * 
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
 * What is [R110 133](https://www.google.com/maps/@-14.000614,-75.7679266,3a,15y,137.98h,78.75t/data=!3m6!1e1!3m4!1sD7P-PRGUIB6_0j01uBf_YQ!2e0!7i16384!8i8192?entry=ttu)?
