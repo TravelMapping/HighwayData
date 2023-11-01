@@ -90,8 +90,8 @@ Notes on routes:
 * PE-5NG
 * PE-5NH [is signed as HU-106](https://www.google.com/maps/@-9.3829245,-75.0315072,3a,15.9y,18.92h,92.61t/data=!3m6!1e1!3m4!1s97jhUMR0aSXS__pEe-6XHQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-5NI
-* PE-5S
-* PE-5SA
+* PE-5S [is signed](https://www.google.com/maps/@-11.3316978,-74.5313809,3a,34.6y,180.84h,90.85t/data=!3m6!1e1!3m4!1sjqrHe06O2bDpLkxDFJI8RQ!2e0!7i16384!8i8192?entry=ttu). There is no imagery available near the east end, so it is not known whether any signs exist in or south of Poyeni (the 2023 map of Junín shows an endpoint about 1/3 of the way to Tsoroja).
+* PE-5SA [is signed](https://www.google.com/maps/@-11.13771,-74.3057085,3a,31.5y,204.91h,86.66t/data=!3m6!1e1!3m4!1sLfbBInH5hCM0NqRB87H9yg!2e0!7i16384!8i8192?entry=ttu).
 * PE-5SB
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
@@ -145,7 +145,7 @@ Notes on routes:
 * PE-28 
 * PE-28A [is signed](https://www.google.com/maps/@-13.3746122,-74.9395423,3a,41.1y,162.32h,97.85t/data=!3m6!1e1!3m4!1sREdzCdMgpumj_7Wm6JmptA!2e0!7i16384!8i8192?entry=ttu) (the other side of the sign has its former number, PE-24).
 * PE-28B [is signed](https://www.google.com/maps/@-13.0763964,-74.2215464,3a,15y,55.59h,89.95t/data=!3m6!1e1!3m4!1sdqU0HVDYAa-HbCp5Yoeenw!2e0!7i16384!8i8192?entry=ttu) with a standalone shield!
-* PE-28C
+* PE-28C [is signed](https://www.google.com/maps/@-11.3461845,-74.5232496,3a,15y,176.06h,83.24t/data=!3m6!1e1!3m4!1st-8yFl6q0I56GME-SyJ2LQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-28D
 * PE-28E
 * PE-28F
