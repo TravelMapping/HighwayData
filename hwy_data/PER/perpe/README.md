@@ -41,7 +41,15 @@ Notes on routes:
 * PE-02C
 * PE-02D (temporary)
 * PE-3N [is signed](https://www.google.com/maps/@-9.8630217,-76.6104044,3a,31y,235.9h,87.28t/data=!3m6!1e1!3m4!1sl-NFafNQaHSripKjADwGHA!2e0!7i13312!8i6656?entry=ttu).
-* PE-3NA
+* PE-3N's route thru La Unión is from the 2016 district map. There may be a one-way pair as Google Maps shows, but it's unclear from the available 2014 imagery (or one [2017 view](https://www.google.com/maps/@-9.8323051,-76.8026491,3a,15y,149.42h,100.03t/data=!3m8!1e1!3m6!1sAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN%3Dw203-h100-k-no-pi0-ya335.1366-ro-0-fo100!7i8704!8i4352?entry=ttu)).
+* PE-3N's route thru Huallanca is from the 2016 district map, but with a one-way pair between the two shaping points.
+* PE-3N's route thru Huandoval is from the 2016 district map.
+* PE-3N's route thru Inaco is from the 2016 Huacaschuque district map.
+* PE-3N's route thru Pallasca is from the 2016 district map.
+* PE-3N's route thru Santa Clara de Tulpo is from the 2016 Mollebamba district map.
+* PE-3N's route thru Angasmarca is from the 2016 district map.
+* PE-3N's route thru Santiago de Chuco is from the 2016 district map, but with a one-way pair.
+* PE-3NA [is signed](https://www.google.com/maps/@-8.6988413,-77.9605119,3a,31.5y,342.29h,94.03t/data=!3m6!1e1!3m4!1sExAsRbhX3OuvYO2WLJhmHg!2e0!7i16384!8i8192?entry=ttu).
 * PE-3NB
 * PE-3NC
 * PE-3ND
@@ -49,8 +57,6 @@ Notes on routes:
 * PE-3NG
 * PE-3NJ (temporary)
 * PE-3S is signed.
-* PE-3S's route thru La Unión is from the 2016 district map. There may be a one-way pair as Google Maps shows, but it's unclear from the available 2014 imagery (or one [2017 view](https://www.google.com/maps/@-9.8323051,-76.8026491,3a,15y,149.42h,100.03t/data=!3m8!1e1!3m6!1sAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN%3Dw203-h100-k-no-pi0-ya335.1366-ro-0-fo100!7i8704!8i4352?entry=ttu)).
-* PE-3S's route thru Huallanca is from the 2016 district map, but with a one-way pair between the two shaping points
 * PE-3SA [is signed as JU-105](https://www.google.com/maps/@-11.7624099,-75.5186047,3a,42.7y,276.3h,86.79t/data=!3m6!1e1!3m4!1sN2_TAgClAPFmMEsjabgl8w!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SB [is signed](https://www.google.com/maps/@-11.8121338,-75.4728247,3a,15y,258.47h,79.98t/data=!3m6!1e1!3m4!1spNEedYwzD05qOOgDzHW8GQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SC
@@ -197,4 +203,6 @@ Notes on routes:
 * PE-40A [is signed](https://www.google.com/maps/@-17.543355,-69.5897348,3a,34.8y,150.89h,90.32t/data=!3m6!1e1!3m4!1sOxCx3-NiGxfHURfj7jktjw!2e0!7i16384!8i8192?entry=ttu).
 * 
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
+* LI-122 is...[signed?](https://www.google.com/maps/@-8.1460895,-78.1748796,3a,34.3y,86.94h,56.75t/data=!3m6!1e1!3m4!1sxb5OPdYTGNb-XByIcxURig!2e0!7i13312!8i6656?entry=ttu)
 * What is [R110 133](https://www.google.com/maps/@-14.000614,-75.7679266,3a,15y,137.98h,78.75t/data=!3m6!1e1!3m4!1sD7P-PRGUIB6_0j01uBf_YQ!2e0!7i16384!8i8192?entry=ttu)?
+* How about [RO-21511](https://www.google.com/maps/@-8.4586523,-78.0512474,3a,15y,109.81h,82.22t/data=!3m6!1e1!3m4!1sdMzR_UesXEC-_bUWfo0gBQ!2e0!7i16384!8i8192?entry=ttu)?
