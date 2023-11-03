@@ -54,8 +54,8 @@ Notes on routes:
 * PE-3N's route thru San Marcos is from the 2016 Pedro Galvez district map.
 * PE-3NA [is signed](https://www.google.com/maps/@-8.6988413,-77.9605119,3a,31.5y,342.29h,94.03t/data=!3m6!1e1!3m4!1sExAsRbhX3OuvYO2WLJhmHg!2e0!7i16384!8i8192?entry=ttu).
 * PE-3NB
-* PE-3NC
-* PE-3ND
+* PE-3NC [is signed](https://www.google.com/maps/@-6.5420885,-78.6931841,3a,15y,311.45h,83.12t/data=!3m6!1e1!3m4!1se4P_obnnRAFsLhf2EBQwXA!2e0!7i16384!8i8192?entry=ttu).
+* PE-3ND [is signed](https://www.google.com/maps/@-6.3710993,-78.8085633,3a,15y,161.77h,75.86t/data=!3m6!1e1!3m4!1s54itKuW89bN-vEprBrc9Bg!2e0!7i16384!8i8192?entry=ttu).
 * PE-3NE
 * PE-3NG
 * PE-3NJ (temporary)
@@ -106,7 +106,7 @@ Notes on routes:
 * PE-5SB
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
-* PE-06B
+* PE-06B [is signed](https://www.google.com/maps/@-6.6164343,-78.9517848,3a,15y,238.05h,75.19t/data=!3m6!1e1!3m4!1spiLikoRsbne8enGWudjD5Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-08 [is signed](https://www.google.com/maps/@-7.223606,-78.8463307,3a,15.2y,284.27h,86.78t/data=!3m6!1e1!3m4!1s_kXY5GN_9CLqTr8MjUPKKg!2e0!7i16384!8i8192?entry=ttu).
 * PE-08A [is signed](https://www.google.com/maps/@-7.2219477,-78.8471377,3a,19.5y,90.93h,96.67t/data=!3m6!1e1!3m4!1sySgPCwYRhxyXkFzSVoxdRw!2e0!7i16384!8i8192?entry=ttu).
 * PE-08B [is signed](https://www.google.com/maps/@-7.1406907,-78.3679192,3a,16y,75.28h,73.13t/data=!3m6!1e1!3m4!1sgMA5ZNewInW3hNw33NoShA!2e0!7i16384!8i8192?entry=ttu).
