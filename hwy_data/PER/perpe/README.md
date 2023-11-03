@@ -52,6 +52,9 @@ Notes on routes:
 * PE-3N's route thru Huamachuco is from the 2023 departmental map.
 * PE-3N's route thru Cajabamba is from the 2016 district map, but with a one-way pair.
 * PE-3N's route thru San Marcos is from the 2016 Pedro Galvez district map.
+* PE-3N's route thru Huarmaca is from the 2016 district map.
+* PE-3N's route thru Sondor is from the 2016 district map.
+* PE-3N's route thru Huancabamba is from the 2016 district map.
 * PE-3NA [is signed](https://www.google.com/maps/@-8.6988413,-77.9605119,3a,31.5y,342.29h,94.03t/data=!3m6!1e1!3m4!1sExAsRbhX3OuvYO2WLJhmHg!2e0!7i16384!8i8192?entry=ttu).
 * PE-3NB
 * PE-3NC [is signed](https://www.google.com/maps/@-6.5420885,-78.6931841,3a,15y,311.45h,83.12t/data=!3m6!1e1!3m4!1se4P_obnnRAFsLhf2EBQwXA!2e0!7i16384!8i8192?entry=ttu).
