@@ -49,6 +49,9 @@ Notes on routes:
 * PE-3N's route thru Santa Clara de Tulpo is from the 2016 Mollebamba district map.
 * PE-3N's route thru Angasmarca is from the 2016 district map.
 * PE-3N's route thru Santiago de Chuco is from the 2016 district map, but with a one-way pair.
+* PE-3N's route thru Huamachuco is from the 2023 departmental map.
+* PE-3N's route thru Cajabamba is from the 2016 district map, but with a one-way pair.
+* PE-3N's route thru San Marcos is from the 2016 Pedro Galvez district map.
 * PE-3NA [is signed](https://www.google.com/maps/@-8.6988413,-77.9605119,3a,31.5y,342.29h,94.03t/data=!3m6!1e1!3m4!1sExAsRbhX3OuvYO2WLJhmHg!2e0!7i16384!8i8192?entry=ttu).
 * PE-3NB
 * PE-3NC
@@ -111,6 +114,7 @@ Notes on routes:
 * PE-10
 * PE-10A [is signed](https://www.google.com/maps/@-8.1022167,-78.9466604,3a,15y,183.77h,75.96t/data=!3m6!1e1!3m4!1s811146UZWc7h_eiJBIPCOQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-10B
+* PE-10B [is signed](https://www.google.com/maps/@-7.6872314,-78.0306539,3a,15y,246.49h,76.74t/data=!3m6!1e1!3m4!1sgJRn1gOtzuO5BGfmwtoOJg!2e0!7i16384!8i8192?entry=ttu) on what is actually LI-834, nowhere near actual PE-10B.
 * PE-10C
 * PE-12
 * PE-12A [is signed](https://www.google.com/maps/@-8.6799297,-77.9220574,3a,16.2y,338.17h,80.83t/data=!3m6!1e1!3m4!1syHBFpOCNG9K5k4N8aY1ZWQ!2e0!7i16384!8i8192?entry=ttu).
@@ -204,5 +208,7 @@ Notes on routes:
 * 
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
 * LI-122 is...[signed?](https://www.google.com/maps/@-8.1460895,-78.1748796,3a,34.3y,86.94h,56.75t/data=!3m6!1e1!3m4!1sxb5OPdYTGNb-XByIcxURig!2e0!7i13312!8i6656?entry=ttu)
+* LI-826 on a [strange alternate shield](https://www.google.com/maps/@-7.7080715,-78.0208599,3a,15.2y,328.84h,101.35t/data=!3m6!1e1!3m4!1sjJnKRhxgPIKVtriYn1rp0A!2e0!7i16384!8i8192?entry=ttu)
+* [CA-534](https://www.google.com/maps/@-7.6059395,-78.0888045,3a,15y,242.64h,84.7t/data=!3m6!1e1!3m4!1sXwg1LBBkSjIfGCeOjS64pw!2e0!7i16384!8i8192?entry=ttu)? [CA-540](https://www.google.com/maps/@-7.3799115,-78.1252717,3a,15y,351.19h,86.87t/data=!3m6!1e1!3m4!1slwlBe1BN2kA_DxpNHcLcUg!2e0!7i16384!8i8192?entry=ttu)? [CA-561](https://www.google.com/maps/@-7.445258,-78.1167434,3a,15.5y,207.15h,85.08t/data=!3m6!1e1!3m4!1stwJqz8Pdx9SWfMjIiCVN8A!2e0!7i16384!8i8192?entry=ttu)? [CA-605](https://www.google.com/maps/@-7.6014438,-78.0898226,3a,15y,136.27h,91.29t/data=!3m6!1e1!3m4!1spkZHykhVCqmNqNWwltQsDQ!2e0!7i16384!8i8192?entry=ttu)?
 * What is [R110 133](https://www.google.com/maps/@-14.000614,-75.7679266,3a,15y,137.98h,78.75t/data=!3m6!1e1!3m4!1sD7P-PRGUIB6_0j01uBf_YQ!2e0!7i16384!8i8192?entry=ttu)?
 * How about [RO-21511](https://www.google.com/maps/@-8.4586523,-78.0512474,3a,15y,109.81h,82.22t/data=!3m6!1e1!3m4!1sdMzR_UesXEC-_bUWfo0gBQ!2e0!7i16384!8i8192?entry=ttu)?
