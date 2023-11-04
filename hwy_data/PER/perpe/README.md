@@ -17,14 +17,14 @@ Notes on routes:
 * PE-1NJ [is signed](https://www.google.com/maps/@-6.6745808,-79.900585,3a,15y,222.88h,82.95t/data=!3m6!1e1!3m4!1srRDKmPdqq8mBaNgW_AV8BA!2e0!7i16384!8i8192?entry=ttu), including [on the new bypass of Piura](https://www.google.com/maps/@-5.1854085,-80.5665495,3a,15y,167.24h,73.38t/data=!3m6!1e1!3m4!1sc2-vPowIvejrO7yzV8o3ZQ!2e0!7i16384!8i8192?entry=ttu) (kmposted separately from the intersection with old PE-1NJ).
 * PE-1NK
 * PE-1NL
-* PE-1NM
+* PE-1NM [is signed](https://www.google.com/maps/@-4.4106268,-79.9685767,3a,15.1y,114.52h,84.15t/data=!3m6!1e1!3m4!1sVy-NFPZlmT65V9mGWONFgg!2e0!7i16384!8i8192?entry=ttu).
 * PE-1NN [is signed](https://www.google.com/maps/@-4.8864994,-80.6979898,3a,15.9y,7.22h,90.16t/data=!3m6!1e1!3m4!1sCwbcSh29pJdClmoMgEIIfw!2e0!7i16384!8i8192?entry=ttu).
 * PE-1NÑ
 * PE-1NO
 * PE-1NQ
 * PE-1NR
 * PE-1NS
-* PE-1NT
+* PE-1NT [is signed](https://www.google.com/maps/@-4.5526082,-80.0920306,3a,15.8y,304.56h,69.28t/data=!3m6!1e1!3m4!1srWADUDrq2jBUVhrObIvitQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-1NU
 * PE-1S is signed.
 * PE-1SB
@@ -109,6 +109,7 @@ Notes on routes:
 * PE-5SB
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
+* PE-06A's route thru Cochabamba is from the 2016 district map.
 * PE-06B [is signed](https://www.google.com/maps/@-6.6164343,-78.9517848,3a,15y,238.05h,75.19t/data=!3m6!1e1!3m4!1spiLikoRsbne8enGWudjD5Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-08 [is signed](https://www.google.com/maps/@-7.223606,-78.8463307,3a,15.2y,284.27h,86.78t/data=!3m6!1e1!3m4!1s_kXY5GN_9CLqTr8MjUPKKg!2e0!7i16384!8i8192?entry=ttu).
 * PE-08A [is signed](https://www.google.com/maps/@-7.2219477,-78.8471377,3a,19.5y,90.93h,96.67t/data=!3m6!1e1!3m4!1sySgPCwYRhxyXkFzSVoxdRw!2e0!7i16384!8i8192?entry=ttu).
