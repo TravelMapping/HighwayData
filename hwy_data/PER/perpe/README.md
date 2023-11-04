@@ -113,7 +113,9 @@ Notes on routes:
 * PE-06B [is signed](https://www.google.com/maps/@-6.6164343,-78.9517848,3a,15y,238.05h,75.19t/data=!3m6!1e1!3m4!1spiLikoRsbne8enGWudjD5Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-06B's route thru Catache is from the 2016 district map.
 * PE-08 [is signed](https://www.google.com/maps/@-7.223606,-78.8463307,3a,15.2y,284.27h,86.78t/data=!3m6!1e1!3m4!1s_kXY5GN_9CLqTr8MjUPKKg!2e0!7i16384!8i8192?entry=ttu).
+* PE-08's route thru Chilete is from the 2016 district map.
 * PE-08A [is signed](https://www.google.com/maps/@-7.2219477,-78.8471377,3a,19.5y,90.93h,96.67t/data=!3m6!1e1!3m4!1sySgPCwYRhxyXkFzSVoxdRw!2e0!7i16384!8i8192?entry=ttu).
+* PE-08A [is clearly signed](https://www.google.com/maps/@-7.046068,-78.7461917,3a,36.2y,82.76h,70.71t/data=!3m6!1e1!3m4!1s13uNI8JvuPWJmZuxVfWpcw!2e0!7i16384!8i8192?entry=ttu) along what maps and logs show as various local routes (between SanPab_W and ConPat).
 * PE-08B [is signed](https://www.google.com/maps/@-7.1406907,-78.3679192,3a,16y,75.28h,73.13t/data=!3m6!1e1!3m4!1sgMA5ZNewInW3hNw33NoShA!2e0!7i16384!8i8192?entry=ttu).
 * PE-08C [is signed](https://www.google.com/maps/@-6.2225369,-77.9126883,3a,15.1y,187.95h,80.54t/data=!3m6!1e1!3m4!1sV1aNLM-tWGrFVV5yO0XZfg!2e0!7i16384!8i8192?entry=ttu).
 * PE-10
@@ -216,4 +218,5 @@ Notes on routes:
 * LI-826 on a [strange alternate shield](https://www.google.com/maps/@-7.7080715,-78.0208599,3a,15.2y,328.84h,101.35t/data=!3m6!1e1!3m4!1sjJnKRhxgPIKVtriYn1rp0A!2e0!7i16384!8i8192?entry=ttu)
 * [CA-534](https://www.google.com/maps/@-7.6059395,-78.0888045,3a,15y,242.64h,84.7t/data=!3m6!1e1!3m4!1sXwg1LBBkSjIfGCeOjS64pw!2e0!7i16384!8i8192?entry=ttu)? [CA-540](https://www.google.com/maps/@-7.3799115,-78.1252717,3a,15y,351.19h,86.87t/data=!3m6!1e1!3m4!1slwlBe1BN2kA_DxpNHcLcUg!2e0!7i16384!8i8192?entry=ttu)? [CA-561](https://www.google.com/maps/@-7.445258,-78.1167434,3a,15.5y,207.15h,85.08t/data=!3m6!1e1!3m4!1stwJqz8Pdx9SWfMjIiCVN8A!2e0!7i16384!8i8192?entry=ttu)? [CA-605](https://www.google.com/maps/@-7.6014438,-78.0898226,3a,15y,136.27h,91.29t/data=!3m6!1e1!3m4!1spkZHykhVCqmNqNWwltQsDQ!2e0!7i16384!8i8192?entry=ttu)?
 * What is [R110 133](https://www.google.com/maps/@-14.000614,-75.7679266,3a,15y,137.98h,78.75t/data=!3m6!1e1!3m4!1sD7P-PRGUIB6_0j01uBf_YQ!2e0!7i16384!8i8192?entry=ttu)?
-* How about [RO-21511](https://www.google.com/maps/@-8.4586523,-78.0512474,3a,15y,109.81h,82.22t/data=!3m6!1e1!3m4!1sdMzR_UesXEC-_bUWfo0gBQ!2e0!7i16384!8i8192?entry=ttu)?
+* How about [R0-21511](https://www.google.com/maps/@-8.4586523,-78.0512474,3a,15y,109.81h,82.22t/data=!3m6!1e1!3m4!1sdMzR_UesXEC-_bUWfo0gBQ!2e0!7i16384!8i8192?entry=ttu)?
+* [R06-1204](https://www.google.com/maps/@-7.0531259,-78.7952198,3a,15y,337.59h,76.1t/data=!3m6!1e1!3m4!1sBPetxlPCzh4C8Zp3-bEQ3Q!2e0!7i16384!8i8192?entry=ttu)?
