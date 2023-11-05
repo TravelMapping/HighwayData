@@ -117,6 +117,9 @@ Notes on routes:
 * PE-08A [is signed](https://www.google.com/maps/@-7.2219477,-78.8471377,3a,19.5y,90.93h,96.67t/data=!3m6!1e1!3m4!1sySgPCwYRhxyXkFzSVoxdRw!2e0!7i16384!8i8192?entry=ttu).
 * PE-08A [is clearly signed](https://www.google.com/maps/@-7.046068,-78.7461917,3a,36.2y,82.76h,70.71t/data=!3m6!1e1!3m4!1s13uNI8JvuPWJmZuxVfWpcw!2e0!7i16384!8i8192?entry=ttu) along what maps and logs show as various local routes (between SanPab_W and ConPat).
 * PE-08B [is signed](https://www.google.com/maps/@-7.1406907,-78.3679192,3a,16y,75.28h,73.13t/data=!3m6!1e1!3m4!1sgMA5ZNewInW3hNw33NoShA!2e0!7i16384!8i8192?entry=ttu).
+* PE-08B's eastbound route thru Los Baños del Inca (Jirón Lloque Yupangui) is from the 2016 district map.
+* PE-08B's route thru Leimebamba is from the 2016 district map.
+* PE-08B's route thru Mariscal Benavides is from the 2016 district map.
 * PE-08C [is signed](https://www.google.com/maps/@-6.2225369,-77.9126883,3a,15.1y,187.95h,80.54t/data=!3m6!1e1!3m4!1sV1aNLM-tWGrFVV5yO0XZfg!2e0!7i16384!8i8192?entry=ttu).
 * PE-10
 * PE-10A [is signed](https://www.google.com/maps/@-8.1022167,-78.9466604,3a,15y,183.77h,75.96t/data=!3m6!1e1!3m4!1s811146UZWc7h_eiJBIPCOQ!2e0!7i16384!8i8192?entry=ttu).
@@ -212,7 +215,10 @@ Notes on routes:
 * PE-38A [is signed](https://www.google.com/maps/@-16.0935922,-69.6264506,3a,15y,291.64h,90.5t/data=!3m6!1e1!3m4!1sEQurHBZbLk9j8c-F9Lt_fQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-40 [is signed](https://www.google.com/maps/@-17.8615169,-70.0738987,3a,15y,30.84h,85.09t/data=!3m6!1e1!3m4!1sNLL6MS5USVKSzL8y6mxVmA!2e0!7i16384!8i8192?entry=ttu).
 * PE-40A [is signed](https://www.google.com/maps/@-17.543355,-69.5897348,3a,34.8y,150.89h,90.32t/data=!3m6!1e1!3m4!1sOxCx3-NiGxfHURfj7jktjw!2e0!7i16384!8i8192?entry=ttu).
-* 
+
+Some routes may be unsigned, but are major highways with guide signs and km posts and have been included due to the overall poor state of signage in Peru:
+
+Other notes:
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
 * LI-122 is...[signed?](https://www.google.com/maps/@-8.1460895,-78.1748796,3a,34.3y,86.94h,56.75t/data=!3m6!1e1!3m4!1sxb5OPdYTGNb-XByIcxURig!2e0!7i13312!8i6656?entry=ttu)
 * LI-826 on a [strange alternate shield](https://www.google.com/maps/@-7.7080715,-78.0208599,3a,15.2y,328.84h,101.35t/data=!3m6!1e1!3m4!1sjJnKRhxgPIKVtriYn1rp0A!2e0!7i16384!8i8192?entry=ttu)
