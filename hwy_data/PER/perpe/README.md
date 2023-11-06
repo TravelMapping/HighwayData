@@ -210,6 +210,7 @@ Notes on routes:
 
 Some routes may be unsigned, but are major highways with destination signs and km posts and have been included due to the overall poor state of signage in Peru:
 * PE-1NK
+* PE-1NK's southbound route thru La Unión (Calle Libertad) is from the 2016 district map. Northbound is assumed to use the other direction of the truck detour (Calle Unión).
 * PE-1NL
 * PE-1NR (though the portion between Chulucanas and Morropón seems lower-quality)
 * PE-1NS
