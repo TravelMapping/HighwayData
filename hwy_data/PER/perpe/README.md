@@ -15,17 +15,13 @@ Notes on routes:
 * PE-1NG
 * PE-1NI
 * PE-1NJ [is signed](https://www.google.com/maps/@-6.6745808,-79.900585,3a,15y,222.88h,82.95t/data=!3m6!1e1!3m4!1srRDKmPdqq8mBaNgW_AV8BA!2e0!7i16384!8i8192?entry=ttu), including [on the new bypass of Piura](https://www.google.com/maps/@-5.1854085,-80.5665495,3a,15y,167.24h,73.38t/data=!3m6!1e1!3m4!1sc2-vPowIvejrO7yzV8o3ZQ!2e0!7i16384!8i8192?entry=ttu) (kmposted separately from the intersection with old PE-1NJ).
-* PE-1NK
-* PE-1NL
 * PE-1NM [is signed](https://www.google.com/maps/@-4.4106268,-79.9685767,3a,15.1y,114.52h,84.15t/data=!3m6!1e1!3m4!1sVy-NFPZlmT65V9mGWONFgg!2e0!7i16384!8i8192?entry=ttu).
 * PE-1NN [is signed](https://www.google.com/maps/@-4.8864994,-80.6979898,3a,15.9y,7.22h,90.16t/data=!3m6!1e1!3m4!1sCwbcSh29pJdClmoMgEIIfw!2e0!7i16384!8i8192?entry=ttu).
 * PE-1NÑ
 * PE-1NO
 * PE-1NQ
-* PE-1NR
-* PE-1NS
-* PE-1NT [is signed](https://www.google.com/maps/@-4.5526082,-80.0920306,3a,15.8y,304.56h,69.28t/data=!3m6!1e1!3m4!1srWADUDrq2jBUVhrObIvitQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-1NU
+* PE-1NT [is signed](https://www.google.com/maps/@-4.5526082,-80.0920306,3a,15.8y,304.56h,69.28t/data=!3m6!1e1!3m4!1srWADUDrq2jBUVhrObIvitQ!2e0!7i16384!8i8192?entry=ttu) (but also [as PI-104](https://www.google.com/maps/@-4.6820681,-79.7782761,3a,15y,139.62h,93.35t/data=!3m6!1e1!3m4!1srTMZEWwZ0bfNI2OYZRHZOg!2e0!7i16384!8i8192?entry=ttu)).
+* PE-1NT's route thru Ayabaca is from the 2016 district map, but there may be a one-way pair.
 * PE-1S is signed.
 * PE-1SB
 * PE-1SC [is signed](https://www.google.com/maps/@-13.6086449,-75.3485876,3a,15y,184.69h,91.98t/data=!3m6!1e1!3m4!1srySQ3odRpAA5S0h8jVJ6EA!2e0!7i16384!8i8192?entry=ttu).
@@ -36,9 +32,7 @@ Notes on routes:
 * PE-1SH
 * PE-1SJ [is signed](https://www.google.com/maps/@-17.0272732,-71.6848756,3a,15y,127.09h,80.62t/data=!3m6!1e1!3m4!1s1Q0SlF9z1MMRsdsPj20cow!2e0!7i16384!8i8192?entry=ttu).
 * PE-02 [is signed](https://www.google.com/maps/@-5.1032909,-81.0664084,3a,15y,314.26h,79.53t/data=!3m6!1e1!3m4!1sasTySbpQ15ZsQz9ENlZ14Q!2e0!7i16384!8i8192?entry=ttu).
-* PE-02A
 * PE-02B
-* PE-02C
 * PE-02D (temporary)
 * PE-3N [is signed](https://www.google.com/maps/@-9.8630217,-76.6104044,3a,31y,235.9h,87.28t/data=!3m6!1e1!3m4!1sl-NFafNQaHSripKjADwGHA!2e0!7i13312!8i6656?entry=ttu).
 * PE-3N's route thru La Unión is from the 2016 district map. There may be a one-way pair as Google Maps shows, but it's unclear from the available 2014 imagery (or one [2017 view](https://www.google.com/maps/@-9.8323051,-76.8026491,3a,15y,149.42h,100.03t/data=!3m8!1e1!3m6!1sAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN%3Dw203-h100-k-no-pi0-ya335.1366-ro-0-fo100!7i8704!8i4352?entry=ttu)).
@@ -90,9 +84,7 @@ Notes on routes:
 * PE-3SY
 * PE-3SZ [is signed as PE-3SB](https://www.google.com/maps/@-12.1289537,-75.2489238,3a,15y,46.44h,78.3t/data=!3m6!1e1!3m4!1szie2r0ZjHHU2UfKZuBJ89w!2e0!7i16384!8i8192?entry=ttu) (its pre-2018 number).
 * PE-3SAA
-* PE-04
 * PE-04A
-* PE-04B
 * PE-04C
 * PE-5N [is signed](https://www.google.com/maps/@-10.3245516,-74.9858739,3a,39.7y,220.72h,87.86t/data=!3m6!1e1!3m4!1sIyLGMcPa5A7aMpV8TXrXgg!2e0!7i16384!8i8192?entry=ttu).
 * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
@@ -216,7 +208,17 @@ Notes on routes:
 * PE-40 [is signed](https://www.google.com/maps/@-17.8615169,-70.0738987,3a,15y,30.84h,85.09t/data=!3m6!1e1!3m4!1sNLL6MS5USVKSzL8y6mxVmA!2e0!7i16384!8i8192?entry=ttu).
 * PE-40A [is signed](https://www.google.com/maps/@-17.543355,-69.5897348,3a,34.8y,150.89h,90.32t/data=!3m6!1e1!3m4!1sOxCx3-NiGxfHURfj7jktjw!2e0!7i16384!8i8192?entry=ttu).
 
-Some routes may be unsigned, but are major highways with guide signs and km posts and have been included due to the overall poor state of signage in Peru:
+Some routes may be unsigned, but are major highways with destination signs and km posts and have been included due to the overall poor state of signage in Peru:
+* PE-1NK
+* PE-1NL
+* PE-1NR (though the portion between Chulucanas and Morropón seems lower-quality)
+* PE-1NS
+* PE-1NU
+* PE-02A
+* PE-02A's route thru Canchaque is from the 2016 district map.
+* PE-02C
+* PE-04
+* PE-04B
 
 Other notes:
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
@@ -226,3 +228,5 @@ Other notes:
 * What is [R110 133](https://www.google.com/maps/@-14.000614,-75.7679266,3a,15y,137.98h,78.75t/data=!3m6!1e1!3m4!1sD7P-PRGUIB6_0j01uBf_YQ!2e0!7i16384!8i8192?entry=ttu)?
 * How about [R0-21511](https://www.google.com/maps/@-8.4586523,-78.0512474,3a,15y,109.81h,82.22t/data=!3m6!1e1!3m4!1sdMzR_UesXEC-_bUWfo0gBQ!2e0!7i16384!8i8192?entry=ttu)?
 * [R06-1204](https://www.google.com/maps/@-7.0531259,-78.7952198,3a,15y,337.59h,76.1t/data=!3m6!1e1!3m4!1sBPetxlPCzh4C8Zp3-bEQ3Q!2e0!7i16384!8i8192?entry=ttu)?
+* [R-70](https://www.google.com/maps/@-4.7170964,-79.8329446,3a,21.6y,190.29h,87.44t/data=!3m6!1e1!3m4!1ssl5jsUbVVxoeUQrwqT_DnQ!2e0!7i16384!8i8192?entry=ttu) (also on km 0 post)?
+* [FBT K38](https://www.google.com/maps/@-5.8886726,-79.5405079,3a,21.4y,231.85h,89.34t/data=!3m6!1e1!3m4!1sai5vO_tif7qd8wtefoSx0Q!2e0!7i16384!8i8192?entry=ttu)?
