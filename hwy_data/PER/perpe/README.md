@@ -54,12 +54,10 @@ Notes on routes:
 * PE-3NG
 * PE-3NJ (temporary)
 * PE-3S is signed.
-* PE-3SA [is signed as JU-105](https://www.google.com/maps/@-11.7624099,-75.5186047,3a,42.7y,276.3h,86.79t/data=!3m6!1e1!3m4!1sN2_TAgClAPFmMEsjabgl8w!2e0!7i16384!8i8192?entry=ttu).
+* PE-3SA [is signed](https://www.google.com/maps/@-11.6885459,-75.5658857,3a,15.1y,228.17h,74.79t/data=!3m6!1e1!3m4!1sfHCmaoTjXd0XBi3G0iXUZw!2e0!7i16384!8i8192?entry=ttu), also erroneously as [PE-3S](https://www.google.com/maps/@-11.649105,-75.5925926,3a,15.4y,302.35h,79.37t/data=!3m6!1e1!3m4!1sUZF0QimiystvyvpB4GZBAQ!2e0!7i16384!8i8192?entry=ttu) and [JU-105](https://www.google.com/maps/@-11.7624099,-75.5186047,3a,42.7y,276.3h,86.79t/data=!3m6!1e1!3m4!1sN2_TAgClAPFmMEsjabgl8w!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SB [is signed](https://www.google.com/maps/@-11.8121338,-75.4728247,3a,15y,258.47h,79.98t/data=!3m6!1e1!3m4!1spNEedYwzD05qOOgDzHW8GQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-3SC
-* PE-3SD [appears to be signed](https://www.google.com/maps/@-12.2999567,-75.0833388,3a,15y,96.99h,91.68t/data=!3m6!1e1!3m4!1sM5L-IenBR6LALM6pRzrtnA!2e0!7i16384!8i8192?entry=ttu).
+* PE-3SD [is signed](https://www.google.com/maps/@-12.3104274,-75.0394409,3a,28.4y,212.42h,101.92t/data=!3m8!1e1!3m6!1sAF1QipMLeZAgA5QgyhBWZZbsA8Sjvd9hJ8PVwNQP1zZp!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMLeZAgA5QgyhBWZZbsA8Sjvd9hJ8PVwNQP1zZp%3Dw203-h100-k-no-pi-0-ya252.92688-ro0-fo100!7i10752!8i4814?entry=ttu).
 * PE-3SE [is signed](https://www.google.com/maps/@-13.6841572,-73.1298072,3a,15y,159.15h,85.91t/data=!3m6!1e1!3m4!1syyUw0EKstnu4noRXbyd0-Q!2e0!7i16384!8i8192?entry=ttu).
-* PE-3SF
 * PE-3SG [is signed](https://www.google.com/maps/@-14.8933268,-70.5947571,3a,15y,239.66h,86.08t/data=!3m6!1e1!3m4!1sXzycbg_kethJFs35eCznIg!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SH [is signed](https://www.google.com/maps/@-15.0434182,-70.3658437,3a,15y,357.2h,82.97t/data=!3m6!1e1!3m4!1sG-HJhVAJPBQ5d57Tb-HrBQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SK
@@ -220,6 +218,8 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * * PE-02A's route thru Canchaque is from the 2016 district map.
 * PE-02C
 * PE-3NE
+* PE-3SC ([may be signed](https://www.google.com/maps/@-12.3105106,-75.0397034,3a,15y,148.63h,92.09t/data=!3m8!1e1!3m6!1sAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR%3Dw203-h100-k-no-pi-0-ya169.05249-ro-0-fo100!7i8704!8i4352?entry=ttu))
+* PE-3SF
 * PE-04
 * PE-04B
 * PE-20C
@@ -238,3 +238,4 @@ Other notes:
 * [FBT K38](https://www.google.com/maps/@-5.8886726,-79.5405079,3a,21.4y,231.85h,89.34t/data=!3m6!1e1!3m4!1sai5vO_tif7qd8wtefoSx0Q!2e0!7i16384!8i8192?entry=ttu)?
 * [R110 117](https://www.google.com/maps/@-14.0519596,-75.7044159,3a,15y,174.08h,78.25t/data=!3m6!1e1!3m4!1ssklLSm1EqQoQ2Txn7yL5lw!2e0!7i16384!8i8192?entry=ttu)?
 * [R110 168](https://www.google.com/maps/@-13.9288492,-75.6713146,3a,15y,-14.29h,75.74t/data=!3m6!1e1!3m4!1svvS8832ru90bPpGcYH2VQw!2e0!7i16384!8i8192?entry=ttu)?
+* [Ramal something](https://www.google.com/maps/@-12.0996004,-75.2465926,3a,15.1y,261.37h,75.78t/data=!3m6!1e1!3m4!1se3moVEThr2kUERqQMxY-bg!2e0!7i16384!8i8192?entry=ttu)?
