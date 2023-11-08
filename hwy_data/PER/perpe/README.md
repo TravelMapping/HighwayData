@@ -6,7 +6,7 @@ Sources:
 
 Notes on routes:
 * PE-1N is signed.
-* * PE-1N thru Chimbote is shown in official sources using Avenida Pescadores and Avenida Pardo in one direction (probably southbound), but this does not seem to be signed.
+  * PE-1N thru Chimbote is shown in official sources using Avenida Pescadores and Avenida Pardo in one direction (probably southbound), but this does not seem to be signed.
 * PE-1NA
 * PE-1ND
 * PE-1NE [is signed](https://www.google.com/maps/@-11.0607301,-77.560366,3a,15y,295.09h,82.18t/data=!3m6!1e1!3m4!1sWTQEZSRhs9zuJmMNupQYxQ!2e0!7i16384!8i8192?entry=ttu), including [on what is actually PE-18](https://www.google.com/maps/@-11.413731,-77.3705934,3a,41.7y,84.37h,98.03t/data=!3m6!1e1!3m4!1sW9Iogs7OZzlWbGGy4nX91g!2e0!7i16384!8i8192?entry=ttu).
@@ -14,36 +14,36 @@ Notes on routes:
 * PE-1NM [is signed](https://www.google.com/maps/@-4.4106268,-79.9685767,3a,15.1y,114.52h,84.15t/data=!3m6!1e1!3m4!1sVy-NFPZlmT65V9mGWONFgg!2e0!7i16384!8i8192?entry=ttu).
 * PE-1NN [is signed](https://www.google.com/maps/@-4.8864994,-80.6979898,3a,15.9y,7.22h,90.16t/data=!3m6!1e1!3m4!1sCwbcSh29pJdClmoMgEIIfw!2e0!7i16384!8i8192?entry=ttu).
 * PE-1NT [is signed](https://www.google.com/maps/@-4.5526082,-80.0920306,3a,15.8y,304.56h,69.28t/data=!3m6!1e1!3m4!1srWADUDrq2jBUVhrObIvitQ!2e0!7i16384!8i8192?entry=ttu) (but also [as PI-104](https://www.google.com/maps/@-4.6820681,-79.7782761,3a,15y,139.62h,93.35t/data=!3m6!1e1!3m4!1srTMZEWwZ0bfNI2OYZRHZOg!2e0!7i16384!8i8192?entry=ttu)).
-* * PE-1NT's route thru Ayabaca is from the 2016 district map, but there may be a one-way pair.
+  * PE-1NT's route thru Ayabaca is from the 2016 district map, but there may be a one-way pair.
 * PE-1S is signed.
 * PE-1SB
 * PE-1SC [is signed](https://www.google.com/maps/@-13.6086449,-75.3485876,3a,15y,184.69h,91.98t/data=!3m6!1e1!3m4!1srySQ3odRpAA5S0h8jVJ6EA!2e0!7i16384!8i8192?entry=ttu).
 * PE-1SD [is signed](https://www.google.com/maps/@-16.6588745,-72.6248513,3a,15y,131.68h,88.9t/data=!3m6!1e1!3m4!1scsxunrVVS7dGqCqt9DqbFA!2e0!7i16384!8i8192?entry=ttu).
-* * PE-1SD [is signed](https://www.google.com/maps/@-17.1543909,-71.7904517,3a,15.3y,331.64h,89.16t/data=!3m6!1e1!3m4!1siv2hxw5aQf7RIPF08qSzgg!2e0!7i16384!8i8192?entry=ttu) along the realignment between La Curva and Punta de Bombón.
+  * PE-1SD [is signed](https://www.google.com/maps/@-17.1543909,-71.7904517,3a,15.3y,331.64h,89.16t/data=!3m6!1e1!3m4!1siv2hxw5aQf7RIPF08qSzgg!2e0!7i16384!8i8192?entry=ttu) along the realignment between La Curva and Punta de Bombón.
 * PE-1SE [is signed as PE-1S](https://www.google.com/maps/@-13.4199869,-76.1879672,3a,15y,188.5h,80.78t/data=!3m6!1e1!3m4!1s7B7UsoMVXgZWYvqLtIVlWQ!2e0!7i16384!8i8192?entry=ttu) (and so is [actual PE-1S](https://www.google.com/maps/@-13.7461378,-76.161983,3a,15.1y,338.67h,81.04t/data=!3m6!1e1!3m4!1s0ypHqx9YPBYv3n-6hL46kw!2e0!7i16384!8i8192?entry=ttu)), so it has been mapped as PE-1SPis.
 * PE-1SF
 * PE-1SG
 * PE-1SH
 * PE-1SJ [is signed](https://www.google.com/maps/@-17.0272732,-71.6848756,3a,15y,127.09h,80.62t/data=!3m6!1e1!3m4!1s1Q0SlF9z1MMRsdsPj20cow!2e0!7i16384!8i8192?entry=ttu).
-* * PE-1SJ's west end seems to have been extended to realigned PE-1SD near La Curva, according to [a 2017 document](https://cdn.www.gob.pe/uploads/document/file/19279/1_0_3966.pdf) that lists PE-1SJ as "Emp. PE-1S (Pte. El Fiscal) - Cocachacra - Emp. PE-1SD (La Curva)".
+  * PE-1SJ's west end seems to have been extended to realigned PE-1SD near La Curva, according to [a 2017 document](https://cdn.www.gob.pe/uploads/document/file/19279/1_0_3966.pdf) that lists PE-1SJ as "Emp. PE-1S (Pte. El Fiscal) - Cocachacra - Emp. PE-1SD (La Curva)".
 * PE-02 [is signed](https://www.google.com/maps/@-5.1032909,-81.0664084,3a,15y,314.26h,79.53t/data=!3m6!1e1!3m4!1sasTySbpQ15ZsQz9ENlZ14Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-02B
 * PE-02D (temporary)
 * PE-3N [is signed](https://www.google.com/maps/@-9.8630217,-76.6104044,3a,31y,235.9h,87.28t/data=!3m6!1e1!3m4!1sl-NFafNQaHSripKjADwGHA!2e0!7i13312!8i6656?entry=ttu).
-* * PE-3N's route thru La Unión is from the 2016 district map. There may be a one-way pair as Google Maps shows, but it's unclear from the available 2014 imagery (or one [2017 view](https://www.google.com/maps/@-9.8323051,-76.8026491,3a,15y,149.42h,100.03t/data=!3m8!1e1!3m6!1sAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN%3Dw203-h100-k-no-pi0-ya335.1366-ro-0-fo100!7i8704!8i4352?entry=ttu)).
-* * PE-3N's route thru Huallanca is from the 2016 district map, but with a one-way pair between the two shaping points.
-* * PE-3N's route thru Huandoval is from the 2016 district map.
-* * PE-3N's route thru Inaco is from the 2016 Huacaschuque district map.
-* * PE-3N's route thru Pallasca is from the 2016 district map.
-* * PE-3N's route thru Santa Clara de Tulpo is from the 2016 Mollebamba district map.
-* * PE-3N's route thru Angasmarca is from the 2016 district map.
-* * PE-3N's route thru Santiago de Chuco is from the 2016 district map, but with a one-way pair.
-* * PE-3N's route thru Huamachuco is from the 2023 departmental map.
-* * PE-3N's route thru Cajabamba is from the 2016 district map, but with a one-way pair.
-* * PE-3N's route thru San Marcos is from the 2016 Pedro Galvez district map.
-* * PE-3N's route thru Huarmaca is from the 2016 district map.
-* * PE-3N's route thru Sondor is from the 2016 district map.
-* * PE-3N's route thru Huancabamba is from the 2016 district map.
+  * PE-3N's route thru La Unión is from the 2016 district map. There may be a one-way pair as Google Maps shows, but it's unclear from the available 2014 imagery (or one [2017 view](https://www.google.com/maps/@-9.8323051,-76.8026491,3a,15y,149.42h,100.03t/data=!3m8!1e1!3m6!1sAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN%3Dw203-h100-k-no-pi0-ya335.1366-ro-0-fo100!7i8704!8i4352?entry=ttu)).
+  * PE-3N's route thru Huallanca is from the 2016 district map, but with a one-way pair between the two shaping points.
+  * PE-3N's route thru Huandoval is from the 2016 district map.
+  * PE-3N's route thru Inaco is from the 2016 Huacaschuque district map.
+  * PE-3N's route thru Pallasca is from the 2016 district map.
+  * PE-3N's route thru Santa Clara de Tulpo is from the 2016 Mollebamba district map.
+  * PE-3N's route thru Angasmarca is from the 2016 district map.
+  * PE-3N's route thru Santiago de Chuco is from the 2016 district map, but with a one-way pair.
+  * PE-3N's route thru Huamachuco is from the 2023 departmental map.
+  * PE-3N's route thru Cajabamba is from the 2016 district map, but with a one-way pair.
+  * PE-3N's route thru San Marcos is from the 2016 Pedro Galvez district map.
+  * PE-3N's route thru Huarmaca is from the 2016 district map.
+  * PE-3N's route thru Sondor is from the 2016 district map.
+  * PE-3N's route thru Huancabamba is from the 2016 district map.
 * PE-3NA [is signed](https://www.google.com/maps/@-8.6988413,-77.9605119,3a,31.5y,342.29h,94.03t/data=!3m6!1e1!3m4!1sExAsRbhX3OuvYO2WLJhmHg!2e0!7i16384!8i8192?entry=ttu).
 * PE-3NC [is signed](https://www.google.com/maps/@-6.5420885,-78.6931841,3a,15y,311.45h,83.12t/data=!3m6!1e1!3m4!1se4P_obnnRAFsLhf2EBQwXA!2e0!7i16384!8i8192?entry=ttu).
 * PE-3ND [is signed](https://www.google.com/maps/@-6.3710993,-78.8085633,3a,15y,161.77h,75.86t/data=!3m6!1e1!3m4!1s54itKuW89bN-vEprBrc9Bg!2e0!7i16384!8i8192?entry=ttu).
@@ -54,7 +54,7 @@ Notes on routes:
 * PE-3SD [is signed](https://www.google.com/maps/@-12.3104274,-75.0394409,3a,28.4y,212.42h,101.92t/data=!3m8!1e1!3m6!1sAF1QipMLeZAgA5QgyhBWZZbsA8Sjvd9hJ8PVwNQP1zZp!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMLeZAgA5QgyhBWZZbsA8Sjvd9hJ8PVwNQP1zZp%3Dw203-h100-k-no-pi-0-ya252.92688-ro0-fo100!7i10752!8i4814?entry=ttu).
 * PE-3SE [is signed](https://www.google.com/maps/@-13.6841572,-73.1298072,3a,15y,159.15h,85.91t/data=!3m6!1e1!3m4!1syyUw0EKstnu4noRXbyd0-Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SG [is signed](https://www.google.com/maps/@-14.8933268,-70.5947571,3a,15y,239.66h,86.08t/data=!3m6!1e1!3m4!1sXzycbg_kethJFs35eCznIg!2e0!7i16384!8i8192?entry=ttu).
-* * PE-3SG's route thru Yauri is from the 2023 departmental map, with minor changes where the new Avenida Circunvalación has obviously replaced the old route.
+  * PE-3SG's route thru Yauri is from the 2023 departmental map, with minor changes where the new Avenida Circunvalación has obviously replaced the old route.
 * PE-3SH [is signed](https://www.google.com/maps/@-15.0434182,-70.3658437,3a,15y,357.2h,82.97t/data=!3m6!1e1!3m4!1sG-HJhVAJPBQ5d57Tb-HrBQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SL
 * PE-3SM
@@ -75,7 +75,7 @@ Notes on routes:
 * PE-3SZ [is signed as PE-3SB](https://www.google.com/maps/@-12.1289537,-75.2489238,3a,15y,46.44h,78.3t/data=!3m6!1e1!3m4!1szie2r0ZjHHU2UfKZuBJ89w!2e0!7i16384!8i8192?entry=ttu) (its pre-2018 number).
 * PE-3SAA
 * PE-5N [is signed](https://www.google.com/maps/@-10.3245516,-74.9858739,3a,39.7y,220.72h,87.86t/data=!3m6!1e1!3m4!1sIyLGMcPa5A7aMpV8TXrXgg!2e0!7i16384!8i8192?entry=ttu).
-* * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
+  * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
 * PE-5NA [is signed](https://www.google.com/maps/@-9.5571257,-75.0134336,3a,15y,191.96h,88.28t/data=!3m6!1e1!3m4!1sry_quipsp9v5TJvobxrB2A!2e0!7i16384!8i8192?entry=ttu) (on what seems to be a recent realignment).
 * PE-5NB
 * PE-5NC [is signed](https://www.google.com/maps/@-5.717445,-78.6175833,3a,15y,105.07h,94.87t/data=!3m6!1e1!3m4!1sPvDU_tlrVQkTkeKWnNp2VA!2e0!7i16384!8i8192?entry=ttu).
@@ -89,25 +89,24 @@ Notes on routes:
 * PE-5SB
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
-* * PE-06A's route thru Cochabamba is from the 2016 district map.
+  * PE-06A's route thru Cochabamba is from the 2016 district map.
 * PE-06B [is signed](https://www.google.com/maps/@-6.6164343,-78.9517848,3a,15y,238.05h,75.19t/data=!3m6!1e1!3m4!1spiLikoRsbne8enGWudjD5Q!2e0!7i16384!8i8192?entry=ttu).
-* * PE-06B's route thru Catache is from the 2016 district map.
+  * PE-06B's route thru Catache is from the 2016 district map.
 * PE-08 [is signed](https://www.google.com/maps/@-7.223606,-78.8463307,3a,15.2y,284.27h,86.78t/data=!3m6!1e1!3m4!1s_kXY5GN_9CLqTr8MjUPKKg!2e0!7i16384!8i8192?entry=ttu).
-* * PE-08's route thru Chilete is from the 2016 district map.
+  * PE-08's route thru Chilete is from the 2016 district map.
 * PE-08A [is signed](https://www.google.com/maps/@-7.2219477,-78.8471377,3a,19.5y,90.93h,96.67t/data=!3m6!1e1!3m4!1sySgPCwYRhxyXkFzSVoxdRw!2e0!7i16384!8i8192?entry=ttu).
-* * PE-08A [is clearly signed](https://www.google.com/maps/@-7.046068,-78.7461917,3a,36.2y,82.76h,70.71t/data=!3m6!1e1!3m4!1s13uNI8JvuPWJmZuxVfWpcw!2e0!7i16384!8i8192?entry=ttu) along what maps and logs show as various local routes (between SanPab_W and ConPat).
+  * PE-08A [is clearly signed](https://www.google.com/maps/@-7.046068,-78.7461917,3a,36.2y,82.76h,70.71t/data=!3m6!1e1!3m4!1s13uNI8JvuPWJmZuxVfWpcw!2e0!7i16384!8i8192?entry=ttu) along what maps and logs show as various local routes (between SanPab_W and ConPat).
 * PE-08B [is signed](https://www.google.com/maps/@-7.1406907,-78.3679192,3a,16y,75.28h,73.13t/data=!3m6!1e1!3m4!1sgMA5ZNewInW3hNw33NoShA!2e0!7i16384!8i8192?entry=ttu).
-* * PE-08B's eastbound route thru Los Baños del Inca (Jirón Lloque Yupangui) is from the 2016 district map.
-* * PE-08B's route thru Leimebamba is from the 2016 district map.
-* * PE-08B's route thru Mariscal Benavides is from the 2016 district map.
+  * PE-08B's eastbound route thru Los Baños del Inca (Jirón Lloque Yupangui) is from the 2016 district map.
+  * PE-08B's route thru Leimebamba is from the 2016 district map.
+  * PE-08B's route thru Mariscal Benavides is from the 2016 district map.
 * PE-08C [is signed](https://www.google.com/maps/@-6.2225369,-77.9126883,3a,15.1y,187.95h,80.54t/data=!3m6!1e1!3m4!1sV1aNLM-tWGrFVV5yO0XZfg!2e0!7i16384!8i8192?entry=ttu).
 * PE-10A [is signed](https://www.google.com/maps/@-8.1022167,-78.9466604,3a,15y,183.77h,75.96t/data=!3m6!1e1!3m4!1s811146UZWc7h_eiJBIPCOQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-10B [is signed](google.com/maps/@-7.7971899,-77.9795191,3a,15.1y,119.68h,75.24t/data=!3m6!1e1!3m4!1s8V50eLnMUg7QUssULoGn5A!2e0!7i16384!8i8192?entry=ttu).
-* * PE-10B [is also signed](https://www.google.com/maps/@-7.6872314,-78.0306539,3a,15y,246.49h,76.74t/data=!3m6!1e1!3m4!1sgJRn1gOtzuO5BGfmwtoOJg!2e0!7i16384!8i8192?entry=ttu) on what is actually LI-834, nowhere near actual PE-10B.
-* PE-10C
+  * PE-10B [is also signed](https://www.google.com/maps/@-7.6872314,-78.0306539,3a,15y,246.49h,76.74t/data=!3m6!1e1!3m4!1sgJRn1gOtzuO5BGfmwtoOJg!2e0!7i16384!8i8192?entry=ttu) on what is actually LI-834, nowhere near actual PE-10B.
+  * PE-10BHui's west end is unclear.
 * PE-12
 * PE-12A [is signed](https://www.google.com/maps/@-8.6799297,-77.9220574,3a,16.2y,338.17h,80.83t/data=!3m6!1e1!3m4!1syHBFpOCNG9K5k4N8aY1ZWQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-12B
 * PE-14 [is signed](https://www.google.com/maps/@-9.4764507,-78.1307473,3a,15y,299.57h,82.78t/data=!3m6!1e1!3m4!1s6btPu4Gv0Ue_wzztNJqnpg!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the new bridge in Huaraz.
 * PE-14A
 * PE-14B
@@ -194,18 +193,18 @@ Notes on routes:
 Some routes may be unsigned, but are major highways with destination signs and km posts and have been included due to the overall poor state of signage in Peru:
 * PE-1NB
 * PE-1NF
-* * PE-1NF's route thru Chilete is from the 2016 district map.
+  * PE-1NF's route thru Chilete is from the 2016 district map.
 * PE-1NI
-* * PE-1NI's route thru Oyotun is from the 2016 district map.
+  * PE-1NI's route thru Oyotun is from the 2016 district map.
 * PE-1NK
-* * PE-1NK's southbound route thru La Unión (Calle Libertad) is from the 2016 district map. Northbound is assumed to use the other direction of the truck detour (Calle Unión).
+  * PE-1NK's southbound route thru La Unión (Calle Libertad) is from the 2016 district map. Northbound is assumed to use the other direction of the truck detour (Calle Unión).
 * PE-1NL
 * PE-1NO
 * PE-1NR (though the portion between Chulucanas and Morropón seems lower-quality)
 * PE-1NS
 * PE-1NU
 * PE-02A
-* * PE-02A's route thru Canchaque is from the 2016 district map.
+  * PE-02A's route thru Canchaque is from the 2016 district map.
 * PE-02C
 * PE-3NE
 * PE-3SC ([may be signed](https://www.google.com/maps/@-12.3105106,-75.0397034,3a,15y,148.63h,92.09t/data=!3m8!1e1!3m6!1sAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR%3Dw203-h100-k-no-pi-0-ya169.05249-ro-0-fo100!7i8704!8i4352?entry=ttu))
@@ -215,10 +214,15 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-04B
 * PE-04C
 * PE-08B thru Soritor (the west end is unclear)
-* * PE-08B may have a one-way pair thru Soritor.
+  * PE-08B may have a one-way pair thru Soritor.
 * PE-10
+* PE-10C
+  * PE-10C's route thru Chugay is from the 2016 district map.
+  * PE-10C's route thru Buldibuyo is from the 2016 district map.
+  * PE-10C's route thru Tayabamba is from the 2016 district map.
+* PE-12B
 * PE-20C
-* * PE-20C's westbound route thru Huaral is unclear.
+  * PE-20C's westbound route thru Huaral is unclear.
 * PE-34E
 * PE-34F
 * PE-36
@@ -234,6 +238,7 @@ The following unsigned routes are not included:
 * PE-04A (unbuilt)
 * PE-5S south of somewhere (unbuilt)
 * PE-08B for a portion east of Mendoza (unbuilt)
+* PE-10B between Calemar and Huicungo (unbuilt)
 
 Other notes:
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
