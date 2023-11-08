@@ -102,8 +102,8 @@ Notes on routes:
 * * PE-08B's route thru Mariscal Benavides is from the 2016 district map.
 * PE-08C [is signed](https://www.google.com/maps/@-6.2225369,-77.9126883,3a,15.1y,187.95h,80.54t/data=!3m6!1e1!3m4!1sV1aNLM-tWGrFVV5yO0XZfg!2e0!7i16384!8i8192?entry=ttu).
 * PE-10A [is signed](https://www.google.com/maps/@-8.1022167,-78.9466604,3a,15y,183.77h,75.96t/data=!3m6!1e1!3m4!1s811146UZWc7h_eiJBIPCOQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-10B
-* * PE-10B [is signed](https://www.google.com/maps/@-7.6872314,-78.0306539,3a,15y,246.49h,76.74t/data=!3m6!1e1!3m4!1sgJRn1gOtzuO5BGfmwtoOJg!2e0!7i16384!8i8192?entry=ttu) on what is actually LI-834, nowhere near actual PE-10B.
+* PE-10B [is signed](google.com/maps/@-7.7971899,-77.9795191,3a,15.1y,119.68h,75.24t/data=!3m6!1e1!3m4!1s8V50eLnMUg7QUssULoGn5A!2e0!7i16384!8i8192?entry=ttu).
+* * PE-10B [is also signed](https://www.google.com/maps/@-7.6872314,-78.0306539,3a,15y,246.49h,76.74t/data=!3m6!1e1!3m4!1sgJRn1gOtzuO5BGfmwtoOJg!2e0!7i16384!8i8192?entry=ttu) on what is actually LI-834, nowhere near actual PE-10B.
 * PE-10C
 * PE-12
 * PE-12A [is signed](https://www.google.com/maps/@-8.6799297,-77.9220574,3a,16.2y,338.17h,80.83t/data=!3m6!1e1!3m4!1syHBFpOCNG9K5k4N8aY1ZWQ!2e0!7i16384!8i8192?entry=ttu).
