@@ -120,7 +120,7 @@ Notes on routes:
 * PE-18A [is signed](https://www.google.com/maps/@-9.9522322,-76.2496475,3a,15.1y,335.37h,82.75t/data=!3m6!1e1!3m4!1siROaMoz-zxzyDlUkq37qLw!2e0!7i16384!8i8192?entry=ttu).
 * PE-18C [is signed](https://www.google.com/maps/@-8.8248861,-75.0519156,3a,15.4y,152.26h,79.34t/data=!3m6!1e1!3m4!1sEIn2IAwUnzmQgDB6iixlgg!2e0!7i16384!8i8192?entry=ttu).
 * PE-18E [is signed](https://www.google.com/maps/@-9.8303038,-75.891455,3a,15y,140.66h,86.07t/data=!3m8!1e1!3m6!1sAF1QipOXMMgTou8j_sVEe8MmIBz6QIXI2rLTRF5dnklY!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOXMMgTou8j_sVEe8MmIBz6QIXI2rLTRF5dnklY%3Dw203-h100-k-no-pi-0-ya193.81917-ro0-fo100!7i11264!8i5632?entry=ttu) despite being a temporary designation that no longer appears on maps.
-* PE-20 [is signed](https://www.google.com/maps/@-12.0513577,-77.1407905,3a,15y,261.98h,85.06t/data=!3m6!1e1!3m4!1sCCqe9TvDLENn6nOKeSp7dA!2e0!7i16384!8i8192?entry=ttu).
+* PE-20 [is signed](https://www.google.com/maps/@-12.0513577,-77.1407905,3a,15y,261.98h,85.06t/data=!3m6!1e1!3m4!1sCCqe9TvDLENn6nOKeSp7dA!2e0!7i16384!8i8192?entry=ttu) (but also as [CL-100](https://www.google.com/maps/@-12.0477903,-77.1351985,3a,26.4y,85.51h,125.94t/data=!3m6!1e1!3m4!1sHU90pOKIhpeL-6UihSHFFw!2e0!7i16384!8i8192?entry=ttu)).
 * PE-20A [is signed](https://www.google.com/maps/@-10.8016613,-76.2385108,3a,15y,235.15h,75.64t/data=!3m6!1e1!3m4!1spGTu8dV8j0NEz5U7BFqWKA!2e0!7i16384!8i8192?entry=ttu).
 * PE-22 [is signed](https://www.google.com/maps/@-11.8685567,-76.4258215,3a,38.6y,31.5h,96.22t/data=!3m6!1e1!3m4!1sgvaWEjbD6-2JhSIibOnZgA!2e0!7i16384!8i8192?entry=ttu).
 * PE-22A
