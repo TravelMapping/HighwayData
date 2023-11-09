@@ -121,12 +121,13 @@ Notes on routes:
 * PE-18C [is signed](https://www.google.com/maps/@-8.8248861,-75.0519156,3a,15.4y,152.26h,79.34t/data=!3m6!1e1!3m4!1sEIn2IAwUnzmQgDB6iixlgg!2e0!7i16384!8i8192?entry=ttu).
 * PE-18E [is signed](https://www.google.com/maps/@-9.8303038,-75.891455,3a,15y,140.66h,86.07t/data=!3m8!1e1!3m6!1sAF1QipOXMMgTou8j_sVEe8MmIBz6QIXI2rLTRF5dnklY!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOXMMgTou8j_sVEe8MmIBz6QIXI2rLTRF5dnklY%3Dw203-h100-k-no-pi-0-ya193.81917-ro0-fo100!7i11264!8i5632?entry=ttu) despite being a temporary designation that no longer appears on maps.
 * PE-20 [is signed](https://www.google.com/maps/@-12.0513577,-77.1407905,3a,15y,261.98h,85.06t/data=!3m6!1e1!3m4!1sCCqe9TvDLENn6nOKeSp7dA!2e0!7i16384!8i8192?entry=ttu) (but also as [CL-100](https://www.google.com/maps/@-12.0477903,-77.1351985,3a,26.4y,85.51h,125.94t/data=!3m6!1e1!3m4!1sHU90pOKIhpeL-6UihSHFFw!2e0!7i16384!8i8192?entry=ttu)).
-* PE-20A [is signed](https://www.google.com/maps/@-10.8016613,-76.2385108,3a,15y,235.15h,75.64t/data=!3m6!1e1!3m4!1spGTu8dV8j0NEz5U7BFqWKA!2e0!7i16384!8i8192?entry=ttu).
+* PE-20A [is signed](https://www.google.com/maps/@-10.8016613,-76.2385108,3a,15y,235.15h,75.64t/data=!3m6!1e1!3m4!1spGTu8dV8j0NEz5U7BFqWKA!2e0!7i16384!8i8192?entry=ttu), including [on what's no longer PE-20A](https://www.google.com/maps/@-11.8446508,-77.0004832,3a,15y,243.46h,93.64t/data=!3m6!1e1!3m4!1sqqD4uWgHCLqJOmcZoK_5jw!2e0!7i16384!8i8192?entry=ttu). Since the new alignment (splitting at HacPun) is incomplete and unsigned, the old alignment is mapped.
+  * PE-20A's route thru Canta is from the 2016 district map.
+  * PE-20A is assumed to use the new bypass at Cullhuay.
+  * PE-20A's route thru Huayllay is from the 2016 district map.
 * PE-22 [is signed](https://www.google.com/maps/@-11.8685567,-76.4258215,3a,38.6y,31.5h,96.22t/data=!3m6!1e1!3m4!1sgvaWEjbD6-2JhSIibOnZgA!2e0!7i16384!8i8192?entry=ttu).
-* PE-22A
+* PE-22A is partly signed as PE-1SA, its former designation west of San Juan de Tantarache, on [guide signs](https://www.google.com/maps/@-12.6527628,-76.6386775,3a,73.9y,339.77h,85.21t/data=!3m6!1e1!3m4!1sdRvi8gdSHEyA5Aqcv8x1bg!2e0!7i13312!8i6656?entry=ttu) and [km posts](https://youtu.be/0ZRkLQyMxZ8?t=141).
 * PE-22B [is signed](https://www.google.com/maps/@-11.3956279,-75.8808896,3a,15y,8.7h,80.52t/data=!3m6!1e1!3m4!1sdZbyYRHLc1EVpcATtCdxrg!2e0!7i16384!8i8192?entry=ttu).
-* PE-22C
-* PE-22D
 * PE-24 [is signed](https://www.google.com/maps/@-12.2339191,-75.6380545,3a,15y,302.83h,79.69t/data=!3m6!1e1!3m4!1sJnnNiEHLBbBumwpTZGGe2Q!2e0!7i16384!8i8192?entry=ttu).
 * PE-24A [is signed](https://www.google.com/maps/@-11.9151496,-75.3245691,3a,15y,62.82h,80.79t/data=!3m6!1e1!3m4!1scHzCVidWBAjQ6IayZOLxpQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-24B (temporary)
@@ -221,6 +222,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
   * PE-20C's westbound route thru Huaral is unclear.
 * PE-20I
 * PE-20K
+* PE-22C
 * PE-34E
 * PE-34F
 * PE-36
@@ -245,6 +247,7 @@ The following unsigned routes are not included:
 * PE-20F (partly unbuilt)
 * PE-20H (unbuilt)
 * PE-20J (temporary) (mostly unbuilt)
+* PE-22D (unbuilt)
 
 Other notes:
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
