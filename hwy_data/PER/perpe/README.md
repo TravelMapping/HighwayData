@@ -108,27 +108,20 @@ Notes on routes:
 * PE-12
 * PE-12A [is signed](https://www.google.com/maps/@-8.6799297,-77.9220574,3a,16.2y,338.17h,80.83t/data=!3m6!1e1!3m4!1syHBFpOCNG9K5k4N8aY1ZWQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-14 [is signed](https://www.google.com/maps/@-9.4764507,-78.1307473,3a,15y,299.57h,82.78t/data=!3m6!1e1!3m4!1s6btPu4Gv0Ue_wzztNJqnpg!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the new bridge in Huaraz.
-* PE-14A
 * PE-14B
 * PE-14C
 * PE-14D
 * PE-14E
 * PE-16 [is signed](https://www.google.com/maps/@-10.6579088,-77.8076411,3a,18.4y,25.42h,94.68t/data=!3m6!1e1!3m4!1sQM_97bqSkKwGovhFEvs4XQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-16A
+* PE-16A [seems to be signed](https://www.google.com/maps/@-10.6802724,-77.7914078,3a,15y,59.5h,87.87t/data=!3m6!1e1!3m4!1sI7Es1X80VlMJAsKa47ylDQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-18 [is signed](https://www.google.com/maps/@-11.4096992,-77.3652705,3a,15y,264.03h,81.56t/data=!3m6!1e1!3m4!1sZW0Cvopt2WSUuTDML0xkJw!2e0!7i16384!8i8192?entry=ttu).
+  * PE-18's route thru Oyón is from the 2016 district map, but there may be a one-way pair.
+  * PE-18's route thru Ambo is from the 2016 district map.
 * PE-18A [is signed](https://www.google.com/maps/@-9.9522322,-76.2496475,3a,15.1y,335.37h,82.75t/data=!3m6!1e1!3m4!1siROaMoz-zxzyDlUkq37qLw!2e0!7i16384!8i8192?entry=ttu).
-* PE-18B
 * PE-18C [is signed](https://www.google.com/maps/@-8.8248861,-75.0519156,3a,15.4y,152.26h,79.34t/data=!3m6!1e1!3m4!1sEIn2IAwUnzmQgDB6iixlgg!2e0!7i16384!8i8192?entry=ttu).
-* PE-18D
-* PE-20
+* PE-18E [is signed](https://www.google.com/maps/@-9.8303038,-75.891455,3a,15y,140.66h,86.07t/data=!3m8!1e1!3m6!1sAF1QipOXMMgTou8j_sVEe8MmIBz6QIXI2rLTRF5dnklY!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOXMMgTou8j_sVEe8MmIBz6QIXI2rLTRF5dnklY%3Dw203-h100-k-no-pi-0-ya193.81917-ro0-fo100!7i11264!8i5632?entry=ttu) despite being a temporary designation that no longer appears on maps.
+* PE-20 [is signed](https://www.google.com/maps/@-12.0513577,-77.1407905,3a,15y,261.98h,85.06t/data=!3m6!1e1!3m4!1sCCqe9TvDLENn6nOKeSp7dA!2e0!7i16384!8i8192?entry=ttu).
 * PE-20A [is signed](https://www.google.com/maps/@-10.8016613,-76.2385108,3a,15y,235.15h,75.64t/data=!3m6!1e1!3m4!1spGTu8dV8j0NEz5U7BFqWKA!2e0!7i16384!8i8192?entry=ttu).
-* PE-20B
-* PE-20E
-* PE-20F
-* PE-20H
-* PE-20I
-* PE-20J (temporary)
-* PE-20K
 * PE-22 [is signed](https://www.google.com/maps/@-11.8685567,-76.4258215,3a,38.6y,31.5h,96.22t/data=!3m6!1e1!3m4!1sgvaWEjbD6-2JhSIibOnZgA!2e0!7i16384!8i8192?entry=ttu).
 * PE-22A
 * PE-22B [is signed](https://www.google.com/maps/@-11.3956279,-75.8808896,3a,15y,8.7h,80.52t/data=!3m6!1e1!3m4!1sdZbyYRHLc1EVpcATtCdxrg!2e0!7i16384!8i8192?entry=ttu).
@@ -221,8 +214,13 @@ Some routes may be unsigned, but are major highways with destination signs and k
   * PE-10C's route thru Buldibuyo is from the 2016 district map.
   * PE-10C's route thru Tayabamba is from the 2016 district map.
 * PE-12B
+* PE-14A
+* PE-18B
+* PE-20B
 * PE-20C
   * PE-20C's westbound route thru Huaral is unclear.
+* PE-20I
+* PE-20K
 * PE-34E
 * PE-34F
 * PE-36
@@ -239,6 +237,14 @@ The following unsigned routes are not included:
 * PE-5S south of somewhere (unbuilt)
 * PE-08B for a portion east of Mendoza (unbuilt)
 * PE-10B between Calemar and Huicungo (unbuilt)
+* PE-18B east of Tomayrica (unbuilt)
+* PE-18C east of Pucallpa (unbuilt)
+* PE-18D (unbuilt)
+* PE-20B's branch on Avenida Elmer Faucett
+* PE-20E (unbuilt)
+* PE-20F (partly unbuilt)
+* PE-20H (unbuilt)
+* PE-20J (temporary) (mostly unbuilt)
 
 Other notes:
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
@@ -247,9 +253,11 @@ Other notes:
 * [CA-534](https://www.google.com/maps/@-7.6059395,-78.0888045,3a,15y,242.64h,84.7t/data=!3m6!1e1!3m4!1sXwg1LBBkSjIfGCeOjS64pw!2e0!7i16384!8i8192?entry=ttu)? [CA-540](https://www.google.com/maps/@-7.3799115,-78.1252717,3a,15y,351.19h,86.87t/data=!3m6!1e1!3m4!1slwlBe1BN2kA_DxpNHcLcUg!2e0!7i16384!8i8192?entry=ttu)? [CA-561](https://www.google.com/maps/@-7.445258,-78.1167434,3a,15.5y,207.15h,85.08t/data=!3m6!1e1!3m4!1stwJqz8Pdx9SWfMjIiCVN8A!2e0!7i16384!8i8192?entry=ttu)? [CA-605](https://www.google.com/maps/@-7.6014438,-78.0898226,3a,15y,136.27h,91.29t/data=!3m6!1e1!3m4!1spkZHykhVCqmNqNWwltQsDQ!2e0!7i16384!8i8192?entry=ttu)?
 * What is [R110 133](https://www.google.com/maps/@-14.000614,-75.7679266,3a,15y,137.98h,78.75t/data=!3m6!1e1!3m4!1sD7P-PRGUIB6_0j01uBf_YQ!2e0!7i16384!8i8192?entry=ttu)?
 * How about [R0-21511](https://www.google.com/maps/@-8.4586523,-78.0512474,3a,15y,109.81h,82.22t/data=!3m6!1e1!3m4!1sdMzR_UesXEC-_bUWfo0gBQ!2e0!7i16384!8i8192?entry=ttu)?
+* [R02-0516](https://www.google.com/maps/@-10.1585564,-77.4745054,3a,15.3y,141.71h,89.31t/data=!3m6!1e1!3m4!1stDZ64dnGy3xKshaoasY_8w!2e0!7i16384!8i8192?entry=ttu) (maps show AN-1240)?
 * [R06-1204](https://www.google.com/maps/@-7.0531259,-78.7952198,3a,15y,337.59h,76.1t/data=!3m6!1e1!3m4!1sBPetxlPCzh4C8Zp3-bEQ3Q!2e0!7i16384!8i8192?entry=ttu)?
 * [R-70](https://www.google.com/maps/@-4.7170964,-79.8329446,3a,21.6y,190.29h,87.44t/data=!3m6!1e1!3m4!1ssl5jsUbVVxoeUQrwqT_DnQ!2e0!7i16384!8i8192?entry=ttu) (also on km 0 post)?
 * [FBT K38](https://www.google.com/maps/@-5.8886726,-79.5405079,3a,21.4y,231.85h,89.34t/data=!3m6!1e1!3m4!1sai5vO_tif7qd8wtefoSx0Q!2e0!7i16384!8i8192?entry=ttu)?
 * [R110 117](https://www.google.com/maps/@-14.0519596,-75.7044159,3a,15y,174.08h,78.25t/data=!3m6!1e1!3m4!1ssklLSm1EqQoQ2Txn7yL5lw!2e0!7i16384!8i8192?entry=ttu)?
 * [R110 168](https://www.google.com/maps/@-13.9288492,-75.6713146,3a,15y,-14.29h,75.74t/data=!3m6!1e1!3m4!1svvS8832ru90bPpGcYH2VQw!2e0!7i16384!8i8192?entry=ttu)?
 * [Ramal something](https://www.google.com/maps/@-12.0996004,-75.2465926,3a,15.1y,261.37h,75.78t/data=!3m6!1e1!3m4!1se3moVEThr2kUERqQMxY-bg!2e0!7i16384!8i8192?entry=ttu)?
+* [Random exit number](https://www.google.com/maps/@-9.9308328,-76.2346783,3a,35.8y,344.51h,87.29t/data=!3m6!1e1!3m4!1sEU-lf8w_CGiBDTFl7c5ljg!2e0!7i13312!8i6656?entry=ttu)?
