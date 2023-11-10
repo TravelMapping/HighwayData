@@ -132,8 +132,10 @@ Notes on routes:
   * PE-24's route thru Imperial is from the 2016 district map (with an assumed one-way pair on Calle 28 de Julio westbound).
   * PE-24 is assumed to use the new alignment west of Chupaca, even though maps (including 2022 and 2023) continue to show the (poor-quality) old alignment.
 * PE-24A [is signed](https://www.google.com/maps/@-11.9151496,-75.3245691,3a,15y,62.82h,80.79t/data=!3m6!1e1!3m4!1scHzCVidWBAjQ6IayZOLxpQ!2e0!7i16384!8i8192?entry=ttu).
+  * PE-24A's route thru Santa Rosa de Ocopa is from the 2016 district map.
+  * PE-24A's route thru Satipo is from the 2016 district map (with an assumed one-way pair).
 * PE-24B (temporary)
-* PE-24C
+* PE-24C [is signed](https://www.google.com/maps/@-11.3008085,-74.7008764,3a,34.7y,313.33h,75t/data=!3m6!1e1!3m4!1sGftUpsJsADva30dKCr8QAQ!2e0!7i16384!8i8192?entry=ttu) as another route of PE-24A, so it is mapped as PE-24ASat.
 * PE-26 [is signed](https://www.google.com/maps/@-13.420477,-75.9641756,3a,26.6y,186.45h,73.47t/data=!3m6!1e1!3m4!1s0eIY7ScPq1AUNJXXt0ArHQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-26A
 * PE-26B [is signed](https://www.google.com/maps/@-13.0788633,-74.2308938,3a,15.2y,318.81h,83.67t/data=!3m6!1e1!3m4!1shkdrcnR1zzUdpDFeUkzuNg!2e0!7i16384!8i8192?entry=ttu).
