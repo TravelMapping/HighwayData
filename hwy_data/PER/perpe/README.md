@@ -137,17 +137,22 @@ Notes on routes:
 * PE-24B (temporary)
 * PE-24C [is signed](https://www.google.com/maps/@-11.3008085,-74.7008764,3a,34.7y,313.33h,75t/data=!3m6!1e1!3m4!1sGftUpsJsADva30dKCr8QAQ!2e0!7i16384!8i8192?entry=ttu) as another route of PE-24A, so it is mapped as PE-24ASat.
 * PE-26 [is signed](https://www.google.com/maps/@-13.420477,-75.9641756,3a,26.6y,186.45h,73.47t/data=!3m6!1e1!3m4!1s0eIY7ScPq1AUNJXXt0ArHQ!2e0!7i16384!8i8192?entry=ttu).
+  * PE-26's route thru Chincha Alta is from the 2016 district map.
+  * PE-26's eastbound route thru Huancavelica is from the 2016 district map. Westbound is assumed to match OSM.
 * PE-26A
 * PE-26B [is signed](https://www.google.com/maps/@-13.0788633,-74.2308938,3a,15.2y,318.81h,83.67t/data=!3m6!1e1!3m4!1shkdrcnR1zzUdpDFeUkzuNg!2e0!7i16384!8i8192?entry=ttu).
+  * PE-26B's route thru Huancavelica is from the 2016 district map.
+  * PE-26B's route thru Julcamarca is from the 2016 district map (and is how the road physically curves).
 * PE-28 
 * PE-28A [is signed](https://www.google.com/maps/@-13.3746122,-74.9395423,3a,41.1y,162.32h,97.85t/data=!3m6!1e1!3m4!1sREdzCdMgpumj_7Wm6JmptA!2e0!7i16384!8i8192?entry=ttu) (the other side of the sign has its former number, PE-24).
 * PE-28B [is signed](https://www.google.com/maps/@-13.0763964,-74.2215464,3a,15y,55.59h,89.95t/data=!3m6!1e1!3m4!1sdqU0HVDYAa-HbCp5Yoeenw!2e0!7i16384!8i8192?entry=ttu) with a standalone shield!
-* PE-28C [is signed](https://www.google.com/maps/@-11.3461845,-74.5232496,3a,15y,176.06h,83.24t/data=!3m6!1e1!3m4!1st-8yFl6q0I56GME-SyJ2LQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-28D
+  * PE-28B's route thru Kimbiri is from the 2016 district map.
+  * PE-28B's route around Chirumpiari as shown on the 2016 district map is not driveable.
+  * PE-28B's route thru Kepashiato is from the location of the Kepashiato point in RVN_Pt GIS data.
+* PE-28C [is signed](https://www.google.com/maps/@-11.3461845,-74.5232496,3a,15y,176.06h,83.24t/data=!3m6!1e1!3m4!1st-8yFl6q0I56GME-SyJ2LQ!2e0!7i16384!8i8192?entry=ttu). The south end [is signed](https://www.google.com/maps/@-12.6084275,-73.7709888,3a,15y,26.43h,90.44t/data=!3m6!1e1!3m4!1s2sVLWd-c3yypsPLLYojPmg!2e0!7i16384!8i8192?entry=ttu) on what appears to be a realignment from what maps show.
 * PE-28E
 * PE-28F
 * PE-28G
-* PE-28H
 * PE-28J
 * PE-30 [is signed as PE-26](https://www.google.com/maps/@-15.1440388,-74.982367,3a,15y,267.41h,84.98t/data=!3m6!1e1!3m4!1smT2P6sa1KRWQ9FUk87gx-Q!2e0!7i13312!8i6656?entry=ttu) (its former number) as of 2013. Since current PE-26 is correctly signed, this has been mapped as PE-30.
 * PE-30A [is signed](https://www.google.com/maps/@-14.84068,-74.934016,3a,15y,38.26h,78.75t/data=!3m6!1e1!3m4!1skkBQOHOIc7ek9ZoyToJIlw!2e0!7i16384!8i8192?entry=ttu).
@@ -227,6 +232,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-20I
 * PE-20K
 * PE-22C
+* PE-28D
 * PE-34E
 * PE-34F
 * PE-36
@@ -252,6 +258,8 @@ The following unsigned routes are not included:
 * PE-20H (unbuilt)
 * PE-20J (temporary) (mostly unbuilt)
 * PE-22D (unbuilt)
+* PE-28A west of PE-1S (unbuilt)
+* PE-28H (low quality and possibly partly unbuilt)
 
 Other notes:
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
