@@ -1,8 +1,8 @@
 Peru Red Vial Nacional
 
 Sources:
-* Definitions: https://portal.mtc.gob.pe/transportes/caminos/rutas.html https://www.gob.pe/institucion/mtc/colecciones/3142-clasificador-de-rutas-del-sistema-nacional-de-carreteras-sinac-d-s-n-011-2016-mtc
-* Maps: https://portal.mtc.gob.pe/transportes/caminos/normas_carreteras/mapas_viales.html https://www.gob.pe/institucion/mtc/informes-publicaciones/4656456-mapas-viales-departamentales-del-sinac-2023-d-s-n-011-2016-mtc
+* Definitions: [https://portal.mtc.gob.pe/transportes/caminos/rutas.html](https://web.archive.org/web/20230701203605/https://portal.mtc.gob.pe/transportes/caminos/rutas.html) https://www.gob.pe/institucion/mtc/colecciones/3142-clasificador-de-rutas-del-sistema-nacional-de-carreteras-sinac-d-s-n-011-2016-mtc
+* Maps: [https://portal.mtc.gob.pe/transportes/caminos/normas_carreteras/mapas_viales.html](https://web.archive.org/web/20230701203532/https://portal.mtc.gob.pe/transportes/caminos/normas_carreteras/mapas_viales.html) https://www.gob.pe/institucion/mtc/informes-publicaciones/4656456-mapas-viales-departamentales-del-sinac-2023-d-s-n-011-2016-mtc
 
 Notes on routes:
 * PE-1N is signed.
@@ -129,6 +129,8 @@ Notes on routes:
 * PE-22A is partly signed as PE-1SA, its former designation west of San Juan de Tantarache, on [guide signs](https://www.google.com/maps/@-12.6527628,-76.6386775,3a,73.9y,339.77h,85.21t/data=!3m6!1e1!3m4!1sdRvi8gdSHEyA5Aqcv8x1bg!2e0!7i13312!8i6656?entry=ttu) and [km posts](https://youtu.be/0ZRkLQyMxZ8?t=141).
 * PE-22B [is signed](https://www.google.com/maps/@-11.3956279,-75.8808896,3a,15y,8.7h,80.52t/data=!3m6!1e1!3m4!1sdZbyYRHLc1EVpcATtCdxrg!2e0!7i16384!8i8192?entry=ttu).
 * PE-24 [is signed](https://www.google.com/maps/@-12.2339191,-75.6380545,3a,15y,302.83h,79.69t/data=!3m6!1e1!3m4!1sJnnNiEHLBbBumwpTZGGe2Q!2e0!7i16384!8i8192?entry=ttu).
+  * PE-24's route thru Imperial is from the 2016 district map (with an assumed one-way pair on Calle 28 de Julio westbound).
+  * PE-24 is assumed to use the new alignment west of Chupaca, even though maps (including 2022 and 2023) continue to show the (poor-quality) old alignment.
 * PE-24A [is signed](https://www.google.com/maps/@-11.9151496,-75.3245691,3a,15y,62.82h,80.79t/data=!3m6!1e1!3m4!1scHzCVidWBAjQ6IayZOLxpQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-24B (temporary)
 * PE-24C
