@@ -149,7 +149,6 @@ Notes on routes:
   * PE-28B's route around Chirumpiari as shown on the 2016 district map is not driveable.
   * PE-28B's route thru Kepashiato is from the location of the Kepashiato point in RVN_Pt GIS data.
 * PE-28C [is signed](https://www.google.com/maps/@-11.3461845,-74.5232496,3a,15y,176.06h,83.24t/data=!3m6!1e1!3m4!1st-8yFl6q0I56GME-SyJ2LQ!2e0!7i16384!8i8192?entry=ttu). The south end [is signed](https://www.google.com/maps/@-12.6084275,-73.7709888,3a,15y,26.43h,90.44t/data=!3m6!1e1!3m4!1s2sVLWd-c3yypsPLLYojPmg!2e0!7i16384!8i8192?entry=ttu) on what appears to be a realignment from what maps show.
-* PE-28E
 * PE-28J
 * PE-30 [is signed as PE-26](https://www.google.com/maps/@-15.1440388,-74.982367,3a,15y,267.41h,84.98t/data=!3m6!1e1!3m4!1smT2P6sa1KRWQ9FUk87gx-Q!2e0!7i13312!8i6656?entry=ttu) (its former number) as of 2013. Since current PE-26 is correctly signed, this has been mapped as PE-30.
 * PE-30A [is signed](https://www.google.com/maps/@-14.84068,-74.934016,3a,15y,38.26h,78.75t/data=!3m6!1e1!3m4!1skkBQOHOIc7ek9ZoyToJIlw!2e0!7i16384!8i8192?entry=ttu).
@@ -157,8 +156,9 @@ Notes on routes:
 * PE-30C [is signed](https://www.google.com/maps/@-13.6869761,-71.5999965,3a,35.5y,261.55h,98.63t/data=!3m6!1e1!3m4!1sa4b0EIYz3h97YwqWKuOUQQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-30D
 * PE-32 [is signed](https://www.google.com/maps/@-15.416346,-73.5576994,3a,25y,333.14h,76.04t/data=!3m6!1e1!3m4!1s3D6al3_9H-jhW-pwpa4bzw!2e0!7i16384!8i8192?entry=ttu).
+  * PE-32's route thru Coracora is from the 2016 district map.
 * PE-32A
-* PE-32C
+* PE-32C [is signed](https://www.google.com/maps/@-15.2738374,-73.5715706,3a,15y,59.31h,75.35t/data=!3m6!1e1!3m4!1sAYOyazCjRULr2jCDYSe-gA!2e0!7i16384!8i8192?entry=ttu).
 * PE-34 [is signed](https://www.google.com/maps/@-16.9938083,-72.0868329,3a,15.1y,160.4h,105.63t/data=!3m6!1e1!3m4!1s69evTtZcmBy3Ini9PGE4bA!2e0!7i16384!8i8192?entry=ttu).
 * PE-34A
 * PE-34B [is signed](https://www.google.com/maps/@-13.189832,-70.3850631,3a,32.7y,251.02h,84.63t/data=!3m6!1e1!3m4!1sljqsUECSEC44N127TQR-cA!2e0!7i16384!8i8192?entry=ttu).
@@ -231,6 +231,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-20K
 * PE-22C
 * PE-28D
+* PE-28E
 * PE-28F
 * PE-28G
 * PE-34E
