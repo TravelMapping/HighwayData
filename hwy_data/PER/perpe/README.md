@@ -157,7 +157,7 @@ Notes on routes:
 * PE-30D
 * PE-32 [is signed](https://www.google.com/maps/@-15.416346,-73.5576994,3a,25y,333.14h,76.04t/data=!3m6!1e1!3m4!1s3D6al3_9H-jhW-pwpa4bzw!2e0!7i16384!8i8192?entry=ttu).
   * PE-32's route thru Coracora is from the 2016 district map.
-* PE-32A
+* PE-32A [is signed](https://youtu.be/EJL75-CM5L0?t=551).
 * PE-32C [is signed](https://www.google.com/maps/@-15.2738374,-73.5715706,3a,15y,59.31h,75.35t/data=!3m6!1e1!3m4!1sAYOyazCjRULr2jCDYSe-gA!2e0!7i16384!8i8192?entry=ttu).
 * PE-34 [is signed](https://www.google.com/maps/@-16.9938083,-72.0868329,3a,15.1y,160.4h,105.63t/data=!3m6!1e1!3m4!1s69evTtZcmBy3Ini9PGE4bA!2e0!7i16384!8i8192?entry=ttu).
 * PE-34A
