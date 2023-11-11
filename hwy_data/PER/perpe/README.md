@@ -16,7 +16,6 @@ Notes on routes:
 * PE-1NT [is signed](https://www.google.com/maps/@-4.5526082,-80.0920306,3a,15.8y,304.56h,69.28t/data=!3m6!1e1!3m4!1srWADUDrq2jBUVhrObIvitQ!2e0!7i16384!8i8192?entry=ttu) (but also [as PI-104](https://www.google.com/maps/@-4.6820681,-79.7782761,3a,15y,139.62h,93.35t/data=!3m6!1e1!3m4!1srTMZEWwZ0bfNI2OYZRHZOg!2e0!7i16384!8i8192?entry=ttu)).
   * PE-1NT's route thru Ayabaca is from the 2016 district map, but there may be a one-way pair.
 * PE-1S is signed.
-* PE-1SB
 * PE-1SC [is signed](https://www.google.com/maps/@-13.6086449,-75.3485876,3a,15y,184.69h,91.98t/data=!3m6!1e1!3m4!1srySQ3odRpAA5S0h8jVJ6EA!2e0!7i16384!8i8192?entry=ttu).
 * PE-1SD [is signed](https://www.google.com/maps/@-16.6588745,-72.6248513,3a,15y,131.68h,88.9t/data=!3m6!1e1!3m4!1scsxunrVVS7dGqCqt9DqbFA!2e0!7i16384!8i8192?entry=ttu).
   * PE-1SD [is signed](https://www.google.com/maps/@-17.1543909,-71.7904517,3a,15.3y,331.64h,89.16t/data=!3m6!1e1!3m4!1siv2hxw5aQf7RIPF08qSzgg!2e0!7i16384!8i8192?entry=ttu) along the realignment between La Curva and Punta de Bombón.
@@ -151,7 +150,6 @@ Notes on routes:
   * PE-28B's route thru Kepashiato is from the location of the Kepashiato point in RVN_Pt GIS data.
 * PE-28C [is signed](https://www.google.com/maps/@-11.3461845,-74.5232496,3a,15y,176.06h,83.24t/data=!3m6!1e1!3m4!1st-8yFl6q0I56GME-SyJ2LQ!2e0!7i16384!8i8192?entry=ttu). The south end [is signed](https://www.google.com/maps/@-12.6084275,-73.7709888,3a,15y,26.43h,90.44t/data=!3m6!1e1!3m4!1s2sVLWd-c3yypsPLLYojPmg!2e0!7i16384!8i8192?entry=ttu) on what appears to be a realignment from what maps show.
 * PE-28E
-* PE-28G
 * PE-28J
 * PE-30 [is signed as PE-26](https://www.google.com/maps/@-15.1440388,-74.982367,3a,15y,267.41h,84.98t/data=!3m6!1e1!3m4!1smT2P6sa1KRWQ9FUk87gx-Q!2e0!7i13312!8i6656?entry=ttu) (its former number) as of 2013. Since current PE-26 is correctly signed, this has been mapped as PE-30.
 * PE-30A [is signed](https://www.google.com/maps/@-14.84068,-74.934016,3a,15y,38.26h,78.75t/data=!3m6!1e1!3m4!1skkBQOHOIc7ek9ZoyToJIlw!2e0!7i16384!8i8192?entry=ttu).
@@ -205,6 +203,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-1NR (though the portion between Chulucanas and Morropón seems lower-quality)
 * PE-1NS
 * PE-1NU
+* PE-1SB
 * PE-02A
   * PE-02A's route thru Canchaque is from the 2016 district map.
 * PE-02C
@@ -233,6 +232,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-22C
 * PE-28D
 * PE-28F
+* PE-28G
 * PE-34E
 * PE-34F
 * PE-36
