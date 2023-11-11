@@ -151,7 +151,6 @@ Notes on routes:
   * PE-28B's route thru Kepashiato is from the location of the Kepashiato point in RVN_Pt GIS data.
 * PE-28C [is signed](https://www.google.com/maps/@-11.3461845,-74.5232496,3a,15y,176.06h,83.24t/data=!3m6!1e1!3m4!1st-8yFl6q0I56GME-SyJ2LQ!2e0!7i16384!8i8192?entry=ttu). The south end [is signed](https://www.google.com/maps/@-12.6084275,-73.7709888,3a,15y,26.43h,90.44t/data=!3m6!1e1!3m4!1s2sVLWd-c3yypsPLLYojPmg!2e0!7i16384!8i8192?entry=ttu) on what appears to be a realignment from what maps show.
 * PE-28E
-* PE-28F
 * PE-28G
 * PE-28J
 * PE-30 [is signed as PE-26](https://www.google.com/maps/@-15.1440388,-74.982367,3a,15y,267.41h,84.98t/data=!3m6!1e1!3m4!1smT2P6sa1KRWQ9FUk87gx-Q!2e0!7i13312!8i6656?entry=ttu) (its former number) as of 2013. Since current PE-26 is correctly signed, this has been mapped as PE-30.
@@ -233,6 +232,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-20K
 * PE-22C
 * PE-28D
+* PE-28F
 * PE-34E
 * PE-34F
 * PE-36
