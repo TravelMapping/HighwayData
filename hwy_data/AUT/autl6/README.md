@@ -9,3 +9,4 @@
 
 **NOTES TO ROUTES:**
 - Location of `L526` unknown, not drafted
+- `L746` was likely downgraded when the B320 junction was closed in 2021 or 2022
