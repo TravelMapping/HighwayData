@@ -163,11 +163,10 @@ Notes on routes:
 * PE-34B [is signed](https://www.google.com/maps/@-13.433041,-70.3959405,3a,15y,94.33h,83.38t/data=!3m6!1e1!3m4!1srp3Umx1OofNcqltXIE3kgw!2e0!7i16384!8i8192?entry=ttu) with a standalone shield.
   * PE-34B bypasses downtown Macusani according to [the placement of km posts 180 and 185](https://www.google.com/maps/dir/-14.0750722,-70.4104679/-14.0518123,-70.4398267/@-14.0631938,-70.4347373,4190m/data=!3m1!1e3!4m2!4m1!3e0?entry=ttu).
 * PE-34C [is signed](https://www.google.com/maps/@-16.3630049,-71.2277664,3a,15y,271.58h,82.19t/data=!3m6!1e1!3m4!1sV-pUczUAOaLOdHGFRdbZ0w!2e0!7i16384!8i8192?entry=ttu).
-* PE-34E [is signed](https://www.google.com/maps/@-16.0547353,-71.4104472,3a,15y,73.91h,77.46t/data=!3m6!1e1!3m4!1suMK-2TuAd4LiyGcJCrL-Bw!2e0!7i16384!8i8192?entry=ttu). It also has at least one standalone sign for [url=https://www.google.com/maps/@-16.0530105,-71.4093087,3a,15y,44.7h,85.22t/data=!3m6!1e1!3m4!1sgfpZvXlk1Pv1CI2XhS8-sg!2e0!7i16384!8i8192?entry=ttu]AR-111[/url].
-* PE-34G
+* PE-34E [is signed](https://www.google.com/maps/@-15.2384579,-71.1588802,3a,15y,199.3h,88.95t/data=!3m6!1e1!3m4!1sKCPmn1nfMRYJ6DN5obPADQ!2e0!7i16384!8i8192?entry=ttu) with standalone signs. It also has at least one standalone sign for [AR-111](https://www.google.com/maps/@-16.0530105,-71.4093087,3a,15y,44.7h,85.22t/data=!3m6!1e1!3m4!1sgfpZvXlk1Pv1CI2XhS8-sg!2e0!7i16384!8i8192?entry=ttu).
 * PE-34H [is signed](https://www.google.com/maps/@-15.2341306,-69.8280726,3a,15.6y,31.75h,88.69t/data=!3m6!1e1!3m4!1s-QSwqjJGvUIqXYEFXOZtrQ!2e0!7i13312!8i6656?entry=ttu), though west of PE-34I it [is erroneously signed as part of PE-34I](https://www.google.com/maps/@-15.3017751,-69.9751513,3a,15y,20.65h,75.35t/data=!3m6!1e1!3m4!1sf0Vh_8Voth-jncdZKOggMA!2e0!7i13312!8i6656?entry=ttu).
 * PE-34I [is signed](https://www.google.com/maps/@-15.2315109,-69.8216393,3a,30.9y,99.05h,67.05t/data=!3m6!1e1!3m4!1sC9OMFTYkP-Gp4y6pW-KvsQ!2e0!7i13312!8i6656?entry=ttu).
-* PE-34J [is signed](https://www.google.com/maps/@-15.7671487,-71.0050436,3a,15.1y,17.16h,82.56t/data=!3m6!1e1!3m4!1sLc3P_iCTf_CrFKQGggJjPw!2e0!7i16384!8i8192?entry=ttu).
+* PE-34J [is signed](https://www.google.com/maps/@-15.1844759,-71.1701802,3a,15y,24.76h,92.61t/data=!3m6!1e1!3m4!1soPfpcWYwgkWn9CkZRiLLMA!2e0!7i16384!8i8192?entry=ttu); it [follows the new cutoffs to and overlaps PE-34E](https://www.google.com/maps/@-15.2413189,-71.1547475,3a,15y,28.1h,79.29t/data=!3m6!1e1!3m4!1sg2RQNmAPL0ccpOPgd5ZWpg!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the Ocoruro bypass (the latest imagery predates it).
 * PE-34K [is signed](https://www.google.com/maps/@-14.3375165,-70.242889,3a,15.5y,61.69h,80.9t/data=!3m6!1e1!3m4!1sSv_Cc8EVJdoax-zOAvtqyg!2e0!7i16384!8i8192?entry=ttu).
 * PE-34L
 * PE-34M (temporary)
@@ -235,8 +234,9 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-28E
 * PE-28F
 * PE-28G
-* PE-34A has at least one sign for [url=https://www.google.com/maps/@-16.2570549,-71.6816165,3a,17.7y,10.77h,81.48t/data=!3m6!1e1!3m4!1s9G4sGzP6Kc3kMnB0Ds0eyQ!2e0!7i16384!8i8192?entry=ttu]PE-28[/url], a former designation for PE-34E (if not PE-34A itself here).
+* PE-34A has at least one sign for [PE-28](https://www.google.com/maps/@-16.2570549,-71.6816165,3a,17.7y,10.77h,81.48t/data=!3m6!1e1!3m4!1s9G4sGzP6Kc3kMnB0Ds0eyQ!2e0!7i16384!8i8192?entry=ttu), a former designation for PE-34E (if not PE-34A itself here).
 * PE-34F
+* PE-34G
 * PE-36
 
 The following unsigned routes are not included:
