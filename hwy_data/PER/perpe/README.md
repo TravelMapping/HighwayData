@@ -185,6 +185,7 @@ Notes on routes:
 * PE-36F (temporary) [is signed](https://www.google.com/maps/@-16.8684616,-70.127449,3a,15y,161.22h,80.92t/data=!3m6!1e1!3m4!1sGwsb2Tu-eNeKZpNLDf-9BQ!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-132.
 * PE-38 [is signed](https://www.google.com/maps/@-17.9450691,-70.2563707,3a,15.1y,145.44h,79.71t/data=!3m6!1e1!3m4!1s89hBQZgLpBDBBSStz1akaw!2e0!7i16384!8i8192?entry=ttu).
 * PE-38A [is signed](https://www.google.com/maps/@-16.0935922,-69.6264506,3a,15y,291.64h,90.5t/data=!3m6!1e1!3m4!1sEQurHBZbLk9j8c-F9Lt_fQ!2e0!7i16384!8i8192?entry=ttu).
+* PE-38B [is signed](https://www.google.com/maps/@-16.3227768,-69.6287276,3a,15.6y,93.03h,70.04t/data=!3m6!1e1!3m4!1sDM3PFRTRe9ztSTedD2wrEQ!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-128 that no longer shows up on maps.
 * PE-40 [is signed](https://www.google.com/maps/@-17.8615169,-70.0738987,3a,15y,30.84h,85.09t/data=!3m6!1e1!3m4!1sNLL6MS5USVKSzL8y6mxVmA!2e0!7i16384!8i8192?entry=ttu).
 * PE-40A [is signed](https://www.google.com/maps/@-17.543355,-69.5897348,3a,34.8y,150.89h,90.32t/data=!3m6!1e1!3m4!1sOxCx3-NiGxfHURfj7jktjw!2e0!7i16384!8i8192?entry=ttu).
 
