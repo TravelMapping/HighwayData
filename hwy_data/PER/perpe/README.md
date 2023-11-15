@@ -66,7 +66,7 @@ Notes on routes:
 * PE-3SR (temporary) [is signed](https://www.google.com/maps/@-15.6715033,-70.7990752,3a,15y,312.99h,83.31t/data=!3m6!1e1!3m4!1sHdLFxCEKJsLriJSPjs9NTg!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-136.
 * PE-3SS (temporary)
 * PE-3ST (temporary) [appears to be signed](https://www.google.com/maps/@-15.9479725,-69.8311762,3a,15y,104.44h,87.51t/data=!3m6!1e1!3m4!1ssRjf-MLTZNke4TcOMpVVfw!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-126.
-* PE-3SU (temporary)
+* PE-3SU (temporary) [is signed](https://www.google.com/maps/@-16.5934798,-69.4054489,3a,15y,356.01h,91.73t/data=!3m6!1e1!3m4!1sZW6radQjJmkxxOm-VwtHAg!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-129.
 * PE-3SV [is signed](https://www.google.com/maps/@-13.5534864,-72.8136791,3a,15y,320.59h,81.46t/data=!3m6!1e1!3m4!1syCQq8aBiyPqh1ex7EUmFeQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SW
 * PE-3SX
@@ -180,11 +180,9 @@ Notes on routes:
 * PE-34T (temporary)
 * PE-34U (temporary) [is signed](https://www.google.com/maps/@-15.666637,-70.3678569,3a,15y,149.81h,83.19t/data=!3m6!1e1!3m4!1so4ju7bQabXedu4j0Gb4LJg!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-122.
 * PE-36A [is signed](https://www.google.com/maps/@-16.8568015,-70.5079335,3a,15.4y,244.14h,76.65t/data=!3m6!1e1!3m4!1s4wPDuY331ObHMWFg55Tmzg!2e0!7i16384!8i8192?entry=ttu).
-* PE-36B
-* PE-36C
 * PE-36D [is signed](https://www.google.com/maps/@-17.5800041,-71.0481049,3a,15y,304.52h,77.91t/data=!3m6!1e1!3m4!1svpPod-3Ym3yyJZttH5tipw!2e0!7i16384!8i8192?entry=ttu).
-* PE-36E (temporary)
-* PE-36F (temporary)
+* PE-36E (temporary) [is signed](https://www.google.com/maps/@-16.5946391,-69.3996018,3a,15y,224.5h,84.97t/data=!3m6!1e1!3m4!1s1zcZqgbAPJ023YnyRZLfRQ!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-131.
+* PE-36F (temporary) [is signed](https://www.google.com/maps/@-16.8684616,-70.127449,3a,15y,161.22h,80.92t/data=!3m6!1e1!3m4!1sGwsb2Tu-eNeKZpNLDf-9BQ!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-132.
 * PE-38 [is signed](https://www.google.com/maps/@-17.9450691,-70.2563707,3a,15.1y,145.44h,79.71t/data=!3m6!1e1!3m4!1s89hBQZgLpBDBBSStz1akaw!2e0!7i16384!8i8192?entry=ttu).
 * PE-38A [is signed](https://www.google.com/maps/@-16.0935922,-69.6264506,3a,15y,291.64h,90.5t/data=!3m6!1e1!3m4!1sEQurHBZbLk9j8c-F9Lt_fQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-40 [is signed](https://www.google.com/maps/@-17.8615169,-70.0738987,3a,15y,30.84h,85.09t/data=!3m6!1e1!3m4!1sNLL6MS5USVKSzL8y6mxVmA!2e0!7i16384!8i8192?entry=ttu).
@@ -238,6 +236,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-34F
 * PE-34G
 * PE-36
+* PE-36B
 
 The following unsigned routes are not included:
 * PE-1NG (mostly unbuilt)
@@ -262,6 +261,7 @@ The following unsigned routes are not included:
 * PE-22D (unbuilt)
 * PE-28A west of PE-1S (unbuilt)
 * PE-28H (low quality and possibly partly unbuilt)
+* PE-36C (low quality for the area)
 
 Other notes:
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
@@ -277,6 +277,9 @@ Other notes:
 * [R-70](https://www.google.com/maps/@-4.7170964,-79.8329446,3a,21.6y,190.29h,87.44t/data=!3m6!1e1!3m4!1ssl5jsUbVVxoeUQrwqT_DnQ!2e0!7i16384!8i8192?entry=ttu) (also on km 0 post)?
 * [R-70](https://www.google.com/maps/@-14.8139671,-70.2478372,3a,15y,286.06h,84.09t/data=!3m6!1e1!3m4!1sKMOSYU7jMSnFQe8iKLx9uw!2e0!7i16384!8i8192?entry=ttu)?
 * [R-79](https://www.google.com/maps/@-14.7156776,-70.3607257,3a,15y,338.37h,86.92t/data=!3m6!1e1!3m4!1sMInEtaCUWscu08qmtv_AYw!2e0!7i16384!8i8192?entry=ttu) (maps show PU-627)?
+* [R-116](https://www.google.com/maps/@-16.5961494,-69.2023996,3a,15y,189.56h,79.48t/data=!3m6!1e1!3m4!1sKDSbTZ6RYnwKHrDlFf8cJg!2e0!7i16384!8i8192?entry=ttu)?
+* [R-163](https://www.google.com/maps/@-16.6734806,-69.4952316,3a,15y,214.39h,76.88t/data=!3m6!1e1!3m4!1sWyopgMbiDXgFWwkHk-k8aA!2e0!7i16384!8i8192?entry=ttu) (maps show PU-1360)?
+* [R-164](https://www.google.com/maps/@-16.5718205,-69.3231431,3a,15y,81.19h,76.61t/data=!3m6!1e1!3m4!1s-57Qkunn0NtN3ahe2ig9OA!2e0!7i16384!8i8192?entry=ttu) (maps show PU-1351)?
 * [FBT K38](https://www.google.com/maps/@-5.8886726,-79.5405079,3a,21.4y,231.85h,89.34t/data=!3m6!1e1!3m4!1sai5vO_tif7qd8wtefoSx0Q!2e0!7i16384!8i8192?entry=ttu)?
 * [R110-117](https://www.google.com/maps/@-14.0519596,-75.7044159,3a,15y,174.08h,78.25t/data=!3m6!1e1!3m4!1ssklLSm1EqQoQ2Txn7yL5lw!2e0!7i16384!8i8192?entry=ttu)?
 * [R110-168](https://www.google.com/maps/@-13.9288492,-75.6713146,3a,15y,-14.29h,75.74t/data=!3m6!1e1!3m4!1svvS8832ru90bPpGcYH2VQw!2e0!7i16384!8i8192?entry=ttu)?
