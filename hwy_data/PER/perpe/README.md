@@ -7,8 +7,6 @@ Sources:
 Notes on routes:
 * PE-1N is signed.
   * PE-1N thru Chimbote is shown in official sources using Avenida Pescadores and Avenida Pardo in one direction (probably southbound), but this does not seem to be signed.
-* PE-1NA
-* PE-1ND
 * PE-1NE [is signed](https://www.google.com/maps/@-11.0607301,-77.560366,3a,15y,295.09h,82.18t/data=!3m6!1e1!3m4!1sWTQEZSRhs9zuJmMNupQYxQ!2e0!7i16384!8i8192?entry=ttu), including [on what is actually PE-18](https://www.google.com/maps/@-11.413731,-77.3705934,3a,41.7y,84.37h,98.03t/data=!3m6!1e1!3m4!1sW9Iogs7OZzlWbGGy4nX91g!2e0!7i16384!8i8192?entry=ttu).
 * PE-1NJ [is signed](https://www.google.com/maps/@-6.6745808,-79.900585,3a,15y,222.88h,82.95t/data=!3m6!1e1!3m4!1srRDKmPdqq8mBaNgW_AV8BA!2e0!7i16384!8i8192?entry=ttu), including [on the new bypass of Piura](https://www.google.com/maps/@-5.1854085,-80.5665495,3a,15y,167.24h,73.38t/data=!3m6!1e1!3m4!1sc2-vPowIvejrO7yzV8o3ZQ!2e0!7i16384!8i8192?entry=ttu) (kmposted separately from the intersection with old PE-1NJ).
 * PE-1NM [is signed](https://www.google.com/maps/@-4.4106268,-79.9685767,3a,15.1y,114.52h,84.15t/data=!3m6!1e1!3m4!1sVy-NFPZlmT65V9mGWONFgg!2e0!7i16384!8i8192?entry=ttu).
@@ -20,9 +18,7 @@ Notes on routes:
 * PE-1SD [is signed](https://www.google.com/maps/@-16.6588745,-72.6248513,3a,15y,131.68h,88.9t/data=!3m6!1e1!3m4!1scsxunrVVS7dGqCqt9DqbFA!2e0!7i16384!8i8192?entry=ttu).
   * PE-1SD [is signed](https://www.google.com/maps/@-17.1543909,-71.7904517,3a,15.3y,331.64h,89.16t/data=!3m6!1e1!3m4!1siv2hxw5aQf7RIPF08qSzgg!2e0!7i16384!8i8192?entry=ttu) along the realignment between La Curva and Punta de Bombón.
 * PE-1SE [is signed as PE-1S](https://www.google.com/maps/@-13.4199869,-76.1879672,3a,15y,188.5h,80.78t/data=!3m6!1e1!3m4!1s7B7UsoMVXgZWYvqLtIVlWQ!2e0!7i16384!8i8192?entry=ttu) (and so is [actual PE-1S](https://www.google.com/maps/@-13.7461378,-76.161983,3a,15.1y,338.67h,81.04t/data=!3m6!1e1!3m4!1s0ypHqx9YPBYv3n-6hL46kw!2e0!7i16384!8i8192?entry=ttu)), so it has been mapped as PE-1SPis.
-* PE-1SF
-* PE-1SG
-* PE-1SH
+* PE-1SG [is signed](https://www.google.com/maps/@-13.7616919,-76.2328769,3a,15y,165h,80.68t/data=!3m6!1e1!3m4!1su1NWVocplwZqdXctZaQswA!2e0!7i16384!8i8192?entry=ttu).
 * PE-1SJ [is signed](https://www.google.com/maps/@-17.0272732,-71.6848756,3a,15y,127.09h,80.62t/data=!3m6!1e1!3m4!1s1Q0SlF9z1MMRsdsPj20cow!2e0!7i16384!8i8192?entry=ttu).
   * PE-1SJ's west end seems to have been extended to realigned PE-1SD near La Curva, according to [a 2017 document](https://cdn.www.gob.pe/uploads/document/file/19279/1_0_3966.pdf) that lists PE-1SJ as "Emp. PE-1S (Pte. El Fiscal) - Cocachacra - Emp. PE-1SD (La Curva)".
 * PE-02 [is signed](https://www.google.com/maps/@-5.1032909,-81.0664084,3a,15y,314.26h,79.53t/data=!3m6!1e1!3m4!1sasTySbpQ15ZsQz9ENlZ14Q!2e0!7i16384!8i8192?entry=ttu).
@@ -142,7 +138,6 @@ Notes on routes:
 * PE-26B [is signed](https://www.google.com/maps/@-13.0788633,-74.2308938,3a,15.2y,318.81h,83.67t/data=!3m6!1e1!3m4!1shkdrcnR1zzUdpDFeUkzuNg!2e0!7i16384!8i8192?entry=ttu).
   * PE-26B's route thru Huancavelica is from the 2016 district map.
   * PE-26B's route thru Julcamarca is from the 2016 district map (and is how the road physically curves).
-* PE-28 
 * PE-28A [is signed](https://www.google.com/maps/@-13.3746122,-74.9395423,3a,41.1y,162.32h,97.85t/data=!3m6!1e1!3m4!1sREdzCdMgpumj_7Wm6JmptA!2e0!7i16384!8i8192?entry=ttu) (the other side of the sign has its former number, PE-24).
 * PE-28B [is signed](https://www.google.com/maps/@-13.0763964,-74.2215464,3a,15y,55.59h,89.95t/data=!3m6!1e1!3m4!1sdqU0HVDYAa-HbCp5Yoeenw!2e0!7i16384!8i8192?entry=ttu) with a standalone shield!
   * PE-28B's route thru Kimbiri is from the 2016 district map.
@@ -190,7 +185,9 @@ Notes on routes:
 * PE-40A [is signed](https://www.google.com/maps/@-17.543355,-69.5897348,3a,34.8y,150.89h,90.32t/data=!3m6!1e1!3m4!1sOxCx3-NiGxfHURfj7jktjw!2e0!7i16384!8i8192?entry=ttu).
 
 Some routes may be unsigned, but are major highways with destination signs and km posts and have been included due to the overall poor state of signage in Peru:
+* PE-1NA
 * PE-1NB
+* PE-1ND
 * PE-1NF
   * PE-1NF's route thru Chilete is from the 2016 district map.
 * PE-1NI
@@ -203,6 +200,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-1NS
 * PE-1NU
 * PE-1SB
+* PE-1SF
 * PE-02A
   * PE-02A's route thru Canchaque is from the 2016 district map.
 * PE-02C
@@ -229,6 +227,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-20I
 * PE-20K
 * PE-22C
+* PE-28 
 * PE-28D
 * PE-28E
 * PE-28F
@@ -244,6 +243,9 @@ The following unsigned routes are not included:
 * PE-1NI east of Niepos (unbuilt)
 * PE-1NÑ (mostly unbuilt)
 * PE-1NQ (unbuilt)
+* PE-1SF east of west end of PE-1SG (unbuilt or poor quality)
+* PE-1SG east of Pisco (poor quality)
+* PE-1SH (unbuilt)
 * PE-3N at the border (unbuilt)
 * PE-3NB (poor quality and a short unbuilt gap)
 * PE-3NG (poor quality)
@@ -261,8 +263,8 @@ The following unsigned routes are not included:
 * PE-20J (temporary) (mostly unbuilt)
 * PE-22D (unbuilt)
 * PE-28A west of PE-1S (unbuilt)
-* PE-28H (low quality and possibly partly unbuilt)
-* PE-36C (low quality for the area)
+* PE-28H (poor quality and possibly partly unbuilt)
+* PE-36C (poor quality for the area)
 
 Other notes:
 * JU-577 provides an example of a [signed departmental route](https://www.google.com/maps/@-11.35767,-75.6328823,3a,15y,312.83h,80.57t/data=!3m6!1e1!3m4!1sbBj9MJVXAFLW0TRt5lkn_g!2e0!7i16384!8i8192?entry=ttu).
