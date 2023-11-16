@@ -48,11 +48,11 @@ Notes on routes:
 * PE-3SB [is signed](https://www.google.com/maps/@-11.8121338,-75.4728247,3a,15y,258.47h,79.98t/data=!3m6!1e1!3m4!1spNEedYwzD05qOOgDzHW8GQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SD [is signed](https://www.google.com/maps/@-12.3104274,-75.0394409,3a,28.4y,212.42h,101.92t/data=!3m8!1e1!3m6!1sAF1QipMLeZAgA5QgyhBWZZbsA8Sjvd9hJ8PVwNQP1zZp!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMLeZAgA5QgyhBWZZbsA8Sjvd9hJ8PVwNQP1zZp%3Dw203-h100-k-no-pi-0-ya252.92688-ro0-fo100!7i10752!8i4814?entry=ttu).
 * PE-3SE [is signed](https://www.google.com/maps/@-13.6841572,-73.1298072,3a,15y,159.15h,85.91t/data=!3m6!1e1!3m4!1syyUw0EKstnu4noRXbyd0-Q!2e0!7i16384!8i8192?entry=ttu).
+* PE-3SF [is signed](https://youtu.be/73EflFk_uSQ?t=1853).
 * PE-3SG [is signed](https://www.google.com/maps/@-14.8933268,-70.5947571,3a,15y,239.66h,86.08t/data=!3m6!1e1!3m4!1sXzycbg_kethJFs35eCznIg!2e0!7i16384!8i8192?entry=ttu).
   * PE-3SG's route thru Yauri is from the 2023 departmental map, with minor changes where the new Avenida Circunvalación has obviously replaced the old route.
 * PE-3SH [is signed](https://www.google.com/maps/@-15.0434182,-70.3658437,3a,15y,357.2h,82.97t/data=!3m6!1e1!3m4!1sG-HJhVAJPBQ5d57Tb-HrBQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SL
-* PE-3SM
 * PE-3SM (temporary)
 * PE-3SN (temporary)
 * PE-3SÑ (temporary)
@@ -65,8 +65,6 @@ Notes on routes:
 * PE-3SU (temporary) [is signed](https://www.google.com/maps/@-16.5934798,-69.4054489,3a,15y,356.01h,91.73t/data=!3m6!1e1!3m4!1sZW6radQjJmkxxOm-VwtHAg!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-129.
 * PE-3SV [is signed](https://www.google.com/maps/@-13.5534864,-72.8136791,3a,15y,320.59h,81.46t/data=!3m6!1e1!3m4!1syCQq8aBiyPqh1ex7EUmFeQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SW
-* PE-3SX
-* PE-3SY
 * PE-3SZ [is signed as PE-3SB](https://www.google.com/maps/@-12.1289537,-75.2489238,3a,15y,46.44h,78.3t/data=!3m6!1e1!3m4!1szie2r0ZjHHU2UfKZuBJ89w!2e0!7i16384!8i8192?entry=ttu) (its pre-2018 number).
 * PE-3SAA
 * PE-5N [is signed](https://www.google.com/maps/@-10.3245516,-74.9858739,3a,39.7y,220.72h,87.86t/data=!3m6!1e1!3m4!1sIyLGMcPa5A7aMpV8TXrXgg!2e0!7i16384!8i8192?entry=ttu).
@@ -206,8 +204,9 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-02C
 * PE-3NE
 * PE-3SC ([may be signed](https://www.google.com/maps/@-12.3105106,-75.0397034,3a,15y,148.63h,92.09t/data=!3m8!1e1!3m6!1sAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR%3Dw203-h100-k-no-pi-0-ya169.05249-ro-0-fo100!7i8704!8i4352?entry=ttu))
-* PE-3SF
 * PE-3SK
+* PE-3SM
+* PE-3SY
 * PE-04
 * PE-04B
 * PE-04C
@@ -249,6 +248,7 @@ The following unsigned routes are not included:
 * PE-3N at the border (unbuilt)
 * PE-3NB (poor quality and a short unbuilt gap)
 * PE-3NG (poor quality)
+* PE-3SX (poor quality but no imagery to check signage)
 * PE-04A (unbuilt)
 * PE-5S south of somewhere (unbuilt)
 * PE-08B for a portion east of Mendoza (unbuilt)
