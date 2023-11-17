@@ -50,6 +50,7 @@ Notes on routes:
 * PE-3SF [is signed](https://youtu.be/73EflFk_uSQ?t=1853).
 * PE-3SG [is signed](https://www.google.com/maps/@-14.8933268,-70.5947571,3a,15y,239.66h,86.08t/data=!3m6!1e1!3m4!1sXzycbg_kethJFs35eCznIg!2e0!7i16384!8i8192?entry=ttu).
   * PE-3SG's route thru Yauri is from the 2023 departmental map, with minor changes where the new Avenida Circunvalación has obviously replaced the old route.
+  * PE-3SG's route thru Challhuahuacho is from the 2016 district map, with the realignment on the 2023 departmental map.
 * PE-3SH [is signed](https://www.google.com/maps/@-15.0434182,-70.3658437,3a,15y,357.2h,82.97t/data=!3m6!1e1!3m4!1sG-HJhVAJPBQ5d57Tb-HrBQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-3SL
 * PE-3SM (temporary)
