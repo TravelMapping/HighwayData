@@ -22,7 +22,6 @@ Notes on routes:
 * PE-1SJ [is signed](https://www.google.com/maps/@-17.0272732,-71.6848756,3a,15y,127.09h,80.62t/data=!3m6!1e1!3m4!1s1Q0SlF9z1MMRsdsPj20cow!2e0!7i16384!8i8192?entry=ttu).
   * PE-1SJ's west end seems to have been extended to realigned PE-1SD near La Curva, according to [a 2017 document](https://cdn.www.gob.pe/uploads/document/file/19279/1_0_3966.pdf) that lists PE-1SJ as "Emp. PE-1S (Pte. El Fiscal) - Cocachacra - Emp. PE-1SD (La Curva)".
 * PE-02 [is signed](https://www.google.com/maps/@-5.1032909,-81.0664084,3a,15y,314.26h,79.53t/data=!3m6!1e1!3m4!1sasTySbpQ15ZsQz9ENlZ14Q!2e0!7i16384!8i8192?entry=ttu).
-* PE-02B
 * PE-02D (temporary)
 * PE-3N [is signed](https://www.google.com/maps/@-9.8630217,-76.6104044,3a,31y,235.9h,87.28t/data=!3m6!1e1!3m4!1sl-NFafNQaHSripKjADwGHA!2e0!7i13312!8i6656?entry=ttu).
   * PE-3N's route thru La Unión is from the 2016 district map. There may be a one-way pair as Google Maps shows, but it's unclear from the available 2014 imagery (or one [2017 view](https://www.google.com/maps/@-9.8323051,-76.8026491,3a,15y,149.42h,100.03t/data=!3m8!1e1!3m6!1sAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMdGMvLC3tkk9D0_iAxLnQIAc6peL0YurO2qlxN%3Dw203-h100-k-no-pi0-ya335.1366-ro-0-fo100!7i8704!8i4352?entry=ttu)).
@@ -64,9 +63,7 @@ Notes on routes:
 * PE-3ST (temporary) [appears to be signed](https://www.google.com/maps/@-15.9479725,-69.8311762,3a,15y,104.44h,87.51t/data=!3m6!1e1!3m4!1ssRjf-MLTZNke4TcOMpVVfw!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-126.
 * PE-3SU (temporary) [is signed](https://www.google.com/maps/@-16.5934798,-69.4054489,3a,15y,356.01h,91.73t/data=!3m6!1e1!3m4!1sZW6radQjJmkxxOm-VwtHAg!2e0!7i16384!8i8192?entry=ttu) despite being a temporary designation for PU-129.
 * PE-3SV [is signed](https://www.google.com/maps/@-13.5534864,-72.8136791,3a,15y,320.59h,81.46t/data=!3m6!1e1!3m4!1syCQq8aBiyPqh1ex7EUmFeQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-3SW
 * PE-3SZ [is signed as PE-3SB](https://www.google.com/maps/@-12.1289537,-75.2489238,3a,15y,46.44h,78.3t/data=!3m6!1e1!3m4!1szie2r0ZjHHU2UfKZuBJ89w!2e0!7i16384!8i8192?entry=ttu) (its pre-2018 number).
-* PE-3SAA
 * PE-5N [is signed](https://www.google.com/maps/@-10.3245516,-74.9858739,3a,39.7y,220.72h,87.86t/data=!3m6!1e1!3m4!1sIyLGMcPa5A7aMpV8TXrXgg!2e0!7i16384!8i8192?entry=ttu).
   * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
 * PE-5NA [is signed](https://www.google.com/maps/@-9.5571257,-75.0134336,3a,15y,191.96h,88.28t/data=!3m6!1e1!3m4!1sry_quipsp9v5TJvobxrB2A!2e0!7i16384!8i8192?entry=ttu) (on what seems to be a recent realignment).
@@ -201,11 +198,17 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-1SF
 * PE-02A
   * PE-02A's route thru Canchaque is from the 2016 district map.
+* PE-02B
+  * PE-02B's route thru Tamborapa is from the 2016 Tabaconas district map.
 * PE-02C
 * PE-3NE
 * PE-3SC ([may be signed](https://www.google.com/maps/@-12.3105106,-75.0397034,3a,15y,148.63h,92.09t/data=!3m8!1e1!3m6!1sAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR%3Dw203-h100-k-no-pi-0-ya169.05249-ro-0-fo100!7i8704!8i4352?entry=ttu))
 * PE-3SK
 * PE-3SM
+  * PE-3SM's route thru Acobamba is from the 2016 district map.
+  * PE-3SM's route thru Marcas is from the 2016 district map.
+* PE-3SW
+  * PE-3SW is assumed to use the new cutoff west of the Yauri airport (following pavement).
 * PE-3SY
 * PE-04
 * PE-04B
@@ -228,7 +231,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-22C
 * PE-28 
 * PE-28D
-* PE-28E
+* PE-28E 
 * PE-28F
 * PE-28G
 * PE-34A has at least one sign for [PE-28](https://www.google.com/maps/@-16.2570549,-71.6816165,3a,17.7y,10.77h,81.48t/data=!3m6!1e1!3m4!1s9G4sGzP6Kc3kMnB0Ds0eyQ!2e0!7i16384!8i8192?entry=ttu), a former designation for PE-34E (if not PE-34A itself here).
@@ -249,6 +252,7 @@ The following unsigned routes are not included:
 * PE-3NB (poor quality and a short unbuilt gap)
 * PE-3NG (poor quality)
 * PE-3SX (poor quality but no imagery to check signage)
+* PE-3SAA (unbuilt)
 * PE-04A (unbuilt)
 * PE-5S south of somewhere (unbuilt)
 * PE-08B for a portion east of Mendoza (unbuilt)
@@ -289,3 +293,5 @@ Other notes:
 * [R21-056](https://www.google.com/maps/@-15.5248826,-70.1824487,3a,15y,111.28h,77.62t/data=!3m6!1e1!3m4!1sVC-EMdOOC8Wf9S1hWWYQJw!2e0!7i16384!8i8192?entry=ttu)?
 * [Ramal something](https://www.google.com/maps/@-12.0996004,-75.2465926,3a,15.1y,261.37h,75.78t/data=!3m6!1e1!3m4!1se3moVEThr2kUERqQMxY-bg!2e0!7i16384!8i8192?entry=ttu)?
 * [Random exit number](https://www.google.com/maps/@-9.9308328,-76.2346783,3a,35.8y,344.51h,87.29t/data=!3m6!1e1!3m4!1sEU-lf8w_CGiBDTFl7c5ljg!2e0!7i13312!8i6656?entry=ttu)?
+
+Still to be mapped: 5N*, 5S*
