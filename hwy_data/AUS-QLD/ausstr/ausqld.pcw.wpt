@@ -92,7 +92,7 @@ QLD15 http://www.openstreetmap.org/?lat=-26.220328&lon=152.686872
 QLD51 http://www.openstreetmap.org/?lat=-26.205350&lon=152.671938
 RivRd http://www.openstreetmap.org/?lat=-26.194126&lon=152.660887
 ChaSt http://www.openstreetmap.org/?lat=-26.190910&lon=152.656403
-T40 http://www.openstreetmap.org/?lat=-26.163450&lon=152.640009
+TD40 T40 http://www.openstreetmap.org/?lat=-26.163450&lon=152.640009
 +X776745 http://www.openstreetmap.org/?lat=-26.140606&lon=152.606535
 QLD49 http://www.openstreetmap.org/?lat=-26.124001&lon=152.573919
 HarSidRd http://www.openstreetmap.org/?lat=-26.053101&lon=152.581730
@@ -100,8 +100,8 @@ HarSidRd http://www.openstreetmap.org/?lat=-26.053101&lon=152.581730
 BalSt http://www.openstreetmap.org/?lat=-25.987251&lon=152.568812
 +x679 http://www.openstreetmap.org/?lat=-25.973671&lon=152.595806
 ArbTenRd http://www.openstreetmap.org/?lat=-25.929932&lon=152.603617
-BauWooRd http://www.openstreetmap.org/?lat=-25.842230&lon=152.591171
-T6 http://www.openstreetmap.org/?lat=-25.764909&lon=152.598209
+TD6_S BauWooRd http://www.openstreetmap.org/?lat=-25.842230&lon=152.591171
+TD6_N T6 http://www.openstreetmap.org/?lat=-25.764909&lon=152.598209
 NetRd http://www.openstreetmap.org/?lat=-25.733493&lon=152.582631
 BriSt http://www.openstreetmap.org/?lat=-25.726766&lon=152.583103
 +x673 http://www.openstreetmap.org/?lat=-25.645318&lon=152.637520
@@ -115,7 +115,7 @@ WalSt http://www.openstreetmap.org/?lat=-25.513746&lon=152.671251
 HerSt http://www.openstreetmap.org/?lat=-25.465110&lon=152.655458
 +x670 http://www.openstreetmap.org/?lat=-25.386139&lon=152.599926
 GymSt http://www.openstreetmap.org/?lat=-25.348651&lon=152.591879
-WillSt http://www.openstreetmap.org/?lat=-25.324360&lon=152.554908
+TD12 WillSt http://www.openstreetmap.org/?lat=-25.324360&lon=152.554908
 +x668 http://www.openstreetmap.org/?lat=-25.309580&lon=152.461395
 +x667 http://www.openstreetmap.org/?lat=-25.280557&lon=152.387581
 BuxSt http://www.openstreetmap.org/?lat=-25.255564&lon=152.364664
@@ -187,7 +187,7 @@ DenSt http://www.openstreetmap.org/?lat=-23.373400&lon=150.505013
 HighSt http://www.openstreetmap.org/?lat=-23.356598&lon=150.518017
 MusSt http://www.openstreetmap.org/?lat=-23.351555&lon=150.524282
 RicRd http://www.openstreetmap.org/?lat=-23.341704&lon=150.520077
-T10 http://www.openstreetmap.org/?lat=-23.314434&lon=150.516472
+TD10 T10 http://www.openstreetmap.org/?lat=-23.314434&lon=150.516472
 MelRd http://www.openstreetmap.org/?lat=-23.237127&lon=150.490723
 RosRd http://www.openstreetmap.org/?lat=-23.179481&lon=150.459523
 +x607 http://www.openstreetmap.org/?lat=-23.128994&lon=150.400257
@@ -237,15 +237,15 @@ CenSt http://www.openstreetmap.org/?lat=-21.423828&lon=149.217639
 SarBeaRd http://www.openstreetmap.org/?lat=-21.419434&lon=149.216223
 SarHomRd http://www.openstreetmap.org/?lat=-21.402833&lon=149.210751
 HayPoiRd http://www.openstreetmap.org/?lat=-21.322280&lon=149.192448
-+x561 http://www.openstreetmap.org/?lat=-21.269860&lon=149.138889
+MarSunRd http://www.openstreetmap.org/?lat=-21.270719&lon=149.139147
 HomRd http://www.openstreetmap.org/?lat=-21.236862&lon=149.147172
-StoRd http://www.openstreetmap.org/?lat=-21.196576&lon=149.149189
+MacRingRd_S +StoRd http://www.openstreetmap.org/?lat=-21.196576&lon=149.149189
 QLD70 http://www.openstreetmap.org/?lat=-21.166884&lon=149.153438
 LagSt http://www.openstreetmap.org/?lat=-21.159560&lon=149.160969
 GorSt http://www.openstreetmap.org/?lat=-21.143471&lon=149.174938
 SamsRd http://www.openstreetmap.org/?lat=-21.129020&lon=149.163136
 MacBucRd http://www.openstreetmap.org/?lat=-21.121895&lon=149.156184
-+MacRingRd http://www.openstreetmap.org/?lat=-21.115820&lon=149.128965
+MacRingRd_N http://www.openstreetmap.org/?lat=-21.115620&lon=149.129190
 FarHabRd http://www.openstreetmap.org/?lat=-21.102468&lon=149.091479
 +x558 http://www.openstreetmap.org/?lat=-21.089145&lon=149.039068
 YakSeaRd http://www.openstreetmap.org/?lat=-21.069283&lon=149.010143
@@ -327,11 +327,12 @@ QLD13 http://www.openstreetmap.org/?lat=-19.317664&lon=146.766658
 AngSmiDr http://www.openstreetmap.org/?lat=-19.319486&lon=146.758332
 RivBlvd http://www.openstreetmap.org/?lat=-19.321815&lon=146.741810
 QLD93 http://www.openstreetmap.org/?lat=-19.327829&lon=146.727648
+NorBeckDr http://www.openstreetmap.org/?lat=-19.326067&lon=146.715331
 QLD72 http://www.openstreetmap.org/?lat=-19.316975&lon=146.696362
-ShawRd http://www.openstreetmap.org/?lat=-19.302071&lon=146.695805
+ShawRd http://www.openstreetmap.org/?lat=-19.297818&lon=146.694560
 DalRd http://www.openstreetmap.org/?lat=-19.290324&lon=146.687479
 +x496 http://www.openstreetmap.org/?lat=-19.268045&lon=146.663361
-BruHwy http://www.openstreetmap.org/?lat=-19.239259&lon=146.662524
+QLD14 +BruHwy http://www.openstreetmap.org/?lat=-19.239259&lon=146.662524
 BlaRivRd http://www.openstreetmap.org/?lat=-19.225097&lon=146.620960
 +x495 http://www.openstreetmap.org/?lat=-19.209536&lon=146.591606
 ForRd http://www.openstreetmap.org/?lat=-19.174447&lon=146.550128
