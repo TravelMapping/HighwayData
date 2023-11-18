@@ -98,6 +98,7 @@ Notes on routes:
   * PE-10BHui's west end is unclear.
 * PE-12 [is signed](https://www.google.com/maps/@-8.8258621,-78.5549289,3a,15y,219.14h,80.99t/data=!3m6!1e1!3m4!1s6O3Zr-V3xyWETs9L5j1xCA!2e0!7i16384!8i8192?entry=ttu).
 * PE-12A [is signed](https://www.google.com/maps/@-8.6799297,-77.9220574,3a,16.2y,338.17h,80.83t/data=!3m6!1e1!3m4!1syHBFpOCNG9K5k4N8aY1ZWQ!2e0!7i16384!8i8192?entry=ttu).
+  * PE-12A's route thru Huacrachuca is from the 2016 district map.
 * PE-14 [is signed](https://www.google.com/maps/@-9.4764507,-78.1307473,3a,15y,299.57h,82.78t/data=!3m6!1e1!3m4!1s6btPu4Gv0Ue_wzztNJqnpg!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the new bridge in Huaraz.
 * PE-14B
 * PE-14D
