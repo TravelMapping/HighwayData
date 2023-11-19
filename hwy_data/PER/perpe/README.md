@@ -100,9 +100,6 @@ Notes on routes:
 * PE-12A [is signed](https://www.google.com/maps/@-8.6799297,-77.9220574,3a,16.2y,338.17h,80.83t/data=!3m6!1e1!3m4!1syHBFpOCNG9K5k4N8aY1ZWQ!2e0!7i16384!8i8192?entry=ttu).
   * PE-12A's route thru Huacrachuca is from the 2016 district map.
 * PE-14 [is signed](https://www.google.com/maps/@-9.4764507,-78.1307473,3a,15y,299.57h,82.78t/data=!3m6!1e1!3m4!1s6btPu4Gv0Ue_wzztNJqnpg!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the new bridge in Huaraz.
-* PE-14B
-* PE-14D
-* PE-14E
 * PE-16 [is signed](https://www.google.com/maps/@-10.6579088,-77.8076411,3a,18.4y,25.42h,94.68t/data=!3m6!1e1!3m4!1sQM_97bqSkKwGovhFEvs4XQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-16A [seems to be signed](https://www.google.com/maps/@-10.6802724,-77.7914078,3a,15y,59.5h,87.87t/data=!3m6!1e1!3m4!1sI7Es1X80VlMJAsKa47ylDQ!2e0!7i16384!8i8192?entry=ttu).
 * PE-18 [is signed](https://www.google.com/maps/@-11.4096992,-77.3652705,3a,15y,264.03h,81.56t/data=!3m6!1e1!3m4!1sZW0Cvopt2WSUuTDML0xkJw!2e0!7i16384!8i8192?entry=ttu).
@@ -222,8 +219,11 @@ Some routes may be unsigned, but are major highways with destination signs and k
   * PE-10C's route thru Buldibuyo is from the 2016 district map.
   * PE-10C's route thru Tayabamba is from the 2016 district map.
 * PE-12B
+  * PE-12B's route thru Urpay is from the 2016 district map.
 * PE-14A
+* PE-14B
 * PE-14C
+* PE-14D
 * PE-18B
 * PE-20B
 * PE-20C
@@ -259,6 +259,9 @@ The following unsigned routes are not included:
 * PE-5S south of somewhere (unbuilt)
 * PE-08B for a portion east of Mendoza (unbuilt)
 * PE-10B between Calemar and Huicungo (unbuilt)
+* PE-14A west of Anyanga (mostly unbuilt)
+* PE-14A between Carpa and Tingo Chico (unbuilt or poor quality)
+* PE-14E (almost all unbuilt)
 * PE-18B east of Tomayrica (unbuilt)
 * PE-18C east of Pucallpa (unbuilt)
 * PE-18D (unbuilt)
