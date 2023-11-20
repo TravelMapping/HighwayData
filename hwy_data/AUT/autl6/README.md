@@ -8,4 +8,5 @@
   - https://www.ris.bka.gv.at/Dokumente/Gemeinderecht/GEMRE_ST_60101_A17_RAG_106328_2020_0003/GEMRE_ST_60101_A17_RAG_106328_2020_0003.html
 
 **NOTES TO ROUTES:**
-- 
+- Location of `L526` unknown, not drafted
+- `L746` was likely downgraded when the B320 junction was closed in 2021 or 2022
