@@ -77,7 +77,6 @@ Notes on routes:
 * PE-5NI
 * PE-5S [is signed](https://www.google.com/maps/@-11.3316978,-74.5313809,3a,34.6y,180.84h,90.85t/data=!3m6!1e1!3m4!1sjqrHe06O2bDpLkxDFJI8RQ!2e0!7i16384!8i8192?entry=ttu). There is no imagery available near the south end, so it is not known whether any signs exist in or south of Poyeni (the 2023 map of Junín shows an endpoint about 1/3 of the way to Tsoroja).
 * PE-5SA [is signed](https://www.google.com/maps/@-11.13771,-74.3057085,3a,31.5y,204.91h,86.66t/data=!3m6!1e1!3m4!1sLfbBInH5hCM0NqRB87H9yg!2e0!7i16384!8i8192?entry=ttu).
-* PE-5SB
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
 * PE-06A [is signed](https://www.google.com/maps/@-6.8503006,-79.827139,3a,17.5y,301.91h,102.86t/data=!3m6!1e1!3m4!1sXyJoAWf6BZZRWQuJMtOpBA!2e0!7i16384!8i8192?entry=ttu).
   * PE-06A's route thru Cochabamba is from the 2016 district map.
@@ -114,7 +113,6 @@ Notes on routes:
   * PE-20A is assumed to use the new bypass at Cullhuay.
   * PE-20A's route thru Huayllay is from the 2016 district map.
 * PE-22 [is signed](https://www.google.com/maps/@-11.8685567,-76.4258215,3a,38.6y,31.5h,96.22t/data=!3m6!1e1!3m4!1sgvaWEjbD6-2JhSIibOnZgA!2e0!7i16384!8i8192?entry=ttu).
-* PE-22A is partly signed as PE-1SA, its former designation west of San Juan de Tantarache, on [guide signs](https://www.google.com/maps/@-12.6527628,-76.6386775,3a,73.9y,339.77h,85.21t/data=!3m6!1e1!3m4!1sdRvi8gdSHEyA5Aqcv8x1bg!2e0!7i13312!8i6656?entry=ttu) and [km posts](https://youtu.be/0ZRkLQyMxZ8?t=141).
 * PE-22B [is signed](https://www.google.com/maps/@-11.3956279,-75.8808896,3a,15y,8.7h,80.52t/data=!3m6!1e1!3m4!1sdZbyYRHLc1EVpcATtCdxrg!2e0!7i16384!8i8192?entry=ttu).
 * PE-24 [is signed](https://www.google.com/maps/@-12.2339191,-75.6380545,3a,15y,302.83h,79.69t/data=!3m6!1e1!3m4!1sJnnNiEHLBbBumwpTZGGe2Q!2e0!7i16384!8i8192?entry=ttu).
   * PE-24's route thru Imperial is from the 2016 district map (with an assumed one-way pair on Calle 28 de Julio westbound).
@@ -127,7 +125,6 @@ Notes on routes:
 * PE-26 [is signed](https://www.google.com/maps/@-13.420477,-75.9641756,3a,26.6y,186.45h,73.47t/data=!3m6!1e1!3m4!1s0eIY7ScPq1AUNJXXt0ArHQ!2e0!7i16384!8i8192?entry=ttu).
   * PE-26's route thru Chincha Alta is from the 2016 district map.
   * PE-26's eastbound route thru Huancavelica is from the 2016 district map. Westbound is assumed to match OSM.
-* PE-26A
 * PE-26B [is signed](https://www.google.com/maps/@-13.0788633,-74.2308938,3a,15.2y,318.81h,83.67t/data=!3m6!1e1!3m4!1shkdrcnR1zzUdpDFeUkzuNg!2e0!7i16384!8i8192?entry=ttu).
   * PE-26B's route thru Huancavelica is from the 2016 district map.
   * PE-26B's route thru Julcamarca is from the 2016 district map (and is how the road physically curves).
@@ -136,8 +133,8 @@ Notes on routes:
   * PE-28B's route thru Kimbiri is from the 2016 district map.
   * PE-28B's route around Chirumpiari as shown on the 2016 district map is not driveable.
   * PE-28B's route thru Kepashiato is from the location of the Kepashiato point in RVN_Pt GIS data.
-* PE-28C [is signed](https://www.google.com/maps/@-11.3461845,-74.5232496,3a,15y,176.06h,83.24t/data=!3m6!1e1!3m4!1st-8yFl6q0I56GME-SyJ2LQ!2e0!7i16384!8i8192?entry=ttu). The south end [is signed](https://www.google.com/maps/@-12.6084275,-73.7709888,3a,15y,26.43h,90.44t/data=!3m6!1e1!3m4!1s2sVLWd-c3yypsPLLYojPmg!2e0!7i16384!8i8192?entry=ttu) on what appears to be a realignment from what maps show.
-* PE-28J
+* PE-28C [is signed](https://www.google.com/maps/@-11.3461845,-74.5232496,3a,15y,176.06h,83.24t/data=!3m6!1e1!3m4!1st-8yFl6q0I56GME-SyJ2LQ!2e0!7i16384!8i8192?entry=ttu). The south end [is signed](https://www.google.com/maps/@-12.6084275,-73.7709888,3a,15y,26.43h,90.44t/data=!3m6!1e1!3m4!1s2sVLWd-c3yypsPLLYojPmg!2e0!7i16384!8i8192?entry=ttu) on what appears to be a realignment from what maps show. The route near Selva de Oro may have been realigned recently.
+* PE-28C is assumed to use the realignment just south of San Martín de Pangoa.
 * PE-30 [is signed as PE-26](https://www.google.com/maps/@-15.1440388,-74.982367,3a,15y,267.41h,84.98t/data=!3m6!1e1!3m4!1smT2P6sa1KRWQ9FUk87gx-Q!2e0!7i13312!8i6656?entry=ttu) (its former number) as of 2013. Since current PE-26 is correctly signed, this has been mapped as PE-30.
 * PE-30A [is signed](https://www.google.com/maps/@-14.84068,-74.934016,3a,15y,38.26h,78.75t/data=!3m6!1e1!3m4!1skkBQOHOIc7ek9ZoyToJIlw!2e0!7i16384!8i8192?entry=ttu).
 * PE-30B [is signed](https://www.google.com/maps/@-14.2145164,-73.536159,3a,15.1y,338.9h,68.04t/data=!3m6!1e1!3m4!1ssigYxtGStKW4nGbSm27nfA!2e0!7i16384!8i8192?entry=ttu). It is also [signed](https://www.google.com/maps/@-13.6590381,-73.3822057,3a,15y,8.76h,90.65t/data=!3m6!1e1!3m4!1siTLm6Vx_wkaeeDiWyHq3GQ!2e0!7i16384!8i8192?entry=ttu) at its east end, even though sources show it using the next bridge to the east to reach PE-3S.
@@ -221,7 +218,12 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-12B
   * PE-12B's route thru Urpay is from the 2016 district map.
 * PE-14A
+  * PE-14A's route thru Huantar is from the 2016 district map.
+  * PE-14A's route thru Uco is from the 2016 district map.
+  * PE-14A's route thru Huacaybamba is from the 2016 district map.
+  * PE-14A's route thru Monzón is from the 2016 district map.
 * PE-14B
+  * PE-14B's route thru Huari is from the 2016 district map.
 * PE-14C
 * PE-14D
 * PE-18B
@@ -230,12 +232,15 @@ Some routes may be unsigned, but are major highways with destination signs and k
   * PE-20C's westbound route thru Huaral is unclear.
 * PE-20I
 * PE-20K
+* PE-22A is partly signed as PE-1SA, its former designation west of San Juan de Tantarache, on [guide signs](https://www.google.com/maps/@-12.6527628,-76.6386775,3a,73.9y,339.77h,85.21t/data=!3m6!1e1!3m4!1sdRvi8gdSHEyA5Aqcv8x1bg!2e0!7i13312!8i6656?entry=ttu) and [km posts](https://youtu.be/0ZRkLQyMxZ8?t=141). For that reason, it is mapped as such (but only to La Capilla, where improvements end).
 * PE-22C
+* PE-26A (somewhat poor quality but [is maintained](https://www.google.com/maps/@-13.213115,-75.5860863,3a,15y,63.16h,103.53t/data=!3m6!1e1!3m4!1s_b5TUoQqxSOIV-yiDnR_SQ!2e0!7i16384!8i8192?entry=ttu))
 * PE-28 
 * PE-28D
-* PE-28E 
+* PE-28E
 * PE-28F
 * PE-28G
+  * PE-28G's route thru Wanchaq is from the 2016 district map. The southbound route leaving Avenida Túpac Amaru is unclear.
 * PE-34A has at least one sign for [PE-28](https://www.google.com/maps/@-16.2570549,-71.6816165,3a,17.7y,10.77h,81.48t/data=!3m6!1e1!3m4!1s9G4sGzP6Kc3kMnB0Ds0eyQ!2e0!7i16384!8i8192?entry=ttu), a former designation for PE-34E (if not PE-34A itself here).
 * PE-34F
 * PE-34G
@@ -257,6 +262,7 @@ The following unsigned routes are not included:
 * PE-3SAA (unbuilt)
 * PE-04A (unbuilt)
 * PE-5S south of somewhere (unbuilt)
+* PE-5SB (poor quality and partly unbuilt)
 * PE-08B for a portion east of Mendoza (unbuilt)
 * PE-10B between Calemar and Huicungo (unbuilt)
 * PE-14A west of Anyanga (mostly unbuilt)
@@ -270,9 +276,11 @@ The following unsigned routes are not included:
 * PE-20F (partly unbuilt)
 * PE-20H (unbuilt)
 * PE-20J (temporary) (mostly unbuilt)
+* PE-22A east of La Capilla (poor quality) (signed as PE-1SA west of La Capilla)
 * PE-22D (unbuilt)
 * PE-28A west of PE-1S (unbuilt)
 * PE-28H (poor quality and possibly partly unbuilt)
+* PE-28J (poor quality for the area)
 * PE-36C (poor quality for the area)
 
 Other notes:
