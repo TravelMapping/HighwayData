@@ -138,8 +138,8 @@ Notes on routes:
 * PE-30 [is signed as PE-26](https://www.google.com/maps/@-15.1440388,-74.982367,3a,15y,267.41h,84.98t/data=!3m6!1e1!3m4!1smT2P6sa1KRWQ9FUk87gx-Q!2e0!7i13312!8i6656?entry=ttu) (its former number) as of 2013. Since current PE-26 is correctly signed, this has been mapped as PE-30.
 * PE-30A [is signed](https://www.google.com/maps/@-14.84068,-74.934016,3a,15y,38.26h,78.75t/data=!3m6!1e1!3m4!1skkBQOHOIc7ek9ZoyToJIlw!2e0!7i16384!8i8192?entry=ttu).
 * PE-30B [is signed](https://www.google.com/maps/@-14.2145164,-73.536159,3a,15.1y,338.9h,68.04t/data=!3m6!1e1!3m4!1ssigYxtGStKW4nGbSm27nfA!2e0!7i16384!8i8192?entry=ttu). It is also [signed](https://www.google.com/maps/@-13.6590381,-73.3822057,3a,15y,8.76h,90.65t/data=!3m6!1e1!3m4!1siTLm6Vx_wkaeeDiWyHq3GQ!2e0!7i16384!8i8192?entry=ttu) at its east end, even though sources show it using the next bridge to the east to reach PE-3S.
+  * PE-30B is assumed to use the paved realignment in Huancabamba, one block southeast and northeast of the old alignment.
 * PE-30C [is signed](https://www.google.com/maps/@-13.6869761,-71.5999965,3a,35.5y,261.55h,98.63t/data=!3m6!1e1!3m4!1sa4b0EIYz3h97YwqWKuOUQQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-30D
 * PE-32 [is signed](https://www.google.com/maps/@-15.416346,-73.5576994,3a,25y,333.14h,76.04t/data=!3m6!1e1!3m4!1s3D6al3_9H-jhW-pwpa4bzw!2e0!7i16384!8i8192?entry=ttu).
   * PE-32's route thru Coracora is from the 2016 district map.
 * PE-32A [is signed](https://youtu.be/EJL75-CM5L0?t=551).
@@ -241,6 +241,9 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-28F
 * PE-28G
   * PE-28G's route thru Wanchaq is from the 2016 district map. The southbound route leaving Avenida Túpac Amaru is unclear.
+* PE-30D
+  * PE-30D's route thru Huanca Santos is from the 2016 Santos district map. However, it may not all be currently driveable.
+  * PE-30D's route thru Pomabamba is from the 2016 Maria Parado de Bellido district map.
 * PE-34A has at least one sign for [PE-28](https://www.google.com/maps/@-16.2570549,-71.6816165,3a,17.7y,10.77h,81.48t/data=!3m6!1e1!3m4!1s9G4sGzP6Kc3kMnB0Ds0eyQ!2e0!7i16384!8i8192?entry=ttu), a former designation for PE-34E (if not PE-34A itself here).
 * PE-34F
 * PE-34G
