@@ -144,16 +144,20 @@ Notes on routes:
   * PE-32's route thru Coracora is from the 2016 district map.
 * PE-32A [is signed](https://youtu.be/EJL75-CM5L0?t=551).
 * PE-32C [is signed](https://www.google.com/maps/@-15.2738374,-73.5715706,3a,15y,59.31h,75.35t/data=!3m6!1e1!3m4!1sAYOyazCjRULr2jCDYSe-gA!2e0!7i16384!8i8192?entry=ttu).
+  * PE-32C's route thru Pausa is from the 2016 district map.
 * PE-34 [is signed](https://www.google.com/maps/@-16.9938083,-72.0868329,3a,15.1y,160.4h,105.63t/data=!3m6!1e1!3m4!1s69evTtZcmBy3Ini9PGE4bA!2e0!7i16384!8i8192?entry=ttu).
 * PE-34B [is signed](https://www.google.com/maps/@-13.433041,-70.3959405,3a,15y,94.33h,83.38t/data=!3m6!1e1!3m4!1srp3Umx1OofNcqltXIE3kgw!2e0!7i16384!8i8192?entry=ttu) with a standalone shield.
   * PE-34B bypasses downtown Macusani according to [the placement of km posts 180 and 185](https://www.google.com/maps/dir/-14.0750722,-70.4104679/-14.0518123,-70.4398267/@-14.0631938,-70.4347373,4190m/data=!3m1!1e3!4m2!4m1!3e0?entry=ttu).
 * PE-34C [is signed](https://www.google.com/maps/@-16.3630049,-71.2277664,3a,15y,271.58h,82.19t/data=!3m6!1e1!3m4!1sV-pUczUAOaLOdHGFRdbZ0w!2e0!7i16384!8i8192?entry=ttu).
 * PE-34E [is signed](https://www.google.com/maps/@-15.2384579,-71.1588802,3a,15y,199.3h,88.95t/data=!3m6!1e1!3m4!1sKCPmn1nfMRYJ6DN5obPADQ!2e0!7i16384!8i8192?entry=ttu) with standalone signs. It also has at least one standalone sign for [AR-111](https://www.google.com/maps/@-16.0530105,-71.4093087,3a,15y,44.7h,85.22t/data=!3m6!1e1!3m4!1sgfpZvXlk1Pv1CI2XhS8-sg!2e0!7i16384!8i8192?entry=ttu).
-* PE-34H [is signed](https://www.google.com/maps/@-15.2341306,-69.8280726,3a,15.6y,31.75h,88.69t/data=!3m6!1e1!3m4!1s-QSwqjJGvUIqXYEFXOZtrQ!2e0!7i13312!8i6656?entry=ttu), though west of PE-34I it [is erroneously signed as part of PE-34I](https://www.google.com/maps/@-15.3017751,-69.9751513,3a,15y,20.65h,75.35t/data=!3m6!1e1!3m4!1sf0Vh_8Voth-jncdZKOggMA!2e0!7i13312!8i6656?entry=ttu).
-* PE-34I [is signed](https://www.google.com/maps/@-15.2315109,-69.8216393,3a,30.9y,99.05h,67.05t/data=!3m6!1e1!3m4!1sC9OMFTYkP-Gp4y6pW-KvsQ!2e0!7i13312!8i6656?entry=ttu).
+* PE-34H [is signed](https://www.google.com/maps/@-15.2341306,-69.8280726,3a,15.6y,31.75h,88.69t/data=!3m6!1e1!3m4!1s-QSwqjJGvUIqXYEFXOZtrQ!2e0!7i13312!8i6656?entry=ttu), though west of PE-34I it [is consistently signed as part of PE-34I](https://www.google.com/maps/@-15.3017751,-69.9751513,3a,15y,20.65h,75.35t/data=!3m6!1e1!3m4!1sf0Vh_8Voth-jncdZKOggMA!2e0!7i13312!8i6656?entry=ttu).
+  * PE-34H's route thru Sandia is from the 2016 district map.
+  * PE-34H's route thru Cuyocuyo is from the 2016 district map.
+* PE-34I [is signed](https://www.google.com/maps/@-15.2315109,-69.8216393,3a,30.9y,99.05h,67.05t/data=!3m6!1e1!3m4!1sC9OMFTYkP-Gp4y6pW-KvsQ!2e0!7i13312!8i6656?entry=ttu). [And...here?](https://www.google.com/maps/@-15.4885327,-69.3550451,3a,15y,162.58h,78.02t/data=!3m6!1e1!3m4!1sgl5wAYfIMpaIa4zy87IuTg!2e0!7i13312!8i6656?entry=ttu)
+  * PE-34I's route thru Huancané is from the 2016 district map.
+  * PE-34I's route thru Moho is from the 2016 district map.
 * PE-34J [is signed](https://www.google.com/maps/@-15.1844759,-71.1701802,3a,15y,24.76h,92.61t/data=!3m6!1e1!3m4!1soPfpcWYwgkWn9CkZRiLLMA!2e0!7i16384!8i8192?entry=ttu); it [follows the new cutoffs to and overlaps PE-34E](https://www.google.com/maps/@-15.2413189,-71.1547475,3a,15y,28.1h,79.29t/data=!3m6!1e1!3m4!1sg2RQNmAPL0ccpOPgd5ZWpg!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the Ocoruro bypass (the latest imagery predates it).
 * PE-34K [is signed](https://www.google.com/maps/@-14.3375165,-70.242889,3a,15.5y,61.69h,80.9t/data=!3m6!1e1!3m4!1sSv_Cc8EVJdoax-zOAvtqyg!2e0!7i16384!8i8192?entry=ttu).
-* PE-34L
 * PE-34M (temporary)
 * PE-34N (temporary)
 * PE-34Ñ (temporary)
@@ -247,6 +251,8 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-34A has at least one sign for [PE-28](https://www.google.com/maps/@-16.2570549,-71.6816165,3a,17.7y,10.77h,81.48t/data=!3m6!1e1!3m4!1s9G4sGzP6Kc3kMnB0Ds0eyQ!2e0!7i16384!8i8192?entry=ttu), a former designation for PE-34E (if not PE-34A itself here).
 * PE-34F
 * PE-34G
+* PE-34L
+  * PE-34L is assumed to use the new paved bypass of Ananea.
 * PE-36
 * PE-36B
 
@@ -284,6 +290,7 @@ The following unsigned routes are not included:
 * PE-28A west of PE-1S (unbuilt)
 * PE-28H (poor quality and possibly partly unbuilt)
 * PE-28J (poor quality for the area)
+* PE-34H at the border (unbuilt)
 * PE-36C (poor quality for the area)
 
 Other notes:
@@ -310,4 +317,4 @@ Other notes:
 * [Ramal something](https://www.google.com/maps/@-12.0996004,-75.2465926,3a,15.1y,261.37h,75.78t/data=!3m6!1e1!3m4!1se3moVEThr2kUERqQMxY-bg!2e0!7i16384!8i8192?entry=ttu)?
 * [Random exit number](https://www.google.com/maps/@-9.9308328,-76.2346783,3a,35.8y,344.51h,87.29t/data=!3m6!1e1!3m4!1sEU-lf8w_CGiBDTFl7c5ljg!2e0!7i13312!8i6656?entry=ttu)?
 
-Still to be mapped: 5N*, 5S*
+Still to be mapped: 5N*, anything post-2016
