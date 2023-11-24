@@ -569,6 +569,13 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2023-11-23;Czechia;D6 (Karlovy Vary);cze.d006kar;Route truncated at east end from I13 to exit 131 (I6 now)
+2023-11-23;Czechia;I6 (Bochov);cze.i006boc;Route extended at west end from I13 to exit 131 (former D6)
+2023-11-23;Czechia;D7 (Slaný);cze.d007;Route truncated at east end from D0 to exit 2 (I7 now)
+2023-11-23;Czechia;I7 (Přední Kopanina);cze.i007pre;New Route (former D7)
+2023-11-23;Czechia;D7 (Chomutov);cze.d007cho;Route truncated at west end from exit 82 to exit 78 (I7 now)
+2023-11-23;Czechia;I7 (Chomutov);cze.i007cho;Route extended at east end from exit 82 to exit 78 (former D7)
+2023-11-23;Czechia;II441;cze.ii441;Route extended at east end from I47 north of Odry to D1's exit 321
 2023-10-22;Czechia;II474;cze.ii474;Route relocated from direct route between Třanovice and Hnojník, and via Horní Tošanovice
 2023-10-21;Czechia;I11;cze.i011;Route relocated from through Opava and onto bypass from west of Jaktař to Těšínská (III4642) east of Opava
 2023-10-21;Czechia;I11;cze.i011;Route truncated at east end from the Slovakian border to I68 at Nebory (I68 now)
@@ -1622,6 +1629,7 @@ date;region;route;root;description
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
+2023-11-19;(Germany) Saxony-Anhalt;L24;deust.l024;Route extended at south end from Harsleben to Halberstadt (former B79)
 2021-11-23;(Germany) Saxony-Anhalt;L193 (Techwitz);;Route deleted
 2022-10-09;(Germany) Saxony-Anhalt;L159;deust.l159;Route relocated from through Salzmünde and onto Benkendorfer Straße and new southern bypass
 2022-10-09;(Germany) Saxony-Anhalt;L173;deust.l173;Route truncated at north end in Salzmünde from K2127 to L159 bypass
@@ -2856,6 +2864,7 @@ date;region;route;root;description
 2020-03-09;New Zealand;SH1 (Te Ika-a-Māui);nzl.sh001;Route removed from Great South Road and Gordonton Road and relocated onto Waikato Expressway between Great South Road and northern junction with SH1B
 2020-03-09;New Zealand;Thermal Explorer Highway;nzl.theexphwy;Route removed from Gordonton Road and Waikato Expressway and relocated onto Great South Road between Gordonton Road and the SH1 at Horotiu
 2020-03-09;New Zealand;Thermal Explorer Highway;nzl.theexphwy;Route removed from Waikato Expressway and relocated onto Cambridge Road, Hamilton Road, Victoria Street, Queen Street, Albert Street and Tirau Road between the SH1 west of Cambridge and the SH1 east of Cambridge
+2023-11-15;North Macedonia;A1 (Prilep (spur));mkd.a001pri;Route extended at east end from A1 to R1102
 2023-11-14;North Macedonia;A3 (Bitola (spur));mkd.a003bit;Route relocated in Bitola from Prilepska, 4 Novemvri 1944 and Makedonska Falanga, and onto Nikola Tesla and Makedonski Gemidzhii from junction with R1101/R1311 to main station
 2023-09-19;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;Route extended at west end from exit 25 to 'UliBorKid'
 2023-01-13;North Macedonia;A3 (Shtip);mkd.a003sht;Route removed from R1205 and route through Krupiste and Oblesevo and relocated onto Shtip-Kochani Expressway between R1205 and R2342
@@ -4799,6 +4808,15 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2023-11-21;Turkey;E84 (Kavakköy (spur));tur.e84kav;New Route
+2023-11-21;Turkey;E87 (Keşan);tur.e87;Route deleted, mainly merged into main route
+2023-11-21;Turkey;E87;tur.e87;Route truncated from Çanakkale ferry terminal to D200/D210 interchange east of Çanakkale, and reextended onto D200 and O6 via 1915 Çanakkale bridge up to O6's exit 12, and further absorbing former E87 (Keşan)
+2023-11-21;Turkey;E90 (Keşan);tur.e90;Route deleted, mainly merged into main route
+2023-11-21;Turkey;E90;tur.e90;Route truncated from former Çardak ferry terminal to D200, and and reextended onto D200 and O6 via 1915 Çanakkale bridge up to O6's exit 12, and further absorbing former E90 (Keşan)
+2023-11-20;Turkey;E80;tur.e80;Route relocated from through İstanbul and onto northern bypass (O7)
+2023-11-20;Turkey;E88;tur.e88;Route truncated at west end from O20's exit 9 to exit 12 (Ankara southern beltway), and reextended from O20's exit 12 to O4 (Ankara northern beltway)
+2023-11-20;Turkey;E88 (Ankara (loop));tur.e88;Route merged into main route
+2023-11-20;Turkey;E96;tur.e96;Route removed from O5 and relocated onto D300 between the D250/D300 junction and the O30 at its exit 11 (undoing a 2017 change)
 2023-11-14;Turkey;D050;tur.d050;Route relocated on the new alignment between D950 and Köprugören
 2023-11-14;Turkey;D060;tur.d060;Route relocated on the new alignment between D950 and Ayvali
 2023-11-14;Turkey;D950;tur.d950;Route relocated on the new alignment between Artvin and Tortum
@@ -5568,6 +5586,7 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2023-11-14;(USA) California;CA 146 (Pinnacles NP);ca.ca146pin;Restored newly-signed segment in Pinnacles NP, previously deleted as unsigned
 2023-06-03;(USA) California;CA 1;ca.ca001;North of Bodega Bay, route relocated from eroding coastal bluffs, and onto new viaduct over Scotty Creek floodplain, between Calle del Sol and OldCA1Gle_N
 2023-05-08;(USA) California;CA 180 (Fresno);ca.ca180;Route relocated east of Fresno, between waypoints AcaAve and *OldCA180_E, north to new divided highway
 2022-10-05;(USA) California;CA 123;ca.ca123;In Oakland and Emeryville, south end changed from San Pablo Ave. between I-580 exit 19B and Adeline St., to MacArthur Blvd. service roads and Adeline St. between I-580 exit 19A and San Pablo Ave. Caltrans logs indicate the route has followed the latter alignment since at least 2002.
@@ -5980,6 +5999,14 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2023-11-18;(USA) Kentucky;Bert T Combs Mountain Parkway;ky.commtnpkwy;Removed from closed roadway and onto new alignment to the south between *OldMtnPkwy_W and *OldMtnPkwy_E
+2023-11-18;(USA) Kentucky;US 641;ky.us641;Removed from old routing (now KY 2547) and onto new 4-lane alignment to the west between KY2547_S and KY2547_N
+2023-11-18;(USA) Kentucky;KY 338;ky.ky0338;Route extended at south end from US 25 to Shorland Dr
+2023-11-18;(USA) Kentucky;KY 680;ky.ky0680;Removed from KY 122 and KY 979 and relocated onto former routing of KY 3680 and new roadway between KY122 and KY3379
+2023-11-18;(USA) Kentucky;KY 1828;ky.ky1828;US641 point moved from old location (now KY2547) to intersection with new US 641 alignment
+2023-11-18;(USA) Kentucky;KY 2547;ky.ky2547;Route added
+2023-11-18;(USA) Kentucky;KY 3379;ky.ky3379;Route extended at north end along KY 979 and former alignment of KY 680 to new KY 680 alignment
+2023-11-18;(USA) Kentucky;KY 3680;ky.ky3680;Removed from new KY 680 alignment and relocated onto former routing of KY 680 between KY122 and KY979
 2023-08-29;(USA) Kentucky;KY 22 Business (Dry Ridge);ky.ky0022busdry;Truncated at south end from KY 22 to US 25 Business (Dry Ridge) (former route is part of US 25 Bus)
 2023-07-23;(USA) Kentucky;KY 1560;ky.ky1560;Truncated at east end from US 25 to KY 3025
 2023-04-26;(USA) Kentucky;KY 92;ky.ky0092;Removed from old alignment (now KY 592 and KY 1044) between OldKY92_W & OldKY92_E and relocated onto new parallel alignment mostly to the south
@@ -6285,6 +6312,17 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2023-11-18;(USA) Louisiana;US 167;la.us167;Removed from Johnson St, Louisiana St, and Evangeline Thwy between LA3025_S and I-49(1A), and relocated onto LA 3025, LA 3184, and I-10
+2023-11-18;(USA) Louisiana;US 90 Bus (Lafayette);;Route deleted
+2023-11-18;(USA) Louisiana;LA 89-1;la.la00891;Truncated at south end from Iberia St to Rousseau Rd
+2023-11-18;(USA) Louisiana;LA 93;la.la0093;Truncated at south end from LA 342 to US90, with part of former route becoming LA 93-1
+2023-11-18;(USA) Louisiana;LA 93-1;la.la00931;Route added along part of former LA 93
+2023-11-18;(USA) Louisiana;LA 182;la.la0182;Removed from LA 89-1, Pinhook Rd, and University Ave between LA89-1 and I-10(101), and relocated onto US 90, Evangeline Thwy, and I-10
+2023-11-18;(USA) Louisiana;LA 182-1;;Route deleted
+2023-11-18;(USA) Louisiana;LA 731;;Route deleted
+2023-11-18;(USA) Louisiana;LA 830-5;;Route deleted
+2023-11-18;(USA) Louisiana;LA 1160;la.la1160;Extended at east end from LA13 to LA104/3149
+2023-11-18;(USA) Louisiana;LA 3184;la.la3184;Extended at north end approximately 0.1 mile from I-10 to end of state maintenance
 2023-10-21;(USA) Louisiana;LA 64;la.la0064;Truncated at north end from LA 964 to LA 67
 2023-10-21;(USA) Louisiana;LA 69;la.la0069;Truncated at north end from LA 1 to north end of LA 405 concurrency
 2023-10-21;(USA) Louisiana;LA 73;la.la0073;Split into LA 73 and LA 73 (Baton Rouge), with LA 73 truncated at north end to LA 426
@@ -7182,6 +7220,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2023-11-18;(USA) Pennsylvania;PA 424;pa.pa424;Extended on west end along new roadway from I-81 to Commerce Dr (ComDr).
 2023-10-07;(USA) Pennsylvania;PA 352 Alternate Truck (Frazer);pa.pa352alttrkfra;Route added.
 2023-10-07;(USA) Pennsylvania;PA 401 Alternate Truck (West Pikeland Township);pa.pa401alttrkwes;Route added.
 2023-09-10;(USA) Pennsylvania;PA 228;pa.pa228;Realigned onto straightened alignment (ultimately will be four lanes) between *OldPA228_A and OldPA8.
@@ -7766,6 +7805,7 @@ date;region;route;root;description
 2018-01-01;(USA) Virginia;US 15 Alt (Farmville);va.us015altfar;New route
 2018-01-01;(USA) Virginia;VA 167;va.va167;New route
 2018-01-01;(USA) Virginia;VA 154 (Covington);;Route deleted
+2023-11-21;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;Route extended south on newly-opened freeway from FreSt to WelAve
 2023-07-07;(USA) Washington;US 12;wa.us012;Route re-aligned onto newly-opened Touchet bypass between waypoints *OldUS12_W and *OldUS12_E
 2021-08-02;(USA) Washington;WA 531;wa.wa531;Route extended at western terminus from RoseRd to new WenCouPark waypoint
 2021-08-02;(USA) Washington;WA 525 Spur (Mukilteo);wa.wa525sprmuk;Route added
