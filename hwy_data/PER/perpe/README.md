@@ -67,14 +67,10 @@ Notes on routes:
 * PE-3SZ [is signed as PE-3SB](https://www.google.com/maps/@-12.1289537,-75.2489238,3a,15y,46.44h,78.3t/data=!3m6!1e1!3m4!1szie2r0ZjHHU2UfKZuBJ89w!2e0!7i16384!8i8192?entry=ttu) (its pre-2018 number).
 * PE-5N [is signed](https://www.google.com/maps/@-10.3245516,-74.9858739,3a,39.7y,220.72h,87.86t/data=!3m6!1e1!3m4!1sIyLGMcPa5A7aMpV8TXrXgg!2e0!7i16384!8i8192?entry=ttu).
   * PE-5N and PE-5S may officially end at the bridge over Río Chancamayo, but there is no signage in the area, so the more logical endpoint at PE-22B has been chosen.
-* PE-5NA [is signed](https://www.google.com/maps/@-9.5571257,-75.0134336,3a,15y,191.96h,88.28t/data=!3m6!1e1!3m4!1sry_quipsp9v5TJvobxrB2A!2e0!7i16384!8i8192?entry=ttu) (on what seems to be a recent realignment).
-* PE-5NB
+* PE-5NA [is signed](https://www.google.com/maps/@-9.5571257,-75.0134336,3a,15y,191.96h,88.28t/data=!3m6!1e1!3m4!1sry_quipsp9v5TJvobxrB2A!2e0!7i16384!8i8192?entry=ttu) (on what seems to be a recent realignment, inventoried as HU-992).
+  * PE-5NA is assumed to use the direct route thru Oxapampa rather than the zigzag that sources show between JrAngFrey and JrPoz, which includes unpaved and one-way streets.
 * PE-5NC [is signed](https://www.google.com/maps/@-5.717445,-78.6175833,3a,15y,105.07h,94.87t/data=!3m6!1e1!3m4!1sPvDU_tlrVQkTkeKWnNp2VA!2e0!7i16384!8i8192?entry=ttu).
-* PE-5ND
-* PE-5NE
 * PE-5NG
-* PE-5NH [is signed as HU-106](https://www.google.com/maps/@-9.3829245,-75.0315072,3a,15.9y,18.92h,92.61t/data=!3m6!1e1!3m4!1s97jhUMR0aSXS__pEe-6XHQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-5NI
 * PE-5S [is signed](https://www.google.com/maps/@-11.3316978,-74.5313809,3a,34.6y,180.84h,90.85t/data=!3m6!1e1!3m4!1sjqrHe06O2bDpLkxDFJI8RQ!2e0!7i16384!8i8192?entry=ttu). There is no imagery available near the south end, so it is not known whether any signs exist in or south of Poyeni (the 2023 map of Junín shows an endpoint about 1/3 of the way to Tsoroja).
 * PE-5SA [is signed](https://www.google.com/maps/@-11.13771,-74.3057085,3a,31.5y,204.91h,86.66t/data=!3m6!1e1!3m4!1sLfbBInH5hCM0NqRB87H9yg!2e0!7i16384!8i8192?entry=ttu).
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
@@ -212,6 +208,12 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-04
 * PE-04B
 * PE-04C
+* PE-5NB
+  * PE-5NB's route thru Yurimaguas is from the 2016 district map.
+* PE-5ND
+* PE-5NE
+* PE-5NH [is signed as HU-106](https://www.google.com/maps/@-9.3829245,-75.0315072,3a,15.9y,18.92h,92.61t/data=!3m6!1e1!3m4!1s97jhUMR0aSXS__pEe-6XHQ!2e0!7i16384!8i8192?entry=ttu) (its pre-2015 designation).
+  * PE-5NH's east end is from the 2022 departmental map, but it may be off by a block or two.
 * PE-08B thru Soritor (the west end is unclear)
   * PE-08B may have a one-way pair thru Soritor.
 * PE-10
@@ -270,7 +272,9 @@ The following unsigned routes are not included:
 * PE-3SX (poor quality but no imagery to check signage)
 * PE-3SAA (unbuilt)
 * PE-04A (unbuilt)
-* PE-5S south of somewhere (unbuilt)
+* PE-5ND east of PE-5NE (unbuilt)
+* PE-5NI (mostly unbuilt)
+* PE-5S south of ferry at Poyeni (mostly unbuilt)
 * PE-5SB (poor quality and partly unbuilt)
 * PE-08B for a portion east of Mendoza (unbuilt)
 * PE-10B between Calemar and Huicungo (unbuilt)
@@ -317,4 +321,4 @@ Other notes:
 * [Ramal something](https://www.google.com/maps/@-12.0996004,-75.2465926,3a,15.1y,261.37h,75.78t/data=!3m6!1e1!3m4!1se3moVEThr2kUERqQMxY-bg!2e0!7i16384!8i8192?entry=ttu)?
 * [Random exit number](https://www.google.com/maps/@-9.9308328,-76.2346783,3a,35.8y,344.51h,87.29t/data=!3m6!1e1!3m4!1sEU-lf8w_CGiBDTFl7c5ljg!2e0!7i13312!8i6656?entry=ttu)?
 
-Still to be mapped: 5N*, anything post-2016
+Still to be mapped: anything post-2016
