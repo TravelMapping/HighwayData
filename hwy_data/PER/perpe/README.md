@@ -69,7 +69,6 @@ Notes on routes:
 * PE-5NA [is signed](https://www.google.com/maps/@-9.5571257,-75.0134336,3a,15y,191.96h,88.28t/data=!3m6!1e1!3m4!1sry_quipsp9v5TJvobxrB2A!2e0!7i16384!8i8192?entry=ttu) (on what seems to be a recent realignment, inventoried as HU-992).
   * PE-5NA is assumed to use the direct route thru Oxapampa rather than the zigzag that sources show between JrAngFrey and JrPoz, which includes unpaved and one-way streets.
 * PE-5NC [is signed](https://www.google.com/maps/@-5.717445,-78.6175833,3a,15y,105.07h,94.87t/data=!3m6!1e1!3m4!1sPvDU_tlrVQkTkeKWnNp2VA!2e0!7i16384!8i8192?entry=ttu).
-* PE-5NG
 * PE-5S [is signed](https://www.google.com/maps/@-11.3316978,-74.5313809,3a,34.6y,180.84h,90.85t/data=!3m6!1e1!3m4!1sjqrHe06O2bDpLkxDFJI8RQ!2e0!7i16384!8i8192?entry=ttu). There is no imagery available near the south end, so it is not known whether any signs exist in or south of Poyeni (the 2023 map of Junín shows an endpoint about 1/3 of the way to Tsoroja).
 * PE-5SA [is signed](https://www.google.com/maps/@-11.13771,-74.3057085,3a,31.5y,204.91h,86.66t/data=!3m6!1e1!3m4!1sLfbBInH5hCM0NqRB87H9yg!2e0!7i16384!8i8192?entry=ttu).
 * PE-06 [is signed](https://www.google.com/maps/@-6.7797476,-79.876027,3a,15.2y,268.28h,77.35t/data=!3m6!1e1!3m4!1srpmrgGKTqlL0CUr4SLG-Ag!2e0!7i16384!8i8192?entry=ttu).
@@ -212,6 +211,9 @@ Some routes may be unsigned, but are major highways with destination signs and k
   * PE-5NB's route thru Yurimaguas is from the 2016 district map.
 * PE-5ND
 * PE-5NE
+* PE-5NG
+  * PE-5NG's route thru Camporredondo is from the 2016 district map.
+  * PE-5NG's route thru Cohechan is from the 2016 Lonya Chico district map.
 * PE-5NH [is signed as HU-106](https://www.google.com/maps/@-9.3829245,-75.0315072,3a,15.9y,18.92h,92.61t/data=!3m6!1e1!3m4!1s97jhUMR0aSXS__pEe-6XHQ!2e0!7i16384!8i8192?entry=ttu) (its pre-2015 designation).
   * PE-5NH's east end is from the 2022 departmental map, but it may be off by a block or two.
 * PE-08B thru Soritor (the west end is unclear)
@@ -320,5 +322,3 @@ Other notes:
 * [R21-056](https://www.google.com/maps/@-15.5248826,-70.1824487,3a,15y,111.28h,77.62t/data=!3m6!1e1!3m4!1sVC-EMdOOC8Wf9S1hWWYQJw!2e0!7i16384!8i8192?entry=ttu)?
 * [Ramal something](https://www.google.com/maps/@-12.0996004,-75.2465926,3a,15.1y,261.37h,75.78t/data=!3m6!1e1!3m4!1se3moVEThr2kUERqQMxY-bg!2e0!7i16384!8i8192?entry=ttu)?
 * [Random exit number](https://www.google.com/maps/@-9.9308328,-76.2346783,3a,35.8y,344.51h,87.29t/data=!3m6!1e1!3m4!1sEU-lf8w_CGiBDTFl7c5ljg!2e0!7i13312!8i6656?entry=ttu)?
-
-Still to be mapped: anything post-2016
