@@ -52,7 +52,6 @@ Notes on routes:
   * PE-3SG's route thru Yauri is from the 2023 departmental map, with minor changes where the new Avenida Circunvalación has obviously replaced the old route.
   * PE-3SG's route thru Challhuahuacho is from the 2016 district map, with the realignment on the 2023 departmental map.
 * PE-3SH [is signed](https://www.google.com/maps/@-15.0434182,-70.3658437,3a,15y,357.2h,82.97t/data=!3m6!1e1!3m4!1sG-HJhVAJPBQ5d57Tb-HrBQ!2e0!7i16384!8i8192?entry=ttu).
-* PE-3SL
 * PE-3SM (temporary)
 * PE-3SN (temporary)
 * PE-3SÑ (temporary)
@@ -199,6 +198,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-3NE
 * PE-3SC ([may be signed](https://www.google.com/maps/@-12.3105106,-75.0397034,3a,15y,148.63h,92.09t/data=!3m8!1e1!3m6!1sAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipOCAs0GbkZBuyuOFcea2mxD-yE74ciQmGh7YWmR%3Dw203-h100-k-no-pi-0-ya169.05249-ro-0-fo100!7i8704!8i4352?entry=ttu))
 * PE-3SK
+* PE-3SL
 * PE-3SM
   * PE-3SM's route thru Acobamba is from the 2016 district map.
   * PE-3SM's route thru Marcas is from the 2016 district map.
@@ -258,7 +258,7 @@ Some routes may be unsigned, but are major highways with destination signs and k
 * PE-36
 * PE-36B
 
-The following unsigned routes are not included:
+The following probably unsigned routes are not included:
 * PE-1NG (mostly unbuilt)
 * PE-1NI east of Niepos (unbuilt)
 * PE-1NÑ (mostly unbuilt)
