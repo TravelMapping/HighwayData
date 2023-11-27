@@ -24,7 +24,6 @@ auta;AUT;Austria Autobahnen;TMblue;1;active
 auts;AUT;Austria Schnellstrassen;TMteal;2;active
 autb;AUT;Austria Landesstraßen B;TMlightsalmon;4;active
 autl4;AUT;Upper Austria Landesstraßen 1. Ordnung;TMyellow;5;active
-autl5;AUT;Salzburg Landesstraßen 1. Ordnung;TMyellow;5;preview
 autl7;AUT;Tyrol Landesstraßen L;TMyellow;5;active
 azem;AZE;Azerbaijan Magistrale;TMlightsalmon;4;active
 bela;BEL;Belgium Autosnelwegen / Autoroutes;TMblue;1;active
@@ -66,8 +65,6 @@ chegts;CHE;Switzerland Grand Tour of Switzerland;TMbrown;5;active
 cism;ASI;Central Asian Magistral;TMlightsalmon;4;active
 cisa;ASI;Central Asian doroga nacional'nogo znacenija;TMlightsalmon;4;active
 comrn;COM;Comoros Routes Nationales;TMgreen;4;active
-crirp;CRI;Costa Rica Rutas Nacionales Primarias;TMred;3;preview
-crirs;CRI;Costa Rica Rutas Nacionales Secundarias;TMbrown;4;preview
 cypa;CYP;Cyprus Motorways;TMblue;1;active
 cypb;CYP;Cyprus B Roads;TMlightsalmon;4;active
 cypd;CYP;Cyprus Devlet Yolları;TMlightsalmon;4;active
@@ -364,6 +361,7 @@ zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;active
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
 argrn;ARG;Argentina Rutas Nacionales;TMred;2;preview
+argsf;ARG;Argentina Select Freeways;TMteal;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
 ausnswb;AUS;New South Wales B Roads;TMyellow;4;preview
 ausvicb;AUS;Victoria B Roads;TMyellow;4;preview
@@ -376,6 +374,8 @@ ausqldtd;AUS;Queensland Tourist Drives;TMbrown;5;preview
 aussatd;AUS;South Australia Tourist Drives;TMbrown;5;preview
 ausvictd;AUS;Victoria Tourist Drives;TMbrown;5;preview
 auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;preview
+autl5;AUT;Salzburg Landesstraßen 1. Ordnung;TMyellow;5;preview
+autl6;AUT;Styria Landesstraßen L;TMyellow;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
 bgdah;BGD;Bangladesh UNESCAP Asian Highways;TMred;3;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);TMblue;1;preview
@@ -394,6 +394,8 @@ chlsf;CHL;Chile Select Freeways;TMteal;3;preview
 chng;CHN;China National Expressways;TMblue;1;preview
 chnah;CHN;China UNESCAP Asian Highways;TMred;3;preview
 cogn;COG;Congo Routes Nationales;TMgreen;4;preview
+crirp;CRI;Costa Rica Rutas Nacionales Primarias;TMred;3;preview
+crirs;CRI;Costa Rica Rutas Nacionales Secundarias;TMbrown;4;preview
 #eure2;EUR;UNECE 'E' Roads (Srpska renumbering / Italy split);TMgreen;3;preview
 #eursf2;EUR;Europe Select Named Freeways (Italy split);TMteal;2;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;TMbrown;5;preview
@@ -507,12 +509,15 @@ mexdfeje;MEX;Mexico City Ejes;TMyellow;5;preview
 mexemex;MEX;Estado de México Carreteras Estatales;TMbrown;4;preview
 mexnlm;MEX;Monterrey Rutas;TMyellow;5;preview
 mexqro;MEX;Querétaro Carreteras Estatales;TMbrown;4;preview
+mkdr;MKD;North Macedonia Regional Roads;TMyellow;4;preview
 mmrah;MMR;Myanmar UNESCAP Asian Highways;TMred;3;preview
 mozn;MOZ;Mozambique Estrada Nacional;TMgreen;4;preview
 mwim;MWI;Malawi Main Roads;TMgreen;4;preview
 nplah;NPL;Nepal UNESCAP Asian Highways;TMred;3;preview
 nplh;NPL;Nepal Highways;TMlightsalmon;4;preview
 nzlrr;NZL;New Zealand Regional Roads;TMYellow;5;preview
+perpe;PER;Peru Red Vial Nacional;TMred;2;preview
+persf;PER;Peru Select Freeways;TMteal;3;preview
 prkah;PRK;Korea (North) UNESCAP Asian Highways;TMred;3;preview
 rusa;RUS;Russia Access Roads;TMlightsalmon;4;preview
 senn;SEN;Senegal Routes Nationales;TMgreen;4;preview
@@ -539,7 +544,6 @@ afrtah;AFR;UNECA Trans-African Highways;TMred;2;devel
 #agoen;AGO;Angola Estrada Nacional;TMgreen;3;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);TMred;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);TMred;3;devel
-autl6;AUT;Styria Landesstraßen L;TMyellow;5;devel
 cannss;CAN;Nova Scotia Scenic Travelways;TMyellow;5;devel
 canons;CAN;Ontario Secondary Highways;TMyellow;5;devel
 codn;COD;DRC Routes Nationale;TMgreen;4;devel
