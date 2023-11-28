@@ -19,10 +19,13 @@ Notes on routes:
 * E182 [is signed](https://www.google.com/maps/@0.8201755,-77.7195959,3a,29.4y,250.32h,97.82t/data=!3m6!1e1!3m4!1sm82qIKQ5wxa3RkPItvBFgQ!2e0!7i13312!8i6656?entry=ttu).
 * E282 [is signed](https://www.google.com/maps/@0.0459851,-78.2026825,3a,43.5y,89.76h,116.09t/data=!3m6!1e1!3m4!1sTmaS543wAmaodq1cxrxZMA!2e0!7i13312!8i6656?entry=ttu).
 * E283 [is signed](https://www.google.com/maps/@-0.0438507,-78.2859797,3a,33.3y,331.81h,85.24t/data=!3m6!1e1!3m4!1sbVktGYOzKaz5L-voKK2SSw!2e0!7i13312!8i6656?entry=ttu) with a standalone shield.
+* E304 [is signed](https://www.google.com/maps/@-1.3640058,-78.5115959,3a,75y,153.64h,101.9t/data=!3m6!1e1!3m4!1s3j_cso3HxH7qq2zmCd208w!2e0!7i13312!8i6656?entry=ttu).
 * E484 [is signed](https://www.google.com/maps/@-1.6228327,-79.9678583,3a,34.7y,205.02h,95.42t/data=!3m6!1e1!3m4!1sXWHoR_AaQTf4npsJjut4Fg!2e0!7i13312!8i6656?entry=ttu).
 * E485 [is signed](https://www.google.com/maps/@-1.8697554,-79.9719981,3a,39.4y,185.4h,94.75t/data=!3m6!1e1!3m4!1sn-2GTAgw2xxdJEC4LQcqGg!2e0!7i13312!8i6656?entry=ttu).
 * E488 [is signed](https://www.mapillary.com/app/?lat=-2.139925&lng=-79.583542&z=17&pKey=148835651305662&focus=photo).
+* E490 [is signed](https://www.mapillary.com/app/?lat=-1.5061220489282&lng=-78.519686416869&z=17&focus=photo&pKey=798922574391725).
 * E491 may be unsigned.
+* E493A may be unsigned.
 * E494 may be unsigned.
 * E583 may be unsigned.
 * E584 [is signed](https://www.google.com/maps/@-3.3418038,-79.8145849,3a,15.7y,202.74h,88.45t/data=!3m6!1e1!3m4!1srCpZzfFz8s6aj5uTrRBgJw!2e0!7i13312!8i6656?entry=ttu) (as of 2015)
