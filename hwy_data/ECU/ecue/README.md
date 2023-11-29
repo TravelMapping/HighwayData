@@ -23,8 +23,8 @@ Notes on routes:
 * E30 [is signed](https://www.google.com/maps/@-1.0087232,-80.6860841,3a,16.8y,165.37h,88.88t/data=!3m6!1e1!3m4!1sp9OPLSfk3bRz91AT9cv5aQ!2e0!7i13312!8i6656?entry=ttu).
 * E35 [is signed](https://www.google.com/maps/@-0.4585904,-78.5645854,3a,39.2y,250.7h,112.34t/data=!3m6!1e1!3m4!1slpfcy4Rjncv8JjF1HaPA_Q!2e0!7i13312!8i6656?entry=ttu).
 * E38 
-* E39 
-* E39A 
+* E39 may be unsigned.
+* E39A [is signed](https://www.google.com/maps/@-1.0725237,-80.4927184,3a,30.1y,115.92h,92.43t/data=!3m6!1e1!3m4!1s3AMtX-JHwpFREmCwIb-xXg!2e0!7i13312!8i6656?entry=ttu).
 * E40 [is signed](https://www.google.com/maps/@-2.2545878,-79.6359672,3a,36.5y,11.13h,117.22t/data=!3m6!1e1!3m4!1spI2sox89DZVSqg8acWBqMw!2e0!7i13312!8i6656?entry=ttu).
   * E40 has been mapped to bypass La Troncal (and E58 to end at the bypass), despite not being shown as such on the 2022 map, since [signage](https://www.mapillary.com/app/?lat=-2.4057600608098&lng=-79.359306755541&z=17&pKey=249384066981375&focus=photo) west of town only points E40 onto the bypass.
 * E45 [is signed](https://www.google.com/maps/@-0.4617976,-77.903709,3a,15.5y,320.27h,99.66t/data=!3m6!1e1!3m4!1shLDbITt-DZucFofbuJajbg!2e0!7i13312!8i6656?entry=ttu).
@@ -41,27 +41,27 @@ Notes on routes:
 * E68 [was signed in 2013](https://www.google.com/maps/@-4.0222311,-80.0453002,3a,15y,112.56h,89.32t/data=!3m7!1e1!3m5!1sArXYmOW5VooFsMnYmbe1Gw!2e0!5s20150701T000000!7i13312!8i6656?entry=ttu) with a standalone shield, and there are probably others still standing.
 * E69 may be unsigned.
 * E182 [is signed](https://www.google.com/maps/@0.8201755,-77.7195959,3a,29.4y,250.32h,97.82t/data=!3m6!1e1!3m4!1sm82qIKQ5wxa3RkPItvBFgQ!2e0!7i13312!8i6656?entry=ttu).
-* E186
+* E186 
 * E187 
 * E282 [is signed](https://www.google.com/maps/@0.0459851,-78.2026825,3a,43.5y,89.76h,116.09t/data=!3m6!1e1!3m4!1sTmaS543wAmaodq1cxrxZMA!2e0!7i13312!8i6656?entry=ttu).
 * E283 [is signed](https://www.google.com/maps/@-0.0438507,-78.2859797,3a,33.3y,331.81h,85.24t/data=!3m6!1e1!3m4!1sbVktGYOzKaz5L-voKK2SSw!2e0!7i13312!8i6656?entry=ttu) with a standalone shield.
-* E284
+* E284 
 * E285 
 * E304 [is signed](https://www.google.com/maps/@-1.3640058,-78.5115959,3a,75y,153.64h,101.9t/data=!3m6!1e1!3m4!1s3j_cso3HxH7qq2zmCd208w!2e0!7i13312!8i6656?entry=ttu).
-* E374
-* E381
-* E382
-* E383
-* E383A
-* E384
-* E385
-* E386
-* E387
-* E436
-* E462B 
+* E374 
+* E381 
+* E382 [is signed](https://www.google.com/maps/@-0.1154024,-79.6059443,3a,34.7y,153.86h,101.39t/data=!3m6!1e1!3m4!1sUUWa2h8-M6tnhikrOj-ePg!2e0!7i13312!8i6656?entry=ttu).
+* E383 
+* E383A 
+* E384 [is signed](https://www.google.com/maps/@-1.0122254,-80.3667647,3a,34.2y,118.67h,92.02t/data=!3m6!1e1!3m4!1shqhI3DxIFhrq5iUJxMsUCg!2e0!7i13312!8i6656?entry=ttu).
+* E385 may be unsigned.
+* E386 
+* E387 
+* E436 
+* E462B may be unsigned.
 * E481 may be unsigned.
-* E482
-* E482A
+* E482 [is signed](https://www.google.com/maps/@-1.0482268,-80.6553162,3a,19.3y,191.12h,92.47t/data=!3m6!1e1!3m4!1s5lfJDau4l48fd9sgzBBnlw!2e0!7i13312!8i6656?entry=ttu).
+* E482A [is signed as E482](https://www.google.com/maps/@-1.0884009,-80.5785868,3a,41.3y,274.85h,84.34t/data=!3m6!1e1!3m4!1sKgpsGMjaqw_3k1cTJEcyMg!2e0!7i13312!8i6656?entry=ttu), so has been mapped as E482Pil.
 * E483 
 * E484 [is signed](https://www.google.com/maps/@-1.6228327,-79.9678583,3a,34.7y,205.02h,95.42t/data=!3m6!1e1!3m4!1sXWHoR_AaQTf4npsJjut4Fg!2e0!7i13312!8i6656?entry=ttu).
 * E485 [is signed](https://www.google.com/maps/@-1.8697554,-79.9719981,3a,39.4y,185.4h,94.75t/data=!3m6!1e1!3m4!1sn-2GTAgw2xxdJEC4LQcqGg!2e0!7i13312!8i6656?entry=ttu).
