@@ -43,4 +43,5 @@ Notes on routes:
 * E582 [is signed](https://www.google.com/maps/@-2.5553116,-79.5524563,3a,15y,264.03h,106.04t/data=!3m6!1e1!3m4!1s8h7cRaPwgYdGGoQIALgpLg!2e0!7i13312!8i6656?entry=ttu).
 * E583 may be unsigned.
 * E584 [is signed](https://www.google.com/maps/@-3.3418038,-79.8145849,3a,15.7y,202.74h,88.45t/data=!3m6!1e1!3m4!1srCpZzfFz8s6aj5uTrRBgJw!2e0!7i13312!8i6656?entry=ttu) (as of 2015).
+* E594 [is signed](https://www.google.com/maps/@-2.8576678,-78.8138678,3a,15y,57.43h,88.88t/data=!3m6!1e1!3m4!1srnMa0ON2LbWRY0SOl-7zKg!2e0!7i13312!8i6656?entry=ttu).
 * E682 [is signed](https://www.google.com/maps/@-4.0589209,-79.1964015,3a,37.6y,49.06h,85.3t/data=!3m6!1e1!3m4!1s4aG6cjeLLDqzEvkl0jZRCg!2e0!7i13312!8i6656?entry=ttu).
