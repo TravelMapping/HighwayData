@@ -30,6 +30,10 @@ date;region;route;root;description
 2021-06-09;Andorra;CG3A;and.cg003a;Route reentered
 2021-06-09;Andorra;Tunel d'Envarlira;and.cg002a;Route renamed CG2a
 2021-01-14;(Australia) Australia Capital Territory;A23;ausact.a023;Route extended at south end from northern junction with State Circle to NSW border
+2023-11-28;(Australia) New South Wales;M4;ausnsw.m004;Route extended at east end from M8 to A4
+2023-11-28;(Australia) New South Wales;M8;ausnsw.m008;Route extended at north end from M4 to A40
+2023-11-28;(Australia) New South Wales;A4;ausnsw.a004;Route truncated at west end from M4 at Haberfield to M4 at Rozelle Interchange
+2023-11-28;(Australia) New South Wales;A44;ausnsw.a044;Route extended at east end from M4 at Haberfield to M4 at Rozelle Interchange
 2023-08-17;(Australia) New South Wales;M11;ausnsw.m011;Route added
 2023-08-17;(Australia) New South Wales;(North Connex);ausnsw.m011;Route deleted (renamed M11)
 2023-04-17;(Australia) New South Wales;M1 (Wollongong);ausnsw.m001wol;Route extended at south end from Princes Highway at Dapto to Weir Street
@@ -569,6 +573,9 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2023-11-27;Czechia;D52;cze.d052;Route truncated at south end from II381 to exit 26 (I52 now)
+2023-11-27;Czechia;D52;cze.d052;Route truncated at north end from III15280 to exit 10 (I52 now)
+2023-11-27;Czechia;I52 (Brno);cze.i052brn;Route extended at south end from 7 to exit 10 (former D52)
 2023-11-23;Czechia;D6 (Karlovy Vary);cze.d006kar;Route truncated at east end from I13 to exit 131 (I6 now)
 2023-11-23;Czechia;I6 (Bochov);cze.i006boc;Route extended at west end from I13 to exit 131 (former D6)
 2023-11-23;Czechia;D7 (Slaný);cze.d007;Route truncated at east end from D0 to exit 2 (I7 now)
@@ -2601,6 +2608,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
+2023-11-28;Malaysia;E32 (Klang);mys.e032kla;Route extended at north end from exit 3208 to exit 3210
 2023-11-10;Malaysia;E39;mys.e039;Route added
 2023-08-17;Malaysia;AH2;mys.ah002;Route truncated at south end from Singapore border to exit 253
 2023-08-17;Malaysia;AH2W;mys.ah002w;Route added
