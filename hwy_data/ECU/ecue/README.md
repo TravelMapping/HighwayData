@@ -5,8 +5,9 @@ Sources:
 * Logs: https://www.datosabiertos.gob.ec/dataset/red-vial-estatal-ecuatoriana-en-kilometros/resource/c7ca1f57-a055-475e-883d-9a3dd0b66c4c
 
 Notes on routes:
-* E5 
+* E5 may be unsigned.
 * E10 [is signed](https://www.google.com/maps/@0.4827962,-78.1179714,3a,39.5y,76.74h,86.75t/data=!3m6!1e1!3m4!1sa7juGBZtb1OUJdlfMSaJFw!2e0!7i13312!8i6656?entry=ttu).
+  * E10 officially uses two alignments east of Julio Andrade, one (the older one) via El Playón de San Francisco and the other (formerly E188) via El Carmelo. The latter is assumed to be the through route, with the former OldE10 at intersections.
 * E15 [is signed](https://www.google.com/maps/@-1.3474053,-80.7297364,3a,15.1y,9.53h,87.95t/data=!3m6!1e1!3m4!1sqQ7HajuqI2N9O4Ie12Tf-w!2e0!7i13312!8i6656?entry=ttu).
 * E15A may be unsigned.
 * E20 [is signed](https://www.google.com/maps/@-0.4585904,-78.5645854,3a,39.2y,250.7h,112.34t/data=!3m6!1e1!3m4!1slpfcy4Rjncv8JjF1HaPA_Q!2e0!7i13312!8i6656?entry=ttu).
@@ -28,7 +29,7 @@ Notes on routes:
 * E40 [is signed](https://www.google.com/maps/@-2.2545878,-79.6359672,3a,36.5y,11.13h,117.22t/data=!3m6!1e1!3m4!1spI2sox89DZVSqg8acWBqMw!2e0!7i13312!8i6656?entry=ttu).
   * E40 has been mapped to bypass La Troncal (and E58 to end at the bypass), despite not being shown as such on the 2022 map, since [signage](https://www.mapillary.com/app/?lat=-2.4057600608098&lng=-79.359306755541&z=17&pKey=249384066981375&focus=photo) west of town only points E40 onto the bypass.
 * E45 [is signed](https://www.google.com/maps/@-0.4617976,-77.903709,3a,15.5y,320.27h,99.66t/data=!3m6!1e1!3m4!1shLDbITt-DZucFofbuJajbg!2e0!7i13312!8i6656?entry=ttu).
-* E45A may be unsigned. The spurs to Providencia and south of Puerto Francisco de Orellana may be unsigned.
+* E45A [is signed](https://www.google.com/maps/@-0.7543558,-77.4717989,3a,15.2y,28.51h,94.78t/data=!3m6!1e1!3m4!1sIESto0DA_tGL2lhhOFQ7ng!2e0!7i13312!8i6656?entry=ttu). The spurs to Providencia and south of Puerto Francisco de Orellana may be unsigned.
 * E45-1 [seems to be signed as E45](https://www.google.com/maps/@-3.5362807,-78.5330206,3a,15y,45.32h,89.09t/data=!3m6!1e1!3m4!1sZvLkjR_205gSP__gp2NtJg!2e0!7i13312!8i6656?entry=ttu).
 * E46 [is signed](https://www.google.com/maps/@-2.3412989,-79.3550495,3a,32.7y,76.59h,91.15t/data=!3m6!1e1!3m4!1s61L3PKF-V2J_X-kYgEXQHg!2e0!7i13312!8i6656?entry=ttu).
 * E47 [is signed](https://www.google.com/maps/@-2.3456099,-79.3613664,3a,17.2y,251.67h,109.2t/data=!3m6!1e1!3m4!1s2clcW4deuipl5yYkEPmrrA!2e0!7i13312!8i6656?entry=ttu).
@@ -41,8 +42,8 @@ Notes on routes:
 * E68 [was signed in 2013](https://www.google.com/maps/@-4.0222311,-80.0453002,3a,15y,112.56h,89.32t/data=!3m7!1e1!3m5!1sArXYmOW5VooFsMnYmbe1Gw!2e0!5s20150701T000000!7i13312!8i6656?entry=ttu) with a standalone shield, and there are probably others still standing.
 * E69 may be unsigned.
 * E182 [is signed](https://www.google.com/maps/@0.8201755,-77.7195959,3a,29.4y,250.32h,97.82t/data=!3m6!1e1!3m4!1sm82qIKQ5wxa3RkPItvBFgQ!2e0!7i13312!8i6656?entry=ttu).
-* E186 
-* E187 
+* E186 may be unsigned.
+* E187 [is signed](https://www.google.com/maps/@0.5080464,-77.9042679,3a,75y,19.2h,126.8t/data=!3m6!1e1!3m4!1sd4fer6Y3l5OCrFCGRsYYxQ!2e0!7i13312!8i6656?entry=ttu).
 * E282 [is signed](https://www.google.com/maps/@0.0459851,-78.2026825,3a,43.5y,89.76h,116.09t/data=!3m6!1e1!3m4!1sTmaS543wAmaodq1cxrxZMA!2e0!7i13312!8i6656?entry=ttu).
 * E283 [is signed](https://www.google.com/maps/@-0.0438507,-78.2859797,3a,33.3y,331.81h,85.24t/data=!3m6!1e1!3m4!1sbVktGYOzKaz5L-voKK2SSw!2e0!7i13312!8i6656?entry=ttu) with a standalone shield.
 * E284 
