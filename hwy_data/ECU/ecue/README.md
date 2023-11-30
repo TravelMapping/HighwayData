@@ -29,6 +29,7 @@ Notes on routes:
 * E40 [is signed](https://www.google.com/maps/@-2.2545878,-79.6359672,3a,36.5y,11.13h,117.22t/data=!3m6!1e1!3m4!1spI2sox89DZVSqg8acWBqMw!2e0!7i13312!8i6656?entry=ttu).
   * E40 has been mapped to bypass La Troncal (and E58 to end at the bypass), despite not being shown as such on the 2022 map, since [signage](https://www.mapillary.com/app/?lat=-2.4057600608098&lng=-79.359306755541&z=17&pKey=249384066981375&focus=photo) west of town only points E40 onto the bypass.
 * E45 [is signed](https://www.google.com/maps/@-0.4617976,-77.903709,3a,15.5y,320.27h,99.66t/data=!3m6!1e1!3m4!1shLDbITt-DZucFofbuJajbg!2e0!7i13312!8i6656?entry=ttu).
+  * E45's south end (and E50's east end) may be wrong.
 * E45A [is signed](https://www.google.com/maps/@-0.7543558,-77.4717989,3a,15.2y,28.51h,94.78t/data=!3m6!1e1!3m4!1sIESto0DA_tGL2lhhOFQ7ng!2e0!7i13312!8i6656?entry=ttu). The spurs to Providencia and south of Puerto Francisco de Orellana may be unsigned.
 * E45-1 [seems to be signed as E45](https://www.google.com/maps/@-3.5362807,-78.5330206,3a,15y,45.32h,89.09t/data=!3m6!1e1!3m4!1sZvLkjR_205gSP__gp2NtJg!2e0!7i13312!8i6656?entry=ttu).
 * E46 [is signed](https://www.google.com/maps/@-2.3412989,-79.3550495,3a,32.7y,76.59h,91.15t/data=!3m6!1e1!3m4!1s61L3PKF-V2J_X-kYgEXQHg!2e0!7i13312!8i6656?entry=ttu).
