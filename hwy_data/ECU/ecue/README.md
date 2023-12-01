@@ -10,6 +10,8 @@ Notes on routes:
   * E10 officially uses two alignments east of Julio Andrade, one (the older one) via El Playón de San Francisco and the other (formerly E188) via El Carmelo. The latter is assumed to be the through route, with the former OldE10 at intersections.
 * E15 [is signed](https://www.google.com/maps/@-1.3474053,-80.7297364,3a,15.1y,9.53h,87.95t/data=!3m6!1e1!3m4!1sqQ7HajuqI2N9O4Ie12Tf-w!2e0!7i13312!8i6656?entry=ttu).
   * E15 southbound thru Pedernales, according to signs for San Vicente, turns left at Rio Tachina and right at Garcia Moreno. There is no sign for a left turn off Garcia Moreno, and Lopez Castillo is one-way northbound until 3 de Noviembre. Northbound traffic has no useful signs, so it is assumed to go essentially the same way.
+  * E15 is assumed to use the new bypass just west of Manta (between AbdCal and Gav).
+  * E15's route thru Santa Elena may be wrong (it comes from the 2014 province map, with southbound on Chimborazo due to the one-way portion of Guayaquil).
 * E15A may be unsigned.
 * E20 [is signed](https://www.google.com/maps/@-0.4585904,-78.5645854,3a,39.2y,250.7h,112.34t/data=!3m6!1e1!3m4!1slpfcy4Rjncv8JjF1HaPA_Q!2e0!7i13312!8i6656?entry=ttu).
 * E20C 
@@ -24,7 +26,7 @@ Notes on routes:
 * E29 may be unsigned.
 * E30 [is signed](https://www.google.com/maps/@-1.0087232,-80.6860841,3a,16.8y,165.37h,88.88t/data=!3m6!1e1!3m4!1sp9OPLSfk3bRz91AT9cv5aQ!2e0!7i13312!8i6656?entry=ttu).
 * E35 [is signed](https://www.google.com/maps/@-0.4585904,-78.5645854,3a,39.2y,250.7h,112.34t/data=!3m6!1e1!3m4!1slpfcy4Rjncv8JjF1HaPA_Q!2e0!7i13312!8i6656?entry=ttu).
-* E38 
+* E38 [is signed](https://www.google.com/maps/@-0.9142071,-80.4320723,3a,15.4y,159.84h,95.78t/data=!3m6!1e1!3m4!1skX-vHUi8qlotQbif6c5SCA!2e0!7i13312!8i6656?entry=ttu).
 * E39 may be unsigned.
 * E39A [is signed](https://www.google.com/maps/@-1.0725237,-80.4927184,3a,30.1y,115.92h,92.43t/data=!3m6!1e1!3m4!1s3AMtX-JHwpFREmCwIb-xXg!2e0!7i13312!8i6656?entry=ttu).
 * E40 [is signed](https://www.google.com/maps/@-2.2545878,-79.6359672,3a,36.5y,11.13h,117.22t/data=!3m6!1e1!3m4!1spI2sox89DZVSqg8acWBqMw!2e0!7i13312!8i6656?entry=ttu).
@@ -65,7 +67,7 @@ Notes on routes:
 * E481 may be unsigned.
 * E482 [is signed](https://www.google.com/maps/@-1.0482268,-80.6553162,3a,19.3y,191.12h,92.47t/data=!3m6!1e1!3m4!1s5lfJDau4l48fd9sgzBBnlw!2e0!7i13312!8i6656?entry=ttu).
 * E482A [is signed as E482](https://www.google.com/maps/@-1.0884009,-80.5785868,3a,41.3y,274.85h,84.34t/data=!3m6!1e1!3m4!1sKgpsGMjaqw_3k1cTJEcyMg!2e0!7i13312!8i6656?entry=ttu), so has been mapped as E482Pil.
-* E483 
+* E483 may be unsigned.
 * E484 [is signed](https://www.google.com/maps/@-1.6228327,-79.9678583,3a,34.7y,205.02h,95.42t/data=!3m6!1e1!3m4!1sXWHoR_AaQTf4npsJjut4Fg!2e0!7i13312!8i6656?entry=ttu).
 * E485 [is signed](https://www.google.com/maps/@-1.8697554,-79.9719981,3a,39.4y,185.4h,94.75t/data=!3m6!1e1!3m4!1sn-2GTAgw2xxdJEC4LQcqGg!2e0!7i13312!8i6656?entry=ttu).
 * E486 [is signed](https://www.google.com/maps/@-2.4122972,-80.374073,3a,15.9y,44.02h,107.7t/data=!3m6!1e1!3m4!1sVqQ2WA-OYD6vvmWKKI7czg!2e0!7i13312!8i6656?entry=ttu).
