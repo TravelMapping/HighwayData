@@ -34,7 +34,7 @@ Notes on routes:
 * E45 [is signed](https://www.google.com/maps/@-0.4617976,-77.903709,3a,15.5y,320.27h,99.66t/data=!3m6!1e1!3m4!1shLDbITt-DZucFofbuJajbg!2e0!7i13312!8i6656?entry=ttu).
   * E45's south end (and E50's east end) may be wrong.
 * E45A [is signed](https://www.google.com/maps/@-0.7543558,-77.4717989,3a,15.2y,28.51h,94.78t/data=!3m6!1e1!3m4!1sIESto0DA_tGL2lhhOFQ7ng!2e0!7i13312!8i6656?entry=ttu). The spurs to Providencia and south of Puerto Francisco de Orellana may be unsigned.
-* E45-1 [seems to be signed as E45](https://www.google.com/maps/@-3.5362807,-78.5330206,3a,15y,45.32h,89.09t/data=!3m6!1e1!3m4!1sZvLkjR_205gSP__gp2NtJg!2e0!7i13312!8i6656?entry=ttu), and so is mapped as E45Tun.
+* E45-1 [seems to be signed as E45](https://www.google.com/maps/@-3.5362807,-78.5330206,3a,15y,45.32h,89.09t/data=!3m6!1e1!3m4!1sZvLkjR_205gSP__gp2NtJg!2e0!7i13312!8i6656?entry=ttu), and so is mapped as E45Tun. The south end may be wrong. The potential branch to Mirador is not mapped.
 * E46 [is signed](https://www.google.com/maps/@-2.3412989,-79.3550495,3a,32.7y,76.59h,91.15t/data=!3m6!1e1!3m4!1s61L3PKF-V2J_X-kYgEXQHg!2e0!7i13312!8i6656?entry=ttu), including [on the bypass of Macas](https://www.google.com/maps/@-2.3275668,-78.1408097,3a,75y,350.01h,107.77t/data=!3m6!1e1!3m4!1se7ub8WFZUbSH54f906SBfg!2e0!7i13312!8i6656?entry=ttu) (not into town as maps show).
 * E47 [is signed](https://www.google.com/maps/@-2.3456099,-79.3613664,3a,17.2y,251.67h,109.2t/data=!3m6!1e1!3m4!1s2clcW4deuipl5yYkEPmrrA!2e0!7i13312!8i6656?entry=ttu).
 * E48 [is signed](https://www.google.com/maps/@-2.0893681,-79.947683,3a,42.2y,11.75h,127.51t/data=!3m6!1e1!3m4!1s_iTHWBCBjcTqdbIyi-vJ6Q!2e0!7i13312!8i6656?entry=ttu).
