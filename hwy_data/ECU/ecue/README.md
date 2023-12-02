@@ -14,10 +14,10 @@ Notes on routes:
   * E15's route thru Santa Elena may be wrong (it comes from the 2014 province map, with southbound on Chimborazo due to the one-way portion of Guayaquil).
 * E15A may be unsigned.
 * E20 [is signed](https://www.google.com/maps/@-0.4585904,-78.5645854,3a,39.2y,250.7h,112.34t/data=!3m6!1e1!3m4!1slpfcy4Rjncv8JjF1HaPA_Q!2e0!7i13312!8i6656?entry=ttu).
-* E20C 
+* E20C may be unsigned.
 * E25 [is signed](https://www.google.com/maps/@-2.2545878,-79.6359672,3a,36.5y,11.13h,117.22t/data=!3m6!1e1!3m4!1spI2sox89DZVSqg8acWBqMw!2e0!7i13312!8i6656?entry=ttu).
   * E25 still uses the old route east of Machala according to maps and logs, as well as [signage](https://www.google.com/maps/@-3.2920638,-79.9025091,3a,18.5y,49.86h,86.44t/data=!3m6!1e1!3m4!1sUS6cCrb5f5VUIksXpaUO8w!2e0!7i13312!8i6656?entry=ttu) (as of 2015).
-* E25A 
+* E25A (southeast bypass of Santo Domingo) seems to be unsigned (as of May 2023).
 * E28 may be unsigned.
 * E28A [is signed](https://www.google.com/maps/@-0.4114961,-78.5458603,3a,42.1y,250.56h,114.24t/data=!3m6!1e1!3m4!1s-6uBZfziw_giycCc_iU0_g!2e0!7i13312!8i6656?entry=ttu).
 * E28B may be unsigned.
@@ -61,7 +61,7 @@ Notes on routes:
 * E384 [is signed](https://www.google.com/maps/@-1.0122254,-80.3667647,3a,34.2y,118.67h,92.02t/data=!3m6!1e1!3m4!1shqhI3DxIFhrq5iUJxMsUCg!2e0!7i13312!8i6656?entry=ttu).
 * E385 may be unsigned.
 * E386 may be unsigned.
-* E387 
+* E387 may be unsigned.
 * E436 may be unsigned.
 * E462B may be unsigned.
 * E481 may be unsigned.
