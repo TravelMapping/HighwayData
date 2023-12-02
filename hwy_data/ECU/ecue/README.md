@@ -71,6 +71,7 @@ Notes on routes:
 * E484 [is signed](https://www.google.com/maps/@-1.6228327,-79.9678583,3a,34.7y,205.02h,95.42t/data=!3m6!1e1!3m4!1sXWHoR_AaQTf4npsJjut4Fg!2e0!7i13312!8i6656?entry=ttu).
 * E485 [is signed](https://www.google.com/maps/@-1.8697554,-79.9719981,3a,39.4y,185.4h,94.75t/data=!3m6!1e1!3m4!1sn-2GTAgw2xxdJEC4LQcqGg!2e0!7i13312!8i6656?entry=ttu).
 * E486 [is signed](https://www.google.com/maps/@-2.4122972,-80.374073,3a,15.9y,44.02h,107.7t/data=!3m6!1e1!3m4!1sVqQ2WA-OYD6vvmWKKI7czg!2e0!7i13312!8i6656?entry=ttu).
+* E486A [is signed](google.com/maps/@-2.0374257,-79.8341897,3a,15y,97.65h,86.77t/data=!3m6!1e1!3m4!1sjvBrDJHoh23ff2oePqZLdQ!2e0!7i13312!8i6656?entry=ttu) (as of 2015), despite not being on maps and logs.
 * E487 [is signed](https://www.google.com/maps/@-2.3412989,-79.3550495,3a,32.7y,76.59h,91.15t/data=!3m6!1e1!3m4!1s61L3PKF-V2J_X-kYgEXQHg!2e0!7i13312!8i6656?entry=ttu).
 * E488 [is signed](https://www.mapillary.com/app/?lat=-2.139925&lng=-79.583542&z=17&pKey=148835651305662&focus=photo).
 * E489 
