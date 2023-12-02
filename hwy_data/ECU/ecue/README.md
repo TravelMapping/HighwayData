@@ -54,7 +54,7 @@ Notes on routes:
 * E284 
 * E285 
 * E304 [is signed](https://www.google.com/maps/@-1.3640058,-78.5115959,3a,75y,153.64h,101.9t/data=!3m6!1e1!3m4!1s3j_cso3HxH7qq2zmCd208w!2e0!7i13312!8i6656?entry=ttu).
-* E374 
+* E374 (east bypass of San Miguel de Salcedo) may be unsigned.
 * E381 may be unsigned.
 * E382 [is signed](https://www.google.com/maps/@-0.1154024,-79.6059443,3a,34.7y,153.86h,101.39t/data=!3m6!1e1!3m4!1sUUWa2h8-M6tnhikrOj-ePg!2e0!7i13312!8i6656?entry=ttu).
 * E383 [is signed](https://www.google.com/maps/@-0.6563328,-80.403872,3a,33.1y,128.78h,95.02t/data=!3m6!1e1!3m4!1sUSEAEcTeOBA3AWu4HMncQw!2e0!7i13312!8i6656?entry=ttu).
