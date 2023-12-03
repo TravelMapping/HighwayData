@@ -5,6 +5,7 @@ Sources:
 * Logs: https://www.datosabiertos.gob.ec/dataset/red-vial-estatal-ecuatoriana-en-kilometros/resource/c7ca1f57-a055-475e-883d-9a3dd0b66c4c
 
 Notes on routes:
+* Due to the spotty state of signage and the fact that in many cases, route signs were only recently posted, most potentially-unsigned routes are included.
 * E5 may be unsigned.
 * E10 [is signed](https://www.google.com/maps/@0.4827962,-78.1179714,3a,39.5y,76.74h,86.75t/data=!3m6!1e1!3m4!1sa7juGBZtb1OUJdlfMSaJFw!2e0!7i13312!8i6656?entry=ttu).
   * E10 officially uses two alignments east of Julio Andrade, one (the older one) via El Playón de San Francisco and the other (formerly E188) via El Carmelo. The latter is assumed to be the through route, with the former OldE10 at intersections.
@@ -65,6 +66,7 @@ Notes on routes:
 * E387 may be unsigned.
 * E436 may be unsigned.
 * E462B may be unsigned.
+  * E462B's east end may be wrong.
 * E481 may be unsigned.
 * E482 [is signed](https://www.google.com/maps/@-1.0482268,-80.6553162,3a,19.3y,191.12h,92.47t/data=!3m6!1e1!3m4!1s5lfJDau4l48fd9sgzBBnlw!2e0!7i13312!8i6656?entry=ttu).
 * E482A [is signed as E482](https://www.google.com/maps/@-1.0884009,-80.5785868,3a,41.3y,274.85h,84.34t/data=!3m6!1e1!3m4!1sKgpsGMjaqw_3k1cTJEcyMg!2e0!7i13312!8i6656?entry=ttu), so has been mapped as E482Pil.
@@ -72,12 +74,13 @@ Notes on routes:
 * E484 [is signed](https://www.google.com/maps/@-1.6228327,-79.9678583,3a,34.7y,205.02h,95.42t/data=!3m6!1e1!3m4!1sXWHoR_AaQTf4npsJjut4Fg!2e0!7i13312!8i6656?entry=ttu).
 * E485 [is signed](https://www.google.com/maps/@-1.8697554,-79.9719981,3a,39.4y,185.4h,94.75t/data=!3m6!1e1!3m4!1sn-2GTAgw2xxdJEC4LQcqGg!2e0!7i13312!8i6656?entry=ttu).
 * E486 [is signed](https://www.google.com/maps/@-2.4122972,-80.374073,3a,15.9y,44.02h,107.7t/data=!3m6!1e1!3m4!1sVqQ2WA-OYD6vvmWKKI7czg!2e0!7i13312!8i6656?entry=ttu).
-* E486A [is signed](google.com/maps/@-2.0374257,-79.8341897,3a,15y,97.65h,86.77t/data=!3m6!1e1!3m4!1sjvBrDJHoh23ff2oePqZLdQ!2e0!7i13312!8i6656?entry=ttu) (as of 2015), despite not being on maps and logs.
+* E486A [is signed](https://www.mapillary.com/app/?lat=-2.037206&lng=-79.833356&z=17&pKey=821330489388674&focus=photo&x=0.7369863564487465&y=0.6489866699357069&zoom=3) (as of 2023), despite not being on maps and logs. It does not seem to be signed north of the entrance to Samborondon.
 * E487 [is signed](https://www.google.com/maps/@-2.3412989,-79.3550495,3a,32.7y,76.59h,91.15t/data=!3m6!1e1!3m4!1s61L3PKF-V2J_X-kYgEXQHg!2e0!7i13312!8i6656?entry=ttu).
 * E488 [is signed](https://www.mapillary.com/app/?lat=-2.139925&lng=-79.583542&z=17&pKey=148835651305662&focus=photo).
-* E489 
+* E489 may be unsigned.
+  * E489's south end may be wrong.
 * E490 [is signed](https://www.mapillary.com/app/?lat=-1.5061220489282&lng=-78.519686416869&z=17&focus=photo&pKey=798922574391725).
-* E491 may be unsigned.
+* E491 [is signed](https://www.google.com/maps/@-1.8124904,-79.5066226,3a,15.1y,47.34h,88.38t/data=!3m6!1e1!3m4!1sYlI_-XkYAEJugW-fMwCU4g!2e0!7i13312!8i6656?entry=ttu).
 * E492 may be unsigned.
 * E492A may be unsigned.
 * E493A may be unsigned.
