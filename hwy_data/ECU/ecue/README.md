@@ -82,10 +82,10 @@ Notes on routes:
 * E490 [is signed](https://www.mapillary.com/app/?lat=-1.5061220489282&lng=-78.519686416869&z=17&focus=photo&pKey=798922574391725).
 * E491 [is signed](https://www.google.com/maps/@-1.8124904,-79.5066226,3a,15.1y,47.34h,88.38t/data=!3m6!1e1!3m4!1sYlI_-XkYAEJugW-fMwCU4g!2e0!7i13312!8i6656?entry=ttu).
 * E492 may be unsigned.
-* E492A may be unsigned.
+* E492A (both of them) may be unsigned.
 * E493A may be unsigned.
 * E494 may be unsigned.
-* E495 
+* E495 may be unsigned.
 * E547 may be unsigned.
 * E582 [is signed](https://www.google.com/maps/@-2.5553116,-79.5524563,3a,15y,264.03h,106.04t/data=!3m6!1e1!3m4!1s8h7cRaPwgYdGGoQIALgpLg!2e0!7i13312!8i6656?entry=ttu).
 * E583 may be unsigned.
@@ -93,3 +93,4 @@ Notes on routes:
 * E585 [is signed](https://www.google.com/maps/@-3.3682321,-79.8517379,3a,49y,120.01h,105.55t/data=!3m6!1e1!3m4!1sPz6mHj7-VqIXk1sX3bD4aA!2e0!7i13312!8i6656?entry=ttu).
 * E594 [is signed](https://www.google.com/maps/@-2.8576678,-78.8138678,3a,15y,57.43h,88.88t/data=!3m6!1e1!3m4!1srnMa0ON2LbWRY0SOl-7zKg!2e0!7i13312!8i6656?entry=ttu).
 * E682 [is signed](https://www.google.com/maps/@-4.0589209,-79.1964015,3a,37.6y,49.06h,85.3t/data=!3m6!1e1!3m4!1s4aG6cjeLLDqzEvkl0jZRCg!2e0!7i13312!8i6656?entry=ttu).
+  * E682's route thru Palanda may be wrong.
