@@ -1,6 +1,6 @@
 Colombia Red Vial Nacional
 
-[A typical km post](https://www.google.com/maps/@1.1111923,-77.3859513,3a,15y,206.33h,74.56t/data=!3m6!1e1!3m4!1sqgaDvWJgrUJ7bPau9BOPQA!2e0!7i13312!8i6656?entry=ttu) for km 64 on section (tramo/código) 2501 of Ruta 25. [One on a branch](https://www.google.com/maps/@2.4293666,-76.620974,3a,15.4y,58.46h,78.33t/data=!3m6!1e1!3m4!1sAL6KmFQYKGpjKORnXCJsYw!2e0!7i13312!8i6656?entry=ttu), km 0 on 25CCB.
+[A typical km post](https://www.google.com/maps/@1.1111923,-77.3859513,3a,15y,206.33h,74.56t/data=!3m6!1e1!3m4!1sqgaDvWJgrUJ7bPau9BOPQA!2e0!7i13312!8i6656?entry=ttu) for km 64 on section (tramo/código) 2501 of Ruta 25. [One on a branch](https://www.google.com/maps/@2.4293666,-76.620974,3a,15.4y,58.46h,78.33t/data=!3m6!1e1!3m4!1sAL6KmFQYKGpjKORnXCJsYw!2e0!7i13312!8i6656?entry=ttu), km 0 on 25CCB. [A more modern style](https://youtu.be/mXmthEDXyaU?t=226) (km 16 on 2501).
 
 Sources:
 * Logs: https://www.mintransporte.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=33245&id_comunidad=portal
