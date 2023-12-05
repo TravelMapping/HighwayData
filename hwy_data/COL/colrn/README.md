@@ -9,4 +9,5 @@ Sources:
 * Maps: https://mintransporte.maps.arcgis.com/apps/webappviewer/index.html?id=76b4f0bffcef4936b6f28b4889690f91 (Mapa_de_Carreteras - Red Vial and ConcesionesCarreteras layers)
 
 Notes on routes:
-
+* 23VL01 may be unsigned.
+* 25CCA (thru Santander de Quilichao) seems to no longer exist.
