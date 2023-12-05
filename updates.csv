@@ -30,6 +30,10 @@ date;region;route;root;description
 2021-06-09;Andorra;CG3A;and.cg003a;Route reentered
 2021-06-09;Andorra;Tunel d'Envarlira;and.cg002a;Route renamed CG2a
 2021-01-14;(Australia) Australia Capital Territory;A23;ausact.a023;Route extended at south end from northern junction with State Circle to NSW border
+2023-11-28;(Australia) New South Wales;M4;ausnsw.m004;Route extended at east end from M8 to A4
+2023-11-28;(Australia) New South Wales;M8;ausnsw.m008;Route extended at north end from M4 to A40
+2023-11-28;(Australia) New South Wales;A4;ausnsw.a004;Route truncated at west end from M4 at Haberfield to M4 at Rozelle Interchange
+2023-11-28;(Australia) New South Wales;A44;ausnsw.a044;Route extended at east end from M4 at Haberfield to M4 at Rozelle Interchange
 2023-08-17;(Australia) New South Wales;M11;ausnsw.m011;Route added
 2023-08-17;(Australia) New South Wales;(North Connex);ausnsw.m011;Route deleted (renamed M11)
 2023-04-17;(Australia) New South Wales;M1 (Wollongong);ausnsw.m001wol;Route extended at south end from Princes Highway at Dapto to Weir Street
@@ -569,6 +573,31 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2023-12-03;Czechia;I14 (Liberec);cze.i014lib;Route extended at east end from Lučanská to Československé armády in Lukášov
+2023-12-03;Czechia;I15;cze.i015;Route relocated from through Kravaře and onto bypass from II263 to Sezímky
+2023-12-03;Czechia;I19;cze.i019;Route relocated from through Rouštany and onto bypass from west of Rouštany to III03422
+2023-12-03;Czechia;I34;cze.i034;Route relocated from through Rouštany and onto bypass from west of Rouštany to east of Rouštany
+2023-12-03;Czechia;I62;cze.i062;Route relocated in Děčín from Ústecká, and onto Práce between Ústecká-Práce junction and III25852
+2023-12-03;Czechia;E442;cze.e442;Route relocated in Děčín from Ústecká, and onto Práce between Ústecká-Práce junction and III25852
+2023-12-03;Czechia;II175;cze.ii175;Route truncated at north end from I19 to II175a (II175a now), and reextended to I19
+2023-12-03;Czechia;II175a;cze.ii175a;New Route (fromer II175)
+2023-12-03;Czechia;II263;cze.ii263;Route extended at south end from Kravaře to I15
+2023-12-03;Czechia;II298;cze.ii298;Route relocated in Třebechovice pod Orebem from Pardubická and Trčkova, and onto Vitouškova, Týnišťská and I11
+2023-12-03;Czechia;II299;cze.ii299;Route truncated at south end from Pardubická (former II298) to Tyršova, and reextended onto Hradecká up to I11
+2023-12-02;Czechia;I34;cze.i034;Route relocated from through Myslotín, Ondřejov and Ústrašín, and onto new bypass from north of Myslotín to south of Ústrašín
+2023-12-02;Czechia;E551;cze.e551;Route relocated from through Myslotín, Ondřejov and Ústrašín, and onto new bypass from north of Myslotín to south of Ústrašín
+2023-12-02;Czechia;I34;cze.i034;Route relocated from through Dolní Lhota and onto bypass between III1537 and II153
+2023-12-02;Czechia;E551;cze.e551;Route relocated from through Dolní Lhota and onto bypass between III1537 and II153
+2023-12-02;Czechia;E551;cze.e551;Route truncated at west end from II603 to D3
+2023-11-30;Czechia;E53;cze.e53;Route relocated onto new expressway from north of III18040 junction to south of III18030 junction
+2023-11-30;Czechia;I27;cze.i027;Route relocated onto new expressway from north of III18040 junction to south of III18030 junction
+2023-11-30;Czechia;I38 (Znojmo);cze.i038zno;New Route
+2023-11-30;Czechia;II185;cze.ii185;Route truncated at Klatovy from I27 to II186, at reextended onto western bypass to I22
+2023-11-30;Czechia;II186;cze.ii186;Route truncated at Klatovy from I22 to I27, and reextended onto I27 and northern bypass to II185
+2023-11-30;Czechia;II290 (Desná);cze.ii290des;New Route
+2023-11-27;Czechia;D52;cze.d052;Route truncated at south end from II381 to exit 26 (I52 now)
+2023-11-27;Czechia;D52;cze.d052;Route truncated at north end from III15280 to exit 10 (I52 now)
+2023-11-27;Czechia;I52 (Brno);cze.i052brn;Route extended at south end from 7 to exit 10 (former D52)
 2023-11-23;Czechia;D6 (Karlovy Vary);cze.d006kar;Route truncated at east end from I13 to exit 131 (I6 now)
 2023-11-23;Czechia;I6 (Bochov);cze.i006boc;Route extended at west end from I13 to exit 131 (former D6)
 2023-11-23;Czechia;D7 (Slaný);cze.d007;Route truncated at east end from D0 to exit 2 (I7 now)
@@ -1200,6 +1229,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2023-12-01;(Germany) Bavaria;A94 (Malching);deuby.a094mal;Route extended at east end from temporary end east of Malching to exit 32 (Kirchham)
 2023-10-21;(Germany) Bavaria;St2056;deuby.st2056;Route truncated at west end from north of Lengenfeld to east of Lengenfeld (St2057 now)
 2023-10-21;(Germany) Bavaria;St2057;deuby.st2057;Route relocated from through Lengenfeld and onto bypass from Gewerbering to Streicherhof
 2023-09-26;(Germany) Bavaria;B15a;deuby.b015a;Route extended at north end from St2078 to RO19
@@ -1591,6 +1621,8 @@ date;region;route;root;description
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2023-11-27;(Germany) Saxony;B95 (Rötha);;Route deleted
+2023-11-27;(Germany) Saxony;S72;deusn.s072;Route truncated from former B95 north of Rötha to A72's exit 29 north of Böhlen
 2023-11-03;(Germany) Saxony;S32 (Lommatzsch);deusn.s032;Route relocated from through Lommatzsch and onto south-eastern bypass between Mertitzer Straße and Meißener Straße
 2023-07-23;(Germany) Saxony;A72;deusn.a072;Route extended at north end from former junction with B95 north of Rötha to A38 (exit 30), alignment of former B95
 2023-07-23;(Germany) Saxony;B95 (Rötha);deusn.b095rot;Route truncated at north end from B2 (Probstdeuben) to S72 north of Rötha, mostly A72 now
@@ -2599,6 +2631,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
+2023-11-28;Malaysia;E32 (Klang);mys.e032kla;Route extended at north end from exit 3208 to exit 3210
 2023-11-10;Malaysia;E39;mys.e039;Route added
 2023-08-17;Malaysia;AH2;mys.ah002;Route truncated at south end from Singapore border to exit 253
 2023-08-17;Malaysia;AH2W;mys.ah002w;Route added
@@ -3875,6 +3908,10 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2023-12-01;Romania;E574;rou.e574;Rerouted on Podu Dambovitei bypass
+2023-12-01;Romania;DN73;rou.dn073;Rerouted on Podu Dambovitei bypass
+2023-12-01;Romania;DN73E;rou.dn73e;New Route
+2023-11-30;Romania;A0;rou.a000;New route
 2023-11-14;Romania;DJ400;rou.dj400;New Route
 2023-10-23;Romania;DJ703L;rou.dj703l;Route shortened at northern end, between DJ703G and ManTur (most of it is now DN7CC)
 2023-10-23;Romania;DN7CC;rou.dn007cc;New route
@@ -4572,6 +4609,7 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2023-11-30;Sweden;R63;swe.r063;Route relocated onto new alignment from west of Hjulsjö to east of Hjulsjö
 2023-07-02;Sweden;E20;swe.e20;Route relocated north of Vårgårda onto new alignment between Trafikplats Fagrabo (exit 95.3) to Heden
 2023-03-04;Sweden;L288;swe.l288;Route relocated from through Knutsbol and onto new bypass from south of Knutsbol to north of Knutsbol
 2023-03-04;Sweden;Tyresövägen, Stockholm;swe.tyrvag;Route extended at east end from Bollmora gårdsväg to Bollmora allé
@@ -4808,6 +4846,7 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2023-11-30;Turkey;D687;tur.d687;Route relocated on the new alignment between Beyşehir and Taşağıl
 2023-11-21;Turkey;E84 (Kavakköy (spur));tur.e84kav;New Route
 2023-11-21;Turkey;E87 (Keşan);tur.e87;Route deleted, mainly merged into main route
 2023-11-21;Turkey;E87;tur.e87;Route truncated from Çanakkale ferry terminal to D200/D210 interchange east of Çanakkale, and reextended onto D200 and O6 via 1915 Çanakkale bridge up to O6's exit 12, and further absorbing former E87 (Keşan)
@@ -5621,6 +5660,11 @@ date;region;route;root;description
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2023-11-29;(USA) Colorado;CO 17 (Alamosa);co.co017;Route split due to lack of signage along US 285 and US 160. Existing CO 17 truncated to portion north of Alamosa.
+2023-11-29;(USA) Colorado;CO 17 (Antonito);co.co017ant;Route split due to lack of signage along US 285 and US 160. New route containing portion of CO 17 south of Antonito.
+2023-11-27;(USA) Colorado;CO 39;co.co039;Route extended south to Central Avenue in Wiggins per CDOT online logs.
+2023-11-27;(USA) Colorado;CO 52 (Niwot);co.co052;Route split due to lack of signage along I-76. Original CO 52 truncated to Central Avenue in Wiggins per CDOT online logs.
+2023-11-27;(USA) Colorado;CO 52 (Fort Morgan);co.co052fmo;Route split due to lack of signage along I-76. New route containing portion of CO 52 north of Fort Morgan.
 2023-08-31;(USA) Colorado;US 160 Bus (Bayfield);;Route deleted (unsigned)
 2023-06-08;(USA) Colorado;E470;co.e470;Adjusted I-70 interchange to match real-world interchange geometry. Point "20" now refers to the flyover ramp from NB E470 to WB I-70, while points "20A" and "20B" refer to the NB E470 and SB E470 access points to I-70 exit 289.
 2022-12-18;(USA) Colorado;CO 2;co.co002;Route truncated to southern US6/85 junction per CDOT online logs and signage report
