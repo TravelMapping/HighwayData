@@ -11,6 +11,7 @@ Sources:
 Notes on routes:
 * 23VL01 may be unsigned.
 * 2506 is signed both [thru](https://www.google.com/maps/@4.3897972,-76.0689545,3a,15.8y,90.85h,66.69t/data=!3m6!1e1!3m4!1s8TM9oOuOvR3Yv71bnTxNGg!2e0!7i13312!8i6656?entry=ttu) and [around](https://www.google.com/maps/@4.3897331,-76.0624464,3a,32.2y,60.83h,81.67t/data=!3m6!1e1!3m4!1s4d6QRgVD2LG_aIHqduZZxQ!2e0!7i16384!8i8192?entry=ttu) Zarzal (around is former 25VLH?).
+* 25AN19 [is signed] despite not showing up on current sources.
 * 25CCA (thru Santander de Quilichao) seems to no longer exist.
 * 25VLC (Ginebra) seems to be unsigned and may no longer exist.
 * 25VLD (Sonso) seems to be unsigned and may no longer exist.
