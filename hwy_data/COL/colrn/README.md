@@ -9,7 +9,7 @@ Colombia Red Vial Nacional
 Sources:
 * Logs: https://www.mintransporte.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=33245&id_comunidad=portal
 * Definitions: https://mintransporte.gov.co/documentos/305/categorizacion-vial/
-* Maps: https://mintransporte.maps.arcgis.com/apps/webappviewer/index.html?id=76b4f0bffcef4936b6f28b4889690f91 (Mapa_de_Carreteras - Red Vial and ConcesionesCarreteras layers)
+* Maps: https://mintransporte.maps.arcgis.com/apps/webappviewer/index.html?id=76b4f0bffcef4936b6f28b4889690f91 (Mapa_de_Carreteras - Red Vial and ConcesionesCarreteras layers) https://hermes2.invias.gov.co/Sistema_de_Informacion_Vial/
 
 Notes on routes:
 * 23VL01 may be unsigned.
