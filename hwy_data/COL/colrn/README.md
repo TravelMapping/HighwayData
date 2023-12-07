@@ -20,6 +20,10 @@ Notes on routes:
 * 25VLE (Tuluá) seems to be unsigned and may no longer exist.
 * 25VLF (Andalucia) seems to be unsigned and may no longer exist.
 * 25VLG (Bugalagrande) seems to be unsigned and may no longer exist.
+* 45ABYB [is signed as 45A](https://www.google.com/maps/@5.5998284,-73.8359361,3a,15y,300.88h,83.61t/data=!3m6!1e1!3m4!1sUL89qPZm4E1Riz8rl5ZAqg!2e0!7i16384!8i8192?entry=ttu) (but so is [45A thru Chiquinquirá](https://www.google.com/maps/@5.6140055,-73.8154137,3a,27.7y,102.72h,67.01t/data=!3m6!1e1!3m4!1sSi-BkkF3ymplvte4AolHJQ!2e0!7i16384!8i8192?entry=ttu)), so the latter is mapped as 45AChi.
+* 50's east end in Guasca may be wrong.
+* 60's east end in Chiquinquirá is shown at Calle 4 on maps, but the road has a blatant change in character one block west at Calle 3.
+* 60's east end in Páez may be wrong.
 
 
 
