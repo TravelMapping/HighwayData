@@ -67,59 +67,68 @@ Notes on routes:
 24HL01
 24HL02
 24HL03
-2501
-2501A
-2501B
-2502
-2503
-2504
-2504A
-2505
-2505B
-2506
-2507
-2508
-2509
-2510
-2511
-2512
-2513
-2514
-2515
-2516
-25ANH
-25ANI
-25AT04
-25ATA
-25B01
-25B02
-25BL02
-25CC02
-25CC04
-25CC15
-25CC15-1
-25CCA
-25CCB
-25CCC
-25CCD
-25CRA
-25NR01
-25NR04
-25NRB
-25NRC
-25NRD
-25NRE
-25RSA
-25SC01
-25SCA
-25VL07
-25VLB
-25VLC
-25VLD
-25VLE
-25VLF
-25VLG
-25VLH
+
+* rn25pop
+  * 2501
+    * 25NRC
+      * 25NR01
+    * 2501B
+    * 25NRD
+  * 2501A
+  * (gap thru Pasto)
+  * 2502
+    * 25NRB
+    * 25NRE
+    * 25NR04
+  * 2503
+    * 25CC15
+      * 25CC15-1
+    * 25CC02
+    * 25CCB
+      * 25CC04
+  * (gap thru Popayán)
+  * 2504
+    * 25CCA
+    * 2504A
+      * 25CCC
+      * 25CCD
+* (gap thru Santiago de Cali)
+* rn25
+  * 2505
+    * 2505B
+    * 25VLB
+    * 25VLC
+    * 25VLD
+    * 25VLE
+    * 25VLF
+  * 2506
+    * 25VLG
+    * 25VLH
+    * 25VL07
+  * 2507
+    * 25RSA
+  * 2508
+    * 25ANI
+  * 2509
+  * (gap thru Medellín)
+  * 2510
+  * 2511
+  * 2512
+    * 25ANH
+  * 2513
+    * 25CRA
+  * 2514
+    * 25SCA
+    * 25SC01
+  * (gap thru Sincelejo)
+  * 2515
+    * 25BL02
+  * 2516
+    * 25ATA
+    * 25AT04
+* rn25b
+  * 25B01
+  * 25B02
 2601
 2602
 2602A
