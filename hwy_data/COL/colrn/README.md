@@ -15,6 +15,7 @@ Notes on routes:
 * 23VL01 may be unsigned.
 * 2506 is signed both [thru](https://www.google.com/maps/@4.3897972,-76.0689545,3a,15.8y,90.85h,66.69t/data=!3m6!1e1!3m4!1s8TM9oOuOvR3Yv71bnTxNGg!2e0!7i13312!8i6656?entry=ttu) and [around](https://www.google.com/maps/@4.3897331,-76.0624464,3a,32.2y,60.83h,81.67t/data=!3m6!1e1!3m4!1s4d6QRgVD2LG_aIHqduZZxQ!2e0!7i16384!8i8192?entry=ttu) Zarzal (around is former 25VLH?).
 * 25CCA (thru Santander de Quilichao) seems to no longer exist.
+* 25NR01's east end may be wrong (sources show it continuing just a bit farther, but pavement changes at the intersection).
 * 25VLC (Ginebra) seems to be unsigned and may no longer exist.
 * 25VLD (Sonso) seems to be unsigned and may no longer exist.
 * 25VLE (Tuluá) seems to be unsigned and may no longer exist.
@@ -23,6 +24,7 @@ Notes on routes:
 * 45ABYB [is signed as 45A](https://www.google.com/maps/@5.5998284,-73.8359361,3a,15y,300.88h,83.61t/data=!3m6!1e1!3m4!1sUL89qPZm4E1Riz8rl5ZAqg!2e0!7i16384!8i8192?entry=ttu) (but so is [45A thru Chiquinquirá](https://www.google.com/maps/@5.6140055,-73.8154137,3a,27.7y,102.72h,67.01t/data=!3m6!1e1!3m4!1sSi-BkkF3ymplvte4AolHJQ!2e0!7i16384!8i8192?entry=ttu)), so the latter is mapped as 45AChi.
 * 40's west end in Buenaventura may be wrong. It's not clear how westbound traffic gets between the two pieces of Calle 7.
 * 40 may extend east a bit more to near Carimagua.
+* 40Pue [is signed](https://www.google.com/maps/@6.1895912,-67.5011131,3a,15y,102.6h,83.81t/data=!3m6!1e1!3m4!1sAF1QipNuysxs3gOdwzEPreTEYTsbGMFXlwt9IN6wIPkq!2e10!7i1920!8i1080?entry=ttu). The east end may be wrong.
 * 40CN03 [may be unsigned](https://www.google.com/maps/@4.5553599,-74.2592082,3a,16.5y,61.89h,83.06t/data=!3m6!1e1!3m4!1smEKuJhLjJ8pRte6sl9qPmQ!2e0!7i16384!8i8192?entry=ttu) (or may no longer be a national route?).
 * 40CNA (thru Chipaque) seems to be unsigned.
 * 40CNC may be unsigned (concrete reference posts seem to just have the distance).
