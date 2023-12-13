@@ -12,15 +12,21 @@ Sources:
 * Maps: https://mintransporte.maps.arcgis.com/apps/webappviewer/index.html?id=76b4f0bffcef4936b6f28b4889690f91 (Mapa_de_Carreteras - Red Vial and ConcesionesCarreteras layers) https://hermes2.invias.gov.co/Sistema_de_Informacion_Vial/
 
 Notes on routes:
+* 20 west of Popayán is assumed to be signed.
 * 23VL01 may be unsigned.
-* 2506 is signed both [thru](https://www.google.com/maps/@4.3897972,-76.0689545,3a,15.8y,90.85h,66.69t/data=!3m6!1e1!3m4!1s8TM9oOuOvR3Yv71bnTxNGg!2e0!7i13312!8i6656?entry=ttu) and [around](https://www.google.com/maps/@4.3897331,-76.0624464,3a,32.2y,60.83h,81.67t/data=!3m6!1e1!3m4!1s4d6QRgVD2LG_aIHqduZZxQ!2e0!7i16384!8i8192?entry=ttu) Zarzal (around is former 25VLH?).
-* 25CCA (thru Santander de Quilichao) seems to no longer exist.
+* 23VL02-1 and 23VL02-2 may be unsigned.
+* 25ANI [is signed as 25B01](https://www.google.com/maps/@5.7368124,-75.6026485,3a,36.3y,40.35h,79.75t/data=!3m6!1e1!3m4!1s10u7DW2Wj5SsiK2j-C173w!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@5.7431355,-75.6142468,3a,15y,123.27h,75.39t/data=!3m6!1e1!3m4!1s96LC_8OlF5nn8B6lUMWhNw!2e0!7i16384!8i8192?entry=ttu) still stand on the old alignment.
+* 25AT04's north end may be wrong, but [km 37](https://www.google.com/maps/@11.0360821,-74.8325192,3a,15.6y,262.49h,82.07t/data=!3m6!1e1!3m4!1sxhOskj5IKKhd-5qDx9VF1A!2e0!7i16384!8i8192?entry=ttu) is posted.
+* 25CC15 and 25CC15-1 may be unsigned (there is no imagery available).
+* 25CCA (thru Santander de Quilichao) seems to be unsigned and may no longer exist.
 * 25NR01's east end may be wrong (sources show it continuing just a bit farther, but pavement changes at the intersection).
+* 25NRE is the southbound lanes of 2502 north of Pasto.
 * 25VLC (Ginebra) seems to be unsigned and may no longer exist.
 * 25VLD (Sonso) seems to be unsigned and may no longer exist.
 * 25VLE (Tuluá) seems to be unsigned and may no longer exist.
 * 25VLF (Andalucia) seems to be unsigned and may no longer exist.
 * 25VLG (Bugalagrande) seems to be unsigned and may no longer exist.
+* 25VLH (Zarzal) [is signed as 2506](https://www.google.com/maps/@4.3897331,-76.0624464,3a,32.2y,60.83h,81.67t/data=!3m6!1e1!3m4!1s4d6QRgVD2LG_aIHqduZZxQ!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@4.3897972,-76.0689545,3a,15.8y,90.85h,66.69t/data=!3m6!1e1!3m4!1s8TM9oOuOvR3Yv71bnTxNGg!2e0!7i13312!8i6656?entry=ttu) still stand on the old alignment (as of 2013).
 * 45ABYB [is signed as 45A](https://www.google.com/maps/@5.5998284,-73.8359361,3a,15y,300.88h,83.61t/data=!3m6!1e1!3m4!1sUL89qPZm4E1Riz8rl5ZAqg!2e0!7i16384!8i8192?entry=ttu) (but so is [45A thru Chiquinquirá](https://www.google.com/maps/@5.6140055,-73.8154137,3a,27.7y,102.72h,67.01t/data=!3m6!1e1!3m4!1sSi-BkkF3ymplvte4AolHJQ!2e0!7i16384!8i8192?entry=ttu)), so the latter is mapped as 45AChi.
 * 40's west end in Buenaventura may be wrong. It's not clear how westbound traffic gets between the two pieces of Calle 7.
 * 40 may extend east a bit more to near Carimagua.
@@ -32,6 +38,7 @@ Notes on routes:
 * 50's east end in Guasca may be wrong.
 * 60's east end in Chiquinquirá is shown at Calle 4 on maps, but the road has a blatant change in character one block west at Calle 3.
 * 60's east end in Páez may be wrong.
+* 90AT01 may be unsigned (available imagery is too old).
 
 
 
@@ -70,67 +77,10 @@ Notes on routes:
 24HL02
 24HL03
 
-* rn25pop
-  * 2501
-    * 25NRC
-      * 25NR01
-    * 2501B
-    * 25NRD
-  * 2501A
-  * (gap thru Pasto)
-  * 2502
-    * 25NRB
-    * 25NRE
-    * 25NR04
-  * 2503
-    * 25CC15
-      * 25CC15-1
-    * 25CC02
-    * 25CCB
-      * 25CC04
-  * (gap thru Popayán)
-  * 2504
-    * 25CCA
-    * 2504A
-      * 25CCC
-      * 25CCD
+* RN25Pop: 2501 (gap thru Pasto) 2502 2503 (gap thru Popayán) 2504
 * (gap thru Santiago de Cali)
-* rn25
-  * 2505
-    * 2505B
-    * 25VLB
-    * 25VLC
-    * 25VLD
-    * 25VLE
-    * 25VLF
-  * 2506
-    * 25VLG
-    * 25VLH
-    * 25VL07
-  * 2507
-    * 25RSA
-  * 2508
-    * 25ANI
-  * 2509
-  * (gap thru Medellín)
-  * 2510
-  * 2511
-  * 2512
-    * 25ANH
-  * 2513
-    * 25CRA
-  * 2514
-    * 25SCA
-    * 25SC01
-  * (gap thru Sincelejo)
-  * 2515
-    * 25BL02
-  * 2516
-    * 25ATA
-    * 25AT04
-* rn25b
-  * 25B01
-  * 25B02
+* RN25: 2505 2506 2507 2508 2509 (gap thru Medellín) 2510 2511 2512 2513 2514 (gap thru Sincelejo) 2515 2516
+* RN25B: 25B01 25B02
 2601
 2602
 2602A
