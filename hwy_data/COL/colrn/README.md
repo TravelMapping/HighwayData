@@ -1,6 +1,6 @@
 Colombia Red Vial Nacional
 
-[A standalone route marker](https://www.google.com/maps/@1.7545334,-77.2909335,3a,15y,340.29h,91.88t/data=!3m6!1e1!3m4!1sNP-wCRixRGc0MOmwZcZwzA!2e0!7i16384!8i8192?entry=ttu).
+[A standalone route marker](https://www.google.com/maps/@1.7545334,-77.2909335,3a,15y,340.29h,91.88t/data=!3m6!1e1!3m4!1sNP-wCRixRGc0MOmwZcZwzA!2e0!7i16384!8i8192?entry=ttu). [One for a branch!](https://www.google.com/maps/@8.9056773,-75.8016632,3a,28.4y,142.09h,87.4t/data=!3m6!1e1!3m4!1s7n_RUTch_l_dfUB2ASxHBA!2e0!7i16384!8i8192?entry=ttu)
 
 [A typical reference post](https://www.google.com/maps/@1.1111923,-77.3859513,3a,15y,206.33h,74.56t/data=!3m6!1e1!3m4!1sqgaDvWJgrUJ7bPau9BOPQA!2e0!7i13312!8i6656?entry=ttu) for km 64 on section (tramo/código) 2501 of Ruta 25. [One on a branch](https://www.google.com/maps/@2.4293666,-76.620974,3a,15.4y,58.46h,78.33t/data=!3m6!1e1!3m4!1sAL6KmFQYKGpjKORnXCJsYw!2e0!7i13312!8i6656?entry=ttu), km 0 on 25CCB. [A more modern style](https://www.google.com/maps/@1.327848,-77.2786018,3a,15.1y,66.25h,84.67t/data=!3m6!1e1!3m4!1seV6LO_kjs2UBgw-KZ4p3BA!2e0!7i16384!8i8192?entry=ttu), km 22 on 2502.
 
@@ -12,9 +12,13 @@ Sources:
 * Maps: https://mintransporte.maps.arcgis.com/apps/webappviewer/index.html?id=76b4f0bffcef4936b6f28b4889690f91 (Mapa_de_Carreteras - Red Vial and ConcesionesCarreteras layers) https://hermes2.invias.gov.co/Sistema_de_Informacion_Vial/
 
 Notes on routes:
+* 13's north and south ends may be wrong.
 * 20 west of Popayán is assumed to be signed.
-* 23VL01 may be unsigned.
+* 21CR04 [is signed as 21](https://www.google.com/maps/@8.9573157,-75.8601316,3a,37.2y,293.23h,86.85t/data=!3m6!1e1!3m4!1splLrdEhLRpUu8b_RsKvqaQ!2e0!7i16384!8i8192?entry=ttu) [as well as correctly](https://www.google.com/maps/@8.931763,-75.9007758,3a,15.3y,26.65h,74.39t/data=!3m6!1e1!3m4!1shSgRohOGwZzycQM0dn3lxQ!2e0!7i16384!8i8192?entry=ttu).
+* 23's north end in Montería may be wrong.
+* 23VL01 [is signed](https://www.google.com/maps/@3.5452763,-76.489817,3a,15y,90.58h,88.68t/data=!3m6!1e1!3m4!1sY1iA_kYS3xwB-flsvZeJ4A!2e0!7i16384!8i8192?entry=ttu).
 * 23VL02-1 and 23VL02-2 may be unsigned.
+* 23VLB may be unsigned.
 * 25ANI [is signed as 25B01](https://www.google.com/maps/@5.7368124,-75.6026485,3a,36.3y,40.35h,79.75t/data=!3m6!1e1!3m4!1s10u7DW2Wj5SsiK2j-C173w!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@5.7431355,-75.6142468,3a,15y,123.27h,75.39t/data=!3m6!1e1!3m4!1s96LC_8OlF5nn8B6lUMWhNw!2e0!7i16384!8i8192?entry=ttu) still stand on the old alignment.
 * 25AT04's north end may be wrong, but [km 37](https://www.google.com/maps/@11.0360821,-74.8325192,3a,15.6y,262.49h,82.07t/data=!3m6!1e1!3m4!1sxhOskj5IKKhd-5qDx9VF1A!2e0!7i16384!8i8192?entry=ttu) is posted.
 * 25CC15 and 25CC15-1 may be unsigned (there is no imagery available).
