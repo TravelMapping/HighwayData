@@ -31,6 +31,15 @@ Notes on routes:
 * 25VLF (Andalucia) seems to be unsigned and may no longer exist.
 * 25VLG (Bugalagrande) seems to be unsigned and may no longer exist.
 * 25VLH (Zarzal) [is signed as 2506](https://www.google.com/maps/@4.3897331,-76.0624464,3a,32.2y,60.83h,81.67t/data=!3m6!1e1!3m4!1s4d6QRgVD2LG_aIHqduZZxQ!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@4.3897972,-76.0689545,3a,15.8y,90.85h,66.69t/data=!3m6!1e1!3m4!1s8TM9oOuOvR3Yv71bnTxNGg!2e0!7i13312!8i6656?entry=ttu) still stand on the old alignment (as of 2013).
+* 26CC03 may be unsigned (there is no imagery available).
+* 26CC03-2 may be unsigned (there is no imagery available).
+* 29RSA seems to be unsigned, but is part of ViaPer in colsf.
+* 29RSC is the southbound lanes of 2902 south of Chinchina, but also the Chinchina bypass.
+* 29RSE is the northbound lanes of 2902 north of Dosquebradas.
+* 31's northbound route thru Miranda is unclear.
+* 37's southbound route thru La Plata is unclear.
+* 37CCA may be unsigned (there is no imagery available).
+* 37CCB may be unsigned (there is no imagery available).
 * 45ABYB [is signed as 45A](https://www.google.com/maps/@5.5998284,-73.8359361,3a,15y,300.88h,83.61t/data=!3m6!1e1!3m4!1sUL89qPZm4E1Riz8rl5ZAqg!2e0!7i16384!8i8192?entry=ttu) (but so is [45A thru Chiquinquirá](https://www.google.com/maps/@5.6140055,-73.8154137,3a,27.7y,102.72h,67.01t/data=!3m6!1e1!3m4!1sSi-BkkF3ymplvte4AolHJQ!2e0!7i16384!8i8192?entry=ttu)), so the latter is mapped as 45AChi.
 * 40's west end in Buenaventura may be wrong. It's not clear how westbound traffic gets between the two pieces of Calle 7.
 * 40 may extend east a bit more to near Carimagua.
@@ -39,6 +48,7 @@ Notes on routes:
 * 40CNA (thru Chipaque) seems to be unsigned.
 * 40CNC may be unsigned (concrete reference posts seem to just have the distance).
 * 40MT01 may be unsigned.
+* 45CS09 may be unsigned.
 * 50's east end in Guasca may be wrong.
 * 60's east end in Chiquinquirá is shown at Calle 4 on maps, but the road has a blatant change in character one block west at Calle 3.
 * 60's east end in Páez may be wrong.
