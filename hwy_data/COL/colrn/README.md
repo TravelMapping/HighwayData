@@ -1,6 +1,6 @@
 Colombia Red Vial Nacional
 
-[A standalone route marker](https://www.google.com/maps/@1.7545334,-77.2909335,3a,15y,340.29h,91.88t/data=!3m6!1e1!3m4!1sNP-wCRixRGc0MOmwZcZwzA!2e0!7i16384!8i8192?entry=ttu). [One for a branch!](https://www.google.com/maps/@8.9056773,-75.8016632,3a,28.4y,142.09h,87.4t/data=!3m6!1e1!3m4!1s7n_RUTch_l_dfUB2ASxHBA!2e0!7i16384!8i8192?entry=ttu)
+[A standalone route marker](https://www.google.com/maps/@1.7545334,-77.2909335,3a,15y,340.29h,91.88t/data=!3m6!1e1!3m4!1sNP-wCRixRGc0MOmwZcZwzA!2e0!7i16384!8i8192?entry=ttu). [One for a branch!](https://www.google.com/maps/@8.9056773,-75.8016632,3a,28.4y,142.09h,87.4t/data=!3m6!1e1!3m4!1s7n_RUTch_l_dfUB2ASxHBA!2e0!7i16384!8i8192?entry=ttu) [One on a green sign](https://www.google.com/maps/@6.1530839,-75.5327083,3a,43y,138.97h,107.27t/data=!3m6!1e1!3m4!1sLHFj4aBG-rxtEoQx6ofb-Q!2e0!7i16384!8i8192?entry=ttu).
 
 [A typical reference post](https://www.google.com/maps/@1.1111923,-77.3859513,3a,15y,206.33h,74.56t/data=!3m6!1e1!3m4!1sqgaDvWJgrUJ7bPau9BOPQA!2e0!7i13312!8i6656?entry=ttu) for km 64 on section (tramo/código) 2501 of Ruta 25. [One on a branch](https://www.google.com/maps/@2.4293666,-76.620974,3a,15.4y,58.46h,78.33t/data=!3m6!1e1!3m4!1sAL6KmFQYKGpjKORnXCJsYw!2e0!7i13312!8i6656?entry=ttu), km 0 on 25CCB. [A more modern style](https://www.google.com/maps/@1.327848,-77.2786018,3a,15.1y,66.25h,84.67t/data=!3m6!1e1!3m4!1seV6LO_kjs2UBgw-KZ4p3BA!2e0!7i16384!8i8192?entry=ttu), km 22 on 2502.
 
@@ -48,8 +48,10 @@ Notes on routes:
 * 40CNA (thru Chipaque) seems to be unsigned.
 * 40CNC may be unsigned (concrete reference posts seem to just have the distance).
 * 40MT01 may be unsigned.
-* 45CS09 may be unsigned.
 * 50's east end in Guasca may be wrong.
+* 56's west end in Medellín may be wrong.
+* 56's east end in La Palma may be wrong.
+* 56BY01 [is signed](https://www.google.com/maps/@5.0111831,-73.4288315,3a,24.2y,184.43h,76.58t/data=!3m6!1e1!3m4!1sRYQhRW0RVbgscYJ6JsZCMA!2e0!7i16384!8i8192?entry=ttu) like a national route, but sources show it as a departmental route.
 * 60's east end in Chiquinquirá is shown at Calle 4 on maps, but the road has a blatant change in character one block west at Calle 3.
 * 60's east end in Páez may be wrong.
 * 90AT01 may be unsigned (available imagery is too old).
