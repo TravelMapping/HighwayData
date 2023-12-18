@@ -54,6 +54,12 @@ Notes on routes:
 * 56BY01 [is signed](https://www.google.com/maps/@5.0111831,-73.4288315,3a,24.2y,184.43h,76.58t/data=!3m6!1e1!3m4!1sRYQhRW0RVbgscYJ6JsZCMA!2e0!7i16384!8i8192?entry=ttu) like a national route, but sources show it as a departmental route.
 * 60's east end in Chiquinquirá is shown at Calle 4 on maps, but the road has a blatant change in character one block west at Calle 3.
 * 60's east end in Páez may be wrong.
+* 6103 [is signed](https://www.google.com/maps/@5.7592354,-72.9063989,3a,26.4y,180.65h,84.34t/data=!3m6!1e1!3m4!1s-W0fsQi78uQ8AKScEKCf1w!2e0!7i16384!8i8192?entry=ttu) as if it were a national route, but it [seems to be a departmental route](https://mintransporte.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=27214).
+* 6201 [is signed](https://www.google.com/maps/@8.0786379,-76.6631551,3a,15.5y,324.33h,81.3t/data=!3m6!1e1!3m4!1shqYUEa-WhMjR-Krjy9v-7g!2e0!7i16384!8i8192?entry=ttu) on the bypass of Turbo but also [into town](https://www.google.com/maps/@8.0982214,-76.7197457,3a,48.3y,288.21h,81.82t/data=!3m6!1e1!3m4!1sPFiShMbwd8iol_k6FG3Bkw!2e0!7i16384!8i8192?entry=ttu) as sources show.
+* 62's new variant east of Dabeiba (Variante de Fuemia) [has no designation](https://youtu.be/mDBZN27Ik1o?t=30) (as of November 2023).
+* 62's east end in San Cristóbal may be wrong.
+* 62's west end at El Hatillo may be at RD 25AN19 rather than at 25.
+* 62 cannot be followed eastbound just east of RD 62AN21.
 * 90AT01 may be unsigned (available imagery is too old).
 
 
