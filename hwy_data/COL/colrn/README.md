@@ -60,6 +60,7 @@ Notes on routes:
 * 62's east end in San Cristóbal may be wrong.
 * 62's west end at El Hatillo may be at RD 25AN19 rather than at 25.
 * 62 cannot be followed eastbound just east of RD 62AN21.
+* 64's route thru Barichara is as shown on maps, but may include one-way streets.
 * 90AT01 may be unsigned (available imagery is too old).
 
 
