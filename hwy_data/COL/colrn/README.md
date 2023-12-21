@@ -73,6 +73,7 @@ Notes on routes:
 * 90GJ03 [is signed](https://www.google.com/maps/@11.1650455,-72.588885,3a,15.1y,33.95h,81.04t/data=!3m6!1e1!3m4!1sZEKokmHyrdRZjcD3Df90JQ!2e0!7i16384!8i8192?entry=ttu) but may be a departmental route.
 
 
+other crap
 
 * RN10: 1001 1002
 * (gap thru Pasto)
