@@ -13,12 +13,13 @@ Sources:
 
 Notes on routes:
 * 13's north and south ends may be wrong.
-* 20 west of Popayán is assumed to be signed.
+* 20CQ01 [is signed as 20CQ](https://www.google.com/maps/@1.7322203,-75.6441095,3a,15y,125.76h,86.11t/data=!3m6!1e1!3m4!1s0liKxFXRTv96WbXte0dC-g!2e0!7i16384!8i8192?entry=ttu).
 * 21CR04 [is signed as 21](https://www.google.com/maps/@8.9573157,-75.8601316,3a,37.2y,293.23h,86.85t/data=!3m6!1e1!3m4!1splLrdEhLRpUu8b_RsKvqaQ!2e0!7i16384!8i8192?entry=ttu) [as well as correctly](https://www.google.com/maps/@8.931763,-75.9007758,3a,15.3y,26.65h,74.39t/data=!3m6!1e1!3m4!1shSgRohOGwZzycQM0dn3lxQ!2e0!7i16384!8i8192?entry=ttu).
 * 23's north end in Montería may be wrong.
 * 23VL01 [is signed](https://www.google.com/maps/@3.5452763,-76.489817,3a,15y,90.58h,88.68t/data=!3m6!1e1!3m4!1sY1iA_kYS3xwB-flsvZeJ4A!2e0!7i16384!8i8192?entry=ttu).
 * 23VL02-1 and 23VL02-2 may be unsigned.
 * 23VLB may be unsigned.
+* 25 may have a gap in Sincelejo, but the toll concession seems to be continuous.
 * 25ANI [is signed as 25B01](https://www.google.com/maps/@5.7368124,-75.6026485,3a,36.3y,40.35h,79.75t/data=!3m6!1e1!3m4!1s10u7DW2Wj5SsiK2j-C173w!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@5.7431355,-75.6142468,3a,15y,123.27h,75.39t/data=!3m6!1e1!3m4!1s96LC_8OlF5nn8B6lUMWhNw!2e0!7i16384!8i8192?entry=ttu) still stand on the old alignment.
 * 25AT04's north end may be wrong, but [km 37](https://www.google.com/maps/@11.0360821,-74.8325192,3a,15.6y,262.49h,82.07t/data=!3m6!1e1!3m4!1sxhOskj5IKKhd-5qDx9VF1A!2e0!7i16384!8i8192?entry=ttu) is posted.
 * 25CC15 and 25CC15-1 may be unsigned (there is no imagery available).
@@ -48,6 +49,9 @@ Notes on routes:
 * 40CNA (thru Chipaque) seems to be unsigned.
 * 40CNC may be unsigned (concrete reference posts seem to just have the distance).
 * 40MT01 may be unsigned.
+* 45's southbound route thru Pitalito is assumed to use Carrera 4 (only northound is on maps, jogging from Carrera 3 to Carrera 2 via Calle 12).
+* 45's branch to Yondó [has no signed designation](https://www.google.com/maps/@7.0054242,-73.9121736,3a,41.1y,38.37h,77.31t/data=!3m6!1e1!3m4!1sWZssLvNI3eh1oyHzhGUnZQ!2e0!7i16384!8i8192?entry=ttu) and is on maps as UF1.
+* 45AST08 [is signed as 45A08](https://www.google.com/maps/@7.0636371,-73.1028969,3a,17.1y,284.2h,76.18t/data=!3m6!1e1!3m4!1s0K_ES8sGDzP6uiNILYDEBg!2e0!7i16384!8i8192?entry=ttu).
 * 50's east end in Guasca may be wrong.
 * 56's west end in Medellín may be wrong.
 * 56's east end in La Palma may be wrong.
@@ -61,120 +65,104 @@ Notes on routes:
 * 62's west end at El Hatillo may be at RD 25AN19 rather than at 25.
 * 62 cannot be followed eastbound just east of RD 62AN21.
 * 64's route thru Barichara is as shown on maps, but may include one-way streets.
+* 66's west end at Bucaramanga may be wrong.
+* 74SCA may be unsigned (available imagery is too old).
+* 7803's short stub to the old ferry at Puerto Bodega seems to be unsigned (as of 2013, when the ferry was still in service).
+* 78 has a short gap in Guamal, but [directional signs](https://www.google.com/maps/@9.1456768,-74.2275456,3a,30.9y,258.26h,82.4t/data=!3m6!1e1!3m4!1swBIglWm66RQQd7E7g8bUJw!2e0!7i13312!8i6656?entry=ttu) point the way.
 * 90AT01 may be unsigned (available imagery is too old).
+* 90GJ03 [is signed](https://www.google.com/maps/@11.1650455,-72.588885,3a,15.1y,33.95h,81.04t/data=!3m6!1e1!3m4!1sZEKokmHyrdRZjcD3Df90JQ!2e0!7i16384!8i8192?entry=ttu) but may be a departmental route.
 
 
 
-0101
-0301
-0501
-0801
-1001
-1002
-1003
-1203
-1307
-1701
-1702
-1901
-2001
-2002
-2003
-2003A
-20CQ01
-20HL01
-2103
-21CR04
-21CRA
-2301
-2302
-2310
-23VL01
-23VL02
-23VL02-1
-23VL02-2
-23VLB
-2401
-2402
-24HL01
-24HL02
-24HL03
-
+* RN10: 1001 1002
+* (gap thru Pasto)
+* RN10Sib: 1003
+* RN17Gua: 1701
+* (gap thru Túquerres)
+* RN17: 1702
+* RN20Tam: 2001
+* (gap thru Popayán)
+* RN20: 2002 2003
+  * 20HL01
+  * 2003A
+  * 20CQ01
+* 2103
+  * 21CRA
+  * 21CR04
+* RN23: 2301 2302
+  * 23VL01
+    * 23VL02
+      * 23VL02-1
+      * 23VL02-2
+  * 23VLB
+* RN23Mon: 2310
+* 2401 2402
+  * 24HL02
+  * 24HL01
+  * 24HL03
 * RN25Pop: 2501 (gap thru Pasto) 2502 2503 (gap thru Popayán) 2504
 * (gap thru Santiago de Cali)
 * RN25: 2505 2506 2507 2508 2509 (gap thru Medellín) 2510 2511 2512 2513 2514 (gap thru Sincelejo) 2515 2516
-* RN25B: 25B01 25B02
-2601
-2602
-2602A
-26CC03
-26CC03-2
-26CC04
-26CC07
-2701
-2702
-2901
-2901B
-2902
-2903
-29CL03
-29CL03-1
-29RS01
-29RS02
-29RSA
-29RSB
-29RSC
-29RSD
-29RSE
-29VLA
-3001
-3002
-3105
-3602
-3603
-3701
-3702
-37CCA
-37CCB
-4001
-4002
-4002A
-4003
-4003A
-4004
-4004B
-4005
-4006
-4006A
-4007
-4008
-4009
-4010
-4015
-40CN01
-40CN07
-40CNA
-40CNB
-40CNC
-40MT01
-40MTA
-40QN01
-40QN04
-40QN05
-40TL05
-40TL06
-40TLC
-40TLD
-40TLE
-40TLF
-40TLG
-40VLA
-4301
-4305
-4313
-43CS02
-43HL02
-43HL02-1
+* 2601 2602
+  * 2602A
+    * 26CC03
+      * 26CC03-2
+  * 26CC07
+  * 26CC04
+* RN27: 2701
+* (gap thru Salamina)
+* RN27Sit: 2702
+* RN29Arm: 2901
+  * 2901B
+    * 29VLA
+  * 29RSD
+* (gap thru Pereira)
+* RN29: 2902
+  * 29RS01
+    * 29RSC
+    * 29RSB
+  * 29RSA
+  * 29RSE
+  * 29RS02
+  * 29RSC
+  * 29CL03
+    * 29CL03-1
+* (gap thru Manizales)
+* RN29Irr: 2903
+* RN40: 4001 4002 (gap thru Armenia) 4003
+  * 40VLA
+  * 4002A
+    * 40QN04
+  * 40QN01
+  * 40QN05
+  * 4003A
+  * 40TLC
+    * 40TLF
+      * 40TLG
+* (gap thru Ibagué)
+* RN40Gir: 4004 4005
+  * 40TLD
+  * 4004B
+    * 40TL06
+  * 40TL05
+  * 40TLE
+  * 40CNC
+  * 40CN07
+* (gap thru Bogotá)
+* RN40Vil: 4006 (gap thru Villavicencio) 4007 4008 4009 4010
+  * 4006A
+  * 40CN01
+  * 40CNA
+  * 40CNB
+  * 40MTA
+  * 40MT01
+* RN40Pue: 4015
+* RN43Tes: 4301
+  * 43HL02
+    * 43HL02-1
+* RN43: 4305
+* RN43Ban: 4313
+  * 43CS02
 4501
 4502
 4503
@@ -227,10 +215,6 @@ Notes on routes:
 45TLB
 45TLE
 45TLG
-4803
-4901
-4902
-49GJB
 5001
 5002
 5003
@@ -265,14 +249,13 @@ Notes on routes:
 55NSA
 55ST02
 55STA
-5601
-5604
-5607
-5608
-56AN01
-56AN02
-56AN02-1
-56AN03
+* RN56Son: 5601
+  * 56AN01
+  * 56AN02
+    * 56AN02-1
+  * 56AN03
+* RN56Pal: 5604
+* RN56: 5607 5608
 6002
 6003
 6004
@@ -282,29 +265,25 @@ Notes on routes:
 6008
 6009
 60AN03
-6201
-6202
-6203
-6204
-6205
-6206
-6207
-6208
-6209
-6210
-6211
-62AND
-62ANE
-62ANF
-62ANG
-62ANH
-62BY05
-62STA
-6402
-6403
-6404
-6405
-64ST02
+* RN62: 6201 6202 6203 6204
+  * 62ANE
+  * 62ANF
+  * 62ANG
+  * 62AND
+* (gap thru Medellín)
+* RN62Ber: 6205 6206 6207 6208 6209
+  * 62ANH
+  * 62STA
+* (gap thru Tunja)
+* RN62Dui: 6210
+  * 62BY05
+* (gap thru Sogamoso)
+* RN62Sog: 6211
+* RN64Bar: 6402
+* (gap thru San Gil)
+* RN64Mog: 6403
+* (gap along 55BY11)
+* RN64: 6404 6405
 6501
 6502
 6503
@@ -329,13 +308,10 @@ Notes on routes:
 65MTE
 65MTF
 65PTA
-6601
-6602
-6603
-6604
-6605
-6606
-66ST02
+* RN66Bar: 6601 6602
+  * 66ST02
+* (gap thru Bucaramanga)
+* RN66: 6603 6604 6605 6606
 7006
 7007
 7008
@@ -346,21 +322,15 @@ Notes on routes:
 70NS01
 70NS06-1
 70NSA
-7401
-7402
-7403
-7404
-74CR02
-74CRA
-74SCA
+* RN74Mon: 7401
+  * 74CR02
+* (gap thru Montería)
+* RN74: 7402 7403 7404
+  * 74CRA
+  * 74SCA
 7506
-7801
-7802
-7803
-7804
-7805
-7806
-78BL02
+* 7801 7802 7803 7804 (gap thru Guamal) 7805 (gap thru El Banco) 7806
+  * 78BL02
 8001
 8002
 8003
@@ -368,9 +338,8 @@ Notes on routes:
 8004A
 80MG01
 80MGA
-8501
-8801
-88GJ02
+* 8801
+  * 88GJ02
 9001
 9002
 9003
