@@ -49,8 +49,12 @@ Notes on routes:
 * 40CNA (thru Chipaque) seems to be unsigned.
 * 40CNC may be unsigned (concrete reference posts seem to just have the distance).
 * 40MT01 may be unsigned.
+* 4502 seems to have two south ends: [at Puerto Asís](https://www.google.com/maps/@0.5176587,-76.5068071,3a,15y,301.65h,84.24t/data=!3m6!1e1!3m4!1sBUU-onPt7kd_rlzXgB1bgg!2e0!7i16384!8i8192?entry=ttu) and [closer to Santa Ana](https://www.google.com/maps/@0.5778852,-76.5484575,3a,31.2y,5.9h,85.63t/data=!3m6!1e1!3m4!1sTH8Fu2nRv_24losj48l5lQ!2e0!7i16384!8i8192?entry=ttu). But other posts south of the latter show [5302](https://www.google.com/maps/@0.5227857,-76.5235287,3a,15y,13.95h,85.39t/data=!3m6!1e1!3m4!1srIW8gd7ggKr5OVqs3XaaqQ!2e0!7i16384!8i8192?entry=ttu), which [seems to be a departmental route](https://www.putumayo.gov.co/images/documentos/Planes_y_programas/DOCUMENTO%20PRIIT%20PVD%20PUTUMAYO%2025102021.pdf). Note that both are south of where 4501 splits in Santa Ana, so 4501 is its own mapped segment.
+* 45's southbound route thru Mocoa is assumed via Calle 4, Carrera 5, and Calle 10 (though traffic may have to bypass [a closed piece of Calle 10](https://www.google.com/maps/@1.1474432,-76.6457363,3a,23.1y,307.6h,80.79t/data=!3m6!1e1!3m4!1sjGGTBWjZXZOYVdW-GRYjUQ!2e0!7i13312!8i6656?entry=ttu)).
 * 45's southbound route thru Pitalito is assumed to use Carrera 4 (only northound is on maps, jogging from Carrera 3 to Carrera 2 via Calle 12).
+* 45 is signed both [thru](https://www.google.com/maps/@3.6187797,-75.0973791,3a,17.7y,32.67h,85.75t/data=!3m6!1e1!3m4!1s2-6AIjXYEfqId_wq2_FrqA!2e0!7i16384!8i8192?entry=ttu) and [around](https://www.google.com/maps/@3.6202668,-75.101053,3a,16.7y,8.89h,83.97t/data=!3m6!1e1!3m4!1sRAw5MoBt_x7EMrh5MoFfgg!2e0!7i16384!8i8192?entry=ttu) Natagaima.
 * 45's branch to Yondó [has no signed designation](https://www.google.com/maps/@7.0054242,-73.9121736,3a,41.1y,38.37h,77.31t/data=!3m6!1e1!3m4!1sWZssLvNI3eh1oyHzhGUnZQ!2e0!7i16384!8i8192?entry=ttu) and is on maps as UF1.
+* 45HL01 may not make it to 45 in Hobo, but maps show km 1 farther south than they show the route going.
 * 45AST08 [is signed as 45A08](https://www.google.com/maps/@7.0636371,-73.1028969,3a,17.1y,284.2h,76.18t/data=!3m6!1e1!3m4!1s0K_ES8sGDzP6uiNILYDEBg!2e0!7i16384!8i8192?entry=ttu).
 * 50's east end in Guasca may be wrong.
 * 56's west end in Medellín may be wrong.
@@ -164,7 +168,9 @@ other crap
 * RN43: 4305
 * RN43Ban: 4313
   * 43CS02
-* 4501 4502 4503 4504 4505
+* RN45Hor: 4501
+* (gap due to stub of 4502 south of 4501)
+* RN45Pit: 4502 (gap thru Mocoa) 4503 4504 4505
   * 45HLC
   * 45HLB
   * 45HL01
