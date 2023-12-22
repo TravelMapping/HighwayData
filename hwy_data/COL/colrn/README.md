@@ -56,7 +56,10 @@ Notes on routes:
 * 45's branch to Yondó [has no signed designation](https://www.google.com/maps/@7.0054242,-73.9121736,3a,41.1y,38.37h,77.31t/data=!3m6!1e1!3m4!1sWZssLvNI3eh1oyHzhGUnZQ!2e0!7i16384!8i8192?entry=ttu) and is on maps as UF1.
 * 45HL01 may not make it to 45 in Hobo, but maps show km 1 farther south than they show the route going.
 * 45AST08 [is signed as 45A08](https://www.google.com/maps/@7.0636371,-73.1028969,3a,17.1y,284.2h,76.18t/data=!3m6!1e1!3m4!1s0K_ES8sGDzP6uiNILYDEBg!2e0!7i16384!8i8192?entry=ttu).
+* 45BY01 may be unsigned.
 * 50's east end in Guasca may be wrong.
+* 5008A [is signed](https://www.google.com/maps/@5.0013129,-74.4729945,3a,24.1y,268.69h,87.4t/data=!3m6!1e1!3m4!1s-RnFW6IQVlLLbrTLciHTdw!2e0!7i16384!8i8192?entry=ttu) all the way west to Villeta. It's not clear if it reaches 50, however, as it is not shown on maps.
+* 50A is signed from [Murillo](https://www.google.com/maps/@4.8738843,-75.1593027,3a,29.9y,116.77h,74.71t/data=!3m6!1e1!3m4!1sQyvnP-AgCiRmY1ricXjtfA!2e0!7i16384!8i8192?entry=ttu) to [5008A near Albán](https://www.google.com/maps/@4.8977584,-74.4474453,3a,24.1y,247.37h,89.15t/data=!3m6!1e1!3m4!1su0yTaJKCNHlHnn8nM31r7g!2e0!7i16384!8i8192?entry=ttu). It's possible that it's been extended from Murillo to 50 after construction.
 * 56's west end in Medellín may be wrong.
 * 56's east end in La Palma may be wrong.
 * 56BY01 [is signed](https://www.google.com/maps/@5.0111831,-73.4288315,3a,24.2y,184.43h,76.58t/data=!3m6!1e1!3m4!1sRYQhRW0RVbgscYJ6JsZCMA!2e0!7i16384!8i8192?entry=ttu) like a national route, but sources show it as a departmental route.
@@ -176,14 +179,14 @@ other crap
   * 45HL01
   * 45HL06
 * (gap thru Neiva)
-* 4506 4507
+* RN45Sal: 4506 4507
   * 45TLE
   * 45TLA
   * 45TLB
     * 45TL10
   * 45TLG
 * (gap thru Girardot)
-* 4508 4509 4510 4511 4513 4514 4515 4516 4517 4518
+* RN45: 4508 4509 4510 4511 4513 4514 4515 4516 4517 4518
   * 45CLB
   * 45CNA
   * 45BY01
