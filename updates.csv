@@ -1296,6 +1296,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2023-12-24;(Germany) Bavaria;B173;deuby.b173;Route truncated at east end from the Saxonian border to A93 (St2452 now)
+2023-12-24;(Germany) Bavaria;St2452;deuby.st2452;Route extended at north end from A93 to the Saxonian border (former B173)
 2023-12-24;(Germany) Bavaria;B12 (Pocking);deuby.b012poc;Route truncated at west end from fromer A94 end east of Malching to junction with St2619 north of Osterholzen, an reextended to current A94 end just south of the St2619 junction
 2023-12-24;(Germany) Bavaria;St2619 (Kirchham);deuby.st2619kir;New Route (former part of B12)
 2023-12-01;(Germany) Bavaria;A94 (Malching);deuby.a094mal;Route extended at east end from temporary end east of Malching to temporary end north of Kirchham
@@ -1533,6 +1535,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2023-12-24;(Germany) North Rhine-Westphalia;B66;deunw.b066;Route relocated from through Barntrup, and onto northern bypass
+2023-12-24;(Germany) North Rhine-Westphalia;B66 (Barntrup);deunw.b066bar;Route truncated at east end from B1 to junction with B66 main route west of Barntrup which was merged into main route
 2023-09-26;(Germany) North Rhine-Westphalia;B66 (Barntrup);deunw.b066bar;Route extended at east end from west of Barntrup (B66) to east of Barntrup (B1)
 2023-09-08;(Germany) North Rhine-Westphalia;L776;deunw.l776;Route relocated from through Bad Fredeburg and onto new western bypass from north of the Bad Fredeberg to B511
 2023-08-20;(Germany) North Rhine-Westphalia;L117n;deunw.l117n;New Route
@@ -1663,6 +1667,9 @@ date;region;route;root;description
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2023-12-24;(Germany) Rhineland-Palatinate;B269;deurp.b269;Route relocated in Birkenfeld from Saarstraße, and onto new direct link to B41 between Saarstraße and B41
+2023-12-24;(Germany) Rhineland-Palatinate;L323;deurp.l323;Route relocated from through Miehlen and onto western bypass between Marktplatz and L335 at Heydthof
+2023-12-24;(Germany) Rhineland-Palatinate;L335;deurp.l335;Route relocated from through Miehlen and onto western bypass between L323 north of Miehlen and K50 south of Miehlen
 2023-11-04;(Germany) Rhineland-Palatinate;L126;deurp.l126;Route truncated in Koblenz from B9/B416 junction to Deutschherrenstraße in Wallersheim, and reextended to B9
 2023-03-14;(Germany) Rhineland-Palatinate;B419 (Wellen);deurp.b419wel;New Route
 2023-03-14;(Germany) Rhineland-Palatinate;L6 (Roth an der Our);deurp.l006rot;New Route
@@ -1733,7 +1740,10 @@ date;region;route;root;description
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
-2023-12-15;(Germany) Saxony-Anhalt;A14 (Colbitz;deust.a014col;Route extended at north end from exit 19 to exit 18
+2023-12-24;(Germany) Saxony-Anhalt;L50;deust.l050;Route extended at south end from Bernburg to Halle closing the former gap south of Bernburg
+2023-12-24;(Germany) Saxony-Anhalt;L50 (Könnern);deust.l050;Merged into main route
+2023-12-24;(Germany) Saxony-Anhalt;L38 (Seehausen);deust.l038;New Route
+2023-12-15;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;Route extended at north end from exit 19 to exit 18
 2023-12-15;(Germany) Saxony-Anhalt;B189 (Stendal);deust.b189ste;New Route (split off from main route)
 2023-12-15;(Germany) Saxony-Anhalt;B189 (Wolmirstedt);deust.b189;Route truncated at north end from border with Brandenburg to A14's exit 21 north of Wolmirstedt
 2023-12-15;(Germany) Saxony-Anhalt;L38;deust.l038;Route extended at north end from A14's exit 19 to B189/L30 north of Lüderitz
