@@ -8,6 +8,7 @@
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2016_10_96_2071.html
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2018_11_103_2021.html
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_41_510.html
+- https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_59_1004.html
 - https://geoportal.hrvatske-ceste.hr
 
 
