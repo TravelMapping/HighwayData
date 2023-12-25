@@ -18,4 +18,3 @@
 - `D431` is 400m only, exact location unknown: "Slavonski Brod (DC53 – GPC zona Đ. Đaković)"
 - `D433` routing unknown despite being well described: "Solin (DC432) – Ulica salonitanskih mučenika – Zagorski put – Ulica domovinskog rata – Split (DC8)"
 - `D542` routing unknown, not yet existing? "Zajci (DC64) – Polje Čepić (DC500)"
-- `D8`/`D674` Pelješki bridge numbering: https://www.skyscrapercity.com/threads/440820/post-179777012
