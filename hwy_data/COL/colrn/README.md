@@ -41,7 +41,6 @@ Notes on routes:
 * 37's southbound route thru La Plata is unclear.
 * 37CCA may be unsigned (there is no imagery available).
 * 37CCB may be unsigned (there is no imagery available).
-* 45ABYB [is signed as 45A](https://www.google.com/maps/@5.5998284,-73.8359361,3a,15y,300.88h,83.61t/data=!3m6!1e1!3m4!1sUL89qPZm4E1Riz8rl5ZAqg!2e0!7i16384!8i8192?entry=ttu) (but so is [45A thru Chiquinquirá](https://www.google.com/maps/@5.6140055,-73.8154137,3a,27.7y,102.72h,67.01t/data=!3m6!1e1!3m4!1sSi-BkkF3ymplvte4AolHJQ!2e0!7i16384!8i8192?entry=ttu)), so the latter is mapped as 45AChi.
 * 40's west end in Buenaventura may be wrong. It's not clear how westbound traffic gets between the two pieces of Calle 7.
 * 40 may extend east a bit more to near Carimagua.
 * 40Pue [is signed](https://www.google.com/maps/@6.1895912,-67.5011131,3a,15y,102.6h,83.81t/data=!3m6!1e1!3m4!1sAF1QipNuysxs3gOdwzEPreTEYTsbGMFXlwt9IN6wIPkq!2e10!7i1920!8i1080?entry=ttu). The east end may be wrong.
@@ -54,11 +53,13 @@ Notes on routes:
 * 45's southbound route thru Pitalito is assumed to use Carrera 4 (only northound is on maps, jogging from Carrera 3 to Carrera 2 via Calle 12).
 * 45 is signed both [thru](https://www.google.com/maps/@3.6187797,-75.0973791,3a,17.7y,32.67h,85.75t/data=!3m6!1e1!3m4!1s2-6AIjXYEfqId_wq2_FrqA!2e0!7i16384!8i8192?entry=ttu) and [around](https://www.google.com/maps/@3.6202668,-75.101053,3a,16.7y,8.89h,83.97t/data=!3m6!1e1!3m4!1sRAw5MoBt_x7EMrh5MoFfgg!2e0!7i16384!8i8192?entry=ttu) Natagaima.
 * 45's branch to Yondó [has no signed designation](https://www.google.com/maps/@7.0054242,-73.9121736,3a,41.1y,38.37h,77.31t/data=!3m6!1e1!3m4!1sWZssLvNI3eh1oyHzhGUnZQ!2e0!7i16384!8i8192?entry=ttu) and is on maps as UF1.
-* 45AST08 [is signed as 45A08](https://www.google.com/maps/@7.0636371,-73.1028969,3a,17.1y,284.2h,76.18t/data=!3m6!1e1!3m4!1s0K_ES8sGDzP6uiNILYDEBg!2e0!7i16384!8i8192?entry=ttu).
 * 45BY01 may be unsigned.
 * 45CS04 may be unsigned.
 * 45CSI may be unsigned.
 * 45HL01 may not make it to 45 in Hobo, but maps show km 1 farther south than they show the route going.
+* 45A's southbound route thru Zipaquirá is assumed to use Calle 7 and Carrera 10 to parallel the defined northbound route on Carrera 11 and Calle 6.
+* 45ABYB [is signed as 45A](https://www.google.com/maps/@5.5998284,-73.8359361,3a,15y,300.88h,83.61t/data=!3m6!1e1!3m4!1sUL89qPZm4E1Riz8rl5ZAqg!2e0!7i16384!8i8192?entry=ttu) (but so is [45A thru Chiquinquirá](https://www.google.com/maps/@5.6140055,-73.8154137,3a,27.7y,102.72h,67.01t/data=!3m6!1e1!3m4!1sSi-BkkF3ymplvte4AolHJQ!2e0!7i16384!8i8192?entry=ttu)), so the former is mapped as 45AChi.
+* 45AST08 [is signed as 45A08](https://www.google.com/maps/@7.0636371,-73.1028969,3a,17.1y,284.2h,76.18t/data=!3m6!1e1!3m4!1s0K_ES8sGDzP6uiNILYDEBg!2e0!7i16384!8i8192?entry=ttu), but since 45A08 exists with identical reference posts, this is treated as an error.
 * 50's east end in Guasca may be wrong.
 * 5008A [is signed](https://www.google.com/maps/@5.0013129,-74.4729945,3a,24.1y,268.69h,87.4t/data=!3m6!1e1!3m4!1s-RnFW6IQVlLLbrTLciHTdw!2e0!7i16384!8i8192?entry=ttu) all the way west to Villeta. It's not clear if it reaches 50, however, as it is not shown on maps.
 * 50A is signed from [Murillo](https://www.google.com/maps/@4.8738843,-75.1593027,3a,29.9y,116.77h,74.71t/data=!3m6!1e1!3m4!1sQyvnP-AgCiRmY1ricXjtfA!2e0!7i16384!8i8192?entry=ttu) to [5008A near Albán](https://www.google.com/maps/@4.8977584,-74.4474453,3a,24.1y,247.37h,89.15t/data=!3m6!1e1!3m4!1su0yTaJKCNHlHnn8nM31r7g!2e0!7i16384!8i8192?entry=ttu). It's possible that it's been extended from Murillo to 50 after construction.
