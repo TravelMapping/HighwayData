@@ -68,6 +68,7 @@ date;region;route;root;description
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
 2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
+2023-12-25;Austria;L543-4;aut.l05434;Route truncated at west end from B154 to Seeache (L217-5 now)
 2023-11-06;Austria;B57;aut.b057;Route relocated at interchange with future S7 west of Eltendorf between east of Königsdorf and B65
 2023-04-22;Austria;B163 Wagrainer Straße Abzweigung Flachau;;Route deleted
 2023-04-23;Austria;B186;aut.b186;Route truncated at south end from the Italian border to L15 (the remainder is a private toll road)
@@ -478,7 +479,12 @@ date;region;route;root;description
 2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
 2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2022-01-23;(China) Xianjiang;AH9;chnxj.ah009;Route added
-2023-04-20;Croatia;D674;hrv.d674;Route extended at east end from D416 to D8 (Ston bypass)
+2023-12-25;Croatia;D8;hrv.d008;Route truncated at south end from the BIH border to Duboka (D236 now), and reextended onto Pelješac bridge (former D674) to MNE border
+2023-12-25;Croatia;D8 (Dubrovnik);hrv.d008;Route deleted (merged into main route or D237 now)
+2023-12-25;Croatia;D236;hrv.d236;New Route (former D8)
+2023-12-25;Croatia;D237;hrv.d237;New Route (former D8)
+2023-12-25;Croatia;D674;hrv.d008;Route deleted (D8 now)
+2023-04-20;Croatia;D674;hrv.d008;Route extended at east end from D416 to D8 (Ston bypass)
 2023-02-23;Croatia;D110;hrv.d110;Route relocated at east end from old to new ferry terminal in Tkon
 2023-02-23;Croatia;D112;hrv.d112;Route relocated from through Grohote and onto northern bypass
 2023-02-23;Croatia;D114;hrv.d114;Route truncated at est end from the town center to L67236 in Milna
@@ -521,7 +527,7 @@ date;region;route;root;description
 2022-12-02;Croatia;A5;hrv.a005;Route extended at north end from exit 3 (Osijek) to exit 2 (Beli Manastir)
 2022-12-02;Croatia;E73;hrv.e73;Route relocated from D2 and D7 through Osijek and onto new motorway A5 from exit 3 to exit 2 and onto D517 northern bypass of Belie Manastir
 2022-10-15;Croatia;D517;hrv.d517;Route relocated at east end from through Beli Manastir and onto new northern bypass from west of Beli Manastir to D7
-2022-07-27;Croatia;D674;hrv.d674;New Route
+2022-07-27;Croatia;D674;hrv.d008;New Route
 2021-10-01;Croatia;A5;hrv.a005;Route extended at south end from exit 7 to BIH border
 2021-10-01;Croatia;E73;hrv.e73;Route truncated at south end from BIH border (at Samac) to A3/A5 interchange, and reextended to BIH border (on A5 at Svilaj)
 2020-10-24;Croatia;A1;hrv.a001;Route truncated at south end from transition to A10 to exit 31, Ploče interchange (A10 now) and reextened to Karamatići toll station (former D425)
@@ -573,6 +579,13 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2023-12-25;Czechia;I12;cze.i012;Route truncated at west end from D0 to Praha city boundary
+2023-12-25;Czechia;II606 (Hostivice);cze.ii606hos;Route truncated at east end from Karlovarská to Praha city boundary
+2023-12-24;Czechia;II603 (Kamenice);cze.ii603kam;Route extended at north end from Vestecká spojka to Praha city boundary
+2023-12-24;Czechia;II605 (Beroun);cze.ii605;Route clarified in the center of Rokycany (via Třebízského and Soukenická)
+2023-12-24;Czechia;II605B;cze.ii605b;New Route
+2023-12-24;Czechia;II608 (Kralupy nad Vltavou);cze.ii608;Route extended at south end from Zdiby to Praha city boundary
+2023-12-24;Czechia;II610 (Benátky nad Jizerou);cze.ii610;Route truncated at west end from Vinoř to Praha city boundary
 2023-12-22;Czechia;I50 (Holubice);cze.i050hol;New Route
 2023-12-22;Czechia;II425 (Hustopeče);cze.ii425hus;New Route
 2023-12-22;Czechia;II465;cze.ii465;Route extended at east end from I11 exit Krásné Pole to junction with II469 in Poruba
@@ -1000,6 +1013,7 @@ date;region;route;root;description
 2021-08-07;(France) Auvergne-Rhône-Alpes;E62 (Montlucon);fraara.e62;Route relocated from N79 and onto A79 from A71's new A79 junction to N79 east of Montmarault
 2019-10-31;(France) Auvergne-Rhône-Alpes;N7;fraara.n007;Route relocated from through Villeneuve-sur-Allier and onto bypass from D707_ViN to D707_ViS
 2019-10-31;(France) Auvergne-Rhône-Alpes;Autoroute du Soleil, Lyon;fraara.autsol;Route added
+2023-12-25;(France) Brittany;N164;frabre.n164;Route relocated from through Rostrenen and onto new expressway from 1.5km east of Rostrenen to east of D84 junction
 2022-10-29;(France) Brittany;N164;frabre.n164;Route relocated onto new expressway from 1.5km east of Rostrenen to D790 (old alignment is D2164 now)
 2021-12-26;(France) Brittany;N165;frabre.n165;Renumbered all exit numbers between exit 28 and 36 (decreased by 1)
 2021-12-26;(France) Brittany;E60;frabre.e60;Renumbered all exit numbers between exit 28 and 36 (decreased by 1)
@@ -1050,7 +1064,9 @@ date;region;route;root;description
 2022-12-11;(France) Hauts-de-France;D166-62;frahdf.d016662;Route extended at north end from D945 to D166
 2022-10-24;(France) Hauts-de-France;N49;frahdf.n049;New Route
 2020-11-22;(France) Hauts-de-France;D4-95;frahdf.d000495;New Route
-2023-05-01;(France) Île-de-France;A104 (Le Mesnil-Amelot);fraidf.a104mes;New Route (former N1104)
+2023-12-25;(France) Île-de-France;N1104;fraidf.n1104;Route extended from exit 101 to A1 (new expressway alignment)
+2023-12-25;(France) Île-de-France;A104 (Le Mesnil-Amelot);fraidf.n1104;Route deleted (temporarily dedicated as N1104)
+2023-05-01;(France) Île-de-France;A104 (Le Mesnil-Amelot);fraidf.n1104;New Route (former N1104)
 2023-05-01;(France) Île-de-France;N1104;fraidf.n1104;Route truncated at west end from D165 to exit 101
 2023-05-01;(France) Île-de-France;D212-77;fraidf.d021277;Route extended at north end from N2 to département border with Val-d’Oise
 2021-06-05;(France) Île-de-France;N19;fraidf.n019;Route relocated from through Boissy-Saint-Léger and onto new bypass from D229 to Avenue Général Leclerc
@@ -1397,6 +1413,7 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2023-12-24;(Germany) Brandenburg;L602;;Route deleted
 2023-07-30;(Germany) Brandenburg;B102;deubb.b102;Route reloacted from through Schmerzke and onto new bypass from Belziger Chausee junction in Neuschmerzke to Am Piperfenn
 2023-05-06;(Germany) Brandenburg;L223;;Route removed
 2023-04-02;(Germany) Brandenburg;L86 (Ketzin);deubb.l086ket;Route truncated at south end from feryy terminal to Potsdamer Straße (L92)
@@ -1700,6 +1717,9 @@ date;region;route;root;description
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2023-12-24;(Germany) Saxony;S95;deusn.s095;Route relocated from through Leppersdorf (S95a now), and onto western bypass (former S177n)
+2023-12-24;(Germany) Saxony;S95a;deusn.s095a;New Route (former S95)
+2023-12-24;(Germany) Saxony;S177n;deusn.s095;Route deleted (S95 now)
 2023-11-27;(Germany) Saxony;B95 (Rötha);;Route deleted
 2023-11-27;(Germany) Saxony;S72;deusn.s072;Route truncated from former B95 north of Rötha to A72's exit 29 north of Böhlen
 2023-11-03;(Germany) Saxony;S32 (Lommatzsch);deusn.s032;Route relocated from through Lommatzsch and onto south-eastern bypass between Mertitzer Straße and Meißener Straße
@@ -1742,7 +1762,7 @@ date;region;route;root;description
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
 2023-12-24;(Germany) Saxony-Anhalt;L50;deust.l050;Route extended at south end from Bernburg to Halle closing the former gap south of Bernburg
 2023-12-24;(Germany) Saxony-Anhalt;L50 (Könnern);deust.l050;Merged into main route
-2023-12-24;(Germany) Saxony-Anhalt;L38 (Seehausen);deust.l038;New Route
+2023-12-24;(Germany) Saxony-Anhalt;L38 (Seehausen);deust.l038see;New Route
 2023-12-15;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;Route extended at north end from exit 19 to exit 18
 2023-12-15;(Germany) Saxony-Anhalt;B189 (Stendal);deust.b189ste;New Route (split off from main route)
 2023-12-15;(Germany) Saxony-Anhalt;B189 (Wolmirstedt);deust.b189;Route truncated at north end from border with Brandenburg to A14's exit 21 north of Wolmirstedt
@@ -4711,6 +4731,8 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2023-12-24;Sweden;Halvors länk, Göteborg;swe.hallank;New Route
+2023-12-24;Sweden;Hisingsleden, Göteborg;swe.hisled;Route extended at north end from L155 to O565
 2023-11-30;Sweden;R63;swe.r063;Route relocated onto new alignment from west of Hjulsjö to east of Hjulsjö
 2023-07-02;Sweden;E20;swe.e20;Route relocated north of Vårgårda onto new alignment between Trafikplats Fagrabo (exit 95.3) to Heden
 2023-03-04;Sweden;L288;swe.l288;Route relocated from through Knutsbol and onto new bypass from south of Knutsbol to north of Knutsbol
