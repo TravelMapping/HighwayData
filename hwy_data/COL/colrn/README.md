@@ -226,14 +226,12 @@ other crap
 * (gap thru Bogotá)
 * RN50Gua: 5009
   * 50CN03
-* 5501
+* 5501 (gap thru Tunja?) 5502 5503 5504 5505
   * 55CND
   * 55CN01
   * 55CNC
   * 55CN03
   * 55BYA
-* (gap thru Tunja)
-* 5502 5503 5504 5505
   * 55BY11
   * 55ST02
   * 55STA
