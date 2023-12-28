@@ -63,6 +63,8 @@ Notes on routes:
 * 50's east end in Guasca may be wrong.
 * 5008A [is signed](https://www.google.com/maps/@5.0013129,-74.4729945,3a,24.1y,268.69h,87.4t/data=!3m6!1e1!3m4!1s-RnFW6IQVlLLbrTLciHTdw!2e0!7i16384!8i8192?entry=ttu) all the way west to Villeta. It's not clear if it reaches 50, however, as it is not shown on maps.
 * 50A is signed from [Murillo](https://www.google.com/maps/@4.8738843,-75.1593027,3a,29.9y,116.77h,74.71t/data=!3m6!1e1!3m4!1sQyvnP-AgCiRmY1ricXjtfA!2e0!7i16384!8i8192?entry=ttu) to [5008A near Albán](https://www.google.com/maps/@4.8977584,-74.4474453,3a,24.1y,247.37h,89.15t/data=!3m6!1e1!3m4!1su0yTaJKCNHlHnn8nM31r7g!2e0!7i16384!8i8192?entry=ttu). It's possible that it's been extended from Murillo to 50 after construction.
+* 55's gap thru Tunja may have been taken over as a national route; there are reference posts at least south of Diagonal 38.
+* 5505B [seems to be unsigned](https://www.google.com/maps/@7.8219919,-72.5142352,3a,55.6y,238.68h,88t/data=!3m6!1e1!3m4!1sPh5BP7K0BJPKAmhz7igI1A!2e0!7i16384!8i8192?entry=ttu) (as of 2022).
 * 55CND is signed as part of 55. There seem to be no reference posts on (old) 55 thru Briceño.
 * 56's west end in Medellín may be wrong.
 * 56's east end in La Palma may be wrong.
@@ -76,10 +78,12 @@ Notes on routes:
 * 62's west end at El Hatillo may be at RD 25AN19 rather than at 25.
 * 62 cannot be followed eastbound just east of RD 62AN21.
 * 64's route thru Barichara is as shown on maps, but may include one-way streets.
+* 65's ferry across Río Caquetá may not exist.
+* 65PTA may be unsigned (there is no available imagery).
 * 66's west end at Bucaramanga may be wrong.
 * 74SCA may be unsigned (available imagery is too old).
 * 7803's short stub to the old ferry at Puerto Bodega seems to be unsigned (as of 2013, when the ferry was still in service).
-* 78 has a short gap in Guamal, but [directional signs](https://www.google.com/maps/@9.1456768,-74.2275456,3a,30.9y,258.26h,82.4t/data=!3m6!1e1!3m4!1swBIglWm66RQQd7E7g8bUJw!2e0!7i13312!8i6656?entry=ttu) point the way.
+* 78 has a short gap in Guamal, but [destination signs](https://www.google.com/maps/@9.1456768,-74.2275456,3a,30.9y,258.26h,82.4t/data=!3m6!1e1!3m4!1swBIglWm66RQQd7E7g8bUJw!2e0!7i13312!8i6656?entry=ttu) point the way.
 * 90AT01 may be unsigned (available imagery is too old).
 * 90GJ03 [is signed](https://www.google.com/maps/@11.1650455,-72.588885,3a,15.1y,33.95h,81.04t/data=!3m6!1e1!3m4!1sZEKokmHyrdRZjcD3Df90JQ!2e0!7i16384!8i8192?entry=ttu) but may be a departmental route.
 
