@@ -79,7 +79,9 @@ Notes on routes:
 * 62 cannot be followed eastbound just east of RD 62AN21.
 * 64's route thru Barichara is as shown on maps, but may include one-way streets.
 * 65's ferry across Río Caquetá may not exist.
-* 65PTA may be unsigned (there is no available imagery).
+* 65MTC may be unsigned (there is no imagery available).
+* 65MTD may be unsigned (there is no imagery available).
+* 65PTA may be unsigned (there is no imagery available).
 * 66's west end at Bucaramanga may be wrong.
 * 74SCA may be unsigned (available imagery is too old).
 * 7803's short stub to the old ferry at Puerto Bodega seems to be unsigned (as of 2013, when the ferry was still in service).
