@@ -81,6 +81,7 @@ Notes on routes:
 * 65's ferry across Río Caquetá may not exist.
 * 65MTC may be unsigned (there is no imagery available).
 * 65MTD may be unsigned (there is no imagery available).
+* 65MTF may be unsigned.
 * 65PTA may be unsigned (there is no imagery available).
 * 66's west end at Bucaramanga may be wrong.
 * 74SCA may be unsigned (available imagery is too old).
