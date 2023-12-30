@@ -84,6 +84,8 @@ Notes on routes:
 * 65MTF may be unsigned.
 * 65PTA may be unsigned (there is no imagery available).
 * 66's west end at Bucaramanga may be wrong.
+* 70 may be unsigned west of Aguachica.
+* 70NSA is signed as 70 with [reference posts](https://www.google.com/maps/@8.1076976,-72.8102291,3a,15y,255.86h,81.8t/data=!3m6!1e1!3m4!1sY_dILTGSf6DPSFHt6hbyhg!2e0!7i13312!8i6656?entry=ttu) and [standalone markers](https://www.google.com/maps/@8.1024237,-72.794448,3a,29.9y,323.74h,86.12t/data=!3m6!1e1!3m4!1sKGMDPn8XwK328wcxJcqlnQ!2e0!7i13312!8i6656?entry=ttu) (as of 2019). Signage of 70 thru Sardinata is unknown due to lack of imagery, but the road seems to be in poor condition west of town. The spur into Sardinata from the east (the first 2 km of 7009) has been mapped as 70Sar.
 * 74SCA may be unsigned (available imagery is too old).
 * 7803's short stub to the old ferry at Puerto Bodega seems to be unsigned (as of 2013, when the ferry was still in service).
 * 78 has a short gap in Guamal, but [destination signs](https://www.google.com/maps/@9.1456768,-74.2275456,3a,30.9y,258.26h,82.4t/data=!3m6!1e1!3m4!1swBIglWm66RQQd7E7g8bUJw!2e0!7i13312!8i6656?entry=ttu) point the way.
