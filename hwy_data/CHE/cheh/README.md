@@ -8,6 +8,7 @@
 **SOURCES:**
 - https://www.admin.ch/opc/de/classified-compilation/19910382/index.html#app2
 - https://de.wikipedia.org/wiki/Liste_der_Hauptstrassen_der_Schweiz#Mit_den_.C2.ABNummerntafeln_f.C3.BCr_Hauptstrassen.C2.BB_gekennzeichnete_Hauptstrassen
+- https://fedro.maps.arcgis.com/apps/webappviewer/index.html?id=6bbcf93ec91840eaa6899ceaa08eb80e
 
 
 **NOTES TO ROUTES:**
