@@ -7,9 +7,9 @@ Colombia Red Vial Nacional
 [A standalone marker](https://www.google.com/maps/@6.753454,-75.4887562,3a,15y,322.81h,86.87t/data=!3m6!1e1!3m4!1s8G_XpRiH8YWCcvwmR6jskg!2e0!7i16384!8i8192?entry=ttu) for departmental route 25AN10 (along with [a reference post](https://www.google.com/maps/@6.753324,-75.4887927,3a,15y,345.75h,81.4t/data=!3m7!1e1!3m5!1sSSM2emGD3A082p0atzMyDA!2e0!5s20151101T000000!7i13312!8i6656?entry=ttu)). [Another one](https://www.google.com/maps/@6.8826339,-75.6659979,3a,15y,310.12h,89.93t/data=!3m6!1e1!3m4!1stzUby1_v9GlYOESCO0HOcQ!2e0!7i16384!8i8192?entry=ttu) with a departmental outline. [Another mention of a departmental route](https://www.google.com/maps/@6.3841078,-75.4588402,3a,15.4y,139.03h,88.36t/data=!3m6!1e1!3m4!1saFiwcpKBdnC-2oMamL9RTQ!2e0!7i16384!8i8192?entry=ttu) (25AN19).
 
 Sources:
-* Logs: https://www.mintransporte.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=33245&id_comunidad=portal
-* Definitions: https://mintransporte.gov.co/documentos/305/categorizacion-vial/
 * Maps: https://mintransporte.maps.arcgis.com/apps/webappviewer/index.html?id=76b4f0bffcef4936b6f28b4889690f91 (Mapa_de_Carreteras - Red Vial and ConcesionesCarreteras layers) https://hermes2.invias.gov.co/Sistema_de_Informacion_Vial/
+* Logs: https://www.mintransporte.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=33245&id_comunidad=portal (seems to be incomplete and includes a lot of departmental routes)
+* Definitions: https://mintransporte.gov.co/documentos/305/categorizacion-vial/ (seems to be only departmental routes and below)
 
 Notes on routes:
 * 13's north and south ends may be wrong.
@@ -89,8 +89,13 @@ Notes on routes:
 * 74SCA may be unsigned (available imagery is too old).
 * 7803's short stub to the old ferry at Puerto Bodega seems to be unsigned (as of 2013, when the ferry was still in service).
 * 78 has a short gap in Guamal, but [destination signs](https://www.google.com/maps/@9.1456768,-74.2275456,3a,30.9y,258.26h,82.4t/data=!3m6!1e1!3m4!1swBIglWm66RQQd7E7g8bUJw!2e0!7i13312!8i6656?entry=ttu) point the way.
+* 80's bypass of Nueva Granada seems to be open, but it is unknown if and how it is signed.
+* 80MGA [is signed as 80MGF](https://www.google.com/maps/@9.9074493,-74.1046991,3a,29.8y,115.21h,80.9t/data=!3m6!1e1!3m4!1sNbN0ZZ8sAfumMteiCOkcog!2e0!7i16384!8i8192?entry=ttu), perhaps so the bypasses are labeled in order from west to east.
+* 80 seems to have a new alignment between Valledupar and La Paz (via Puente Rafael Escalona), but (as of January 2023) [it has no signed designation](https://regioncaribe.com.co/la-nueva-via-valledupar-la-paz-reduce-tiempo-de-recorrido-en-16-minutos/).
+* 90's bypass around Coveñas is probably a route, but signage is unknown.
 * 90AT01 may be unsigned (available imagery is too old).
 * 90GJ03 [is signed](https://www.google.com/maps/@11.1650455,-72.588885,3a,15.1y,33.95h,81.04t/data=!3m6!1e1!3m4!1sZEKokmHyrdRZjcD3Df90JQ!2e0!7i16384!8i8192?entry=ttu) but may be a departmental route.
+* 90A [may be signed](https://www.google.com/maps/@10.4420347,-75.5281755,3a,25y,211.24h,95.15t/data=!3m6!1e1!3m4!1sKidNkAB8Xa8dFmqqdnYOjA!2e0!7i16384!8i8192?entry=ttu) farther into Cartagena than it is maintained.
 
 
 other crap
@@ -334,6 +339,8 @@ other crap
   * 90ANB
   * 90ANA
 * (gap along coast)
+* 9003
+* (gap thru San Bernardo del Viento)
 * 9003 9004 9005
   * 90SC02
   * 90BLB
