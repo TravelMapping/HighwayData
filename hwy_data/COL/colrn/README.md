@@ -46,26 +46,30 @@ Notes on routes:
 * 37CCA may be unsigned (there is no imagery available).
 * 37CCB may be unsigned (there is no imagery available).
 * 40's west end in Buenaventura may be wrong. It's not clear how westbound traffic gets between the two pieces of Calle 7.
-* 40 may extend east a bit more to near Carimagua.
+* 40 may extend east a bit more to near Carimagua, but the road conditions are horrible and there is no imagery available.
 * 40Pue [is signed](https://www.google.com/maps/@6.1895912,-67.5011131,3a,15y,102.6h,83.81t/data=!3m6!1e1!3m4!1sAF1QipNuysxs3gOdwzEPreTEYTsbGMFXlwt9IN6wIPkq!2e10!7i1920!8i1080?entry=ttu). The east end may be wrong.
+* 4003A is the eastbound lanes east of Armenia.
 * 40CN03 [may be unsigned](https://www.google.com/maps/@4.5553599,-74.2592082,3a,16.5y,61.89h,83.06t/data=!3m6!1e1!3m4!1smEKuJhLjJ8pRte6sl9qPmQ!2e0!7i16384!8i8192?entry=ttu) (or may no longer be a national route?).
+* 40CN07 [seems to be unsigned](https://www.google.com/maps/@4.5818907,-74.2621097,3a,25.2y,211.54h,79.76t/data=!3m6!1e1!3m4!1stIDgmXbyBYtJ5emiKZ1ccg!2e0!7i16384!8i8192?entry=ttu) (pending completion of the extension?).
 * 40CNA (thru Chipaque) seems to be unsigned.
 * 40CNC may be unsigned (concrete reference posts seem to just have the distance).
-* 40MT01 may be unsigned.
+* 40MT01 [is signed](https://www.google.com/maps/@4.7293572,-71.4033401,3a,15y,184.16h,85.36t/data=!3m6!1e1!3m4!1sv3KxLVGzGsB1aj4WFOaPSQ!2e0!7i13312!8i6656?entry=ttu).
 * 4502 seems to have two south ends: [at Puerto Asís](https://www.google.com/maps/@0.5176587,-76.5068071,3a,15y,301.65h,84.24t/data=!3m6!1e1!3m4!1sBUU-onPt7kd_rlzXgB1bgg!2e0!7i16384!8i8192?entry=ttu) and [closer to Santa Ana](https://www.google.com/maps/@0.5778852,-76.5484575,3a,31.2y,5.9h,85.63t/data=!3m6!1e1!3m4!1sTH8Fu2nRv_24losj48l5lQ!2e0!7i16384!8i8192?entry=ttu). But other posts south of the latter show [5302](https://www.google.com/maps/@0.5227857,-76.5235287,3a,15y,13.95h,85.39t/data=!3m6!1e1!3m4!1srIW8gd7ggKr5OVqs3XaaqQ!2e0!7i16384!8i8192?entry=ttu), which [seems to be a departmental route](https://www.putumayo.gov.co/images/documentos/Planes_y_programas/DOCUMENTO%20PRIIT%20PVD%20PUTUMAYO%2025102021.pdf). Note that both are south of where 4501 splits in Santa Ana, so 4501 is its own mapped segment.
 * 45's southbound route thru Mocoa is assumed via Calle 4, Carrera 5, and Calle 10 (though traffic may have to bypass [a closed piece of Calle 10](https://www.google.com/maps/@1.1474432,-76.6457363,3a,23.1y,307.6h,80.79t/data=!3m6!1e1!3m4!1sjGGTBWjZXZOYVdW-GRYjUQ!2e0!7i13312!8i6656?entry=ttu)).
 * 45's southbound route thru Pitalito is assumed to use Carrera 4 (only northound is on maps, jogging from Carrera 3 to Carrera 2 via Calle 12).
-* 45 is signed both [thru](https://www.google.com/maps/@3.6187797,-75.0973791,3a,17.7y,32.67h,85.75t/data=!3m6!1e1!3m4!1s2-6AIjXYEfqId_wq2_FrqA!2e0!7i16384!8i8192?entry=ttu) and [around](https://www.google.com/maps/@3.6202668,-75.101053,3a,16.7y,8.89h,83.97t/data=!3m6!1e1!3m4!1sRAw5MoBt_x7EMrh5MoFfgg!2e0!7i16384!8i8192?entry=ttu) Natagaima.
 * 45's branch to Yondó [has no signed designation](https://www.google.com/maps/@7.0054242,-73.9121736,3a,41.1y,38.37h,77.31t/data=!3m6!1e1!3m4!1sWZssLvNI3eh1oyHzhGUnZQ!2e0!7i16384!8i8192?entry=ttu) and is on maps as UF1.
 * 45BY01 may be unsigned.
 * 45CS04 may be unsigned.
 * 45CSI may be unsigned.
 * 45HL01 may not make it to 45 in Hobo, but maps show km 1 farther south than they show the route going.
+* 45TLE (Natagaima) [is signed as 45](https://www.google.com/maps/@3.6202668,-75.101053,3a,16.7y,8.89h,83.97t/data=!3m6!1e1!3m4!1sRAw5MoBt_x7EMrh5MoFfgg!2e0!7i16384!8i8192?entry=ttu), but so is [45 itself](https://www.google.com/maps/@3.6187797,-75.0973791,3a,17.7y,32.67h,85.75t/data=!3m6!1e1!3m4!1s2-6AIjXYEfqId_wq2_FrqA!2e0!7i16384!8i8192?entry=ttu). 45TLE has been mapped as 45Nat.
 * 45A's southbound route thru Zipaquirá is assumed to use Calle 7 and Carrera 10 to parallel the defined northbound route on Carrera 11 and Calle 6.
 * 45ABYB [is signed as 45A](https://www.google.com/maps/@5.5998284,-73.8359361,3a,15y,300.88h,83.61t/data=!3m6!1e1!3m4!1sUL89qPZm4E1Riz8rl5ZAqg!2e0!7i16384!8i8192?entry=ttu) (but so is [45A thru Chiquinquirá](https://www.google.com/maps/@5.6140055,-73.8154137,3a,27.7y,102.72h,67.01t/data=!3m6!1e1!3m4!1sSi-BkkF3ymplvte4AolHJQ!2e0!7i16384!8i8192?entry=ttu)), so the former is mapped as 45AChi.
 * 45AST08 [is signed as 45A08](https://www.google.com/maps/@7.0636371,-73.1028969,3a,17.1y,284.2h,76.18t/data=!3m6!1e1!3m4!1s0K_ES8sGDzP6uiNILYDEBg!2e0!7i16384!8i8192?entry=ttu), but since 45A08 exists with identical reference posts, this is treated as an error.
 * 50's east end in Guasca may be wrong.
-* 5008A [is signed](https://www.google.com/maps/@5.0013129,-74.4729945,3a,24.1y,268.69h,87.4t/data=!3m6!1e1!3m4!1s-RnFW6IQVlLLbrTLciHTdw!2e0!7i16384!8i8192?entry=ttu) all the way west to Villeta. It's not clear if it reaches 50, however, as it is not shown on maps.
+* 5008A [is signed](https://www.google.com/maps/@5.0013129,-74.4729945,3a,24.1y,268.69h,87.4t/data=!3m6!1e1!3m4!1s-RnFW6IQVlLLbrTLciHTdw!2e0!7i16384!8i8192?entry=ttu) all the way west to Villeta. It's not clear if it reaches 50, however, as the route is not shown on maps.
+* 5008B1 seems to be incomplete and not open to thru traffic.
+* 50CN01 may have a one-way pair in Caparrapí.
 * 50A is signed from [Murillo](https://www.google.com/maps/@4.8738843,-75.1593027,3a,29.9y,116.77h,74.71t/data=!3m6!1e1!3m4!1sQyvnP-AgCiRmY1ricXjtfA!2e0!7i16384!8i8192?entry=ttu) to [5008A near Albán](https://www.google.com/maps/@4.8977584,-74.4474453,3a,24.1y,247.37h,89.15t/data=!3m6!1e1!3m4!1su0yTaJKCNHlHnn8nM31r7g!2e0!7i16384!8i8192?entry=ttu). It's possible that it's been extended from Murillo to 50 after construction.
 * 55's gap thru Tunja may have been taken over as a national route; there are reference posts at least south of Diagonal 38.
 * 5505B [seems to be unsigned](https://www.google.com/maps/@7.8219919,-72.5142352,3a,55.6y,238.68h,88t/data=!3m6!1e1!3m4!1sPh5BP7K0BJPKAmhz7igI1A!2e0!7i16384!8i8192?entry=ttu) (as of 2022).
@@ -127,90 +131,30 @@ other crap
 * (gap thru Manizales)
 * RN29Irr: 2903
 * RN40: 4001 4002 (gap thru Armenia) 4003
-  * 40VLA
-  * 4002A
-    * 40QN04
-  * 40QN01
-  * 40QN05
-  * 4003A
-  * 40TLC
-    * 40TLF
-      * 40TLG
 * (gap thru Ibagué)
 * RN40Gir: 4004 4005
-  * 40TLD
-  * 4004B
-    * 40TL06
-  * 40TL05
-  * 40TLE
-  * 40CNC
-  * 40CN07
 * (gap thru Bogotá)
 * RN40Vil: 4006 (gap thru Villavicencio) 4007 4008 4009 4010
-  * 4006A
-  * 40CN01
-  * 40CNA
-  * 40CNB
-  * 40MTA
-  * 40MT01
 * RN40Pue: 4015
 * RN43Tes: 4301
-  * 43HL02
-    * 43HL02-1
 * RN43: 4305
 * RN43Ban: 4313
-  * 43CS02
 * RN45Hor: 4501
 * (gap due to stub of 4502 south of 4501)
 * RN45Pit: 4502 (gap thru Mocoa) 4503 4504 4505
-  * 45HLC
-  * 45HLB
-  * 45HL01
-  * 45HL06
 * (gap thru Neiva)
 * RN45Sal: 4506 4507
-  * 45TLE
-  * 45TLA
-  * 45TLB
-    * 45TL10
-  * 45TLG
 * (gap thru Girardot)
 * RN45: 4508 4509 4510 4511 4513 4514 4515 4516 4517 4518
-  * 45CLB
-  * 45CNA
-  * 45BY01
-  * 45CSD
-  * 45CSE
-  * 45CSF
-  * 45CSG
-  * 45CSH
-  * 45CS04
-  * 45CSI
-  * 45CSJ
-  * 45CS09
-  * 45MGB
-  * 45MG02
-* 45A04 45A05 45A06 45A07
-  * 45ACNA
-  * 45ACNB
-    * 45ACND
-  * 45ACNC
-  * 45ABYB
-  * 45AST08
+* RN45A: 45A04 45A05 45A06 45A07
 * (gap thru Bucaramanga)
-* 45A08
+* RN45ARio: 45A08
 * RN50Vit: 5001 5002 5003
-  * 50RS01
 * RN50: 5005 5006 5007 5008
-  * 50CL02
-  * 5008B
-    * 5008B1
-    * 50CN01
   * 5008A
     * 50CNG
 * (gap thru Bogotá)
 * RN50Gua: 5009
-  * 50CN03
 * 5501 (gap thru Tunja?) 5502 5503 5504 5505
   * 55CND
   * 55CN01
