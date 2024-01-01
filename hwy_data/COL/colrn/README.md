@@ -14,6 +14,7 @@ Sources:
 Notes on routes:
 * 13's north and south ends may be wrong.
 * 20CQ01 [is signed as 20CQ](https://www.google.com/maps/@1.7322203,-75.6441095,3a,15y,125.76h,86.11t/data=!3m6!1e1!3m4!1s0liKxFXRTv96WbXte0dC-g!2e0!7i16384!8i8192?entry=ttu).
+* 20HL01 may have a one-way pair in San Agustín.
 * 21CR04 [is signed as 21](https://www.google.com/maps/@8.9573157,-75.8601316,3a,37.2y,293.23h,86.85t/data=!3m6!1e1!3m4!1splLrdEhLRpUu8b_RsKvqaQ!2e0!7i16384!8i8192?entry=ttu) [as well as correctly](https://www.google.com/maps/@8.931763,-75.9007758,3a,15.3y,26.65h,74.39t/data=!3m6!1e1!3m4!1shSgRohOGwZzycQM0dn3lxQ!2e0!7i16384!8i8192?entry=ttu).
 * 23's north end in Montería may be wrong.
 * 23VL01 [is signed](https://www.google.com/maps/@3.5452763,-76.489817,3a,15y,90.58h,88.68t/data=!3m6!1e1!3m4!1sY1iA_kYS3xwB-flsvZeJ4A!2e0!7i16384!8i8192?entry=ttu).
@@ -32,10 +33,13 @@ Notes on routes:
 * 25VLF (Andalucia) seems to be unsigned and may no longer exist.
 * 25VLG (Bugalagrande) seems to be unsigned and may no longer exist.
 * 25VLH (Zarzal) [is signed as 2506](https://www.google.com/maps/@4.3897331,-76.0624464,3a,32.2y,60.83h,81.67t/data=!3m6!1e1!3m4!1s4d6QRgVD2LG_aIHqduZZxQ!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@4.3897972,-76.0689545,3a,15.8y,90.85h,66.69t/data=!3m6!1e1!3m4!1s8TM9oOuOvR3Yv71bnTxNGg!2e0!7i13312!8i6656?entry=ttu) still stand on the old alignment (as of 2013).
+* 2602A's west end is near the 25/26 split on official maps, but [km 0 is posted to the south](https://www.google.com/maps/@2.6342685,-76.5281891,3a,15y,16.86h,83.79t/data=!3m6!1e1!3m4!1sZnSOy9cktBH10DdjSBcXSw!2e0!7i13312!8i6656?entry=ttu).
 * 26CC03 may be unsigned (there is no imagery available).
 * 26CC03-2 may be unsigned (there is no imagery available).
+* 26CC04 appears to have a gap in the middle, but the road is continuous.
 * 29RSA seems to be unsigned, but is part of ViaPer in colsf.
-* 29RSC is the southbound lanes of 2902 south of Chinchina, but also the Chinchina bypass.
+* 29RSB is one-way opposite the increasing reference posts.
+* 29RSC is the southbound lanes of 2902 south of Chinchina, but also the Pereira and Chinchina bypasses.
 * 29RSE is the northbound lanes of 2902 north of Dosquebradas.
 * 31's northbound route thru Miranda is unclear.
 * 37's southbound route thru La Plata is unclear.
@@ -109,50 +113,17 @@ other crap
 * RN20Tam: 2001
 * (gap thru Popayán)
 * RN20: 2002 2003
-  * 20HL01
-  * 2003A
-  * 20CQ01
-* 2103
-  * 21CRA
-  * 21CR04
 * RN23: 2301 2302
-  * 23VL01
-    * 23VL02
-      * 23VL02-1
-      * 23VL02-2
-  * 23VLB
 * RN23Mon: 2310
-* 2401 2402
-  * 24HL02
-  * 24HL01
-  * 24HL03
 * RN25Pop: 2501 (gap thru Pasto) 2502 2503 (gap thru Popayán) 2504
 * (gap thru Santiago de Cali)
 * RN25: 2505 2506 2507 2508 2509 (gap thru Medellín) 2510 2511 2512 2513 2514 (gap thru Sincelejo) 2515 2516
-* 2601 2602
-  * 2602A
-    * 26CC03
-      * 26CC03-2
-  * 26CC07
-  * 26CC04
 * RN27: 2701
 * (gap thru Salamina)
 * RN27Sit: 2702
 * RN29Arm: 2901
-  * 2901B
-    * 29VLA
-  * 29RSD
 * (gap thru Pereira)
 * RN29: 2902
-  * 29RS01
-    * 29RSC
-    * 29RSB
-  * 29RSA
-  * 29RSE
-  * 29RS02
-  * 29RSC
-  * 29CL03
-    * 29CL03-1
 * (gap thru Manizales)
 * RN29Irr: 2903
 * RN40: 4001 4002 (gap thru Armenia) 4003
