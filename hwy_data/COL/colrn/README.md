@@ -1,6 +1,6 @@
 Colombia Red Vial Nacional
 
-[A standalone route marker](https://www.google.com/maps/@1.7545334,-77.2909335,3a,15y,340.29h,91.88t/data=!3m6!1e1!3m4!1sNP-wCRixRGc0MOmwZcZwzA!2e0!7i16384!8i8192?entry=ttu). [One for a branch!](https://www.google.com/maps/@8.9056773,-75.8016632,3a,28.4y,142.09h,87.4t/data=!3m6!1e1!3m4!1s7n_RUTch_l_dfUB2ASxHBA!2e0!7i16384!8i8192?entry=ttu) [One on a green sign](https://www.google.com/maps/@6.1530839,-75.5327083,3a,43y,138.97h,107.27t/data=!3m6!1e1!3m4!1sLHFj4aBG-rxtEoQx6ofb-Q!2e0!7i16384!8i8192?entry=ttu).
+[A standalone route marker](https://www.google.com/maps/@1.7545334,-77.2909335,3a,15y,340.29h,91.88t/data=!3m6!1e1!3m4!1sNP-wCRixRGc0MOmwZcZwzA!2e0!7i16384!8i8192?entry=ttu). [One for a branch!](https://www.google.com/maps/@8.9056773,-75.8016632,3a,28.4y,142.09h,87.4t/data=!3m6!1e1!3m4!1s7n_RUTch_l_dfUB2ASxHBA!2e0!7i16384!8i8192?entry=ttu) [One on a green sign](https://www.google.com/maps/@6.1530839,-75.5327083,3a,43y,138.97h,107.27t/data=!3m6!1e1!3m4!1sLHFj4aBG-rxtEoQx6ofb-Q!2e0!7i16384!8i8192?entry=ttu). [Another nonstandard one on a green sign](https://www.google.com/maps/@4.7854826,-74.3328816,3a,34.3y,333.27h,98.07t/data=!3m6!1e1!3m4!1swr5Cmm7nGGeZifl-_HGe0A!2e0!7i16384!8i8192?entry=ttu) (showing 50 on 5008A).
 
 [A typical reference post](https://www.google.com/maps/@1.1111923,-77.3859513,3a,15y,206.33h,74.56t/data=!3m6!1e1!3m4!1sqgaDvWJgrUJ7bPau9BOPQA!2e0!7i13312!8i6656?entry=ttu) for km 64 on section (tramo/código) 2501 of Ruta 25. [One on a branch](https://www.google.com/maps/@2.4293666,-76.620974,3a,15.4y,58.46h,78.33t/data=!3m6!1e1!3m4!1sAL6KmFQYKGpjKORnXCJsYw!2e0!7i13312!8i6656?entry=ttu), km 0 on 25CCB. [A more modern style](https://www.google.com/maps/@1.327848,-77.2786018,3a,15.1y,66.25h,84.67t/data=!3m6!1e1!3m4!1seV6LO_kjs2UBgw-KZ4p3BA!2e0!7i16384!8i8192?entry=ttu), km 22 on 2502.
 
@@ -67,7 +67,7 @@ Notes on routes:
 * 45ABYB [is signed as 45A](https://www.google.com/maps/@5.5998284,-73.8359361,3a,15y,300.88h,83.61t/data=!3m6!1e1!3m4!1sUL89qPZm4E1Riz8rl5ZAqg!2e0!7i16384!8i8192?entry=ttu) (but so is [45A thru Chiquinquirá](https://www.google.com/maps/@5.6140055,-73.8154137,3a,27.7y,102.72h,67.01t/data=!3m6!1e1!3m4!1sSi-BkkF3ymplvte4AolHJQ!2e0!7i16384!8i8192?entry=ttu)), so the former is mapped as 45AChi.
 * 45AST08 [is signed as 45A08](https://www.google.com/maps/@7.0636371,-73.1028969,3a,17.1y,284.2h,76.18t/data=!3m6!1e1!3m4!1s0K_ES8sGDzP6uiNILYDEBg!2e0!7i16384!8i8192?entry=ttu), but since 45A08 exists with identical reference posts, this is treated as an error.
 * 50's east end in Guasca may be wrong.
-* 5008A [is signed](https://www.google.com/maps/@5.0013129,-74.4729945,3a,24.1y,268.69h,87.4t/data=!3m6!1e1!3m4!1s-RnFW6IQVlLLbrTLciHTdw!2e0!7i16384!8i8192?entry=ttu) all the way west to Villeta. It's not clear if it reaches 50, however, as the route is not shown on maps.
+* 5008A [is signed](https://www.google.com/maps/@5.0013129,-74.4729945,3a,24.1y,268.69h,87.4t/data=!3m6!1e1!3m4!1s-RnFW6IQVlLLbrTLciHTdw!2e0!7i16384!8i8192?entry=ttu) all the way west to Villeta. It's not clear if it reaches 50, however, as this part of the route is not shown on maps.
 * 5008B1 seems to be incomplete and not open to thru traffic.
 * 50CN01 may have a one-way pair in Caparrapí.
 * 50A is signed from [Murillo](https://www.google.com/maps/@4.8738843,-75.1593027,3a,29.9y,116.77h,74.71t/data=!3m6!1e1!3m4!1sQyvnP-AgCiRmY1ricXjtfA!2e0!7i16384!8i8192?entry=ttu) to [5008A near Albán](https://www.google.com/maps/@4.8977584,-74.4474453,3a,24.1y,247.37h,89.15t/data=!3m6!1e1!3m4!1su0yTaJKCNHlHnn8nM31r7g!2e0!7i16384!8i8192?entry=ttu). It's possible that it's been extended from Murillo to 50 after construction.
@@ -151,11 +151,9 @@ other crap
 * RN45ARio: 45A08
 * RN50Vit: 5001 5002 5003
 * RN50: 5005 5006 5007 5008
-  * 5008A
-    * 50CNG
 * (gap thru Bogotá)
 * RN50Gua: 5009
-* 5501 (gap thru Tunja?) 5502 5503 5504 5505
+* RN55: 5501 (gap thru Tunja?) 5502 5503 5504 5505
   * 55CND
   * 55CN01
   * 55CNC
@@ -168,7 +166,7 @@ other crap
   * 5505B
   * 55NSA
 * (gap thru Cúcuta)
-* 5507
+* RN55San: 5507
   * 55NS09
 * RN56Son: 5601
   * 56AN01
