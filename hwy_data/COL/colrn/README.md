@@ -76,6 +76,7 @@ Notes on routes:
 * 55CND is signed as part of 55. There seem to be no reference posts on (old) 55 thru Briceño.
 * 56's west end in Medellín may be wrong.
 * 56's east end in La Palma may be wrong.
+* 56AN03 [is signed](https://www.mapillary.com/app/?lat=6.1390625603015&lng=-75.378374646566&z=17&pKey=117008097480524&focus=photo&x=0.18710372151273497&y=0.5594067692964505&zoom=1.3099499658603853).
 * 56BY01 [is signed](https://www.google.com/maps/@5.0111831,-73.4288315,3a,24.2y,184.43h,76.58t/data=!3m6!1e1!3m4!1sRYQhRW0RVbgscYJ6JsZCMA!2e0!7i16384!8i8192?entry=ttu) like a national route, but sources show it as a departmental route.
 * 60's east end in Chiquinquirá is shown at Calle 4 on maps, but the road has a blatant change in character one block west at Calle 3.
 * 60's east end in Páez may be wrong.
@@ -85,6 +86,8 @@ Notes on routes:
 * 62's east end in San Cristóbal may be wrong.
 * 62's west end at El Hatillo may be at RD 25AN19 rather than at 25.
 * 62 cannot be followed eastbound just east of RD 62AN21.
+* 6205A may not extend all the way to Cisneros ([reference posts at that end](https://www.google.com/maps/@6.5349794,-75.1090133,3a,30.1y,93.01h,81.13t/data=!3m6!1e1!3m4!1sESBwYJ3RV6QOwIGE5X7E1w!2e0!7i16384!8i8192?entry=ttu) have no designation and a different numbering sequence).
+* RN62BY05 does not have a defined or signed westbound route at AvSol_N in Sogamoso.
 * 64's route thru Barichara is as shown on maps, but may include one-way streets.
 * 65's ferry across Río Caquetá may not exist.
 * 65MTC may be unsigned (there is no imagery available).
@@ -154,45 +157,21 @@ other crap
 * (gap thru Bogotá)
 * RN50Gua: 5009
 * RN55: 5501 (gap thru Tunja?) 5502 5503 5504 5505
-  * 55CND
-  * 55CN01
-  * 55CNC
-  * 55CN03
-  * 55BYA
-  * 55BY11
-  * 55ST02
-  * 55STA
-  * 55NS08
-  * 5505B
-  * 55NSA
 * (gap thru Cúcuta)
 * RN55San: 5507
-  * 55NS09
 * RN56Son: 5601
-  * 56AN01
-  * 56AN02
-    * 56AN02-1
-  * 56AN03
 * RN56Pal: 5604
 * RN56: 5607 5608
 * RN60: 6002 6003 (gap thru Medellín) 6004 6005 6006 6007
-  * 60AN03
 * (gap thru Chiquinquirá)
 * RN60Tin: 6008
 * (gap thru Tunja)
 * RN60Ram: 6009
 * RN62: 6201 6202 6203 6204
-  * 62ANE
-  * 62ANF
-  * 62ANG
-  * 62AND
 * (gap thru Medellín)
 * RN62Ber: 6205 6206 6207 6208 6209
-  * 62ANH
-  * 62STA
 * (gap thru Tunja)
 * RN62Dui: 6210
-  * 62BY05
 * (gap thru Sogamoso)
 * RN62Sog: 6211
 * RN64Bar: 6402
