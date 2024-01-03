@@ -81,7 +81,7 @@ Notes on routes:
 * 60's east end in Chiquinquirá is shown at Calle 4 on maps, but the road has a blatant change in character one block west at Calle 3.
 * 60's east end in Páez may be wrong.
 * 6103 [is signed](https://www.google.com/maps/@5.7592354,-72.9063989,3a,26.4y,180.65h,84.34t/data=!3m6!1e1!3m4!1s-W0fsQi78uQ8AKScEKCf1w!2e0!7i16384!8i8192?entry=ttu) as if it were a national route, but it [seems to be a departmental route](https://mintransporte.gov.co/loader.php?lServicio=Tools2&lTipo=descargas&lFuncion=descargar&idFile=27214).
-* 6201 [is signed](https://www.google.com/maps/@8.0786379,-76.6631551,3a,15.5y,324.33h,81.3t/data=!3m6!1e1!3m4!1shqYUEa-WhMjR-Krjy9v-7g!2e0!7i16384!8i8192?entry=ttu) on the bypass of Turbo but also [into town](https://www.google.com/maps/@8.0982214,-76.7197457,3a,48.3y,288.21h,81.82t/data=!3m6!1e1!3m4!1sPFiShMbwd8iol_k6FG3Bkw!2e0!7i16384!8i8192?entry=ttu) as sources show.
+* 6201 [is signed](https://www.google.com/maps/@8.0786379,-76.6631551,3a,15.5y,324.33h,81.3t/data=!3m6!1e1!3m4!1shqYUEa-WhMjR-Krjy9v-7g!2e0!7i16384!8i8192?entry=ttu) on the bypass of Turbo but also [into town](https://www.google.com/maps/@8.0982214,-76.7197457,3a,48.3y,288.21h,81.82t/data=!3m6!1e1!3m4!1sPFiShMbwd8iol_k6FG3Bkw!2e0!7i16384!8i8192?entry=ttu) as sources show. The former has been mapped as RN62Tur.
 * 62's new variant east of Dabeiba (Variante de Fuemia) [has no designation](https://youtu.be/mDBZN27Ik1o?t=30) (as of November 2023).
 * 62's east end in San Cristóbal may be wrong.
 * 62's west end at El Hatillo may be at RD 25AN19 rather than at 25.
@@ -90,12 +90,13 @@ Notes on routes:
 * RN62BY05 does not have a defined or signed westbound route at AvSol_N in Sogamoso.
 * 64's route thru Barichara is as shown on maps, but may include one-way streets.
 * 65's ferry across Río Caquetá may not exist.
-* 65MTC may be unsigned (there is no imagery available).
+* 65MTC may be unsigned (there is no imagery available). The south end may be wrong.
 * 65MTD may be unsigned (there is no imagery available).
 * 65MTF may be unsigned.
 * 65PTA may be unsigned (there is no imagery available).
 * 66's west end at Bucaramanga may be wrong.
 * 70 may be unsigned west of Aguachica.
+* 70CS03 may be unsigned (there is no imagery available).
 * 70NSA is signed as 70 with [reference posts](https://www.google.com/maps/@8.1076976,-72.8102291,3a,15y,255.86h,81.8t/data=!3m6!1e1!3m4!1sY_dILTGSf6DPSFHt6hbyhg!2e0!7i13312!8i6656?entry=ttu) and [standalone markers](https://www.google.com/maps/@8.1024237,-72.794448,3a,29.9y,323.74h,86.12t/data=!3m6!1e1!3m4!1sKGMDPn8XwK328wcxJcqlnQ!2e0!7i13312!8i6656?entry=ttu) (as of 2019). Signage of 70 thru Sardinata is unknown due to lack of imagery, but the road seems to be in poor condition west of town. The spur into Sardinata from the east (the first 2 km of 7009) has been mapped as 70Sar.
 * 74SCA may be unsigned (available imagery is too old).
 * 7803's short stub to the old ferry at Puerto Bodega seems to be unsigned (as of 2013, when the ferry was still in service).
@@ -104,6 +105,7 @@ Notes on routes:
 * 80MGA [is signed as 80MGF](https://www.google.com/maps/@9.9074493,-74.1046991,3a,29.8y,115.21h,80.9t/data=!3m6!1e1!3m4!1sNbN0ZZ8sAfumMteiCOkcog!2e0!7i16384!8i8192?entry=ttu), perhaps so the bypasses are labeled in order from west to east.
 * 80 seems to have a new alignment between Valledupar and La Paz (via Puente Rafael Escalona), but (as of January 2023) [it has no signed designation](https://regioncaribe.com.co/la-nueva-via-valledupar-la-paz-reduce-tiempo-de-recorrido-en-16-minutos/).
 * 90's bypass around Coveñas is probably a route, but signage is unknown.
+* 9007A-1 [is signed as 9007A](https://www.google.com/maps/@11.1802309,-74.1958092,3a,29.8y,259.82h,72.82t/data=!3m6!1e1!3m4!1sMtT3Y10D9yBY5THqER1HKA!2e0!7i16384!8i8192?entry=ttu), so the two routes are combined with a short 90 overlap.
 * 90AT01 may be unsigned (available imagery is too old).
 * 90GJ03 [is signed](https://www.google.com/maps/@11.1650455,-72.588885,3a,15.1y,33.95h,81.04t/data=!3m6!1e1!3m4!1sZEKokmHyrdRZjcD3Df90JQ!2e0!7i16384!8i8192?entry=ttu) but may be a departmental route.
 * 90A [may be signed](https://www.google.com/maps/@10.4420347,-75.5281755,3a,25y,211.24h,95.15t/data=!3m6!1e1!3m4!1sKidNkAB8Xa8dFmqqdnYOjA!2e0!7i16384!8i8192?entry=ttu) farther into Cartagena than it is maintained.
@@ -179,71 +181,31 @@ other crap
 * RN64Mog: 6403
 * (gap along 55BY11)
 * RN64: 6404 6405
-* 6501 6502
-  * 65PTA
+* RN65Lim/RN65Bel: 6501 6502
 * (gap thru Florencia)
-* 6503 6504
-* 6507 6508 6509
-  * 65MTA
-  * 65MTB
-  * 65MTC
-  * 65MTD
+* RN65Vic: 6503 6504
+* RN65Gra: 6507 6508 6509
 * (gap thru Villavicencio)
-* 6510 6511 6512 6513 6514 6515
-  * 65MTE
-  * 65MTF
-* 65A02
-  * 65AMTA
-  * 65AMTB
-  * 65AMTC
+* RN65: 6510 6511 6512 6513 6514 6515
 * RN66Bar: 6601 6602
-  * 66ST02
 * (gap thru Bucaramanga)
 * RN66: 6603 6604 6605 6606
-* 7006
-  * 70CS03
+* RN70Gam: 7006
 * (gap thru Aguachica)
-* 7007 7008 7009
-  * 70NS01
-  * 70NSA
-  * 7009A
-* (gap thru Cúcuta)
-* 7010
-  * 70NS06-1
+* RN70: 7007 7008 7009 (gap thru Cúcuta) 7010
 * RN74Mon: 7401
-  * 74CR02
 * (gap thru Montería)
 * RN74: 7402 7403 7404
-  * 74CRA
-  * 74SCA
-7506
-* 7801 7802 7803 7804 (gap thru Guamal) 7805 (gap thru El Banco) 7806
-  * 78BL02
-* 8001 8002 8003
-  * 80MG01
-  * 80MGA
+* RN78: 7801 7802 7803 7804 (gap thru Guamal) 7805 (gap thru El Banco) 7806
+* RN80: 8001 8002 8003
 * (gap thru Valledupar)
-* 8004
-  * 8004A
-* 8801
-  * 88GJ02
-* 9001 9002
-  * 90ANB
-  * 90ANA
+* RN80Paz: 8004
+* RN90Arb: 9001 9002
 * (gap along coast)
-* 9003
+* RN90Mon: 9003
 * (gap thru San Bernardo del Viento)
-* 9003 9004 9005
-  * 90SC02
-  * 90BLB
-    * 90BLC
+* RN90: 9003 9004 9005
 * (gap thru Cartagena)
-* 9006
-  * 90AT01
+* RN90Sab: 9006
 * (gap thru Barranquilla)
-* 9007 9008 9009
-  * 9007A-1
-  * 9007A
-* (gap thru Riohacha)
-* 9010
-* 90A01
+* RN90Mar: 9007 9008 9009 (gap thru Riohacha) 9010
