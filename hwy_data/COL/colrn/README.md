@@ -77,6 +77,7 @@ Notes on routes:
 * 56's west end in Medellín may be wrong.
 * 56's east end in La Palma may be wrong.
 * 56AN03 [is signed](https://www.mapillary.com/app/?lat=6.1390625603015&lng=-75.378374646566&z=17&pKey=117008097480524&focus=photo&x=0.18710372151273497&y=0.5594067692964505&zoom=1.3099499658603853).
+* 56AN12 may not extend all the way east to RN60AN03.
 * 56BY01 [is signed](https://www.google.com/maps/@5.0111831,-73.4288315,3a,24.2y,184.43h,76.58t/data=!3m6!1e1!3m4!1sRYQhRW0RVbgscYJ6JsZCMA!2e0!7i16384!8i8192?entry=ttu) like a national route, but sources show it as a departmental route.
 * 60's east end in Chiquinquirá is shown at Calle 4 on maps, but the road has a blatant change in character one block west at Calle 3.
 * 60's east end in Páez may be wrong.
@@ -111,7 +112,7 @@ Notes on routes:
 * 90A [may be signed](https://www.google.com/maps/@10.4420347,-75.5281755,3a,25y,211.24h,95.15t/data=!3m6!1e1!3m4!1sKidNkAB8Xa8dFmqqdnYOjA!2e0!7i16384!8i8192?entry=ttu) farther into Cartagena than it is maintained.
 
 
-other crap
+split routes:
 
 * RN10: 1001 1002
 * (gap thru Pasto)
@@ -126,7 +127,9 @@ other crap
 * RN23Mon: 2310
 * RN25Pop: 2501 (gap thru Pasto) 2502 2503 (gap thru Popayán) 2504
 * (gap thru Santiago de Cali)
-* RN25: 2505 2506 2507 2508 2509 (gap thru Medellín) 2510 2511 2512 2513 2514 (gap thru Sincelejo) 2515 2516
+* RN25Car: 2505 2506 2507 2508 2509
+* (gap thru Medellín)
+* RN25: 2510 2511 2512 2513 2514 (gap thru Sincelejo) 2515 2516
 * RN27: 2701
 * (gap thru Salamina)
 * RN27Sit: 2702
@@ -164,7 +167,9 @@ other crap
 * RN56Son: 5601
 * RN56Pal: 5604
 * RN56: 5607 5608
-* RN60: 6002 6003 (gap thru Medellín) 6004 6005 6006 6007
+* RN60Bol: 6002 6003
+* (gap thru Medellín)
+* RN60: 6004 6005 6006 6007
 * (gap thru Chiquinquirá)
 * RN60Tin: 6008
 * (gap thru Tunja)
