@@ -295,6 +295,9 @@ date;region;route;root;description
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and relocated onto A4 between the former junction between the A3 and N8 east of Generalovo (labeled *N8_GenE) and the junction between the A4 and N8 next to the Turkish border
 2015-07-22;Bulgaria;E80;bgr.e80;Removed from N8 and N76 and relocated onto N5 and A4 between the junction between the N5 and N8 and the junction between the A4 and N76
 2015-07-22;Bulgaria;E85;bgr.e85;Removed from N5 and N8 and relocated onto A4 between the junction between the A4 and N5 and the junction between the A4 and N76
+2024-01-01;(Canada) Alberta;AB 201 (Southwest Calgary);ab.ab201;Merged into main AB 201 route.
+2024-01-01;(Canada) Alberta;AB 201;ab.ab201;Segment between exits 26 & 32 added, forming a complete beltway.
+2024-01-01;(Canada) Alberta;AB 8;ab.ab008;East end truncated from exit 26 to exit 28 of AB 201.
 2021-10-13;(Canada) Alberta;AB 201;ab.ab201;Extended counterclockwise from exit 36 to 32.
 2023-01-18;(Canada) Alberta;AB 1A (Cochrane);ab.ab001acoc;East end removed from Banff Trail and relocated onto Crowchild Trail between Banff Trail and AB 1.
 2023-01-18;(Canada) Alberta;AB 8;ab.ab008;East end truncated from Sarcee Trail to AB 201.
@@ -4035,6 +4038,7 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2023-12-30;Romania;A0 (Jilava);rou.a000jil;New Route
 2023-12-23;Romania;DEx12;rou.dex12;Route extended at northern end from Slatina Nord to Colonesti
 2023-12-23;Romania;A3 (Iernut);rou.a003;Route merged into main route A3
 2023-12-23;Romania;A3;rou.a003;Route gap between Campia Turzii and Chetani completed
@@ -4881,6 +4885,25 @@ date;region;route;root;description
 2016-05-01;Sweden;Västkustvägen;swe.vastkustvag;New Route
 2016-05-01;Sweden;Vätterleden;swe.vatled;New Route
 2016-05-01;Sweden;Ystadvägen, Malmo;swe.ystvag;New Route
+2024-01-03;Switzerland;H19;che.h019;Route extended at east end from A13 to H13
+2024-01-02;Switzerland;H12;che.h012;Route relocated from through Bulle and onto western bypass from Route de Riaz to Route de la Pâla
+2024-01-01;Switzerland;H1;che.h001;Route relocated from Bünzstraße and Kirchenrain, and onto Zentralstraße in Wohlen
+2024-01-01;Switzerland;H2 (Main);che.h002;Route relocated from Margarethenstrasse, Holeestrasse, Laupenring, Morgartenring, Wasgenring and Burgfelderstrasse, and onto Steinenring, Spalenring, Kannenfeldstraße and Flughafenstrasse between Margarethenbrücke in Basel and French border
+2024-01-01;Switzerland;H2 (Main);che.h002;Route relocated from concurrency with A22 and through Liestal, Lausen, Itingen and Sissach from A22's exit Liestal-Nord to A22's end east of Sissach
+2024-01-01;Switzerland;H2 (Main);che.h002;Route relocated from Artherstrasse and onto Zugerstrasse in the north of Küssnacht between H2b Südumfahrung and Artherstrasse east of H368 junction
+2024-01-01;Switzerland;H2 (Main);che.h002;Route relocated from A2 and onto Via Como and Via Maestri Comacini between A2's exit 54 in Chiasso and Italian border
+2024-01-01;Switzerland;H2b;che.h002b;Route relocated from through Küssnacht and onto bypass between H2 and Grepperstrasse
+2024-01-01;Switzerland;H3;che.h003;Route relocated from Rheinstraße and onto Rauricastrasse in Pratteln from east of Salinenstraße to Rheinstraße in Rhygarten
+2024-01-01;Switzerland;H4;che.h004;Route relocated in Horw from Kontonsstraße and onto Ringstraße and Hergiswilerstrasse
+2024-01-01;Switzerland;H6;che.h006;Route relocated from Bernstraße and A6, and onto Gurnigstrasse and Brüggstrasse in Biel, Bielstrasse in Brügg and Hauptstrasse in Studen, between Gurnigstrasse in Biel and A6's exit 4
+2024-01-01;Switzerland;H7 (Main);che.h007;Route relocated from Rheinstraße and onto Rauricastrasse in Pratteln from east of Salinenstraße to Rheinstraße in Rhygarten
+2024-01-01;Switzerland;H7 (Main);che.h007;Route relocated from Wittenwilerstrasse and Schützenstrasse, and onto Morgentalstrasse and Bahnhofstrasse in Aadorf
+2024-01-01;Switzerland;H12;che.h012;Route relocated from concurrency with A22 and through Liestal from A22's exit Liestal-Nord to A22's exit Liestal-Süd
+2023-12-31;Switzerland;H16;che.h016;Route relocated from through Bazenheid and onto bypass between Rickenbach (H430.1) and Brägg
+2023-12-31;Switzerland;H16;che.h016;Route relocated from through Ebnat and Kappel, and onto bypass from north of Kappel to east of Ebnat
+2023-12-31;Switzerland;Umfahrung Bazenheid;che.h016;Route deleted (H16 now)
+2023-12-31;Switzerland;Umfahrung Ebnat-Kappel;che.h016;New deleted (H16 now)
+2023-12-31;Switzerland;La Rochette Tavannes;che.roctav;New Route
 2023-08-19;Switzerland;A9 (Raron);che.a009rar;New Route
 2023-08-19;Switzerland;E62;che.e62;Route relocated from H9 and onto A9 from east of Steg to west of Raron
 2022-10-15;Switzerland;A9 (Brig);che.a009bri;Route extended at west end from exit 33a to Pomona (western half of Visp bypass, westbound only)
@@ -4940,8 +4963,8 @@ date;region;route;root;description
 2016-10-21;Switzerland;Eggfluhtunnel Grellingen;che.egggre;New Route
 2016-10-21;Switzerland;Superstrada Mendrisio - Stabio;che.supmensta;New Route
 2016-10-21;Switzerland;Ueberlandstrasse Hinwil;che.uebhin;New Route
-2016-10-21;Switzerland;Umfahrung Bazenheid;che.umfbaz;New Route
-2016-10-21;Switzerland;Umfahrung Ebnat-Kappel;che.umfebnkap;New Route
+2016-10-21;Switzerland;Umfahrung Bazenheid;che.h016;New Route
+2016-10-21;Switzerland;Umfahrung Ebnat-Kappel;che.h016;New Route
 2016-10-21;Switzerland;Umfahrung Lichtensteig und Wattwil;che.umflicwat;New Route
 2016-10-21;Switzerland;Umfahrung Teufen;che.umfteu;New Route
 2016-10-21;Switzerland;Zubringer Hausen;che.zubhau;New Route
@@ -7400,6 +7423,9 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2024-01-02;(USA) Pennsylvania;US 6;pa.us006;Relocated PA660_E label due to realignment of PA 660.  The former PA660_E label is now ChaRd.
+2024-01-02;(USA) Pennsylvania;PA 660;pa.pa660;Realigned between ChaRd (former US6_E) and *OldPA660 at east end of US 6 Concurrency.
+2024-01-02;(USA) Pennsylvania;PA 356;pa.pa356;Realigned south of MelRd between *OldPA356_B and LabVueRd.
 2023-11-18;(USA) Pennsylvania;PA 424;pa.pa424;Extended on west end along new roadway from I-81 to Commerce Dr (ComDr).
 2023-10-07;(USA) Pennsylvania;PA 352 Alternate Truck (Frazer);pa.pa352alttrkfra;Route added.
 2023-10-07;(USA) Pennsylvania;PA 401 Alternate Truck (West Pikeland Township);pa.pa401alttrkwes;Route added.
