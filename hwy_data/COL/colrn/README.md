@@ -47,7 +47,7 @@ Notes on routes:
 * 37CCB may be unsigned (there is no imagery available).
 * 40's west end in Buenaventura may be wrong. It's not clear how westbound traffic gets between the two pieces of Calle 7.
 * 40 may extend east a bit more to near Carimagua, but the road conditions are horrible and there is no imagery available.
-* 40Pue [is signed](https://www.google.com/maps/@6.1895912,-67.5011131,3a,15y,102.6h,83.81t/data=!3m6!1e1!3m4!1sAF1QipNuysxs3gOdwzEPreTEYTsbGMFXlwt9IN6wIPkq!2e10!7i1920!8i1080?entry=ttu). The east end may be wrong.
+* 40Car [is signed](https://www.google.com/maps/@6.1895912,-67.5011131,3a,15y,102.6h,83.81t/data=!3m6!1e1!3m4!1sAF1QipNuysxs3gOdwzEPreTEYTsbGMFXlwt9IN6wIPkq!2e10!7i1920!8i1080?entry=ttu). The east end may be wrong.
 * 4003A is the eastbound lanes east of Armenia.
 * 40CN03 [may be unsigned](https://www.google.com/maps/@4.5553599,-74.2592082,3a,16.5y,61.89h,83.06t/data=!3m6!1e1!3m4!1smEKuJhLjJ8pRte6sl9qPmQ!2e0!7i16384!8i8192?entry=ttu) (or may no longer be a national route?).
 * 40CN07 [seems to be unsigned](https://www.google.com/maps/@4.5818907,-74.2621097,3a,25.2y,211.54h,79.76t/data=!3m6!1e1!3m4!1stIDgmXbyBYtJ5emiKZ1ccg!2e0!7i16384!8i8192?entry=ttu) (pending completion of the extension?).
@@ -143,7 +143,7 @@ split routes:
 * RN40Gir: 4004 4005
 * (gap thru Bogotá)
 * RN40Vil: 4006 (gap thru Villavicencio) 4007 4008 4009 4010
-* RN40Pue: 4015
+* RN40Car: 4015
 * RN43Tes: 4301
 * RN43: 4305
 * RN43Ban: 4313
