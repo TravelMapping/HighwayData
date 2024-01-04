@@ -13,7 +13,7 @@ Sources:
 
 Notes on routes:
 * 13's north and south ends may be wrong.
-* 20CQ01 [is signed as 20CQ](https://www.google.com/maps/@1.7322203,-75.6441095,3a,15y,125.76h,86.11t/data=!3m6!1e1!3m4!1s0liKxFXRTv96WbXte0dC-g!2e0!7i16384!8i8192?entry=ttu).
+* 20CQ01 [is erroneously signed as 20CQ](https://www.google.com/maps/@1.7322203,-75.6441095,3a,15y,125.76h,86.11t/data=!3m6!1e1!3m4!1s0liKxFXRTv96WbXte0dC-g!2e0!7i16384!8i8192?entry=ttu).
 * 20HL01 may have a one-way pair in San Agustín.
 * 21CR04 [is signed as 21](https://www.google.com/maps/@8.9573157,-75.8601316,3a,37.2y,293.23h,86.85t/data=!3m6!1e1!3m4!1splLrdEhLRpUu8b_RsKvqaQ!2e0!7i16384!8i8192?entry=ttu) [as well as correctly](https://www.google.com/maps/@8.931763,-75.9007758,3a,15.3y,26.65h,74.39t/data=!3m6!1e1!3m4!1shSgRohOGwZzycQM0dn3lxQ!2e0!7i16384!8i8192?entry=ttu).
 * 23's north end in Montería may be wrong.
@@ -21,18 +21,18 @@ Notes on routes:
 * 23VL02-1 and 23VL02-2 may be unsigned.
 * 23VLB may be unsigned.
 * 25 may have a gap in Sincelejo, but the toll concession seems to be continuous.
-* 25ANI [is signed as 25B01](https://www.google.com/maps/@5.7368124,-75.6026485,3a,36.3y,40.35h,79.75t/data=!3m6!1e1!3m4!1s10u7DW2Wj5SsiK2j-C173w!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@5.7431355,-75.6142468,3a,15y,123.27h,75.39t/data=!3m6!1e1!3m4!1s96LC_8OlF5nn8B6lUMWhNw!2e0!7i16384!8i8192?entry=ttu) still stand on the old alignment.
+* 25ANI [is signed as part of 25B01](https://www.google.com/maps/@5.7368124,-75.6026485,3a,36.3y,40.35h,79.75t/data=!3m6!1e1!3m4!1s10u7DW2Wj5SsiK2j-C173w!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@5.7431355,-75.6142468,3a,15y,123.27h,75.39t/data=!3m6!1e1!3m4!1s96LC_8OlF5nn8B6lUMWhNw!2e0!7i16384!8i8192?entry=ttu) still stand on the old alignment.
 * 25AT04's north end may be wrong, but [km 37](https://www.google.com/maps/@11.0360821,-74.8325192,3a,15.6y,262.49h,82.07t/data=!3m6!1e1!3m4!1sxhOskj5IKKhd-5qDx9VF1A!2e0!7i16384!8i8192?entry=ttu) is posted.
 * 25CC15 and 25CC15-1 may be unsigned (there is no imagery available).
-* 25CCA (thru Santander de Quilichao) seems to be unsigned and may no longer exist.
+* 25CCA may be unsigned, but the latest available imagery is from 2014.
 * 25NR01's east end may be wrong (sources show it continuing just a bit farther, but pavement changes at the intersection).
 * 25NRE is the southbound lanes of 2502 north of Pasto.
-* 25VLC (Ginebra) seems to be unsigned and may no longer exist.
-* 25VLD (Sonso) seems to be unsigned and may no longer exist.
-* 25VLE (Tuluá) seems to be unsigned and may no longer exist.
-* 25VLF (Andalucia) seems to be unsigned and may no longer exist.
-* 25VLG (Bugalagrande) seems to be unsigned and may no longer exist.
-* 25VLH (Zarzal) [is signed as 2506](https://www.google.com/maps/@4.3897331,-76.0624464,3a,32.2y,60.83h,81.67t/data=!3m6!1e1!3m4!1s4d6QRgVD2LG_aIHqduZZxQ!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@4.3897972,-76.0689545,3a,15.8y,90.85h,66.69t/data=!3m6!1e1!3m4!1s8TM9oOuOvR3Yv71bnTxNGg!2e0!7i13312!8i6656?entry=ttu) still stand on the old alignment (as of 2013).
+* 25VLC may be unsigned, but the latest available imagery is from 2013.
+* 25VLD may be unsigned, but the latest available imagery is from 2013.
+* 25VLE [still has its old reference posts from 2505](https://www.google.com/maps/@4.090483,-76.1798963,3a,15y,66.79h,82.5t/data=!3m6!1e1!3m4!1smpdktUNkyhQtqae6n9SSXw!2e0!7i16384!8i8192?entry=ttu).
+* 25VLF may be unsigned.
+* 25VLG may be unsigned.
+* 25VLH (Zarzal) [is signed as 2506](https://www.google.com/maps/@4.3897331,-76.0624464,3a,32.2y,60.83h,81.67t/data=!3m6!1e1!3m4!1s4d6QRgVD2LG_aIHqduZZxQ!2e0!7i16384!8i8192?entry=ttu). [Old reference posts](https://www.google.com/maps/@4.3897972,-76.0689545,3a,15.8y,90.85h,66.69t/data=!3m6!1e1!3m4!1s8TM9oOuOvR3Yv71bnTxNGg!2e0!7i13312!8i6656?entry=ttu) still stand on the old alignment (as of 2013), so 25VLH is mapped as 25Zar.
 * 2602A's west end is near the 25/26 split on official maps, but [km 0 is posted to the south](https://www.google.com/maps/@2.6342685,-76.5281891,3a,15y,16.86h,83.79t/data=!3m6!1e1!3m4!1sZnSOy9cktBH10DdjSBcXSw!2e0!7i13312!8i6656?entry=ttu).
 * 26CC03 may be unsigned (there is no imagery available).
 * 26CC03-2 may be unsigned (there is no imagery available).
