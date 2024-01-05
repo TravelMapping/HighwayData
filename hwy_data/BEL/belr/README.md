@@ -40,6 +40,7 @@
 - `R34` is indicated on OSM + GM
 - `R35` is indicated on OSM + GM
 - `R36` is indicated on OSM + GM
+- `R36y` is indicated on OSM + signposted on 2022 GSV but no number on GM
 - `R40` is indicated on OSM + GM
 - `R41` is indicated on OSM + GM
 - `R42` is indicated on OSM + GM
@@ -57,6 +58,5 @@
 
 **NOTES TO NOT DRAFTED ROUTES:**
 - `R11a` is indicated on OSM but not on GM nor signposted on 2021 / 2023 GSV http://www.openstreetmap.org/?lat=51.172509&lon=4.393576
-- `R36y` is indicated on OSM + signposted on 2022 GSV but no number on GM http://www.openstreetmap.org/?lat=50.831977&lon=3.254732
 - `R51` is indicated on OSM + GM but is not signposted on 2023 GSV; signposted as `N588` at south end where it was signed as `R51` from 2017 to 2021 https://maps.app.goo.gl/QKgRmqCqbyVA958r7 Geoportal does also indicate `N588` https://geoportail.wallonie.be/walonmap#BBOX=154631.00028770455,156752.96286496302,121060.86901282558,122037.18346545448#SHARE=6D67076D5F362219E053D0AFA49DEF31
 - `R73` is not indicated on OSM nor GM nor signposted on 2021 GSV
