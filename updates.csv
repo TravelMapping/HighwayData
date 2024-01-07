@@ -160,6 +160,15 @@ date;region;route;root;description
 2016-05-01;Belarus;Minsk - Orsha Aŭtamabіĺnaja;blr.minorsaut;New Route
 2016-05-01;Belarus;Mіnskaja Kaĺcavaja Aŭtamabіĺnaja Daroha;blr.mkad;New Route
 2016-05-01;Belarus;Mіnskaja Kaĺcavaja Aŭtamabіĺnaja Daroha 2;blr.mkad2;New Route
+2024-01-06;Belgium;N575;bel.n575;Route extended at west end from R9 to N588
+2024-01-05;Belgium;B201;bel.b201;New Route
+2024-01-05;Belgium;B202;bel.b202;New Route
+2024-01-05;Belgium;B601;bel.b601;New Route
+2024-01-05;Belgium;R36y;bel.r036y;New Route
+2024-01-05;Belgium;N90 (Binche);bel.n090bin;Route extended at east end R9 to N588a
+2024-01-05;Belgium;N282;bel.n282;Route extended at east end from Vlezenbeek to N6 in Veeweyde
+2024-01-05;Belgium;N588;bel.n588;New Route
+2024-01-05;Belgium;N588a;bel.n588a;New Route
 2023-12-26;Belgium;A26;bel.a026;Route truncated at north end from exit 38 to exit 39
 2023-12-26;Belgium;A602;bel.a602;Route extended at south end from exit 38 to exit 39
 2023-12-26;Belgium;R22;bel.r022;Route relocated onto outer carriageways between R0's exit 3 and exit 4
@@ -4885,8 +4894,8 @@ date;region;route;root;description
 2016-05-01;Sweden;Västkustvägen;swe.vastkustvag;New Route
 2016-05-01;Sweden;Vätterleden;swe.vatled;New Route
 2016-05-01;Sweden;Ystadvägen, Malmo;swe.ystvag;New Route
-2024-01-04;Switzerland;H17;che.h017;Route relocated in Zürich from south of Irchelpark to north and east of Irchelpark between junction Bucheggerstrasse/Wehntalerstrasse and Winterthurerstrasse/Irchelstrasse
-2024-01-04;Switzerland;H17 (Universität Zürich);che.h017;Merged into main route
+2024-01-05;Switzerland;H17;che.h017;Route relocated in Zürich from south of Irchelpark to north and east of Irchelpark between junction Bucheggerstrasse/Wehntalerstrasse and Winterthurerstrasse/Irchelstrasse
+2024-01-05;Switzerland;H17 (Universität Zürich);che.h017;Merged into main route
 2024-01-03;Switzerland;H19;che.h019;Route extended at east end from A13 to H13
 2024-01-02;Switzerland;H12;che.h012;Route relocated from through Bulle and onto western bypass from Route de Riaz to Route de la Pâla
 2024-01-01;Switzerland;H1;che.h001;Route relocated from Bünzstraße and Kirchenrain, and onto Zentralstraße in Wohlen
@@ -7363,6 +7372,8 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2024-01-06;(USA) Oklahoma;OK 66B;ok.ok066b;From waypoint N3320, removed from a demolished west-southwesterly road and relocated due south to OK 66.
+2024-01-06;(USA) Oklahoma;OK 136;ok.ok136;Removed from Road II, Mile 30 & Road EE and relocated onto a direct north-south road between the Texas state line and Road EE.
 2023-10-16;(USA) Oklahoma;US 270;ok.us270;Removed from Chickasaw Ave in Wister and relocated onto a 2-lane southwestern bypass and bridge crossing Caston Creek about 0.3 mi to the south.
 2023-09-30;(USA) Oklahoma;OK 7;ok.ok007;Removed from Medcalf Rd and US 81 and relocated onto the Duncan Bypass.
 2022-11-17;(USA) Oklahoma;OK 344;ok.ok344;Extended northward from Exit 2 to US 64/412.
@@ -7748,6 +7759,12 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2024-01-05;(USA) Texas;I-20;tx.i020;Waypoint 138 moved from FM 715 (now labeled 137B) to TX 140/158.
+2024-01-05;(USA) Texas;I-40 BL (Amarillo);tx.i040blama;Waypoint TXLp335_W moved approx. 0.9 mi west from FM 2590.
+2024-01-05;(USA) Texas;TX 158;tx.tx158;Waypoint I-20(138) moved from FM 715 (now labeled I-20(137B)) to TX 140/158.
+2024-01-05;(USA) Texas;TX Loop 207;tx.lp0207;South end truncated from TX 146 to FM 565.
+2024-01-05;(USA) Texas;TX Loop 335;tx.lp0335;Removed from a demolished curve & FM 2590 (Soncy Rd) and relocated onto Hollywood Rd & Helium Rd between waypoints *OldTXLp335 & FM2590_N.
+2024-01-05;(USA) Texas;TX Loop 335 (Southwest Amarillo);tx.lp0335;Deleted and merged into main route.
 2023-10-18;(USA) Texas;US 83;tx.us083;Removed from US 83 Business between its north end and its ToUS83 point, and an unnumbered direct connector east of that point to the La Joya Bypass, and relocated onto the La Joya Bypass.
 2023-10-18;(USA) Texas;US 83 Business (McAllen);tx.us083busmca;Extended from a point labeled ToUS83 to the west end of the La Joya Bypass.
 2023-10-18;(USA) Texas;TX Loop 48;;Route deleted.
