@@ -9,4 +9,3 @@
 
 
 **NOTES TO ROUTES:**
-- `L335` Miehlen bypass u/c (to be completed by 2023)
