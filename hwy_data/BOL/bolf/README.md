@@ -1,6 +1,6 @@
 Bolivia Red Vial Fundamental
 
-[Example of a route marker](https://www.google.com/maps/@-16.309534,-67.9036088,3a,23.7y,66.58h,110.58t/data=!3m6!1e1!3m4!1sSQD1MTkuedefYSF_PGcVdw!2e0!7i13312!8i6656?entry=ttu) (extremely rare).
+[Example of a route marker](https://www.google.com/maps/@-16.309534,-67.9036088,3a,23.7y,66.58h,110.58t/data=!3m6!1e1!3m4!1sSQD1MTkuedefYSF_PGcVdw!2e0!7i13312!8i6656?entry=ttu) (extremely rare). [An older marker](https://www.google.com/maps/@-19.4849458,-65.8021869,3a,15.1y,53.12h,80.54t/data=!3m6!1e1!3m4!1s86t-6fNUwdD5WhA59leLgQ!2e0!7i13312!8i6656?entry=ttu) (posted Mexico-style on a guide sign).
 
 Sources:
 * Maps: http://www.abc.gob.bo/wp-content/uploads/2019/04/mapa_abc_2019_web.pdf (2019) https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/html/atlas20.html (2016)
