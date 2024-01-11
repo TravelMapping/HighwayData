@@ -16,7 +16,7 @@
 
 - `N4b`, is indicated on GM + wegenwiki (as signed on km posts) + verkeerscentrum.be but nothing on OSM nor GSV
 - `N4d`, `N27a`, `N30a` are indicated on OSM + wegenwiki (as signed on km posts) + geoportal, but not on GM nor GSV
-- `N56b` are indicated on OSM + geoportal, but not on GM nor GSV
+- `N56b`, `N60f`, `N60g`, `N68a`, `N640a` are indicated on OSM + geoportal, but not on GM nor GSV
 - `N37a` is indicated on GM + wegenwiki (as signed on km posts) but nothing on OSM nor GSV
 - `N214` is indicated on OSM + wegenwiki + confirmed as N route on verkeerscentrum.be (no number visible)
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
@@ -58,7 +58,6 @@
 - `N540` was signed at N57 according to 2010 GSV but not indicated on OSM nor GM; sign was removed according to Sep 2021 GSV
 - `N603` should exist according to wegenwiki but wikisara indicates it being the old numbering of new `N3g`
 - `N607a` should exist according to wikisara and GM but not on OSM nor GSV
-- `N611` should exist according to wegenwiki and wikisara but not indicacted on any map, I guess it was renumbered to `N676` which has different routes on OSM and GM
 - `N616` is signed concurrent on `N696` once
 - `N722a` seems to be downgraded like all routes in the center of Sint-Truiden
 - `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM
