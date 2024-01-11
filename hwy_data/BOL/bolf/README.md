@@ -1,6 +1,6 @@
 Bolivia Red Vial Fundamental
 
-[Example of a route marker](https://www.google.com/maps/@-16.309534,-67.9036088,3a,23.7y,66.58h,110.58t/data=!3m6!1e1!3m4!1sSQD1MTkuedefYSF_PGcVdw!2e0!7i13312!8i6656?entry=ttu) (extremely rare). [An older marker](https://www.google.com/maps/@-19.4849458,-65.8021869,3a,15.1y,53.12h,80.54t/data=!3m6!1e1!3m4!1s86t-6fNUwdD5WhA59leLgQ!2e0!7i13312!8i6656?entry=ttu) (posted Mexico-style on a guide sign).
+[Example of a route marker](https://www.google.com/maps/@-16.309534,-67.9036088,3a,23.7y,66.58h,110.58t/data=!3m6!1e1!3m4!1sSQD1MTkuedefYSF_PGcVdw!2e0!7i13312!8i6656?entry=ttu) (extremely rare). [An older marker](https://www.google.com/maps/@-19.4849458,-65.8021869,3a,15.1y,53.12h,80.54t/data=!3m6!1e1!3m4!1s86t-6fNUwdD5WhA59leLgQ!2e0!7i13312!8i6656?entry=ttu) (posted Mexico-style on a guide sign). [A Mexico-style distance sign](https://www.google.com/maps/@-17.6522017,-66.4597196,3a,17.2y,170.43h,86.86t/data=!3m6!1e1!3m4!1sO00-6Zi2ao45ehrndRQzKg!2e0!7i13312!8i6656?entry=ttu). [A more recent sign with markers](https://www.mapillary.com/app/?lat=-17.680936921111055&lng=-66.80246975249997&z=18.781043044844054&focus=photo&pKey=149130981146221&x=0.7360365590631918&y=0.5808810601030785&zoom=1.7191977077363896).
 
 Sources:
 * Maps: http://www.abc.gob.bo/wp-content/uploads/2019/04/mapa_abc_2019_web.pdf (2019) https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/html/atlas20.html (2016)
@@ -8,6 +8,7 @@ Sources:
 * Definitions: https://www.lexivox.org/norms/BO-DS-25134.html (1998)
 
 Notes on routes:
-* Routes are assumed to follow new bypasses where available.
-* F2 and F3 are supposed to end at the Plaza de Armas in La Paz. [The 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V20105.htm) appears to show Avenida Armentia, but this is one-way eastbound. So the assumption is westbound on Calle Ballivián and Calle Ingavi.
+* Routes are assumed to follow new bypasses where they clearly serve as the thru route.
+* F1's route thru Tarija is unclear. [The 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V50601.htm) shows it staying with Avenida Las Américas, but this may predate construction of the bypass.
 * F1/F5 is shown differently on [the 2016 map of Potosí](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V50101.htm), but it's not clear how it goes.
+* F2 and F3 are supposed to end at the Plaza de Armas in La Paz. [The 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V20105.htm) appears to show Avenida Armentia, but this is one-way eastbound. So the assumption is westbound on Calle Ballivián and Calle Ingavi.
