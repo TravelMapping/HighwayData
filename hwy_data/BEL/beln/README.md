@@ -11,10 +11,11 @@
 
 
 **NOTES TO DRAFTED ROUTES:**
-- `N5i`, `N8e`, `N8j`, `N32a`, `N34b`, `N36b`, `N36c`, `N53a`, `N60g`, `N72a`, `N86f`, `N90a`, `N388`, `N389`, `N408`, `N454a`, `N516`, `N516a`, `N568b`, `N568d`, `N568e`, `N585`, `N630a`, `N635`, `N644` (Amay), `N656`, `N658`, `N660a`, `N683a`, `N723a`, `N730a`, `N739a`, `N861`, `N864` and `N947a` should be signed according to OSM but not on GM nor GSV
+- `N5i`, `N8e`, `N8j`, `N32a`, `N34b`, `N36b`, `N36c`, `N53a`, `N60g`, `N76b`, `N86f`, `N90a`, `N388`, `N389`, `N408`, `N454a`, `N516`, `N516a`, `N568b`, `N568d`, `N568e`, `N585`, `N630a`, `N635`, `N644` (Amay), `N656`, `N658`, `N660a`, `N683a`, `N723a`, `N730a`, `N739a`, `N861`, `N864` and `N947a` should be signed according to OSM but not on GM nor GSV
 - `N22`, `N200`, `N324`, `N344`, `N346`, `N360`, `N386`, `N470a`, `N496`, `N502`, `N509`, `N521`, `N555`, `N581`, `N607`, `N661`, `N664`, `N686`, `N731`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
 
-- `N4b`, is indicated on GM + wegenwiki (as signed on km posts) + verkeerscentrum.be but nothing on OSM nor GSV
+- `N4b`, `N76d` are indicated on GM + wegenwiki (as signed on km posts) + verkeerscentrum.be but nothing on OSM nor GSV
+- `N76a` is indicated on GM + wegenwiki (but unsigned) + verkeerscentrum.be but nothing on OSM nor GSV
 - `N4d`, `N27a`, `N30a` are indicated on OSM + wegenwiki (as signed on km posts) + geoportal, but not on GM nor GSV
 - `N56b`, `N60f`, `N60g`, `N68a`, `N640a` are indicated on OSM + geoportal, but not on GM nor GSV
 - `N37a` is indicated on GM + wegenwiki (as signed on km posts) but nothing on OSM nor GSV
@@ -42,7 +43,7 @@
 
 **NOTES TO NOT DRAFTED ROUTES:**
 - `N149`, `N159`, `N183`, `N205`, `N206`, `N210`, `N215`, `N219`, `N220`, `N236`, `N247`, `N256`, `N259`, `N265`, `N274`, `N281`, `N289`, `N291`, `N292`, `N294`, `N295`, `N334`, `N335`, `N342`, `N422`, `N473`, `N556`, `N756`, `N764` and `N824` should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
-- `N57b`, `N213`, `N216`, `N225`, `N228`, `N235`, `N242`, `N244`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N378`, `N404`, `N426`, `N522`, `N578`, `N605`, `N628`, `N732` and `N869` should exist according to wegenwiki and wikisara but not indicated on any map
+- `N57b`, `N76a`, `N213`, `N216`, `N225`, `N228`, `N235`, `N242`, `N244`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N378`, `N404`, `N426`, `N522`, `N578`, `N605`, `N628`, `N732` and `N869` should exist according to wegenwiki and wikisara but not indicated on any map
 - `N384`, `N542`, `N551`, `N560`, `N590`, `N598`, `N600`, `N625`, `N662`, `N665`, `N767`, `N794`, `N795` and `N867` should exist according to wegenwiki but no info about location and not found on any map
 
 - `N24` is not signed according to wegenwiki and only indicated on GM
