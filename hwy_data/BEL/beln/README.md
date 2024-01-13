@@ -6,18 +6,18 @@
 - https://www.wegenwiki.nl/Gewestweg
 - http://routes.wikia.com/wiki/Route_nationale_belge
 - https://fr.wikipedia.org/wiki/Liste_des_routes_nationales_de_la_Belgique
-- https://www.wallonie.be/fr/vivre-en-wallonie/mobilite-et-infrastructures/reseau-routier [open: "Carte du réseau routier régional" (geoportal)]
+- https://www.wallonie.be/fr/vivre-en-wallonie/mobilite-et-infrastructures/reseau-routier      then open: "Carte du réseau routier régional" (geoportal)
 - https://www.verkeerscentrum.be/
 
 
 **NOTES TO DRAFTED ROUTES:**
-- `N5i`, `N8e`, `N8j`, `N32a`, `N34b`, `N36b`, `N36c`, `N53a`, `N60g`, `N76b`, `N86f`, `N90a`, `N388`, `N389`, `N408`, `N454a`, `N516`, `N516a`, `N568b`, `N568d`, `N568e`, `N585`, `N630a`, `N635`, `N644` (Amay), `N656`, `N658`, `N660a`, `N683a`, `N723a`, `N730a`, `N739a`, `N861`, `N864` and `N947a` should be signed according to OSM but not on GM nor GSV
+- `N5i`, `N8e`, `N8j`, `N32a`, `N34b`, `N36b`, `N36c`, `N60g`, `N76b`, `N388`, `N389`, `N408`, `N454a`, `N516`, `N516a`, `N568b`, `N568d`, `N568e`, `N585`, `N630a`, `N635`, `N644` (Amay), `N656`, `N658`, `N660a`, `N723a`, `N730a`, `N739a`, `N861`, `N864` and `N947a` should be signed according to OSM but not on GM nor GSV
 - `N22`, `N200`, `N324`, `N344`, `N346`, `N360`, `N386`, `N470a`, `N496`, `N502`, `N509`, `N521`, `N555`, `N581`, `N607`, `N661`, `N664`, `N686`, `N731`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
 
 - `N4b`, `N76d` are indicated on GM + wegenwiki (as signed on km posts) + verkeerscentrum.be but nothing on OSM nor GSV
 - `N76a` is indicated on GM + wegenwiki (but unsigned) + verkeerscentrum.be but nothing on OSM nor GSV
-- `N4d`, `N27a`, `N30a` are indicated on OSM + wegenwiki (as signed on km posts) + geoportal, but not on GM nor GSV
-- `N56b`, `N60f`, `N60g`, `N68a`, `N640a` are indicated on OSM + geoportal, but not on GM nor GSV
+- `N4d`, `N27a`, `N30a`, `N53a`, `N95b` are indicated on OSM + wegenwiki (as signed on km posts) + geoportal, but not on GM nor GSV
+- `N56b`, `N56c`, `N60f`, `N60g`, `N68a`, `N90d`, `N90g`, `N556f`, `N640a`, `N683a` are indicated on OSM + geoportal, but not on GM nor GSV
 - `N37a` is indicated on GM + wegenwiki (as signed on km posts) but nothing on OSM nor GSV
 - `N214` is indicated on OSM + wegenwiki + confirmed as N route on verkeerscentrum.be (no number visible)
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
@@ -44,14 +44,14 @@
 **NOTES TO NOT DRAFTED ROUTES:**
 - `N149`, `N159`, `N183`, `N205`, `N206`, `N210`, `N215`, `N219`, `N220`, `N236`, `N247`, `N256`, `N259`, `N265`, `N274`, `N281`, `N289`, `N291`, `N292`, `N294`, `N295`, `N334`, `N335`, `N342`, `N422`, `N473`, `N556`, `N756`, `N764` and `N824` should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
 - `N57b`, `N76a`, `N213`, `N216`, `N225`, `N228`, `N235`, `N242`, `N244`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N378`, `N404`, `N426`, `N522`, `N578`, `N605`, `N628`, `N732` and `N869` should exist according to wegenwiki and wikisara but not indicated on any map
-- `N384`, `N542`, `N551`, `N560`, `N590`, `N598`, `N600`, `N625`, `N662`, `N665`, `N767`, `N794`, `N795` and `N867` should exist according to wegenwiki but no info about location and not found on any map
+- `N384`, `N542`, `N551`, `N560`, `N590`, `N598`, `N600`, `N625`, `N662`, `N665`, `N767`, `N794`, `N795` should exist according to wegenwiki but no info about location and not found on any map
 
 - `N24` is not signed according to wegenwiki and only indicated on GM
 - `N34g` should exist (not being signed) according to wegenwiki (length of just 200m) and wikisara but it's not indicated on GSV nor GM and OSM seems to indicate it wrong (not from N34 to the station but from the station to the north)
 - `N34y` and `N34z` should be signed according to wegenwiki and wikisara but they are one-way lanes only and not on any map; opposite direction is signed `N34`
 - `N40a` should exist according to wegenwiki but is no longer indicated on OSM, GM nor verkeerscentrum.be as-of 2023 (assuming being downgraded)
 - Spa-Francorchamps Circuit bypass should be signed `N62c` according to OSM and GM but not on GSV, included to `N62`
-- `N95a` and `N95b` should be signed according to wegenwiki and OSM but they are one-way lanes only; opposite direction is signed `N95`
+- `N95a` should be signed according to wegenwiki and OSM but it is a one-way lane only; opposite direction is signed `N95`
 - `N96a` should be signed according to wegenwiki but not on any map
 - `N395a` and `N395b` are concurrent to R8, the northern carriageway is `N395a`, the southern carriageway `N395b`
 - `N402` has a length of 0.17km only and is signed `N462`
