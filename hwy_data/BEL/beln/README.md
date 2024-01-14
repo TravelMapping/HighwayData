@@ -13,9 +13,10 @@
 
 **NOTES TO DRAFTED ROUTES:**
 - `N5i`, `N8e`, `N8j`, `N32a`, `N34b`, `N36b`, `N36c`, `N60g`, `N76b`, `N388`, `N389`, `N408`, `N454a`, `N516`, `N516a`, `N568b`, `N568d`, `N568e`, `N585`, `N630a`, `N635`, `N644` (Amay), `N656`, `N658`, `N660a`, `N723a`, `N730a`, `N739a`, `N861`, `N864` and `N947a` should be signed according to OSM but not on GM nor GSV
-- `N22`, `N200`, `N324`, `N344`, `N346`, `N360`, `N386`, `N470a`, `N496`, `N502`, `N509`, `N521`, `N555`, `N581`, `N607`, `N661`, `N664`, `N686`, `N731`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
+- `N324`, `N344`, `N346`, `N360`, `N386`, `N470a`, `N496`, `N502`, `N509`, `N521`, `N555`, `N581`, `N607`, `N661`, `N664`, `N686`, `N731`, `N768`, `N802`, `N868`, `N876`, `N877`, `N880`, `N902`, `N963` and `N998` should be signed according to OSM and GM but not on GSV
 
 - `N4b`, `N76d` are indicated on GM + wegenwiki (as signed on km posts) + verkeerscentrum.be but nothing on OSM nor GSV
+- `N22`, `N200`, `N201` are indicated on OSM and GM but not on GSV nor wegenenverkeer.be
 - `N76a` is indicated on GM + wegenwiki (but unsigned) + verkeerscentrum.be but nothing on OSM nor GSV
 - `N4d`, `N27a`, `N30a`, `N53a`, `N95b` are indicated on OSM + wegenwiki (as signed on km posts) + geoportal, but not on GM nor GSV
 - `N56b`, `N56c`, `N60f`, `N60g`, `N68a`, `N90d`, `N90g`, `N556f`, `N640a`, `N683a` are indicated on OSM + geoportal, but not on GM nor GSV
