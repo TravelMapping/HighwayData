@@ -26,7 +26,7 @@
 - `N214` is indicated on OSM + wegenwiki + confirmed as N route on verkeerscentrum.be (no number visible)
 - `N235` is indicated on 2023 GSV + wegenenverkeer.be but not on any map
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
-- `N266` is signed at junction with `N266` according to GSV but only indicated on OSM further to the north; drafted according to GM
+- `N266` is signed at junction with `N266`(?) according to GSV but only indicated on OSM further to the north; drafted according to GM
 - `N290` is indicated `N296` on OSM but it's signed `N290` according to 2013/2018 GSV in Brussegem (not yet on 2009 GSV)
 - `N317` should exist according to OSM and GM but not on GSV; extends to west and east according to GM
 - `N504` routing in Péruwelz is different on OSM and GM but GSV confirms OSM
