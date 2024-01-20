@@ -24,9 +24,9 @@
 - `N37a` is indicated on GM + wegenwiki (as signed on km posts) but nothing on OSM nor GSV
 - `N149`, `N159`, `N259` are indicated on GM + wegenwiki + wegenenverkeer.be + verkeerscentrum.be but nothing on OSM nor GSV
 - `N214` is indicated on OSM + wegenwiki + confirmed as N route on verkeerscentrum.be (no number visible)
+- `N235` is indicated on 2023 GSV + wegenenverkeer.be but not on any map
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
-- `N246` is signed at junction with `N6` according to GSV from 2017 and later (km 0 post) but only indicated on OSM, not sure about east end
-- `N266` is signed at junction with `N266` according to GSV but only indicated on OSM further to the north; drafted according to GM
+- `N266` is signed at junction with `N266`(?) according to GSV but only indicated on OSM further to the north; drafted according to GM
 - `N290` is indicated `N296` on OSM but it's signed `N290` according to 2013/2018 GSV in Brussegem (not yet on 2009 GSV)
 - `N317` should exist according to OSM and GM but not on GSV; extends to west and east according to GM
 - `N504` routing in Péruwelz is different on OSM and GM but GSV confirms OSM
@@ -46,8 +46,8 @@
 - `N966` should exist according to OSM but not on GM or GSV (added because it's mentioned in a 2019 news article about construction works)
 
 **NOTES TO NOT DRAFTED ROUTES:**
-- `N205`, `N206`, `N210`, `N215`, `N219`, `N220`, `N236`, `N247`, `N256`, `N265`, `N274`, `N281`, `N289`, `N291`, `N292`, `N294`, `N295`, `N334`, `N335`, `N342`, `N422`, `N473`, `N556`, `N756`, `N764` and `N824` should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
-- `N57b`, `N76a`, `N213`, `N216`, `N225`, `N228`, `N235`, `N242`, `N244`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N378`, `N404`, `N426`, `N522`, `N578`, `N605`, `N628`, `N732` and `N869` should exist according to wegenwiki and wikisara but not indicated on any map
+- `N205`, `N206`, `N210`, `N215`, `N219`, `N220`, `N242`, `N256`, `N265`, `N274`, `N281`, `N289`, `N291`, `N292`, `N294`, `N295`, `N334`, `N335`, `N342`, `N422`, `N473`, `N556`, `N756`, `N764` and `N824` should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
+- `N57b`, `N76a`, `N213`, `N216`, `N225`, `N228`, `N236`, `N244`, `N247`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N378`, `N404`, `N426`, `N522`, `N578`, `N605`, `N628`, `N732` and `N869` should exist according to wegenwiki and wikisara but not indicated on any map
 - `N384`, `N542`, `N551`, `N560`, `N590`, `N598`, `N600`, `N625`, `N662`, `N665`, `N767`, `N794`, `N795` should exist according to wegenwiki but no info about location and not found on any map
 
 - One-way streets are generally not drafted when they have just an additional or different prefix, e.g. `N114a`, since that's what our rules say
