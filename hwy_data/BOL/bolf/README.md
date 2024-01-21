@@ -20,4 +20,9 @@ Notes on routes:
 * F7's route thru Cochabamba may be wrong, but seems to match [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V30101.htm).
 * F7 [was extended to Buena Vista in 2018](https://www.lexivox.org/norms/BO-DS-N3480.html), but this does not appear to be a good quality road (requiring a ford of the Río Piraí) and is not shown as F7 on the 2019 map.
 * F8's north end may be wrong.
+* F9's route thru San Ramon may be wrong ([the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V80702.htm) has the former alignment to the west).
+* F9's ferry location at Puerto Siles may be off.
+* F10's route thru San Ignacio de Velasco can be seen on [the 2016 San Miguel de Velasco map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V70302.htm).
+* F10's exact west end is unknown.
+* F10Vil's exact north end is unknown.
 * F23's north end [has been moved east](https://www.mapillary.com/app/?lat=-17.5147219&lng=-65.8338577&z=17&focus=photo&pKey=180591061269562&x=0.6059246270587711&y=0.6377716427514172&zoom=1.7191977077363896) from its location on [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V31403.htm).
