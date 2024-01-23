@@ -25,4 +25,5 @@ Notes on routes:
 * F10's route thru San Ignacio de Velasco can be seen on [the 2016 San Miguel de Velasco map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V70302.htm).
 * F10's exact west end is unknown.
 * F10Vil's exact north end is unknown.
+* F12's route thru Oruro may be off by a bit, especially downtown, but seems to match [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V40101.htm).
 * F23's north end [has been moved east](https://www.mapillary.com/app/?lat=-17.5147219&lng=-65.8338577&z=17&focus=photo&pKey=180591061269562&x=0.6059246270587711&y=0.6377716427514172&zoom=1.7191977077363896) from its location on [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V31403.htm).
