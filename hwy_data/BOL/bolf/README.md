@@ -26,4 +26,9 @@ Notes on routes:
 * F10's exact west end is unknown.
 * F10Vil's exact north end is unknown.
 * F12's route thru Oruro may be off by a bit, especially downtown, but seems to match [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V40101.htm).
+* F13's route thru Puerto Rico may be wrong; the route chosen seems to be the most traveled on aerials.
+* F16's exact endpoints at Ixiamas and Chivé may be wrong. It may be constructed west from Ixiamas for a way, but this is not shown on [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V21501.htm) or the 2019 map. The same is true of a possible extension north from F26 ([2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V20701.htm)).
+* F16 may go thru Tumupasa rather than around on the new variante.
 * F23's north end [has been moved east](https://www.mapillary.com/app/?lat=-17.5147219&lng=-65.8338577&z=17&focus=photo&pKey=180591061269562&x=0.6059246270587711&y=0.6377716427514172&zoom=1.7191977077363896) from its location on [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V31403.htm).
+* F26's route thru Guanay may be wrong.
+* F28's west end may be wrong.
