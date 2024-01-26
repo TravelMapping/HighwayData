@@ -39,8 +39,9 @@ Notes on routes:
 * F26's route thru Guanay may be wrong.
 * F28's west end may be wrong.
 * F32 is not on the 2019 map. Perhaps it no longer exists?
-* F34 (south from San José de Chiquitos) is shown as unbuilt on the 2019 map, so it has not been included. It is possible that some of it exists now.
+* F34 (south from San José de Chiquitos) is shown as unbuilt on the 2019 map and is not on [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V70702.htm), so it has not been included. It is possible that some of it exists now.
 * F35 may have a ferry across the Río Piraí near its north end.
 * F39's east end may be wrong.
 * F40's exact north end may be wrong.
 * F42 seems to be under construction, and may not exist yet.
+* F44's north end may be wrong.
