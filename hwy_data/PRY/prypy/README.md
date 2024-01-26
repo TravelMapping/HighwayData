@@ -1,13 +1,10 @@
-﻿**NAME:**
-Paraguay Rutas Nacionales
+Red Vial Paraguaya
 
-**FORUM THREAD:**
-- 
+Are routes signed?
 
+Sources:
+* Maps: https://www.mopc.gov.py/index.php/red-vial
+* Logs: 
+* Definitions: 
 
-**SOURCES:**
-- https://es.wikipedia.org/wiki/Rutas_nacionales_de_Paraguay#1._Rutas_Nacionales:
-	
-
-**NOTES TO ROUTES:**
-- Are routes signed?
+Notes on routes:
