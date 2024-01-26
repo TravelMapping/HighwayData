@@ -1,6 +1,6 @@
 Bolivia Red Vial Fundamental
 
-[Example of a route marker](https://www.google.com/maps/@-16.309534,-67.9036088,3a,23.7y,66.58h,110.58t/data=!3m6!1e1!3m4!1sSQD1MTkuedefYSF_PGcVdw!2e0!7i13312!8i6656?entry=ttu) (extremely rare). [An older marker](https://www.google.com/maps/@-19.4849458,-65.8021869,3a,15.1y,53.12h,80.54t/data=!3m6!1e1!3m4!1s86t-6fNUwdD5WhA59leLgQ!2e0!7i13312!8i6656?entry=ttu) (posted Mexico-style on a guide sign). [A Mexico-style distance sign](https://www.google.com/maps/@-17.6522017,-66.4597196,3a,17.2y,170.43h,86.86t/data=!3m6!1e1!3m4!1sO00-6Zi2ao45ehrndRQzKg!2e0!7i13312!8i6656?entry=ttu). [A more recent sign with markers](https://www.mapillary.com/app/?lat=-17.680936921111055&lng=-66.80246975249997&z=18.781043044844054&focus=photo&pKey=149130981146221&x=0.7360365590631918&y=0.5808810601030785&zoom=1.7191977077363896). [A standalone shield](https://www.google.com/maps/@-20.0127324,-63.5313997,3a,15y,15.2h,86.27t/data=!3m6!1e1!3m4!1sfVaZg3gF3jLNZoDrqP9Ssg!2e0!7i13312!8i6656?entry=ttu). [An erroneous (?) circular marker](https://www.google.com/maps/@-20.4528088,-63.278444,3a,15y,9.34h,89.98t/data=!3m6!1e1!3m4!1s6sH_zWRnhHVra6TU7AwL0w!2e0!7i13312!8i6656?entry=ttu). [A good view of one with a double horizontal line](https://www.google.com/maps/@-18.3011619,-64.1514718,3a,15.6y,200.61h,86.05t/data=!3m6!1e1!3m4!1sVJTp4UBdfY7mctPYoOSKzw!2e0!7i13312!8i6656?entry=ttu).
+[Example of a route marker](https://www.google.com/maps/@-16.309534,-67.9036088,3a,23.7y,66.58h,110.58t/data=!3m6!1e1!3m4!1sSQD1MTkuedefYSF_PGcVdw!2e0!7i13312!8i6656?entry=ttu) (extremely rare). [An older marker](https://www.google.com/maps/@-19.4849458,-65.8021869,3a,15.1y,53.12h,80.54t/data=!3m6!1e1!3m4!1s86t-6fNUwdD5WhA59leLgQ!2e0!7i13312!8i6656?entry=ttu) (posted Mexico-style on a guide sign). [A Mexico-style distance sign](https://www.google.com/maps/@-17.6522017,-66.4597196,3a,17.2y,170.43h,86.86t/data=!3m6!1e1!3m4!1sO00-6Zi2ao45ehrndRQzKg!2e0!7i13312!8i6656?entry=ttu). [A more recent sign with markers](https://www.mapillary.com/app/?lat=-17.680936921111055&lng=-66.80246975249997&z=18.781043044844054&focus=photo&pKey=149130981146221&x=0.7360365590631918&y=0.5808810601030785&zoom=1.7191977077363896). [A standalone shield](https://www.google.com/maps/@-20.0127324,-63.5313997,3a,15y,15.2h,86.27t/data=!3m6!1e1!3m4!1sfVaZg3gF3jLNZoDrqP9Ssg!2e0!7i13312!8i6656?entry=ttu). [An erroneous (?) circular marker](https://www.google.com/maps/@-20.4528088,-63.278444,3a,15y,9.34h,89.98t/data=!3m6!1e1!3m4!1s6sH_zWRnhHVra6TU7AwL0w!2e0!7i13312!8i6656?entry=ttu). [A good view of a blue one with a double horizontal line](https://www.mapillary.com/app/?lat=-18.1961115&lng=-65.1924379&z=17&focus=photo&pKey=212277914779952&x=0.7443315680142774&y=0.5591390032162581&zoom=1.7191977077363896).
 
 [A departmental route marker](https://www.google.com/maps/@-17.3818155,-65.8344502,3a,15.4y,208.09h,80.7t/data=!3m6!1e1!3m4!1sySUvnkh3UHRTRfmNO6SiIg!2e0!7i13312!8i6656?entry=ttu).
 
@@ -33,7 +33,14 @@ Notes on routes:
 * F16 may go thru Tumupasa rather than around on the new variante.
 * F19 may extend west to Chile, but sources including [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V20305.htm) show it ends in Charaña (at an unknown location).
 * F23's north end [has been moved east](https://www.mapillary.com/app/?lat=-17.5147219&lng=-65.8338577&z=17&focus=photo&pKey=180591061269562&x=0.6059246270587711&y=0.6377716427514172&zoom=1.7191977077363896) from its location on [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V31403.htm).
+* F24's ends may be wrong, especially the one north of Ichoa (a best guess based on [the 2016 map](https://www.udape.gob.bo/portales_html/portalSIG/atlasUdape1234567/atlas20_2016/maps/V31003.htm)).
+* F24 appears to have a ford north of Santísima Trinidad, but it may be a ferry.
+* F25's route thru Irupana may be wrong.
 * F26's route thru Guanay may be wrong.
 * F28's west end may be wrong.
+* F32 is not on the 2019 map. Perhaps it no longer exists?
+* F34 (south from San José de Chiquitos) is shown as unbuilt on the 2019 map, so it has not been included. It is possible that some of it exists now.
+* F35 may have a ferry across the Río Piraí near its north end.
 * F39's east end may be wrong.
+* F40's exact north end may be wrong.
 * F42 seems to be under construction, and may not exist yet.
