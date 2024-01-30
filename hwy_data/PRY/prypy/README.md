@@ -15,3 +15,6 @@ Sources show both bypass and thru routes being part of the numbered route. The m
 * PY04 may not be on the Pilar bypass; the KML shows PY 19 using both routes, but nothing on the southeast quadrant of the bypass (did it open later?).
 * PY04's west end may be wrong; the KML shows a partly-unbuilt extension to Laguna Sirena.
 * PY12's route just east of PY05 may be wrong.
+* PY14's east end may be wrong.
+* PY16's route near Filadelfia may be wrong; sources show it much straighter than roads allow for.
+* PY17 may have other short segments in the gap.
