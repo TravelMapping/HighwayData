@@ -14,11 +14,11 @@
 **NOTES TO DRAFTED ROUTES:**
 - `N4b`, `N76d`, `N149`, `N159`, `N259`, `N342`, `N463` and `N764` are indicated on GM + wegenwiki + wegenenverkeer.be + verkeerscentrum.be but nothing on OSM nor GSV
 - `N4d`, `N27a`, `N30a`, `N53a` and `N95b` are indicated on OSM + wegenwiki (as signed on km posts) + geoportal, but not on GM nor GSV
-- `N5i`, `N20a`, `N60g`, `N568b`, `N568d`, `N568e`, `N585`, `N610b`, `N627d`, `N630a`, `N633a`, `N633b`, `N646a`, `N660a`, `N671a` and `N671b`, `N864` are only indicated on OSM + geoportal, but not on GM nor GSV
+- `N5i`, `N20a`, `N60g`, `N568b`, `N568d`, `N568e`, `N585`, `N610b`, `N627d`, `N630a`, `N633a`, `N633b`, `N646a`, `N660a`, `N671a` and `N671b`, `N820`, `N864` are only indicated on OSM + geoportal, but not on GM nor GSV
 - `N8e`, `N8j`, `N32a`, `N34b`, `N36b`, `N36c`, `N101d`, `N139a` and `N454a`are indicated on OSM + wegenenverkeer.be, but not on GM nor GSV
 - `N22`, `N200`, `N201` are indicated on OSM and GM but not on GSV nor wegenenverkeer.be
 - `N37a` is indicated on GM + wegenwiki (as signed on km posts) but nothing on OSM nor GSV
-- `N56b`, `N56c`, `N60f`, `N60g`, `N68a`, `N90d`, `N90g`, `N516`, `N556f`, `N640a`, `N683a` are indicated on OSM + geoportal, but not on GM nor GSV
+- `N56b`, `N56c`, `N60f`, `N60g`, `N68a`, `N90d`, `N90g`, `N516`, `N556f`, `N640a`, `N683a`, `N871a` are indicated on OSM + geoportal, but not on GM nor GSV
 - `N214`, `N404` and `N408` are indicated on OSM + wegenwiki + confirmed as N route on verkeerscentrum.be (no number visible)
 - `N235` is indicated on 2023 GSV + wegenenverkeer.be but not on any map
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
@@ -39,7 +39,6 @@
 - `N730a` is only indicated on OSM + verkeerscentrum.be
 - `N732` is only indicated on 2023 GSV and wegenenverkeer.be but not on OSM nor GM
 - `N739`, `N739a` and `N754` routing in Stevoort is not clear, gone with GSV for `N754` and OSM for `N739` and `N739a`
-- `N89`/`N820`/`N833`/`N834`/`N860` in La Roche-en-Ardenne: Signage has been changed as you can see on GSV. Moving the position and signs disappear... I've gone with OSM, no evidence that `N820` is really signed.
 - `N862` (partially P7 on signs) should exist according to OSM but not on GM nor GSV
 - `N905` should exist according to OSM and GM but not on GSV (`N80` towards `N80` and `N90` towards `N90` only)
 - `N917` should exist according to OSM but not on GM or GSV (GSV shows a `N947` sign)
@@ -69,4 +68,3 @@
 - `N694` should exist according to wegenwiki but was likely what is `N3i` now
 - `N722a` seems to be downgraded like all routes in the center of Sint-Truiden
 - `N794` and `N795` are only indicated on wegenwiki and wegenenverkeer.be but not on OSM nor GM nor GSV
-- `N832` is only signed once at `N865` junction in Cugnon but the route is not indicated on OSM nor GM
