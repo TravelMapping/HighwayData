@@ -6,7 +6,6 @@ Red Vial Paraguaya
 
 Sources:
 * Maps: https://www.mopc.gov.py/index.php/red-vial (the KML file is more up-to-date than the maps)
-* Logs: 
 * Definitions: https://drive.google.com/file/d/1RjObDssBrt5bAKarEtFHbuWAxbdzfVnl/view?usp=drive_link
 
 Notes on routes:
@@ -18,3 +17,5 @@ Sources show both bypass and thru routes being part of the numbered route. The m
 * PY14's east end may be wrong.
 * PY16's route near Filadelfia may be wrong; sources show it much straighter than roads allow for.
 * PY17 may have other short segments in the gap.
+* PY21's east end may be wrong.
+* PY21 is assumed to use the new alignment east of Vaquería.
