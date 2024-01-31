@@ -17,5 +17,6 @@ Sources show both bypass and thru routes being part of the numbered route. The m
 * PY14's east end may be wrong.
 * PY16's route near Filadelfia may be wrong; sources show it much straighter than roads allow for.
 * PY17 may have other short segments in the gap.
+* PY18 is assumed to use the new alignment to Puerto Mayor Otaño east of PY07. Its east end may be wrong.
 * PY21's east end may be wrong.
 * PY21 is assumed to use the new alignment east of Vaquería.
