@@ -8,5 +8,6 @@ Sources:
 Notes on routes:
 
 Sources are sparse so details may be incorrect. Some minor (ramal) routes may be in the wrong place on the 2015 maps, such as R10 and R11 near the east end of T9.
+* T5 may end in San Cristóbal, with T7 continuing to T1 (or T1 may have been moved to the autopista like OSM shows). The 2015 map does not place a marker on the road northwest from San Cristóbal.
 * T9 is assumed to use the realignment in Barcelona, apparently replacing R49.
 * T9 is assumed to stay on Avenida Perimetral in Cumaná (the 2015 map shows Avenida Fernández de Zerpa and Avenida Gran Mariscal).
