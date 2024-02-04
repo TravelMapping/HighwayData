@@ -9,6 +9,7 @@ Notes on routes:
 
 Sources are sparse so details may be incorrect. Some minor (ramal) routes may be in the wrong place on the 2015 maps, such as R10 and R11 near the east end of T9.
 * T3 is assumed to use the new bypass around Tucacas.
+* T5 is assumed to have replaced R38 west of Puente Chururú.
 * T5 may end in San Cristóbal, with T7 continuing to T1 (or T1 may have been moved to the autopista like OSM shows). The 2015 map does not place a marker on the road northwest from San Cristóbal.
 * T7's route thru Guarico is unknown.
 * T7 is assumed to use the new alignment at Tovar.
