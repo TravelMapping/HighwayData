@@ -15,3 +15,8 @@ Sources are sparse so details may be incorrect. Some minor (ramal) routes may be
 * T7 is assumed to use the new alignment at Tovar.
 * T9 is assumed to use the realignment in Barcelona, apparently replacing R49.
 * T9 is assumed to stay on Avenida Perimetral in Cumaná (the 2015 map shows Avenida Fernández de Zerpa and Avenida Gran Mariscal).
+* T11 is assumed to use the realignments south of Lago de Valencia and around San Sebastián. It may bypass downtown Villa de Cura.
+* T11 and T12 are shown going thru downtown Altagracia de Orituco on the 2015 map (Miranda shows it more clearly than Guárico). T11's western approach has been almost definitely moved south from the route via Botalón, but from there it has been mapped along the route thru town, but with a short bypass that appears to carry thru traffic on aerials. T12 has also been mapped via this short bypass.
+* T12 does not seem to exist as shown on the 2015 map just north of Chaguaramas, so it is assumed to reach T13 by using R4.
+* T12's ferry location across the Río Orinoco may be wrong.
+* T12's exact south end may be wrong.
