@@ -17,7 +17,7 @@ Sources are sparse so details may be incorrect. Some minor (ramal) routes may be
 * T6's north end may be wrong.
 * T7's route thru Guarico is unknown.
 * T7 is assumed to use the new alignment at Tovar.
-* T8's exact endpoints at El Yagual and Guachara may be wrong.
+* T8's exact endpoints at Arismendi, El Yagual, and Guachara may be wrong.
 * T9 is assumed to use the realignment in Barcelona, apparently replacing R49.
 * T9 is assumed to stay on Avenida Perimetral in Cumaná (the 2015 map shows Avenida Fernández de Zerpa and Avenida Gran Mariscal).
 * T10 may still be on the old alignment north of Upata; the 2015 map shows both T10 and the autopista on the old alignment.
@@ -28,4 +28,8 @@ Sources are sparse so details may be incorrect. Some minor (ramal) routes may be
 * T12's exact south end may be wrong.
 * T13 seems to have a gap north of Anaco.
 * T14 does not seem to be built south of Zaraza. A portion may exist south of Santa María de Ipire, but it is unclear.
+* T14's end at Las Bonitas may be wrong.
+* T15 seems to have been realigned east of El Tigre, replacing R13 and part of R12.
+* T16 is assumed to use the new bypass of Soledad. It may or may not bypass Ciudad Bolívar.
+* T19 is assumed to bypass Guasdualito.
 * T21's east end may be wrong.
