@@ -8,6 +8,7 @@
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2016_10_96_2071.html
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2018_11_103_2021.html
 - https://narodne-novine.nn.hr/clanci/sluzbeni/2022_04_41_510.html
+- https://narodne-novine.nn.hr/clanci/sluzbeni/2023_06_59_1004.html
 - https://geoportal.hrvatske-ceste.hr
 
 
@@ -17,4 +18,3 @@
 - `D431` is 400m only, exact location unknown: "Slavonski Brod (DC53 – GPC zona Đ. Đaković)"
 - `D433` routing unknown despite being well described: "Solin (DC432) – Ulica salonitanskih mučenika – Zagorski put – Ulica domovinskog rata – Split (DC8)"
 - `D542` routing unknown, not yet existing? "Zajci (DC64) – Polje Čepić (DC500)"
-- `D8`/`D674` Pelješki bridge numbering: https://www.skyscrapercity.com/threads/440820/post-179777012
