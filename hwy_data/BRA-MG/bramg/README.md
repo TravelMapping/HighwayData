@@ -5,41 +5,41 @@ Sources:
 * Logs: https://www.der.mg.gov.br/transportes/rodovias
 
 Notes on routes:
-* CMG-120 
-* CMG-122 
-* CMG-135 
-* CMG-146 
-* CMG-154 
-* CMG-251 
-* CMG-259 
-* CMG-262 
-* CMG-265 
-* CMG-267 
-* CMG-342 
-* CMG-352 
-* CMG-354 
-* CMG-356 
-* CMG-367 
-* CMG-369 
-* CMG-381 
-* CMG-383 (note also the entry after 499)
-* CMG-393 
-* CMG-418 
-* CMG-451 
-* CMG-452 
-* CMG-455 
-* CMG-458 
-* CMG-460 
-* CMG-462 
-* CMG-464 
-* CMG-479 
-* CMG-482 
-* CMG-485 
-* CMG-491 
-* CMG-494 
-* CMG-496 
-* CMG-497 
-* CMG-499
+* MGC-120 
+* MGC-122 
+* MGC-135 
+* MGC-146 
+* MGC-154 
+* MGC-251 
+* MGC-259 
+* MGC-262 
+* MGC-265 
+* MGC-267 
+* MGC-342 
+* MGC-352 
+* MGC-354 
+* MGC-356 
+* MGC-367 
+* MGC-369 
+* MGC-381 
+* MGC-383 (note also the entry after 499)
+* MGC-393 
+* MGC-418 
+* MGC-451 
+* MGC-452 
+* MGC-455 
+* MGC-458 
+* MGC-460 
+* MGC-462 
+* MGC-464 
+* MGC-479 
+* MGC-482 
+* MGC-485 
+* MGC-491 
+* MGC-494 
+* MGC-496 
+* MGC-497 
+* MGC-499
 * MG-010 [is signed](https://www.google.com/maps/@-19.8087314,-43.9501487,3a,47.5y,359.99h,101.59t/data=!3m6!1e1!3m4!1s8RrWJ3M-jNKFHwy__JsWzQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-020 
 * MG-030 
