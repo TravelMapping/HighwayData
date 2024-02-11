@@ -31,7 +31,7 @@ Notes on routes:
 * MGC-458 
 * MGC-460 
 * MGC-462 
-* MGC-464 
+* MGC-464 [is signed](https://www.google.com/maps/@-19.8992058,-47.3767082,3a,20.1y,344.81h,80.31t/data=!3m6!1e1!3m4!1s208wMy6cpyWaLaTYWLcD7A!2e0!7i16384!8i8192?entry=ttu).
 * MGC-479 
 * MGC-482 
 * MGC-485 
@@ -89,7 +89,7 @@ Notes on routes:
 * MG-235 
 * MG-238 
 * MG-252 
-* MG-255 
+* MG-255 [is signed](https://www.google.com/maps/@-19.8906191,-49.3713246,3a,15.1y,171.88h,78.79t/data=!3m6!1e1!3m4!1sZ4Iq--Kvq2OV6r9pwcr9ew!2e0!7i16384!8i8192?entry=ttu).
 * MG-260 
 * MG-262 
 * MG-265 
@@ -151,7 +151,7 @@ Notes on routes:
 * MG-435 
 * MG-436 
 * MG-437 
-* MG-438 
+* MG-438 may be unsigned.
 * MG-439 
 * MG-440 
 * MG-441 
@@ -355,7 +355,7 @@ Notes on routes:
 * LMG-852 
 * LMG-853 
 * LMG-855 
-* LMG-856 
+* LMG-856 may be unsigned.
 * LMG-857 
 * LMG-858 
 * LMG-860 
