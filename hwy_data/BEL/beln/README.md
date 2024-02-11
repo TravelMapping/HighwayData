@@ -28,7 +28,7 @@
 - `N388` is indicated on wegenwiki + verkeerscentrum.be + wegenenverkeer.be but not on OSM nor GM nor GSV (OSM has it on a parallel route)
 - `N389` is indicated on wegenwiki + verkeerscentrum.be + wegenenverkeer.be + OSM but not on GM nor GSV
 - `N504` has two branches in Péruwelz according to OSM but only one on GM; no GSV confirmation for either route but geoportal + verkeerscentrum.be confirm as it is drafted
-- `N569`, `N617d`, `N617g`, `N947b` are only indicated on wikisara + geoportal
+- `N569`, `N617d`, `N617g`, `N878a`, `N947b` are only indicated on wikisara + geoportal
 - `N578`, `N580a` are only indicated on wegenwiki + wikisara + geoportal
 - `N588` appeared on 2023 GSV replacing some `N577` signs + indicated on geoportal
 - `N588a`appeared on 2023 GSV + indicated on geoportal
@@ -39,7 +39,6 @@
 - `N730a` is only indicated on OSM + verkeerscentrum.be
 - `N732` is only indicated on 2023 GSV and wegenenverkeer.be but not on OSM nor GM
 - `N739`, `N739a` and `N754` routing in Stevoort is not clear, gone with GSV for `N754` and OSM for `N739` and `N739a`
-- `N862` (partially P7 on signs) should exist according to OSM but not on GM nor GSV
 - `N905` should exist according to OSM and GM but not on GSV (`N80` towards `N80` and `N90` towards `N90` only)
 - `N917` should exist according to OSM but not on GM or GSV (GSV shows a `N947` sign)
 - `N947a` is only indicated on OSM and wikisara but not on GM nor GSV; geoportal indicates it being `N947c`
@@ -47,7 +46,7 @@
 
 **NOTES TO NOT DRAFTED ROUTES:**
 - `N205`, `N206`, `N210`, `N215`, `N219`, `N220`, `N242`, `N256`, `N265`, `N274`, `N281`, `N289`, `N291`, `N292`, `N294`, `N295`, `N422` and `N556` should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
-- `N57b`, `N76a`, `N213`, `N216`, `N225`, `N228`, `N236`, `N244`, `N247`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N426`, `N522`, `N578`, `N605` and `N869` should exist according to wegenwiki and wikisara but not indicated on any map
+- `N57b`, `N76a`, `N213`, `N216`, `N225`, `N228`, `N236`, `N244`, `N247`, `N248`, `N254`, `N284`, `N288`, `N293`, `N296`, `N297`, `N298`, `N299`, `N310`, `N426`, `N522`, `N578` and `N605` should exist according to wegenwiki and wikisara but not indicated on any map
 - `N542`, `N560`, `N699` should exist according to wegenwiki but not on any map
 
 - One-way streets are generally not drafted when they have just an additional or different prefix, e.g. `N114a`, since that's what our rules say
@@ -68,3 +67,4 @@
 - `N694` should exist according to wegenwiki but was likely what is `N3i` now
 - `N722a` seems to be downgraded like all routes in the center of Sint-Truiden
 - `N794` and `N795` are only indicated on wegenwiki and wegenenverkeer.be but not on OSM nor GM nor GSV
+- `N869` is indicated on wegenwiki and wikisara but not on geoportal, OSM nor GM
