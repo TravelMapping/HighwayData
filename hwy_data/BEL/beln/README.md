@@ -39,9 +39,8 @@
 - `N730a` is only indicated on OSM + verkeerscentrum.be
 - `N732` is only indicated on 2023 GSV and wegenenverkeer.be but not on OSM nor GM
 - `N739`, `N739a` and `N754` routing in Stevoort is not clear, gone with GSV for `N754` and OSM for `N739` and `N739a`
-- `N905` should exist according to OSM and GM but not on GSV (`N80` towards `N80` and `N90` towards `N90` only)
-- `N917` should exist according to OSM but not on GM or GSV (GSV shows a `N947` sign)
-- `N947a` is only indicated on OSM and wikisara but not on GM nor GSV; geoportal indicates it being `N947c`
+- `N947a` is only indicated on geoportal and wikisara, OSM and wegenwiki indicate it being `N917`, not on GM nor GSV
+- `N947c` is only indicated on geoportal and wikisara, OSM and wegenwiki indicate it being `N947a`, not on GM nor GSV
 - `N966` should exist according to OSM but not on GM nor GSV (added because it's mentioned in a 2019 news article about construction works)
 
 **NOTES TO NOT DRAFTED ROUTES:**
