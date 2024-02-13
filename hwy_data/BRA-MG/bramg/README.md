@@ -354,7 +354,7 @@ Notes on routes:
 * LMG-850 
 * LMG-852 
 * LMG-853 
-* LMG-855 
+* LMG-855 may be unsigned.
 * LMG-856 may be unsigned.
 * LMG-857 
 * LMG-858 
