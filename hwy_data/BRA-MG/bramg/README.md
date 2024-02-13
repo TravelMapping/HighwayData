@@ -41,7 +41,7 @@ Notes on routes:
 * MGC-497 
 * MGC-499
 * MG-010 [is signed](https://www.google.com/maps/@-19.8087314,-43.9501487,3a,47.5y,359.99h,101.59t/data=!3m6!1e1!3m4!1s8RrWJ3M-jNKFHwy__JsWzQ!2e0!7i16384!8i8192?entry=ttu).
-* MG-020 
+* MG-020 [is signed](https://www.google.com/maps/@-19.7600063,-43.8635867,3a,15.6y,212.61h,91.85t/data=!3m6!1e1!3m4!1sQnyfn0Vp-6ibA_9Zniulbw!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the new bypass around Santa Luzia, which is signed for Jaboticatubas and Belo Horizonte.
 * MG-030 
 * MG-040 
 * MG-050 
