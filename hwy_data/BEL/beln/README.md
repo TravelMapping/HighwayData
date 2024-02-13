@@ -14,22 +14,22 @@
 **NOTES TO DRAFTED ROUTES:**
 - `N4b`, `N76d`, `N149`, `N159`, `N259`, `N342`, `N463` and `N764` are indicated on GM + wegenwiki + wegenenverkeer.be + verkeerscentrum.be but nothing on OSM nor GSV
 - `N4d`, `N27a`, `N30a`, `N53a` and `N95b` are indicated on OSM + wegenwiki (as signed on km posts) + geoportal, but not on GM nor GSV
-- `N5i`, `N20a`, `N60g`, `N568b`, `N568d`, `N568e`, `N585`, `N610b`, `N627d`, `N630a`, `N633a`, `N633b`, `N646a`, `N660a`, `N671a` and `N671b`, `N820`, `N864` are only indicated on OSM + geoportal, but not on GM nor GSV
+- `N5i`, `N20a`, `N60g`, `N568b`, `N568d`, `N568e`, `N585`, `N610b`, `N627d`, `N630a`, `N633a`, `N633b`, `N646a`, `N660a`, `N671a`, `N671b`, `N820` and `N864` are only indicated on OSM + geoportal, but not on GM nor GSV
 - `N8e`, `N8j`, `N32a`, `N34b`, `N36b`, `N36c`, `N101d`, `N139a` and `N454a`are indicated on OSM + wegenenverkeer.be, but not on GM nor GSV
-- `N22`, `N200`, `N201` are indicated on OSM and GM but not on GSV nor wegenenverkeer.be
+- `N22`, `N200` and `N201` are indicated on OSM and GM but not on GSV nor wegenenverkeer.be
 - `N37a` is indicated on GM + wegenwiki (as signed on km posts) but nothing on OSM nor GSV
-- `N56b`, `N56c`, `N60f`, `N60g`, `N68a`, `N90d`, `N90g`, `N516`, `N556f`, `N640a`, `N683a`, `N871a` are indicated on OSM + geoportal, but not on GM nor GSV
+- `N56b`, `N56c`, `N60f`, `N60g`, `N68a`, `N90d`, `N90g`, `N516`, `N556f`, `N640a`, `N683a`, `N871a` and `N966` are indicated on OSM + geoportal, but not on GM nor GSV
 - `N214`, `N404` and `N408` are indicated on OSM + wegenwiki + confirmed as N route on verkeerscentrum.be (no number visible)
 - `N235` is indicated on 2023 GSV + wegenenverkeer.be but not on any map
 - `N241` should exist according to OSM east of `N261`only but not on GM/GSV; GM only west of `N261` but not up to `N6`; drafted according to OSM only
 - `N266` is signed at junction with `N261` according to GSV but only indicated on OSM further to the north; drafted according to GM
 - `N290` is indicated `N296` on OSM but it's signed `N290` according to 2013/2018 GSV in Brussegem (not yet on 2009 GSV)
-- `N334`, `N335` are indicated on GM + wegenwiki + verkeerscentrum.be + wegenenverkeer.be but nothing on OSM nor GSV
+- `N334` and `N335` are indicated on GM + wegenwiki + verkeerscentrum.be + wegenenverkeer.be but nothing on OSM nor GSV
 - `N388` is indicated on wegenwiki + verkeerscentrum.be + wegenenverkeer.be but not on OSM nor GM nor GSV (OSM has it on a parallel route)
 - `N389` is indicated on wegenwiki + verkeerscentrum.be + wegenenverkeer.be + OSM but not on GM nor GSV
 - `N504` has two branches in Péruwelz according to OSM but only one on GM; no GSV confirmation for either route but geoportal + verkeerscentrum.be confirm as it is drafted
-- `N569`, `N617d`, `N617g`, `N878a`, `N947b` are only indicated on wikisara + geoportal
-- `N578`, `N580a` are only indicated on wegenwiki + wikisara + geoportal
+- `N569`, `N617d`, `N617g`, `N878a` and `N947b` are only indicated on wikisara + geoportal
+- `N578` and `N580a` are only indicated on wegenwiki + wikisara + geoportal
 - `N588` appeared on 2023 GSV replacing some `N577` signs + indicated on geoportal
 - `N588a`appeared on 2023 GSV + indicated on geoportal
 - `N631` exists according to wegenwiki + wikisara + geoportal + 2023 GSV but not indicated on OSM nor GM
@@ -41,7 +41,6 @@
 - `N739`, `N739a` and `N754` routing in Stevoort is not clear, gone with GSV for `N754` and OSM for `N739` and `N739a`
 - `N947a` is only indicated on geoportal and wikisara, OSM and wegenwiki indicate it being `N917`, not on GM nor GSV
 - `N947c` is only indicated on geoportal and wikisara, OSM and wegenwiki indicate it being `N947a`, not on GM nor GSV
-- `N966` should exist according to OSM but not on GM nor GSV (added because it's mentioned in a 2019 news article about construction works)
 
 **NOTES TO NOT DRAFTED ROUTES:**
 - `N205`, `N206`, `N210`, `N215`, `N219`, `N220`, `N242`, `N256`, `N265`, `N274`, `N281`, `N289`, `N291`, `N292`, `N294`, `N295`, `N422` and `N556` should exist according to wegenwiki, wikisara and GM but not on OSM nor GSV
