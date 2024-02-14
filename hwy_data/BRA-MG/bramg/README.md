@@ -40,6 +40,7 @@ Notes on routes:
 * MGC-496 
 * MGC-497 
 * MGC-499
+* The exact endpoints and routes of MG-010, MG-020, MG-030, and MG-040 in Belo Horizonte may be wrong. The interactive map shows them ending at or near the Rodoviária (bus station), but using streets that cannot be followed in one or both directions.
 * MG-010 [is signed](https://www.google.com/maps/@-19.8087314,-43.9501487,3a,47.5y,359.99h,101.59t/data=!3m6!1e1!3m4!1s8RrWJ3M-jNKFHwy__JsWzQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-020 [is signed](https://www.google.com/maps/@-19.7600063,-43.8635867,3a,15.6y,212.61h,91.85t/data=!3m6!1e1!3m4!1sQnyfn0Vp-6ibA_9Zniulbw!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the new bypass around Santa Luzia, which is signed for Jaboticatubas and Belo Horizonte.
 * MG-030 [is signed](https://www.google.com/maps/@-19.986321,-43.9445528,3a,75y,155.79h,98.1t/data=!3m6!1e1!3m4!1sm4CcW4oxsJKdA0MGDaTj1Q!2e0!7i16384!8i8192?entry=ttu).
@@ -153,10 +154,10 @@ Notes on routes:
 * MG-437 
 * MG-438 may be unsigned.
 * MG-439 
-* MG-440 
+* MG-440 may be unsigned.
 * MG-441 
 * MG-442 
-* MG-443 
+* MG-443 [is signed](https://www.google.com/maps/@-20.5146447,-43.7917472,3a,15y,96.11h,88.95t/data=!3m6!1e1!3m4!1suTLat86o3VqGV2qONW6G-w!2e0!7i16384!8i8192?entry=ttu).
 * MG-444 
 * MG-445 
 * MG-446 
