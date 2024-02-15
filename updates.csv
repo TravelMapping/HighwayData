@@ -1,5 +1,4 @@
 date;region;route;root;description
-2024-02-09;Uruguay;RN11 (San José de Mayo (bypass));ury.rn011jos;Route added
 2023-09-19;Albania;A1 (Klos);alb.a001;Route extended at south end from SH30 at Rreshen to southern junction with SH1, and at north end from SH5 to Kosovo border
 2023-09-19;Albania;A1 (Thumane);alb.a001;Route merged with main segment
 2023-09-19;Albania;A3;alb.a003;Route truncated at north end from SH56 to SH3 at Lundër
@@ -2910,7 +2909,7 @@ date;region;route;root;description
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan;E125;;Deleted route
 2015-07-15;(Kazakhstan) Soltustik Kazakhstan (Alekseevka);E125;;Deleted route
 2024-02-15;Korea, South;Ex400 (Deojeong);kor.ex400deo;Route extended at south end from exit 1 to exit 30
-2024-02-15;Korea, South;AH1;Route truncated at south end from ferry to exit 1 of Expressway 1
+2024-02-15;Korea, South;AH1;kor.ah001;Route truncated at south end from ferry to exit 1 of Expressway 1
 2023-11-10;Korea, South;Ex400 (Suwon);kor.ex400;Route extended at west end from exit 7 '(A)' to exit 6 '(Z)'
 2023-08-17;Korea, South;Ex400 (Suwon);kor.ex400;Route extended at east end from exit 5 '(B)' at to exit 7 '(C)' at Ex35
 2023-01-13;Korea, South;Ex500;kor.ex500;Route added
@@ -5489,6 +5488,36 @@ date;region;route;root;description
 2015-07-22;Turkey;O52 (Gaziantep);;Route merged into O54
 2015-07-22;Turkey;O54;tur.o054;New Route
 2015-07-15;Turkmenistan;E40;tkm.e40;New route
+2021-12-18;Ukraine;M04;ukr.m030;Route removed (renamed M30)
+2021-12-18;Ukraine;M04 (Dnipro);ukr.m030dni;Route removed (renamed M30)
+2021-12-18;Ukraine;M12;ukr.m030;Route removed (renamed M30)
+2021-12-18;Ukraine;M30;ukr.m030;Route added (formerly M04 and M12)
+2021-12-18;Ukraine;M30 (Dnipro);ukr.m030dni;Route added (formerly M04)
+2020-11-25;Ukraine;Avtostrada Kharkiv - Dnipro;ukr.avtkhadni;Route truncated at south end from M04 to the M18 at Hubynykha
+2020-11-25;Ukraine;M21;ukr.m021;Route extended at north end from M06 to Belarus border
+2020-11-25;Ukraine;M21 (Novaja Rudnia);ukr.m021nov;Route added
+2020-11-23;Ukraine;M03 (Kharkiv);ukr.m003kha;Route truncated at west end from western junction with M03 to R78
+2020-11-23;Ukraine;M03 (Poltava);ukr.m003pol;Route added
+2020-11-23;Ukraine;M04 (Dnipro);ukr.m004dni;Route added
+2020-11-23;Ukraine;M18;ukr.m018;Route truncated at north end from M20 to R78
+2020-11-23;Ukraine;M18 (Kharkiv);ukr.m018kha;Route added
+2020-11-23;Ukraine;M27;ukr.m027;Route truncated at north end from M14/M15 to T1609 and extended at north end from T1609 to Nebesnoi Sotni Prospekt
+2020-11-21;Ukraine;E40;ukr.e40;Route removed from Peremohy Prospekt, Tarasa Shevchenka Bulivad, Lesi Ukrainky Bulivad and Mykhaila Boichuka Vulitsia, and relocated onto T1027, M05 and M03 between M06/M07 junction and junction with Mykhaila Boichuka Vulitsia
+2020-11-21;Ukraine;M09;ukr.m009;Route extended at east end from eastern junction with M06 to M12
+2020-11-21;Ukraine;M14;ukr.m014;Route truncated at west end from M15/M16 junction to western junction with M28 and extended at west end from western junction with M28 to M05/M16 junction
+2020-11-21;Ukraine;M14 (Melitopol);ukr.m014mel;Route added
+2020-11-21;Ukraine;M20;ukr.m020;Route truncated at south end from M18 to M03
+2020-11-21;Ukraine;M24;ukr.m024;Route truncated at north end from M06 to northern junction with E58 and E81, and extended at north end from northern junction with E58 and E81 to western junction with M25
+2020-11-21;Ukraine;M28;ukr.m028;Route extended at west end from western junction with M14 to N33
+2020-11-17;Ukraine;E391;ukr.e391;Route truncated at west end from R44 to R65
+2020-11-17;Ukraine;M26;ukr.m026;Route truncated at west end from M23 to northern junction with E58 and E81, and extended at west end from northern junction with E58 and E81 to Hungarian border
+2016-01-05;Ukraine;Avtostrada Kharkiv - Dnipropetrovsk;ukr.avtkhadni;New Route
+2016-01-05;Ukraine;Avtostrada Kiev - Boryspil;ukr.avtkievbor;New Route
+2015-07-24;Ukraine;E105;ukr.e105;Route truncated at south end from Moskovska Vulytsia to the border with Crimea autonomous region
+2015-07-24;Ukraine;E97;ukr.e97;Route truncated at south end from the Kerch - Port Kavkaz Ferry to the border with Crimea autonomous region
+2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
+2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
+2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
 2024-02-15;(UK) England;A390;eng.a0390;Route extended at west end from former A30 junction to new A30/A3075 junction
 2024-02-15;(UK) England;A1154;eng.a1154;Route added
 2024-02-15;(UK) England;B3288;eng.b3288;Route added
@@ -5947,36 +5976,6 @@ date;region;route;root;description
 2015-07-24;(UK) Wales;A4046;wls.a4046;Route extended at north end from A4281 to A4047
 2015-07-24;(UK) Wales;A4281;wls.a4281;New Route
 2015-07-24;(UK) Wales;A5153;wls.a5153;Route extended at south end from A55 to B4545
-2021-12-18;Ukraine;M04;ukr.m030;Route removed (renamed M30)
-2021-12-18;Ukraine;M04 (Dnipro);ukr.m030dni;Route removed (renamed M30)
-2021-12-18;Ukraine;M12;ukr.m030;Route removed (renamed M30)
-2021-12-18;Ukraine;M30;ukr.m030;Route added (formerly M04 and M12)
-2021-12-18;Ukraine;M30 (Dnipro);ukr.m030dni;Route added (formerly M04)
-2020-11-25;Ukraine;Avtostrada Kharkiv - Dnipro;ukr.avtkhadni;Route truncated at south end from M04 to the M18 at Hubynykha
-2020-11-25;Ukraine;M21;ukr.m021;Route extended at north end from M06 to Belarus border
-2020-11-25;Ukraine;M21 (Novaja Rudnia);ukr.m021nov;Route added
-2020-11-23;Ukraine;M03 (Kharkiv);ukr.m003kha;Route truncated at west end from western junction with M03 to R78
-2020-11-23;Ukraine;M03 (Poltava);ukr.m003pol;Route added
-2020-11-23;Ukraine;M04 (Dnipro);ukr.m004dni;Route added
-2020-11-23;Ukraine;M18;ukr.m018;Route truncated at north end from M20 to R78
-2020-11-23;Ukraine;M18 (Kharkiv);ukr.m018kha;Route added
-2020-11-23;Ukraine;M27;ukr.m027;Route truncated at north end from M14/M15 to T1609 and extended at north end from T1609 to Nebesnoi Sotni Prospekt
-2020-11-21;Ukraine;E40;ukr.e40;Route removed from Peremohy Prospekt, Tarasa Shevchenka Bulivad, Lesi Ukrainky Bulivad and Mykhaila Boichuka Vulitsia, and relocated onto T1027, M05 and M03 between M06/M07 junction and junction with Mykhaila Boichuka Vulitsia
-2020-11-21;Ukraine;M09;ukr.m009;Route extended at east end from eastern junction with M06 to M12
-2020-11-21;Ukraine;M14;ukr.m014;Route truncated at west end from M15/M16 junction to western junction with M28 and extended at west end from western junction with M28 to M05/M16 junction
-2020-11-21;Ukraine;M14 (Melitopol);ukr.m014mel;Route added
-2020-11-21;Ukraine;M20;ukr.m020;Route truncated at south end from M18 to M03
-2020-11-21;Ukraine;M24;ukr.m024;Route truncated at north end from M06 to northern junction with E58 and E81, and extended at north end from northern junction with E58 and E81 to western junction with M25
-2020-11-21;Ukraine;M28;ukr.m028;Route extended at west end from western junction with M14 to N33
-2020-11-17;Ukraine;E391;ukr.e391;Route truncated at west end from R44 to R65
-2020-11-17;Ukraine;M26;ukr.m026;Route truncated at west end from M23 to northern junction with E58 and E81, and extended at west end from northern junction with E58 and E81 to Hungarian border
-2016-01-05;Ukraine;Avtostrada Kharkiv - Dnipropetrovsk;ukr.avtkhadni;New Route
-2016-01-05;Ukraine;Avtostrada Kiev - Boryspil;ukr.avtkievbor;New Route
-2015-07-24;Ukraine;E105;ukr.e105;Route truncated at south end from Moskovska Vulytsia to the border with Crimea autonomous region
-2015-07-24;Ukraine;E97;ukr.e97;Route truncated at south end from the Kerch - Port Kavkaz Ferry to the border with Crimea autonomous region
-2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
-2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
-2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
 2022-03-20;(USA) Alabama;I-359;al.i359;Clarified the northern endpoint as Exit 2. Previous route segment north of Exit 2 is technically within the interchange footprint.
 2022-03-20;(USA) Alabama;US 231 Business (Ozark);;Route deleted
 2018-09-24;(USA) Alabama;US 98 Alternate (Fairhope);;Route deleted
@@ -7741,7 +7740,7 @@ date;region;route;root;description
 2015-09-10;(USA) Oklahoma;OK 351;ok.ok351;Added route. Renamed from Muskogee Turnpike.
 2015-09-10;(USA) Oklahoma;OK 364;ok.ok364;Added route. Renamed from Creek Turnpike.
 2024-02-15;(USA) Oregon;OR182;;Route deleted
-2024-02-15;(USA) Oregon;OR200;or.or200;Route truncated at south end from Douglas/Lane County line to Benton/Lane County line
+2024-02-15;(USA) Oregon;OR200;or.or200;Route truncated at south end from Douglas County/Lane County line to Lane County/Benton County line
 2024-02-15;(USA) Oregon;OR205;or.or205;Route truncated at south end from End to Roaring Springs Road
 2023-03-25;(USA) Oregon;US 30 Business (Saint Helens);or.us030bussth;Route added
 2021-07-03;(USA) Oregon;OR 132;or.or132;Added route (was Delta Highway)
@@ -8545,6 +8544,7 @@ date;region;route;root;description
 2015-08-11;(USA) Wyoming;US 310;wy.us310;Route truncated at east end from eastern junction with US14/16 to (formerly western) junction with US14/16
 2015-08-03;(USA) Wyoming;US 14;wy.us014;Route removed from I-90 and relocated onto I-90 Business Loop through Sundance, between I-90 exit 185 and I-90 exit 189
 2015-08-03;(USA) Wyoming;US 87 Business (Buffalo);wy.us087busbuf;Route rerouted at north end off of East Hart Street between the eastern junction with US16 and I-25 and relocated onto North Main Street between the eastern junction with US16 and I-90
+2024-02-09;Uruguay;RN11 (San José de Mayo (bypass));ury.rn011jos;Route added
 2020-09-15;Uzbekistan;AH7;uzb.ah007;Route removed from Kokand city and onto Kokand bypass between A373_KokE and A373_KokW
 2020-09-15;Uzbekistan;A373 (main);uzb.a373;Route truncated at west end from R1 to A373Tas and extended at west end from A373Tas to M34/M39
 2020-09-15;Uzbekistan;A373 (Kokand (loop));uzb.a373kok;Route added
