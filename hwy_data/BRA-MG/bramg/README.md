@@ -44,7 +44,7 @@ Notes on routes:
 * MG-010 [is signed](https://www.google.com/maps/@-19.8087314,-43.9501487,3a,47.5y,359.99h,101.59t/data=!3m6!1e1!3m4!1s8RrWJ3M-jNKFHwy__JsWzQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-020 [is signed](https://www.google.com/maps/@-19.7600063,-43.8635867,3a,15.6y,212.61h,91.85t/data=!3m6!1e1!3m4!1sQnyfn0Vp-6ibA_9Zniulbw!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the new bypass around Santa Luzia, which is signed for Jaboticatubas and Belo Horizonte.
 * MG-030 [is signed](https://www.google.com/maps/@-19.986321,-43.9445528,3a,75y,155.79h,98.1t/data=!3m6!1e1!3m4!1sm4CcW4oxsJKdA0MGDaTj1Q!2e0!7i16384!8i8192?entry=ttu).
-* MG-040 
+* MG-040 [is signed](https://www.google.com/maps/@-20.1285404,-44.1985445,3a,40.9y,85.13h,78.3t/data=!3m6!1e1!3m4!1smPASRMdmAtbMYbh_rj1VzQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-050 
 * MG-060 
 * MG-105 
@@ -389,12 +389,12 @@ Notes on routes:
 * AMG-115 
 * AMG-145 
 * AMG-150 [is signed](https://www.google.com/maps/@-19.9947337,-43.8381787,3a,16.5y,76.7h,82.76t/data=!3m6!1e1!3m4!1sof-z4Y-deaXa_abE8pjCOA!2e0!7i16384!8i8192?entry=ttu).
-* AMG-155 
+* AMG-155 may be unsigned.
 * AMG-160 
 * AMG-165 
 * AMG-170 
 * AMG-175 
-* AMG-185 
+* AMG-185 may be unsigned.
 * AMG-205 
 * AMG-210 
 * AMG-215 
