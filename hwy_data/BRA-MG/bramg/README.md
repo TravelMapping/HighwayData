@@ -60,7 +60,7 @@ Notes on routes:
 * MG-132 
 * MG-133 
 * MG-135 
-* MG-155 
+* MG-155 [is signed](https://www.google.com/maps/@-20.5382306,-43.9815181,3a,19.9y,153.72h,109.08t/data=!3m6!1e1!3m4!1sNi2Ngb8Wny2NqwbRMKvA5A!2e0!7i16384!8i8192?entry=ttu).
 * MG-158 
 * MG-161 
 * MG-164 
@@ -334,7 +334,7 @@ Notes on routes:
 * LMG-828 
 * LMG-829 
 * LMG-830 
-* LMG-831 
+* LMG-831 may be unsigned.
 * LMG-832 
 * LMG-833 
 * LMG-834 
