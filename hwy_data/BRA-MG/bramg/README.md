@@ -40,13 +40,13 @@ Notes on routes:
 * MGC-496 
 * MGC-497 
 * MGC-499
-* The exact endpoints and routes of MG-010, MG-020, MG-030, and MG-040 in Belo Horizonte may be wrong. The interactive map shows them ending at or near the Rodoviária (bus station), but using streets that cannot be followed in one or both directions.
+* The exact endpoints and routes of MG-010, MG-020, MG-030, MG-040, MG-050, and MG-060 in Belo Horizonte may be wrong. The interactive map shows them ending at or near the Rodoviária (bus station), but using streets that cannot be followed in one or both directions.
 * MG-010 [is signed](https://www.google.com/maps/@-19.8087314,-43.9501487,3a,47.5y,359.99h,101.59t/data=!3m6!1e1!3m4!1s8RrWJ3M-jNKFHwy__JsWzQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-020 [is signed](https://www.google.com/maps/@-19.7600063,-43.8635867,3a,15.6y,212.61h,91.85t/data=!3m6!1e1!3m4!1sQnyfn0Vp-6ibA_9Zniulbw!2e0!7i16384!8i8192?entry=ttu). It is assumed to use the new bypass around Santa Luzia, which is signed for Jaboticatubas and Belo Horizonte.
 * MG-030 [is signed](https://www.google.com/maps/@-19.986321,-43.9445528,3a,75y,155.79h,98.1t/data=!3m6!1e1!3m4!1sm4CcW4oxsJKdA0MGDaTj1Q!2e0!7i16384!8i8192?entry=ttu).
 * MG-040 [is signed](https://www.google.com/maps/@-20.1285404,-44.1985445,3a,40.9y,85.13h,78.3t/data=!3m6!1e1!3m4!1smPASRMdmAtbMYbh_rj1VzQ!2e0!7i16384!8i8192?entry=ttu).
-* MG-050 
-* MG-060 
+* MG-050 [is signed](https://www.google.com/maps/@-20.0003639,-44.4494209,3a,21.6y,271.68h,86.14t/data=!3m6!1e1!3m4!1sU4PIz9mtSgfqsCb3EvVICg!2e0!7i16384!8i8192?entry=ttu).
+* MG-060 [is signed](https://www.google.com/maps/@-19.9430797,-44.269963,3a,18y,305.16h,91.74t/data=!3m6!1e1!3m4!1sDbZzyeZj8K7DU3ECmItNDQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-105 
 * MG-108 
 * MG-111 
@@ -144,8 +144,8 @@ Notes on routes:
 * MG-427 
 * MG-428 
 * MG-429 
-* MG-430 
-* MG-431 
+* MG-430 [is signed](https://www.google.com/maps/@-20.081525,-44.8245664,3a,15.1y,20.3h,83.88t/data=!3m6!1e1!3m4!1s_Ph4KhkfDYRCf99Ciu1Ogw!2e0!7i16384!8i8192?entry=ttu).
+* MG-431 [is signed](https://www.google.com/maps/@-20.0623469,-44.5599405,3a,15.2y,284.67h,109.95t/data=!3m6!1e1!3m4!1sdB9NEZEBeZHo5mwHwT1G_Q!2e0!7i16384!8i8192?entry=ttu).
 * MG-432 
 * MG-433 may be unsigned.
 * MG-434 
@@ -324,7 +324,7 @@ Notes on routes:
 * LMG-818 
 * LMG-819 
 * LMG-820 
-* LMG-821 
+* LMG-821 may be unsigned.
 * LMG-822 
 * LMG-823 
 * LMG-824 
@@ -404,7 +404,7 @@ Notes on routes:
 * AMG-315 
 * AMG-320 
 * AMG-325 
-* AMG-330 
+* AMG-330 [is signed](https://www.google.com/maps/@-20.0794058,-44.7831441,3a,49.5y,200.9h,59.07t/data=!3m6!1e1!3m4!1sxNKzZxf35K_8CqtNiJ25bA!2e0!7i16384!8i8192?entry=ttu) (as AMG-0330).
 * AMG-335 
 * AMG-340 
 * AMG-345 
