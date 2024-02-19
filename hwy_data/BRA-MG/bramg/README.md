@@ -63,9 +63,9 @@ Notes on routes:
 * MG-155 [is signed](https://www.google.com/maps/@-20.5382306,-43.9815181,3a,19.9y,153.72h,109.08t/data=!3m6!1e1!3m4!1sNi2Ngb8Wny2NqwbRMKvA5A!2e0!7i16384!8i8192?entry=ttu).
 * MG-158 
 * MG-161 
-* MG-164 
+* MG-164 [is signed](https://www.google.com/maps/@-20.2978142,-45.1817797,3a,15y,217.19h,84.82t/data=!3m6!1e1!3m4!1sB1dOqbccFZiSIDiF762eEA!2e0!7i16384!8i8192?entry=ttu).
 * MG-167 
-* MG-170 
+* MG-170 [was signed in 2018](https://www.google.com/maps/@-20.4788458,-45.7749818,3a,36.4y,168.38h,86.35t/data=!3m7!1e1!3m5!1ssQQtOKSkyqBSGXz6vnevRQ!2e0!5s20181201T000000!7i13312!8i6656?entry=ttu) but this sign, at least, has disappeared.
 * MG-173 
 * MG-176 
 * MG-179 
@@ -333,7 +333,7 @@ Notes on routes:
 * LMG-827 
 * LMG-828 
 * LMG-829 
-* LMG-830 
+* LMG-830 [is signed](https://www.google.com/maps/@-20.4611502,-45.5325052,3a,17.3y,19.4h,85.88t/data=!3m6!1e1!3m4!1s4h_OacsinPqNNVxKWJSMmg!2e0!7i16384!8i8192?entry=ttu).
 * LMG-831 may be unsigned.
 * LMG-832 
 * LMG-833 
@@ -384,7 +384,7 @@ Notes on routes:
 * LMG-890 
 * LMG-891 
 * LMG-892 
-* LMG-893
+* LMG-893 [seems to be signed](https://www.google.com/maps/@-20.4759519,-45.575664,3a,15y,134.63h,90.31t/data=!3m6!1e1!3m4!1sN3ralZjNmwz-XbJXSji-AA!2e0!7i13312!8i6656?entry=ttu) (under the blue sign).
 * AMG-105 
 * AMG-115 
 * AMG-145 
@@ -404,8 +404,8 @@ Notes on routes:
 * AMG-315 
 * AMG-320 
 * AMG-325 
-* AMG-330 [is signed](https://www.google.com/maps/@-20.0794058,-44.7831441,3a,49.5y,200.9h,59.07t/data=!3m6!1e1!3m4!1sxNKzZxf35K_8CqtNiJ25bA!2e0!7i16384!8i8192?entry=ttu) (as AMG-0330).
-* AMG-335 
+* AMG-0330 [is signed](https://www.google.com/maps/@-20.0794058,-44.7831441,3a,49.5y,200.9h,59.07t/data=!3m6!1e1!3m4!1sxNKzZxf35K_8CqtNiJ25bA!2e0!7i16384!8i8192?entry=ttu).
+* AMG-0335 [was signed in 2021](https://www.google.com/maps/@-20.1309929,-44.9163502,3a,22.5y,348.72h,86.26t/data=!3m7!1e1!3m5!1soUSDiQ383BrCdFuLvfoqFA!2e0!5s20210701T000000!7i16384!8i8192?entry=ttu) but this sign, at least, has disappeared.
 * AMG-340 
 * AMG-345 
 * AMG-350 
@@ -461,3 +461,8 @@ Notes on routes:
 * AMG-935 
 * AMG-1005
 * and on...
+* AMG-2015 [is signed as MG-900](https://www.google.com/maps/@-20.2051971,-45.0180373,3a,15.6y,161.38h,90.99t/data=!3m6!1e1!3m4!1sUbG6G-NU5avhHlE3Bm2NIw!2e0!7i16384!8i8192?entry=ttu) (as of 2021).
+* AMG-2020
+* AMG-2025
+* AMG-2030 may be unsigned.
+* AMG-2035 [is signed](https://www.google.com/maps/@-20.4957696,-45.393178,3a,15y,326.41h,81.8t/data=!3m6!1e1!3m4!1sYhLJF6occe2pQ9m9dNMr8A!2e0!7i16384!8i8192?entry=ttu).
