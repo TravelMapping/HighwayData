@@ -44,7 +44,7 @@ Notes on routes:
 * MG-202 
 * MG-205 [is signed](https://www.google.com/maps/@-16.6976711,-40.9507026,3a,49.4y,156.59h,67.77t/data=!3m6!1e1!3m4!1slA-Ltk0w9Cuks3b8D-DedA!2e0!7i13312!8i6656?entry=ttu) (as of 2011).
 * MG-208 
-* MG-211 
+* MG-211 may be unsigned.
 * MG-214 
 * MG-217 
 * MG-220 
@@ -68,7 +68,7 @@ Notes on routes:
 * MG-290 
 * MG-295 
 * MG-307 
-* MG-308 
+* MG-308 [is signed](https://www.google.com/maps/@-17.6716273,-42.5227635,3a,35.1y,13.94h,80.55t/data=!3m6!1e1!3m4!1ssM8Dy4-MYN2kDAdnMCRMsA!2e0!7i16384!8i8192?entry=ttu) south of where sources show it beginning (at MG-211).
 * MG-311 
 * MG-314 
 * MG-317 may be unsigned.
