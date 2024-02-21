@@ -2,6 +2,8 @@ Minas Gerais Rodovias Estaduais Coincidentes
 
 These are portions of federal routes that are constructed but maintained by the state. As with the plain state routes, they are included whether or not they are signed due to the sorry state of route signage.
 
+Some older signs say MGT rather than MGC: [120](https://www.google.com/maps/@-18.3475405,-42.6135232,3a,15y,183.36h,84.49t/data=!3m6!1e1!3m4!1sror-hQAvp_Q9WcFoYXTGZw!2e0!7i16384!8i8192?entry=ttu), [259](https://www.google.com/maps/@-18.7463714,-44.4512689,3a,40.4y,119.62h,81.49t/data=!3m6!1e1!3m4!1s_SNTwG9WdDxIM-Z6TOhoCw!2e0!7i16384!8i8192?entry=ttu), [496](https://www.google.com/maps/@-18.4012338,-44.4617075,3a,41.5y,321.93h,105.46t/data=!3m7!1e1!3m5!1skwUHa206Vxb5bb3yPjqSGg!2e0!5s20111001T000000!7i13312!8i6656?entry=ttu).
+
 Sources:
 * Maps: https://www.der.mg.gov.br/transportes/mapa-rodoviario http://portal.der.mg.gov.br/mapainterativo/?s=CMR
 * Logs: https://www.der.mg.gov.br/transportes/rodovias
