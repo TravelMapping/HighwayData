@@ -8,6 +8,7 @@ Sources:
 
 Notes on routes:
 * MGC-120 [is signed](https://www.google.com/maps/@-19.7517973,-43.0260273,3a,15.3y,260.6h,90.15t/data=!3m6!1e1!3m4!1s8Q1CLaNq6wU2lTEuYlsQHA!2e0!7i16384!8i8192?entry=ttu).
+* MGC-120's northbound route in Ponte Nova is unclear. There is no left turn from Avenida Francisco Vieira Martins onto Avenida Doutor Otávio Soares or Rua Professora Campolina; perhaps the intended route is to go beyond the latter and turn around at the circle.
 * MGC-122 
 * MGC-135 
 * MGC-146 
@@ -15,7 +16,8 @@ Notes on routes:
 * MGC-251 [is signed](https://www.google.com/maps/@-15.9877501,-41.4054286,3a,15.4y,144.98h,81.82t/data=!3m6!1e1!3m4!1sCSM1BHwiDXdQ-qG6zkakqA!2e0!7i16384!8i8192?entry=ttu).
 * MGC-259 
 * MGC-262 
-* MGC-265 
+* MGC-265
+* MGC-265 is assumed to use Rua Manoel Reis eastbound in Guidoval.
 * MGC-267 
 * MGC-342 
 * MGC-352 
