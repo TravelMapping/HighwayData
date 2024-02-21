@@ -1,285 +1,355 @@
-1: Could not parse index.csv line: [index;IND-UP;MahMarg;;Maharaja Agrasen Marg                                                                                                                                                              Flyover;indup.mahmarg;], expected 8 fields, found 7
-2: Could not parse index.csv line: [index;IND-UP;HinRd;;Hindon Elevated Road;ind                                                                                                                                                             up.hinrd;], expected 8 fields, found 7
-3: Could not find Route matching ConnectedRoute root indup.nice in system index.
-4: No valid roots in index_con.csv line: index;NICEExp;;;indup.nice
-5: Could not find Route matching ConnectedRoute root indup.agralucexpy in system                                                                                                                                                              index.
-6: No valid roots in index_con.csv line: index;AgraLucExp;;;indup.agralucexpy
-7: Could not find Route matching ConnectedRoute root indup.mahmarg in system ind                                                                                                                                                             ex.
-8: No valid roots in index_con.csv line: index;MahMarg;;;indup.mahmarg
-9: System mismatch parsing index_con.csv line [indup;HinRd;;;indup.hinrd], expec                                                                                                                                                             ted index
-10: Could not find Route matching ConnectedRoute root indup.hinrd in system inde                                                                                                                                                             x.
-11: No valid roots in index_con.csv line: indup;HinRd;;;indup.hinrd
-12: System mismatch parsing index_con.csv line [indup;PurExp;;;inup.purexpy], ex                                                                                                                                                             pected index
-13: Could not find Route matching ConnectedRoute root inup.purexpy in system ind                                                                                                                                                             ex.
-14: No valid roots in index_con.csv line: indup;PurExp;;;inup.purexpy
-15: Duplicate root in indne.csv: indup.nh002 already in indne.csv
-16: Could not find Route matching ConnectedRoute root indgj.ne001 in system indn                                                                                                                                                             e.
-17: No valid roots in indne_con.csv line: indne;NE1;;;indgj.ne001
-18: Could not find Route matching ConnectedRoute root inddl.ne002 in system indn                                                                                                                                                             e.
-19: Could not find Route matching ConnectedRoute root indhr.nh002 in system indn                                                                                                                                                             e.
-20: No valid roots in indne_con.csv line: indne;NE2;;;inddl.ne002,indhr.nh002
-21: System mismatch parsing indah_con.csv line [systemName;route;banner;groupNam                                                                                                                                                             e;roots], expected indah
-22: Could not find Route matching ConnectedRoute root roots in system indah.
-23: No valid roots in indah_con.csv line: systemName;route;banner;groupName;root                                                                                                                                                             s
-24: Duplicate main list name in indnh.nh009: 'IND-UP NH9' already points to indu                                                                                                                                                             p.nh009
-25: Unrecognized region in indnh.csv line: indnh;IND-RH;NH21;;;;indrj.nh021;
-26: Unrecognized region in indnh.csv line: indnh;IND-CG;NH30;;;;indcg.nh030;
-27: Unrecognized region in indnh.csv line: indnh;IND-CG;NH30;;rai;Raipur;indcg.n                                                                                                                                                             h030wrai;
-28: Unrecognized region in indnh.csv line: indnh;IND-CG;NH30;;rai;Raipur;indcg.n                                                                                                                                                             h030rai;
-29: Duplicate main list name in indcg.nh030rai: 'IND-CG NH30rai' already points                                                                                                                                                              to indcg.nh030wrai
-30: Unrecognized region in indnh.csv line: indnh;IND-CG;NH30;;rai;Raipur;indcg.n                                                                                                                                                             h030erai;
-31: Duplicate main list name in indcg.nh030erai: 'IND-CG NH30rai' already points                                                                                                                                                              to indcg.nh030wrai
-32: Duplicate root in indnh.csv: indup.nh039 already in indnh.csv
-33: Duplicate root in indnh.csv: indmp.nh044 already in indnh.csv
-34: Duplicate root in indnh.csv: indup.nh044 already in indnh.csv
-35: Unrecognized region in indnh.csv line: indnh;IND-CG;NH63;;;;indnh.nh063;
-36: Duplicate root in indnh.csv: indnh.nh063 already in indnh.csv
-37: Duplicate root in indnh.csv: indkl.nh066 already in indnh.csv
-38: Duplicate root in indnh.csv: indup.nh334d already in indnh.csv
-39: Could not parse indnh.csv line: [indnh;IND-UP;NH709B;;;;indup.nh709b], expec                                                                                                                                                             ted 8 fields, found 7
-40: Duplicate root in indnh.csv: indwb.nh717a already in indnh.csv
-41: Could not find Route matching ConnectedRoute root indut.nh009 in system indn                                                                                                                                                             h.
-42: Could not find Route matching ConnectedRoute root indrh.nh021 in system indn                                                                                                                                                             h.
-43: Could not find Route matching ConnectedRoute root indjh.nh039 in system indn                                                                                                                                                             h.
-44: Could not find Route matching ConnectedRoute root indka.nh042che in system i                                                                                                                                                             ndnh.
-45: Could not find Route matching ConnectedRoute root indmp.nh044gwa in system i                                                                                                                                                             ndnh.
-46: Could not find Route matching ConnectedRoute root indup.nh044mat in system i                                                                                                                                                             ndnh.
-47: Duplicate root in indnh_con.csv: indmh.nh044enag already in indnh_con.csv
-48: Duplicate root in indnh_con.csv: indka.nh048 already in indnh_con.csv
-49: Could not find Route matching ConnectedRoute root indgj.nh048vad in system i                                                                                                                                                             ndnh.
-50: Could not find Route matching ConnectedRoute root indgj.nh048enad in system                                                                                                                                                              indnh.
-51: Could not find Route matching ConnectedRoute root indgj.nh048 in system indn                                                                                                                                                             h.
-52: Could not find Route matching ConnectedRoute root indgh.nh048wnad in system                                                                                                                                                              indnh.
-53: No valid roots in indnh_con.csv line: indnh;NH48W;;;indgh.nh048wnad
-54: Could not find Route matching ConnectedRoute root indjh.nh049 in system indn                                                                                                                                                             h.
-55: Could not find Route matching ConnectedRoute root indmp.nh052 in system indn                                                                                                                                                             h.
-56: Could not find Route matching ConnectedRoute root indrj.nh052 in system indn                                                                                                                                                             h.
-57: Could not find Route matching ConnectedRoute root indcg.nh063 in system indn                                                                                                                                                             h.
-58: Could not find Route matching ConnectedRoute root indor.nh063 in system indn                                                                                                                                                             h.
-59: Could not find Route matching ConnectedRoute root indkl.nh066kan in system i                                                                                                                                                             ndnh.
-60: Could not find Route matching ConnectedRoute root indmh.nh066fs in system in                                                                                                                                                             dnh.
-61: Could not find Route matching ConnectedRoute root indmp.nh135bbdab in system                                                                                                                                                              indnh.
-62: Could not find Route matching ConnectedRoute root nhdka.nh150 in system indn                                                                                                                                                             h.
-63: Could not find Route matching ConnectedRoute root indap.nh150amys in system                                                                                                                                                              indnh.
-64: Could not find Route matching ConnectedRoute root indmh.nh161avaj in system                                                                                                                                                              indnh.
-65: Could not find Route matching ConnectedRoute root inup.dnh330d in system ind                                                                                                                                                             nh.
-66: No valid roots in indnh_con.csv line: indnh;NH330D;;;inup.dnh330d
-67: Could not find Route matching ConnectedRoute root indhr.nh334d in system ind                                                                                                                                                             nh.
-68: Could not find Route matching ConnectedRoute root inhr.nh344amb in system in                                                                                                                                                             dnh.
-69: Could not find Route matching ConnectedRoute root indmh548h in system indnh.
-70: Could not find Route matching ConnectedRoute root inka.nh561amad in system i                                                                                                                                                             ndnh.
-71: Could not find Route matching ConnectedRoute root indtn648 in system indnh.
-72: Could not find Route matching ConnectedRoute root indup.nh709b in system ind                                                                                                                                                             nh.
-73: Could not find Route matching ConnectedRoute root indwb.nh717 in system indn                                                                                                                                                             h.
-74: No valid roots in indnh_con.csv line: indnh;NH717;;;indwb.nh717
-75: Could not find Route matching ConnectedRoute root indsk.nh717a in system ind                                                                                                                                                             nh.
-76: Could not find Route matching ConnectedRoute root indga.nh748aangd in system                                                                                                                                                              indnh.
-77: Duplicate root in indka.csv: indka.ka010 already in indka.csv
-78: Duplicate main list name in indka.ka010: 'IND-KA KA10' already points to ind                                                                                                                                                             ka.ka010
-79: Duplicate root in indka_con.csv: indka.ka010 already in indka_con.csv
-80: Could not find Route matching ConnectedRoute root indmh.ka124kas in system i                                                                                                                                                             ndka.
-81: Duplicate root in indwb.csv: indwb.wb009 already in indwb.csv
-82: Duplicate root in indwb_con.csv: indwb.wb009 already in indwb_con.csv
-83: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             UP/index/indup.agraluckexpy.wpt'
-84: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             GJ/indne/indgh.ne001.wpt'
-85: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             UP/indne/indup.nh002.wpt'
-86: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             HR/indne/indup.nh002.wpt'
-87: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             UP/indnh/indnh.nh009.wpt'
-88: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka001.wpt'
-89: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka002.wpt'
-90: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka003.wpt'
-91: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka005.wpt'
-92: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka006.wpt'
-93: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka007.wpt'
-94: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka008.wpt'
-95: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka009.wpt'
-96: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka013.wpt'
-97: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka014.wpt'
-98: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka017.wpt'
-99: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-                                                                                                                                                             KA/indka/indka.ka018.wpt'
-100: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka019.wpt'
-101: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka020.wpt'
-102: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka021.wpt'
-103: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka023.wpt'
-104: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka024.wpt'
-105: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka025.wpt'
-106: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka026.wpt'
-107: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka027.wpt'
-108: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka028.wpt'
-109: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka029.wpt'
-110: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka030.wpt'
-111: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka031.wpt'
-112: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka033.wpt'
-113: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka035.wpt'
-114: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka036.wpt'
-115: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka037.wpt'
-116: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka038.wpt'
-117: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka039.wpt'
-118: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka040.wpt'
-119: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka042.wpt'
-120: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka043.wpt'
-121: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka044.wpt'
-122: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka045.wpt'
-123: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka046.wpt'
-124: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka047.wpt'
-125: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka048.wpt'
-126: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka049.wpt'
-127: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka050.wpt'
-128: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka052.wpt'
-129: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka053.wpt'
-130: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka054.wpt'
-131: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka055.wpt'
-132: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka056.wpt'
-133: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka057.wpt'
-134: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka058.wpt'
-135: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka059.wpt'
-136: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka060.wpt'
-137: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka061.wpt'
-138: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka062.wpt'
-139: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka063.wpt'
-140: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka064.wpt'
-141: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka065.wpt'
-142: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka066.wpt'
-143: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka067.wpt'
-144: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka068.wpt'
-145: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka069.wpt'
-146: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka070.wpt'
-147: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka071.wpt'
-148: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka071e.wpt'
-149: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka072.wpt'
-150: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka073.wpt'
-151: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka074.wpt'
-152: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka076.wpt'
-153: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka077.wpt'
-154: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka078.wpt'
-155: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka079.wpt'
-156: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka080.wpt'
-157: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka081.wpt'
-158: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka082.wpt'
-159: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka083.wpt'
-160: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka084.wpt'
-161: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka084var.wpt'
-162: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka084kup.wpt'
-163: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka085.wpt'
-164: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka086.wpt'
-165: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka087.wpt'
-166: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka088.wpt'
-167: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka089.wpt'
-168: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka090.wpt'
-169: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka091.wpt'
-170: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka092.wpt'
-171: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka093.wpt'
-172: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka094.wpt'
-173: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka095.wpt'
-174: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka096.wpt'
-175: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka097.wpt'
-176: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka098.wpt'
-177: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka099.wpt'
-178: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka100.wpt'
-179: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka101.wpt'
-180: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka102.wpt'
-181: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka103.wpt'
-182: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka104.wpt'
-183: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka105.wpt'
-184: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka106.wpt'
-185: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka107.wpt'
-186: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka108.wpt'
-187: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka109.wpt'
-188: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka110.wpt'
-189: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka111.wpt'
-190: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka112.wpt'
-191: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka112a.wpt'
-192: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka113.wpt'
-193: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka114.wpt'
-194: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka115.wpt'
-195: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka116.wpt'
-196: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka117.wpt'
-197: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka118.wpt'
-198: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka119.wpt'
-199: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka120.wpt'
-200: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka121.wpt'
-201: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -MH/indka/indmh.ka124kha.wpt'
-202: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -MH/indka/indtg.ka126.wpt'
-203: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka127.wpt'
-204: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka128.wpt'
-205: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka129.wpt'
-206: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka130.wpt'
-207: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka131.wpt'
-208: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka132.wpt'
-209: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka133.wpt'
-210: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka134.wpt'
-211: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka135.wpt'
-212: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka136.wpt'
-213: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka138.wpt'
-214: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka139.wpt'
-215: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka140.wpt'
-216: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka141.wpt'
-217: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka142.wpt'
-218: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka143.wpt'
-219: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka144.wpt'
-220: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka145.wpt'
-221: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka146.wpt'
-222: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka148.wpt'
-223: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indka/indka.ka188.wpt'
-224: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -RH/indnh/indrj.nh021.wpt'
-225: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -JH/indnh/indup.nh039.wpt'
-226: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -KA/indnh/indap.nh042che.wpt'
-227: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -MH/indnh/indmh.nh044.wpt'
-228: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -GJ/indnh/indnh.nh048vad.wpt'
-229: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -GJ/indnh/indnh.048wnad.wpt'
-230: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -GJ/indnh/indnh.048enad.wpt'
-231: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -GJ/indnh/indgj.048.wpt'
-232: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -RJ/indnh/indrh.nh052.wpt'
-233: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -CG/indnh/indnh.nh063.wpt'
-234: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -OR/indnh/indnh.nh063.wpt'
-235: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -RJ/indnh/indrj.nh123dha.wpt'
-236: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -UP/indnh/indup.nh135bbbar.wpt'
-237: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -MP/indnh/indmp.nh135bb.wpt'
-238: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -UP/indnh/indup.nh135bg.wpt'
-239: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -MH/indnh/indmh.nh161avag.wpt'
-240: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -HR/indnh/indup.nh334d.wpt'
-241: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -HR/indnh/indhr.nh344amb.wpt'
-242: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -UP/indnh/indup.nh709adnad.wpt'
-243: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -WB/indnh/indsk.nh717.wpt'
-244: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -SK/indnh/indwb.nh717a.wpt'
-245: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -UP/indnh/indup.nh730b.wpt'
-246: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND                                                                                                                                                             -GA/indnh/indka.nh748aangd.wpt'
-247: index.csv: root indka.nice not matched by any connected route root.
-248: index.csv: root indup.agraluckexpy not matched by any connected route root.
-249: index.csv: root indup.purexpy not matched by any connected route root.
-250: indne.csv: root indgh.ne001 not matched by any connected route root.
-251: indne.csv: root indup.nh002 not matched by any connected route root.
-252: indne.csv: root indup.nh002 not matched by any connected route root.
-253: indnh.csv: root indnh.nh009 not matched by any connected route root.
-254: indka.csv: root indka.ka010 not matched by any connected route root.
-255: indka.csv: root indmh.ka124kha not matched by any connected route root.
-256: indwb.csv: root indwb.wb009 not matched by any connected route root.
-257: indnh.csv: root indrj.nh021 not matched by any connected route root.
-258: indnh.csv: root indup.nh039 not matched by any connected route root.
-259: indnh.csv: root indap.nh042che not matched by any connected route root.
-260: indnh.csv: root indmh.nh044wnag not matched by any connected route root.
-261: indnh.csv: root indmp.nh044 not matched by any connected route root.
-262: indnh.csv: root indup.nh044 not matched by any connected route root.
-263: indnh.csv: root indtn.nh048 not matched by any connected route root.
-264: indnh.csv: root indnh.nh048vad not matched by any connected route root.
-265: indnh.csv: root indnh.048wnad not matched by any connected route root.
-266: indnh.csv: root indnh.048enad not matched by any connected route root.
-267: indnh.csv: root indgj.048 not matched by any connected route root.
-268: indnh.csv: root indrh.nh052 not matched by any connected route root.
-269: indnh.csv: root indnh.nh063 not matched by any connected route root.
-270: indnh.csv: root indnh.nh063 not matched by any connected route root.
-271: indnh.csv: root indkl.nh066 not matched by any connected route root.
-272: indnh.csv: root indmh.nh066 not matched by any connected route root.
-273: indnh.csv: root indmp.nh135bb not matched by any connected route root.
-274: indnh.csv: root indka.nh150 not matched by any connected route root.
-275: indnh.csv: root indka.nh150amys not matched by any connected route root.
-276: indnh.csv: root indmh.nh161avag not matched by any connected route root.
-277: indnh.csv: root indup.nh330d not matched by any connected route root.
-278: indnh.csv: root indup.nh334d not matched by any connected route root.
-279: indnh.csv: root indhr.nh344amb not matched by any connected route root.
-280: indnh.csv: root indka.nh561amad not matched by any connected route root.
-281: indnh.csv: root indmh.nh548h not matched by any connected route root.
-282: indnh.csv: root indtn.nh648 not matched by any connected route root.
-283: indnh.csv: root indsk.nh717 not matched by any connected route root.
-284: indnh.csv: root indwb.nh717a not matched by any connected route root.
-285: indnh.csv: root indka.nh748aangd not matched by any connected route root.
+1: System mismatch parsing index_con.csv line [indup;HinRd;;;indup.hinrd], expected index
+2: System mismatch parsing index_con.csv line [indup;PurExp;;;indup.purexpy], expected index
+3: Could not find Route matching ConnectedRoute root inddl.ne002 in system indne.
+4: Unrecognized region in indnh.csv line: indnh;IND-NH;NH9;;;;indnh.nh009;
+5: Unrecognized region in indnh.csv line: indnh;IND-CG;NH63;;;;indcg.nh063;
+6: Could not find Route matching ConnectedRoute root indut.nh009 in system indnh.
+7: Could not find Route matching ConnectedRoute root indrh.nh021 in system indnh.
+8: Could not find Route matching ConnectedRoute root indch.nh030 in system indnh.
+9: Could not find Route matching ConnectedRoute root indka.nh042che in system indnh.
+10: Duplicate root in indnh_con.csv: indmh.nh044enag already in indnh_con.csv
+11: Duplicate root in indnh_con.csv: indka.nh048 already in indnh_con.csv
+12: Could not find Route matching ConnectedRoute root indgj.nh048vad in system indnh.
+13: Could not find Route matching ConnectedRoute root indgj.nh048enad in system indnh.
+14: Could not find Route matching ConnectedRoute root indgj.nh048 in system indnh.
+15: Could not find Route matching ConnectedRoute root indgh.nh048wnad in system indnh.
+16: No valid roots in indnh_con.csv line: indnh;NH48W;;;indgh.nh048wnad
+17: Could not find Route matching ConnectedRoute root indjh.nh049 in system indnh.
+18: Could not find Route matching ConnectedRoute root indmp.nh052 in system indnh.
+19: Could not find Route matching ConnectedRoute root indrj.nh052 in system indnh.
+20: Could not find Route matching ConnectedRoute root indor.nh063 in system indnh.
+21: Could not find Route matching ConnectedRoute root indmh.nh066fs in system indnh.
+22: Could not find Route matching ConnectedRoute root indmp.nh135bbdab in system indnh.
+23: Could not find Route matching ConnectedRoute root nhdka.nh150 in system indnh.
+24: Could not find Route matching ConnectedRoute root indap.nh150amys in system indnh.
+25: Could not find Route matching ConnectedRoute root indmh.nh161avaj in system indnh.
+26: Could not find Route matching ConnectedRoute root inup.dnh330d in system indnh.
+27: No valid roots in indnh_con.csv line: indnh;NH330D;;;inup.dnh330d
+28: Could not find Route matching ConnectedRoute root inhr.nh344amb in system indnh.
+29: Could not find Route matching ConnectedRoute root indmh548h in system indnh.
+30: Could not find Route matching ConnectedRoute root inka.nh561amad in system indnh.
+31: Could not find Route matching ConnectedRoute root indtn648 in system indnh.
+32: Could not find Route matching ConnectedRoute root indwb.nh717 in system indnh.
+33: No valid roots in indnh_con.csv line: indnh;NH717;;;indwb.nh717
+34: Could not find Route matching ConnectedRoute root indga.nh748aangd in system indnh.
+35: Could not find Route matching ConnectedRoute root indka.ka001 in system indka.
+36: No valid roots in indka_con.csv line: indka;KA1;;;indka.ka001
+37: Could not find Route matching ConnectedRoute root indka.ka002 in system indka.
+38: No valid roots in indka_con.csv line: indka;KA2;;;indka.ka002
+39: Could not find Route matching ConnectedRoute root indka.ka003 in system indka.
+40: No valid roots in indka_con.csv line: indka;KA3;;;indka.ka003
+41: Could not find Route matching ConnectedRoute root indka.ka005 in system indka.
+42: No valid roots in indka_con.csv line: indka;KA5;;;indka.ka005
+43: Could not find Route matching ConnectedRoute root indka.ka006 in system indka.
+44: No valid roots in indka_con.csv line: indka;KA6;;;indka.ka006
+45: Could not find Route matching ConnectedRoute root indka.ka007 in system indka.
+46: No valid roots in indka_con.csv line: indka;KA7;;;indka.ka007
+47: Could not find Route matching ConnectedRoute root indka.ka008 in system indka.
+48: No valid roots in indka_con.csv line: indka;KA8;;;indka.ka008
+49: Could not find Route matching ConnectedRoute root indka.ka009 in system indka.
+50: No valid roots in indka_con.csv line: indka;KA9;;;indka.ka009
+51: Duplicate root in indka_con.csv: indka.ka010 already in indka_con.csv
+52: Could not find Route matching ConnectedRoute root indka.ka013 in system indka.
+53: No valid roots in indka_con.csv line: indka;KA13;;;indka.ka013
+54: Could not find Route matching ConnectedRoute root indka.ka014 in system indka.
+55: No valid roots in indka_con.csv line: indka;KA14;;;indka.ka014
+56: Could not find Route matching ConnectedRoute root indka.ka017 in system indka.
+57: No valid roots in indka_con.csv line: indka;KA17;;;indka.ka017
+58: Could not find Route matching ConnectedRoute root indka.ka018 in system indka.
+59: No valid roots in indka_con.csv line: indka;KA18;;;indka.ka018
+60: Could not find Route matching ConnectedRoute root indka.ka019 in system indka.
+61: No valid roots in indka_con.csv line: indka;KA19;;;indka.ka019
+62: Could not find Route matching ConnectedRoute root indka.ka020 in system indka.
+63: No valid roots in indka_con.csv line: indka;KA20;;;indka.ka020
+64: Could not find Route matching ConnectedRoute root indka.ka021 in system indka.
+65: No valid roots in indka_con.csv line: indka;KA21;;;indka.ka021
+66: Could not find Route matching ConnectedRoute root indka.ka023 in system indka.
+67: No valid roots in indka_con.csv line: indka;KA23;;;indka.ka023
+68: Could not find Route matching ConnectedRoute root indka.ka024 in system indka.
+69: No valid roots in indka_con.csv line: indka;KA24;;;indka.ka024
+70: Could not find Route matching ConnectedRoute root indka.ka025 in system indka.
+71: No valid roots in indka_con.csv line: indka;KA25;;;indka.ka025
+72: Could not find Route matching ConnectedRoute root indka.ka026 in system indka.
+73: No valid roots in indka_con.csv line: indka;KA26;;;indka.ka026
+74: Could not find Route matching ConnectedRoute root indka.ka027 in system indka.
+75: No valid roots in indka_con.csv line: indka;KA27;;;indka.ka027
+76: Could not find Route matching ConnectedRoute root indka.ka028 in system indka.
+77: No valid roots in indka_con.csv line: indka;KA28;;;indka.ka028
+78: Could not find Route matching ConnectedRoute root indka.ka029 in system indka.
+79: No valid roots in indka_con.csv line: indka;KA29;;;indka.ka029
+80: Could not find Route matching ConnectedRoute root indka.ka030 in system indka.
+81: No valid roots in indka_con.csv line: indka;KA30;;;indka.ka030
+82: Could not find Route matching ConnectedRoute root indka.ka031 in system indka.
+83: No valid roots in indka_con.csv line: indka;KA31;;;indka.ka031
+84: Could not find Route matching ConnectedRoute root indka.ka033 in system indka.
+85: No valid roots in indka_con.csv line: indka;KA33;;;indka.ka033
+86: Could not find Route matching ConnectedRoute root indka.ka035 in system indka.
+87: No valid roots in indka_con.csv line: indka;KA35;;;indka.ka035
+88: Could not find Route matching ConnectedRoute root indka.ka036 in system indka.
+89: No valid roots in indka_con.csv line: indka;KA36;;;indka.ka036
+90: Could not find Route matching ConnectedRoute root indka.ka037 in system indka.
+91: No valid roots in indka_con.csv line: indka;KA37;;;indka.ka037
+92: Could not find Route matching ConnectedRoute root indka.ka038 in system indka.
+93: No valid roots in indka_con.csv line: indka;KA38;;;indka.ka038
+94: Could not find Route matching ConnectedRoute root indka.ka039 in system indka.
+95: No valid roots in indka_con.csv line: indka;KA39;;;indka.ka039
+96: Could not find Route matching ConnectedRoute root indka.ka040 in system indka.
+97: No valid roots in indka_con.csv line: indka;KA40;;;indka.ka040
+98: Could not find Route matching ConnectedRoute root indka.ka042 in system indka.
+99: No valid roots in indka_con.csv line: indka;KA42;;;indka.ka042
+100: Could not find Route matching ConnectedRoute root indka.ka043 in system indka.
+101: No valid roots in indka_con.csv line: indka;KA43;;;indka.ka043
+102: Could not find Route matching ConnectedRoute root indka.ka044 in system indka.
+103: No valid roots in indka_con.csv line: indka;KA44;;;indka.ka044
+104: Could not find Route matching ConnectedRoute root indka.ka045 in system indka.
+105: No valid roots in indka_con.csv line: indka;KA45;;;indka.ka045
+106: Could not find Route matching ConnectedRoute root indka.ka046 in system indka.
+107: No valid roots in indka_con.csv line: indka;KA46;;;indka.ka046
+108: Could not find Route matching ConnectedRoute root indka.ka047 in system indka.
+109: No valid roots in indka_con.csv line: indka;KA47;;;indka.ka047
+110: Could not find Route matching ConnectedRoute root indka.ka048 in system indka.
+111: No valid roots in indka_con.csv line: indka;KA48;;;indka.ka048
+112: Could not find Route matching ConnectedRoute root indka.ka049 in system indka.
+113: No valid roots in indka_con.csv line: indka;KA49;;;indka.ka049
+114: Could not find Route matching ConnectedRoute root indka.ka050 in system indka.
+115: No valid roots in indka_con.csv line: indka;KA50;;;indka.ka050
+116: Could not find Route matching ConnectedRoute root indka.ka052 in system indka.
+117: No valid roots in indka_con.csv line: indka;KA52;;;indka.ka052
+118: Could not find Route matching ConnectedRoute root indka.ka053 in system indka.
+119: No valid roots in indka_con.csv line: indka;KA53;;;indka.ka053
+120: Could not find Route matching ConnectedRoute root indka.ka054 in system indka.
+121: No valid roots in indka_con.csv line: indka;KA54;;;indka.ka054
+122: Could not find Route matching ConnectedRoute root indka.ka055 in system indka.
+123: No valid roots in indka_con.csv line: indka;KA55;;;indka.ka055
+124: Could not find Route matching ConnectedRoute root indka.ka056 in system indka.
+125: No valid roots in indka_con.csv line: indka;KA56;;;indka.ka056
+126: Could not find Route matching ConnectedRoute root indka.ka057 in system indka.
+127: No valid roots in indka_con.csv line: indka;KA57;;;indka.ka057
+128: Could not find Route matching ConnectedRoute root indka.ka058 in system indka.
+129: No valid roots in indka_con.csv line: indka;KA58;;;indka.ka058
+130: Could not find Route matching ConnectedRoute root indka.ka059 in system indka.
+131: No valid roots in indka_con.csv line: indka;KA59;;;indka.ka059
+132: Could not find Route matching ConnectedRoute root indka.ka060 in system indka.
+133: No valid roots in indka_con.csv line: indka;KA60;;;indka.ka060
+134: Could not find Route matching ConnectedRoute root indka.ka061 in system indka.
+135: No valid roots in indka_con.csv line: indka;KA61;;;indka.ka061
+136: Could not find Route matching ConnectedRoute root indka.ka062 in system indka.
+137: No valid roots in indka_con.csv line: indka;KA62;;;indka.ka062
+138: Could not find Route matching ConnectedRoute root indka.ka063 in system indka.
+139: No valid roots in indka_con.csv line: indka;KA63;;;indka.ka063
+140: Could not find Route matching ConnectedRoute root indka.ka064 in system indka.
+141: No valid roots in indka_con.csv line: indka;KA64;;;indka.ka064
+142: Could not find Route matching ConnectedRoute root indka.ka065 in system indka.
+143: No valid roots in indka_con.csv line: indka;KA65;;;indka.ka065
+144: Could not find Route matching ConnectedRoute root indka.ka066 in system indka.
+145: No valid roots in indka_con.csv line: indka;KA66;;;indka.ka066
+146: Could not find Route matching ConnectedRoute root indka.ka067 in system indka.
+147: No valid roots in indka_con.csv line: indka;KA67;;;indka.ka067
+148: Could not find Route matching ConnectedRoute root indka.ka068 in system indka.
+149: No valid roots in indka_con.csv line: indka;KA68;;;indka.ka068
+150: Could not find Route matching ConnectedRoute root indka.ka069 in system indka.
+151: No valid roots in indka_con.csv line: indka;KA69;;;indka.ka069
+152: Could not find Route matching ConnectedRoute root indka.ka070 in system indka.
+153: No valid roots in indka_con.csv line: indka;KA70;;;indka.ka070
+154: Could not find Route matching ConnectedRoute root indka.ka071 in system indka.
+155: No valid roots in indka_con.csv line: indka;KA71;;;indka.ka071
+156: Could not find Route matching ConnectedRoute root indka.ka071e in system indka.
+157: No valid roots in indka_con.csv line: indka;KA71E;;;indka.ka071e
+158: Could not find Route matching ConnectedRoute root indka.ka072 in system indka.
+159: No valid roots in indka_con.csv line: indka;KA72;;;indka.ka072
+160: Could not find Route matching ConnectedRoute root indka.ka073 in system indka.
+161: No valid roots in indka_con.csv line: indka;KA73;;;indka.ka073
+162: Could not find Route matching ConnectedRoute root indka.ka074 in system indka.
+163: No valid roots in indka_con.csv line: indka;KA74;;;indka.ka074
+164: Could not find Route matching ConnectedRoute root indka.ka076 in system indka.
+165: No valid roots in indka_con.csv line: indka;KA76;;;indka.ka076
+166: Could not find Route matching ConnectedRoute root indka.ka077 in system indka.
+167: No valid roots in indka_con.csv line: indka;KA77;;;indka.ka077
+168: Could not find Route matching ConnectedRoute root indka.ka078 in system indka.
+169: No valid roots in indka_con.csv line: indka;KA78;;;indka.ka078
+170: Could not find Route matching ConnectedRoute root indka.ka079 in system indka.
+171: No valid roots in indka_con.csv line: indka;KA79;;;indka.ka079
+172: Could not find Route matching ConnectedRoute root indka.ka080 in system indka.
+173: No valid roots in indka_con.csv line: indka;KA80;;;indka.ka080
+174: Could not find Route matching ConnectedRoute root indka.ka081 in system indka.
+175: No valid roots in indka_con.csv line: indka;KA81;;;indka.ka081
+176: Could not find Route matching ConnectedRoute root indka.ka082 in system indka.
+177: No valid roots in indka_con.csv line: indka;KA82;;;indka.ka082
+178: Could not find Route matching ConnectedRoute root indka.ka083 in system indka.
+179: No valid roots in indka_con.csv line: indka;KA83;;;indka.ka083
+180: Could not find Route matching ConnectedRoute root indka.ka084 in system indka.
+181: No valid roots in indka_con.csv line: indka;KA84;;;indka.ka084
+182: Could not find Route matching ConnectedRoute root indka.ka084var in system indka.
+183: No valid roots in indka_con.csv line: indka;KA84;;;indka.ka084var
+184: Could not find Route matching ConnectedRoute root indka.ka084kup in system indka.
+185: No valid roots in indka_con.csv line: indka;KA84;;;indka.ka084kup
+186: Could not find Route matching ConnectedRoute root indka.ka085 in system indka.
+187: No valid roots in indka_con.csv line: indka;KA85;;;indka.ka085
+188: Could not find Route matching ConnectedRoute root indka.ka086 in system indka.
+189: No valid roots in indka_con.csv line: indka;KA86;;;indka.ka086
+190: Could not find Route matching ConnectedRoute root indka.ka087 in system indka.
+191: No valid roots in indka_con.csv line: indka;KA87;;;indka.ka087
+192: Could not find Route matching ConnectedRoute root indka.ka088 in system indka.
+193: No valid roots in indka_con.csv line: indka;KA88;;;indka.ka088
+194: Could not find Route matching ConnectedRoute root indka.ka089 in system indka.
+195: No valid roots in indka_con.csv line: indka;KA89;;;indka.ka089
+196: Could not find Route matching ConnectedRoute root indka.ka090 in system indka.
+197: No valid roots in indka_con.csv line: indka;KA90;;;indka.ka090
+198: Could not find Route matching ConnectedRoute root indka.ka091 in system indka.
+199: No valid roots in indka_con.csv line: indka;KA91;;;indka.ka091
+200: Could not find Route matching ConnectedRoute root indka.ka092 in system indka.
+201: No valid roots in indka_con.csv line: indka;KA92;;;indka.ka092
+202: Could not find Route matching ConnectedRoute root indka.ka093 in system indka.
+203: No valid roots in indka_con.csv line: indka;KA93;;;indka.ka093
+204: Could not find Route matching ConnectedRoute root indka.ka094 in system indka.
+205: No valid roots in indka_con.csv line: indka;KA94;;;indka.ka094
+206: Could not find Route matching ConnectedRoute root indka.ka095 in system indka.
+207: No valid roots in indka_con.csv line: indka;KA95;;;indka.ka095
+208: Could not find Route matching ConnectedRoute root indka.ka096 in system indka.
+209: No valid roots in indka_con.csv line: indka;KA96;;;indka.ka096
+210: Could not find Route matching ConnectedRoute root indka.ka097 in system indka.
+211: No valid roots in indka_con.csv line: indka;KA97;;;indka.ka097
+212: Could not find Route matching ConnectedRoute root indka.ka098 in system indka.
+213: No valid roots in indka_con.csv line: indka;KA98;;;indka.ka098
+214: Could not find Route matching ConnectedRoute root indka.ka099 in system indka.
+215: No valid roots in indka_con.csv line: indka;KA99;;;indka.ka099
+216: Could not find Route matching ConnectedRoute root indka.ka100 in system indka.
+217: No valid roots in indka_con.csv line: indka;KA100;;;indka.ka100
+218: Could not find Route matching ConnectedRoute root indka.ka101 in system indka.
+219: No valid roots in indka_con.csv line: indka;KA101;;;indka.ka101
+220: Could not find Route matching ConnectedRoute root indka.ka102 in system indka.
+221: No valid roots in indka_con.csv line: indka;KA102;;;indka.ka102
+222: Could not find Route matching ConnectedRoute root indka.ka103 in system indka.
+223: No valid roots in indka_con.csv line: indka;KA103;;;indka.ka103
+224: Could not find Route matching ConnectedRoute root indka.ka104 in system indka.
+225: No valid roots in indka_con.csv line: indka;KA104;;;indka.ka104
+226: Could not find Route matching ConnectedRoute root indka.ka105 in system indka.
+227: No valid roots in indka_con.csv line: indka;KA105;;;indka.ka105
+228: Could not find Route matching ConnectedRoute root indka.ka106 in system indka.
+229: No valid roots in indka_con.csv line: indka;KA106;;;indka.ka106
+230: Could not find Route matching ConnectedRoute root indka.ka107 in system indka.
+231: No valid roots in indka_con.csv line: indka;KA107;;;indka.ka107
+232: Could not find Route matching ConnectedRoute root indka.ka108 in system indka.
+233: No valid roots in indka_con.csv line: indka;KA108;;;indka.ka108
+234: Could not find Route matching ConnectedRoute root indka.ka109 in system indka.
+235: No valid roots in indka_con.csv line: indka;KA109;;;indka.ka109
+236: Could not find Route matching ConnectedRoute root indka.ka110 in system indka.
+237: No valid roots in indka_con.csv line: indka;KA110;;;indka.ka110
+238: Could not find Route matching ConnectedRoute root indka.ka111 in system indka.
+239: No valid roots in indka_con.csv line: indka;KA111;;;indka.ka111
+240: Could not find Route matching ConnectedRoute root indka.ka112 in system indka.
+241: No valid roots in indka_con.csv line: indka;KA112;;;indka.ka112
+242: Could not find Route matching ConnectedRoute root indka.ka112a in system indka.
+243: No valid roots in indka_con.csv line: indka;KA112A;;;indka.ka112a
+244: Could not find Route matching ConnectedRoute root indka.ka113 in system indka.
+245: No valid roots in indka_con.csv line: indka;KA113;;;indka.ka113
+246: Could not find Route matching ConnectedRoute root indka.ka114 in system indka.
+247: No valid roots in indka_con.csv line: indka;KA114;;;indka.ka114
+248: Could not find Route matching ConnectedRoute root indka.ka115 in system indka.
+249: No valid roots in indka_con.csv line: indka;KA115;;;indka.ka115
+250: Could not find Route matching ConnectedRoute root indka.ka116 in system indka.
+251: No valid roots in indka_con.csv line: indka;KA116;;;indka.ka116
+252: Could not find Route matching ConnectedRoute root indka.ka117 in system indka.
+253: No valid roots in indka_con.csv line: indka;KA117;;;indka.ka117
+254: Could not find Route matching ConnectedRoute root indka.ka118 in system indka.
+255: No valid roots in indka_con.csv line: indka;KA118;;;indka.ka118
+256: Could not find Route matching ConnectedRoute root indka.ka119 in system indka.
+257: No valid roots in indka_con.csv line: indka;KA119;;;indka.ka119
+258: Could not find Route matching ConnectedRoute root indka.ka120 in system indka.
+259: No valid roots in indka_con.csv line: indka;KA120;;;indka.ka120
+260: Could not find Route matching ConnectedRoute root indka.ka121 in system indka.
+261: No valid roots in indka_con.csv line: indka;KA121;;;indka.ka121
+262: Could not find Route matching ConnectedRoute root indtg.ka126 in system indka.
+263: Could not find Route matching ConnectedRoute root indka.ka127 in system indka.
+264: No valid roots in indka_con.csv line: indka;KA127;;;indka.ka127
+265: Could not find Route matching ConnectedRoute root indka.ka128 in system indka.
+266: No valid roots in indka_con.csv line: indka;KA128;;;indka.ka128
+267: Could not find Route matching ConnectedRoute root indka.ka129 in system indka.
+268: No valid roots in indka_con.csv line: indka;KA129;;;indka.ka129
+269: Could not find Route matching ConnectedRoute root indka.ka130 in system indka.
+270: No valid roots in indka_con.csv line: indka;KA130;;;indka.ka130
+271: Could not find Route matching ConnectedRoute root indka.ka131 in system indka.
+272: No valid roots in indka_con.csv line: indka;KA131;;;indka.ka131
+273: Could not find Route matching ConnectedRoute root indka.ka132 in system indka.
+274: No valid roots in indka_con.csv line: indka;KA132;;;indka.ka132
+275: Could not find Route matching ConnectedRoute root indka.ka133 in system indka.
+276: No valid roots in indka_con.csv line: indka;KA133;;;indka.ka133
+277: Could not find Route matching ConnectedRoute root indka.ka134 in system indka.
+278: No valid roots in indka_con.csv line: indka;KA134;;;indka.ka134
+279: Could not find Route matching ConnectedRoute root indka.ka135 in system indka.
+280: No valid roots in indka_con.csv line: indka;KA135;;;indka.ka135
+281: Could not find Route matching ConnectedRoute root indka.ka136 in system indka.
+282: No valid roots in indka_con.csv line: indka;KA136;;;indka.ka136
+283: Could not find Route matching ConnectedRoute root indka.ka138 in system indka.
+284: No valid roots in indka_con.csv line: indka;KA137;;;indka.ka138
+285: Could not find Route matching ConnectedRoute root indka.ka139 in system indka.
+286: No valid roots in indka_con.csv line: indka;KA139;;;indka.ka139
+287: Could not find Route matching ConnectedRoute root indka.ka140 in system indka.
+288: No valid roots in indka_con.csv line: indka;KA140;;;indka.ka140
+289: Could not find Route matching ConnectedRoute root indka.ka141 in system indka.
+290: No valid roots in indka_con.csv line: indka;KA141;;;indka.ka141
+291: Could not find Route matching ConnectedRoute root indka.ka142 in system indka.
+292: No valid roots in indka_con.csv line: indka;KA142;;;indka.ka142
+293: Could not find Route matching ConnectedRoute root indka.ka143 in system indka.
+294: No valid roots in indka_con.csv line: indka;KA143;;;indka.ka143
+295: Could not find Route matching ConnectedRoute root indka.ka144 in system indka.
+296: No valid roots in indka_con.csv line: indka;KA144;;;indka.ka144
+297: Could not find Route matching ConnectedRoute root indka.ka145 in system indka.
+298: No valid roots in indka_con.csv line: indka;KA145;;;indka.ka145
+299: Could not find Route matching ConnectedRoute root indka.ka146 in system indka.
+300: No valid roots in indka_con.csv line: indka;KA146;;;indka.ka146
+301: Could not find Route matching ConnectedRoute root indka.ka148 in system indka.
+302: No valid roots in indka_con.csv line: indka;KA148;;;indka.ka148
+303: Could not find Route matching ConnectedRoute root indka.ka188 in system indka.
+304: No valid roots in indka_con.csv line: indka;KA188;;;indka.ka188
+305: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-UP/index/indup.mahmarg.wpt'
+306: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-UP/indne/indup.ne002.wpt'
+307: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-HR/indne/indhr.ne002.wpt'
+308: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-NH/indnh/indnh.nh009.wpt'
+309: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-MH/indka/indmh.ka126.wpt'
+310: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-CH/indnh/indcg.nh030.wpt'
+311: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-KA/indnh/indap.nh042che.wpt'
+312: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-MH/indnh/indmh.nh044.wpt'
+313: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-GJ/indnh/indnh.nh048vad.wpt'
+314: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-GJ/indnh/indnh.048wnad.wpt'
+315: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-GJ/indnh/indnh.048enad.wpt'
+316: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-GJ/indnh/indgj.048.wpt'
+317: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-RJ/indnh/indrh.nh052.wpt'
+318: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-CG/indnh/indcg.nh063.wpt'
+319: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-OR/indnh/indoh.nh063.wpt'
+320: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-RJ/indnh/indrj.nh123dha.wpt'
+321: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-UP/indnh/indup.nh135bbbar.wpt'
+322: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-MP/indnh/indmp.nh135bb.wpt'
+323: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-UP/indnh/indup.nh135bg.wpt'
+324: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-MH/indnh/indmh.nh161avag.wpt'
+325: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-HR/indnh/indhr.nh344amb.wpt'
+326: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-UP/indnh/indup.nh709adnad.wpt'
+327: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-WB/indnh/indsk.nh717.wpt'
+328: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-UP/indnh/indup.nh730b.wpt'
+329: [Errno 2] No such file or directory: '/fast/home/si404/HighwayData/data/IND-GA/indnh/indka.nh748aangd.wpt'
+330: indne.csv: root indup.ne002 not matched by any connected route root.
+331: indnh.csv: root indnh.nh009 not matched by any connected route root.
+332: indka.csv: root indmh.ka126 not matched by any connected route root.
+333: indnh.csv: root indrj.nh021 not matched by any connected route root.
+334: indnh.csv: root indcg.nh030 not matched by any connected route root.
+335: indnh.csv: root indap.nh042che not matched by any connected route root.
+336: indnh.csv: root indmh.nh044wnag not matched by any connected route root.
+337: indnh.csv: root indtn.nh048 not matched by any connected route root.
+338: indnh.csv: root indnh.nh048vad not matched by any connected route root.
+339: indnh.csv: root indnh.048wnad not matched by any connected route root.
+340: indnh.csv: root indnh.048enad not matched by any connected route root.
+341: indnh.csv: root indgj.048 not matched by any connected route root.
+342: indnh.csv: root indrh.nh052 not matched by any connected route root.
+343: indnh.csv: root indoh.nh063 not matched by any connected route root.
+344: indnh.csv: root indmh.nh066 not matched by any connected route root.
+345: indnh.csv: root indmp.nh135bb not matched by any connected route root.
+346: indnh.csv: root indka.nh150 not matched by any connected route root.
+347: indnh.csv: root indka.nh150amys not matched by any connected route root.
+348: indnh.csv: root indmh.nh161avag not matched by any connected route root.
+349: indnh.csv: root indup.nh330d not matched by any connected route root.
+350: indnh.csv: root indhr.nh344amb not matched by any connected route root.
+351: indnh.csv: root indka.nh561amad not matched by any connected route root.
+352: indnh.csv: root indmh.nh548h not matched by any connected route root.
+353: indnh.csv: root indtn.nh648 not matched by any connected route root.
+354: indnh.csv: root indsk.nh717 not matched by any connected route root.
+355: indnh.csv: root indka.nh748aangd not matched by any connected route root.
