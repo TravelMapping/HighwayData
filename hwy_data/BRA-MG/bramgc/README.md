@@ -11,7 +11,7 @@ Sources:
 Notes on routes:
 * MGC-120 [is signed](https://www.google.com/maps/@-19.7517973,-43.0260273,3a,15.3y,260.6h,90.15t/data=!3m6!1e1!3m4!1s8Q1CLaNq6wU2lTEuYlsQHA!2e0!7i16384!8i8192?entry=ttu).
 * MGC-120's northbound route in Ponte Nova is unclear. There is no left turn from Avenida Francisco Vieira Martins onto Avenida Doutor Otávio Soares or Rua Professora Campolina; perhaps the intended route is to go beyond the latter and turn around at the circle.
-* MGC-122 
+* MGC-122 [is signed](https://www.google.com/maps/@-16.2069575,-43.5924275,3a,40.9y,256.08h,83.44t/data=!3m6!1e1!3m4!1sez0kojZyWRul_i7N3euLsQ!2e0!7i16384!8i8192?entry=ttu).
 * MGC-135 
 * MGC-146 
 * MGC-154 
