@@ -339,7 +339,7 @@ Notes on routes:
 * LMG-872 
 * LMG-874 
 * LMG-875 is unbuilt.
-* LMG-877 
+* LMG-877 may be unsigned.
 * LMG-878 
 * LMG-879 
 * LMG-880 
