@@ -109,7 +109,7 @@ Notes on routes:
 * MG-425 
 * MG-426 
 * MG-427 
-* MG-428 
+* MG-428 [is signed](https://www.google.com/maps/@-20.0720887,-47.4036744,3a,15y,104.54h,84.41t/data=!3m6!1e1!3m4!1sm7OzcU6IWs6XTcAgQkf4fQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-429 
 * MG-430 [is signed](https://www.google.com/maps/@-20.081525,-44.8245664,3a,15.1y,20.3h,83.88t/data=!3m6!1e1!3m4!1s_Ph4KhkfDYRCf99Ciu1Ogw!2e0!7i16384!8i8192?entry=ttu).
 * MG-431 [is signed](https://www.google.com/maps/@-20.0623469,-44.5599405,3a,15.2y,284.67h,109.95t/data=!3m6!1e1!3m4!1sdB9NEZEBeZHo5mwHwT1G_Q!2e0!7i16384!8i8192?entry=ttu).
@@ -411,8 +411,8 @@ Notes on routes:
 * AMG-0640 
 * AMG-0645 may be unsigned.
 * AMG-0705 
-* AMG-0710 
-* AMG-0715 
+* AMG-0710 may be unsigned.
+* AMG-0715 may be unsigned.
 * AMG-0725 
 * AMG-0730 
 * AMG-0735 
