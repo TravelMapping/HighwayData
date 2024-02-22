@@ -350,7 +350,7 @@ Notes on routes:
 * LMG-886 
 * LMG-890 may be unsigned.
 * LMG-891 
-* LMG-892 
+* LMG-892 may be unsigned.
 * LMG-893 [seems to be signed](https://www.google.com/maps/@-20.4759519,-45.575664,3a,15y,134.63h,90.31t/data=!3m6!1e1!3m4!1sN3ralZjNmwz-XbJXSji-AA!2e0!7i13312!8i6656?entry=ttu) (under the blue sign).
 * AMG-0105 
 * AMG-0115 
@@ -420,10 +420,10 @@ Notes on routes:
 * AMG-0810 
 * AMG-0815 
 * AMG-0905 may be unsigned.
-* AMG-0910 
+* AMG-0910 [is signed](https://www.google.com/maps/@-18.7523846,-44.4180436,3a,21.6y,237.95h,78.77t/data=!3m6!1e1!3m4!1shtwMZKzkQYifTApFUOYFSA!2e0!7i16384!8i8192?entry=ttu).
 * AMG-0915 
 * AMG-0920 may be unsigned.
-* AMG-0925 
+* AMG-0925 may be unsigned.
 * AMG-0930 
 * AMG-0935 
 * AMG-1005
