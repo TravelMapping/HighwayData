@@ -24,9 +24,11 @@ Notes on routes:
 * MGC-262 is signed as [MGT-262](https://www.google.com/maps/@-19.9773508,-43.420552,3a,15y,289.63h,86.53t/data=!3m6!1e1!3m4!1sY2cjU_PPwQJ4LmJySDffvA!2e0!7i16384!8i8192?entry=ttu) and [MG-262-C](https://www.google.com/maps/@-19.903711,-43.6669826,3a,15.3y,226.29h,92.03t/data=!3m6!1e1!3m4!1sWFKv3zeQv_VEMm6rKqm3fQ!2e0!7i16384!8i8192?entry=ttu) (the latter using an alignment different from the interactive map, apparently moved between 2013 and 2019).
 * MGC-262 may have a gap in Barão de Cocais; the interactive map shows an unbuilt northerly bypass, but a new bypass has recently been built (on a different alignment).
 * MGC-262's portion near its west end that has been bypassed by BR-262, as shown on the interactive map, is [signed as MG-05](https://www.google.com/maps/@-19.8583698,-43.9107046,3a,15y,118.73h,86.77t/data=!3m6!1e1!3m4!1ssDpNc_6hJlXmCEIe1QjgCw!2e0!7i16384!8i8192?entry=ttu).
+* MGC-265 [is signed](https://www.google.com/maps/@-20.8767066,-46.3592884,3a,15.8y,147.21h,87.29t/data=!3m6!1e1!3m4!1sCxsjoQH4DnRemJwn0qu9Sw!2e0!7i16384!8i8192?entry=ttu).
 * MGC-265 east of Miraí [is signed as BR-265 but labeled as a state road in text](https://www.google.com/maps/@-21.2010622,-42.6046577,3a,24.8y,132.34h,79.66t/data=!3m6!1e1!3m4!1s-ZtQXMVef-Jsq8msul9dXA!2e0!7i16384!8i8192?entry=ttu).
 * MGC-265 is shown between Miraí and Guidoval on the interactive map, but not in any other sources, so it is not included.
-* MGC-267 
+* MGC-265 [is signed as BR-265](https://www.google.com/maps/@-20.9275845,-46.9808292,3a,41.5y,206.16h,107.09t/data=!3m6!1e1!3m4!1saWrpGIVcFPZR64B2P9k7Cg!2e0!7i16384!8i8192?entry=ttu) west of São Sebastião do Paraíso.
+* MGC-267 [is signed as BR-267 in a pentagon](https://www.google.com/maps/@-21.7921244,-45.4319002,3a,37.6y,161.38h,86.94t/data=!3m6!1e1!3m4!1sqPjqpWsxScGWakrsNy4cRw!2e0!7i16384!8i8192?entry=ttu) in several places.
 * MGC-342 
 * MGC-352 
 * MGC-354 
