@@ -29,16 +29,19 @@ Notes on routes:
 * MGC-265 is shown between Miraí and Guidoval on the interactive map, but not in any other sources, so it is not included.
 * MGC-265 [is signed as BR-265](https://www.google.com/maps/@-20.9275845,-46.9808292,3a,41.5y,206.16h,107.09t/data=!3m6!1e1!3m4!1saWrpGIVcFPZR64B2P9k7Cg!2e0!7i16384!8i8192?entry=ttu) west of São Sebastião do Paraíso.
 * MGC-267 [is signed as BR-267 in a pentagon](https://www.google.com/maps/@-21.7921244,-45.4319002,3a,37.6y,161.38h,86.94t/data=!3m6!1e1!3m4!1sqPjqpWsxScGWakrsNy4cRw!2e0!7i16384!8i8192?entry=ttu) in several places.
-* MGC-342 
-* MGC-352 
-* MGC-354 
-* MGC-356 
-* MGC-367 
-* MGC-369 
+* MGC-342 may be unsigned.
+* MGC-342's south end may be wrong.
+* MGC-352 [is signed](https://www.google.com/maps/@-19.0848984,-46.1319219,3a,31.1y,198.59h,78.93t/data=!3m6!1e1!3m4!1sNSOBm00xQKbKH1YZhztZuA!2e0!7i16384!8i8192?entry=ttu).
+* MGC-354 [is signed](https://www.google.com/maps/@-17.9978432,-46.8878074,3a,25.6y,231.28h,81.21t/data=!3m6!1e1!3m4!1svvCqKrWiJzmp6sZujLjxKg!2e0!7i16384!8i8192?entry=ttu).
+* MGC-354's south end at Luminárias may be wrong.
+* MGC-354's segment thru Cruzília has been mapped as part of MGC-383 (neither seems to be signed there).
+* MGC-356 may be unsigned. State sources show it goes thru Ervália, but federal sources show BR-356 on the bypass.
+* MGC-367 is signed as BR-367.
+* MGC-369 is signed as BR-369.
 * MGC-381 
 * MGC-383 (note also the entry after 499)
 * MGC-393 
-* MGC-418 
+* MGC-418 [is signed](https://www.google.com/maps/@-17.7215567,-40.762662,3a,39.7y,297.75h,76.3t/data=!3m6!1e1!3m4!1sSmzyAQC9p9hQE66HD_fwOg!2e0!7i16384!8i8192?entry=ttu).
 * MGC-451 [is signed](https://www.google.com/maps/@-17.1364446,-43.8193778,3a,31.2y,96.63h,88.55t/data=!3m6!1e1!3m4!1sgs4k4oC9XjHlOLX8AO84gw!2e0!7i16384!8i8192?entry=ttu).
 * MGC-452 
 * MGC-455 
