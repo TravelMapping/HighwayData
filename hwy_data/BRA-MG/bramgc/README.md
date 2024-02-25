@@ -38,8 +38,9 @@ Notes on routes:
 * MGC-356 may be unsigned. State sources show it goes thru Ervália, but federal sources show BR-356 on the bypass.
 * MGC-367 is signed as BR-367.
 * MGC-369 is signed as BR-369.
-* MGC-381 
-* MGC-383 (note also the entry after 499)
+* MGC-381 may be unsigned.
+* MGC-383 [is signed](https://www.google.com/maps/@-20.5682173,-43.8157779,3a,15y,305.54h,101.77t/data=!3m6!1e1!3m4!1srRdU7zfngM5gH2NAahVWKw!2e0!7i16384!8i8192?entry=ttu) (using the bypass of Alto Maranhão; the interactive map shows both alignments).
+* MGC-383 [is signed](https://www.google.com/maps/@-21.6858341,-44.4674361,3a,31.9y,141.87h,80.67t/data=!3m6!1e1!3m4!1sUTR12hg7M4zMgTEbNJt6tg!2e0!7i16384!8i8192?entry=ttu) thru São Vicente de Minas on what the interactive map shows partially as AMG-1060.
 * MGC-393 
 * MGC-418 [is signed](https://www.google.com/maps/@-17.7215567,-40.762662,3a,39.7y,297.75h,76.3t/data=!3m6!1e1!3m4!1sSmzyAQC9p9hQE66HD_fwOg!2e0!7i16384!8i8192?entry=ttu).
 * MGC-451 [is signed](https://www.google.com/maps/@-17.1364446,-43.8193778,3a,31.2y,96.63h,88.55t/data=!3m6!1e1!3m4!1sgs4k4oC9XjHlOLX8AO84gw!2e0!7i16384!8i8192?entry=ttu).
