@@ -52,8 +52,8 @@ Notes on routes:
 * MGC-460 [is signed as BR-460](https://www.google.com/maps/@-21.9355102,-45.2948217,3a,15.2y,269.94h,84.39t/data=!3m6!1e1!3m4!1sM4yUtFsgzwcNQ1AP1E6VPQ!2e0!7i16384!8i8192?entry=ttu).
 * MGC-462 [is signed](https://www.google.com/maps/@-18.9224437,-47.0275679,3a,15.7y,193.94h,82.9t/data=!3m6!1e1!3m4!1s5PkfqFv4C90nA4EOyXeTRQ!2e0!7i16384!8i8192?entry=ttu). Signs also show [MG-462](https://www.google.com/maps/@-18.9197126,-47.0298002,3a,27.4y,139.02h,85.04t/data=!3m6!1e1!3m4!1sT5WLlHgt0RHKGiu9H8qsRg!2e0!7i16384!8i8192?entry=ttu) and [BR-462](https://www.google.com/maps/@-19.418229,-47.2892555,3a,15y,119.84h,88.35t/data=!3m6!1e1!3m4!1syDdFPDP5MNE9T31O0YYUqg!2e0!7i16384!8i8192?entry=ttu).
 * MGC-464 [is signed](https://www.google.com/maps/@-19.8992058,-47.3767082,3a,20.1y,344.81h,80.31t/data=!3m6!1e1!3m4!1s208wMy6cpyWaLaTYWLcD7A!2e0!7i16384!8i8192?entry=ttu).
-* MGC-479 
-* MGC-482 
+* MGC-479 [is signed](https://www.google.com/maps/@-15.3009599,-45.6426286,3a,15.6y,250.34h,87.07t/data=!3m6!1e1!3m4!1s3AFZ3BwkFiqehs1Tf-txPA!2e0!7i16384!8i8192?entry=ttu). [At least one sign near the east end](https://www.google.com/maps/@-15.4832068,-44.3966976,3a,17.1y,16.47h,88.01t/data=!3m6!1e1!3m4!1sZdZc33cuzz6Rne9otSnt2w!2e0!7i16384!8i8192?entry=ttu) is for BR-479.
+* MGC-482 [is signed](https://www.google.com/maps/@-20.6811456,-42.6290807,3a,15y,324.41h,83.46t/data=!3m6!1e1!3m4!1s26nJssNfJ-MQgQxNaNIz9A!2e0!7i16384!8i8192?entry=ttu). Another sign says [CMG-482](https://www.google.com/maps/@-20.7120318,-42.0346016,3a,42y,51.31h,78.96t/data=!3m6!1e1!3m4!1subQ4lYUQoX-WK8ujsNOmxQ!2e0!7i16384!8i8192?entry=ttu). The portion west of Viçosa is signed as BR-482.
 * MGC-485 
 * MGC-491 
 * MGC-494 
