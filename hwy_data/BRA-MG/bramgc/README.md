@@ -41,14 +41,16 @@ Notes on routes:
 * MGC-381 may be unsigned.
 * MGC-383 [is signed](https://www.google.com/maps/@-20.5682173,-43.8157779,3a,15y,305.54h,101.77t/data=!3m6!1e1!3m4!1srRdU7zfngM5gH2NAahVWKw!2e0!7i16384!8i8192?entry=ttu) (using the bypass of Alto Maranhão; the interactive map shows both alignments).
 * MGC-383 [is signed](https://www.google.com/maps/@-21.6858341,-44.4674361,3a,31.9y,141.87h,80.67t/data=!3m6!1e1!3m4!1sUTR12hg7M4zMgTEbNJt6tg!2e0!7i16384!8i8192?entry=ttu) thru São Vicente de Minas on what the interactive map shows partially as AMG-1060.
-* MGC-393 
+* MGC-383 is signed as BR-383 south of BR-459.
+* MGC-393 may be unsigned.
 * MGC-418 [is signed](https://www.google.com/maps/@-17.7215567,-40.762662,3a,39.7y,297.75h,76.3t/data=!3m6!1e1!3m4!1sSmzyAQC9p9hQE66HD_fwOg!2e0!7i16384!8i8192?entry=ttu).
 * MGC-451 [is signed](https://www.google.com/maps/@-17.1364446,-43.8193778,3a,31.2y,96.63h,88.55t/data=!3m6!1e1!3m4!1sgs4k4oC9XjHlOLX8AO84gw!2e0!7i16384!8i8192?entry=ttu).
-* MGC-452 
-* MGC-455 
-* MGC-458 may be unsigned.
-* MGC-460 
-* MGC-462 
+* MGC-451's west end in Marilac may be wrong.
+* MGC-452 [is signed](https://www.google.com/maps/@-18.9324395,-48.1859941,3a,41.5y,161.13h,81.73t/data=!3m6!1e1!3m4!1sgrwZ4VZiWgZXRtFrNp-XmQ!2e0!7i16384!8i8192?entry=ttu).
+* MGC-455 [is signed](https://www.google.com/maps/@-18.9727249,-48.3078353,3a,17.8y,58.08h,82.41t/data=!3m6!1e1!3m4!1sGeykxFmVeaXoCvRaFhuuUg!2e0!7i16384!8i8192?entry=ttu).
+* MGC-458 may be unsigned. The segment east from BR-116 is signed as BR-458.
+* MGC-460 [is signed as BR-460](https://www.google.com/maps/@-21.9355102,-45.2948217,3a,15.2y,269.94h,84.39t/data=!3m6!1e1!3m4!1sM4yUtFsgzwcNQ1AP1E6VPQ!2e0!7i16384!8i8192?entry=ttu).
+* MGC-462 [is signed](https://www.google.com/maps/@-18.9224437,-47.0275679,3a,15.7y,193.94h,82.9t/data=!3m6!1e1!3m4!1s5PkfqFv4C90nA4EOyXeTRQ!2e0!7i16384!8i8192?entry=ttu). Signs also show [MG-462](https://www.google.com/maps/@-18.9197126,-47.0298002,3a,27.4y,139.02h,85.04t/data=!3m6!1e1!3m4!1sT5WLlHgt0RHKGiu9H8qsRg!2e0!7i16384!8i8192?entry=ttu) and [BR-462](https://www.google.com/maps/@-19.418229,-47.2892555,3a,15y,119.84h,88.35t/data=!3m6!1e1!3m4!1syDdFPDP5MNE9T31O0YYUqg!2e0!7i16384!8i8192?entry=ttu).
 * MGC-464 [is signed](https://www.google.com/maps/@-19.8992058,-47.3767082,3a,20.1y,344.81h,80.31t/data=!3m6!1e1!3m4!1s208wMy6cpyWaLaTYWLcD7A!2e0!7i16384!8i8192?entry=ttu).
 * MGC-479 
 * MGC-482 
