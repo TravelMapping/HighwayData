@@ -54,9 +54,9 @@ Notes on routes:
 * MGC-464 [is signed](https://www.google.com/maps/@-19.8992058,-47.3767082,3a,20.1y,344.81h,80.31t/data=!3m6!1e1!3m4!1s208wMy6cpyWaLaTYWLcD7A!2e0!7i16384!8i8192?entry=ttu).
 * MGC-479 [is signed](https://www.google.com/maps/@-15.3009599,-45.6426286,3a,15.6y,250.34h,87.07t/data=!3m6!1e1!3m4!1s3AFZ3BwkFiqehs1Tf-txPA!2e0!7i16384!8i8192?entry=ttu). [At least one sign near the east end](https://www.google.com/maps/@-15.4832068,-44.3966976,3a,17.1y,16.47h,88.01t/data=!3m6!1e1!3m4!1sZdZc33cuzz6Rne9otSnt2w!2e0!7i16384!8i8192?entry=ttu) is for BR-479.
 * MGC-482 [is signed](https://www.google.com/maps/@-20.6811456,-42.6290807,3a,15y,324.41h,83.46t/data=!3m6!1e1!3m4!1s26nJssNfJ-MQgQxNaNIz9A!2e0!7i16384!8i8192?entry=ttu). Another sign says [CMG-482](https://www.google.com/maps/@-20.7120318,-42.0346016,3a,42y,51.31h,78.96t/data=!3m6!1e1!3m4!1subQ4lYUQoX-WK8ujsNOmxQ!2e0!7i16384!8i8192?entry=ttu). The portion west of Viçosa is signed as BR-482.
-* MGC-485 
-* MGC-491 
-* MGC-494 
-* MGC-496 
-* MGC-497 
-* MGC-499
+* MGC-485 seems to be unsigned. The interactive map shows it going to Vargem Grande, but this doesn't make sense.
+* MGC-491 is signed as BR-491.
+* MGC-494 may be unsigned.
+* MGC-496 [is signed](https://www.google.com/maps/@-18.2064232,-44.5180964,3a,15.1y,214.42h,87.16t/data=!3m6!1e1!3m4!1s4aNM5AdHjPotAYMsdlKePg!2e0!7i16384!8i8192?entry=ttu), also as [MGT-496](https://www.google.com/maps/@-17.3487516,-44.9042984,3a,34.6y,111.57h,102.39t/data=!3m6!1e1!3m4!1svoDIBBFms8yHY1oMi0xTUw!2e0!7i16384!8i8192?entry=ttu) and [MG-496](https://www.google.com/maps/@-17.6825048,-44.6969176,3a,15y,124.15h,85.38t/data=!3m6!1e1!3m4!1sZ0-mgBbhYiEcXcgorv-K1Q!2e0!7i16384!8i8192?entry=ttu).
+* MGC-497 [is signed](https://www.google.com/maps/@-18.9088242,-48.333216,3a,15y,307.64h,82.07t/data=!3m6!1e1!3m4!1s4JCQUAGHFd9gvGi8nI2ONg!2e0!7i16384!8i8192?entry=ttu).
+* MGC-499 is signed as BR-499.
