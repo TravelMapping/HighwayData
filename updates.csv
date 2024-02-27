@@ -764,6 +764,8 @@ date;region;route;root;description
 2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
 2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2022-01-23;(China) Xianjiang;AH9;chnxj.ah009;Route added
+2024-02-24;Croatia;D403;hrv.d403;Routing clarified just north of D8
+2024-02-24;Croatia;D680;hrv.d680;New Route
 2023-12-25;Croatia;D8;hrv.d008;Route truncated at south end from the BIH border to Duboka (D236 now), and reextended onto Pelješac bridge (former D674) to MNE border
 2023-12-25;Croatia;D8 (Dubrovnik);hrv.d008;Route deleted (merged into main route or D237 now)
 2023-12-25;Croatia;D236;hrv.d236;New Route (former D8)
@@ -1707,6 +1709,8 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2024-02-24;(Germany) Brandenburg;L37 (Müllrose);deubb.l037;Route truncated at north end from Zechin (L33) to Petershagen (B5)
+2024-02-24;(Germany) Brandenburg;L37 (Neulangsow);deubb.l037neu;New Route
 2023-12-24;(Germany) Brandenburg;L602;;Route deleted
 2023-07-30;(Germany) Brandenburg;B102;deubb.b102;Route reloacted from through Schmerzke and onto new bypass from Belziger Chausee junction in Neuschmerzke to Am Piperfenn
 2023-05-06;(Germany) Brandenburg;L223;;Route removed
@@ -1745,6 +1749,7 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2024-02-25;(Germany) Hesse;B43 (Sachsenhausen);deuhe.b043;New Route
 2023-11-03;(Germany) Hesse;B236;deuhe.b236;Route truncated at south end from Marburger Straße (old B252) in Münchhausen to western bypass (new B252)
 2023-11-03;(Germany) Hesse;B252;deuhe.b252;Route relocated from through Münchhausen and Wetter from north of Münchhausen to Goßfelden (B62)
 2023-11-03;(Germany) Hesse;B252 (Wetter);deuhe.b252;Route deleted (merged into main route)
@@ -1836,6 +1841,7 @@ date;region;route;root;description
 2016-08-08;(Germany) Lower Saxony;Nordtangente Oldenburg;deuni.nordtanold;New Route
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route extended at east end from exit 5 to exit 6
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route relabeled exit 1 as exit 2, and exit 2 as exit 3
+2024-02-25;(Germany) Mecklenburg-Western Pomerania;B103 (Güstrow);deumv.b103;Route extended at south end from Güstrow to L37 (undo 2021 change)
 2023-08-13;(Germany) Mecklenburg-Western Pomerania;L296;deumv.l296;Route extended at west end from Altefähr (L29) to Franken (B96)
 2021-12-25;(Germany) Mecklenburg-Western Pomerania;B103 (Güstrow);deumv.b103;Route truncated at south end from L37 to B104 in Güstrow (B104 now)
 2020-03-03;(Germany) Mecklenburg-Western Pomerania;B96 (Neubrandenburg);;Route removed
@@ -2010,10 +2016,19 @@ date;region;route;root;description
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Kirchheim);deurp.b271kir;Route relocated from northern section of the bypass and through Kirchheim
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
+2024-02-25;(Germany) Saarland;B269 (Körprich);deusl.b269kor;New Route (former L143)
+2024-02-25;(Germany) Saarland;L109;deusl.l109;Route truncated at north end from A620 to Saargemünder Straße (L174 now)
+2024-02-25;(Germany) Saarland;L119;deusl.l119;Route truncated at west end from Zur Ostspange to Brebacher Landstraße (L174 now)
+2024-02-25;(Germany) Saarland;L143 (Schmelz);deusl.l143;Route truncated at west end from Fasanenweg to east of Körprich (B269 now)
+2024-02-25;(Germany) Saarland;L147 (Otzenhausen);deusl.l147l;Route renamed to L147L
+2024-02-25;(Germany) Saarland;L164L;deusl.l164l;New Route
+2024-02-25;(Germany) Saarland;L174 (Saarbrücken);deusl.l174saa;New Route
 2022-10-28;(Germany) Saarland;B51 (Saarbrücken);deusl.b051;Route relocated from through Roden and onto new bypass from Gustav-Heinemann-Brücke to A8 exit 10
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2024-02-24;(Germany) Saxony;S36 (Main);deusn.s036;Route relocated in Freital from Wilsdruffer Straße and Dresdner Straße, and onto Carl-Thieme-Straße and Hüttenstraße
+2024-02-24;(Germany) Saxony;S194;deusn.s194;Route relocated from in Freital from Dresdner Straße, and onto Carl-Thieme-Straße and Hüttenstraße
 2023-12-24;(Germany) Saxony;S95;deusn.s095;Route relocated from through Leppersdorf (S95a now), and onto western bypass (former S177n)
 2023-12-24;(Germany) Saxony;S95a;deusn.s095a;New Route (former S95)
 2023-12-24;(Germany) Saxony;S177n;deusn.s095;Route deleted (S95 now)
@@ -6403,6 +6418,8 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 31;il.il031;Relocated in Algonquin from Main Street between Huntington Drive and Elmwood Court, west onto new bypass
 2015-09-06;(USA) Illinois;IL 62;il.il062;Extended west in Algongquin, along Algonquin Road from Main Street (old IL 31) to new IL 31 bypass
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
+2024-02-24;(USA) Indiana;IN 11 (Elizabeth);in.in011;Truncated at south end from IN 135 to former intersection with IN 337
+2024-02-24;(USA) Indiana;IN 337 (Corydon);in.in337;Truncated at south end from IN 11 to Corydon city limit
 2023-10-28;(USA) Indiana;IN 252 (Edinburgh);in.in252;Truncated at east end from IN 9 to I-65
 2023-10-21;(USA) Indiana;IN 931 (Lakeville);in.in931lak;Truncated at north end from US 31 to the South Bend city limit
 2022-12-17;(USA) Indiana;I-69 (Wheatonville);in.i069whe;Extended at north end from exit 140A to exit 153
@@ -7610,6 +7627,8 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2024-02-24;(USA) Ohio;OH 93;oh.oh093;Extended at south end from US 52 to Kentucky state line
+2024-02-24;(USA) Ohio;OH 253;oh.oh253;Extended at north end from US 52 to CR 1
 2023-12-26;(USA) Ohio;OH 739;oh.oh739;Extended at north end following OH4/OH423 to new end at OH95/309
 2023-10-28;(USA) Ohio;OH 100 Truck ((North) Tiffin);oh.oh100trktif;Removed from Adams St and Monroe St and relocated onto Frost Pkwy, Miami St, Sandusky St, and Hudson St between AdaSt and MonSt points
 2023-07-29;(USA) Ohio;OH 9 Truck (Salem);oh.oh009trksal;Route added
@@ -8033,6 +8052,11 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2024-02-24;(USA) Tennessee;I-69 Future (Union City);tn.i069futuni;Removed from segment of US 45W/US 51 and extended along new TN 690 bypass around Union City, with US45W/51 point moved to northern end of TN 690 concurrency
+2024-02-24;(USA) Tennessee;TN 93;tn.tn093;TN126_W point moved from Wilcox Dr to Old Wilcox Dr
+2024-02-24;(USA) Tennessee;TN 126;tn.tn126;Reverted change from July 2023 to reflect new signage, with TN93_S point moved to current south end
+2024-02-24;(USA) Tennessee;TN 131;tn.tn131;Realigned between *OldTN131_W and *OldTN131_E and moved onto short concurrency with US 25E, with US25E point split into US25E_S & US25E_N
+2024-02-24;(USA) Tennessee;TN 690;tn.tn690;Route added
 2024-01-15;(USA) Tennessee;TN 175;tn.tn175;Removed from Shelby Post Rd and Byhalia Rd and relocated onto Shelby Dr between ShePostRd and ByhRd_S to reflect realignment that occurred in 2015 or 2016.
 2024-01-15;(USA) Tennessee;TN 372;tn.tn372;Route added
 2023-12-09;(USA) Tennessee;TN 22A;tn.tn022a;Realigned between TN 459 and OldTN22A
