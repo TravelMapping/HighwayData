@@ -107,7 +107,7 @@ Notes on routes:
 * MG-423 [was signed in 2014](https://www.google.com/maps/@-19.6420127,-44.9392883,3a,41.7y,354.29h,93.11t/data=!3m7!1e1!3m5!1s6VYZXZDzQJyUgkZObKiz2A!2e0!5s20140901T000000!7i13312!8i6656?entry=ttu) on a construction sign but this sign, at least, has disappeared.
 * MG-424 [is signed](https://www.google.com/maps/@-19.7652607,-43.9481173,3a,18.4y,350.79h,105.4t/data=!3m6!1e1!3m4!1svwQvIxhBxeaHcms8yoTdEg!2e0!7i16384!8i8192?entry=ttu).
 * MG-425 
-* MG-426 
+* MG-426 may be unsigned.
 * MG-427 [is signed](https://www.google.com/maps/@-19.9792999,-48.2871138,3a,47.5y,309.03h,77.5t/data=!3m6!1e1!3m4!1snB7bL0nZ76I3VyxN4U2JEA!2e0!7i16384!8i8192?entry=ttu).
 * MG-428 [is signed](https://www.google.com/maps/@-20.0720887,-47.4036744,3a,15y,104.54h,84.41t/data=!3m6!1e1!3m4!1sm7OzcU6IWs6XTcAgQkf4fQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-429 
@@ -249,7 +249,7 @@ Notes on routes:
 * LMG-746 
 * LMG-747 
 * LMG-748 
-* LMG-749 
+* LMG-749 [is signed](https://www.google.com/maps/@-18.9041909,-48.3298096,3a,35.1y,49.25h,84.44t,2.37r/data=!3m6!1e1!3m4!1s6GgYNY-RQgHZ_WDLbEAfPw!2e0!7i16384!8i8192?entry=ttu).
 * LMG-750 
 * LMG-751 
 * LMG-752 [is signed](https://www.google.com/maps/@-18.4694926,-43.0647281,3a,15y,221.61h,86.2t/data=!3m6!1e1!3m4!1smhZ8gXf_nbBxkjbL719xpA!2e0!7i16384!8i8192?entry=ttu).
@@ -333,9 +333,9 @@ Notes on routes:
 * LMG-860 
 * LMG-862 [is signed](https://www.google.com/maps/@-21.6347398,-45.065924,3a,26.2y,207.92h,80.95t/data=!3m6!1e1!3m4!1sMAdcciaxpN7Dp9MwkMuScw!2e0!7i16384!8i8192?entry=ttu).
 * LMG-863 seems to be unsigned (and is part of BR-265).
-* LMG-864 
-* LMG-865 
-* LMG-866 
+* LMG-864 [seems to be signed](https://www.google.com/maps/@-19.7146056,-50.3383413,3a,15y,41.81h,91.01t/data=!3m6!1e1!3m4!1s8MjGlbZiA5pTSg6-6VTJ5A!2e0!7i16384!8i8192?entry=ttu) (on the blue sign).
+* LMG-865 may be unsigned.
+* LMG-866 may be unsigned.
 * LMG-867 [is signed](https://www.google.com/maps/@-22.1263518,-45.0379547,3a,26.1y,41.34h,87.59t/data=!3m6!1e1!3m4!1sTgqEBnCsOm0eeWvbXusMMQ!2e0!7i16384!8i8192?entry=ttu).
 * LMG-868 
 * LMG-870 
@@ -519,11 +519,19 @@ Notes on routes:
 * ...
 * AMG-3020 may be unsigned.
 * ...
+* AMG-3110 may be unsigned.
+* AMG-3115 may be unsigned.
+* ...
 * AMG-3205 may be unsigned.
 * AMG-3210 may be unsigned.
 * AMG-3215 may be unsigned.
 * AMG-3220 may be unsigned.
 * AMG-3225 may be unsigned.
+* ...
+* AMG-3305 may be unsigned.
+* AMG-3310 may be unsigned.
+* AMG-3315 
+* AMG-3320 may be unsigned.
 * ...
 * AMG-3505 may be unsigned.
 * ...
