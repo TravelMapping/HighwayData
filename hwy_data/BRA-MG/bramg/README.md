@@ -145,7 +145,7 @@ Notes on routes:
 * MG-461 
 * MG-462 may be unsigned. It [was signed as MGC-120](https://www.google.com/maps/@-19.5496693,-43.1541331,3a,48.1y,293.9h,63.84t/data=!3m7!1e1!3m5!1soCe7ufOGW4FYivWMLHWnYA!2e0!5s20220501T000000!7i16384!8i8192?entry=ttu) as of 2022, but MGC-120 now implicitly bypasses Itabira on MG-129.
 * LMG-501 may be unsigned.
-* LMG-502 
+* LMG-502 may be unsigned.
 * LMG-503 may be unsigned.
 * LMG-504 is unbuilt.
 * LMG-505 
@@ -224,7 +224,7 @@ Notes on routes:
 * LMG-719 may be unsigned.
 * LMG-720 may be unsigned.
 * LMG-721 may be unsigned.
-* LMG-722 may be unsinged.
+* LMG-722 [seems to be signed](https://www.google.com/maps/@-18.382205,-46.8889445,3a,15y,52.8h,87.56t/data=!3m6!1e1!3m4!1s7rjGynVsn_hMATdORTFlcQ!2e0!7i16384!8i8192?entry=ttu) (to the left of the yellow sign).
 * LMG-723 [is signed](https://www.google.com/maps/@-17.7110877,-42.5219379,3a,45.8y,209.07h,80.76t/data=!3m6!1e1!3m4!1sKc1B5xFQCuU_5NGaZ6Gsog!2e0!7i16384!8i8192?entry=ttu).
 * LMG-724 may be unsigned.
 * LMG-726 
@@ -306,9 +306,10 @@ Notes on routes:
 * LMG-829 
 * LMG-830 [is signed](https://www.google.com/maps/@-20.4611502,-45.5325052,3a,17.3y,19.4h,85.88t/data=!3m6!1e1!3m4!1s4h_OacsinPqNNVxKWJSMmg!2e0!7i16384!8i8192?entry=ttu).
 * LMG-831 may be unsigned.
-* LMG-832 
+* LMG-832 [is signed](https://www.google.com/maps/@-20.3181142,-46.3558905,3a,36.8y,101.57h,71.46t/data=!3m6!1e1!3m4!1sh_S9Jv31ym859tgWykY8PQ!2e0!7i16384!8i8192?entry=ttu).
 * LMG-833 
 * LMG-834 [is signed](https://www.google.com/maps/@-20.6563539,-41.9179145,3a,25.4y,264.94h,85.9t/data=!3m6!1e1!3m4!1sh0xI04oMZFNO8iqtnKQsqg!2e0!7i16384!8i8192?entry=ttu).
+* LMG-835 is now BR-146 between Passos and BR-265.
 * LMG-836 [was signed in 2011](https://www.google.com/maps/@-20.6986088,-47.1114723,3a,18.2y,112.49h,83.23t/data=!3m7!1e1!3m5!1s6-UyvxElQL--je6bIEgD6w!2e0!5s20110901T000000!7i13312!8i6656?entry=ttu) but this sign, at least, has disappeared.
 * LMG-837 [was signed in 2014](https://www.google.com/maps/@-20.7381925,-46.6523964,3a,22.1y,207.01h,84.76t/data=!3m7!1e1!3m5!1ss6_L0GBvxH04iz8XqDXIvg!2e0!5s20140901T000000!7i13312!8i6656?entry=ttu) but this sign, at least, has disappeared.
 * LMG-838 
@@ -484,6 +485,8 @@ Notes on routes:
 * AMG-1780
 * AMG-1785
 * AMG-1790 may be unsigned.
+* ...
+* AMG-1835 may be unsigned.
 * ...
 * AMG-1905 [is signed](https://www.google.com/maps/@-22.1715903,-45.2680996,3a,15.3y,158.57h,85.35t/data=!3m6!1e1!3m4!1sb-o0GFKsYkxfUucCayTgUw!2e0!7i16384!8i8192?entry=ttu).
 * ...
