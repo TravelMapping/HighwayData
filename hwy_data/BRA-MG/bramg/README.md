@@ -33,7 +33,7 @@ Notes on routes:
 * MG-164 [is signed](https://www.google.com/maps/@-20.2978142,-45.1817797,3a,15y,217.19h,84.82t/data=!3m6!1e1!3m4!1sB1dOqbccFZiSIDiF762eEA!2e0!7i16384!8i8192?entry=ttu).
 * MG-167 may be unsigned.
 * MG-170 [was signed in 2018](https://www.google.com/maps/@-20.4788458,-45.7749818,3a,36.4y,168.38h,86.35t/data=!3m7!1e1!3m5!1ssQQtOKSkyqBSGXz6vnevRQ!2e0!5s20181201T000000!7i13312!8i6656?entry=ttu) but this sign, at least, has disappeared.
-* MG-173 
+* MG-173 may be unsigned.
 * MG-176 [is signed](https://www.google.com/maps/@-19.7821878,-45.6831937,3a,16.5y,57.57h,81.46t/data=!3m6!1e1!3m4!1szgXkxu4wjXdj2G-yr4eZpw!2e0!7i16384!8i8192?entry=ttu).
 * MG-179 [is signed](https://www.google.com/maps/@-21.446152,-45.9486365,3a,16y,165.01h,86.84t/data=!3m6!1e1!3m4!1s5rx4CrNSR4Zr0DqZ5lf_eQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-181 may be unsigned.
@@ -56,17 +56,17 @@ Notes on routes:
 * MG-232 [is signed](https://www.google.com/maps/@-19.3312144,-42.5481803,3a,15.6y,12.69h,81.34t/data=!3m6!1e1!3m4!1sY-bTMLgiXzRaQcjmefXJvA!2e0!7i13312!8i6656?entry=ttu).
 * MG-235 [is signed](https://www.google.com/maps/@-19.3537216,-46.1319571,3a,15.2y,125.25h,84.55t/data=!3m6!1e1!3m4!1sd7tiYqN-YwelJYkD3XnWyg!2e0!7i16384!8i8192?entry=ttu).
 * MG-238 [is signed](https://www.google.com/maps/@-19.5010906,-44.2829832,3a,15.8y,269.98h,84.59t/data=!3m6!1e1!3m4!1s9iXUaJA8cqC-0jQL1m27Ug!2e0!7i16384!8i8192?entry=ttu).
-* MG-252 
+* MG-252 [is signed](https://www.google.com/maps/@-20.0661602,-44.8274193,3a,15.8y,354.53h,85.32t/data=!3m6!1e1!3m4!1sfNW-xROpJWZXXtvPJgRhow!2e0!7i16384!8i8192?entry=ttu).
 * MG-255 [is signed](https://www.google.com/maps/@-19.8906191,-49.3713246,3a,15.1y,171.88h,78.79t/data=!3m6!1e1!3m4!1sZ4Iq--Kvq2OV6r9pwcr9ew!2e0!7i16384!8i8192?entry=ttu).
-* MG-260 
+* MG-260 [is signed](https://www.google.com/maps/@-20.4432599,-44.5662493,3a,34.3y,6.37h,79.69t/data=!3m6!1e1!3m4!1sSjlUVUeEyRPZCJil7N2Ceg!2e0!7i16384!8i8192?entry=ttu).
 * MG-262 [is signed](https://www.google.com/maps/@-20.3962809,-43.1455228,3a,48.5y,268.87h,74.97t/data=!3m6!1e1!3m4!1s1FkFHL1YxbXZD7Yy0K3h3Q!2e0!7i16384!8i8192?entry=ttu).
 * MG-265 [is signed](https://www.google.com/maps/@-20.7076617,-42.0814953,3a,27y,317.49h,82.33t/data=!3m6!1e1!3m4!1sDy4z5LQkjlPy7qhclKh--A!2e0!7i16384!8i8192?entry=ttu).
 * MG-270 [is signed](https://www.google.com/maps/@-20.5452428,-44.649272,3a,36y,109.62h,86.62t/data=!3m6!1e1!3m4!1skKWtXWNMzJWxrKModce_og!2e0!7i16384!8i8192?entry=ttu).
 * MG-275 [is signed](https://www.google.com/maps/@-20.948074,-43.797017,3a,32.6y,339.06h,87.31t/data=!3m6!1e1!3m4!1sJolujHpBoxVdYT7CiopSog!2e0!7i16384!8i8192?entry=ttu).
 * MG-280 [is signed](https://www.google.com/maps/@-20.8715085,-42.9719166,3a,28.6y,43.77h,83.79t/data=!3m6!1e1!3m4!1suIkJGBg2p4L2wP9OoVALvw!2e0!7i16384!8i8192?entry=ttu).
 * MG-285 [is signed](https://www.google.com/maps/@-21.314508,-42.8136517,3a,24.4y,252.71h,92.66t/data=!3m6!1e1!3m4!1s0LhQasUei65VTJa1XEgM5Q!2e0!7i16384!8i8192?entry=ttu).
-* MG-290 
-* MG-295 
+* MG-290 may be unsigned.
+* MG-295 [is signed](https://www.google.com/maps/@-22.5614671,-45.7738302,3a,37y,29.32h,82.69t/data=!3m6!1e1!3m4!1sjOd7eZ_EN2uCHRX7MtaH8A!2e0!7i16384!8i8192?entry=ttu).
 * MG-307 [is signed](https://www.google.com/maps/@-16.388389,-43.1876105,3a,15y,126.5h,86.22t/data=!3m6!1e1!3m4!1s5AaufmGmY0mVKVT9uF1fHA!2e0!7i13312!8i6656?entry=ttu).
 * MG-308 [is signed](https://www.google.com/maps/@-17.6716273,-42.5227635,3a,35.1y,13.94h,80.55t/data=!3m6!1e1!3m4!1ssM8Dy4-MYN2kDAdnMCRMsA!2e0!7i16384!8i8192?entry=ttu) south of where sources show it beginning (at MG-211).
 * MG-311 may be unsigned.
@@ -130,13 +130,13 @@ Notes on routes:
 * MG-446 [is signed](https://www.google.com/maps/@-20.72233,-46.3842194,3a,37.9y,112h,90.01t/data=!3m6!1e1!3m4!1suGtewJy4SXD-a_KqiEmfQQ!2e0!7i16384!8i8192?entry=ttu), including [on what's inventoried as a branch of BR-265](https://www.google.com/maps/@-20.8735499,-46.3650276,3a,35.9y,344.34h,77.65t/data=!3m6!1e1!3m4!1sLL_bJnOWtEVg9RMy-TLALA!2e0!7i16384!8i8192?entry=ttu).
 * MG-447 [is signed](https://www.google.com/maps/@-21.1138186,-42.9507294,3a,15y,41.9h,96.91t/data=!3m6!1e1!3m4!1sJ_0RStWxLf6nrL3_V0uFBQ!2e0!7i16384!8i8192?entry=ttu).
 * MG-448 [is signed](https://www.google.com/maps/@-21.2334823,-43.4247955,3a,15y,306.84h,82.48t/data=!3m6!1e1!3m4!1sZUkMh3bBu1dyQMoSmdP9Dw!2e0!7i16384!8i8192?entry=ttu).
-* MG-449 
+* MG-449 may be unsigned.
 * MG-450 
 * MG-451 may be unsigned.
 * MG-452 [is signed](https://www.google.com/maps/@-21.3385971,-43.4669421,3a,16.8y,341.33h,83.13t/data=!3m6!1e1!3m4!1sRcsry38Jg0_y0oSRhuUrZw!2e0!7i16384!8i8192?entry=ttu).
 * MG-453 [is signed](https://www.google.com/maps/@-21.5505781,-45.7572055,3a,15y,301.32h,80.69t/data=!3m6!1e1!3m4!1sr00hs7CvCxhu1bguGsqrjw!2e0!7i16384!8i8192?entry=ttu).
 * MG-454 may be unsigned.
-* MG-455 
+* MG-455 [is signed](https://www.google.com/maps/@-22.08366,-46.596766,3a,15.7y,303.25h,87.84t/data=!3m6!1e1!3m4!1sgzfcSjb-xNm9vPQGh1Eohg!2e0!7i16384!8i8192?entry=ttu).
 * MG-456 
 * MG-457 [is signed](https://www.google.com/maps/@-22.1830311,-44.0878465,3a,20.2y,62.68h,86.65t/data=!3m6!1e1!3m4!1s-0FQVa0-uGCgh3jFcniRYg!2e0!7i16384!8i8192?entry=ttu).
 * MG-458 
@@ -324,14 +324,14 @@ Notes on routes:
 * LMG-845 may be unsigned.
 * LMG-846 
 * LMG-847 may be unsigned.
-* LMG-848 
+* LMG-848 may be unsigned.
 * LMG-849 
 * LMG-850 [is signed](https://www.google.com/maps/@-21.2761082,-42.901139,3a,27.1y,42.94h,83.63t/data=!3m6!1e1!3m4!1s5aIXl4_s789131a5c0tdbQ!2e0!7i16384!8i8192?entry=ttu).
 * LMG-852 may be unsigned.
 * LMG-853 
 * LMG-855 may be unsigned.
 * LMG-856 may be unsigned.
-* LMG-857 
+* LMG-857 may be unsigned.
 * LMG-858 
 * LMG-860 
 * LMG-862 [is signed](https://www.google.com/maps/@-21.6347398,-45.065924,3a,26.2y,207.92h,80.95t/data=!3m6!1e1!3m4!1sMAdcciaxpN7Dp9MwkMuScw!2e0!7i16384!8i8192?entry=ttu).
@@ -439,7 +439,7 @@ Notes on routes:
 * AMG-0935
 * AMG-0940 may be unsigned. It is not in the log, but the interactive map shows it at Felixlândia.
 * AMG-1005 may be unsigned.
-* AMG-1010 
+* AMG-1010 may be unsigned.
 * AMG-1015 [is signed](https://www.google.com/maps/@-21.898433,-45.018962,3a,36.6y,188.12h,83.9t/data=!3m6!1e1!3m4!1sR3RrmOrs-KVAY6BTKUeziQ!2e0!7i13312!8i6656?entry=ttu) (as of 2015).
 * AMG-1020 may be unsigned.
 * AMG-1025 [is signed](https://www.google.com/maps/@-21.9254031,-45.1103945,3a,31.2y,50.8h,76.39t/data=!3m6!1e1!3m4!1szAm7Fth4_UrPei1QjEDUug!2e0!7i13312!8i6656?entry=ttu) (as of 2015).
@@ -467,19 +467,19 @@ Notes on routes:
 * AMG-1415 [is signed](https://www.google.com/maps/@-18.8299385,-46.6091023,3a,18.5y,84.55h,74.8t/data=!3m6!1e1!3m4!1sja9mfPuI1cOv0SzGO7TCGA!2e0!7i16384!8i8192?entry=ttu).
 * AMG-1420 may be unsigned.
 * AMG-1425 
-* AMG-1505 
+* AMG-1505 [is signed](https://www.google.com/maps/@-21.3155583,-46.3651773,3a,17.7y,82.1h,83.76t/data=!3m6!1e1!3m4!1snIyMT-Y5P-CbO7Re51HAaQ!2e0!7i16384!8i8192?entry=ttu).
 * AMG-1515 may be unsigned.
-* AMG-1520 
+* AMG-1520 may be unsigned.
 * AMG-1530 may be unsigned.
 * AMG-1535 
-* AMG-1540 
+* AMG-1540 [was signed in 2015](https://www.google.com/maps/@-21.4166433,-45.8377739,3a,17.4y,189.68h,92.62t/data=!3m7!1e1!3m5!1sWJnnOzbmY4wc6iF-ekK92g!2e0!5s20150401T000000!7i13312!8i6656?entry=ttu) on a construction sign.
 * AMG-1545 [is signed as MG-1545](https://www.google.com/maps/@-21.7684697,-46.6323208,3a,34y,238.83h,76.87t/data=!3m6!1e1!3m4!1sI1udOmKQVG2QM4qi7Q-lFA!2e0!7i16384!8i8192?entry=ttu).
-* AMG-1550 
+* AMG-1550 may be unsigned.
 * AMG-1555 
-* AMG-1560 
+* AMG-1560 may be unsigned.
 * AMG-1605 
 * AMG-1615 may be unsigned.
-* AMG-1625 
+* AMG-1625 may be unsigned.
 * AMG-1630 may be unsigned.
 * AMG-1635 may be unsigned.
 * AMG-1640 may be unsigned.
@@ -510,9 +510,9 @@ Notes on routes:
 * AMG-1835 may be unsigned.
 * AMG-1840 may be unsigned.
 * AMG-1905 [is signed](https://www.google.com/maps/@-22.1715903,-45.2680996,3a,15.3y,158.57h,85.35t/data=!3m6!1e1!3m4!1sb-o0GFKsYkxfUucCayTgUw!2e0!7i16384!8i8192?entry=ttu).
-* AMG-1915 
+* AMG-1915 [is signed](https://www.google.com/maps/@-22.554839,-45.2405075,3a,17.4y,8.69h,83.87t/data=!3m6!1e1!3m4!1sCeSJ0S_o7H2lFB83AGyvvQ!2e0!7i16384!8i8192?entry=ttu).
 * AMG-1920 
-* AMG-1925 
+* AMG-1925 may be unsigned.
 * AMG-1930 
 * AMG-1935 
 * AMG-1945 
@@ -586,7 +586,7 @@ Notes on routes:
 * AMG-2975 [is signed as MG-2975](https://www.google.com/maps/@-20.732737,-42.2207932,3a,26y,87.05h,74.8t/data=!3m6!1e1!3m4!1sPJeV3cEHiQn9zLcA5o06Hw!2e0!7i16384!8i8192?entry=ttu).
 * AMG-2980 [is signed](https://www.google.com/maps/@-21.0169445,-42.3614995,3a,39.4y,23.03h,76.26t/data=!3m6!1e1!3m4!1s1ELjzHBIFmFZJyUvGXV7oQ!2e0!7i16384!8i8192?entry=ttu).
 * AMG-2985 
-* AMG-2990 
+* AMG-2990 may be unsigned.
 * AMG-2995 
 * AMG-3005 
 * AMG-3010 may be unsigned.
