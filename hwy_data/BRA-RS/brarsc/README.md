@@ -7,4 +7,5 @@ Sources:
 * Logs: https://www.daer.rs.gov.br/sistema-rodoviario-estadual
 
 Notes on routes:
+* RSC-470 seems to be unsigned; it is all locally maintained.
 * RSC-471 [is signed](https://www.google.com/maps/@-29.6813725,-52.4581394,3a,19.2y,62.29h,78.98t/data=!3m6!1e1!3m4!1sFxdhwBw_eA1ZcmQatErySw!2e0!7i16384!8i8192?entry=ttu), though perhaps not all the way to RSC-153.
