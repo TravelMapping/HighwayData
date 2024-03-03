@@ -10,7 +10,7 @@
 
 
 * ADDITIONAL SOURCES BY STATES:
-- http://geoportal.saarland.de/mapbender/geoportal/mod_index.php
+- http://geoportal.saarland.de
 
 
 **NOTES TO ROUTES:**

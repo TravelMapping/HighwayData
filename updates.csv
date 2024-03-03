@@ -1603,6 +1603,11 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2024-03-02;(Germany) Bavaria;B8 (Straubing);deuby.b008;Route truncated at east end from Angerstraße to Fritz-Schäffer-Promenade (B12 now)
+2024-03-02;(Germany) Bavaria;B12 (Freyung);deuby.b012fre;Route relocated from northern Danube bank (B85 or St2125 now) to southern Danube bank between Franz-Josef-Strauß-Brücke and Schanzlbrücke in Passau
+2024-03-02;(Germany) Bavaria;B85;deuby.b085;Route extended at south end from St2125 to Schanzlbrücke in Passau (former B12)
+2024-03-02;(Germany) Bavaria;St2125;deuby.st2125;Route extended at east end from Franz-Josef-Strauß-Brücke in Passau to the Austrian border
+2024-03-02;(Germany) Bavaria;St2125 (Passau);deuby.st2125;Route merged into main route
 2024-02-18;(Germany) Bavaria;A73 (Bamberg);deuby.a073;Route truncated at south end from B4R to exit 39 (Frankenschnellweg now)
 2024-02-18;(Germany) Bavaria;A73 (Nürnberg);deuby.a073nur;Route truncated at north end from Frankenschnellweg to exit 43 (Südwesttangente Fürth - Nürnberg now)
 2024-02-18;(Germany) Bavaria;A94 (Mühldorf);deuby.a094;Route truncated at west end from Vogelweideplatz to exit 1 (B12 now)
@@ -1749,6 +1754,7 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2024-02-25;(Germany) Hesse;B43 (Sachsenhausen);deuhe.b043sac;New Route
 2023-11-03;(Germany) Hesse;B236;deuhe.b236;Route truncated at south end from Marburger Straße (old B252) in Münchhausen to western bypass (new B252)
 2023-11-03;(Germany) Hesse;B252;deuhe.b252;Route relocated from through Münchhausen and Wetter from north of Münchhausen to Goßfelden (B62)
 2023-11-03;(Germany) Hesse;B252 (Wetter);deuhe.b252;Route deleted (merged into main route)
@@ -1840,6 +1846,7 @@ date;region;route;root;description
 2016-08-08;(Germany) Lower Saxony;Nordtangente Oldenburg;deuni.nordtanold;New Route
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route extended at east end from exit 5 to exit 6
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route relabeled exit 1 as exit 2, and exit 2 as exit 3
+2024-02-25;(Germany) Mecklenburg-Western Pomerania;B103 (Güstrow);deumv.b103;Route extended at south end from Güstrow to L37 (undo 2021 change)
 2023-08-13;(Germany) Mecklenburg-Western Pomerania;L296;deumv.l296;Route extended at west end from Altefähr (L29) to Franken (B96)
 2021-12-25;(Germany) Mecklenburg-Western Pomerania;B103 (Güstrow);deumv.b103;Route truncated at south end from L37 to B104 in Güstrow (B104 now)
 2020-03-03;(Germany) Mecklenburg-Western Pomerania;B96 (Neubrandenburg);;Route removed
@@ -2014,6 +2021,13 @@ date;region;route;root;description
 2018-11-10;(Germany) Rhineland-Palatinate;B271 (Kirchheim);deurp.b271kir;Route relocated from northern section of the bypass and through Kirchheim
 2017-12-20;(Germany) Rhineland-Palatinate;A565;deurp.a565;New Route
 2015-09-15;(Germany) Rhineland-Palatinate;E42;deurp.e42;Route relocated from A1 and B50 to B50n between exit 11 of A60 and the junction of B50 and B50n
+2024-02-25;(Germany) Saarland;B269 (Körprich);deusl.b269kor;New Route (former L143)
+2024-02-25;(Germany) Saarland;L109;deusl.l109;Route truncated at north end from A620 to Saargemünder Straße (L174 now)
+2024-02-25;(Germany) Saarland;L119;deusl.l119;Route truncated at west end from Zur Ostspange to Brebacher Landstraße (L174 now)
+2024-02-25;(Germany) Saarland;L143 (Schmelz);deusl.l143;Route truncated at west end from Fasanenweg to east of Körprich (B269 now)
+2024-02-25;(Germany) Saarland;L147 (Otzenhausen);deusl.l147l;Route renamed to L147L
+2024-02-25;(Germany) Saarland;L164L;deusl.l164l;New Route
+2024-02-25;(Germany) Saarland;L174 (Saarbrücken);deusl.l174saa;New Route
 2022-10-28;(Germany) Saarland;B51 (Saarbrücken);deusl.b051;Route relocated from through Roden and onto new bypass from Gustav-Heinemann-Brücke to A8 exit 10
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
@@ -5535,6 +5549,8 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2024-02-27;(UK) England;A585;eng.a0585;Route removed from Garstang New Road and Mains Lane and relocated onto Singleton bypass between A588_N and A586_E
+2024-02-27;(UK) England;A586;eng.a0586;Route removed from Garstang New Road and Garstang Road East and relocated onto Singleton bypass between A585_W and A585_E
 2024-02-15;(UK) England;A390;eng.a0390;Route extended at west end from former A30 junction to new A30/A3075 junction
 2024-02-15;(UK) England;A1154;eng.a1154;Route added
 2024-02-15;(UK) England;B3288;eng.b3288;Route added
