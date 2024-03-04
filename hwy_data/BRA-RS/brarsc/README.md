@@ -13,3 +13,4 @@ Notes on routes:
 * RSC-453 ACE-9150 [is signed as RSC-453](https://www.google.com/maps/@-29.1901356,-51.2476356,3a,41.6y,85.74h,79.59t/data=!3m6!1e1!3m4!1sppzRftgsKM8Gf8M78uKOow!2e0!7i16384!8i8192?entry=ttu).
 * RSC-470 seems to be unsigned; it is all locally maintained.
 * RSC-471 [is signed](https://www.google.com/maps/@-29.6813725,-52.4581394,3a,19.2y,62.29h,78.98t/data=!3m6!1e1!3m4!1sFxdhwBw_eA1ZcmQatErySw!2e0!7i16384!8i8192?entry=ttu), though perhaps not all the way to RSC-153.
+* RSC-472's short segment around Santa Rosa seems to be signed only as ERS-344, which it is entirely concurrent with.
