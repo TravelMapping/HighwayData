@@ -31,7 +31,7 @@ Notes on routes:
 * ERS-168 
 * ERS-176 may be unsigned, but the connecting RS-541 is signed, so it is included.
 * ERS-183 [is signed](https://www.google.com/maps/@-30.7135436,-55.8053984,3a,20y,328.97h,88.78t/data=!3m6!1e1!3m4!1se3RFID5nJwudL1VVy2it7Q!2e0!7i16384!8i8192?entry=ttu).
-* ERS-207 
+* ERS-207 [is signed](https://www.google.com/maps/@-27.5644748,-53.9500835,3a,15y,67.8h,85.83t/data=!3m7!1e1!3m5!1sqjoCHViF8V4p4oOcQ8on_A!2e0!5s20211101T000000!7i16384!8i8192?entry=ttu).
 * ERS-208 
 * ERS-210 
 * ERS-211 
@@ -44,14 +44,14 @@ Notes on routes:
 * ERS-242 
 * ERS-244 [is signed](https://www.google.com/maps/@-29.6478601,-52.1991579,3a,15.8y,268.94h,82.21t/data=!3m6!1e1!3m4!1ssyof2q4-15tBXT0mCZrVug!2e0!7i16384!8i8192?entry=ttu) along the local maintenance in Venâncio Aires.
 * ERS-265 
-* ERS-305 
+* ERS-305 [is signed](https://www.google.com/maps/@-27.7408835,-54.4882207,3a,15.4y,29.94h,87.79t/data=!3m6!1e1!3m4!1sOQLp9XUBDcdSBelLT6SksQ!2e0!7i16384!8i8192?entry=ttu).
 * ERS-307 
 * ERS-315 
 * ERS-317 
 * ERS-323 
 * ERS-324 
 * ERS-325 
-* ERS-330 
+* ERS-330 [is signed](https://www.google.com/maps/@-27.3636604,-53.7701498,3a,15y,8.92h,85.42t/data=!3m6!1e1!3m4!1spALOZhz4JyRX51JKj0A8dg!2e0!7i16384!8i8192?entry=ttu).
 * ERS-331 
 * ERS-332 
 * ERS-342 
@@ -59,10 +59,10 @@ Notes on routes:
 * ERS-344 [is signed](https://www.google.com/maps/@-28.1910694,-54.3227485,3a,23.8y,38.9h,86.92t/data=!3m6!1e1!3m4!1sV5x1x-nb92MVYxU55JQdaA!2e0!7i16384!8i8192?entry=ttu).
 * ERS-347 
 * ERS-348 [is signed](https://www.google.com/maps/@-29.5627017,-53.626823,3a,18y,264.65h,83.69t/data=!3m6!1e1!3m4!1sy2ha57C-GLukxzU7b9vS3w!2e0!7i16384!8i8192?entry=ttu).
-* ERS-350 
+* ERS-350 [is signed](https://www.google.com/maps/@-30.9097738,-51.5039702,3a,26.2y,338.06h,83.58t/data=!3m6!1e1!3m4!1sfjVFkBUkfTZRyQiAnhgK9Q!2e0!7i16384!8i8192?entry=ttu).
 * ERS-354 
 * ERS-355 
-* ERS-357 
+* ERS-357 [is signed](https://www.google.com/maps/@-30.8287595,-53.905838,3a,18.4y,105.85h,84.61t/data=!3m6!1e1!3m4!1scZzR8Y56N-zKOUGiPHAsLg!2e0!7i13312!8i6656?entry=ttu).
 * ERS-359 
 * ERS-373 
 * ERS-389 [is signed](https://www.google.com/maps/@-29.3240534,-49.7583782,3a,15.1y,194.23h,85.83t/data=!3m6!1e1!3m4!1sLxNHTBx22OTAt7tMSq3qPQ!2e0!7i16384!8i8192?entry=ttu).
@@ -85,8 +85,8 @@ Notes on routes:
 * ERS-418 [is signed](https://www.google.com/maps/@-29.6583399,-52.3996504,3a,15.4y,32.16h,85.08t/data=!3m6!1e1!3m4!1sNSviGsZqPh37_Sh5KxWrqQ!2e0!7i16384!8i8192?entry=ttu).
 * ERS-419 
 * ERS-420 
-* ERS-421 
-* ERS-422 
+* ERS-421 [is signed](https://www.google.com/maps/@-29.351318,-52.3838365,3a,15y,70.49h,90.05t/data=!3m6!1e1!3m4!1syzl5zpAfa320oNsH62BIDA!2e0!7i16384!8i8192?entry=ttu).
+* ERS-422 [is signed](https://www.google.com/maps/@-29.6027788,-52.2104583,3a,31.5y,141.15h,84.8t/data=!3m6!1e1!3m4!1szVAFM6kAN1qGmeNXLNumVQ!2e0!7i13312!8i6656?entry=ttu).
 * ERS-423 
 * ERS-424 
 * ERS-425 
@@ -160,7 +160,7 @@ Notes on routes:
 * ERS-525 
 * ERS-526 
 * ERS-527 
-* ERS-528 
+* ERS-528 may be unsigned.
 * ERS-529 
 * ERS-530 
 * ERS-531 
@@ -168,7 +168,7 @@ Notes on routes:
 * ERS-533 may be unsigned.
 * ERS-536 
 * ERS-539 
-* ERS-540 
+* ERS-540 may be unsigned.
 * ERS-541 [is signed](https://www.google.com/maps/@-28.7501534,-55.5952507,3a,15.5y,329.14h,87.58t/data=!3m6!1e1!3m4!1sYRcKRp0-P9XMoMsBf4N3mA!2e0!7i16384!8i8192?entry=ttu).
 * ERS-542 
 * ERS-550 
@@ -179,24 +179,24 @@ Notes on routes:
 * ERS-569 
 * ERS-571 
 * ERS-573 
-* ERS-575 
+* ERS-575 [is signed](https://www.google.com/maps/@-27.8088851,-54.7817789,3a,15.9y,299.18h,86.72t/data=!3m6!1e1!3m4!1sNfbuH68OO-2WNCuOwaYv9w!2e0!7i16384!8i8192?entry=ttu).
 * ERS-585 
 * ERS-587 
 * ERS-591 
 * ERS-596 
-* ERS-602 
-* ERS-608 
+* ERS-602 [is signed](https://www.google.com/maps/@-32.1991304,-53.1170296,3a,30.9y,183.8h,78.54t/data=!3m6!1e1!3m4!1sHHiTmP_1Kn9LlqNq_J9TUQ!2e0!7i16384!8i8192?entry=ttu).
+* ERS-608 [is signed](https://www.google.com/maps/@-31.6868269,-53.5630177,3a,18.5y,170.49h,83.25t/data=!3m6!1e1!3m4!1sdv7O1jqSluKBSVFwNQG41Q!2e0!7i16384!8i8192?entry=ttu).
 * ERS-625 
 * ERS-630 
 * ERS-634 
 * ERS-640 
 * ERS-647 
 * ERS-654 
-* ERS-655 
+* ERS-655 may be unsigned.
 * ERS-699 
 * ERS-702 
 * ERS-703 
-* ERS-704 
+* ERS-704 may be unsigned, but since there are no signs for anything else, it and ACE-9010 are being used in waypoint labels for RSC-473.
 * ERS-705 
 * ERS-706 
 * ERS-711 
