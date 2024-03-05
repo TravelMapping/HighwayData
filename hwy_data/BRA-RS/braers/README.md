@@ -1,4 +1,4 @@
-Rio Grande do Sul Sistema Rodoviário Estadual (Estaduais)
+Rio Grande do Sul Sistema Rodoviário Estadual
 
 Sources:
 * Maps: https://www.daer.rs.gov.br/mapas
