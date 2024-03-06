@@ -1603,6 +1603,20 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2024-03-04;(Germany) Bavaria;B471 (Aschheim);deuby.b471asc;New Route
+2024-03-04;(Germany) Bavaria;St2053 (Ismaning);;Route deleted
+2024-03-04;(Germany) Bavaria;St2340;deuby.st2340;New Route
+2024-03-03;(Germany) Bavaria;B23 (Oberau);deuby.b023obe;New Route (former B2)
+2024-03-03;(Germany) Bavaria;St2151;deuby.st2151;Route relocated from Neunburger Straße and onto new western, existing eastern bypass and Böhmerstraße from west of Rötz to Brückenstraße in Rötz
+2024-03-03;(Germany) Bavaria;St2309 (Main);deuby.st2309;Route relocated from through Aschaffenburg city center and onto Schillerstraße and Westring from Damm to Obernauer Kolonie
+2024-03-03;(Germany) Bavaria;St2312;deuby.st2312;Route truncated at west end from B26 to St2314
+2024-03-03;(Germany) Bavaria;St2314;deuby.st2314;New Route
+2024-03-03;(Germany) Bavaria;St3115;deuby.st3115;Route truncated at east end from B26 to St2309
+2024-03-02;(Germany) Bavaria;B8 (Straubing);deuby.b008;Route truncated at east end from Angerstraße to Fritz-Schäffer-Promenade (B12 now)
+2024-03-02;(Germany) Bavaria;B12 (Freyung);deuby.b012fre;Route relocated from northern Danube bank (B85 or St2125 now) to southern Danube bank between Franz-Josef-Strauß-Brücke and Schanzlbrücke in Passau
+2024-03-02;(Germany) Bavaria;B85;deuby.b085;Route extended at south end from St2125 to Schanzlbrücke in Passau (former B12)
+2024-03-02;(Germany) Bavaria;St2125;deuby.st2125;Route extended at east end from Franz-Josef-Strauß-Brücke in Passau to the Austrian border
+2024-03-02;(Germany) Bavaria;St2125 (Passau);deuby.st2125;Route merged into main route
 2024-02-18;(Germany) Bavaria;A73 (Bamberg);deuby.a073;Route truncated at south end from B4R to exit 39 (Frankenschnellweg now)
 2024-02-18;(Germany) Bavaria;A73 (Nürnberg);deuby.a073nur;Route truncated at north end from Frankenschnellweg to exit 43 (Südwesttangente Fürth - Nürnberg now)
 2024-02-18;(Germany) Bavaria;A94 (Mühldorf);deuby.a094;Route truncated at west end from Vogelweideplatz to exit 1 (B12 now)
@@ -6546,6 +6560,7 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2024-03-02;(USA) Kentucky;KY 1617;ky.ky1617;Removed from old routing (now unsigned KY 1617A) between OldKY1617_S and OldKY1617_N and relocated onto KY956 and connector road
 2024-01-20;(USA) Kentucky;KY 2775;ky.ky2775;Route added
 2024-01-15;(USA) Kentucky;KY 55;ky.ky0055;Removed from part of concurrency with US 68 and New Columbia Rd (now KY 210) in Campbellsville and relocated onto new Campbellsville Bypass between US68_W and KY210
 2024-01-15;(USA) Kentucky;KY 210;ky.ky0210;Extended at south end along former routing of KY 55 from US68/70 to KY55
