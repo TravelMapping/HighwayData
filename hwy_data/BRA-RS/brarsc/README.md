@@ -13,6 +13,6 @@ Notes on routes:
 * RSC-453 AM-9150 [is signed as RSC-453](https://www.google.com/maps/@-29.1901356,-51.2476356,3a,41.6y,85.74h,79.59t/data=!3m6!1e1!3m4!1sppzRftgsKM8Gf8M78uKOow!2e0!7i16384!8i8192?entry=ttu).
 * RSC-470 seems to be unsigned; it is all locally maintained.
 * RSC-471 [is signed](https://www.google.com/maps/@-29.6813725,-52.4581394,3a,19.2y,62.29h,78.98t/data=!3m6!1e1!3m4!1sFxdhwBw_eA1ZcmQatErySw!2e0!7i16384!8i8192?entry=ttu), though perhaps not all the way to RSC-153.
-* RSC-472's short segment around Santa Rosa seems to be signed only as ERS-344, which it is entirely concurrent with.
+* RSC-472's short segment around Santa Rosa seems to be signed only as ERS-344, which it is partly concurrent with.
 * RSC-473 [is signed](https://www.google.com/maps/@-32.0123226,-53.2499386,3a,17.2y,317.67h,85.46t/data=!3m6!1e1!3m4!1sN2QnYkV5dwgcibkWCfKVHQ!2e0!7i16384!8i8192?entry=ttu) near Herval. Its end at Herval is unclear.
 * RSC-473 north of Bagé [is signed on a construction sign](https://www.google.com/maps/@-31.2635737,-54.1398817,3a,15y,20h,90.79t/data=!3m6!1e1!3m4!1sI4cFAlIyAAr0pMEF1CtsZg!2e0!7i16384!8i8192?entry=ttu) if nowhere else.
