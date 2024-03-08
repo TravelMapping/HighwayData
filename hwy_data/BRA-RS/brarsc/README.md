@@ -1,4 +1,4 @@
-Rio Grande do Sul Sistema Rodoviário Estadual (Estaduais Coincidentes)
+Rio Grande do Sul Rodovias Estaduais Coincidentes
 
 These are portions of federal routes that are constructed but maintained by the state. Older signs say [RST](https://www.google.com/maps/@-29.0057012,-51.4104809,3a,15.4y,211.04h,83.54t/data=!3m6!1e1!3m4!1ssb1MMJhgTfMYFMlXcVroIQ!2e0!7i16384!8i8192?entry=ttu).
 
