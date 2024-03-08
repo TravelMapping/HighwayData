@@ -1,4 +1,4 @@
-Paraná Sistema Rodoviário Estadual
+Paraná Rodovias Estaduais
 
 Sources:
 * Maps: https://www.der.pr.gov.br/Pagina/Mapas-Rodoviarios https://sider.der.pr.gov.br/mapainterativo/webgis/map (latter more up-to-date, for example at Peabiru, but neither seems to be as up-to-date as the municipal maps in the log, for example PRC-158 at Coronel Vivida)
@@ -6,18 +6,18 @@ Sources:
 
 Notes on routes:
 * PR-082 
-* PR-090 
-* PR-092 
-* PR-151 
-* PR-160 
+* PR-090 [is signed](https://www.google.com/maps/@-24.2338259,-50.2322367,3a,15.5y,46.59h,83.65t/data=!3m6!1e1!3m4!1s7t0Dq2MVyk6MCILHc2WBuw!2e0!7i16384!8i8192?entry=ttu).
+* PR-092 [is signed](https://www.google.com/maps/@-24.2674181,-49.7337031,3a,16.3y,69.96h,77.48t/data=!3m6!1e1!3m4!1soffH-vz2qNV022hKO_1fRg!2e0!7i16384!8i8192?entry=ttu).
+* PR-151 [is signed](https://www.google.com/maps/@-25.8409324,-50.3817984,3a,15y,67.5h,83.77t/data=!3m6!1e1!3m4!1sFu_GFP0ktDSJraz2bNMsig!2e0!7i16384!8i8192?entry=ttu).
+* PR-160 [is signed](https://www.google.com/maps/@-24.0266992,-50.4391397,3a,15y,92.36h,87.74t/data=!3m6!1e1!3m4!1sPr2BUrvK8uVFS5nW2BT-xA!2e0!7i16384!8i8192?entry=ttu).
 * PR-170 
 * PR-180 
-* PR-182 
+* PR-182 [is signed](https://www.google.com/maps/@-24.0766277,-53.8372766,3a,16.8y,153.13h,89.12t/data=!3m6!1e1!3m4!1sUsPVQ2ry-hVNDXg8J50zMQ!2e0!7i16384!8i8192?entry=ttu).
 * PR-218 
 * PR-239 
 * PR-281 [is signed](https://www.google.com/maps/@-25.8141452,-52.6136541,3a,35.7y,112.73h,80.44t/data=!3m6!1e1!3m4!1s_pcc_6mBxFvcgaALPM6NNA!2e0!7i16384!8i8192?entry=ttu).
 * PR-317 
-* PR-323 
+* PR-323 [is signed](https://www.google.com/maps/@-23.7713012,-53.2507243,3a,33.1y,105.54h,85.26t/data=!3m6!1e1!3m4!1sCv0un1tlVCPJre7Z9J0wdw!2e0!7i16384!8i8192?entry=ttu).
 * PR-340 
 * PR-364 
 * PR-405 
@@ -32,14 +32,14 @@ Notes on routes:
 * PR-419 
 * PR-420 
 * PR-421 
-* PR-422 
+* PR-422 [is signed](https://www.google.com/maps/@-23.8952009,-49.7979183,3a,33.5y,218.09h,83.97t/data=!3m6!1e1!3m4!1s8lXcT5_cQ6e2Gv5z6aJ6rg!2e0!7i16384!8i8192?entry=ttu).
 * PR-423 
-* PR-424 
+* PR-424 [is signed](https://www.google.com/maps/@-23.6393998,-49.7971237,3a,15y,263.65h,81.76t/data=!3m6!1e1!3m4!1sNYnRWkMPCEUP-SeSKSyIUw!2e0!7i16384!8i8192?entry=ttu).
 * PR-427 
 * PR-429 
 * PR-431 
 * PR-433 
-* PR-435 
+* PR-435 may be unsigned.
 * PR-436 
 * PR-437 
 * PR-438 
@@ -48,13 +48,13 @@ Notes on routes:
 * PR-442 
 * PR-443 
 * PR-444 
-* PR-445 
+* PR-445 [is signed](https://www.google.com/maps/@-23.4055467,-51.1364713,3a,45.2y,59.54h,90.93t/data=!3m6!1e1!3m4!1sYebArlb7Q18ThFGgiTvXgQ!2e0!7i16384!8i8192?entry=ttu).
 * PR-446 
 * PR-447 
 * PR-449 
 * PR-450 
-* PR-451 
-* PR-453 
+* PR-451 [is signed](https://www.google.com/maps/@-24.101734,-51.4732719,3a,28.9y,186.47h,77.26t/data=!3m6!1e1!3m4!1spEbAY2WagQace3NyzlV1dg!2e0!7i16384!8i8192?entry=ttu).
+* PR-453 [is signed](https://www.google.com/maps/@-23.9881629,-51.5081127,3a,15y,119.66h,87.51t/data=!3m6!1e1!3m4!1ssYwIyGPc_WLKnd7qI3Txbw!2e0!7i16384!8i8192?entry=ttu).
 * PR-454 
 * PR-455 
 * PR-456 
@@ -84,7 +84,7 @@ Notes on routes:
 * PR-486 
 * PR-488 
 * PR-489 
-* PR-490 
+* PR-490 [is signed](https://www.google.com/maps/@-24.0210139,-53.7320524,3a,15.2y,157.91h,87.06t/data=!3m6!1e1!3m4!1sSY-6wfAvnpveKOBESVa7sw!2e0!7i16384!8i8192?entry=ttu).
 * PR-491 
 * PR-492 [is signed](https://www.google.com/maps/@-23.2216182,-52.5173502,3a,15y,258.78h,84.38t/data=!3m6!1e1!3m4!1sTRToXsKlpZbxRB86OYi_mQ!2e0!7i16384!8i8192?entry=ttu).
 * PR-493 
@@ -135,11 +135,11 @@ Notes on routes:
 * PR-560 
 * PR-561 
 * PR-562 [is signed](https://www.google.com/maps/@-25.9837234,-52.5414282,3a,15.2y,130.85h,86.06t/data=!3m6!1e1!3m4!1s9pfAfKFWS8Jdejk2ebmyCg!2e0!7i16384!8i8192?entry=ttu).
-* PR-565 
+* PR-565 [is signed](https://www.google.com/maps/@-25.4468053,-52.4088275,3a,16.4y,222.68h,78.46t/data=!3m6!1e1!3m4!1snhnwnPBJ18oy687SauZ5rg!2e0!7i16384!8i8192?entry=ttu).
 * PR-566 
 * PR-567 
 * PR-569 
-* PR-570 
+* PR-570 may be unsigned; there is no imagery available.
 * PR-573 
 * PR-574 
 * PR-575 
@@ -214,7 +214,7 @@ Notes on routes:
 * PR-940 
 * PR-951 
 * PR-958 
-* PR-960 
+* PR-960 seems to be unsigned.
 * PR-961 
 * PR-962 
 * PR-963 
