@@ -14,6 +14,6 @@ Notes on routes:
 * PRC-373 [is signed](https://www.google.com/maps/@-25.0666974,-50.1811233,3a,15y,40.75h,86.87t/data=!3m6!1e1!3m4!1sVUjSGf2H4y-864qrpkdMGg!2e0!7i16384!8i8192?entry=ttu).
 * PRC-466 [is signed](https://www.google.com/maps/@-24.510775,-51.6911674,3a,15y,54.68h,83.01t/data=!3m6!1e1!3m4!1seh2taJC1ihQSQZ_g06AkBw!2e0!7i16384!8i8192?entry=ttu), though often [as PR-466](https://www.google.com/maps/@-24.038919,-51.6130259,3a,16.9y,95.34h,88.81t/data=!3m6!1e1!3m4!1s8sU4aKmFyr2kn75wXpop_w!2e0!7i16384!8i8192?entry=ttu).
 * PRC-466's short piece at União da Vitória seems to be unsigned.
-* PRC-467 
+* PRC-467 [is signed](https://www.google.com/maps/@-24.5612951,-54.2041964,3a,15y,121.98h,81.8t/data=!3m6!1e1!3m4!1se8Ti-8j0bpkwD3fXyvkk3A!2e0!7i16384!8i8192?entry=ttu).
 * PRC-476 [is signed at least once as PR-476](https://www.google.com/maps/@-26.2126282,-51.094232,3a,17.2y,79.93h,86.97t/data=!3m6!1e1!3m4!1s-iFTBcXaJb2YK6_-CQpwAg!2e0!7i16384!8i8192?entry=ttu).
 * PRC-487 [is signed](https://www.google.com/maps/@-24.5289414,-51.6963789,3a,19y,317.2h,68.71t/data=!3m6!1e1!3m4!1sx5m9YAaNlBeq7tCXAUnX1A!2e0!7i16384!8i8192?entry=ttu).
