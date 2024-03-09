@@ -13,13 +13,13 @@ Notes on routes:
 * PR-170 [is signed](https://www.google.com/maps/@-23.567786,-51.5241314,3a,15y,221.99h,81.5t/data=!3m6!1e1!3m4!1sY8cI2sDo0Ipkx19nbLpQ7Q!2e0!7i16384!8i8192?entry=ttu).
 * PR-180 [is signed](https://www.google.com/maps/@-26.1604614,-53.0187775,3a,15y,175.26h,87.87t/data=!3m6!1e1!3m4!1sHoIULd1LkLK9M_t1tYNplg!2e0!7i16384!8i8192?entry=ttu).
 * PR-182 [is signed](https://www.google.com/maps/@-24.0766277,-53.8372766,3a,16.8y,153.13h,89.12t/data=!3m6!1e1!3m4!1sUsPVQ2ry-hVNDXg8J50zMQ!2e0!7i16384!8i8192?entry=ttu).
-* PR-218 
+* PR-218 may be unsigned, but it's so long that there's probably a sign somewhere.
 * PR-239 [is signed](https://www.google.com/maps/@-24.6073453,-52.7822333,3a,21.7y,129.91h,82.62t/data=!3m6!1e1!3m4!1s0i2ANNbJog97VudUYLmxPg!2e0!7i16384!8i8192?entry=ttu).
 * PR-281 [is signed](https://www.google.com/maps/@-25.8141452,-52.6136541,3a,35.7y,112.73h,80.44t/data=!3m6!1e1!3m4!1s_pcc_6mBxFvcgaALPM6NNA!2e0!7i16384!8i8192?entry=ttu).
 * PR-317 
 * PR-323 [is signed](https://www.google.com/maps/@-23.7713012,-53.2507243,3a,33.1y,105.54h,85.26t/data=!3m6!1e1!3m4!1sCv0un1tlVCPJre7Z9J0wdw!2e0!7i16384!8i8192?entry=ttu).
-* PR-340 
-* PR-364 
+* PR-340 [is signed](https://www.google.com/maps/@-24.4919075,-50.4661354,3a,17.9y,182.69h,84.38t/data=!3m6!1e1!3m4!1sYGtsN2Gwj0z2QKgO5jxFoQ!2e0!7i16384!8i8192?entry=ttu).
+* PR-364 [is signed](https://www.google.com/maps/@-25.3784599,-51.291794,3a,19.7y,147.56h,89.09t/data=!3m6!1e1!3m4!1sfsh-DnHCvI3ldp_kDu0dMQ!2e0!7i16384!8i8192?entry=ttu).
 * PR-405 
 * PR-407 
 * PR-408 
@@ -29,21 +29,21 @@ Notes on routes:
 * PR-415 
 * PR-417 
 * PR-418 
-* PR-419 
+* PR-419 may be unsigned.
 * PR-420 
 * PR-421 
 * PR-422 [is signed](https://www.google.com/maps/@-23.8952009,-49.7979183,3a,33.5y,218.09h,83.97t/data=!3m6!1e1!3m4!1s8lXcT5_cQ6e2Gv5z6aJ6rg!2e0!7i16384!8i8192?entry=ttu).
 * PR-423 
 * PR-424 [is signed](https://www.google.com/maps/@-23.6393998,-49.7971237,3a,15y,263.65h,81.76t/data=!3m6!1e1!3m4!1sNYnRWkMPCEUP-SeSKSyIUw!2e0!7i16384!8i8192?entry=ttu).
-* PR-427 
+* PR-427 [is signed](https://www.google.com/maps/@-25.972572,-49.6886218,3a,15y,309.2h,87.54t/data=!3m6!1e1!3m4!1s3tgElJf3U2-xAqg-kS0MBw!2e0!7i16384!8i8192?entry=ttu).
 * PR-429 
-* PR-431 
+* PR-431 [is signed](https://www.google.com/maps/@-23.1520408,-49.9148213,3a,15y,197.57h,84.27t/data=!3m6!1e1!3m4!1sgVv9uNoZy45F5DxlwZh8lA!2e0!7i16384!8i8192?entry=ttu).
 * PR-433 
 * PR-435 may be unsigned.
-* PR-436 
+* PR-436 [is signed](https://www.google.com/maps/@-23.0129144,-50.3998263,3a,41.2y,30.63h,83.2t/data=!3m6!1e1!3m4!1syWO3cGaiWVuHo3558nnlxA!2e0!7i16384!8i8192?entry=ttu).
 * PR-437 
 * PR-438 
-* PR-439 
+* PR-439 [is signed](https://www.google.com/maps/@-23.3095055,-50.0719738,3a,18.3y,308.46h,86.49t/data=!3m6!1e1!3m4!1szDEj9xxvBBWUKuEGACSvow!2e0!7i16384!8i8192?entry=ttu).
 * PR-441 
 * PR-442 
 * PR-443 
@@ -81,7 +81,7 @@ Notes on routes:
 * PR-483 
 * PR-484 
 * PR-485 
-* PR-486 
+* PR-486 [is signed](https://www.google.com/maps/@-24.6494003,-53.4679196,3a,15y,185.07h,87.12t/data=!3m6!1e1!3m4!1sxvceFYB9XHRyVo_-UOLs6A!2e0!7i16384!8i8192?entry=ttu).
 * PR-488 
 * PR-489 
 * PR-490 [is signed](https://www.google.com/maps/@-24.0210139,-53.7320524,3a,15.2y,157.91h,87.06t/data=!3m6!1e1!3m4!1sSY-6wfAvnpveKOBESVa7sw!2e0!7i16384!8i8192?entry=ttu).
@@ -89,7 +89,7 @@ Notes on routes:
 * PR-492 [is signed](https://www.google.com/maps/@-23.2216182,-52.5173502,3a,15y,258.78h,84.38t/data=!3m6!1e1!3m4!1sTRToXsKlpZbxRB86OYi_mQ!2e0!7i16384!8i8192?entry=ttu).
 * PR-493 
 * PR-494 [is signed](https://www.google.com/maps/@-22.8511187,-52.2127744,3a,31y,120.5h,84.46t/data=!3m6!1e1!3m4!1s13naFnlbsGVbRqzjTzt5DQ!2e0!7i16384!8i8192?entry=ttu).
-* PR-495 
+* PR-495 [is signed](https://www.google.com/maps/@-24.5653828,-54.2012761,3a,15.7y,205.93h,77.79t/data=!3m6!1e1!3m4!1s_xi0PXb66EaRLUHAc4GWVA!2e0!7i16384!8i8192?entry=ttu).
 * PR-496 
 * PR-497 
 * PR-498 
@@ -97,20 +97,20 @@ Notes on routes:
 * PR-508 
 * PR-509 
 * PR-510 
-* PR-511 
+* PR-511 may be unsigned.
 * PR-512 
 * PR-513 
 * PR-515 
 * PR-517 
 * PR-518 
 * PR-519 
-* PR-522 
+* PR-522 [is signed](https://www.google.com/maps/@-25.0612467,-50.7703877,3a,15y,192.28h,82.03t/data=!3m6!1e1!3m4!1sZANh37YS0usAPPFc0IlkmQ!2e0!7i16384!8i8192?entry=ttu).
 * PR-525 
 * PR-526 
-* PR-531 
+* PR-531 may be unsigned.
 * PR-532 
 * PR-534 
-* PR-535 
+* PR-535 [is signed](https://www.google.com/maps/@-24.2116288,-51.3700343,3a,16.3y,27.59h,82.13t/data=!3m6!1e1!3m4!1suuCq7J4RtFd8nHvFP7yybw!2e0!7i16384!8i8192?entry=ttu).
 * PR-536 
 * PR-537 
 * PR-538 
@@ -125,7 +125,7 @@ Notes on routes:
 * PR-550 
 * PR-551 
 * PR-552 
-* PR-553 
+* PR-553 may be unsigned.
 * PR-554 
 * PR-555 
 * PR-556 [is signed](https://www.google.com/maps/@-22.7444721,-52.3509451,3a,15.4y,249.72h,84.74t/data=!3m6!1e1!3m4!1shDbl5gv24jchLdQCnnpHgA!2e0!7i16384!8i8192?entry=ttu).
@@ -147,7 +147,7 @@ Notes on routes:
 * PR-577 
 * PR-578 
 * PR-580 
-* PR-581 
+* PR-581 [is signed](https://www.google.com/maps/@-24.6350559,-53.4701619,3a,21.5y,208.8h,82.52t/data=!3m6!1e1!3m4!1stkQIsjvluJlre73vCSQm0A!2e0!7i16384!8i8192?entry=ttu).
 * PR-582 
 * PR-583 
 * PR-585 
@@ -167,23 +167,23 @@ Notes on routes:
 * PR-690 
 * PR-691 
 * PR-800 
-* PR-802 
+* PR-802 seems to be unsigned.
 * PR-804 
 * PR-807 
 * PR-808 
 * PR-810 
 * PR-813 
 * PR-815 
-* PR-816 
+* PR-816 seems to be unsigned.
 * PR-820 [is signed](https://www.google.com/maps/@-24.9526567,-51.5704403,3a,15.1y,290.27h,85.81t/data=!3m6!1e1!3m4!1smU-ovtwKVHSO-qrwkT3xBg!2e0!7i16384!8i8192?entry=ttu).
 * PR-825 
-* PR-831 
-* PR-835 
+* PR-831 [is signed](https://www.google.com/maps/@-26.2070442,-50.9320239,3a,20.8y,20.62h,82.17t/data=!3m6!1e1!3m4!1s9DMXhAHDz6ajiuzkpvVqOw!2e0!7i16384!8i8192?entry=ttu).
+* PR-835 seems to be unsigned.
 * PR-836 
 * PR-838 
 * PR-840 
 * PR-842 
-* PR-845 
+* PR-845 may be unsigned; there is no imagery available.
 * PR-848 may be unsigned.
 * PR-850 may be unsigned; there is no imagery available.
 * PR-852 
@@ -215,7 +215,7 @@ Notes on routes:
 * PR-951 
 * PR-958 
 * PR-960 seems to be unsigned.
-* PR-961 
+* PR-961 seems to be unsigned.
 * PR-962 
 * PR-963 
 * PR-967 
