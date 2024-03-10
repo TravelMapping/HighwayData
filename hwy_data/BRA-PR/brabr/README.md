@@ -15,7 +15,7 @@ Notes on routes:
 * BR-369Mou [is signed](https://www.google.com/maps/@-24.080908,-52.4117997,3a,15y,69.4h,82.55t/data=!3m6!1e1!3m4!1sVzpZpr-R5uvWNlFQZRnlPQ!2e0!7i16384!8i8192?entry=ttu).
 * BR-376: GIS shows federal maintenance continuing north to the center of Nova Londrina, and state sources show Avenida Brasil to Avenida Leonardo Spadini, but there are no signs beyond the curve on the outskirts (where the Viapar concession ends).
 * BR-376Cur (BR-376A in GIS) [is signed](https://www.google.com/maps/@-25.5383702,-49.1922502,3a,16.1y,167.53h,99.16t/data=!3m6!1e1!3m4!1swsRGIZgZhkFXjHOeUCLz1A!2e0!7i16384!8i8192?entry=ttu).
-* BR-376Man [is signed](https://www.google.com/maps/@-23.5493195,-51.6675465,3a,15y,353.29h,84.55t/data=!3m6!1e1!3m4!1sKMXFMOVGuiSgedaAl6FFDg!2e0!7i16384!8i8192?entry=ttu).
+* BR-376Man (BR-376U in GIS) [is signed](https://www.google.com/maps/@-23.5493195,-51.6675465,3a,15y,353.29h,84.55t/data=!3m6!1e1!3m4!1sKMXFMOVGuiSgedaAl6FFDg!2e0!7i16384!8i8192?entry=ttu). Southbound is shown jogging on Travessa Tabatinga to Avenida dos Pioneiros, while northbound uses Rua Princesa Isabel (as shown in state sources).
 * BR-376's branch into Apucarana seems to be unsigned.
 * BR-467 may be unsigned, even [on the independent portion in Cascavel](https://www.google.com/maps/@-24.9149451,-53.4885105,3a,37y,328.75h,85.14t/data=!3m6!1e1!3m4!1sNatY9wt3SmVx0prCQ7cqnQ!2e0!7i16384!8i8192?entry=ttu).
 * BR-469 [is signed](https://www.google.com/maps/@-25.6916088,-54.4354645,2a,41.1y,101.64h,90.56t/data=!3m6!1e1!3m4!1syVS5MqaUvoPr44Fn0C20Kg!2e0!7i13312!8i6656?entry=ttu) within the park.
