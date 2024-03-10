@@ -12,6 +12,7 @@ Notes on routes:
 * BR-277CuE (BR-277A in GIS) [is signed](https://www.google.com/maps/@-25.4541072,-49.2252723,3a,48.2y,199.19h,75.67t/data=!3m6!1e1!3m4!1saOJsoY3Ht_yr0u0BZEEW2Q!2e0!7i16384!8i8192?entry=ttu).
 * BR-277CuW (also BR-277A in GIS) is not explicitly signed (km posts say Sul and Norte) but [signs](https://www.google.com/maps/@-25.4353409,-49.3091292,3a,36.2y,342.35h,97.07t/data=!3m6!1e1!3m4!1sWW9hNhsdV9xwNhN7m4w1iA!2e0!7i16384!8i8192?entry=ttu) point to it.
 * BR-369Mou [is signed](https://www.google.com/maps/@-24.080908,-52.4117997,3a,15y,69.4h,82.55t/data=!3m6!1e1!3m4!1sVzpZpr-R5uvWNlFQZRnlPQ!2e0!7i16384!8i8192?entry=ttu).
+* BR-369's branch into Apucarana seems to be unsigned.
 * BR-376: GIS shows federal maintenance continuing north to the center of Nova Londrina, but there are no signs beyond the curve on the outskirts (where the Viapar concession ends).
 * BR-376Cur (BR-376A in GIS) [is signed](https://www.google.com/maps/@-25.5383702,-49.1922502,3a,16.1y,167.53h,99.16t/data=!3m6!1e1!3m4!1swsRGIZgZhkFXjHOeUCLz1A!2e0!7i16384!8i8192?entry=ttu).
 * BR-467 may be unsigned, even [on the independent portion in Cascavel](https://www.google.com/maps/@-24.9149451,-53.4885105,3a,37y,328.75h,85.14t/data=!3m6!1e1!3m4!1sNatY9wt3SmVx0prCQ7cqnQ!2e0!7i16384!8i8192?entry=ttu).
