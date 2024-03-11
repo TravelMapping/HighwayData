@@ -1,6 +1,6 @@
 Santa Catarina Rodovias Estaduais Coincidentes
 
-These are portions of federal routes that are constructed but maintained by the state. Unlike in some states, these are signed just like normal SC- state routes.
+These are portions of federal routes that are constructed but maintained by the state. Unlike in some states, these are signed just like normal SC- state routes. [Older signs](https://www.google.com/maps/@-27.2168925,-52.0466143,3a,30y,35.57h,107.81t/data=!3m7!1e1!3m5!1sTv-8Hr34KGu9T1knPTKx3g!2e0!5s20140301T000000!7i13312!8i6656?entry=ttu) may say SCT.
 
 Sources:
 * Maps: https://mapa.sie.sc.gov.br/main/roadmap https://www.sie.sc.gov.br/webdocs/sie/mapas-rodoviarios/mapa-rodoviario/sc/correlacao/mapa_corelacao_2022.pdf (shows the renumbering)
