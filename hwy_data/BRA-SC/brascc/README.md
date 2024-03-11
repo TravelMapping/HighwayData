@@ -12,5 +12,5 @@ Notes on routes:
 * SC-285 [is signed](https://www.google.com/maps/@-29.0255533,-49.6019777,3a,15y,341.87h,85.54t/data=!3m6!1e1!3m4!1sgf5oU-FFaZBVevDBOmfxFA!2e0!7i16384!8i8192?entry=ttu).
 * SC-386 [is signed](https://www.google.com/maps/@-27.0095073,-53.5333041,3a,15y,148.21h,81.11t/data=!3m6!1e1!3m4!1sDH3IS30tSHnlV-lwExm5TA!2e0!7i16384!8i8192?entry=ttu).
 * SC-477 
-* SC-480 
+* SC-480 [is signed](https://www.google.com/maps/@-27.1387166,-52.6168133,3a,18.7y,252.38h,85.91t/data=!3m6!1e1!3m4!1skP0e1qBb5qFN2RsQZ5twBg!2e0!7i16384!8i8192?entry=ttu).
 * SC-486 
