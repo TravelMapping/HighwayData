@@ -5,9 +5,19 @@ Sources:
 * Logs: https://www.sie.sc.gov.br/pdf/Relatorio_SRE2019.pdf (old numbering)
 
 Notes on routes:
+* SC-108 [is signed](https://www.google.com/maps/@-28.9847749,-49.6454122,3a,15y,301.42h,87.3t/data=!3m6!1e1!3m4!1sxdqRkr393b1dtF3p_uc9UA!2e0!7i16384!8i8192?entry=ttu).
+* SC-110 [is signed](https://www.google.com/maps/@-26.8282099,-49.2750497,3a,21y,208.8h,108.1t/data=!3m6!1e1!3m4!1sLZmzy4IfkdgG4_tIVCwWtw!2e0!7i16384!8i8192?entry=ttu).
+* SC-112 [is signed](https://www.google.com/maps/@-26.2683842,-49.5539613,3a,34.4y,197.29h,86.91t/data=!3m6!1e1!3m4!1sJN0UhRunUnISPNQXQOMwnQ!2e0!7i16384!8i8192?entry=ttu).
+* SC-114 [is signed](https://www.google.com/maps/@-26.3594221,-49.912812,3a,16.4y,225.3h,87.13t/data=!3m6!1e1!3m4!1syI8e4n-EGjyulODJL6J0oA!2e0!7i13312!8i6656?entry=ttu).
+* SC-154 [is signed](https://www.google.com/maps/@-27.1960486,-52.1319337,3a,15.7y,339.04h,85.28t/data=!3m6!1e1!3m4!1sreW4AUsgozmlZGTrZz2xAg!2e0!7i16384!8i8192?entry=ttu).
+* SC-155 [is signed](https://www.google.com/maps/@-27.1264307,-52.3262748,3a,15.4y,54.72h,87.74t/data=!3m6!1e1!3m4!1sZMHM_uSOU68PhIExeoZk5A!2e0!7i16384!8i8192?entry=ttu).
+* SC-157 [is signed](https://www.google.com/maps/@-27.1379311,-52.5975022,3a,37.5y,189.96h,84.74t/data=!3m6!1e1!3m4!1sJvxlYlOT1j9KZqi_kVG6jg!2e0!7i16384!8i8192?entry=ttu).
+* SC-159 [is signed](https://www.google.com/maps/@-27.0741458,-52.8683015,3a,16.8y,265.1h,85.45t/data=!3m6!1e1!3m4!1sN1MDCzAhn2WcZBhfkQZTPg!2e0!7i13312!8i6656?entry=ttu).
+* SC-160 [is signed](https://www.google.com/maps/@-27.0723652,-53.0045187,3a,17y,15.83h,83.33t/data=!3m6!1e1!3m4!1sQQdcp4VtkJEPZoDQ5HDi6g!2e0!7i13312!8i6656?entry=ttu).
 * SC-290 [is signed](https://www.google.com/maps/@-29.2274449,-49.7603155,3a,56.9y,320.09h,85.12t/data=!3m6!1e1!3m4!1sCRG_GhgcUK9TGTsrM6jf7A!2e0!7i16384!8i8192?entry=ttu).
 * SC-370 [is signed](https://www.google.com/maps/@-28.4528837,-49.0269889,3a,15y,45.22h,87.96t/data=!3m6!1e1!3m4!1sxH3B-ddsFulUybAggpzO_Q!2e0!7i16384!8i8192?entry=ttu).
 * SC-390 [is signed](https://www.google.com/maps/@-28.4824006,-49.0368159,3a,16.9y,348.67h,88.64t/data=!3m6!1e1!3m4!1sX6ey5YzUC1fd5TzwQz5DJA!2e0!7i16384!8i8192?entry=ttu).
+* SC-417 no longer exists (it's now acessos to Rio dos Cedros).
 * SC-437 [is signed](https://www.google.com/maps/@-28.4219272,-48.8922875,3a,16.2y,84.5h,86.77t/data=!3m6!1e1!3m4!1sU_ND6zLK_-o9YutomGeJRw!2e0!7i16384!8i8192?entry=ttu).
 * SC-441 [is signed](https://www.google.com/maps/@-28.5785012,-49.0527363,3a,18.5y,298.26h,83.97t/data=!3m6!1e1!3m4!1sC2QqSSuQjYHYyWVFObnFaw!2e0!7i16384!8i8192?entry=ttu).
 * SC-443 [is signed](https://www.google.com/maps/@-28.6366656,-49.1376013,3a,15y,300.89h,87.61t/data=!3m6!1e1!3m4!1sWBfF0U7WM2KdxYw62VLAzg!2e0!7i16384!8i8192?entry=ttu).
@@ -15,4 +25,8 @@ Notes on routes:
 * SC-446 [is signed](https://www.google.com/maps/@-28.6622227,-49.4845789,3a,16.2y,356.86h,84.86t/data=!3m6!1e1!3m4!1s2NRRHBMEHasBVVUcPD5upw!2e0!7i16384!8i8192?entry=ttu).
 * SC-447 [is signed](https://www.google.com/maps/@-28.9173677,-49.5330574,3a,15y,333.8h,86.9t/data=!3m6!1e1!3m4!1sEXssjvIxFpz-RwAJQ6iZlA!2e0!7i16384!8i8192?entry=ttu).
 * SC-449 [is signed](https://www.google.com/maps/@-29.1048245,-49.6501898,3a,15.5y,302.17h,86.09t/data=!3m6!1e1!3m4!1sxczdQW3kYrVn9sEyxRTprA!2e0!7i16384!8i8192?entry=ttu).
+* SC-479 [is signed](https://www.google.com/maps/@-26.7204815,-52.7154323,3a,36.3y,21.38h,84.26t/data=!3m6!1e1!3m4!1s36rKEMnvET6BeuZQwL47EQ!2e0!7i16384!8i8192?entry=ttu).
+* SC-482 [is signed](https://www.google.com/maps/@-26.7204815,-52.7154323,3a,36.3y,21.38h,84.26t/data=!3m6!1e1!3m4!1s36rKEMnvET6BeuZQwL47EQ!2e0!7i16384!8i8192?entry=ttu).
+* SC-483 [is signed](https://www.google.com/maps/@-27.1077796,-52.551176,3a,39.5y,121.37h,79.04t/data=!3m6!1e1!3m4!1sriBuL7_jGJTA0aLTEqO12Q!2e0!7i16384!8i8192?entry=ttu).
+* SC-484 [is signed](https://www.google.com/maps/@-27.0958559,-52.6914729,3a,15.7y,213.03h,86.3t/data=!3m6!1e1!3m4!1sGYD3atG1uLNBhe6UDELNcA!2e0!7i16384!8i8192?entry=ttu).
 * SC-496 [is signed](https://www.google.com/maps/@-26.8160406,-53.5155385,3a,15.9y,242.67h,88.59t/data=!3m6!1e1!3m4!1sKYzPH62I8ZRwdSTUkqdBrA!2e0!7i16384!8i8192?entry=ttu).
