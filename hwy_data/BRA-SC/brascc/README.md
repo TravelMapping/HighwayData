@@ -4,7 +4,7 @@ These are portions of federal routes that are constructed but maintained by the 
 
 Sources:
 * Maps: https://mapa.sie.sc.gov.br/main/roadmap https://www.sie.sc.gov.br/webdocs/sie/mapas-rodoviarios/mapa-rodoviario/sc/correlacao/mapa_corelacao_2022.pdf (shows the renumbering)
-* Logs: https://www.sie.sc.gov.br/pdf/Relatorio_SRE2019.pdf (old numbering)
+* Logs: https://www.sie.sc.gov.br/pdf/Relatorio_SRE2019.pdf
 
 Notes on routes:
 * SC-163 [is signed](https://www.google.com/maps/@-27.0497884,-53.6221373,3a,15y,93.97h,85.92t/data=!3m6!1e1!3m4!1shKvIFdJkYEOA_B3_6gLt8g!2e0!7i16384!8i8192?entry=ttu).
