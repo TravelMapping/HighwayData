@@ -9,4 +9,4 @@ Notes on routes:
 * BR-447 [is signed](https://www.google.com/maps/@-20.3522488,-40.3342837,3a,16.3y,336.77h,90.93t/data=!3m6!1e1!3m4!1sykrseojPswtlg0xDOJbliw!2e0!7i16384!8i8192?entry=ttu), though the piece by BR-101 may not be.
 * BR-482 [is signed](https://www.google.com/maps/@-20.9251844,-41.0788858,3a,38y,304.19h,80.06t/data=!3m6!1e1!3m4!1sKpK6tqHi6mdnqFdKsSXOPA!2e0!7i16384!8i8192?entry=ttu) from BR-101, even though GIS and the state map show that federal maintenance begins at Ita.
 * BR-482 [is signed](https://www.google.com/maps/@-20.7909205,-41.0804803,3a,27.7y,237.71h,84.4t/data=!3m6!1e1!3m4!1sWbYYiaf6gPOQaJIbMVZthg!2e0!7i16384!8i8192?entry=ttu) along the ES-164 overlap, which GIS and the state map show as state maintained.
-* BR-484 seems to be unsigned from Itarana to Serra Pelada (federally maintained, but partly unpaved).
+* BR-484 seems to be unsigned from Itarana to Serra Pelada (federally maintained, but partly unpaved), except on [construction signs](https://www.google.com/maps/@-19.9046478,-40.899512,3a,15.9y,245.35h,88.09t/data=!3m6!1e1!3m4!1sXwUMlR2-T9_fbHib1WaZ6A!2e0!7i16384!8i8192?entry=ttu).
