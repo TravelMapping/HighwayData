@@ -14,4 +14,4 @@
 
 
 **NOTES TO ROUTES:**
-- `B109` Schönerlinder Straße, Berlin should be rededicated after renovation completion: http://www.berlin.de/senuvk/bauen/strassenbau/b109/ (to be completed by July 2019, still in mauttabelle.de)
+- 
