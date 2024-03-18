@@ -11,3 +11,4 @@
 **NOTES TO ROUTES:**
 - `I8` should be truncated near the new D8 section and signed `II608` but I'm not sure where I8 will begin, at I63 or I13? There's also no info when it will be implemented.
 - `II603` is partially still indicated as `I3` (GSV + geoportal.rsd)
+- `I611` + `I7Pre` (and some D routes) are in HB even within the Prague city limits since indicated on geoportal.rsd.cz

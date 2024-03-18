@@ -53,6 +53,7 @@ RuaIsmCha http://www.openstreetmap.org/?lat=-29.230814&lon=-51.159098
 ERS452 http://www.openstreetmap.org/?lat=-29.314075&lon=-51.167230
 +X364687 http://www.openstreetmap.org/?lat=-29.321166&lon=-51.171398
 EstrMun92 http://www.openstreetmap.org/?lat=-29.328209&lon=-51.166248
+LinTem http://www.openstreetmap.org/?lat=-29.333681&lon=-51.162515
 +X454118 http://www.openstreetmap.org/?lat=-29.359885&lon=-51.128182
 +X787947 http://www.openstreetmap.org/?lat=-29.374640&lon=-51.134984
 ERS235 http://www.openstreetmap.org/?lat=-29.383306&lon=-51.119449
@@ -75,7 +76,7 @@ MorReu http://www.openstreetmap.org/?lat=-29.542314&lon=-51.081759
 +X693713 http://www.openstreetmap.org/?lat=-29.552292&lon=-51.093249
 DoisIrm http://www.openstreetmap.org/?lat=-29.578458&lon=-51.095663
 +X626522 http://www.openstreetmap.org/?lat=-29.597491&lon=-51.109536
-ColJap http://www.openstreetmap.org/?lat=-29.604292&lon=-51.125221
+ColJap +AM9130 http://www.openstreetmap.org/?lat=-29.604292&lon=-51.125221
 +X521977 http://www.openstreetmap.org/?lat=-29.616241&lon=-51.120565
 Ivo http://www.openstreetmap.org/?lat=-29.624905&lon=-51.135800
 +X496520 http://www.openstreetmap.org/?lat=-29.628542&lon=-51.143568
@@ -89,7 +90,7 @@ AvJoaoBec http://www.openstreetmap.org/?lat=-29.760773&lon=-51.152065
 AvJoaoCor http://www.openstreetmap.org/?lat=-29.772449&lon=-51.154106
 Unis http://www.openstreetmap.org/?lat=-29.788268&lon=-51.163486
 AvHugoGer http://www.openstreetmap.org/?lat=-29.818199&lon=-51.170103
-BR448/118 http://www.openstreetmap.org/?lat=-29.827233&lon=-51.172670
+BR448/ERS118 http://www.openstreetmap.org/?lat=-29.827233&lon=-51.172670
 Est http://www.openstreetmap.org/?lat=-29.850578&lon=-51.179386
 AvGuiSch http://www.openstreetmap.org/?lat=-29.858264&lon=-51.180727
 AvPreVar http://www.openstreetmap.org/?lat=-29.871611&lon=-51.179611
@@ -108,14 +109,14 @@ IlhaPin http://www.openstreetmap.org/?lat=-29.993016&lon=-51.275543
 EldSul http://www.openstreetmap.org/?lat=-30.002387&lon=-51.306520
 BR290_W http://www.openstreetmap.org/?lat=-30.042958&lon=-51.330571
 AvNeiBri http://www.openstreetmap.org/?lat=-30.087370&lon=-51.342142
-Gua http://www.openstreetmap.org/?lat=-30.119202&lon=-51.347292
+Gua +ERS703 http://www.openstreetmap.org/?lat=-30.119202&lon=-51.347292
 +X302979 http://www.openstreetmap.org/?lat=-30.166538&lon=-51.378636
 +X360227 http://www.openstreetmap.org/?lat=-30.174997&lon=-51.393056
 CalCity http://www.openstreetmap.org/?lat=-30.212633&lon=-51.404493
 ERS709 http://www.openstreetmap.org/?lat=-30.282408&lon=-51.412668
-MarPim http://www.openstreetmap.org/?lat=-30.354833&lon=-51.429486
+MarPim +ERS711 http://www.openstreetmap.org/?lat=-30.354833&lon=-51.429486
 +X361972 http://www.openstreetmap.org/?lat=-30.389424&lon=-51.432903
-SerSan http://www.openstreetmap.org/?lat=-30.423624&lon=-51.467407
+ERS713 http://www.openstreetmap.org/?lat=-30.423624&lon=-51.467407
 +X730840 http://www.openstreetmap.org/?lat=-30.464174&lon=-51.494014
 +X439191 http://www.openstreetmap.org/?lat=-30.491636&lon=-51.489744
 +X761260 http://www.openstreetmap.org/?lat=-30.531899&lon=-51.499250
@@ -126,9 +127,13 @@ ERS715/717 http://www.openstreetmap.org/?lat=-30.637187&lon=-51.553211
 +X755351 http://www.openstreetmap.org/?lat=-30.719241&lon=-51.607590
 CerGraSul_S http://www.openstreetmap.org/?lat=-30.744874&lon=-51.630195
 Ara http://www.openstreetmap.org/?lat=-30.813172&lon=-51.693463
-ERS350 http://www.openstreetmap.org/?lat=-30.858819&lon=-51.787791
+ERS350_E http://www.openstreetmap.org/?lat=-30.858819&lon=-51.787791
 AvConLuiz http://www.openstreetmap.org/?lat=-30.874635&lon=-51.812564
+403 http://www.openstreetmap.org/?lat=-30.884990&lon=-51.831586
+408 http://www.openstreetmap.org/?lat=-30.912084&lon=-51.882007
+415 http://www.openstreetmap.org/?lat=-30.945602&lon=-51.946524
 SaoJoaoAre http://www.openstreetmap.org/?lat=-30.953745&lon=-51.963100
+ParBenGon +AM9160 http://www.openstreetmap.org/?lat=-30.982277&lon=-52.021841
 ERS354 http://www.openstreetmap.org/?lat=-30.997591&lon=-52.049159
 +X237367 http://www.openstreetmap.org/?lat=-31.017605&lon=-52.053180
 CapCin http://www.openstreetmap.org/?lat=-31.042575&lon=-52.042011
@@ -142,7 +147,7 @@ Tur http://www.openstreetmap.org/?lat=-31.421870&lon=-52.177591
 SaoJoao http://www.openstreetmap.org/?lat=-31.459546&lon=-52.208791
 +X831563 http://www.openstreetmap.org/?lat=-31.489139&lon=-52.213361
 SanSil http://www.openstreetmap.org/?lat=-31.544656&lon=-52.238660
-ArrPad http://www.openstreetmap.org/?lat=-31.627235&lon=-52.320698
+ArrPad +ERS737 http://www.openstreetmap.org/?lat=-31.627235&lon=-52.320698
 +X457202 http://www.openstreetmap.org/?lat=-31.636977&lon=-52.333353
 512 +515 http://www.openstreetmap.org/?lat=-31.650774&lon=-52.336464
 517 +518 http://www.openstreetmap.org/?lat=-31.678808&lon=-52.342526
@@ -157,11 +162,11 @@ JarAme http://www.openstreetmap.org/?lat=-31.760073&lon=-52.438248
 CapLeao_S http://www.openstreetmap.org/?lat=-31.815128&lon=-52.514273
 PasPed http://www.openstreetmap.org/?lat=-31.885793&lon=-52.643824
 +X226254 http://www.openstreetmap.org/?lat=-31.906580&lon=-52.667642
-PedOso http://www.openstreetmap.org/?lat=-31.926419&lon=-52.725481
+ERS706 http://www.openstreetmap.org/?lat=-31.926419&lon=-52.725481
 +X603316 http://www.openstreetmap.org/?lat=-31.936285&lon=-52.750254
-Mat http://www.openstreetmap.org/?lat=-32.041022&lon=-52.853111
+RSC473 http://www.openstreetmap.org/?lat=-32.041022&lon=-52.853111
 CenTecCha http://www.openstreetmap.org/?lat=-32.163217&lon=-52.979937
-ArrGra http://www.openstreetmap.org/?lat=-32.243518&lon=-53.068712
+ERS602 http://www.openstreetmap.org/?lat=-32.243518&lon=-53.068712
 Bre http://www.openstreetmap.org/?lat=-32.410038&lon=-53.228974
 Unip http://www.openstreetmap.org/?lat=-32.555386&lon=-53.387707
 RuaBarBra http://www.openstreetmap.org/?lat=-32.567991&lon=-53.379773
