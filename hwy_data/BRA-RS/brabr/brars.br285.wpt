@@ -12,7 +12,7 @@ Sil http://www.openstreetmap.org/?lat=-28.744422&lon=-50.056388
 +X436196 http://www.openstreetmap.org/?lat=-28.709936&lon=-50.193915
 RinBelaVis http://www.openstreetmap.org/?lat=-28.699989&lon=-50.225286
 +X728930 http://www.openstreetmap.org/?lat=-28.693900&lon=-50.289166
-Carau http://www.openstreetmap.org/?lat=-28.677043&lon=-50.308295
+Car http://www.openstreetmap.org/?lat=-28.677043&lon=-50.308295
 BarRioTou http://www.openstreetmap.org/?lat=-28.660104&lon=-50.337929
 +X187186 http://www.openstreetmap.org/?lat=-28.649583&lon=-50.373344
 BomJes_E http://www.openstreetmap.org/?lat=-28.654883&lon=-50.395886
@@ -20,7 +20,7 @@ ERS110 http://www.openstreetmap.org/?lat=-28.653485&lon=-50.434842
 +X240218 http://www.openstreetmap.org/?lat=-28.636024&lon=-50.466471
 PasGov http://www.openstreetmap.org/?lat=-28.643067&lon=-50.509923
 +X991346 http://www.openstreetmap.org/?lat=-28.635195&lon=-50.548975
-Itaim http://www.openstreetmap.org/?lat=-28.644993&lon=-50.593683
+Ita http://www.openstreetmap.org/?lat=-28.644993&lon=-50.593683
 +X948186 http://www.openstreetmap.org/?lat=-28.649319&lon=-50.627146
 +X214408 http://www.openstreetmap.org/?lat=-28.640468&lon=-50.656757
 +X903288 http://www.openstreetmap.org/?lat=-28.598916&lon=-50.712376
@@ -65,7 +65,7 @@ ERS126_S http://www.openstreetmap.org/?lat=-28.272977&lon=-51.679907
 AvNoveMaio http://www.openstreetmap.org/?lat=-28.271541&lon=-51.691591
 +X559749 http://www.openstreetmap.org/?lat=-28.249882&lon=-51.727109
 +X768687 http://www.openstreetmap.org/?lat=-28.242321&lon=-51.812210
-Mul http://www.openstreetmap.org/?lat=-28.252206&lon=-51.835556
+Mul +ERS462 http://www.openstreetmap.org/?lat=-28.252206&lon=-51.835556
 ERS430 http://www.openstreetmap.org/?lat=-28.249126&lon=-51.848162
 ERS434 http://www.openstreetmap.org/?lat=-28.259398&lon=-51.886872
 +X642953 http://www.openstreetmap.org/?lat=-28.264530&lon=-51.917696
@@ -94,7 +94,7 @@ Pul http://www.openstreetmap.org/?lat=-28.266268&lon=-52.598891
 +X546037 http://www.openstreetmap.org/?lat=-28.268045&lon=-52.666590
 BR386 http://www.openstreetmap.org/?lat=-28.301712&lon=-52.743489
 +X426059 http://www.openstreetmap.org/?lat=-28.316358&lon=-52.751198
-Caraz http://www.openstreetmap.org/?lat=-28.312258&lon=-52.791356
+ERS142/330 http://www.openstreetmap.org/?lat=-28.312258&lon=-52.791356
 +X544568 http://www.openstreetmap.org/?lat=-28.320136&lon=-52.834625
 +X212963 http://www.openstreetmap.org/?lat=-28.335964&lon=-52.844946
 SaoBen http://www.openstreetmap.org/?lat=-28.334764&lon=-52.889954
@@ -107,9 +107,9 @@ SalMar http://www.openstreetmap.org/?lat=-28.408813&lon=-53.090090
 +X465332 http://www.openstreetmap.org/?lat=-28.412465&lon=-53.111386
 +X325341 http://www.openstreetmap.org/?lat=-28.429298&lon=-53.139238
 +X228230 http://www.openstreetmap.org/?lat=-28.425033&lon=-53.166275
-Itaib http://www.openstreetmap.org/?lat=-28.432742&lon=-53.190254
+RSC377 http://www.openstreetmap.org/?lat=-28.432742&lon=-53.190254
 +X147074 http://www.openstreetmap.org/?lat=-28.385662&lon=-53.251784
-SanBarSul http://www.openstreetmap.org/?lat=-28.386275&lon=-53.258972
+SanBarSul +ERS506 http://www.openstreetmap.org/?lat=-28.386275&lon=-53.258972
 +X221567 http://www.openstreetmap.org/?lat=-28.388758&lon=-53.280945
 +X805406 http://www.openstreetmap.org/?lat=-28.381735&lon=-53.303690
 +X801943 http://www.openstreetmap.org/?lat=-28.386643&lon=-53.330812
@@ -118,7 +118,7 @@ Pan http://www.openstreetmap.org/?lat=-28.345596&lon=-53.528523
 +X147686 http://www.openstreetmap.org/?lat=-28.338513&lon=-53.566418
 +X304847 http://www.openstreetmap.org/?lat=-28.319342&lon=-53.611135
 +X582175 http://www.openstreetmap.org/?lat=-28.324915&lon=-53.651025
-Pej http://www.openstreetmap.org/?lat=-28.336587&lon=-53.665960
+Pej +ERS512 http://www.openstreetmap.org/?lat=-28.336587&lon=-53.665960
 +X472366 http://www.openstreetmap.org/?lat=-28.344953&lon=-53.722458
 +X735729 http://www.openstreetmap.org/?lat=-28.360627&lon=-53.736598
 Boz http://www.openstreetmap.org/?lat=-28.363780&lon=-53.768624
@@ -135,14 +135,16 @@ CorBar_E http://www.openstreetmap.org/?lat=-28.381877&lon=-54.065673
 CorBar_W http://www.openstreetmap.org/?lat=-28.381074&lon=-54.075994
 +X122493 http://www.openstreetmap.org/?lat=-28.370068&lon=-54.115949
 EsqPri http://www.openstreetmap.org/?lat=-28.373617&lon=-54.126989
-EntIju_E http://www.openstreetmap.org/?lat=-28.377874&lon=-54.261925
+RSC392 +ERS551 http://www.openstreetmap.org/?lat=-28.377874&lon=-54.261925
 EntIju_W http://www.openstreetmap.org/?lat=-28.378356&lon=-54.283394
 +X972736 http://www.openstreetmap.org/?lat=-28.396761&lon=-54.348335
 SaoJoaoBat http://www.openstreetmap.org/?lat=-28.403311&lon=-54.404790
 +X538241 http://www.openstreetmap.org/?lat=-28.396157&lon=-54.448843
-VitMis http://www.openstreetmap.org/?lat=-28.398592&lon=-54.499784
+VitMis +AM9160 http://www.openstreetmap.org/?lat=-28.398592&lon=-54.499784
 ERS536_S http://www.openstreetmap.org/?lat=-28.410898&lon=-54.575068
 ERS536_N http://www.openstreetmap.org/?lat=-28.401046&lon=-54.650776
+RuiSaoLou http://www.openstreetmap.org/?lat=-28.407992&lon=-54.697645
++X972397 http://www.openstreetmap.org/?lat=-28.408388&lon=-54.748135
 Rol http://www.openstreetmap.org/?lat=-28.413088&lon=-54.761975
 CapSaoPau http://www.openstreetmap.org/?lat=-28.417758&lon=-54.838611
 SaoLuizGon_E http://www.openstreetmap.org/?lat=-28.417145&lon=-54.938164
@@ -152,10 +154,10 @@ ERS168_N http://www.openstreetmap.org/?lat=-28.413498&lon=-54.988675
 +X485374 http://www.openstreetmap.org/?lat=-28.434959&lon=-55.098152
 Tim http://www.openstreetmap.org/?lat=-28.464296&lon=-55.141132
 SanAntMis http://www.openstreetmap.org/?lat=-28.488156&lon=-55.230718
-UniSaoGre http://www.openstreetmap.org/?lat=-28.489401&lon=-55.265822
+ERS176_N http://www.openstreetmap.org/?lat=-28.489401&lon=-55.265822
 EstSaoRaf http://www.openstreetmap.org/?lat=-28.494068&lon=-55.410308
 +X879946 http://www.openstreetmap.org/?lat=-28.500942&lon=-55.459027
-UniSaoJose http://www.openstreetmap.org/?lat=-28.536831&lon=-55.541124
+ERS176_S http://www.openstreetmap.org/?lat=-28.536831&lon=-55.541124
 +X783250 http://www.openstreetmap.org/?lat=-28.588893&lon=-55.633221
 FazVisAle http://www.openstreetmap.org/?lat=-28.601591&lon=-55.672102
 +X526835 http://www.openstreetmap.org/?lat=-28.610898&lon=-55.724888
