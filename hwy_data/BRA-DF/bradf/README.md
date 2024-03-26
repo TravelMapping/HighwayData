@@ -73,9 +73,9 @@ Notes on routes:
 * DF-420 [is signed](https://www.google.com/maps/@-15.6401199,-47.8495952,3a,26.3y,330.8h,98.99t/data=!3m6!1e1!3m4!1s-MPaiBY4kVbjuyQVCKdpAw!2e0!7i16384!8i8192?entry=ttu), even though it's not in the log - but note that the sign says Avenida DF-420, not Rodovia DF-420.
 * DF-425 [is signed](https://www.google.com/maps/@-15.6687922,-47.8174279,3a,45y,20.97h,82.53t/data=!3m6!1e1!3m4!1slhZUO1dvdIXRcphprn-4sw!2e0!7i16384!8i8192?entry=ttu), even though it's not in the log - but note that the sign says Avenida DF-425, not Rodovia DF-425.
 * DF-430 [is signed](https://www.google.com/maps/@-15.6769432,-48.0898609,3a,26.5y,230.65h,84.7t/data=!3m6!1e1!3m4!1sgoVo5M75DvRBJkAuDslPZQ!2e0!7i16384!8i8192?entry=ttu).
-* DF-435 [is signed](https://www.google.com/maps/@-15.6971152,-48.088606,3a,15y,210.02h,84.16t/data=!3m6!1e1!3m4!1sf4JihVpLKbcLwSo8UL07Vg!2e0!7i16384!8i8192?entry=ttu).
+* DF-435 [is signed](https://www.google.com/maps/@-15.6971152,-48.088606,3a,15y,210.02h,84.16t/data=!3m6!1e1!3m4!1sf4JihVpLKbcLwSo8UL07Vg!2e0!7i16384!8i8192?entry=ttu). The east end of the gap may be wrong.
 * DF-440 [is signed](https://www.google.com/maps/@-15.7270756,-47.7904805,3a,25.1y,199.07h,85.84t/data=!3m6!1e1!3m4!1sA3V5I81VvyqVT7UoUq2k6g!2e0!7i16384!8i8192?entry=ttu).
-* DF-442 seems to be unsigned.
+* DF-442 seems to be unsigned; it's mostly unbuilt.
 * DF-444 [is signed](https://www.google.com/maps/@-15.6924827,-47.7021449,3a,15y,85.62h,86.9t/data=!3m6!1e1!3m4!1szusKMOJImLclZnmoK5WIKw!2e0!7i13312!8i6656?entry=ttu).
 * DF-445 [is signed](https://www.google.com/maps/@-15.7308261,-48.1672463,3a,18.2y,319.38h,80.95t/data=!3m6!1e1!3m4!1sWjsvDCQZVxo6PuErJ3aWcA!2e0!7i16384!8i8192?entry=ttu).
 * DF-451 [is signed](https://www.google.com/maps/@-15.7291352,-48.1257217,3a,25.8y,150.68h,82.03t/data=!3m6!1e1!3m4!1sQqLLKZh8qOf4DNsbQx8JNg!2e0!7i16384!8i8192?entry=ttu).
