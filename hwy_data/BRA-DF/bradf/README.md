@@ -81,7 +81,7 @@ Notes on routes:
 * DF-451 [is signed](https://www.google.com/maps/@-15.7291352,-48.1257217,3a,25.8y,150.68h,82.03t/data=!3m6!1e1!3m4!1sQqLLKZh8qOf4DNsbQx8JNg!2e0!7i16384!8i8192?entry=ttu).
 * DF-455 [is signed](https://www.google.com/maps/@-15.7810752,-47.6463185,3a,35.6y,75.17h,82.45t/data=!3m6!1e1!3m4!1syg7Lds5VTlKSBdlrNjSgDA!2e0!7i13312!8i6656?entry=ttu).
 * DF-456 may be unsigned, but it was only recently built/paved (after the available imagery), so it is included.
-* DF-459 seems to be unsigned.
+* DF-459 [is signed](https://www.google.com/maps/@-15.8446399,-48.1042878,3a,25.8y,167.05h,83.45t/data=!3m6!1e1!3m4!1s28XHK7oaknebMqJqR__pdw!2e0!7i16384!8i8192?entry=ttu).
 * DF-463 [is signed](https://www.google.com/maps/@-15.8854461,-47.8211851,3a,28.2y,100.26h,84.07t/data=!3m6!1e1!3m4!1smX9Y5UGC0ECH0iXb_Mb9-g!2e0!7i16384!8i8192?entry=ttu).
 * DF-465 [is signed](https://www.google.com/maps/@-15.9001032,-47.8191951,3a,17y,82.92h,86.4t/data=!3m6!1e1!3m4!1sKuqXZMFsJxUkIVNJABBUoA!2e0!7i16384!8i8192?entry=ttu).
 * DF-473 [is signed](https://www.google.com/maps/@-15.9151459,-47.7600908,3a,16y,181.53h,84.33t/data=!3m6!1e1!3m4!1sIqpFEa5uF7FaytiuHr7t6g!2e0!7i16384!8i8192?entry=ttu).
