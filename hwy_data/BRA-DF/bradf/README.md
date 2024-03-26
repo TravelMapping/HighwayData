@@ -70,7 +70,7 @@ Notes on routes:
 * DF-405 [is signed](https://www.google.com/maps/@-15.5812676,-47.5537861,3a,15y,19.35h,89.43t/data=!3m6!1e1!3m4!1sUw6CwDvscloTqRPkSnkblg!2e0!7i16384!8i8192?entry=ttu).
 * DF-410 [is signed](https://www.google.com/maps/@-15.5819176,-47.5518866,3a,20.4y,115.34h,85.66t/data=!3m6!1e1!3m4!1sV3JuQtapXchjLVdfUYv5lA!2e0!7i16384!8i8192?entry=ttu).
 * DF-415 [is signed](https://www.google.com/maps/@-15.6476592,-48.2002233,3a,21.4y,111.31h,86.66t/data=!3m6!1e1!3m4!1sk_JkC1Et0K-k8GymgVKCNg!2e0!7i16384!8i8192?entry=ttu).
-* DF-420 seems to be unsigned, and it's not in the log.
+* DF-420 [is signed](https://www.google.com/maps/@-15.6401199,-47.8495952,3a,26.3y,330.8h,98.99t/data=!3m6!1e1!3m4!1s-MPaiBY4kVbjuyQVCKdpAw!2e0!7i16384!8i8192?entry=ttu), even though it's not in the log - but note that the sign says Avenida DF-420, not Rodovia DF-420.
 * DF-425 [is signed](https://www.google.com/maps/@-15.6687922,-47.8174279,3a,45y,20.97h,82.53t/data=!3m6!1e1!3m4!1slhZUO1dvdIXRcphprn-4sw!2e0!7i16384!8i8192?entry=ttu), even though it's not in the log - but note that the sign says Avenida DF-425, not Rodovia DF-425.
 * DF-430 [is signed](https://www.google.com/maps/@-15.6769432,-48.0898609,3a,26.5y,230.65h,84.7t/data=!3m6!1e1!3m4!1sgoVo5M75DvRBJkAuDslPZQ!2e0!7i16384!8i8192?entry=ttu).
 * DF-435 [is signed](https://www.google.com/maps/@-15.6971152,-48.088606,3a,15y,210.02h,84.16t/data=!3m6!1e1!3m4!1sf4JihVpLKbcLwSo8UL07Vg!2e0!7i16384!8i8192?entry=ttu).
