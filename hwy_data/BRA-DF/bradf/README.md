@@ -1,6 +1,6 @@
 Sistema Rodoviário do Distrito Federal
 
-Signage of DF- routes is relatively good, with at most seven completely unsigned.
+Signage of DF- routes is relatively good, with at most six completely unsigned.
 
 Sources:
 * Maps and logs: https://www.der.df.gov.br/sistema-rodoviario/
