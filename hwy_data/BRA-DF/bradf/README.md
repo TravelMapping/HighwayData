@@ -63,7 +63,7 @@ Notes on routes:
 * DF-322 [is signed](https://www.google.com/maps/@-15.7538112,-47.5222608,3a,15.7y,192.26h,87.41t/data=!3m6!1e1!3m4!1spjVdC4z1UfOSEnqAaCw2NA!2e0!7i13312!8i6656?entry=ttu).
 * DF-326 [is signed](https://www.google.com/maps/@-15.5791365,-47.8532493,3a,32.6y,190.72h,87.58t/data=!3m6!1e1!3m4!1sbQBPGj-_k6HwfKPgf0kBfw!2e0!7i16384!8i8192?entry=ttu).
 * DF-330 [is signed](https://www.google.com/maps/@-15.7408426,-47.6988428,3a,15.1y,279.17h,86.87t/data=!3m6!1e1!3m4!1stGBBvlEqFNGpXVlUc-mnAA!2e0!7i16384!8i8192?entry=ttu).
-* DF-335 [is signed](https://www.google.com/maps/@-15.6148105,-47.8186657,3a,90y,13.16h,87.34t/data=!3m6!1e1!3m4!1srYqTACr6UEIi9ESnElExIw!2e0!7i16384!8i8192?entry=ttu).
+* DF-335 [is signed](https://www.google.com/maps/@-15.6148105,-47.8186657,3a,90y,13.16h,87.34t/data=!3m6!1e1!3m4!1srYqTACr6UEIi9ESnElExIw!2e0!7i16384!8i8192?entry=ttu). The ends of the gap may be wrong.
 * DF-345 [is signed](https://www.google.com/maps/@-15.5005208,-47.5244938,3a,24.3y,264.23h,82.96t/data=!3m6!1e1!3m4!1sQ0mLT_RfGdABRhEtv0SVOg!2e0!7i16384!8i8192?entry=ttu).
 * DF-353 [is signed](https://www.google.com/maps/@-15.7174582,-47.5784077,3a,23.1y,10.35h,81.52t/data=!3m6!1e1!3m4!1sXsLjynkSvxcMVUH1hHN-Uw!2e0!7i13312!8i6656?entry=ttu).
 * DF-355 [is signed](https://www.google.com/maps/@-15.8430347,-47.6259463,3a,25.2y,102.74h,85.96t/data=!3m6!1e1!3m4!1sJFAtD_bm1FN1-hYMBnsX5g!2e0!7i16384!8i8192?entry=ttu).
