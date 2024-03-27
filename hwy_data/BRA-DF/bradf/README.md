@@ -21,6 +21,7 @@ Notes on routes:
 * DF-025 [is signed](https://www.google.com/maps/@-15.8106012,-47.802828,3a,31.1y,277.88h,83.14t/data=!3m6!1e1!3m4!1szBE7wBMM_6lfa2ky9JI2IQ!2e0!7i16384!8i8192?entry=ttu).
 * DF-027 [is signed](https://www.google.com/maps/@-15.8369025,-47.8251107,3a,15.2y,200.24h,95.35t/data=!3m6!1e1!3m4!1suJanlefvl651WhdGH6HALg!2e0!7i16384!8i8192?entry=ttu).
 * DF-035 [is signed](https://www.google.com/maps/@-15.8635238,-47.8215038,3a,40.8y,327.46h,85.86t/data=!3m6!1e1!3m4!1s3vPBMrdgJXGZbPJSRzgmdg!2e0!7i16384!8i8192?entry=ttu).
+* DF-045 was never built and no longer exists.
 * DF-047 [is signed](https://www.google.com/maps/@-15.8701314,-47.926353,3a,16.4y,293.16h,83.05t/data=!3m6!1e1!3m4!1sKGQsYx7_Xp90Ba348vn9GQ!2e0!7i16384!8i8192?entry=ttu).
 * DF-051 [is signed](https://www.google.com/maps/@-15.8449792,-47.9317927,3a,15y,322.69h,85.29t/data=!3m6!1e1!3m4!1sSiLRFFZGto2MLdqk5frPvA!2e0!7i16384!8i8192?entry=ttu).
 * DF-055 [is signed](https://www.google.com/maps/@-15.882831,-47.958835,3a,22.4y,169.08h,86.22t/data=!3m6!1e1!3m4!1sr7RE2l8YWjcdXSEo6-geRQ!2e0!7i16384!8i8192?entry=ttu). Its south end may be wrong.
@@ -48,10 +49,11 @@ Notes on routes:
 * DF-190 [is signed](https://www.google.com/maps/@-15.9420447,-48.2468775,3a,15y,337.32h,92.68t/data=!3m6!1e1!3m4!1su_ecn3QjGpmg_T7byIPHoQ!2e0!7i16384!8i8192?entry=ttu).
 * DF-205 [is signed](https://www.google.com/maps/@-15.5343881,-47.5130824,3a,39.5y,106h,81.01t/data=!3m6!1e1!3m4!1s-xBDdjrvlLVznvPh_sM_fg!2e0!7i13312!8i6656?entry=ttu).
 * DF-206 [is signed](https://www.google.com/maps/@-15.5265396,-48.1909545,3a,17.5y,15.52h,89.34t/data=!3m6!1e1!3m4!1sicT9vpcX2yaJ6StOivn3ug!2e0!7i16384!8i8192?entry=ttu).
-* DF-215 is now VC-215.
 * DF-220 [is signed](https://www.google.com/maps/@-15.6227578,-48.0670217,3a,42.9y,315.75h,88.24t/data=!3m6!1e1!3m4!1sbuNg49TQGM2joTRqIJSnMw!2e0!7i16384!8i8192?entry=ttu).
 * DF-230 [is signed](https://www.google.com/maps/@-15.6162179,-47.7057814,3a,15y,175.23h,86.73t/data=!3m6!1e1!3m4!1s58NfJ5I4sfuvLWBY7o-tWg!2e0!7i16384!8i8192?entry=ttu).
+* DF-240 is now BR-080 east of DF-180.
 * DF-250 [is signed](https://www.google.com/maps/@-15.7579341,-47.7769405,3a,15y,113.58h,86.47t/data=!3m6!1e1!3m4!1sbAhLulR7mFr4jl8a9mNVXQ!2e0!7i16384!8i8192?entry=ttu).
+* DF-255 is now VC-311.
 * DF-260 [is signed](https://www.google.com/maps/@-15.8721093,-47.5586896,3a,15.9y,313.4h,79.44t/data=!3m6!1e1!3m4!1sEmSCswmkv0S0nR6FjYk8OQ!2e0!7i13312!8i6656?entry=ttu).
 * DF-270 [is signed](https://www.google.com/maps/@-15.9398524,-47.6002716,3a,20.9y,225.69h,85.57t/data=!3m6!1e1!3m4!1sP2yweuLL_O7P0E9dEj9jMw!2e0!7i16384!8i8192?entry=ttu).
 * DF-280 [is signed](https://www.google.com/maps/@-15.9430708,-48.2522172,3a,18y,151.48h,78.91t/data=!3m6!1e1!3m4!1s77QXwMLWBFleR9tS8O0Kwg!2e0!7i16384!8i8192?entry=ttu).
@@ -78,10 +80,13 @@ Notes on routes:
 * DF-442 seems to be unsigned; it's mostly unbuilt.
 * DF-444 [is signed](https://www.google.com/maps/@-15.6924827,-47.7021449,3a,15y,85.62h,86.9t/data=!3m6!1e1!3m4!1szusKMOJImLclZnmoK5WIKw!2e0!7i13312!8i6656?entry=ttu).
 * DF-445 [is signed](https://www.google.com/maps/@-15.7308261,-48.1672463,3a,18.2y,319.38h,80.95t/data=!3m6!1e1!3m4!1sWjsvDCQZVxo6PuErJ3aWcA!2e0!7i16384!8i8192?entry=ttu).
+* DF-450 is now DF-451.
 * DF-451 [is signed](https://www.google.com/maps/@-15.7291352,-48.1257217,3a,25.8y,150.68h,82.03t/data=!3m6!1e1!3m4!1sQqLLKZh8qOf4DNsbQx8JNg!2e0!7i16384!8i8192?entry=ttu).
 * DF-455 [is signed](https://www.google.com/maps/@-15.7810752,-47.6463185,3a,35.6y,75.17h,82.45t/data=!3m6!1e1!3m4!1syg7Lds5VTlKSBdlrNjSgDA!2e0!7i13312!8i6656?entry=ttu).
 * DF-456 may be unsigned, but it was only recently built/paved (after the available imagery), so it is included.
+* DF-457 was a branch to Taguatinga.
 * DF-459 [is signed](https://www.google.com/maps/@-15.8446399,-48.1042878,3a,25.8y,167.05h,83.45t/data=!3m6!1e1!3m4!1s28XHK7oaknebMqJqR__pdw!2e0!7i16384!8i8192?entry=ttu).
+* DF-460 was a branch to Taguatinga.
 * DF-463 [is signed](https://www.google.com/maps/@-15.8854461,-47.8211851,3a,28.2y,100.26h,84.07t/data=!3m6!1e1!3m4!1smX9Y5UGC0ECH0iXb_Mb9-g!2e0!7i16384!8i8192?entry=ttu).
 * DF-465 [is signed](https://www.google.com/maps/@-15.9001032,-47.8191951,3a,17y,82.92h,86.4t/data=!3m6!1e1!3m4!1sKuqXZMFsJxUkIVNJABBUoA!2e0!7i16384!8i8192?entry=ttu). Its exact east end may be wrong.
 * DF-473 [is signed](https://www.google.com/maps/@-15.9151459,-47.7600908,3a,16y,181.53h,84.33t/data=!3m6!1e1!3m4!1sIqpFEa5uF7FaytiuHr7t6g!2e0!7i16384!8i8192?entry=ttu).
