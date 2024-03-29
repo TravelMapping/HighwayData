@@ -4,16 +4,24 @@ Routes are rather poorly signed, so all are mapped unless otherwise noted.
 
 Sources:
 * Maps: http://www.der.rj.gov.br/documentos/mapas/Mapa%20do%20Rio%20de%20Janeiro.pdf (2020)
+* Logs: https://leisestaduais.com.br/rj/decreto-n-995-1976-rio-de-janeiro-aprova-o-plano-rodoviario-do-estado-do-rio-de-janeiro-e-da-outras-providencias (1976)
 
 Notes on routes:
-* RJ-014 no longer exists?
+* RJ-014 no longer exists (did it ever exist?)
 * RJ-071 
-* RJ-079 no longer exists?
+* RJ-073 no longer exists.
+* RJ-075 no longer exists.
+* RJ-077 no longer exists.
+* RJ-079 was deleted in 2009.
 * RJ-081 
-* RJ-083 (connection between BR-101 and RJ-081, unlabeled on map)
+* RJ-083 (connection between BR-101 and RJ-081, unlabeled on map?)
 * RJ-085 
+* RJ-087 no longer exists.
+* RJ-089 no longer exists.
+* RJ-091 no longer exists.
 * RJ-093 
-* RJ-097 no longer exists?
+* RJ-095 no longer exists.
+* RJ-097 no longer exists.
 * RJ-099 
 * RJ-100 [is signed](https://www.google.com/maps/@-22.8915036,-42.9875819,3a,15y,203.84h,89.68t/data=!3m6!1e1!3m4!1snmi_BwXXqbps2diCsH2_hQ!2e0!7i16384!8i8192?entry=ttu).
 * RJ-101 
@@ -23,14 +31,15 @@ Notes on routes:
 * RJ-105 
 * RJ-106 [is signed](https://www.google.com/maps/@-22.8558344,-43.0247374,3a,21.5y,27.12h,103.54t/data=!3m6!1e1!3m4!1smyggWCQeJjQwIU6jEEVToQ!2e0!7i16384!8i8192?entry=ttu).
 * RJ-107 
-* RJ-108 no longer exists?
+* RJ-108 no longer exists.
 * RJ-109 
 * RJ-110 may be unsigned.
 * RJ-111 
 * RJ-112 
 * RJ-113 
 * RJ-114 [is signed](https://www.google.com/maps/@-22.9030572,-42.8011012,3a,29.8y,327.86h,84.22t/data=!3m6!1e1!3m4!1sV1S9TVvBVefRGGK7ZQKuGA!2e0!7i16384!8i8192?entry=ttu).
-* RJ-115 
+* RJ-115
+* [RJ-115A](https://leisestaduais.com.br/rj/decreto-n-42479-2010-rio-de-janeiro-altera-o-anexo-i-do-decreto-n-995-de-16-de-novembro-de-1976-e-da-outras-providencias) 
 * RJ-116 
 * RJ-116A may be unsigned. 
 * RJ-117 
@@ -79,7 +88,7 @@ Notes on routes:
 * RJ-157 
 * RJ-158 
 * RJ-159 
-* RJ-160 
+* RJ-160
 * RJ-161 
 * RJ-162 may be unsigned.
 * RJ-163 
@@ -95,7 +104,7 @@ Notes on routes:
 * RJ-180 
 * RJ-182 
 * RJ-184 
-* RJ-186 [is signed](https://www.google.com/maps/@-21.1382255,-41.6632206,3a,38y,167.41h,92.53t/data=!3m6!1e1!3m4!1s6J96T22rHCzHpMdP920Oew!2e0!7i16384!8i8192?entry=ttu). Its north end may be wrong (it may use the old bridge).
+* RJ-186 [is signed](https://www.google.com/maps/@-21.1382255,-41.6632206,3a,38y,167.41h,92.53t/data=!3m6!1e1!3m4!1s6J96T22rHCzHpMdP920Oew!2e0!7i16384!8i8192?entry=ttu). Its north end may be wrong (it may use the old bridge, or simply end at RJ-230 like it did in 1976).
 * RJ-188 
 * RJ-190 
 * RJ-192 
