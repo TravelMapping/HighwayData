@@ -68,6 +68,8 @@ date;region;route;root;description
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
 2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
+2024-03-25;Austria;S7;aut.s007;New Route
+2024-03-25;Austria;E66;aut.e66;Route relocated from B65/B319 through Fürstenfeld and onto A2/S7 from A2's exit 138 to north of Dobersdorf
 2024-02-15;Austria;L501-4 (Duttendorf);aut.l05014dut;New Route
 2024-02-15;Austria;L501-4 (Wanghausen);aut.l05014wan;New Route
 2024-02-13;Austria;B141 (Danner);aut.b141dan;New Route
@@ -1353,6 +1355,7 @@ date;region;route;root;description
 2022-12-11;(France) Hauts-de-France;D166-62;frahdf.d016662;Route extended at north end from D945 to D166
 2022-10-24;(France) Hauts-de-France;N49;frahdf.n049;New Route
 2020-11-22;(France) Hauts-de-France;D4-95;frahdf.d000495;New Route
+2024-03-25;(France) Île-de-France;A16 (Saint-Denis);fraidf.a016den;New Route
 2024-01-18;(France) Île-de-France;N4;fraidf.d100477;Route downgraded to D1004-77
 2024-01-18;(France) Île-de-France;N36;fraidf.d103677;Route downgraded to D1036-77
 2023-12-25;(France) Île-de-France;N1104;fraidf.n1104;Route extended from exit 101 to A1 (new expressway alignment)
@@ -1824,12 +1827,15 @@ date;region;route;root;description
 2018-10-14;(Germany) Hesse;A671;deuhe.a671;Route truncated at north end from exit 1 to exit 2 (B263 now)
 2018-08-22;(Germany) Hesse;E44;deuhe.e44;Route relocated from through Heckholzhausen and onto new B49 bypass between Heckholzhausen-West and Heckholzhausen-East
 2018-04-14;(Germany) Hesse;A44 (Hessisch Lichtenau);deuhe.a044hes;Route extended at east end from exit 78 to exit 79
-2017-06-15;(Germany) Hesse;Autobahnzubringer Erlensee;deuhe.k854;New Route
 2015-09-15;(Germany) Hesse;A44 (Hessisch Lichtenau);deuhe.a044hes;Route extended at west end from exit 77 to exit 76
 2015-09-15;(Germany) Hesse;A45;deuhe.a045sel;Relabeled exits 47 as 49 and 46 as 48
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2024-03-29;(Germany) Lower Saxony;A293;deuni.a293;Route extended at north end from A29 to transition to B211
+2024-03-29;(Germany) Lower Saxony;B211;deuni.b211;Route truncated at west end from A29 to transition to A293
+2024-03-29;(Germany) Lower Saxony;Industriestraße Mitte Salzgitter;deuni.indstrmit;Route truncated at west end from K10 to A39 (L472 now)
+2024-03-29;(Germany) Lower Saxony;L472;deuni.l472;Route relocated from through Broistedt and Lebenstedt, and onto Broistedt bypass, through Engelnstedt and onto A39 between L475 and A39's exit 41
 2023-08-13;(Germany) Lower Saxony;L808;deuni.l808;Route extended at north end from Cliner Straat to Schleusenstraße in Carolinensiel
 2023-07-23;(Germany) Lower Saxony;B213 (Haselünne);deuni.b213;Route reloacted from Haselünner Straße and Im Brooke and Ulanenstraße in Lingen
 2023-07-23;(Germany) Lower Saxony;B402;deuni.b402;Route reloacted from Poller Straße and onto Lingener Straße and southern bypass in Haselünne
@@ -1900,7 +1906,9 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
-2024-01-22;(Germany) North Rhine-Westphalia;B758;deunw.l758;Route relocated from through Barntrup, and onto western bypass
+2024-03-29;(Germany) North Rhine-Westphalia;B474;deunw.b474;Route relocated from via A43's exit 6 (L611 now) and onto new alignment from L611 to A43's exit 5
+2024-03-29;(Germany) North Rhine-Westphalia;L611;deunw.l611;New Route
+2024-01-22;(Germany) North Rhine-Westphalia;L758;deunw.l758;Route relocated from through Barntrup, and onto western bypass
 2023-12-24;(Germany) North Rhine-Westphalia;B66;deunw.b066;Route relocated from through Barntrup, and onto northern bypass
 2023-12-24;(Germany) North Rhine-Westphalia;B66 (Barntrup);deunw.b066bar;Route truncated at east end from B1 to junction with B66 main route west of Barntrup which was merged into main route
 2023-09-26;(Germany) North Rhine-Westphalia;B66 (Barntrup);deunw.b066bar;Route extended at east end from west of Barntrup (B66) to east of Barntrup (B1)
