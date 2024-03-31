@@ -25,7 +25,7 @@ Notes on routes:
 * RJ-099 
 * RJ-100 [is signed](https://www.google.com/maps/@-22.8915036,-42.9875819,3a,15y,203.84h,89.68t/data=!3m6!1e1!3m4!1snmi_BwXXqbps2diCsH2_hQ!2e0!7i16384!8i8192?entry=ttu).
 * RJ-101 
-* RJ-102 [is signed](https://www.google.com/maps/@-22.9371184,-42.674832,3a,15y,69.88h,89.64t/data=!3m6!1e1!3m4!1sCsvLSdoAOoPG5BgaRdKsrQ!2e0!7i16384!8i8192?entry=ttu).
+* RJ-102 [is signed](https://www.google.com/maps/@-22.9371184,-42.674832,3a,15y,69.88h,89.64t/data=!3m6!1e1!3m4!1sCsvLSdoAOoPG5BgaRdKsrQ!2e0!7i16384!8i8192?entry=ttu). It is one-way northbound thru Barra de Maricá; the southbound side is officially RJ-114. The exact endpoint at Saquarema is unknown, so the pavement change was chosen.
 * RJ-103 
 * RJ-104 [is signed](https://www.google.com/maps/@-22.8817636,-43.077656,3a,15.6y,104.31h,108.67t/data=!3m6!1e1!3m4!1ssMuQw9ltwy-j_kifGx6zIw!2e0!7i16384!8i8192?entry=ttu).
 * RJ-105 
@@ -37,7 +37,7 @@ Notes on routes:
 * RJ-111 
 * RJ-112 
 * RJ-113 
-* RJ-114 [is signed](https://www.google.com/maps/@-22.9030572,-42.8011012,3a,29.8y,327.86h,84.22t/data=!3m6!1e1!3m4!1sV1S9TVvBVefRGGK7ZQKuGA!2e0!7i16384!8i8192?entry=ttu).
+* RJ-114 [is signed](https://www.google.com/maps/@-22.9030572,-42.8011012,3a,29.8y,327.86h,84.22t/data=!3m6!1e1!3m4!1sV1S9TVvBVefRGGK7ZQKuGA!2e0!7i16384!8i8192?entry=ttu). Its south end is one-way northbound.
 * RJ-115
 * [RJ-115A](https://leisestaduais.com.br/rj/decreto-n-42479-2010-rio-de-janeiro-altera-o-anexo-i-do-decreto-n-995-de-16-de-novembro-de-1976-e-da-outras-providencias) 
 * RJ-116 
@@ -64,11 +64,11 @@ Notes on routes:
 * RJ-134A1 
 * RJ-134A2
 * RJ-135 
-* RJ-136 
+* RJ-136 may be unsigned.
 * RJ-137 
-* RJ-138 
+* RJ-138 may be unsigned. The north end is unclear.
 * RJ-139 
-* RJ-140 [is signed on construction signs](https://www.google.com/maps/@-22.8398927,-42.1446447,3a,15y,42.24h,90.88t/data=!3m6!1e1!3m4!1sN9CdlojoZLHcd6eMs22zBA!2e0!7i16384!8i8192?entry=ttu).
+* RJ-140 [is signed on construction signs](https://www.google.com/maps/@-22.8398927,-42.1446447,3a,15y,42.24h,90.88t/data=!3m6!1e1!3m4!1sN9CdlojoZLHcd6eMs22zBA!2e0!7i16384!8i8192?entry=ttu). It is unclear if it uses the new bypass at São Vicente de Paulo (the map shows both routes unlabeled).
 * RJ-141 
 * RJ-142 
 * RJ-143 
