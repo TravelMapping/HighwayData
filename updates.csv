@@ -1832,6 +1832,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2024-04-02;(Germany) Lower Saxony;L382;deuni.l382;Route relocated from through Berenbostel, and onto Stelinger Straße and Mecklenheidestraße from L382 to B6
 2024-03-29;(Germany) Lower Saxony;A293;deuni.a293;Route extended at north end from A29 to transition to B211
 2024-03-29;(Germany) Lower Saxony;B211;deuni.b211;Route truncated at west end from A29 to transition to A293
 2024-03-29;(Germany) Lower Saxony;Industriestraße Mitte Salzgitter;deuni.indstrmit;Route truncated at west end from K10 to A39 (L472 now)
@@ -1895,6 +1896,7 @@ date;region;route;root;description
 2016-08-08;(Germany) Lower Saxony;Nordtangente Oldenburg;deuni.nordtanold;New Route
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route extended at east end from exit 5 to exit 6
 2015-09-15;(Germany) Lower Saxony;A26;deuni.a026;Route relabeled exit 1 as exit 2, and exit 2 as exit 3
+2024-04-01;(Germany) Mecklenburg-Western Pomerania;B196;deumv.b196;Route truncated at east end from Poststraße to Feldstraße in Göhren
 2024-02-25;(Germany) Mecklenburg-Western Pomerania;B103 (Güstrow);deumv.b103;Route extended at south end from Güstrow to L37 (undo 2021 change)
 2023-08-13;(Germany) Mecklenburg-Western Pomerania;L296;deumv.l296;Route extended at west end from Altefähr (L29) to Franken (B96)
 2021-12-25;(Germany) Mecklenburg-Western Pomerania;B103 (Güstrow);deumv.b103;Route truncated at south end from L37 to B104 in Güstrow (B104 now)
@@ -2156,6 +2158,8 @@ date;region;route;root;description
 2018-12-31;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from border to Lower Saxony to A14 junction (A36 now)
 2018-12-19;(Germany) Saxony-Anhalt;B79;deust.b079;Route removed from through Harsleben and onto the bypass
 2015-09-15;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;New Route
+2024-03-31;(Germany) Schleswig-Holstein;B501;deush.b501;Route extended at north end from A1 to K42
+2024-03-31;(Germany) Schleswig-Holstein;L149 (Tellingstedt);deush.l149tel;New Route
 2023-06-04;(Germany) Schleswig-Holstein;B404 (Schwarzenbek);deush.b404;Route relocated from Ernst-Schefe-Allee in Schwarzenbek and onto new northern bypass and Möllner Straße from north of Schwarzenbek to B207
 2017-12-09;(Germany) Schleswig-Holstein;A21;deush.a021;Route extended at north end from temporary south of Nettelsee end to exit 6
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
@@ -3630,6 +3634,10 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2024-04-01;Poland;DK61;pol.dk061;Route truncated at north end from S61 exit 8 to DK53
+2024-04-01;Poland;DK61 (Lomza);pol.dk061lom;Route added
+2024-04-01;Poland;DK78;pol.dk078;Route removed from Ulicas Ignacego Daszynskiego, Stanislawa Wyspianskiego, Feliska Orlickiego and Portowa, and relocated onto Ulica Generala Leopolda Okulickiego between DW408 and DW902
+2024-04-01;Poland;DW165;pol.dw165;Route added
 2023-12-07;Poland;DK94;pol.dk094;Route removed from Ulica Sredzka and Ulica Kosmonautow in Lesnica and relocated onto Ulica 11 Listopada and Aleja Prezydenta Ryszarda Kaczorowskiego between 'UliSre_E' and 'UliKos_W'
 2023-10-28;Poland;DW645;pol.dw645;Route extended at eastern end from DK61/63 to southern junction with DK63
 2023-10-14;Poland;A18;pol.a018;Route extended from exit 6 to the German border
@@ -4917,6 +4925,7 @@ date;region;route;root;description
 2022-01-15;(Spain) Extremadura;EXC1;espex.exc001;Route added
 2022-01-15;(Spain) Extremadura;BA20;espex.ba020;Route extended at west end from N523 to A5 exit 407
 2019-08-31;(Spain) Extremadura;N523;espex.n523;New Route
+2024-04-01;(Spain) Galicia;AG42;espga.ag042;Route added
 2022-11-02;(Spain) Galicia;AG22;espga.ag022;Route added
 2022-11-02;(Spain) Galicia;CG2.2 Vía de Altas Prestacións Lugo - Monforte;espga.cg0022;Route truncated at north end from A6/A54 to exit 24 (route between exits 13 and 24 now AG22, route north of exit 13 now Lugo section)
 2022-11-02;(Spain) Galicia;CG2.2 Vía de Altas Prestacións Lugo - Monforte (Lugo);espga.cg0022lug;Route added
@@ -5956,6 +5965,7 @@ date;region;route;root;description
 2015-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+2024-04-01;(UK) Scotland;A925;sct.a0925;Route added
 2024-02-15;(UK) Scotland;A9294;sct.a9294;Route added
 2023-09-19;(UK) Scotland;B7020;sct.b7020;Route extended at south end from western junction with B725 to A75
 2023-01-05;(UK) Scotland;A97;sct.a0097;Route truncated at north end from A953 to what was the eastern junction with the A98
@@ -6216,6 +6226,7 @@ date;region;route;root;description
 2015-11-20;(USA) California;I-15BL (Baker);;Route deleted
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
+2024-04-02;(USA) Colorado;US 24 Business (Manitou Springs);co.us024busmsp;Truncated to central US 24 junction (Exit 299) due to lack of signage in Colorado Springs proper.
 2024-03-19;(USA) Colorado;US 85;co.us085;I-25 Exit 14A marked as closed. I-25 Exit 104 split into "104A" and "104" to properly reflect the on-the-ground configuration.
 2024-03-19;(USA) Colorado;US 87;co.us087;I-25 Exit 14A marked as closed.  I-25 Exit 104 split into "104A" and "104" to properly reflect the on-the-ground configuration.
 2024-03-19;(USA) Colorado;I-25;co.i025;Exit 14A marked as closed. Exit 104 split into "104A" and "104" to properly reflect the on-the-ground configuration.
