@@ -12,8 +12,8 @@ Notes on routes:
 * CE-065 
 * CE-085 
 * CE-090 
-* CE-123 
-* CE-138 
+* CE-123 may be unsigned.
+* CE-138 may be unsigned.
 * CE-151 
 * CE-152 
 * CE-153 
@@ -41,9 +41,9 @@ Notes on routes:
 * CE-240 
 * CE-241 
 * CE-243 
-* CE-251 
+* CE-251 may be unsigned.
 * CE-252 
-* CE-253 
+* CE-253 [is signed](https://www.google.com/maps/@-4.2232094,-38.6982343,3a,44y,249.78h,101.84t/data=!3m6!1e1!3m4!1sabXDTUoPh5o6SmWGdZ1-SA!2e0!7i16384!8i8192?entry=ttu).
 * CE-257 
 * CE-261 
 * CE-263 
@@ -75,10 +75,10 @@ Notes on routes:
 * CE-341 
 * CE-346 
 * CE-348 
-* CE-350 
+* CE-350 may be unsigned.
 * CE-351 
-* CE-352 
-* CE-353 
+* CE-352 may be unsigned.
+* CE-353 may be unsigned.
 * CE-354 
 * CE-356 
 * CE-358 
@@ -115,9 +115,9 @@ Notes on routes:
 * CE-445 
 * CE-450 
 * CE-451 
-* CE-452 
-* CE-453 
-* CE-454 
+* CE-452 may be unsigned.
+* CE-453 [is signed](https://www.google.com/maps/@-3.9591643,-38.3684495,3a,15.1y,84.36h,89.77t/data=!3m6!1e1!3m4!1sD-dQ1jdwWkSsvj4CkmiYfA!2e0!7i16384!8i8192?entry=ttu).
+* CE-454 may be unsigned.
 * CE-455 
 * CE-456 
 * CE-458 
@@ -135,17 +135,17 @@ Notes on routes:
 * CE-492 
 * CE-494 
 * CE-496 
-* CE-497 
+* CE-497 [is signed on construction signs](https://www.google.com/maps/@-4.2292745,-38.1135445,3a,15.2y,257.54h,86.4t/data=!3m6!1e1!3m4!1sZl-eh87H4t5YxZeNO0Q6lg!2e0!7i16384!8i8192?entry=ttu) and maybe elsewhere.
 * CE-502 
 * CE-503 
 * CE-504 
 * CE-505 
 * CE-506 seems to be unsigned.
-* CE-507 
+* CE-507 may be unsigned.
 * CE-509 
-* CE-510 
-* CE-511 
-* CE-512 
+* CE-510 may be unsigned.
+* CE-511 may be unsigned.
+* CE-512 may be unsigned.
 * CE-513 
 * CE-514 
 * CE-515 
@@ -157,7 +157,7 @@ Notes on routes:
 * CE-524 
 * CE-525 
 * CE-526 
-* CE-527 
+* CE-527 may be unsigned.
 * CE-530 
 * CE-531 
 * CE-532 
@@ -171,7 +171,7 @@ Notes on routes:
 * CE-543 
 * CE-545 
 * CE-546 
-* CE-548 
+* CE-548 may be unsigned.
 * CE-549 
 * CE-550 
 * CE-551 
@@ -181,7 +181,7 @@ Notes on routes:
 * CE-560 
 * CE-562 
 * CE-564 
-* CE-565 
+* CE-565 may be unsigned.
 * CE-566 
 * CE-567 seems to be unsigned.
 * CE-568 seems to be unsigned.
