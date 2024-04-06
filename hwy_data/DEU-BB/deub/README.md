@@ -10,9 +10,9 @@
 
 
 * ADDITIONAL SOURCES BY STATES:
-- http://bb-viewer.geobasis-bb.de/strassennetz/
-- http://www.ls.brandenburg.de/cms/detail.php/bb1.c.260097.de
+- https://bb-viewer.geobasis-bb.de/
+- https://www.ls.brandenburg.de/ls/de/verwalten/karten/netzknotenkarten/
 
 
 **NOTES TO ROUTES:**
-- `B5` Karstädt is not in mauttabelle.de (September 2018) but OSM, geoportal and Netzknotenkarte Prignitz district still indicate it being `B5`. I think it's correct because e.g. Geoportal has the northern segement of former `B5` already as `L132`
+- `B5` north of Karstädt is not in mauttabelle.de (April 2024) but still indicated being `B5` on 2023 GSV (km posts), OSM, geoportal and Netzknotenkarte Prignitz district. Not mapped though.
