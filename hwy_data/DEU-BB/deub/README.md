@@ -15,4 +15,4 @@
 
 
 **NOTES TO ROUTES:**
-- `B5` north of Karstädt is not in mauttabelle.de (April 2024) but still indicated being `B5` on 2023 GSV (km posts), OSM, geoportal and Netzknotenkarte Prignitz district. Not mapped though.
+- `B5` north of Karstädt is not in mauttabelle.de (April 2024) but still indicated being `B5` on 2023 GSV (km posts), OSM, geoportal and Netzknotenkarte Prignitz district. Not mapped (removed back in 2020). Please refer to DEU-ST `B2n`.
