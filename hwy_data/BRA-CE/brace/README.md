@@ -101,7 +101,7 @@ Notes on routes:
 * CE-393 
 * CE-395 
 * CE-397 
-* CE-401 
+* CE-401 seems to be unsigned, but most (or all?) is in brasf as AvCarJer.
 * CE-402 seems to be unsigned.
 * CE-403 seems to be unsigned.
 * CE-404 seems to be unsigned.
