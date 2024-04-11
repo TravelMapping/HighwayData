@@ -65,7 +65,7 @@ Notes on routes:
 * ERS-355 [is signed](https://www.google.com/maps/@-28.8980944,-51.5531586,3a,16y,236.6h,88.61t/data=!3m6!1e1!3m4!1sBHnXO3Flsvx8mkPFnCtsdw!2e0!7i16384!8i8192?entry=ttu).
 * ERS-357 [is signed](https://www.google.com/maps/@-30.8287595,-53.905838,3a,18.4y,105.85h,84.61t/data=!3m6!1e1!3m4!1scZzR8Y56N-zKOUGiPHAsLg!2e0!7i13312!8i6656?entry=ttu).
 * ERS-359 may be unsigned.
-* ERS-373 
+* ERS-373 may be unsigned.
 * ERS-389 [is signed](https://www.google.com/maps/@-29.3240534,-49.7583782,3a,15.1y,194.23h,85.83t/data=!3m6!1e1!3m4!1sLxNHTBx22OTAt7tMSq3qPQ!2e0!7i16384!8i8192?entry=ttu).
 * ERS-389 AM-9090 [is signed as ERS-389 ACE-9090](https://www.google.com/maps/@-29.9245061,-50.317241,3a,15y,86.03h,85.58t/data=!3m6!1e1!3m4!1sBo_FFwN1SwNhjrOo9I_Iqw!2e0!7i16384!8i8192?entry=ttu).
 * ERS-400 [is signed](https://www.google.com/maps/@-29.4077074,-53.0135589,3a,15y,155.24h,84.43t/data=!3m6!1e1!3m4!1sWCbjwdHpOyb_T1YWB-l-iw!2e0!7i16384!8i8192?entry=ttu).
@@ -208,7 +208,7 @@ Notes on routes:
 * ERS-717 
 * ERS-734 
 * ERS-737 may be unsigned.
-* ERS-762 
+* ERS-762 may be unsigned.
 * ERS-776 seems to be unsigned.
 * ERS-784 [is signed](https://www.google.com/maps/@-30.2058856,-50.317811,3a,48.9y,47.26h,118.45t/data=!3m6!1e1!3m4!1sHW1k91vk-Z_owTlMYK0EqA!2e0!7i16384!8i8192?entry=ttu).
 * ERS-786 [is signed](https://www.google.com/maps/@-30.0032742,-50.171352,3a,75y,134.34h,102.91t/data=!3m6!1e1!3m4!1sHzu2EaMz12Fx69HgPw-Evw!2e0!7i16384!8i8192?entry=ttu).
