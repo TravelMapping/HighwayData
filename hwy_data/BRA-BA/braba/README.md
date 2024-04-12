@@ -9,6 +9,8 @@ Notes on routes:
 * BA-046 [is signed](https://www.google.com/maps/@-12.8463452,-39.8415233,3a,19.7y,327.27h,88.04t/data=!3m6!1e1!3m4!1sYZfWAqz0og4macRgmlR1pw!2e0!7i16384!8i8192?entry=ttu).
 * BA-052 [is signed](https://www.google.com/maps/@-11.4738325,-41.3734173,3a,21.9y,342h,85.47t/data=!3m6!1e1!3m4!1sHC7vnof7VE8xKMd12-h0wA!2e0!7i16384!8i8192?entry=ttu).
 * BA-084 [is signed](https://www.google.com/maps/@-12.3537933,-38.7874359,3a,19.5y,42.22h,110.38t/data=!3m6!1e1!3m4!1sxqb12Nb0QLRaB7YoKw1b7w!2e0!7i16384!8i8192?entry=ttu).
+* BA-093 [is signed](https://www.google.com/maps/@-12.6818177,-38.3033935,3a,26.2y,193.29h,107.29t/data=!3m6!1e1!3m4!1sRla9BpuUBEgG-GO7Pq1pWA!2e0!7i16384!8i8192?entry=ttu).
+* BA-099 [is signed](https://www.google.com/maps/@-12.8550501,-38.2873052,3a,34.4y,124.12h,97.71t/data=!3m6!1e1!3m4!1s6toxAIFu1hL-XmEafzLpNQ!2e0!7i16384!8i8192?entry=ttu).
 * BA-120 [is signed](https://www.google.com/maps/@-13.7538718,-39.4871918,3a,33.7y,254.03h,84.93t/data=!3m6!1e1!3m4!1sEznbnXR0n2C9Q9EmlYgumA!2e0!7i16384!8i8192?entry=ttu).
 * BA-126 may be unsigned.
 * BA-130 [is signed](https://www.google.com/maps/@-11.3878049,-40.0147098,3a,31.3y,243.33h,75.31t/data=!3m6!1e1!3m4!1sUkH-oGXPAx0TYenGT4Hp3Q!2e0!7i16384!8i8192?entry=ttu).
@@ -83,9 +85,15 @@ Notes on routes:
 * BA-514 (BA-859 in the log?) may be unsigned.
 * BA-515 [was signed in 2019](https://www.google.com/maps/@-12.2464461,-38.6350659,3a,28.3y,218.81h,79.4t/data=!3m7!1e1!3m5!1s0wXdm2T_D6deUJbTJNXJ6Q!2e0!5s20190201T000000!7i13312!8i6656?entry=ttu) but this sign, at least, is now gone.
 * BA-516 [is signed](https://www.google.com/maps/@-12.1961385,-38.4167247,3a,19.7y,181.38h,83.76t/data=!3m6!1e1!3m4!1sg0Jhm6DfPqpUcfUzfmiAfw!2e0!7i16384!8i8192?entry=ttu).
+* BA-521 [is signed](https://www.google.com/maps/@-12.7517807,-38.4871653,3a,15.6y,59.53h,103.53t/data=!3m6!1e1!3m4!1s64oT7WWDPi0FPdGkhP8EJA!2e0!7i16384!8i8192?entry=ttu).
 * BA-522 [is signed](https://www.google.com/maps/@-12.5554827,-38.651189,3a,15y,206.83h,88.21t/data=!3m6!1e1!3m4!1stsn5WGgbaGXEXuUUAs39Tg!2e0!7i16384!8i8192?entry=ttu).
+* BA-524 [is signed](https://www.google.com/maps/@-12.6818983,-38.303465,3a,15y,249.94h,87.71t/data=!3m6!1e1!3m4!1s0SlShnp0-My0qx3AJhmvDQ!2e0!7i16384!8i8192?entry=ttu).
+* BA-525 may be unsigned, and is not on the map (so may no longer exist).
+* BA-526 [is signed](https://www.google.com/maps/@-12.9075886,-38.3471553,3a,15.1y,221.97h,107.08t/data=!3m6!1e1!3m4!1soOTRV0amPRqeWsna7R4tfQ!2e0!7i16384!8i8192?entry=ttu).
 * BA-527 may be unsigned.
+* BA-531 [is signed](https://www.google.com/maps/@-12.7260305,-38.3090627,3a,15.1y,47.47h,102.54t/data=!3m6!1e1!3m4!1srZCOru8napLoixVagak23w!2e0!7i16384!8i8192?entry=ttu).
 * BA-534 [is signed](https://www.google.com/maps/@-12.8642373,-38.8537937,3a,15y,69.22h,89.55t/data=!3m6!1e1!3m4!1siu_c31z_Lg-7o_hGkuEI0Q!2e0!7i16384!8i8192?entry=ttu).
+* BA-535 [is signed](https://www.google.com/maps/@-12.8550501,-38.2873052,3a,34.4y,124.12h,97.71t/data=!3m6!1e1!3m4!1s6toxAIFu1hL-XmEafzLpNQ!2e0!7i16384!8i8192?entry=ttu).
 * BA-538 may be unsigned.
 * BA-539 [is signed](https://www.google.com/maps/@-12.9837797,-39.4736196,3a,15.1y,151.75h,84.9t/data=!3m6!1e1!3m4!1s7zvZyBR0B5kxujNR9C2XNQ!2e0!7i16384!8i8192?entry=ttu).
 * BA-540 [is signed](https://www.google.com/maps/@-13.0361093,-39.5861704,3a,18y,146.73h,78.12t/data=!3m6!1e1!3m4!1sd7maowPc8GCRsvNFQtBj7A!2e0!7i16384!8i8192?entry=ttu).

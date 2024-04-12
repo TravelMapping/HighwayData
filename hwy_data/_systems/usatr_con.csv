@@ -1,31 +1,39 @@
 systemName;route;banner;groupName;roots
 usatr;LECT;;Great Lakes - Lake Erie Circle Tour;pa.lect,oh.lect,mi.lect
 usatr;LHCT;;Great Lakes - Lake Huron Circle Tour;mi.lhct
+usatr;LHCT;Spr;Great Lakes - Lake Huron Circle Tour Spur (Cedarville, MI);mi.lhctsprced
 usatr;LMCT;;Great Lakes - Lake Michigan Circle Tour;wi.lmct,il.lmct,in.lmct,mi.lmct,wi.lmctgre
+usatr;LMCT;Lp;Great Lakes - Lake Michigan Circle Tour Loop (Sleeping Bear, MI);mi.lmctlpsle
 usatr;LSCT;;Great Lakes - Lake Superior Circle Tour (Sault Ste. Marie, MI);mi.lsct
 usatr;LSCT;;Great Lakes - Lake Superior Circle Tour (Duluth, MN);mn.lsct,wi.lsct,mi.lsctcop
 usatr;SeaTrl;;Great Lakes - Seaways Trail;pa.seatrl,ny.seatrl
-usatr;GRR;;Great River Road;la.grrbat,ms.grr,tn.grr,ky.grr,il.grrcai,mo.grr,il.grrqui,ia.grrbur,il.grr,ia.grrdub,wi.grr,mn.grr
-usatr;GRR;;Great River Road (Port Allen, LA);la.grr,ar.grr
+usatr;SeaTrlPre;;Great Lakes - Seaways Trail (Presque Isle State Park);pa.seatrlpre
+usatr;GRR;;Great River Road (Louisiana - Illinois);la.grrbat,ms.grr,tn.grr,ky.grr,il.grrcai,mo.grr,il.grrqui
+usatr;GRR;;Great River Road (Moline, IL);il.grr
+usatr;GRR;;Great River Road (Wisconsin - Minnesota);wi.grr,mn.grr
+usatr;GRR;;Great River Road (Lousiana - Missouri);la.grr,ar.grr,mo.grrcgi
+usatr;GRR;;Great River Road (Missouri - Minnesota);mo.grrcan,ia.grr,mn.grrwin
 usatr;GRR;;Great River Road (Arkansas City, AR);ar.grrark
 usatr;GRR;;Great River Road (Greenville Bridge, AR);ar.grrgre
-usatr;GRR;;Great River Road (Keokuk, IA);ia.grrkeo
 usatr;GRR;;Great River Road (East Saint Louis, IL);il.grresl
 usatr;GRR;;Great River Road (Oquaka, IL);il.grroqu
-usatr;GRR;;Great River Road (Davenport, IA);ia.grr,mn.grrwin
-usatr;GRR;;Great River Road (East Dubuque, IL);il.grredu,wi.grredu
 usatr;LCTrl;;Lewis & Clark Auto Trail (Washington-Idaho);wa.lctrl,id.lctrl
-usatr;LCTrl;;Lewis & Clark Auto Trail (Dakotas);nd.lctrl,sd.lctrl
-usatr;LCTrl;;Lewis & Clark Auto Trail (Iowa);ia.lctrl
+usatr;LCTrl;;Lewis & Clark Auto Trail (Dakotas-Iowa);nd.lctrl,sd.lctrl,ia.lctrl
 usatr;LCTrl;;Lewis & Clark Auto Trail (Missouri);mo.lctrl
 usatr;LCTrl;;Lewis & Clark Auto Trail (Astoria, OR);or.lctrl
 usatr;LCTrl;;Lewis & Clark Auto Trail (Hermiston, OR);or.lctrlher
-usatr;LCTrl;;Lewis & Clark Auto Trail (Dakotas-Nebraska);nd.lctrlman,sd.lctrlken,ne.lctrl
-usatr;LCTrl;;Lewis & Clark Auto Trail (Kansas-Missouri);ks.lctrl,mo.lctrljef
+usatr;LCTrl;;Lewis & Clark Auto Trail (Dakotas-Nebraska);nd.lctrlwes,sd.lctrlwes,ne.lctrl
+usatr;LCTrl;;Lewis & Clark Auto Trail (Kansas-Missouri);ks.lctrl,mo.lctrlsou
+usatr;LCTrl;;Lewis & Clark Auto Trail (Indiana);in.lctrl
 usatr;LCTrl;;Lewis & Clark Auto Trail (Keene, ND);nd.lctrlkee
 usatr;LCTrl;;Lewis & Clark Auto Trail (New Town, ND);nd.lctrlnew
 usatr;LCTrl;;Lewis & Clark Auto Trail (Riverdale, ND);nd.lctrlriv
+usatr;LCTrl;;Lewis & Clark Auto Trail (Washburn, ND);nd.lctrlwas
 usatr;LCTrl;;Lewis & Clark Auto Trail (Bismarck, ND);nd.lctrlbis
+usatr;LCTrl;;Lewis & Clark Auto Trail ((South) Bismarck, ND);nd.lctrlsbi
+usatr;LCTrl;;Lewis & Clark Auto Trail (Mobridge, SD);sd.lctrlmob
+usatr;LCTrl;;Lewis & Clark Auto Trail (Pierre, SD);sd.lctrlpie
+usatr;LCTrl;;Lewis & Clark Auto Trail (Weston, MO);mo.lctrlwes
 usatr;LinHwy;;Lincoln Highway (Tracy, CA);ca.linhwytra
 usatr;LinHwy;;Lincoln Highway (Lathrop, CA);ca.linhwylat
 usatr;LinHwy;;Lincoln Highway (Lodi, CA);ca.linhwylod
@@ -39,22 +47,27 @@ usatr;LinHwy;;Lincoln Highway (Iowa - Ohio);ia.linhwy,il.linhwy,in.linhwy,oh.lin
 usatr;LinHwy;;Lincoln Highway (Pennsylvania);pa.linhwy
 usatr;LinHwy;;Lincoln Highway (Dixon, CA);ca.linhwydix
 usatr;LinHwy;;Lincoln Highway (Folsom, CA);ca.linhwyfol
-usatr;LinHwy;Lp;Lincoln Highway (De Soto, IA);ia.linhwylpdes
-usatr;LinHwy;Lp;Lincoln Highway (Niagara Trail, IA);ia.linhwylpnia
-usatr;LinHwy;Lp;Lincoln Highway (Parker Trail, IA);ia.linhwylppar
-usatr;LinHwy;Lp;Lincoln Highway (Quincy Trail, IA);ia.linhwylpqui
-usatr;LinHwy;Lp;Lincoln Highway (Glidden, IA);ia.linhwylpgli
-usatr;LinHwy;Lp;Lincoln Highway (State Center, IA);ia.linhwylpsta
-usatr;LinHwy;Lp;Lincoln Highway (Montour, IA);ia.linhwylpmon
-usatr;LinHwy;Lp;Lincoln Highway (Meskwaki, IA);ia.linhwylpmes
-usatr;LinHwy;Lp;Lincoln Highway (Marion, IA);ia.linhwylpmar
-usatr;LinHwy;Lp;Lincoln Highway (Clinton, IA);ia.linhwylpcli
-usatr;LinHwy;Lp;Lincoln Highway (Fulton ferry, IA);ia.linhwylpful
+usatr;LinHwy;Lp;Lincoln Highway LOOP (De Soto, IA);ia.linhwylpdes
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Niagara Trail, IA);ia.linhwylpnia
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Parker Trail, IA);ia.linhwylppar
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Quincy Trail, IA);ia.linhwylpqui
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Glidden, IA);ia.linhwylpgli
+usatr;LinHwy;Lp;Lincoln Highway LOOP (State Center, IA);ia.linhwylpsta
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Montour, IA);ia.linhwylpmon
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Meskwaki, IA);ia.linhwylpmes
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Belle Plaine, IA);ia.linhwylpbel
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Marion, IA);ia.linhwylpmar
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Clinton, IA);ia.linhwylpcli
+usatr;LinHwy;Lp;Lincoln Highway LOOP (Fulton ferry, IA);ia.linhwylpful
 usatr;LinHwy;;Lincoln Highway ('1928 Route' Plymouth, IN);in.linhwyply
 usatr;LinHwy;Alt;Lincoln Highway (Goshen, IN);in.linhwyaltgos
 usatr;LinHwy;;Lincoln Highway ('1915 Route' Fort Wayne, IN);in.linhwyfor
-usatr;NatRd;;Historic National Road (Illinois);il.natrd
-usatr;NatRd;;Historic National Road (Ohio-Maryland);oh.natrd,wv.natrd,pa.natrd,md.natrd
+usatr;NatRd;;Historic National Road;il.natrd,in.natrd,oh.natrd,wv.natrd,pa.natrd,md.natrd
+usatr;NatRd;Spr;Historic National Road Spur (Greenville);il.natrdsprgre
+usatr;ORSB;;Ohio River Scenic Byway;il.orsb,in.orsb
+usatr;ORSB;Spr;Ohio River Scenic Byway Spur (Brookport, IL);il.orsbsprbro
+usatr;ORSB;Spr;Ohio River Scenic Byway Spur (Golconda, IL);il.orsbsprgol
+usatr;ORSB;Spr;Ohio River Scenic Byway Spur (Cave-in-Rock, IL);il.orsbsprcav
 usatr;SelLp;;International Selkirk Loop (Main Route);bc.sellp,wa.sellp,id.sellp,bc.sellpcre
 usatr;SelLp;SST;Selkirk Loop (Silvery Slocan Super Side Trip);bc.sellpsstslo
 usatr;SelLp;SST;Selkirk Loop (Rivers, Dams & Mines Super Side Trip);bc.sellpsstrdm
@@ -63,3 +76,7 @@ usatr;SelLp;SST;Selkirk Loop (South Lakes Super Side Trip);id.sellpsstsla
 usatr;SelLp;SST;Selkirk Loop (Lake Pend Oreille Super Side Trip);id.sellpsstlpo
 usatr;SelLp;SST;Selkirk Loop (Kootenai River Super Side Trip);id.sellpsstkoo
 usatr;SelLp;SST;Selkirk Loop (Orchards Galore Super Side Trip);id.sellpsstorc,bc.sellpsstorc
+usatr;VLSB;;Volcanic Legacy Scenic Byway;ca.vlsb,or.vlsb
+usatr;VLSB;;Volcanic Legacy Scenic Byway (Chester);ca.vlsbche
+usatr;VLSB;;Volcanic Legacy Scenic Byway (Tule Lake);ca.vlsbtul
+usatr;VLSB;;Volcanic Legacy Scenic Byway (Crater Lake);or.vlsbcra
