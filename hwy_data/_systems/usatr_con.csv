@@ -1,4 +1,5 @@
 systemName;route;banner;groupName;roots
+usatr;CATrl;;California Trail;mo.catrl
 usatr;LECT;;Great Lakes - Lake Erie Circle Tour;pa.lect,oh.lect,mi.lect
 usatr;LHCT;;Great Lakes - Lake Huron Circle Tour;mi.lhct
 usatr;LHCT;Spr;Great Lakes - Lake Huron Circle Tour Spur (Cedarville, MI);mi.lhctsprced
@@ -69,12 +70,23 @@ usatr;LinHwy;;Lincoln Highway ('1913' Allen East, OH);oh.linhwyall
 usatr;LinHwy;;Lincoln Highway ('1913-1921' Nevada, OH);oh.linhwynev
 usatr;LinHwy;;Lincoln Highway ('1913-1920' Galion, OH);oh.linhwygal
 usatr;LinHwy;;Lincoln Highway ('1913-1928' Ashland, OH);oh.linhwyash
-usatr;NatRd;;Historic National Road;il.natrd,in.natrd,oh.natrd,wv.natrd,pa.natrd,md.natrd
+usatr;NatRd;;Historic National Road (Illinois - Ohio);il.natrd,in.natrd,oh.natrd
+usatr;NatRd;;Historic National Road (Ohio - Maryland);oh.natrdstc,wv.natrd,pa.natrd,md.natrd
 usatr;NatRd;Spr;Historic National Road Spur (Greenville);il.natrdsprgre
 usatr;ORSB;;Ohio River Scenic Byway;il.orsb,in.orsb
 usatr;ORSB;Spr;Ohio River Scenic Byway Spur (Brookport, IL);il.orsbsprbro
 usatr;ORSB;Spr;Ohio River Scenic Byway Spur (Golconda, IL);il.orsbsprgol
 usatr;ORSB;Spr;Ohio River Scenic Byway Spur (Cave-in-Rock, IL);il.orsbsprcav
+usatr;ORTrl;;Oregon Trail (Oregon);or.ortrl
+usatr;ORTrl;;Oregon Trail (Missouri);mo.ortrl
+usatr;ORTrl;;Oregon Trail (Barlow Road Route);or.ortrlbar
+usatr;ORTrl;;Oregon Trail (Barlow Road Cutoff);or.ortrlbcu
+usatr;SFTrl;;Santa Fe Trail (New Mexico);nm.sftrl
+usatr;SFTrl;;Santa Fe Trail (Missouri);mo.sftrl
+usatr;SFTrl;;Santa Fe Trail (Fort Union, NM);nm.sftrlfor
+usatr;SFTrl;;Santa Fe Trail (Mountain Route);nm.sftrlrat,co.sftrl
+usatr;SFTrl;;Santa Fe Trail (Sugar Creek, MO);mo.sftrlsug
+usatr;SFTrl;;Santa Fe Trail (Arrow Rock, MO);mo.sftrlarr
 usatr;SelLp;;International Selkirk Loop (Main Route);bc.sellp,wa.sellp,id.sellp,bc.sellpcre
 usatr;SelLp;SST;Selkirk Loop (Silvery Slocan Super Side Trip);bc.sellpsstslo
 usatr;SelLp;SST;Selkirk Loop (Rivers, Dams & Mines Super Side Trip);bc.sellpsstrdm
