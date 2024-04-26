@@ -68,6 +68,7 @@ date;region;route;root;description
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
 2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
+2024-04-26;Austria;B40 (Mistelbacher Straße (Mistelbach));aut.b040mis;New Route
 2024-03-25;Austria;S7;aut.s007;New Route
 2024-03-25;Austria;E66;aut.e66;Route relocated from B65/B319 through Fürstenfeld and onto A2/S7 from A2's exit 138 to north of Dobersdorf
 2024-02-15;Austria;L501-4 (Duttendorf);aut.l05014dut;New Route
@@ -1918,11 +1919,15 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
-2024-04-21;(Germany) North Rhine-Westphalia;B55 (Meschede);deuni.b055;Route extended at east end from L586 to B64 (former B61)
-2024-04-21;(Germany) North Rhine-Westphalia;B56;deuni.b056;Route extended at east end from A560 to A4
-2024-04-21;(Germany) North Rhine-Westphalia;B56 (Siegburg);deuni.b056;Route merged into main route
-2024-04-21;(Germany) North Rhine-Westphalia;B61 (Main);deuni.b061;Route truncated at south end from L586 to B64 (B55 now)
-2024-04-21;(Germany) North Rhine-Westphalia;L700 (Hagen-West);deuni.l700;New Route
+2024-04-25;(Germany) North Rhine-Westphalia;L78;deunw.l078;Route relocated from Duisburger Straße, Schloßbrücke and Leineweberstraße, and onto Ruhrorter Straße, Weseler Straße, Konrad-Adenauer-Brücke and Tourainer Ring in Mülheim an der Ruhr
+2024-04-25;(Germany) North Rhine-Westphalia;L78 (Mülheim an der Ruhr);deunw.l078;Route merged into main route
+2024-04-25;(Germany) North Rhine-Westphalia;L138;deunw.l138;Route extended at east end from K14 to L78 (former L78)
+2024-04-25;(Germany) North Rhine-Westphalia;L449;deunw.l449;New Route
+2024-04-21;(Germany) North Rhine-Westphalia;B55 (Meschede);deunw.b055;Route extended at east end from L586 to B64 (former B61)
+2024-04-21;(Germany) North Rhine-Westphalia;B56;deunw.b056;Route extended at east end from A560 to A4
+2024-04-21;(Germany) North Rhine-Westphalia;B56 (Siegburg);deunw.b056;Route merged into main route
+2024-04-21;(Germany) North Rhine-Westphalia;B61 (Main);deunw.b061;Route truncated at south end from L586 to B64 (B55 now)
+2024-04-21;(Germany) North Rhine-Westphalia;L700 (Hagen-West);deunw.l700;New Route
 2024-04-03;(Germany) North Rhine-Westphalia;B83 (Kleinenbremen);deuni.b083;Merged into Lower Saxonian main route
 2024-03-29;(Germany) North Rhine-Westphalia;B474;deunw.b474;Route relocated from via A43's exit 6 (L611 now) and onto new alignment from L611 to A43's exit 5
 2024-03-29;(Germany) North Rhine-Westphalia;L611;deunw.l611;New Route
@@ -2238,6 +2243,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Thuringia;A71;deuth.a071;Route extended at north end from exit 5 to exit 1, including Heldrungen section
 2015-09-15;(Germany) Thuringia;A71 (Heldrungen);;Route merged into main A71 route
 2015-09-15;(Germany) Thuringia;E40;deuth.e40;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between A4 exits 51 and 53
+2024-04-25;Greece;A3;grc.a003;Route extended at south end from exit 3 to A1, and at north end from exit 10 to exit 12
+2024-04-25;Greece;A3 (Lamia);grc.a003;Route merged into main route
 2024-02-01;Greece;A52;grc.a052;Route extended at west end from Loutraki to Aktio Airport
 2024-02-01;Greece;A52 (Vonitsa);grc.a052;Route merged into main route
 2022-07-23;Greece;A3 (Lamia);grc.a003lam;Route added
@@ -4453,6 +4460,10 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2024-04-24;Romania;DNCOra (Centura Oradea);rou.dncora;New Route
+2024-04-24;Romania;DN1Y;rou.dn01y;New Route
+2024-04-24;Romania;DEX16;rou.dex16;New Route
+2024-04-24;Romania;A0 (Jilava);rou.a000jil;Route extended at eastern end from DN5 to DN4
 2023-12-30;Romania;A0 (Jilava);rou.a000jil;New Route
 2023-12-23;Romania;DEx12;rou.dex12;Route extended at northern end from Slatina Nord to Colonesti
 2023-12-23;Romania;A3 (Iernut);rou.a003;Route merged into main route A3
