@@ -68,6 +68,7 @@ date;region;route;root;description
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
 2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
+2024-04-26;Austria;B40 (Mistelbacher Straße (Mistelbach));aut.b040mis;New Route
 2024-03-25;Austria;S7;aut.s007;New Route
 2024-03-25;Austria;E66;aut.e66;Route relocated from B65/B319 through Fürstenfeld and onto A2/S7 from A2's exit 138 to north of Dobersdorf
 2024-02-15;Austria;L501-4 (Duttendorf);aut.l05014dut;New Route
@@ -1918,6 +1919,15 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2024-04-25;(Germany) North Rhine-Westphalia;L78;deunw.l078;Route relocated from Duisburger Straße, Schloßbrücke and Leineweberstraße, and onto Ruhrorter Straße, Weseler Straße, Konrad-Adenauer-Brücke and Tourainer Ring in Mülheim an der Ruhr
+2024-04-25;(Germany) North Rhine-Westphalia;L78 (Mülheim an der Ruhr);deunw.l078;Route merged into main route
+2024-04-25;(Germany) North Rhine-Westphalia;L138;deunw.l138;Route extended at east end from K14 to L78 (former L78)
+2024-04-25;(Germany) North Rhine-Westphalia;L449;deunw.l449;New Route
+2024-04-21;(Germany) North Rhine-Westphalia;B55 (Meschede);deunw.b055;Route extended at east end from L586 to B64 (former B61)
+2024-04-21;(Germany) North Rhine-Westphalia;B56;deunw.b056;Route extended at east end from A560 to A4
+2024-04-21;(Germany) North Rhine-Westphalia;B56 (Siegburg);deunw.b056;Route merged into main route
+2024-04-21;(Germany) North Rhine-Westphalia;B61 (Main);deunw.b061;Route truncated at south end from L586 to B64 (B55 now)
+2024-04-21;(Germany) North Rhine-Westphalia;L700 (Hagen-West);deunw.l700;New Route
 2024-04-03;(Germany) North Rhine-Westphalia;B83 (Kleinenbremen);deuni.b083;Merged into Lower Saxonian main route
 2024-03-29;(Germany) North Rhine-Westphalia;B474;deunw.b474;Route relocated from via A43's exit 6 (L611 now) and onto new alignment from L611 to A43's exit 5
 2024-03-29;(Germany) North Rhine-Westphalia;L611;deunw.l611;New Route
@@ -2233,6 +2243,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Thuringia;A71;deuth.a071;Route extended at north end from exit 5 to exit 1, including Heldrungen section
 2015-09-15;(Germany) Thuringia;A71 (Heldrungen);;Route merged into main A71 route
 2015-09-15;(Germany) Thuringia;E40;deuth.e40;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between A4 exits 51 and 53
+2024-04-25;Greece;A3;grc.a003;Route extended at south end from exit 3 to A1, and at north end from exit 10 to exit 12
+2024-04-25;Greece;A3 (Lamia);grc.a003;Route merged into main route
 2024-02-01;Greece;A52;grc.a052;Route extended at west end from Loutraki to Aktio Airport
 2024-02-01;Greece;A52 (Vonitsa);grc.a052;Route merged into main route
 2022-07-23;Greece;A3 (Lamia);grc.a003lam;Route added
@@ -3441,6 +3453,10 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2024-04-20;Norway;E136;nor.e136;Route truncated at west end from Steinvågvegen to Skutvikskaret
+2024-04-20;Norway;Rv163;nor.rv163;Route truncated at west end from Ulvensplitten (E6) to Dronning Margretes vei
+2024-04-20;Norway;Rv580;nor.rv580;Route truncated at west end from Bergen Airport to Fv5180
+2024-04-20;Norway;Fv580;nor.fv580;New Route
 2024-04-16;Norway;Storlerbakken, Trondheim;nor.stobak;Route extended at south end from exit 29 to Fv6612 south of Kvål
 2023-12-15;Norway;E6 (Kirkenes);nor.e6kir;Route relocated from old alignment, and through Kvænangsfjelltunnelen now
 2023-11-03;Norway;E16;nor.e16;Route relocated from through Roa and onto new motorway from south of Sandkrysset interchange to Hadelandsvegen (Fv2300) west of Sandkrysset interchange
@@ -4444,6 +4460,10 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2024-04-24;Romania;DNCOra (Centura Oradea);rou.dncora;New Route
+2024-04-24;Romania;DN1Y;rou.dn01y;New Route
+2024-04-24;Romania;DEX16;rou.dex16;New Route
+2024-04-24;Romania;A0 (Jilava);rou.a000jil;Route extended at eastern end from DN5 to DN4
 2023-12-30;Romania;A0 (Jilava);rou.a000jil;New Route
 2023-12-23;Romania;DEx12;rou.dex12;Route extended at northern end from Slatina Nord to Colonesti
 2023-12-23;Romania;A3 (Iernut);rou.a003;Route merged into main route A3
@@ -5157,6 +5177,7 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2024-04-20;Sweden;E65;swe.e65;East end relocated from Rønne to Świnoujście ferry terminal
 2024-04-16;Sweden;Uddevalla - Vänersborg motorvägen;swe.uddvanmot;Route truncated at east end from E45 to Grunnebo
 2024-04-16;Sweden;Ljungby - Jönköping motorvägen;swe.ljujonmot;Route extended at south end from exit 83 to exit 80
 2023-12-24;Sweden;Halvors länk, Göteborg;swe.hallank;New Route
@@ -6339,6 +6360,8 @@ date;region;route;root;description
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2022-11-10;(USA) District of Columbia;Beach Drive;;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2024-04-27;(USA) Florida;FL 686A;fl.fl686a;Added route.
+2024-04-27;(USA) Florida;FL 690;fl.fl690;Added route.
 2024-03-13;(USA) Florida;FL 574;fl.fl574;Eastern end truncated from US 92 one block west to FL 39, due to being unsigned there.
 2024-01-30;(USA) Florida;FL 105;fl.fl105;Removed from Zoo Parkway connector, and relocated north to the 4-lane Zoo Parkway alignment, betwen the intersections of 'ZooPkwy_W' & 'US17', and then extended westward over to I-95 exit 358. Please double check your entries, as the US17 label moved 0.2 miles to the north of it's old location due to the reroute.
 2024-01-30;(USA) Florida;US 17;fl.us017;Label 'FL105' has shifted to the north 0.2 miles due to recent reroute of FL 105. Old location is now called 'ZooPkwy'.
