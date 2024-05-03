@@ -3208,6 +3208,33 @@ date;region;route;root;description
 2024-05-02;(Mexico) San Luis Potosí;SLP20D;mexslp.slp020d;new route
 2024-05-02;(Mexico) San Luis Potosí;SLP80CE;mexslp.slp080ce;new route
 2024-05-02;(Mexico) Veracruz;VERJA10D;mexver.verja010d;new route
+2024-05-02;(Mexico) Chihuahua;MEX16D;mexchih.mex016d;both ends truncated (still in mexf as MEX16)
+2024-05-02;(Mexico) Chihuahua;MEX45DChE;mexchih.mex045dche;new route
+2024-05-02;(Mexico) Chihuahua;MEX45DChi;mexchih.mex045dchi;deleted (renamed MEX45DSac)
+2024-05-02;(Mexico) Chihuahua;MEX45DSac;mexchih.mex045dsac;new route (was MEX45DChi)
+2024-05-02;(Mexico) Chiapas;MEX133D;mexchis.mex133d;new route
+2024-05-02;(Mexico) Chiapas;MEX145D;mexchis.mex145d;new route (was MEX187D)
+2024-05-02;(Mexico) Chiapas;MEX187D;mexchis.mex187d;deleted (renumbered MEX145D)
+2024-05-02;(Mexico) Chiapas;MEX190D;mexchis.mex190d;deleted (renamed MEX190DCri)
+2024-05-02;(Mexico) Chiapas;MEX190DCri;mexchis.mex190dcri;new route (was MEX190D)
+2024-05-02;(Mexico) Chiapas;MEX190D;mexchis.mex190d;new route (was MEX193D and MEX193DArr)
+2024-05-02;(Mexico) Chiapas;MEX193D;mexchis.mex193d;deleted (renumbered MEX190D)
+2024-05-02;(Mexico) Chiapas;MEX193DArr;mexchis.mex193darr;deleted (renumbered MEX190D)
+2024-05-02;(Mexico) Coahuila;MEX40DMat;mexcoah.mex040dmat;east end truncated (kept as part of MEX40DTor)
+2024-05-02;(Mexico) Coahuila;MEX40DSal;mexcoah.mex040dsal;new route
+2024-05-02;(Mexico) Coahuila;MEX40DTor;mexcoah.mex040dtor;new route (including part of MEX40DMat)
+2024-05-02;(Mexico) Coahuila;MEX57DHua;mexcoah.mex057dhua;new route
+2024-05-02;(Mexico) Coahuila;MEX57DPue;mexcoah.mex057dpue;deleted (part of NL MEX057D)
+2024-05-02;(Mexico) Coahuila;MEXS30D;mexcoah.mexs030d;new route
+2024-05-02;(Mexico) Durango;MEX40D;mexdgo.mex040d;extended east from MEX49 to COAH
+2024-05-02;(Mexico) Nuevo León;MEX40D;mexnl.mex040d;west end realigned (replacing part of NL40D) (former bypass of Monterrey is in mexnlm as M1610)
+2024-05-02;(Mexico) Nuevo León;MEX40DMon;mexnl.mex040dmon;new route
+2024-05-02;(Mexico) Nuevo León;MEX57D;mexnl.mex057D;new route (was MEX57DPue and MEX57DSal)
+2024-05-02;(Mexico) Nuevo León;MEX57DPue;mexnl.mex057Dpue;deleted (renamed MEX57D)
+2024-05-02;(Mexico) Nuevo León;MEX57DSal;mexnl.mex057Dsal;deleted (renamed MEX57D)
+2024-05-02;(Mexico) Tabasco;MEX145D;mextab.mex145D;new route (was VER MEX187D)
+2024-05-02;(Mexico) Veracruz;MEX145DCho;mexver.mex145Dcho;new route (was MEX187D)
+2024-05-02;(Mexico) Veracruz;MEX187D;mexver.mex187d;deleted (renumbered MEX145DCho)
 2024-02-15;Moldova;E581;mda.e581;Route removed from R3 and relocated onto R3 and M3 between M2/R3 junction and M3/R3 junction north of Cimislia
 2024-02-15;Moldova;M3 (Comrat);mda.m003;Route truncated at south end from Romanian border to R32.1 and extended at south end to G142
 2024-02-15;Moldova;M3 (Giurgiulesti);mda.m003giu;Route added
