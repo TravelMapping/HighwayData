@@ -3249,6 +3249,36 @@ date;region;route;root;description
 2024-05-03;(Mexico) Veracruz;MEX180DJos;mexver.mex140car;deleted (still in mexf as part of MEX140Car)
 2024-05-03;(Mexico) Veracruz;MEX180DNar;mexver.mex180dnar;new route
 2024-05-03;(Mexico) Veracruz;MEX180DVer;mexver.mex180dver;extended east into Veracruz
+2024-05-03;(Mexico) Ciudad de México;MEX15D;mexdf.mex015d;new route (was MEX15DMex)
+2024-05-03;(Mexico) Ciudad de México;MEX15DMex;mexdf.mex015d;deleted (renamed MEX15D)
+2024-05-03;(Mexico) Estado de México;MEX15D;mexemex.mex015d;extended south to MEX55
+2024-05-03;(Mexico) Estado de México;MEX15DMex;mexemex.mex015dmex;extended north to Lerma
+2024-05-03;(Mexico) Jalisco;MEX45D;mexjal.mex045d;new route (was MEX45DLeo)
+2024-05-03;(Mexico) Jalisco;MEX45DLeo;mexjal.mex045d;deleted (renamed MEX45D)
+2024-05-03;(Mexico) Jalisco;MEX80DLag;mexjal.mex080dlag;new route
+2024-05-03;(Mexico) Jalisco;MEX90D;mexjal.mex090d;extended east to Zapotlanejo
+2024-05-03;(Mexico) Jalisco;MEX90DPie;mexjal.mex090dpie;new route
+2024-05-03;(Mexico) Jalisco;MEXGUA10D;mexjal.mexgua010d;new route
+2024-05-03;(Mexico) Michoacán;MEX37DMor;mexmich.mex037dmor;new route
+2024-05-03;(Mexico) Michoacán;MEX90D;mexmich.mex090d;new route
+2024-05-03;(Mexico) Nayarit;MEX15D;mexnay.mex015d;new route (was MEX15DTeq)
+2024-05-03;(Mexico) Nayarit;MEX15DTeq;mexnay.mex015d;deleted (renamed MEX15D)
+2024-05-03;(Mexico) Nayarit;MEX15DCha;mexnay.mex015dcha;new route (was MEX15D)
+2024-05-03;(Mexico) Nayarit;MEX15D;mexnay.mex015dcha;deleted (renamed MEX15DCha) - please check list files, since this could not be handled with an alternate name
+2024-05-03;(Mexico) Nayarit;MEX15DTep;mexnay.mex015dtep;new route
+2024-05-03;(Mexico) Nayarit;MEX70D;mexnay.mex070d;new route
+2024-05-03;(Mexico) Nayarit;MEX200D;mexnay.mex200d;new route
+2024-05-03;(Mexico) Sinaloa;MEX15D;mexsin.mex015d;extended north to SINAE1; extended south to include former MEX15DEsc; a short stub became MEX15DMaz
+2024-05-03;(Mexico) Sinaloa;MEX15DEsc;mexsin.mex015d;deleted (absorbed by MEX15D)
+2024-05-03;(Mexico) Sinaloa;MEX15DMaz;mexsin.mex015dmaz;new route (was part of MEX15D)
+2024-05-03;(Mexico) Sinaloa;MEX15DNav;mexsin.mex015dnav;new route (was MEX15DObr)
+2024-05-03;(Mexico) Sinaloa;MEX15DObr;mexsin.mex015dnav;deleted (renamed MEX15DNav)
+2024-05-03;(Mexico) Sonora;MEX2D;mexson.mex002d;new route
+2024-05-03;(Mexico) Sonora;MEX15D;mexson.mex015d;south end truncated (kept as part of MEX15)
+2024-05-03;(Mexico) Sonora;MEX15DGua;mexson.mex015dgua;new route (was MEX15DObr)
+2024-05-03;(Mexico) Sonora;MEX15DObr;mexson.mex015dgua;deleted (renamed MEX15DGua)
+2024-05-03;(Mexico) Sonora;MEX15DObr;mexson.mex015dobr;new route
+2024-05-03;(Mexico) Sonora;MEXHER10D;mexson.mexher010d;new route
 2024-02-15;Moldova;E581;mda.e581;Route removed from R3 and relocated onto R3 and M3 between M2/R3 junction and M3/R3 junction north of Cimislia
 2024-02-15;Moldova;M3 (Comrat);mda.m003;Route truncated at south end from Romanian border to R32.1 and extended at south end to G142
 2024-02-15;Moldova;M3 (Giurgiulesti);mda.m003giu;Route added
