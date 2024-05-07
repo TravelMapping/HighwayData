@@ -3,3 +3,5 @@ There is very little info out there. [C-1](https://www.google.com/maps/@8.099958
 [Example of a km post](https://www.google.com/maps/@8.3881962,-82.2034243,3a,15y,185.8h,83.43t/data=!3m6!1e1!3m4!1sVaemAxPruNzgdC1RvT0H_g!2e0!7i16384!8i8192?entry=ttu) for C-1. [One with a shield!](https://www.google.com/maps/@8.2007782,-81.1819299,3a,15y,318.68h,87.83t/data=!3m6!1e1!3m4!1suz8TncObveDA4N34X2Uv_A!2e0!7i16384!8i8192?entry=ttu)
 
 The south end of C-2 may be very wrong; https://www.inec.gob.pa/archivos/P8271CONCEPTOS%20Y%20EXPLICACI%C3%93N.pdf merely says that Carretera Central Nacional serves the entire peninsula via Chitré, Las Tablas, Pocrí, and Pedasí.
+
+C-3 may not make it all the way to the end of the road in Colón.
