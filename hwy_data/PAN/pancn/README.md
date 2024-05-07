@@ -1,3 +1,3 @@
 There is very little info out there. [Panama 1](https://www.google.com/maps/@8.0999583,-80.965747,3a,29.9y,306.68h,117.55t/data=!3m6!1e1!3m4!1s3vCrNVYWHxsYuqEJseKp0Q!2e0!7i16384!8i8192?entry=ttu) is signed but other routes may not be. Lists of highways always include what third-party maps label 1, 2, 3, and 5.
 
-[Example of a km post](https://www.google.com/maps/@8.3881962,-82.2034243,3a,15y,185.8h,83.43t/data=!3m6!1e1!3m4!1sVaemAxPruNzgdC1RvT0H_g!2e0!7i16384!8i8192?entry=ttu) for C-1.
+[Example of a km post](https://www.google.com/maps/@8.3881962,-82.2034243,3a,15y,185.8h,83.43t/data=!3m6!1e1!3m4!1sVaemAxPruNzgdC1RvT0H_g!2e0!7i16384!8i8192?entry=ttu) for C-1. [One with a shield!](https://www.google.com/maps/@8.2007782,-81.1819299,3a,15y,318.68h,87.83t/data=!3m6!1e1!3m4!1suz8TncObveDA4N34X2Uv_A!2e0!7i16384!8i8192?entry=ttu)
