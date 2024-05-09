@@ -1,5 +1,5 @@
 Sources:
-* Maps: https://www.caminos.gob.gt/Descargas/Mapas/ (2017; department maps are from 2014)
+* Maps: https://www.caminos.gob.gt/mapas-de-la-red-vial.html (2017; department maps are from 2014)
 * Logs: https://www.caminos.gob.gt/rutas-registradas.html
 
 Notes on routes:
