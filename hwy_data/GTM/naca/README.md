@@ -10,10 +10,13 @@ Notes on routes:
 * CA2: RDSCH3 is signed at Sam; is this a case of the map being wrong?
 * CA2: RDESC26 does not appear to exist as a public road, so it's a shaping point.
 * CA2: signage is horrible through Escuintla, but it's not signed around the bypass.
-* CA2Tec may extend farther south into town.
+* CA2Tec (officially CA2A but not signed as such) may extend farther south into town.
+* CA2B (branch from CA2Tec to MEX200) is not signed.
 * CA9Sur: the location of RDESC1 may be wrong.
+* CA9SurA is not signed, but is in gtmsf as AutPalEsc and AutEscQue.
 * CA10: the location of RN18_E may be wrong.
 * CA13: the location of RDPET23 may be wrong.
+* CA13A is officially CA13, but signs are for CA13A. CA13A is shown as looping off CA9Nor thru Morales, but this is not signed.
 * CA13Ele: the west end may be wrong.
 * CA14: RDBV2_W is far to the south of where maps show a road.
 * CA14: the north end may be too far west.
