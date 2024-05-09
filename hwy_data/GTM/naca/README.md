@@ -1,5 +1,5 @@
 Sources:
-* Maps: https://www.caminos.gob.gt/mapas-de-la-red-vial.html (2017; department maps are from 2014)
+* Maps: https://www.caminos.gob.gt/mapas-de-la-red-vial.html (2017; department maps are from 2014) https://www.caminos.gob.gt/inguat-civ.html
 * Logs: https://www.caminos.gob.gt/rutas-registradas.html
 
 Notes on routes:
