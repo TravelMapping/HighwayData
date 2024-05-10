@@ -7,14 +7,18 @@ Notes on routes:
 * CA1: RDTOT22 is shown on maps (back to 2014) as paved, but it was a dirt track (impassable to cars?) in 2016. Hence it is a hidden shaping point.
 * CA1: there is no GMSV of the Chimaltenango bypass, but there is a video on YouTube: http://www.youtube.com/watch?v=J2HJ2Uf23QI
 * CA1: there is no GMSV of the Barberena bypass, but there is a video on YouTube: http://www.youtube.com/watch?v=3AKlohkfElU
-* CA2: RDSCH3 is signed at Sam; is this a case of the map being wrong?
+* CA2: RDSCH3 is signed at Sam; is this a case of the maps being wrong?
+* CA2: the location of RDESC13 may be wrong.
 * CA2: RDESC26 does not appear to exist as a public road, so it's a shaping point.
 * CA2: signage is horrible through Escuintla, but it's not signed around the bypass.
-* CA2Tec (officially CA2A but not signed as such) may extend farther south into town.
+* CA2Tec is officially CA2A but not signed as such.
 * CA2B (branch from CA2Tec to MEX200) is not signed.
+* CA9Nor's south end may be wrong.
 * CA9Sur: the location of RDESC1 may be wrong.
 * CA9SurA is not signed, but is in gtmsf as AutPalEsc and AutEscQue.
 * CA10: the location of RN18_E may be wrong.
+* CA10: the location of RDCHI9 may be wrong.
+* CA13: the location of RDPET19 may be wrong.
 * CA13: the location of RDPET23 may be wrong.
 * CA13A is officially CA13, but signs are for CA13A. CA13A is shown as looping off CA9Nor thru Morales, but this is not signed.
 * CA13Ele: the west end may be wrong.
