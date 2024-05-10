@@ -23,4 +23,4 @@ Notes on routes:
 * CA13A is officially CA13, but signs are for CA13A. CA13A is shown as looping off CA9Nor thru Morales, but this is not signed.
 * CA13Ele: the west end may be wrong.
 * CA14: RDBV2_W is far to the south of where maps show a road.
-* CA14: the north end may be too far west.
+* CA14: the north end may be too far east.
