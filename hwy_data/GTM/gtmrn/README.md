@@ -11,6 +11,9 @@ Notes on routes:
 * RN2 and RDSRO26 are swapped south of their intersection on the INGUAT map vs. other maps. The INGUAT map has been chosen since it seems to be more up-to-date.
 * RN5 has [at least one sign](https://www.google.com/maps/@14.798264,-90.6430745,3a,35.9y,26.53h,79.34t/data=!3m6!1e1!3m4!1sHaNq-r68fmhDa7vCcUOgpQ!2e0!7i13312!8i6656?entry=ttu) pointing it via RDGUA18.
 * RN5's route thru Rabinal and San Miguel Chicaj may be wrong.
+* RN7E's east end may be wrong.
+* RN7W's transition point into RN12N is very rough.
+* RN7W's route thru San Ildefonso Ixtahuacán may be wrong.
 * RN15 seems to have been extended south to Patzicía according to the INGUAT map, but it's not clear if this has happened.
 * RN21 is shown on the INGUAT map looping off CA11 thru Los Planes.
 
