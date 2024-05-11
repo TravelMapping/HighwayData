@@ -19,6 +19,8 @@ brabr;BR070;;Cuiabá;brago.br070,bramt.br070
 brabr;BR080;;Brasília;bradf.br080,brago.br080ven,bradf.br080ven,brago.br080
 brabr;BR080;;Luiz Alves;brago.br080lui
 brabr;BR101;;Rio de Janeiro;brarn.br101,brapb.br101,brape.br101,braal.br101,brase.br101,braba.br101,braes.br101,brarj.br101,brasp.br101
+brabr;BR101;;Serra (contorno);braes.br101ser
+brabr;BR101;;Iconha (contorno);braes.br101ico
 brabr;BR101;;Florianópolis;brasc.br101,brars.br101
 brabr;BR101;;São José do Norte;brars.br101jos
 brabr;BR104;;;brapb.br104,brape.br104,braal.br104
@@ -28,14 +30,15 @@ brabr;BR110;;Monteiro;brapb.br110mon
 brabr;BR110;;Ibimirim;brape.br110ibi
 brabr;BR110;;Alagoinhas;brape.br110,braal.br110,braba.br110
 brabr;BR116;;;brace.br116,brapb.br116,brace.br116bre,brape.br116,braba.br116,bramg.br116,brarj.br116,brasp.br116,brapr.br116,brasc.br116,brars.br116
+brabr;BR116;;Vitória da Conquista (anel);braba.br116vit
 brabr;BR116;;Curitiba (branch);brapr.br116cur
 brabr;BR122;;Quixadá;brace.br122
 brabr;BR122;;Guanambi;braba.br122
 brabr;BR135;;São Luís;brama.br135
 brabr;BR135;;Bareiras;brapi.br135,braba.br135
 brabr;BR135;;Coribe;braba.br135cor,bramg.br135
-brabr;BR135;;Curvelo;bramg.br135cur
 brabr;BR146;;Serra do Salitre;bramg.br146
+brabr;BR146;;São Roque de Minas;bramg.br146roq
 brabr;BR146;;Guaxupé;bramg.br146gua
 brabr;BR153;;São Geraldo do Araguaia;brapa.br153
 brabr;BR153;;Goiânia;brato.br153,brago.br153,bramg.br153,brasp.br153,brapr.br153
@@ -52,6 +55,7 @@ brabr;BR158;;Pato Branco;brapr.br158
 brabr;BR158;;Santa Maria;brasc.br158,brars.br158
 brabr;BR158;;Sant'Ana do Livramento (branch);brars.br158liv
 brabr;BR163;;;brasc.br163,brapr.br163ida,brasc.br163ida,brapr.br163,brams.br163,bramt.br163,brapa.br163
+brabr;BR163;;Santa Maria;brapr.br163mar
 brabr;BR174;;Vilhena;bramt.br174,braro.br174
 brabr;BR174;;Vila Bela da Santíssima Trinidade (branch);bramt.br174bel
 brabr;BR174;;Prainha Nova;braam.br174pra
@@ -92,7 +96,7 @@ brabr;BR262;;Campo Grande;brasp.br262,brams.br262
 brabr;BR265;;São João del-Rei;bramg.br265
 brabr;BR265;;São Sebastião do Paraíso;bramg.br265seb
 brabr;BR267;;Juiz de Fora;bramg.br267
-brabr;BR267;;Machado;bramg.br267mac
+brabr;BR267;;Poços de Caldas;bramg.br267poc
 brabr;BR267;;Maracaju;brams.br267
 brabr;BR272;;Campo Mourão;brapr.br272
 brabr;BR272;;Guaíra;brapr.br272gua
@@ -117,10 +121,14 @@ brabr;BR319;;Careiro;braam.br319car
 brabr;BR319;;Porto Velho;braam.br319,braro.br319cri,braam.br319ren,braro.br319ren,braam.br319vel,braro.br319
 brabr;BR324;;Remanso;braba.br324rem
 brabr;BR324;;Salvador;braba.br324
-brabr;BR330;;;braba.br330
+brabr;BR324;;Feira de Santana (acesso);braba.br324fei
+brabr;BR330;;Gentio do Ouro;braba.br330gen
+brabr;BR330;;Jequié;braba.br330
 brabr;BR342;;;braes.br342
 brabr;BR343;;;brapi.br343
-brabr;BR349;;;braba.br349
+brabr;BR349;;Itapicuru;braba.br349ita
+brabr;BR349;;Capela do Alto Alegre;braba.br349cap
+brabr;BR349;;Correntina;braba.br349
 brabr;BR352;;Coromandel;bramg.br352cor
 brabr;BR352;;Pitangui;bramg.br352
 brabr;BR354;;Formiga;bramg.br354
@@ -138,15 +146,21 @@ brabr;BR367;;Itaobim;bramg.br367
 brabr;BR369;;Oliveira;bramg.br369
 brabr;BR369;;Londrina;brapr.br369
 brabr;BR369;;Cascavel;brapr.br369cas
+brabr;BR369;;Campo Mourão;brapr.br369cam
 brabr;BR373;;;brapr.br373
 brabr;BR376;;Nova Andradina;brams.br376
 brabr;BR376;;Ponta Grossa;brapr.br376
 brabr;BR376;;Maringá (Contorno Norte);brapr.br376mar
+brabr;BR376;;Mandaguari (Travessia Urbana);brapr.br376man
 brabr;BR376;;Curitiba (branch);brapr.br376cur
-brabr;BR381;;;bramg.br381,brasp.br381
+brabr;BR381;;Nova Venécia;braes.br381
+brabr;BR381;;Belo Horizonte;bramg.br381,brasp.br381
+brabr;BR383;;;bramg.br383
 brabr;BR386;;;brars.br386
 brabr;BR392;;Pelotas;brars.br392
+brabr;BR392;;Molhes da Barra;brars.br392mol
 brabr;BR392;;Cerro Largo;brars.br392cer
+brabr;BR392;AM9110;;brars.br392am9110
 brabr;BR393;;Cachoeiro de Itapemirim;braes.br393
 brabr;BR393;;Volta Redonda;brarj.br393
 brabr;BR401;;;brarr.br401
@@ -167,8 +181,9 @@ brabr;BR408;;;brape.br408
 brabr;BR410;;;braba.br410
 brabr;BR412;;;brapb.br412
 brabr;BR414;;;brago.br414
-brabr;BR415;;Ilhéus;braba.br415
-brabr;BR415;;Itabuna;braba.br415ita
+brabr;BR415;;Ilhéus;braba.br415ilh
+brabr;BR415;;Ibicaraí;braba.br415
+brabr;BR415;;Vitória da Conquista;braba.br415vit
 brabr;BR416;;;braal.br416
 brabr;BR418;;;braba.br418
 brabr;BR419;;Perdigão;brams.br419per
@@ -190,12 +205,14 @@ brabr;BR434;;;brapb.br434
 brabr;BR435;;;braro.br435
 brabr;BR436;;;brams.br436
 brabr;BR437;;;brarn.br437
+brabr;BR447;;;braes.br447
 brabr;BR448;;;brars.br448
 brabr;BR452;;Rio Verde;brago.br452
 brabr;BR452;;Araxá;bramg.br452
 brabr;BR458;;;bramg.br458
 brabr;BR459;;;bramg.br459,brasp.br459
 brabr;BR463;;;brams.br463
+brabr;BR464;;;bramg.br464
 brabr;BR465;;;brarj.br465
 brabr;BR468;;;brars.br468
 brabr;BR469;;;brapr.br469
@@ -213,6 +230,7 @@ brabr;BR480;;Erechim;brars.br480
 brabr;BR482;;Safra;braes.br482saf
 brabr;BR482;;Cachoeiro de Itapemirim;braes.br482cac
 brabr;BR482;;Alegre;braes.br482
+brabr;BR482;;Conselheiro Lafaiete;bramg.br482
 brabr;BR484;;;braes.br484
 brabr;BR485;;;brarj.br485
 brabr;BR487;;Porto Camargo;brams.br487,brapr.br487cam
@@ -223,3 +241,4 @@ brabr;BR493;;;brarj.br493
 brabr;BR494;;;bramg.br494
 brabr;BR495;;;brarj.br495
 brabr;BR498;;;braba.br498
+brabr;BR499;;;bramg.br499
