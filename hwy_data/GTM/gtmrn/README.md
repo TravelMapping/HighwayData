@@ -14,6 +14,8 @@ Notes on routes:
 * RN7E's east end may be wrong.
 * RN7W's transition point into RN12N is very rough.
 * RN7W's route thru San Ildefonso Ixtahuacán may be wrong.
+* RN7W's route thru San Miguel Uspantán may be wrong.
+* RN8's south end may be wrong.
 * RN15 seems to have been extended south to Patzicía according to the INGUAT map, but it's not clear if this has happened.
 * RN21 is shown on the INGUAT map looping off CA11 thru Los Planes.
 
