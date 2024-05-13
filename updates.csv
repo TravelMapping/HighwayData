@@ -5800,6 +5800,8 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2024-05-11;(UK) England;A479 (Wembley);eng.b4565;Route deleted (now B4565)
+2024-05-11;(UK) England;B4565;eng.b4565;Route added
 2024-02-27;(UK) England;A585;eng.a0585;Route removed from Garstang New Road and Mains Lane and relocated onto Singleton bypass between A588_N and A586_E
 2024-02-27;(UK) England;A586;eng.a0586;Route removed from Garstang New Road and Garstang Road East and relocated onto Singleton bypass between A585_W and A585_E
 2024-02-15;(UK) England;A390;eng.a0390;Route extended at west end from former A30 junction to new A30/A3075 junction
@@ -7154,11 +7156,13 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
-2024-04-10;(USA) Louisiana;LA 42;la.0042;Truncated at west end from LA 327 Spur to Perkins Rd (N)
+2024-05-11;(USA) Louisiana;LA 157 (Haughton);la.la0157;Truncated at south end from US71 to barricaded bridge 1/2 mile north of US71 (segment south of the former bridge is now LA 157 (McDade))
+2024-05-11;(USA) Louisiana;LA 157 (McDade);la.la0157mcd;Route added (was part of LA 157 (Haughton) before bridge was closed)
+2024-04-10;(USA) Louisiana;LA 42;la.la0042;Truncated at west end from LA 327 Spur to Perkins Rd (N)
 2024-04-10;(USA) Louisiana;LA 1059;;Route deleted
 2024-04-10;(USA) Louisiana;LA 1248;;Route deleted
-2024-01-15;(USA) Louisiana;LA 5;la.0005;Truncated at east end from railroad to LA 175
-2024-01-15;(USA) Louisiana;LA 107;la.0107;Removed from Cocoville Rd and relocated onto parallel segment of LA 1 between CocRd_N and LA1
+2024-01-15;(USA) Louisiana;LA 5;la.la0005;Truncated at east end from railroad to LA 175
+2024-01-15;(USA) Louisiana;LA 107;la.la0107;Removed from Cocoville Rd and relocated onto parallel segment of LA 1 between CocRd_N and LA1
 2024-01-15;(USA) Louisiana;LA 882;;Route deleted
 2024-01-15;(USA) Louisiana;LA 3051;;Route deleted
 2024-01-15;(USA) Louisiana;LA 3239;;Route deleted
@@ -7923,6 +7927,9 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2024-05-11;(USA) Ohio;OH 65;oh.oh065;Removed from Central Ave (southbound only), North St (OH 81), and Elizabeth St in Lima, and relocated onto the Union St/Central Ave pair and Wayne St between CenAve_S and WaySt_W
+2024-05-11;(USA) Ohio;OH 117;oh.oh117;OH65_N point moved from Central Ave to midpoint of Union St/Central Ave pair
+2024-05-11;(USA) Ohio;OH 309;oh.oh309;Removed from North St (OH 81) and Central Ave and relocated onto Jameson St and Elm St (OH 117) between OH81 and CenAve, OH117_W point moved from Central Ave to Jameson Ave, and OH65_N point moved from Elizabeth St to the Union St/Central Ave pair
 2024-02-24;(USA) Ohio;OH 93;oh.oh093;Extended at south end from US 52 to Kentucky state line
 2024-02-24;(USA) Ohio;OH 253;oh.oh253;Extended at north end from US 52 to CR 1
 2023-12-26;(USA) Ohio;OH 739;oh.oh739;Extended at north end following OH4/OH423 to new end at OH95/309
@@ -8348,6 +8355,10 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2024-05-11;(USA) Tennessee;TN 162 (Knoxville);tn.tn162;Route truncated at south end to north end of I-140, with segment south of I-140 becoming TN 162 (Alcoa)
+2024-05-11;(USA) Tennessee;TN 162 (Alcoa);tn.tn162alc;Route added (was TN 162 segment south of I-140)
+2024-05-11;(USA) Tennessee;TN 385 (Millington);tn.tn385;Route truncated at south end to north end of I-269, with segment southwest of I-269 becoming TN 385 (Collierville)
+2024-05-11;(USA) Tennessee;TN 385 (Collierville);tn.tn385col;Route added (was TN 385 segment southwest of I-269)
 2024-04-10;(USA) Tennessee;US 78;tn.us078;Removed from Dr Martin Luther King Dr west of Somerville St and relocated onto Crump Blvd and extended along US 61/64/70/79 and I-55 to Arkansas state line
 2024-02-24;(USA) Tennessee;I-69 Future (Union City);tn.i069futuni;Removed from segment of US 45W/US 51 and extended along new TN 690 bypass around Union City, with US45W/51 point moved to northern end of TN 690 concurrency
 2024-02-24;(USA) Tennessee;TN 93;tn.tn093;TN126_W point moved from Wilcox Dr to Old Wilcox Dr
