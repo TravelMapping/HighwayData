@@ -55,6 +55,7 @@
 - `R70` is indicated on OSM + GM
 - `R71` is indicated on OSM + GM
 - `R72` is indicated on OSM + GM, full ring only on GM what is not confirmed by GSV
+- `R89` is indicated on OSM + signposted on 2023 GSV but no number on GM
 
 **NOTES TO NOT DRAFTED ROUTES:**
 - `R11a` is indicated on OSM but not on GM nor signposted on 2021 / 2023 GSV http://www.openstreetmap.org/?lat=51.172509&lon=4.393576

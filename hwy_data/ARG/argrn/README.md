@@ -68,6 +68,7 @@
 - RN A014 [is signed](https://www.google.com/maps/@-31.5505221,-68.5005258,3a,17.1y,296.94h,103.22t/data=!3m6!1e1!3m4!1sJtXsS-3d8-Qv9Wn61orvvA!2e0!7i16384!8i8192?entry=ttu).
 - RN A015 [is signed](https://www.google.com/maps/@-31.2848541,-58.077599,3a,31.5y,64.15h,84.37t/data=!3m6!1e1!3m4!1s8WQbdQdHfRW2cr2_fXMDng!2e0!7i16384!8i8192?entry=ttu).
 - RN A016 seems to be unsigned.
+- [RN A017](https://www.argentina.gob.ar/obras-publicas/vialidad-nacional/estado-de-las-rutas) seems to be unsigned, but is in argsf as AutPrePer.
 - RN A019 seems to be unsigned, but is in argsf as AvCirCor.
 - RN A022 seems to be [signed only as a second route for RN 22](https://youtu.be/8gzlCpMIhiY?t=1025), so it has been mapped as RN 22Neu.
 - RN A025 seems to be unsigned (as of 2014).
