@@ -16,8 +16,12 @@ Notes on routes:
 * RN7W's route thru San Ildefonso Ixtahuacán may be wrong.
 * RN7W's route thru San Miguel Uspantán may be wrong.
 * RN8's south end may be wrong.
+* RN12S's south and north ends may be wrong.
+* RN13's route thru Flores Costa Cuca may be wrong.
 * RN14's route thru Antigua Guatemala may be wrong.
-* RN15 seems to have been extended south to Patzicía according to the INGUAT map, but it's not clear if this has happened.
+* RN15 seems to have a gap between Tecpán and Las Trampas; the 2017 map shows an unpaved road but there is nothing on the INGUAT map and no thru road seems to exist.
 * RN21 is shown on the INGUAT map looping off CA11 thru Los Planes.
 
 [Mexico-style shields](https://www.google.com/maps/@15.103158,-90.446995,3a,19.9y,117.35h,87.71t/data=!3m6!1e1!3m4!1sntYppFgMx1RLeZ4v4rDMrA!2e0!7i13312!8i6656?entry=ttu)?
+
+[A km post with a shield, including the section number 02 of RN 15](https://www.google.com/maps/@14.9577456,-91.1057903,3a,15y,231.93h,83.38t/data=!3m6!1e1!3m4!1sDeeCILk9IMer_jHtqyGmFQ!2e0!7i13312!8i6656?entry=ttu)
