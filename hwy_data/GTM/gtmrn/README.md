@@ -20,7 +20,9 @@ Notes on routes:
 * RN13's route thru Flores Costa Cuca may be wrong.
 * RN14's route thru Antigua Guatemala may be wrong.
 * RN15 seems to have a gap between Tecpán and Las Trampas; the 2017 map shows an unpaved road but there is nothing on the INGUAT map and no thru road seems to exist.
-* RN21 is shown on the INGUAT map looping off CA11 thru Los Planes.
+* RN19 is assumed to bypass Sanarate.
+* RN21's west end may be wrong.
+* RN23's west end may be wrong.
 
 [Mexico-style shields](https://www.google.com/maps/@15.103158,-90.446995,3a,19.9y,117.35h,87.71t/data=!3m6!1e1!3m4!1sntYppFgMx1RLeZ4v4rDMrA!2e0!7i13312!8i6656?entry=ttu)?
 
