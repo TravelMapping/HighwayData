@@ -2,7 +2,7 @@ Routes are included whether or not they are signed.
 
 Sources:
 * Maps: https://www.caminos.gob.gt/mapas-de-la-red-vial.html (2017; department maps are from 2014) https://www.caminos.gob.gt/inguat-civ.html
-* Logs: https://www.caminos.gob.gt/rutas-registradas.html
+* Logs: https://www.caminos.gob.gt/rutas-registradas.html https://www.covial.gob.gt/tableros2019/archivo_publico/Articulo10/inciso5/POA2022/download.php?file=POA+2022+UV.pdf (pp. 23-33)
 
 Notes on routes:
 * RN1's route thru Totonicapán, Quetzaltenango, and San Pedro-San Marcos may be wrong (if they are even defined in any official way).
