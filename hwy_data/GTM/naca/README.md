@@ -15,7 +15,7 @@ Notes on routes:
 * CA2B (branch from CA2Tec to MEX200) is not signed.
 * CA9Nor's south end may be wrong.
 * CA9Sur: the location of RDESC1 may be wrong.
-* CA9SurA is not signed, but is in gtmsf as AutPalEsc and AutEscQue.
+* CA9SurA [is signed](https://www.mapillary.com/app/?lat=14.409744688323002&lng=-90.698981657709&z=17.730084966158113&focus=photo&pKey=495395698325776&x=0.8762675395830437&y=0.7264146494939012&zoom=2.2804058560671283).
 * CA10: the location of RN18_E may be wrong.
 * CA10: the location of RDCHI9 may be wrong.
 * CA13: the location of RDPET19 may be wrong.
