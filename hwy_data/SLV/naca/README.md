@@ -9,3 +9,5 @@ Notes on routes:
 * CA1E: the location of SAV8 may be wrong.
 * CA2: USU14 may not reach CA2.
 * CA2: the location of USU16 may be wrong; USU43 may reach CA2 in this area.
+* CA3's east end may be wrong.
+* CA8Ahu's east end may be wrong.
