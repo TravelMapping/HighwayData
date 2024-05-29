@@ -68,6 +68,7 @@ date;region;route;root;description
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
 2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
+2024-05-16;Austria;B14 (Klosterneuburger Straße (Rannersdorf));aut.b014ran;New Route
 2024-04-26;Austria;B40 (Mistelbacher Straße (Mistelbach));aut.b040mis;New Route
 2024-03-25;Austria;S7;aut.s007;New Route
 2024-03-25;Austria;E66;aut.e66;Route relocated from B65/B319 through Fürstenfeld and onto A2/S7 from A2's exit 138 to north of Dobersdorf
@@ -767,6 +768,9 @@ date;region;route;root;description
 2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
 2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2022-01-23;(China) Xianjiang;AH9;chnxj.ah009;Route added
+2024-05-28;Croatia;D553;hrv.d553;New Route
+2024-05-28;Croatia;D403;;Route deleted
+2024-05-28;Croatia;D680;hrv.d403;Route renamed to D403
 2024-04-08;Croatia;D1;hrv.d001;Routing relocated from through Turanj and Jelaši, and onto new bypass from Mostanje (PriVelHoj_S) to north of Cerovac (CerVuk_W)
 2024-04-08;Croatia;D6;hrv.d006;Routing relocated from through Turanj and Jelaši, and onto new bypass from Mostanje (PriVelHoj_S) to north of Cerovac (CerVuk_W)
 2024-02-24;Croatia;D403;hrv.d403;Routing clarified just north of D8
@@ -1806,6 +1810,11 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2024-05-26;(Germany) Hesse;B457;deuhe.b457;Route extended at north end from A485 to transition to city street
+2024-05-26;(Germany) Hesse;L3184 (Gedern);deuhe.l3184ged;New Route
+2024-05-24;(Germany) Hesse;B54 (Michelbach);deuhe.b054mic;New Route
+2024-05-24;(Germany) Hesse;B54 (Wiesbaden);deuhe.b054;Route truncated at north end from west of Michelbach to north of Sandersmühle (route split due to border boundary)
+2024-05-23;(Germany) Hesse;L3113 (Mörfelden);deuhe.l3113mor;New Route
 2024-02-25;(Germany) Hesse;B43 (Sachsenhausen);deuhe.b043sac;New Route
 2023-11-03;(Germany) Hesse;B236;deuhe.b236;Route truncated at south end from Marburger Straße (old B252) in Münchhausen to western bypass (new B252)
 2023-11-03;(Germany) Hesse;B252;deuhe.b252;Route relocated from through Münchhausen and Wetter from north of Münchhausen to Goßfelden (B62)
@@ -2067,6 +2076,17 @@ date;region;route;root;description
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2024-05-24;(Germany) Rhineland-Palatinate;B54 (Reckenroth);deurp.b054rec;New Route
+2024-05-20;(Germany) Rhineland-Palatinate;B427;deurp.b427;Route clarified through Kandel
+2024-05-20;(Germany) Rhineland-Palatinate;L542;deurp.l542;Route clarified through Kandel
+2024-05-20;(Germany) Rhineland-Palatinate;L554 (Kandel);deurp.l554;Route clarified through Kandel
+2024-05-19;(Germany) Rhineland-Palatinate;B327 (Thalfang);deurp.b327;Route truncated at north end north from K77 to Wederath (only B50 now)
+2024-05-19;(Germany) Rhineland-Palatinate;L91 (Darscheid);deurp.l091;Route truncated at east end north of Hörperath to Ulmen
+2024-05-19;(Germany) Rhineland-Palatinate;L91 (Hörperath);deurp.l091hor;New Route
+2024-05-19;(Germany) Rhineland-Palatinate;L101 (Mosbruch);deurp.l101;Route truncated at south end from Ulmen to Mosbruch
+2024-05-19;(Germany) Rhineland-Palatinate;L101 (Hörschhausen);deurp.l101hor;New Route
+2024-05-19;(Germany) Rhineland-Palatinate;L101 (Ulmen);deurp.l101ulm;New Route
+2024-05-19;(Germany) Rhineland-Palatinate;L153;;Route deleted
 2024-05-14;(Germany) Rhineland-Palatinate;L39;deurp.l039;Route truncated from B50 to L46
 2024-05-13;(Germany) Rhineland-Palatinate;B38 (Bad Bergzabern);deurp.b038ber;New Route
 2024-05-13;(Germany) Rhineland-Palatinate;L335;deurp.l335;Route truncated at north end from B42 Niederlahnstein to B42 Oberlahnstein
@@ -2662,6 +2682,7 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2024-05-15;Ireland;N78;irl.n078;Route removed from Dublin Road, Duke Street and R428 and relocated onto Athy Distributor Road between R428 and northern junction with R418
 2024-02-15;Ireland;R622;irl.r622;Route extended at southern end from western junction with R618 to R608
 2023-06-19;Ireland;N5;irl.n005;Route removed from R309 and relocated onto new Castlebar-Westport dual carriageway between N59 (point moved) and western junction with R309
 2023-06-19;Ireland;N59;irl.n059;Point 'N5' moved (old point now called R309/R330)
@@ -7743,6 +7764,11 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2024-05-17;(USA) North Carolina;NC 121;nc.nc121;truncated and rerouted to I-587 northeast of Farmville - new routing is I-587 to MainSt_S and former routing is mostly secondary except for short overlays with US 264 and US 258 Bus
+2024-05-17;(USA) North Carolina;NC 16 Truck (Conover);nc.nc016trkcon;new route added - been there at least 15 years
+2024-05-17;(USA) North Carolina;NC 268 Truck (Elkin);nc.nc268trkelk;new route added 
+2024-05-17;(USA) North Carolina;I-40;nc.i040;east end extended by one waypoint to reflect actual end of the interstate
+2024-05-17;(USA) North Carolina;NC 268 Business (Elkin);nc.nc268buselk;US 21 Bus_N and S labels were backwards - fixed but no alt labels possible
 2024-02-07;(USA) North Carolina;US 70 Bus (Kinston);;Route deleted (Queen St portion remains NC 58)
 2024-02-07;(USA) North Carolina;US 258 Bus (Kinston);;Route deleted (Queen St portion remains NC 58)
 2024-01-14;(USA) North Carolina;NC 74;nc.nc074;route extended as new freeway segment to US 52
@@ -8101,6 +8127,8 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2024-05-26;(USA) Pennsylvania;US 1 Alternate Truck (West Grove);;Route deleted.
+2024-05-26;(USA) Pennsylvania;PA 41 Alternate Truck (Avondale);pa.pa041alttrkavo;Route added.
 2024-01-02;(USA) Pennsylvania;US 6;pa.us006;Relocated PA660_E label due to realignment of PA 660.  The former PA660_E label is now ChaRd.
 2024-01-02;(USA) Pennsylvania;PA 660;pa.pa660;Realigned between ChaRd (former US6_E) and *OldPA660 at east end of US 6 Concurrency.
 2024-01-02;(USA) Pennsylvania;PA 356;pa.pa356;Realigned south of MelRd between *OldPA356_B and LabVueRd.
@@ -8292,6 +8320,8 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2024-05-17;(USA) South Carolina;US 21;sc.us021;large wye intersection with SC 5 and SC 121 reconfigured to a T junction - between closed SC5_N and CowRd is the new routing
+2024-05-17;(USA) South Carolina;SC 121;sc.sc121;large wye intersection with SC 5 and US 21 reconfigured to a T junction - between closed SC5_S and CowRd is the new routing
 2024-01-14;(USA) South Carolina;I-74 Future (Myrtle Beach);;removed - not posted in any way and may not ever happen. Route remains SC 31
 2023-10-02;(USA) South Carolina;US 1 Truck (Camden);sc.us001trkcam;rerouted from Mill St to stay on York to US 1
 2023-10-02;(USA) South Carolina;US 521 Truck (E Camden);sc.us521trkeca;rerouted from Mill St to stay on York to US 1
@@ -8675,6 +8705,8 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2024-05-17;(USA) Virginia;VA 387 (Mountain Empire);va.va387mou;new route added 
+2024-05-17;(USA) Virginia;VA 387;va.va387;route extended - new routing is VDOEAcc to ColWay
 2024-01-14;(USA) Virginia;VA 6Y (Lovingston);;removed - no longer posted
 2024-01-14;(USA) Virginia;US 522 Bus (Washington);;removed - never posted.  Entire route concurrent with US 211 Bus
 2024-01-14;(USA) Virginia;VA 460;va.va460;Added route 

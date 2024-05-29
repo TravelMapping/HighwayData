@@ -10,8 +10,8 @@
 
 
 * ADDITIONAL SOURCES BY STATES:
-- https://mobil.hessen.de/%C3%BCber-uns/downloads-formulare/netzknotenkarten-hessen
+- https://mobil.hessen.de/service/downloads-und-formulare/netzknotenkarten-hessen
 
 
 **NOTES TO ROUTES:**
-- HE `B7` Waldkappel to be checked how route is numbered now (not in mauttabelle.de)
+-
