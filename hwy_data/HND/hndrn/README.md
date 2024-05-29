@@ -1,4 +1,4 @@
-Routes are either Ruta X or PX/SX (primary/principal, numbered 1-50, or secondary, numbered 51+).
+Routes are either Ruta X or PX/SX (primary/principal, numbered 1-50, or secondary, numbered 51+). Signs are rare and say [NAC-X](https://www.mapillary.com/app/?lat=14.063665&lng=-87.17232999999999&z=17.47230675627&pKey=1149106378846528&focus=photo&x=0.8234422557684501&y=0.22742959701936527&zoom=2.292263470406519).
 
 Sources:
 * Maps: http://h1.honducompras.gob.hn/Docs/Lic237LPN-FV-002-20111402-AnexosalPliego.pdf (2010) https://spe.gob.hn/sinit/2023/09/07/red-vial-secundaria-cadenas-productivas/ (no shields)
@@ -75,7 +75,7 @@ Notes on routes:
 * 82 CA11A-Lepaera (723 in 2010)
 * 83 15-Dulce Nombre de Culmi
 * 84 25-San Juancito
-* 85 CA6-17
+* 85 CA6-17 (but V268 is listed as beginning at 85, which is only possible if 85 continues from 17 to CA1)
 * 86 CA6-Teupasenti
 * 87 85-Guinope
 * 88 CA6-Tatumbla
@@ -96,7 +96,7 @@ Notes on routes:
 * 103 43-San Ignacio
 * 104 CA5-Santa Rosita (697 in 2010)
 * 105 43-Minas de Oro
--* 106 CA4- (253 in 2010)
+* 106 CA4-El Naranjito (253 in 2010)
 * 107 CA4-Azacualpa (932/934 in 2010)
 * 108 15-77 (200 in 2010)
 * 109 110-39
@@ -210,7 +210,7 @@ Notes on routes:
 * 217 CA4-Chalmeca (641 in 2010)
 * 218
 * 219
-* 220
+* 220 CA11A-San Juan de Opoa (not in 2010)
 * 221
 * 222
 * 223
