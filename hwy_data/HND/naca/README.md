@@ -11,3 +11,10 @@ Notes on routes:
 * CA4: the location of V270 may be wrong.
 * CA4: the location of V811 may be wrong.
 * CA4: V975 may not make it to CA4.
+* CA5: NAC126's location may be wrong.
+* CA5: V834's location may be wrong.
+* CA5: does V781 still touch CA5?
+* CA5's route thru San Pedro Sula may be wrong.
+* CA5's exact north end may be wrong.
+* CA5Sab: V380 may be in the wrong place.
+* CA5Sab: where is V741 to Sabana Larga?
