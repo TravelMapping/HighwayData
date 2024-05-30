@@ -1,4 +1,4 @@
-Routes are either Ruta X or PX/SX (primary/principal, numbered 1-50, or secondary, numbered 51+). Signs are rare and say [NAC-X](https://www.mapillary.com/app/?lat=14.063665&lng=-87.17232999999999&z=17.47230675627&pKey=1149106378846528&focus=photo&x=0.8234422557684501&y=0.22742959701936527&zoom=2.292263470406519).
+Routes are either Ruta X or PX/SX (primary/principal, numbered 1-50, or secondary, numbered 51+). Signs are rare and say [NAC-X](https://www.mapillary.com/app/?lat=14.063665&lng=-87.17232999999999&z=17.47230675627&pKey=1149106378846528&focus=photo&x=0.8234422557684501&y=0.22742959701936527&zoom=2.292263470406519) or [R-X](https://www.mapillary.com/app/?lat=14.101208&lng=-87.240902&z=19.9&pKey=1972092526278174&focus=photo&x=0.8749450748032384&y=0.5304357793022314&zoom=2.292263470406519).
 
 Sources:
 * Maps: http://h1.honducompras.gob.hn/Docs/Lic237LPN-FV-002-20111402-AnexosalPliego.pdf (2010) https://spe.gob.hn/sinit/2023/09/07/red-vial-secundaria-cadenas-productivas/ (no shields)
@@ -47,7 +47,7 @@ Notes on routes:
 * 54 CA5-Peña Blanca-CA5
 * 55 25-Santa Lucia
 * 56 CA5-Ojojona
-* 57 CA5-La Libertad
+* 57 156-La Libertad
 * 58 CA5-CA7
 * 59 CA5-Base de Cortina, branch to Corona Embalse El Cajon
 * 60 CA5-Taulabe
@@ -225,7 +225,6 @@ Notes on routes:
 * 260 15-La Concepcion (276 in 2010)
 * 351 Catacamas-Cuevas de Talgua (352/353 in 2010)
 * ? CA13-La Ceiba
-* ? CA13-Puerto Cortes
 * ? 85-Morolica
 * ? around San Pedro Sula
 * ? 59-Santa Cruz de Yojoa
