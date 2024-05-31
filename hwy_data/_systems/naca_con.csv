@@ -1,15 +1,22 @@
 systemName;route;banner;groupName;roots
-naca;CA1;;;gtm.ca01
-naca;CA2;;;gtm.ca02
+naca;CA1;;GTM-SLV;gtm.ca01,slv.ca01w
+naca;CA1;;SLV-HND;slv.ca01e
+naca;CA2;;;gtm.ca02,slv.ca02
 naca;CA2;;Tecún Umán;gtm.ca02tec
-naca;CA8;;;gtm.ca08
+naca;CA3;;;slv.ca03
+naca;CA4;;South;slv.ca04s
+naca;CA4;;SLV-HND;slv.ca04n
+naca;CA7;;;slv.ca07
+naca;CA8;;GTM-SLV;gtm.ca08,slv.ca08ahu
+naca;CA8;;Armenia, SLV;slv.ca08
+naca;CA8A;;;slv.ca08a
 naca;CA9Nor;;;gtm.ca09nor
 naca;CA9NorA;;;gtm.ca09nora
 naca;CA9Sur;;;gtm.ca09sur
 naca;CA9SurA;;;gtm.ca09sura
 naca;CA10;;;gtm.ca10
 naca;CA11;;;gtm.ca11
-naca;CA12;;;gtm.ca12
+naca;CA12;;;gtm.ca12,slv.ca12
 naca;CA13;;;gtm.ca13
 naca;CA13;;Santa Elena;gtm.ca13ele
 naca;CA13A;;;gtm.ca13a
