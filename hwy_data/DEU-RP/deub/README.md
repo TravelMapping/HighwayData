@@ -10,7 +10,7 @@
 
 
 * ADDITIONAL SOURCES BY STATES:
-- https://lbm.rlp.de/de/service/informationsmaterial/strassenkarte-rheinland-pfalz/
+- https://lbm.rlp.de/themen/strassendaten/strassenkarte
 - http://www.geoportal.rlp.de/portal/karten.html
 
 

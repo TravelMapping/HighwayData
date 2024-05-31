@@ -5,15 +5,16 @@ Sources:
 * Logs: https://www.daer.rs.gov.br/sistema-rodoviario-estadual
 
 Notes on routes:
-* ERS-010 
+* ERS-010 is unbuilt.
 * ERS-020 [is signed](https://www.google.com/maps/@-29.2672747,-50.3202764,3a,15.2y,242.65h,83.92t/data=!3m6!1e1!3m4!1syGz58fdL2gEyGP_wcCKiMw!2e0!7i13312!8i6656?entry=ttu).
-* ERS-030 
-* ERS-040 
+* ERS-030 [is signed](https://www.google.com/maps/@-29.8914689,-50.2816957,3a,15y,324.35h,89.42t/data=!3m6!1e1!3m4!1sH-IILHX1Tjld7eMnuq06lQ!2e0!7i16384!8i8192?entry=ttu).
+* ERS-030 AM-9090 [is signed as ERS-030 ACE-9090](https://www.google.com/maps/@-29.8969535,-50.2795235,3a,15.2y,106.7h,86.11t/data=!3m6!1e1!3m4!1sxRGIG3L6F2v-2az5iY19GA!2e0!7i16384!8i8192?entry=ttu).
+* ERS-040 [is signed](https://www.google.com/maps/@-30.1031242,-50.6960755,3a,15y,113.45h,85.25t/data=!3m6!1e1!3m4!1sIEUarOzNwo4FkHGcb9XvCw!2e0!7i16384!8i8192?entry=ttu).
 * ERS-110 [is signed](https://www.google.com/maps/@-29.2095573,-50.4703651,3a,16.9y,36.52h,86.16t/data=!3m6!1e1!3m4!1s-pJV-ILwhwVlwLNoa2pabw!2e0!7i16384!8i8192?entry=ttu).
-* ERS-115 
+* ERS-115 [is signed](https://www.google.com/maps/@-29.6504744,-50.7969923,3a,36.4y,106.5h,89.45t/data=!3m6!1e1!3m4!1swj1C97raj2UqHJcgmOsV-Q!2e0!7i16384!8i8192?entry=ttu).
 * ERS-118 [is signed](https://www.google.com/maps/@-29.8280805,-51.1702703,3a,23.6y,128.95h,101.04t/data=!3m6!1e1!3m4!1s7QptUL6AGMYc8uyfrsNj3Q!2e0!7i16384!8i8192?entry=ttu).
 * ERS-122 [is signed](https://www.google.com/maps/@-29.6621544,-51.2656627,3a,22.4y,301.28h,87.4t/data=!3m6!1e1!3m4!1s19uND0UpeyqOP34BICHrMg!2e0!7i16384!8i8192?entry=ttu).
-* ERS-124 
+* ERS-124 [is signed](https://www.google.com/maps/@-29.6340192,-51.402549,3a,25.2y,327.58h,111.05t/data=!3m6!1e1!3m4!1s2oAn_z8IWUtSMqq6yKrx2w!2e0!7i13312!8i6656?entry=ttu).
 * ERS-126 
 * ERS-128 [is signed](https://www.google.com/maps/@-29.4616312,-51.8138479,3a,16.7y,25.9h,81.52t/data=!3m6!1e1!3m4!1siwiZD2G_1k4geh1VO5CG9A!2e0!7i16384!8i8192?entry=ttu).
 * ERS-129 [is signed](https://www.google.com/maps/@-29.5303873,-51.971384,3a,15.2y,357.11h,83.18t/data=!3m6!1e1!3m4!1su6QCOdsH6kas-S97wwkhJw!2e0!7i16384!8i8192?entry=ttu) (although it now goes right).
@@ -37,11 +38,11 @@ Notes on routes:
 * ERS-211 [is signed](https://www.google.com/maps/@-27.701624,-52.4286279,3a,15y,263.26h,87.35t/data=!3m6!1e1!3m4!1sbVyNlz4s7hX_TA8PEDeQ4w!2e0!7i16384!8i8192?entry=ttu).
 * ERS-218 may be unsigned.
 * ERS-223 [is signed](https://www.google.com/maps/@-28.6043654,-53.3356307,3a,20.6y,143.64h,87.87t/data=!3m6!1e1!3m4!1sqCWZ0qjVUerjzb7ZjbSmcA!2e0!7i16384!8i8192?entry=ttu).
-* ERS-235 
+* ERS-235 [is signed](https://www.google.com/maps/@-29.3795033,-50.8692329,3a,19.9y,78.25h,106.04t/data=!3m6!1e1!3m4!1sIEAiNzm51SrI-ZpSznIedw!2e0!7i16384!8i8192?entry=ttu).
 * ERS-239 
-* ERS-240 
+* ERS-240 [is signed](https://www.google.com/maps/@-29.701919,-51.2091252,3a,15.9y,95.81h,88.8t/data=!3m6!1e1!3m4!1saudZHwhJgQ0CwqBv6oHqng!2e0!7i16384!8i8192?entry=ttu).
 * ERS-241 [is signed](https://www.google.com/maps/@-29.6849779,-54.6672826,3a,15.9y,298.62h,83.99t/data=!3m6!1e1!3m4!1ss1Yv6YBDfadrSc2MCg11qw!2e0!7i16384!8i8192?entry=ttu).
-* ERS-242 
+* ERS-242 may be unsigned.
 * ERS-244 [is signed](https://www.google.com/maps/@-29.6478601,-52.1991579,3a,15.8y,268.94h,82.21t/data=!3m6!1e1!3m4!1ssyof2q4-15tBXT0mCZrVug!2e0!7i16384!8i8192?entry=ttu) along the local maintenance in Venâncio Aires.
 * ERS-265 [is signed](https://www.google.com/maps/@-31.3909475,-52.6956538,3a,20.2y,301.03h,87.41t/data=!3m6!1e1!3m4!1shfJUTT_wjbOi_1-1eIVa3w!2e0!7i16384!8i8192?entry=ttu).
 * ERS-305 [is signed](https://www.google.com/maps/@-27.7408835,-54.4882207,3a,15.4y,29.94h,87.79t/data=!3m6!1e1!3m4!1sOQLp9XUBDcdSBelLT6SksQ!2e0!7i16384!8i8192?entry=ttu).
@@ -64,8 +65,9 @@ Notes on routes:
 * ERS-355 [is signed](https://www.google.com/maps/@-28.8980944,-51.5531586,3a,16y,236.6h,88.61t/data=!3m6!1e1!3m4!1sBHnXO3Flsvx8mkPFnCtsdw!2e0!7i16384!8i8192?entry=ttu).
 * ERS-357 [is signed](https://www.google.com/maps/@-30.8287595,-53.905838,3a,18.4y,105.85h,84.61t/data=!3m6!1e1!3m4!1scZzR8Y56N-zKOUGiPHAsLg!2e0!7i13312!8i6656?entry=ttu).
 * ERS-359 may be unsigned.
-* ERS-373 
+* ERS-373 may be unsigned.
 * ERS-389 [is signed](https://www.google.com/maps/@-29.3240534,-49.7583782,3a,15.1y,194.23h,85.83t/data=!3m6!1e1!3m4!1sLxNHTBx22OTAt7tMSq3qPQ!2e0!7i16384!8i8192?entry=ttu).
+* ERS-389 AM-9090 [is signed as ERS-389 ACE-9090](https://www.google.com/maps/@-29.9245061,-50.317241,3a,15y,86.03h,85.58t/data=!3m6!1e1!3m4!1sBo_FFwN1SwNhjrOo9I_Iqw!2e0!7i16384!8i8192?entry=ttu).
 * ERS-400 [is signed](https://www.google.com/maps/@-29.4077074,-53.0135589,3a,15y,155.24h,84.43t/data=!3m6!1e1!3m4!1sWCbjwdHpOyb_T1YWB-l-iw!2e0!7i16384!8i8192?entry=ttu).
 * ERS-401 [is signed with a standalone shield](https://www.google.com/maps/@-30.055135,-51.5187448,3a,25.4y,28.08h,83.61t/data=!3m7!1e1!3m5!1sCQzAWSUUpHD1E_VMF8XIOg!2e0!5s20220701T000000!7i16384!8i8192?entry=ttu) (rare for RS).
 * ERS-402 
@@ -91,7 +93,7 @@ Notes on routes:
 * ERS-424 
 * ERS-425 
 * ERS-426 
-* ERS-427 
+* ERS-427 may be unsigned.
 * ERS-428 
 * ERS-430 
 * ERS-431 [is signed](https://www.google.com/maps/@-29.121313,-51.545918,3a,15.2y,292.17h,86.27t/data=!3m6!1e1!3m4!1smDv-Wg2-kpDkmic7IiBLvA!2e0!7i16384!8i8192?entry=ttu).
@@ -102,7 +104,7 @@ Notes on routes:
 * ERS-436 may be unsigned.
 * ERS-437 
 * ERS-438 
-* ERS-439 
+* ERS-439 may be unsigned, but there is no imagery available.
 * ERS-440 [is signed](https://www.google.com/maps/@-29.7765173,-51.6837483,3a,15.9y,53.42h,105.75t/data=!3m6!1e1!3m4!1sQRWXfMNyuin1d4W2ktF1_w!2e0!7i16384!8i8192?entry=ttu).
 * ERS-441 may be unsigned.
 * ERS-442 
@@ -127,14 +129,14 @@ Notes on routes:
 * ERS-466 
 * ERS-467 
 * ERS-469 
-* ERS-474 
+* ERS-474 [is signed](https://www.google.com/maps/@-29.6554494,-50.6542472,3a,20.9y,180.89h,96.88t/data=!3m6!1e1!3m4!1seo6NCMbsmywKVn11iSfEWQ!2e0!7i16384!8i8192?entry=ttu).
 * ERS-475 
 * ERS-476 [is signed](https://www.google.com/maps/@-29.1010744,-50.631273,3a,27.5y,308.04h,84.52t/data=!3m6!1e1!3m4!1s61qBqpUg41I92CpVIJ0s2A!2e0!7i16384!8i8192?entry=ttu).
 * ERS-477 [is signed](https://www.google.com/maps/@-27.6422276,-52.2452653,3a,15y,208.84h,85.61t/data=!3m6!1e1!3m4!1sdCuuADIJLoOYDgVTE8xh4g!2e0!7i16384!8i8192?entry=ttu) north of its actual end (Rua Dr. João Caruso).
 * ERS-478 
 * ERS-482 
 * ERS-483 
-* ERS-484 
+* ERS-484 [is signed](https://www.google.com/maps/@-29.3858488,-50.4359706,3a,15y,70.26h,86.88t/data=!3m6!1e1!3m4!1snwEk_orUnmG4VKKsEszf-A!2e0!7i16384!8i8192?entry=ttu).
 * ERS-486 [is signed](https://www.google.com/maps/@-29.5635832,-50.0486176,3a,75y,203.44h,113.44t/data=!3m6!1e1!3m4!1s-uh3FAm36nLgSXIRXNOPOg!2e0!7i16384!8i8192?entry=ttu).
 * ERS-487 may be unsigned.
 * ERS-491 may be unsigned.
@@ -206,7 +208,7 @@ Notes on routes:
 * ERS-717 
 * ERS-734 
 * ERS-737 may be unsigned.
-* ERS-762 
+* ERS-762 may be unsigned.
 * ERS-776 seems to be unsigned.
-* ERS-784 
-* ERS-786 
+* ERS-784 [is signed](https://www.google.com/maps/@-30.2058856,-50.317811,3a,48.9y,47.26h,118.45t/data=!3m6!1e1!3m4!1sHW1k91vk-Z_owTlMYK0EqA!2e0!7i16384!8i8192?entry=ttu).
+* ERS-786 [is signed](https://www.google.com/maps/@-30.0032742,-50.171352,3a,75y,134.34h,102.91t/data=!3m6!1e1!3m4!1sHzu2EaMz12Fx69HgPw-Evw!2e0!7i16384!8i8192?entry=ttu).
