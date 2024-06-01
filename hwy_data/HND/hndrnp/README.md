@@ -30,8 +30,11 @@ Notes on routes:
 * 33 Tegucigalpa-Mateo
 * 34
 * 35 West Bay-Camp Bay
+  * The exact endpoints may be wrong.
+  * NAC146_E may be in the wrong place.
 * 36
 * 37 CA6-15
+  * V959 may touch NAC37 at one of the OldNAC37 points.
 * 38
 * 39 15-CA13
 * 40
@@ -202,7 +205,7 @@ Notes on routes:
 * 205 CA13-San Francisco-Santa Ana-CA13 (266 in 2010)
 * 206 CA-13-El Naranjal (271 in 2010)
 * 207 35-French Cay (214 in 2010)
-* 208 35-Jones Ville (219 in 2010)
+* 208 35-Jones Ville (222 in 2010)
 * 209 35-Punta Gorda-35 (221 in 2010)
 * 210
 * 211
