@@ -6,11 +6,15 @@ Sources:
 
 Notes on routes:
 * 15 Tegucigalpa-La Ena
+  * The east end may be wrong.
+  * The location of NAC351 may be wrong.
+  * The location of V490 and V492_E may be wrong.
 * 16 CA5-25
 * 17 CA1-CA3 (not in log, but referenced by intersecting routes)
 * 18 CA13-Muelle de Cabotaje (La Ceiba)
 * 19 CA13-Terminal de Carga (La Lima)
 * 20 CA5-CA4
+  * V400_N may be in the wrong place.
 * 21 CA5-CA13
 * 22 CA5-CA11
 * 23 21-CA13
