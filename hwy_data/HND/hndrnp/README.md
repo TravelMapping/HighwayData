@@ -6,11 +6,15 @@ Sources:
 
 Notes on routes:
 * 15 Tegucigalpa-La Ena
+  * The east end may be wrong.
+  * The location of NAC351 may be wrong.
+  * The location of V490 and V492_E may be wrong.
 * 16 CA5-25
 * 17 CA1-CA3 (not in log, but referenced by intersecting routes)
 * 18 CA13-Muelle de Cabotaje (La Ceiba)
 * 19 CA13-Terminal de Carga (La Lima)
 * 20 CA5-CA4
+  * V400_N may be in the wrong place.
 * 21 CA5-CA13
 * 22 CA5-CA11
 * 23 21-CA13
@@ -26,8 +30,11 @@ Notes on routes:
 * 33 Tegucigalpa-Mateo
 * 34
 * 35 West Bay-Camp Bay
+  * The exact endpoints may be wrong.
+  * NAC146_E may be in the wrong place.
 * 36
 * 37 CA6-15
+  * V959 may touch NAC37 at one of the OldNAC37 points.
 * 38
 * 39 15-CA13
 * 40
@@ -198,7 +205,7 @@ Notes on routes:
 * 205 CA13-San Francisco-Santa Ana-CA13 (266 in 2010)
 * 206 CA-13-El Naranjal (271 in 2010)
 * 207 35-French Cay (214 in 2010)
-* 208 35-Jones Ville (219 in 2010)
+* 208 35-Jones Ville (222 in 2010)
 * 209 35-Punta Gorda-35 (221 in 2010)
 * 210
 * 211
