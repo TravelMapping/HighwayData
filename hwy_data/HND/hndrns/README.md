@@ -1,5 +1,7 @@
 Routes are either Ruta X or PX/SX (primary/principal, numbered 1-50, or secondary, numbered 51+). Signs are rare and say [NAC-X](https://www.mapillary.com/app/?lat=14.063665&lng=-87.17232999999999&z=17.47230675627&pKey=1149106378846528&focus=photo&x=0.8234422557684501&y=0.22742959701936527&zoom=2.292263470406519) or [R-X](https://www.mapillary.com/app/?lat=14.101208&lng=-87.240902&z=19.9&pKey=1972092526278174&focus=photo&x=0.8749450748032384&y=0.5304357793022314&zoom=2.292263470406519).
 
+In general, hanging ends in towns may be off by a few blocks.
+
 Sources:
 * Maps: http://h1.honducompras.gob.hn/Docs/Lic237LPN-FV-002-20111402-AnexosalPliego.pdf (2010) https://spe.gob.hn/sinit/2023/09/07/red-vial-secundaria-cadenas-productivas/ (no shields)
 * Logs: https://www.scribd.com/document/734912556/00-Red-Vial-Oficial-SIT-2023
@@ -12,6 +14,7 @@ Notes on routes:
 * 55 25-Santa Lucia
 * 56 CA5-Ojojona
 * 57 156-La Libertad
+  * Do any routes intersect in Comayagua?
 * 58 CA5-CA7
 * 59 CA5-Base de Cortina, branch to Corona Embalse El Cajon
 * 60 CA5-Taulabe
@@ -61,6 +64,7 @@ Notes on routes:
 * 104 CA5-Santa Rosita (697 in 2010)
 * 105 43-Minas de Oro
 * 106 CA4-El Naranjito (253 in 2010)
+  * The exact east end may be wrong.
 * 107 CA4-Azacualpa (932/934 in 2010)
 * 108 15-77 (200 in 2010)
 * 109 110-39
@@ -82,6 +86,7 @@ Notes on routes:
 * 125 91-Yamales
 * 126 CA5-20
 * 127 CA11-Parque Arqueologico El Puente
+  * The north end may be wrong.
 * 128 105-57
 * 129 23-Arenal
 * 130 CA4-Azacualpa
@@ -89,7 +94,8 @@ Notes on routes:
 * 132 CA4-Belen Gualcho
 * 133 137-Auka
 * 134 46-El Guapinol
-* 135 CA4-El Corpus (north of La Union was 380 in 2010)
+* 135 CA4-El Corpus (north of La Union was 380 in 2010, but 2023 log still lists 380)
+  * The north end may be wrong.
 * 136 CA7-San Pedro de Tutule
 * 137 131-Leimus
 * 138 CA7-Cane
@@ -98,6 +104,7 @@ Notes on routes:
   * The north end may be wrong.
 * 141 131-Mistruck
 * 142 CA13-La Masica
+  * The north end may be wrong.
 * 143 131-Mocoron
 * 144 CA7-Chinacla
 * 145 131-Suhi
@@ -113,11 +120,15 @@ Notes on routes:
 * 155 CA11A-CA11A (part of CA11 in 2010)
 * 156 CA5-Comayagua-CA5 (unlabeled in 2010)
 * 157 Comayagua-El Volcan (200 in 2010)
+  * Both ends may be wrong.
 * 158 CA11-El Paraiso (295 in 2010)
+  * The west end may be wrong.
 * 159 CA4-Dulce Nombre (216 in 2010)
+  * The west end may be wrong.
 * 160 CA4-San Jose (238 in 2010)
 * 161 CA11-San Jeronimo (310 in 2010)
 * 162 CA2-San Sebastian (274 in 2010)
+  * The exact west end may be wrong.
 * 163 CA5-Potrerillos-Pimenta-CA5 (post-2010) - length doesn't seem to fit
 * 164
 * 165 CA7-Nahuaterique (CA7 in 2010)
@@ -160,8 +171,10 @@ Notes on routes:
 * 202
 * 203 CA13-204 (260 in 2010)
 * 204 CA13-El Porvenir (260/261 in 2010)
+  * The north end may be wrong.
 * 205 CA13-San Francisco-Santa Ana-CA13 (266 in 2010)
 * 206 CA-13-El Naranjal (271 in 2010)
+  * The north end may be wrong.
 * 207 35-French Cay (214 in 2010)
 * 208 35-Jones Ville (222 in 2010)
 * 209 35-Punta Gorda-35 (221 in 2010)
@@ -176,11 +189,13 @@ Notes on routes:
 * 218
 * 219
 * 220 CA11A-San Juan de Opoa (not in 2010)
+  * The route may be in the wrong place. It seems to have been paved in concrete in 2022-2023.
 * 221
 * 222
 * 223
 * 224
 * 225 CA13-La Jutosa (729 in 2010)
+  * The west end may be wrong.
 * 226 CA13-Muchilena (802 in 2010)
 * 227 CA13-Cuyamel (808 in 2010)
 * 228 CA13-Cuyamelito-CA13 (810 in 2010)
