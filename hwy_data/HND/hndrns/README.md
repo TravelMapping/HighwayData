@@ -77,7 +77,7 @@ Notes on routes:
 * 111 15-Santa Cruz del Potrero-15
 * 112 CA2-CA2 (partly now CA2)
 * 113 CA13-Sonaguera-CA13
-* 114 CA1-Agua Fria (what's the continuation to 66? the log shows V263 on former 115)
+* 114 CA1-Agua Fria (what's the continuation to 66, which is V263 on the 2010 map? the log shows V263 on former 115)
   * The south end may be wrong.
 * 115 CA1-66 (on the map, but now it's V263 in the log)
 * 116 CA4-CA11A
