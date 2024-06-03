@@ -20,6 +20,7 @@ Notes on routes:
 * 59 CA5-Base de Cortina, branch to Corona Embalse El Cajon
 * 60 CA5-Taulabe
 * 61 CA4-Pinalejo
+  * The north end may be wrong.
 * 62 20-San Nicolas (unlabeled in 2010)
 * 63 20-San Jose de Colinas (unlabeled in 2010)
 * 64 15-CA5
@@ -40,6 +41,7 @@ Notes on routes:
 * 79 64-15
 * 80 20-Cegauca
 * 81 20-San Pedro Zacapa
+  * The south end may be wrong.
 * 82 CA11A-Lepaera (723 in 2010)
 * 83 15-Dulce Nombre de Culmi
 * 84 25-San Juancito
@@ -75,8 +77,9 @@ Notes on routes:
 * 111 15-Santa Cruz del Potrero-15
 * 112 CA2-CA2 (partly now CA2)
 * 113 CA13-Sonaguera-CA13
-* 114 CA1-Agua Fria
-* 115 CA1-66
+* 114 CA1-Agua Fria (what's the continuation to 66? the log shows V263 on former 115)
+  * The south end may be wrong.
+* 115 CA1-66 (on the map, but now it's V263 in the log)
 * 116 CA4-CA11A
 * 117 17-CA3
 * 118 CA11A-Santa Lucia
@@ -118,6 +121,7 @@ Notes on routes:
 * 143 131-Mocoron
   * The west end may be wrong.
 * 144 CA7-Chinacla
+  * The east end may be wrong; the distance doesn't match.
 * 145 131-Suhi
 * 146 35-Flower Bay-35
   * The east end may be wrong.
@@ -151,6 +155,7 @@ Notes on routes:
 * 168
 * 169
 * 170 CA4-El Ciruelo (604 in 2010)
+  * The west end may be wrong.
 * 171
 * 172 CA5-Siguatepeque (not in 2010)
 * 173 CA5-Siguatepeque (unlabeled in 2010)
@@ -175,6 +180,7 @@ Notes on routes:
 * 191 CA1-CA2 (112 in 2010)
 * 192 CA2-Goascoran-CA2 (112 in 2010)
 * 193 CA2-San Antonio del Norte (585 in 2010)
+  * The east end may be wrong.
 * 194 54-El Jaral (891 in 2010)
 * 195 Aramecina-CA2 (112 in 2010)
 * 196
@@ -220,7 +226,8 @@ Notes on routes:
 * 250 CA11A-Belen (769 in 2010)
 * 255 CA10-Concepcion (865 in 2010)
 * 260 15-La Concepcion (276 in 2010)
-* 351 Catacamas-Cuevas de Talgua (352/353 in 2010)
+* 351 15-Cuevas de Talgua (352/353 in 2010)
+  * The west end may be wrong.
 * ? CA13-La Ceiba
 * ? 85-Morolica
 * ? around San Pedro Sula
