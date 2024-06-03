@@ -9,6 +9,7 @@ Sources:
 Notes on routes:
 * 51 CA5-CA13
 * 52 Lomas de Toncontin-Represa La Concepcion
+  * The north end may be wrong.
 * 53 CA6-77
 * 54 CA5-Peña Blanca-CA5
 * 55 25-Santa Lucia
@@ -44,6 +45,7 @@ Notes on routes:
 * 84 25-San Juancito
 * 85 CA6-17 (but V268 is listed as beginning at 85, which is only possible if 85 continues from 17 to CA1)
 * 86 CA6-Teupasenti
+  * The north end may be wrong.
 * 87 85-Guinope
 * 88 CA6-Tatumbla
 * 89 85-CA5
@@ -60,6 +62,7 @@ Notes on routes:
 * 100 CA5-CA13 (846 in 2010)
 * 101 CA5-San Buenaventura
 * 102 CA5-Santa Rosa (719 in 2010)
+  * The north end may be wrong. 
 * 103 43-San Ignacio
 * 104 CA5-Santa Rosita (697 in 2010)
 * 105 43-Minas de Oro
@@ -77,13 +80,16 @@ Notes on routes:
 * 116 CA4-CA11A
 * 117 17-CA3
 * 118 CA11A-Santa Lucia
+  * Where is V643?
 * 119 53-Patuca
 * 120 118-Colomoncagua
+  * The east end may be wrong.
 * 121 123-La Lodosa
 * 122 118-San Antonio
 * 123 CA6-Las Dificultades
 * 124 CA11-CA4
 * 125 91-Yamales
+  * The north end is way off if the distance is even close to accurate.
 * 126 CA5-20
 * 127 CA11-Parque Arqueologico El Puente
   * The north end may be wrong.
@@ -91,31 +97,39 @@ Notes on routes:
 * 129 23-Arenal
 * 130 CA4-Azacualpa
 * 131 Puerto Lempira-Ahuasbila
+  * Both ends may be wrong.
 * 132 CA4-Belen Gualcho
 * 133 137-Auka
 * 134 46-El Guapinol
 * 135 CA4-El Corpus (north of La Union was 380 in 2010, but 2023 log still lists 380)
   * The north end may be wrong.
+  * V245 may be in the wrong place.
 * 136 CA7-San Pedro de Tutule
 * 137 131-Leimus
 * 138 CA7-Cane
 * 139 131-V230 (extended from Tapanlaya to 230 after 2010)
+  * The portion south of Tapanlaya may be wrong.
+  * V245 may be in the wrong place.
 * 140 CA13-Tornabe
   * The north end may be wrong.
 * 141 131-Mistruck
 * 142 CA13-La Masica
   * The north end may be wrong.
 * 143 131-Mocoron
+  * The west end may be wrong.
 * 144 CA7-Chinacla
 * 145 131-Suhi
 * 146 35-Flower Bay-35
+  * The east end may be wrong.
 * 147 131-Pure Oil
 * 148 Choluteca-46
 * 149 El Picacho-El Hatillo (unlabeled in 2010)
 * 150 22-Jesus de Otoro
+  * The east end may be wrong.
 * 151 132-San Pedro-132
 * 152 CA4-Cofradia
 * 153 35-Oak Ridge
+  * The south end may be wrong.
 * 154 CA13-Cerritos (291 in 2010)
 * 155 CA11A-CA11A (part of CA11 in 2010)
 * 156 CA5-Comayagua-CA5 (unlabeled in 2010)
@@ -141,7 +155,8 @@ Notes on routes:
 * 172 CA5-Siguatepeque (not in 2010)
 * 173 CA5-Siguatepeque (unlabeled in 2010)
 * 174
-* 175 CA6-Moroceli (75 in 2010?)
+* 175 CA6-Moroceli (75 in 2010? formerly 275?)
+  * The north end may be wrong.
 * 176
 * 177
 * 178
@@ -176,6 +191,7 @@ Notes on routes:
 * 206 CA-13-El Naranjal (271 in 2010)
   * The north end may be wrong.
 * 207 35-French Cay (214 in 2010)
+  * The south end may be wrong.
 * 208 35-Jones Ville (222 in 2010)
 * 209 35-Punta Gorda-35 (221 in 2010)
 * 210
@@ -183,6 +199,7 @@ Notes on routes:
 * 212
 * 213
 * 214 Utila-Aeropuerto (not in 2010)
+  * Both ends may be wrong.
 * 215 CA4-El Carmen (258 in 2010)
 * 216 CA11-La Jigua (290 in 2010)
 * 217 CA4-Chalmeca (641 in 2010)
