@@ -1,4 +1,4 @@
-[https://www.mapillary.com/app/?lat=11.972969&lng=-86.072814&z=18.439830067683783&pKey=442825791777177&focus=photo&x=0.3615514345896801&y=0.16393217348139438&zoom=1.1461317352032594](Signs for NIC-4, NIC-11B, and NN-118)
+[Signs for NIC-4, NIC-11B, and NN-118](https://www.mapillary.com/app/?lat=11.972969&lng=-86.072814&z=18.439830067683783&pKey=442825791777177&focus=photo&x=0.3615514345896801&y=0.16393217348139438&zoom=1.1461317352032594)
 
 Sources:
 * Maps: 
