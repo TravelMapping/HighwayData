@@ -62,6 +62,7 @@ Notes on routes:
 * NIC-35B Estelí (NIC-1) - San Sebastian de Yalí (NIC-3) (may not all exist)
 * NIC-35C El Jicaral (NIC-26) - Sta. Rosa del Peñón
 * NIC-35D San Sebastián de Yalí (NIC-3) - La Rica
+* NIC-36 Emp. Posoltega (NIC-12A) - Posoltega probably exists, but has no bridges.
 * NIC-37A Empalme Las Lajitas (NIC-7) - Cuapa; Cuapa - Comarca El Zancudo
 * NIC-37B Juigalpa (NIC-7) - Puerto Díaz
 * NIC-38A Empalme Dos Montes (NIC-26) - El Sauce
@@ -86,11 +87,17 @@ Notes on routes:
 * NIC-52 Emp. Pto. Sandino (NIC-3) - Pto. Sandino
 * NIC-52B Puerto Sandino (NIC-52) - El Velero
 * NIC-53 Ocotal (NIC-15) - Santa María
+* NIC-54 Emp. Chichigalpa (NIC-12A) - Ingenio San Antonio
 * NIC-55 Susucayán - El Rosario
+* NIC-56 Emp. Quezalguaque (NIC-12A) - Quezalguaque probably exists, but has no bridges.
 * NIC-57A Cuyalí (NIC-43) - Abisinia
 * NIC-57B El Pindongo - El Cuá (La Chata)
+* NIC-58 Emp. Jiquilillo (NIC-12B) - Los Zorros probably exists, but has no bridges.
 * NIC-59 El Papaturro (NIC-9) - Empalme San Miguel
+* NIC-60 Emp. Salinas Grandes (NIC-12A) - Salinas Grandes may exist, but has no bridges.
+* NIC-61 Boaco - La Aurora; La Aurora - El Lunal may not exist (where exactly is it?)
 * NIC-62 Rivas (NIC-2?) - Empalme Veracruz - Tola; Tola - Las Salinas
+* NIC-64 (loop around Ometepe) probably exists, but has no bridges.
 * NIC-65 La Chepa (NIC-25) - Morrito
 * NIC-66 Sapoá (NIC-2) - Colon
 * NIC-67 Emp. San Miguelito (NIC-25) - San Miguelito
