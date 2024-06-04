@@ -1,16 +1,20 @@
 [Signs for NIC-4, NIC-11B, and NN-118](https://www.mapillary.com/app/?lat=11.972969&lng=-86.072814&z=18.439830067683783&pKey=442825791777177&focus=photo&x=0.3615514345896801&y=0.16393217348139438&zoom=1.1461317352032594)
 
+Routes are included whether or not they are signed.
+
 Sources:
 * Maps: 
 * Logs: https://sjnavarro.wordpress.com/wp-content/uploads/2008/08/detalle-clasificacion-funcional.pdf (2008, unpaved only) https://pdfcoffee.com/anuario-de-puentes-de-la-red-vial-2019-3-pdf-free.html (2019, bridges only)
 
 Notes on routes:
-* NIC-1 Managua - El Espino (HND)
+* NIC-1 (signed) Managua - El Espino (HND)
+  * NIC-1 [seems to be signed both thru and around San Benito](https://youtu.be/ZiTZWgwjnBk?t=685).
 * NIC-2 Managua - Peñas Blanca (CRI)
-* NIC-3 Emp. Sebaco (NIC-1) - Jinotega; Jinotega - San Rafael del Norte; San Rafael del Norte - Condega (NIC-1)
+* NIC-3 ([signed](https://www.mapillary.com/app/?lat=12.848921450000006&lng=-86.09996395000002&z=17.38539420761865&pKey=1209025256222449&focus=photo&x=0.503522662844103&y=0.4341672696294478&zoom=0)) Emp. Sebaco (NIC-1) - Jinotega; Jinotega - San Rafael del Norte; San Rafael del Norte - Condega (NIC-1)
 * NIC-4 Managua - Granada - Emp. El Grajinan (NIC-2)
 * NIC-4B Rot. Nindiri (NIC-4) - Emp. Granada (NIC-4)
 * NIC-5 Matagalpa (NIC-1) - La Dalia; La Dalia - Siuna (NIC-21)
+* [NIC-6](https://www.mapillary.com/app/?lat=12.13193699999998&lng=-86.149811&z=18.57506685182938&pKey=1099251167955785&focus=photo&x=0.7297312846342496&y=0.3264903592351164&zoom=1.140808241486836) may be brand new or just have no bridges.
 * NIC-7 Emp. San Benito (NIC-1) - El Rama
 * NIC-8 El Crucero (NIC-2) - Pochomil
 * NIC-9 Empalme Boaco (NIC-7) - Empalme Muy Muy; Emp. Muy Muy - Emp. San Francisco (NIC-5)
@@ -31,7 +35,7 @@ Notes on routes:
 * NIC-19A Emp. San Dionisio (NIC-9) - Esquipulas (NIC-21A)
 * NIC-19B Emp. Santa Rosa (NIC-7) - Camino a Cerro Grande (NIC-17?); Camoapa (NIC-17) - Empalme La Subasta (NIC-9)
   * There may be a gap (where is Camino a Cerro Grande?); if so, the portion south of Camoapa makes it into Boaco.
-* NIC-20A Empalme Cofradia (NIC-1?) - Emp. Ticuantepe (NIC-4)
+* NIC-20A Empalme Cofradia (NIC-6???) - Emp. Ticuantepe (NIC-4)
 * NIC-20B Emp. Ticuantepe (NIC-4) - Jinotepe (NIC-2)
 * NIC-20C Emp. Santa Teresa (NIC-2) - La Conquista
 * NIC-21A Puertas Viejas (NIC-21) - Empalme Muy Muy (NIC-9)
@@ -43,19 +47,19 @@ Notes on routes:
 * NIC-24A Chinandega (Rotonda) (NIC-12A) - Corinto
 * NIC-24B Chinandega (Rotonda) (NIC-12A) - El Guasaule (HND)
 * NIC-25 Emp. Lóvago (NIC-7) - Frontera Sur (CRI)
-* NIC-26 Emp. Telica (NIC-12A) - Emp. San Isidro (NIC-1)
+* NIC-26 ([signed](https://www.mapillary.com/app/?lat=12.90324170000099&lng=-86.168361&z=17.61518804664498&pKey=528984352340699&focus=photo&x=0.6001187306140539&y=0.4991207647621869&zoom=2.292263470406519)) Emp. Telica (NIC-12A) - Emp. San Isidro (NIC-1)
 * NIC-27 Emp. Zambrano (NIC-11A) - La INCA (NIC-4)
 * NIC-28 Las Piedrecitas (NIC-2) - Emp. Izapa (NIC-12A)
 * NIC-29 Ocotal (NIC-15) - Aduana El Porvenir (HND)
 * NIC-30 Rosita (NIC-21B) - Bonanza (Taller Mecánico); Betania – Yulu???
 * NIC-31 El Portón Boaco (NIC-9) - Masigue (NIC-17)
-* NIC-32A La Sirena (NIC-1) - La Ceibita (La Tranquera) (NIC-38B)
+* NIC-32A ([signed as NN-38](https://www.mapillary.com/app/?lat=13.180839800000001&lng=-86.36925400000001&z=17.479951262499394&pKey=2898154817152763&focus=photo&x=0.703960689536764&y=0.3338276180476421&zoom=1.1461317352032594)) La Sirena (NIC-1) - La Ceibita (La Tranquera) (NIC-38B)
 * NIC-32B Somotillo (NIC-24B) - San Juan de Limay (NIC-38B)
 * NIC-33 Emp. San Francisco (NIC-9) - Emp. El Bonete (NIC-21B)
 * NIC-34A San Cayetano (NIC-10) - San Rafael del Sur (NIC-8)
 * NIC-34B San Rafael del Sur (NIC-8) - Las Salinas (ends at NIC-18???); Río Escalante - Las Salinas (where is this portion???)
 * NIC-35A Estelí (NIC-1) - San José de la Laguna
-* NIC-35B Estelí (NIC-1) - San Sebastian de Yalí (NIC-3)
+* NIC-35B Estelí (NIC-1) - San Sebastian de Yalí (NIC-3) (may not all exist)
 * NIC-35C El Jicaral (NIC-26) - Sta. Rosa del Peñón
 * NIC-35D San Sebastián de Yalí (NIC-3) - La Rica
 * NIC-37A Empalme Las Lajitas (NIC-7) - Cuapa; Cuapa - Comarca El Zancudo
@@ -71,10 +75,10 @@ Notes on routes:
 * NIC-44B Emp. Puerto Momotombo (NIC-22) - Puerto Momotombo probably exists, but has no bridges.
 * NIC-45 Emp. El Jobo (NIC-33) - El Tuma (NIC-5)
 * NIC-46 Empalme Xiloa (NIC-28) - Xiloa; Xiloa - Tamagas; El Tamagás - Mateare (NIC-28)
-* NIC-47 Emp. Terrabona (NIC-1) - Matagalpa (ends at Terrabona?)
+* NIC-47 ([signed](https://www.mapillary.com/app/?lat=12.721137876328996&lng=-86.10076267763299&z=19.32550354252708&pKey=143890557710901&focus=photo&x=0.7953058375763793&y=0.4754012862153503&zoom=2.290586519098984)) Emp. Terrabona (NIC-1) - Matagalpa (ends at Terrabona?)
 * NIC-48 La Unión (NIC-26) - Fin Adoquines (Pta. Elec. Sta. Barvara)
 * NIC-49A Empalme El Escudo (NIC-24B) - La Garza; La Garza - El Sauce; El Sauce - Estelí (NIC-1)
-* NIC-49B Estelí (NIC-1) - Empalme la Concordia (NIC-3)
+* NIC-49B ([signed as 49](https://www.mapillary.com/app/?lat=13.09505&lng=-86.35132289999899&z=18.82522427530245&pKey=8471074626251811&focus=photo&x=0.658934514645605&y=0.5175571337175733&zoom=1.1461317352032594)) Estelí (NIC-1) - Empalme la Concordia (NIC-3)
 * NIC-50 El Viejo (NIC-12B?) Pto. Morazan
 * NIC-51A Shell Palacaguina (NIC-1) - Palacaguina
 * NIC-51B Palacaguina - San Juan de Rio Coco
