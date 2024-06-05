@@ -1,10 +1,12 @@
 [Signs for NIC-4, NIC-11B, and NN-118](https://www.mapillary.com/app/?lat=11.972969&lng=-86.072814&z=18.439830067683783&pKey=442825791777177&focus=photo&x=0.3615514345896801&y=0.16393217348139438&zoom=1.1461317352032594)
 
+[CA-2 used to be signed](https://sjnavarro.wordpress.com/wp-content/uploads/2008/08/anuario-2006.pdf)
+
 Routes are included whether or not they are signed.
 
 Sources:
-* Maps: 
-* Logs: https://sjnavarro.wordpress.com/wp-content/uploads/2008/08/manual-para-revision-diseno-pavimentos1.pdf (2008) https://sjnavarro.wordpress.com/wp-content/uploads/2008/08/detalle-clasificacion-funcional.pdf (2008, unpaved only) https://www.scribd.com/document/339829789/Anuario-de-Trafico-2015-unlocked (2015) https://pdfcoffee.com/anuario-de-puentes-de-la-red-vial-2019-3-pdf-free.html (2019, bridges only)
+* Maps: https://docplayer.es/123687147-Red-vial-de-nicaragua-2006.html (2006) https://dokumen.tips/engineering/red-vial-de-nicaragua-2014.html?page=1 (2014) https://www.scribd.com/document/598229004/Red-Vial-de-Nicaragua-2020 (2020)
+* Logs: https://sjnavarro.wordpress.com/wp-content/uploads/2008/08/manual-para-revision-diseno-pavimentos1.pdf (2008) https://sjnavarro.wordpress.com/wp-content/uploads/2008/08/detalle-clasificacion-funcional.pdf (2008, unpaved only) https://www.scribd.com/document/339829789/Anuario-de-Trafico-2015-unlocked (2015) https://pdfcoffee.com/anuario-de-puentes-de-la-red-vial-2019-3-pdf-free.html (2019, bridges only) https://www.scribd.com/document/598229004/Red-Vial-de-Nicaragua-2020 (2020)
 
 Notes on routes:
 * NIC-1 (signed) Managua - El Espino (HND)
@@ -15,7 +17,7 @@ Notes on routes:
 * NIC-4 Managua - Granada - Emp. El Grajinan (NIC-2)
 * NIC-4B Rot. Nindiri (NIC-4) - Emp. Granada (NIC-4)
 * NIC-5 Matagalpa (NIC-1) - La Dalia; La Dalia - Siuna (NIC-21)
-* [NIC-6](https://www.mapillary.com/app/?lat=12.13193699999998&lng=-86.149811&z=18.57506685182938&pKey=1099251167955785&focus=photo&x=0.7297312846342496&y=0.3264903592351164&zoom=1.140808241486836) may be brand new or just have no bridges. It's not in the 2015 log.
+* NIC-6 ([signed](https://www.mapillary.com/app/?lat=12.13193699999998&lng=-86.149811&z=18.57506685182938&pKey=1099251167955785&focus=photo&x=0.7297312846342496&y=0.3264903592351164&zoom=1.140808241486836)) Rot. Las Mercedes (NIC-1) - NIC-4 (replaced part of NIC-20A per 2020 log)
 * NIC-7 Emp. San Benito (NIC-1) - El Rama
 * NIC-8 El Crucero (NIC-2) - Pochomil
 * NIC-9 Empalme Boaco (NIC-7) - Empalme Muy Muy; Emp. Muy Muy - Emp. San Francisco (NIC-5)
@@ -35,7 +37,7 @@ Notes on routes:
 * NIC-18B Diriamba (NIC-2) - Casares
 * NIC-19A Emp. San Dionisio (NIC-9) - Esquipulas (NIC-21A)
 * NIC-19B Emp. Santa Rosa (NIC-7) - Camino a Cerro Grande (NIC-17); Camoapa (NIC-17) - Empalme La Subasta (NIC-9)
-* NIC-20A Empalme Cofradia (NN-151) - Emp. Ticuantepe (NIC-4) (camino vecinal north of Emp. El Portillo (NN-153??) in 2015 log)
+* NIC-20A Empalme Cofradia (NN-151) - Emp. Ticuantepe (NIC-4) (camino vecinal north of Emp. El Portillo (NN-153) in 2015 log; only exists on that portion in 2020 log)
 * NIC-20B Emp. Ticuantepe (NIC-4) - Jinotepe (NIC-2)
 * NIC-20C Emp. Santa Teresa (NIC-2) - La Conquista
 * NIC-21A Puertas Viejas (NIC-21) - Empalme Muy Muy (NIC-9)
@@ -90,7 +92,7 @@ Notes on routes:
 * NIC-52B Puerto Sandino (NIC-52) - El Velero
 * NIC-53 Ocotal (NIC-15) - Santa María
 * NIC-54 Emp. Chichigalpa (NIC-12A) - Ingenio San Antonio (only to Chichigalpa in 2015 log)
-* NIC-55 Susucayán - El Rosario (last bridge at Murra)
+* NIC-55 Susucayán (NN-16) - El Rosario (last bridge at Murra)
 * NIC-56 Emp. Quezalguaque (NIC-12A) - Quezalguaque probably exists, but has no bridges.
 * NIC-57A Cuyalí (NIC-43) - Abisinia
 * NIC-57B El Pindongo - El Cuá (La Chata) (only bridge near east end)
