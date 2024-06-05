@@ -88,7 +88,7 @@ Notes on routes:
 * NIC-50 El Viejo (NIC-12B) - Pto. Morazan
 * NIC-51A Shell Palacaguina (NIC-1) - Palacaguina
 * NIC-51B Palacaguina - San Juan de Rio Coco
-* NIC-51C San Juan de Rio Coco - Wiwilí (NIC-43)
+* NIC-51C San Juan de Rio Coco - Wiwilí (NIC-43???)
 * NIC-52 Emp. Pto. Sandino (NIC-3) - Pto. Sandino
 * NIC-52B Puerto Sandino (NIC-52) - El Velero
 * NIC-53 Ocotal (NIC-15) - Santa María
@@ -101,7 +101,7 @@ Notes on routes:
 * NIC-59 El Papaturro (NIC-9) - Empalme San Miguel
 * NIC-60 Emp. Salinas Grandes (NIC-12A) - Salinas Grandes may exist, but has no bridges.
 * NIC-61 Boaco - La Aurora; La Aurora - El Lunal; El Lunal - El Barro (NIC-21A) (in 2015 log, but not 2019 bridges)
-* NIC-62 Rivas (NIC-2? NIC-72?) - Empalme Veracruz - Tola; Tola - Las Salinas
+* NIC-62 Rivas (NIC-2) - Empalme Veracruz - Tola; Tola - Las Salinas
 * NIC-64 Moyogalpa - Moyogalpa probably exists, but has no bridges.
 * NIC-65 La Chepa (NIC-25) - Morrito
 * NIC-66 Sapoá (NIC-2) - Colon
@@ -110,6 +110,6 @@ Notes on routes:
 * NIC-70A Qda. Honda (NIC-1) - Los Zarzales (NIC-26)
 * NIC-70B Emp. Hda. San Jacinto (NIC-1) - Hda. San Jacinto probably exists, but has no bridges (but camino vecinal in 2015 log).
 * NIC-71 Emp. La Curva (NIC-7) - Nueva Guinea; Nueva Guinea - Bluefields
-* NIC-72 Rivas (NIC-2? NIC-62?) - San Juan del Sur (NIC-16)
-* NIC-73 Tipitapa - Hda. San Juan (La Plywood) (camino vecinal in 2015 log)
+* NIC-72 Rivas - San Juan del Sur (NIC-16)
+* NIC-73 Tipitapa - Hda. San Juan (La Plywood) (camino vecinal in 2015 log; 01MT0103000 in 2020 log)
 * NIC-74 Entrada Los Rincones (NIC-4?) - Masatepe (camino vecinal in 2015 log)
