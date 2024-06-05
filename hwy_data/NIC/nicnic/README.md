@@ -25,7 +25,8 @@ Notes on routes:
 * NIC-11A Emp. El Coyotepe (NIC-4) - Tipitapa (NIC-1)
 * NIC-11B Emp. Las Flores - Emp. Guanacaste
 * NIC-12A Emp. Nejapa (NIC-2) - Rot. Agateite (Chinandega) (NIC-24A/24B)
-* NIC-12B Emp. El Viejo (NIC-24B) - El Congo; El Congo-Potosí (last bridge at Puerto Arturo, but 2015 log shows to Potosí)
+* NIC-12B Emp. El Viejo (NIC-24B) - El Congo; El Congo-Potosí (last bridge at Puerto Arturo, but 2015 and 2020 logs show to Potosí)
+* NIC-12C Santa Ana (NIC-12A) - El Boquete (NIC-2) (only in 2020 log)
 * NIC-13A Emp. La Corona - San José de la Vega may no longer exist, but it is in the 2015 log (as a camino vecinal).
 * NIC-13B Río Blanco (NIC-21B) - Bocana de Paiwas
 * NIC-13C Emp. Wanawana (NIC-21B) - San Pedro del Norte
