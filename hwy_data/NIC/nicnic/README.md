@@ -11,7 +11,8 @@ Sources:
 Notes on routes:
 * NIC-1 (signed) Managua - El Espino (HND)
   * NIC-1 [seems to be signed both thru and around San Benito](https://youtu.be/ZiTZWgwjnBk?t=685).
-* NIC-2 Managua - Peñas Blanca (CRI)
+* NIC-2 ([signed](https://www.mapillary.com/app/?lat=12.132714000000007&lng=-86.30992000000003&z=18.669623906710104&focus=photo&pKey=3670200653192557&x=0.6209282629479935&y=0.1627590670253942&zoom=1.1515991514256865)) Managua - Peñas Blanca (CRI)
+  * What logs show as NN-219 (to Potosí) and NN-311 (to Buenos Aires) [is signed as NN-217](https://www.mapillary.com/app/?lat=11.459922900001004&lng=-85.84517649999998&z=18.940121194815617&focus=photo&pKey=2483381101960432&x=0.7185859232501434&y=0.2909919968503189&zoom=1.1306962532131608). But NN-217 exists farther north.
 * NIC-2B Hotel Nejapa (NIC-12A) - NIC-2 (this is just southbound NIC-2)
 * NIC-3 ([signed](https://www.mapillary.com/app/?lat=12.848921450000006&lng=-86.09996395000002&z=17.38539420761865&pKey=1209025256222449&focus=photo&x=0.503522662844103&y=0.4341672696294478&zoom=0)) Emp. Sebaco (NIC-1) - Jinotega; Jinotega - San Rafael del Norte; San Rafael del Norte - Condega (NIC-1)
 * NIC-4 Managua - Granada - Emp. El Grajinan (NIC-2)
@@ -25,17 +26,17 @@ Notes on routes:
 * NIC-10 Emp. Santa Rita (NIC-12A) - Emp. Masachapa (NIC-8)
 * NIC-11A Emp. El Coyotepe (NIC-4) - Tipitapa (NIC-1)
 * NIC-11B Emp. Las Flores - Emp. Guanacaste
-* NIC-12A Emp. Nejapa (NIC-2) - Rot. Agateite (Chinandega) (NIC-24A/24B)
+* NIC-12A ([signed as 12](https://www.mapillary.com/app/?lat=12.10689699999999&lng=-86.32359600000001&z=19.534957516920954&focus=photo&pKey=1142144733589633&x=0.6836750195235073&y=0.40474027665621837&zoom=1.1461317352032594)) Emp. Nejapa (NIC-2) - Rot. Agateite (Chinandega) (NIC-24A/24B)
 * NIC-12B Emp. El Viejo (NIC-24B) - El Congo; El Congo-Potosí (last bridge at Puerto Arturo, but 2015 and 2020 logs show to Potosí)
-* NIC-12C Santa Ana (NIC-12A) - El Boquete (NIC-2) (only in 2020 log)
+* NIC-12C ([signed](https://www.mapillary.com/app/?lat=12.011242999999993&lng=-86.31833020001&z=17.844993745578403&focus=photo&pKey=505044521377008&x=0.6458641306967029&y=0.3311147046749999&zoom=1.7692372576292972)?) Santa Ana (NIC-12A) - El Boquete (NIC-2) (only in 2020 log; was NN169)
 * NIC-13A Emp. La Corona - San José de la Vega may no longer exist, but it is in the 2015 log (as a camino vecinal).
 * NIC-13B Río Blanco (NIC-21B) - Bocana de Paiwas
 * NIC-13C Emp. Wanawana (NIC-21B) - San Pedro del Norte
 * NIC-14 Portón Calazan - Las Peñitas (to Poneloya in 2015 log)
 * NIC-15 ([signed](https://www.mapillary.com/app/?lat=13.488541666667018&lng=-86.49890709999801&z=16.885103080486882&focus=photo&pKey=148212267803461&x=0.5683682601343081&y=0.5000033213264178&zoom=2.292263470406519)) Emp. Yalaguina (NIC-1) - Las Manos (HND)
-* NIC-16 La Virgen (NIC-2) - San Juan del Sur
+* NIC-16 ([signed](https://www.mapillary.com/app/?lat=11.373851399998003&lng=-85.75865209999904&z=17.229805698933493&focus=photo&pKey=3067260276869795&x=0.6411488675712442&y=0.37598808487375307&zoom=2.292263470406519)) La Virgen (NIC-2) - San Juan del Sur
 * NIC-17 Emp. San Francisco (NIC-7) - Rancho Rojo; Rancho Rojo - Villa Siquia (last bridge at San Felipe)
-* NIC-18A Empalme Las Esquinas (NIC-2) - Empalme Catarina (NIC-11B)
+* NIC-18A ([signed](https://www.mapillary.com/app/?lat=11.897535899998005&lng=-86.24859489999699&z=17.479951262499362&focus=photo&pKey=769581401088557&x=0.5236570364087897&y=0.1971686425423195&zoom=2.4453072542176595)) Empalme Las Esquinas (NIC-2) - Empalme Catarina (NIC-11B)
 * NIC-18B Diriamba (NIC-2) - Casares
 * NIC-19A Emp. San Dionisio (NIC-9) - Esquipulas (NIC-21A)
 * NIC-19B Emp. Santa Rosa (NIC-7) - Camino a Cerro Grande (NIC-17); Camoapa (NIC-17) - Empalme La Subasta (NIC-9)
@@ -54,7 +55,7 @@ Notes on routes:
 * NIC-25B La Argentina - Melchora (San Carlos) (in 2015 log but not 2019 bridges)
 * NIC-26 ([signed](https://www.mapillary.com/app/?lat=12.90324170000099&lng=-86.168361&z=17.61518804664498&pKey=528984352340699&focus=photo&x=0.6001187306140539&y=0.4991207647621869&zoom=2.292263470406519)) Emp. Telica (NIC-12A) - Emp. San Isidro (NIC-1)
 * NIC-27 Emp. Zambrano (NIC-11A) - Masaya (La INCA) (NIC-4) (last bridge at Tisma)
-* NIC-28 Las Piedrecitas (NIC-2) - Emp. Izapa (NIC-12A)
+* NIC-28 ([signed](https://www.mapillary.com/app/?lat=12.132714000000007&lng=-86.30992000000003&z=18.669623906710104&focus=photo&pKey=3670200653192557&x=0.6209282629479935&y=0.1627590670253942&zoom=1.1515991514256865)) Las Piedrecitas (NIC-2) - Emp. Izapa (NIC-12A)
 * NIC-29 Ocotal (NIC-15) - Aduana El Porvenir (HND)
 * NIC-30 Rosita (NIC-21B) - Bonanza (Taller Mecánico)
 * NIC-31 El Portón Boaco (NIC-9) - Masigue (NIC-17)
