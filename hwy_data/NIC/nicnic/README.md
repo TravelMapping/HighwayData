@@ -2,7 +2,7 @@
 
 [CA-2 used to be signed](https://sjnavarro.wordpress.com/wp-content/uploads/2008/08/anuario-2006.pdf)
 
-Routes are included whether or not they are signed.
+Routes are included whether or not they are signed. Where sources disagree, the 2020 log is usually used.
 
 Sources:
 * Maps: https://docplayer.es/123687147-Red-vial-de-nicaragua-2006.html (2006) https://dokumen.tips/engineering/red-vial-de-nicaragua-2014.html?page=1 (2014) https://www.scribd.com/document/598229004/Red-Vial-de-Nicaragua-2020 (2020)
@@ -16,7 +16,8 @@ Notes on routes:
 * NIC-3 ([signed](https://www.mapillary.com/app/?lat=12.848921450000006&lng=-86.09996395000002&z=17.38539420761865&pKey=1209025256222449&focus=photo&x=0.503522662844103&y=0.4341672696294478&zoom=0)) Emp. Sebaco (NIC-1) - Jinotega; Jinotega - San Rafael del Norte; San Rafael del Norte - Condega (NIC-1)
 * NIC-4 Managua - Granada - Emp. El Grajinan (NIC-2)
 * NIC-4B Rot. Nindiri (NIC-4) - Emp. Granada (NIC-4)
-* NIC-5 Matagalpa (NIC-1) - La Dalia; La Dalia - Siuna (NIC-21)
+* NIC-5 Matagalpa (NIC-1) - La Dalia; La Dalia - Siuna (NIC-21B)
+  * The east end may be at the other end of the Siuna bypass on NIC-21B.
 * NIC-6 ([signed](https://www.mapillary.com/app/?lat=12.13193699999998&lng=-86.149811&z=18.57506685182938&pKey=1099251167955785&focus=photo&x=0.7297312846342496&y=0.3264903592351164&zoom=1.140808241486836)) Rot. Las Mercedes (NIC-1) - NIC-4 (replaced part of NIC-20A per 2020 log)
 * NIC-7 Emp. San Benito (NIC-1) - El Rama
 * NIC-8 El Crucero (NIC-2) - Pochomil
@@ -31,7 +32,7 @@ Notes on routes:
 * NIC-13B Río Blanco (NIC-21B) - Bocana de Paiwas
 * NIC-13C Emp. Wanawana (NIC-21B) - San Pedro del Norte
 * NIC-14 Portón Calazan - Las Peñitas (to Poneloya in 2015 log)
-* NIC-15 Emp. Yalaguina (NIC-1) - Las Manos (HND)
+* NIC-15 ([signed](https://www.mapillary.com/app/?lat=13.488541666667018&lng=-86.49890709999801&z=16.885103080486882&focus=photo&pKey=148212267803461&x=0.5683682601343081&y=0.5000033213264178&zoom=2.292263470406519)) Emp. Yalaguina (NIC-1) - Las Manos (HND)
 * NIC-16 La Virgen (NIC-2) - San Juan del Sur
 * NIC-17 Emp. San Francisco (NIC-7) - Rancho Rojo; Rancho Rojo - Villa Siquia (last bridge at San Felipe)
 * NIC-18A Empalme Las Esquinas (NIC-2) - Empalme Catarina (NIC-11B)
@@ -70,9 +71,8 @@ Notes on routes:
 * NIC-36 Emp. Posoltega (NIC-12A) - Posoltega probably exists, but has no bridges.
 * NIC-37A Empalme Las Lajitas (NIC-7) - Cuapa; Cuapa - Comarca El Zancudo
 * NIC-37B Juigalpa (NIC-7) - Puerto Díaz
-* NIC-38A Empalme Dos Montes (NIC-26) - El Sauce
-* NIC-38B El Sauce - Pueblo Nuevo
-* NIC-38C Pueblo Nuevo - Shell Palacaguina (NIC-1)
+* NIC-38A Empalme Dos Montes (NIC-26) - San Juan de Limay (NIC-32B)
+* NIC-38B ([signed as 38](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) San Juan de Limay (NIC-32B) - Shell Palacaguina (NIC-1)
 * NIC-39 Granada (INTECNA) - El Papayal (NIC-7)
 * NIC-40 Emp. El Tránsito (NIC-12A) - La Gloria (NIC-52B) (last bridge a bit past El Tránsito)
 * NIC-41 Emp. San Gabriel (NIC-3) - Emp. Las Cruces (NIC-43)
@@ -86,9 +86,7 @@ Notes on routes:
 * NIC-49A Empalme El Escudo (NIC-24B) - La Garza; La Garza - El Sauce; El Sauce - Estelí (NIC-1)
 * NIC-49B ([signed as 49](https://www.mapillary.com/app/?lat=13.09505&lng=-86.35132289999899&z=18.82522427530245&pKey=8471074626251811&focus=photo&x=0.658934514645605&y=0.5175571337175733&zoom=1.1461317352032594)) Estelí (NIC-1) - Empalme la Concordia (NIC-3)
 * NIC-50 El Viejo (NIC-12B) - Pto. Morazan
-* NIC-51A Shell Palacaguina (NIC-1) - Palacaguina
-* NIC-51B Palacaguina - San Juan de Rio Coco
-* NIC-51C San Juan de Rio Coco - Wiwilí (NIC-43???)
+* NIC-51 ([signed](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) Shell Palacaguina (NIC-1) - Palacaguina; Palacaguina - San Juan de Rio Coco; San Juan de Rio Coco - Wiwilí (NIC-43???)
 * NIC-52 Emp. Pto. Sandino (NIC-3) - Pto. Sandino
 * NIC-52B Puerto Sandino (NIC-52) - El Velero
 * NIC-53 Ocotal (NIC-15) - Santa María
