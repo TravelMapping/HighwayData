@@ -15,8 +15,8 @@ Notes on routes:
   * What logs show as NN-219 (to Potosí) and NN-311 (to Buenos Aires) [is signed as NN-217](https://www.mapillary.com/app/?lat=11.459922900001004&lng=-85.84517649999998&z=18.940121194815617&focus=photo&pKey=2483381101960432&x=0.7185859232501434&y=0.2909919968503189&zoom=1.1306962532131608). But NN-217 exists farther north.
 * NIC-2B Hotel Nejapa (NIC-12A) - NIC-2 (this is just southbound NIC-2)
 * NIC-3 ([signed](https://www.mapillary.com/app/?lat=12.848921450000006&lng=-86.09996395000002&z=17.38539420761865&pKey=1209025256222449&focus=photo&x=0.503522662844103&y=0.4341672696294478&zoom=0)) Emp. Sebaco (NIC-1) - Jinotega; Jinotega - San Rafael del Norte; San Rafael del Norte - Condega (NIC-1)
-* NIC-4 Managua - Granada - Emp. El Grajinan (NIC-2)
-* NIC-4B Rot. Nindiri (NIC-4) - Emp. Granada (NIC-4)
+* NIC-4A ([signed as 4](https://www.mapillary.com/app/?lat=12.057082000000008&lng=-86.20427800000004&z=19.9&pKey=922402602616469&focus=photo&x=0.7262914464667335&y=0.3135384475892665&zoom=1.114643160288628)) Managua - Granada - Emp. El Grajinan (NIC-2)
+* NIC-4B ([signed](https://www.mapillary.com/app/?lat=11.972969&lng=-86.072814&z=18.439830067683783&pKey=442825791777177&focus=photo&x=0.3615514345896801&y=0.16393217348139438&zoom=1.1461317352032594)) Rot. Nindiri (NIC-4) - Emp. Granada (NIC-4)
 * NIC-5 Matagalpa (NIC-1) - La Dalia; La Dalia - Siuna (NIC-21B)
   * The east end may be at the other end of the Siuna bypass on NIC-21B.
 * NIC-6 ([signed](https://www.mapillary.com/app/?lat=12.13193699999998&lng=-86.149811&z=18.57506685182938&pKey=1099251167955785&focus=photo&x=0.7297312846342496&y=0.3264903592351164&zoom=1.140808241486836)) Rot. Las Mercedes (NIC-1) - NIC-4 (replaced part of NIC-20A per 2020 log)
@@ -25,7 +25,7 @@ Notes on routes:
 * NIC-9 Empalme Boaco (NIC-7) - Empalme Muy Muy; Emp. Muy Muy - Emp. San Francisco (NIC-5)
 * NIC-10 Emp. Santa Rita (NIC-12A) - Emp. Masachapa (NIC-8)
 * NIC-11A Emp. El Coyotepe (NIC-4) - Tipitapa (NIC-1)
-* NIC-11B Emp. Las Flores - Emp. Guanacaste
+* NIC-11B ([signed](https://www.mapillary.com/app/?lat=11.972969&lng=-86.072814&z=18.439830067683783&pKey=442825791777177&focus=photo&x=0.3615514345896801&y=0.16393217348139438&zoom=1.1461317352032594)) Emp. Las Flores - Emp. Guanacaste
 * NIC-12A ([signed as 12](https://www.mapillary.com/app/?lat=12.10689699999999&lng=-86.32359600000001&z=19.534957516920954&focus=photo&pKey=1142144733589633&x=0.6836750195235073&y=0.40474027665621837&zoom=1.1461317352032594)) Emp. Nejapa (NIC-2) - Rot. Agateite (Chinandega) (NIC-24A/24B)
 * NIC-12B Emp. El Viejo (NIC-24B) - El Congo; El Congo-Potosí (last bridge at Puerto Arturo, but 2015 and 2020 logs show to Potosí)
 * NIC-12C ([signed](https://www.mapillary.com/app/?lat=12.011242999999993&lng=-86.31833020001&z=17.844993745578403&focus=photo&pKey=505044521377008&x=0.6458641306967029&y=0.3311147046749999&zoom=1.7692372576292972)?) Santa Ana (NIC-12A) - El Boquete (NIC-2) (only in 2020 log; was NN169)
@@ -41,7 +41,7 @@ Notes on routes:
 * NIC-19A Emp. San Dionisio (NIC-9) - Esquipulas (NIC-21A)
 * NIC-19B Emp. Santa Rosa (NIC-7) - Camino a Cerro Grande (NIC-17); Camoapa (NIC-17) - Empalme La Subasta (NIC-9)
 * NIC-20A Empalme Cofradia (NN-151) - Emp. Ticuantepe (NIC-4) (camino vecinal north of Emp. El Portillo (NN-153) in 2015 log; only exists on that portion in 2020 log)
-* NIC-20B Emp. Ticuantepe (NIC-4) - Jinotepe (NIC-2)
+* NIC-20B ([signed as 20](https://www.mapillary.com/app/?lat=12.057082000000008&lng=-86.20427800000004&z=19.9&pKey=922402602616469&focus=photo&x=0.7262914464667335&y=0.3135384475892665&zoom=1.114643160288628)) Emp. Ticuantepe (NIC-4) - Jinotepe (NIC-2)
 * NIC-20C Emp. Santa Teresa (NIC-2) - La Conquista
 * NIC-21A Puertas Viejas (NIC-21) - Empalme Muy Muy (NIC-9)
 * NIC-21B Empalme Muy Muy (NIC-9) - Puerto Cabezas
@@ -74,7 +74,9 @@ Notes on routes:
 * NIC-37B Juigalpa (NIC-7) - Puerto Díaz
 * NIC-38A Empalme Dos Montes (NIC-26) - San Juan de Limay (NIC-32B)
 * NIC-38B ([signed as 38](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) San Juan de Limay (NIC-32B) - Shell Palacaguina (NIC-1)
-* NIC-39 Granada (INTECNA) - El Papayal (NIC-7)
+* NIC-39A NIC-1 - El Papayal (NIC-7)
+* NIC-39B ([signed as 39](https://www.mapillary.com/app/?lat=11.936251999999982&lng=-85.96236799999997&z=19.53495751692095&pKey=1111426496581501&focus=photo&x=0.3033475076758058&y=0.3878817483078877&zoom=1.8538682647967406)) Granada (INTECNA) - Malacatoya (NIC-39A)
+  * Since this is signed from NIC-1, it's treated as if it begins there, not INTECNA.
 * NIC-40 Emp. El Tránsito (NIC-12A) - La Gloria (NIC-52B) (last bridge a bit past El Tránsito)
 * NIC-41 Emp. San Gabriel (NIC-3) - Emp. Las Cruces (NIC-43)
 * NIC-43 Llano La Cruz (NIC-3) - Empalme Las Cruces; Empalme Las Cruces - Wiwili; Wiwili - Wamblán (last bridge at Yakalwás Arriba)
