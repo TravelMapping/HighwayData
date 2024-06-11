@@ -92,7 +92,7 @@ Notes on routes:
 * NIC-49B ([signed as 49](https://www.mapillary.com/app/?lat=13.09505&lng=-86.35132289999899&z=18.82522427530245&pKey=8471074626251811&focus=photo&x=0.658934514645605&y=0.5175571337175733&zoom=1.1461317352032594)) Estelí (NIC-1) - Empalme la Concordia (NIC-3)
 * NIC-50 El Viejo - Pto. Morazan
 * NIC-51 ([signed](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) Shell Palacaguina (NIC-1) - Palacaguina; Palacaguina - San Juan de Rio Coco; San Juan de Rio Coco - Wiwilí (NIC-43???)
-* NIC-52 ([signed](https://www.mapillary.com/app/?lat=12.216759550000006&lng=-86.68842262999999&z=16.696024550446893&pKey=388743008899142&focus=photo&x=0.6798296415391512&y=0.44805877049572757&zoom=2.292263470406519)) Emp. Pto. Sandino (NIC-3) - Pto. Sandino
+* NIC-52 ([signed](https://www.mapillary.com/app/?lat=12.216759550000006&lng=-86.68842262999999&z=16.696024550446893&pKey=388743008899142&focus=photo&x=0.6798296415391512&y=0.44805877049572757&zoom=2.292263470406519)) Emp. Pto. Sandino (NIC-12A) - Pto. Sandino
 * NIC-52B Puerto Sandino (NIC-52) - El Velero
 * NIC-53 Ocotal (NIC-15) - Santa María
 * NIC-54 Emp. Chichigalpa (NIC-12A) - Ingenio San Antonio (only to Chichigalpa in 2015 log)
@@ -108,11 +108,14 @@ Notes on routes:
 * NIC-64 Moyogalpa - Moyogalpa
 * NIC-65 La Chepa (NIC-25) - Morrito
 * NIC-66 Sapoá (NIC-2) - Colon
+  * The east end may be wrong.
 * NIC-67 Emp. San Miguelito (NIC-25) - San Miguelito
-* NIC-68 Emp. Mina El Limón (NIC-26) - Emp. Mayocunda (NIC-49A)
+* NIC-68A Emp. Mina El Limón (NIC-26) - NIC-22A
+* NIC-68B NIC-22A - Emp. Mayocunda (NIC-49A)
 * NIC-70A Qda. Honda (NIC-1) - Los Zarzales (NIC-26)
 * NIC-70B Emp. Hda. San Jacinto (NIC-1) - Hda. San Jacinto (but camino vecinal in 2015 log)
 * NIC-71 Emp. La Curva (NIC-7) - Nueva Guinea; Nueva Guinea - Bluefields
 * NIC-72 Rivas - San Juan del Sur (NIC-16)
 * NIC-73 Tipitapa - Hda. San Juan (La Plywood) (camino vecinal in 2015 log; 01MT0103000 in 2020 log)
-* NIC-74 Entrada Los Rincones (NIC-4?) - Masatepe (camino vecinal in 2015 log)
+* NIC-74 Entrada Los Rincones (NIC-4A) - Masatepe (camino vecinal in 2015 log)
+  * The south end may be wrong.
