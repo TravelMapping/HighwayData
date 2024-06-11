@@ -45,12 +45,12 @@ Notes on routes:
 * NIC-20C Emp. Santa Teresa (NIC-2) - La Conquista
 * NIC-21A Puertas Viejas (NIC-21) - Empalme Muy Muy (NIC-9)
 * NIC-21B Empalme Muy Muy (NIC-9) - Puerto Cabezas
-* NIC-22A Rot. La Paz Centro (NIC-28) - Rot. Villa 15 de Julio (NIC-24B) (only south of NIC-26 in 2015)
+* NIC-22A ([signed as 22](https://www.mapillary.com/app/?lat=12.60728199999997&lng=-86.67194444444397&z=16.770206160973714&pKey=108161151880630&focus=photo&x=0.606886207903218&y=0.2681468306634478&zoom=2.292263470406519)) Rot. La Paz Centro (NIC-28) - Rot. Villa 15 de Julio (NIC-24B) (only south of NIC-26 in 2015)
 * NIC-22B Rot. La Paz Centro (NIC-28) - Rot. Puerto Sandino (NIC-12A) (not in 2015)
 * NIC-23A Santo Tomás (NIC-7) - La Libertad (NIC-23B)
 * NIC-23B Juigalpa (NIC-7) - La Piñuela (last bridge at El Ayote)
 * NIC-24A Chinandega (Rotonda) (NIC-12A) - Corinto
-* NIC-24B Chinandega (Rotonda) (NIC-12A) - El Guasaule (HND)
+* NIC-24B ([signed](https://www.mapillary.com/app/?lat=13.042576399999987&lng=-86.901713099998&z=17.405745932158258&pKey=560187935736105&focus=photo&x=0.5839262950383158&y=0.26566541371578745&zoom=1.8538682647967406)) Chinandega (Rotonda) (NIC-12A) - El Guasaule (HND)
 * NIC-25 Emp. Lóvago (NIC-7) - Frontera Sur (CRI)
 * NIC-25B La Argentina - Melchora (San Carlos) (in 2015 log but not 2019 bridges)
 * NIC-26 ([signed](https://www.mapillary.com/app/?lat=12.90324170000099&lng=-86.168361&z=17.61518804664498&pKey=528984352340699&focus=photo&x=0.6001187306140539&y=0.4991207647621869&zoom=2.292263470406519)) Emp. Telica (NIC-12A) - Emp. San Isidro (NIC-1)
@@ -80,15 +80,17 @@ Notes on routes:
 * NIC-40 Emp. El Tránsito (NIC-12A) - La Gloria (NIC-52B) (last bridge a bit past El Tránsito)
 * NIC-41 Emp. San Gabriel (NIC-3) - Emp. Las Cruces (NIC-43)
 * NIC-43 Llano La Cruz (NIC-3) - Empalme Las Cruces; Empalme Las Cruces - Wiwili; Wiwili - Wamblán (last bridge at Yakalwás Arriba)
-* NIC-44 León (NIC-12A) - Cerro Asososca (La Sabaneta) (NIC-22) (44A in 2015 log)
+* NIC-44A León (NIC-12A) - Cerro Asososca (La Sabaneta) (NIC-22)
 * NIC-44B Emp. Puerto Momotombo (NIC-22) - Puerto Momotombo (but camino vecinal in 2015 log)
+  * The east end may be wrong.
 * NIC-45 Emp. El Jobo (NIC-33) - El Tuma (NIC-5) (may have a gap in the middle per bridges) (all camino vecinal in 2015 log)
 * NIC-46 Empalme Xiloa (NIC-28) - Xiloa; Xiloa - Tamagas; El Tamagás - Mateare (NIC-28) (camino vecinal west of El Tamagas in 2015 log)
 * NIC-47 ([signed](https://www.mapillary.com/app/?lat=12.721137876328996&lng=-86.10076267763299&z=19.32550354252708&pKey=143890557710901&focus=photo&x=0.7953058375763793&y=0.4754012862153503&zoom=2.290586519098984)) Emp. Terrabona (NIC-1) - Matagalpa (last bridge at Terrabona, but 2015 log shows all the way)
 * NIC-48 La Unión (NIC-26) - Fin Adoquines (Pta. Elec. Sta. Barvara)
 * NIC-49A Empalme El Escudo (NIC-24B) - La Garza; La Garza - El Sauce; El Sauce - Estelí (NIC-1)
+  * The alignment in El Sauce may be wrong.
 * NIC-49B ([signed as 49](https://www.mapillary.com/app/?lat=13.09505&lng=-86.35132289999899&z=18.82522427530245&pKey=8471074626251811&focus=photo&x=0.658934514645605&y=0.5175571337175733&zoom=1.1461317352032594)) Estelí (NIC-1) - Empalme la Concordia (NIC-3)
-* NIC-50 El Viejo (NIC-12B) - Pto. Morazan
+* NIC-50 El Viejo - Pto. Morazan
 * NIC-51 ([signed](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) Shell Palacaguina (NIC-1) - Palacaguina; Palacaguina - San Juan de Rio Coco; San Juan de Rio Coco - Wiwilí (NIC-43???)
 * NIC-52 ([signed](https://www.mapillary.com/app/?lat=12.216759550000006&lng=-86.68842262999999&z=16.696024550446893&pKey=388743008899142&focus=photo&x=0.6798296415391512&y=0.44805877049572757&zoom=2.292263470406519)) Emp. Pto. Sandino (NIC-3) - Pto. Sandino
 * NIC-52B Puerto Sandino (NIC-52) - El Velero
@@ -100,7 +102,7 @@ Notes on routes:
 * NIC-57B El Pindongo - El Cuá (La Chata) (only bridge near east end)
 * NIC-58 Emp. Jiquilillo (NIC-12B) - Los Zorros
 * NIC-59 El Papaturro (NIC-9) - Empalme San Miguel
-* NIC-60 Emp. Salinas Grandes (NIC-12A) - Salinas Grandes may exist, but has no bridges.
+* NIC-60 Emp. Salinas Grandes (NIC-12A) - Salinas Grandes
 * NIC-61 Boaco - La Aurora; La Aurora - El Lunal; El Lunal - El Barro (NIC-21A) (in 2015 log, but not 2019 bridges)
 * NIC-62 Rivas (NIC-2) - Empalme Veracruz - Tola; Tola - Las Salinas
 * NIC-64 Moyogalpa - Moyogalpa
