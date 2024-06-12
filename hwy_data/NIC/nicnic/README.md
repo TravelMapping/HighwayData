@@ -31,7 +31,7 @@ Notes on routes:
 * NIC-12C ([signed](https://www.mapillary.com/app/?lat=12.011242999999993&lng=-86.31833020001&z=17.844993745578403&focus=photo&pKey=505044521377008&x=0.6458641306967029&y=0.3311147046749999&zoom=1.7692372576292972)?) Santa Ana (NIC-12A) - El Boquete (NIC-2) (only in 2020 log; was NN169)
 * NIC-13A Emp. La Corona (NIC-31) - San José de la Vega may no longer exist, but it is in the 2015 log (as a camino vecinal) and [the 2017 log](https://www.scribd.com/document/413178372/Anuario-de-Aforos-de-Trafico-2017).
 * NIC-13B Río Blanco (NIC-21B) - Bocana de Paiwas
-* NIC-13C Emp. Wanawana (NIC-21B) - San Pedro del Norte
+* NIC-13C ([signed as 13](https://www.mapillary.com/app/?lat=12.934623268467973&lng=-85.18103744184202&z=18.439830067683786&pKey=800126947306681&focus=photo&x=0.5835986067337352&y=0.6673373772892756&zoom=2.252047434626545)) Emp. Wanawana (NIC-21B) - San Pedro del Norte
 * NIC-13D San Pedro del Norte - La Cruz de Río Grande (only in recent logs)
   * The east end may be wrong.
 * NIC-14 Portón Calazan - Las Peñitas (to Poneloya in 2015 log)
@@ -45,7 +45,7 @@ Notes on routes:
 * NIC-20A Empalme Cofradia (NN-151) - Emp. Ticuantepe (NIC-4A) (camino vecinal north of Emp. El Portillo (NN-153) in 2015 log; only exists on that portion in 2020 log)
 * NIC-20B ([signed as 20](https://www.mapillary.com/app/?lat=12.057082000000008&lng=-86.20427800000004&z=19.9&pKey=922402602616469&focus=photo&x=0.7262914464667335&y=0.3135384475892665&zoom=1.114643160288628)) Emp. Ticuantepe (NIC-4A) - Jinotepe (NIC-2)
 * NIC-20C Emp. Santa Teresa (NIC-2) - La Conquista
-* NIC-21A ([signed as 21](https://www.mapillary.com/app/?lat=12.76843863&lng=-85.63653624&z=17.285739839398406&pKey=810561649577933&focus=photo&x=0.8482549889903112&y=0.42626909546966973&zoom=2.292263470406519)) Puertas Viejas (NIC-21) - Empalme Muy Muy (NIC-9)
+* NIC-21A ([signed as 21](https://www.mapillary.com/app/?lat=12.76843863&lng=-85.63653624&z=17.285739839398406&pKey=810561649577933&focus=photo&x=0.8482549889903112&y=0.42626909546966973&zoom=2.292263470406519)) Puertas Viejas (NIC-1) - Empalme Muy Muy (NIC-9)
 * NIC-21B ([signed as 21](https://www.mapillary.com/app/?lat=12.76843863&lng=-85.63653624&z=17.285739839398406&pKey=810561649577933&focus=photo&x=0.8482549889903112&y=0.42626909546966973&zoom=2.292263470406519)) Empalme Muy Muy (NIC-9) - Puerto Cabezas
   * 21B is assumed to use the new bypass of Río Blanco, with 13B truncated to end at it.
 * NIC-22A ([signed as 22](https://www.mapillary.com/app/?lat=12.60728199999997&lng=-86.67194444444397&z=16.770206160973714&pKey=108161151880630&focus=photo&x=0.606886207903218&y=0.2681468306634478&zoom=2.292263470406519)) Rot. La Paz Centro (NIC-28) - Rot. Villa 15 de Julio (NIC-24B) (only south of NIC-26 in 2015)
@@ -54,12 +54,12 @@ Notes on routes:
 * NIC-23B Juigalpa (NIC-7) - La Piñuela (last bridge at El Ayote)
 * NIC-24A Chinandega (Rotonda) (NIC-12A) - Corinto
 * NIC-24B ([signed](https://www.mapillary.com/app/?lat=13.042576399999987&lng=-86.901713099998&z=17.405745932158258&pKey=560187935736105&focus=photo&x=0.5839262950383158&y=0.26566541371578745&zoom=1.8538682647967406)) Chinandega (Rotonda) (NIC-12A) - El Guasaule (HND)
-* NIC-25 Emp. Lóvago (NIC-7) - Frontera Sur (CRI)
-* NIC-25B La Argentina - Melchora (San Carlos) (in 2015 log but not 2019 bridges)
+* NIC-25A ([signed as 25](https://www.mapillary.com/app/?lat=11.225099&lng=-84.69282099999998&z=18.73976280008042&pKey=878730499747827&focus=photo&x=0.6236175580349617&y=0.4189523356947168&zoom=2.2765231818058025)) Emp. Lóvago (NIC-7) - Frontera Sur (CRI)
+* NIC-25B La Argentina (NIC-25A) - Melchora (San Carlos) (NIC-25A) (in 2015 log but not 2019 bridges)
 * NIC-26 ([signed](https://www.mapillary.com/app/?lat=12.90324170000099&lng=-86.168361&z=17.61518804664498&pKey=528984352340699&focus=photo&x=0.6001187306140539&y=0.4991207647621869&zoom=2.292263470406519)) Emp. Telica (NIC-12A) - Emp. San Isidro (NIC-1)
 * NIC-27 ([signed](https://www.mapillary.com/app/?lat=11.994831100022964&lng=-86.07914770000201&z=19.9&pKey=701113674309860&focus=photo&x=0.7081240176837731&y=0.047561779553200095&zoom=2.971125149410919)) Emp. Zambrano (NIC-11A) - Masaya (La INCA) (NIC-4A) (last bridge at Tisma)
 * NIC-28 ([signed](https://www.mapillary.com/app/?lat=12.132714000000007&lng=-86.30992000000003&z=18.669623906710104&focus=photo&pKey=3670200653192557&x=0.6209282629479935&y=0.1627590670253942&zoom=1.1515991514256865)) Las Piedrecitas (NIC-2) - Emp. Izapa (NIC-12A)
-* NIC-29 Ocotal (NIC-15) - Aduana El Porvenir (HND)
+* NIC-29 ([signed](https://www.mapillary.com/app/?lat=13.65208333333301&lng=-86.47220479999999&z=17&pKey=1067468527202824&focus=photo&x=0.7475132318945465&y=0.4359255917183094&zoom=2.292263470406519)) Ocotal (NIC-15) - Aduana El Porvenir (HND)
 * NIC-30 Rosita (NIC-21B) - Bonanza (Taller Mecánico)
 * NIC-31 El Portón Boaco (NIC-9) - Masigue (NIC-17)
 * NIC-32A ([east end signed as NN-38](https://www.mapillary.com/app/?lat=13.180839800000001&lng=-86.36925400000001&z=17.479951262499394&pKey=2898154817152763&focus=photo&x=0.703960689536764&y=0.3338276180476421&zoom=1.1461317352032594)) La Sirena (NIC-1) - La Ceibita (La Tranquera) (NIC-38B) (only bridges at El Pedernal)
@@ -97,7 +97,7 @@ Notes on routes:
 * NIC-51 ([signed](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) Shell Palacaguina (NIC-1) - Palacaguina; Palacaguina - San Juan de Rio Coco; San Juan de Rio Coco - Wiwilí (NIC-43???)
 * NIC-52 ([signed](https://www.mapillary.com/app/?lat=12.216759550000006&lng=-86.68842262999999&z=16.696024550446893&pKey=388743008899142&focus=photo&x=0.6798296415391512&y=0.44805877049572757&zoom=2.292263470406519)) Emp. Pto. Sandino (NIC-12A) - Pto. Sandino
 * NIC-52B Puerto Sandino (NIC-52) - El Velero
-* NIC-53 Ocotal (NIC-15) - Santa María
+* NIC-53 ([signed as NN-53](https://www.mapillary.com/app/?lat=13.63339900000004&lng=-86.47949082125598&z=17.135248644052744&pKey=708706453550851&focus=photo&x=0.7208109631460025&y=0.39097652254621634&zoom=2.9254100229317492)) Ocotal (NIC-15) - Santa María
 * NIC-54 Emp. Chichigalpa (NIC-12A) - Ingenio San Antonio (only to Chichigalpa in 2015 log)
 * NIC-55 Susucayán (NN-16) - El Rosario (last bridge at Murra)
 * NIC-56 ([signed](https://www.mapillary.com/app/?lat=12.534711230499994&lng=-86.8996999785&z=17.811503724223652&pKey=322355245960395&focus=photo&x=0.7050961861711063&y=0.6043330260485118&zoom=1.1461317352032594)) Emp. Quezalguaque (NIC-12A) - Quezalguaque
@@ -109,10 +109,10 @@ Notes on routes:
 * NIC-61 Boaco - La Aurora; La Aurora - El Lunal; El Lunal - El Barro (NIC-21A) (in 2015 log, but not 2019 bridges)
 * NIC-62 Rivas (NIC-2) - Empalme Veracruz - Tola; Tola - Las Salinas
 * NIC-64 Moyogalpa - Moyogalpa
-* NIC-65 La Chepa (NIC-25) - Morrito
+* NIC-65 La Chepa (NIC-25A) - Morrito
 * NIC-66 Sapoá (NIC-2) - Colon
   * The east end may be wrong.
-* NIC-67 Emp. San Miguelito (NIC-25) - San Miguelito
+* NIC-67 Emp. San Miguelito (NIC-25A) - San Miguelito
 * NIC-68A Emp. Mina El Limón (NIC-26) - NIC-22A
 * NIC-68B NIC-22A - Emp. Mayocunda (NIC-49A)
 * NIC-70A Qda. Honda (NIC-1) - Los Zarzales (NIC-26)
