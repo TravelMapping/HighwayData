@@ -73,13 +73,14 @@ Notes on routes:
 * NIC-35C El Jicaral (NIC-26) - Sta. Rosa del Peñón
 * NIC-35D San Sebastián de Yalí (NIC-3) - La Rica
 * NIC-36 Emp. Posoltega (NIC-12A) - Posoltega
-* NIC-37A Empalme Las Lajitas (NIC-7) - Cuapa; Cuapa - Comarca El Zancudo
+* NIC-37A Empalme Las Lajitas (NIC-7) - Cuapa; Cuapa - Comarca El Zancudo; Comarca El Zancudo - La Libertad (NIC-23B)
+  * Details north of Betulia may be wrong.
 * NIC-37B Juigalpa (NIC-7) - Puerto Díaz
 * NIC-38A Empalme Dos Montes (NIC-26) - San Juan de Limay (NIC-32B)
 * NIC-38B ([signed as 38](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) San Juan de Limay (NIC-32B) - Shell Palacaguina (NIC-1)
 * NIC-39A NIC-1 - El Papayal (NIC-7)
 * NIC-39B ([signed as 39](https://www.mapillary.com/app/?lat=11.936251999999982&lng=-85.96236799999997&z=19.53495751692095&pKey=1111426496581501&focus=photo&x=0.3033475076758058&y=0.3878817483078877&zoom=1.8538682647967406)) Granada (INTECNA) - Malacatoya (NIC-39A)
-  * Since this is signed from NIC-1, it's treated as if it begins there, not INTECNA.
+  * Since this is signed from NIC-4A, it's treated as if it begins there, not INTECNA.
 * NIC-40 Emp. El Tránsito (NIC-12A) - La Gloria (NIC-52B) (last bridge a bit past El Tránsito)
 * NIC-41 Emp. San Gabriel (NIC-3) - Emp. Las Cruces (NIC-43)
 * NIC-43 Llano La Cruz (NIC-3) - Empalme Las Cruces; Empalme Las Cruces - Wiwili; Wiwili - Wamblán (last bridge at Yakalwás Arriba)
@@ -89,17 +90,20 @@ Notes on routes:
 * NIC-45 Emp. El Jobo (NIC-33) - El Tuma (NIC-5) (may have a gap in the middle per bridges) (all camino vecinal in 2015 log)
 * NIC-46 Empalme Xiloa (NIC-28) - Xiloa; Xiloa - Tamagas; El Tamagás - Mateare (NIC-28) (camino vecinal west of El Tamagas in 2015 log)
 * NIC-47 ([signed](https://www.mapillary.com/app/?lat=12.721137876328996&lng=-86.10076267763299&z=19.32550354252708&pKey=143890557710901&focus=photo&x=0.7953058375763793&y=0.4754012862153503&zoom=2.290586519098984)) Emp. Terrabona (NIC-1) - Matagalpa (last bridge at Terrabona, but 2015 log shows all the way)
+  * The north end may be wrong.
 * NIC-48 La Unión (NIC-26) - Fin Adoquines (Pta. Elec. Sta. Barvara)
 * NIC-49A Empalme El Escudo (NIC-24B) - La Garza; La Garza - El Sauce; El Sauce - Estelí (NIC-1)
   * The alignment in El Sauce may be wrong.
 * NIC-49B ([signed as 49](https://www.mapillary.com/app/?lat=13.09505&lng=-86.35132289999899&z=18.82522427530245&pKey=8471074626251811&focus=photo&x=0.658934514645605&y=0.5175571337175733&zoom=1.1461317352032594)) Estelí (NIC-1) - Empalme la Concordia (NIC-3)
 * NIC-50 El Viejo - Pto. Morazan
-* NIC-51 ([signed](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) Shell Palacaguina (NIC-1) - Palacaguina; Palacaguina - San Juan de Rio Coco; San Juan de Rio Coco - Wiwilí (NIC-43???)
+* NIC-51 ([signed](https://www.mapillary.com/app/?lat=13.431589599999995&lng=-86.40899610000201&z=17.250145563565933&focus=photo&pKey=184941287314266&x=0.6492936114685212&y=0.5082557328939624&zoom=2.292263470406519)) Shell Palacaguina (NIC-1) - Palacaguina; Palacaguina - San Juan de Rio Coco; San Juan de Rio Coco - Wiwilí (NIC-43?)
+  * NIC-51 is assumed to have been extended over the new (2022) bridge to NIC-43.
 * NIC-52 ([signed](https://www.mapillary.com/app/?lat=12.216759550000006&lng=-86.68842262999999&z=16.696024550446893&pKey=388743008899142&focus=photo&x=0.6798296415391512&y=0.44805877049572757&zoom=2.292263470406519)) Emp. Pto. Sandino (NIC-12A) - Pto. Sandino
 * NIC-52B Puerto Sandino (NIC-52) - El Velero
 * NIC-53 ([signed as NN-53](https://www.mapillary.com/app/?lat=13.63339900000004&lng=-86.47949082125598&z=17.135248644052744&pKey=708706453550851&focus=photo&x=0.7208109631460025&y=0.39097652254621634&zoom=2.9254100229317492)) Ocotal (NIC-15) - Santa María
 * NIC-54 Emp. Chichigalpa (NIC-12A) - Ingenio San Antonio (only to Chichigalpa in 2015 log)
 * NIC-55 Susucayán (NN-16) - El Rosario (last bridge at Murra)
+  * The exact east end may be wrong.
 * NIC-56 ([signed](https://www.mapillary.com/app/?lat=12.534711230499994&lng=-86.8996999785&z=17.811503724223652&pKey=322355245960395&focus=photo&x=0.7050961861711063&y=0.6043330260485118&zoom=1.1461317352032594)) Emp. Quezalguaque (NIC-12A) - Quezalguaque
 * NIC-57A Cuyalí (NIC-43) - Abisinia
 * NIC-57B El Pindongo - El Cuá (La Chata) (only bridge near east end)
@@ -118,6 +122,7 @@ Notes on routes:
 * NIC-70A Qda. Honda (NIC-1) - Los Zarzales (NIC-26)
 * NIC-70B Emp. Hda. San Jacinto (NIC-1) - Hda. San Jacinto (but camino vecinal in 2015 log)
 * NIC-71 Emp. La Curva (NIC-7) - Nueva Guinea; Nueva Guinea - Bluefields
+  * The east end may be wrong.
 * NIC-72 Rivas - San Juan del Sur (NIC-16)
 * NIC-73 Tipitapa - Hda. San Juan (La Plywood) (camino vecinal in 2015 log; 01MT0103000 in 2020 log)
 * NIC-74 Entrada Los Rincones (NIC-4A) - Masatepe (camino vecinal in 2015 log)
