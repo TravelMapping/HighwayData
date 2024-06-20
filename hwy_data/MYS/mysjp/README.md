@@ -30,6 +30,7 @@ Notes on routes:
 * 258 seems to be unsigned (as of 2020).
 * 312 [is signed](https://www.google.com/maps/@4.0046127,100.8258675,3a,15y,22.75h,87.01t,359.19r/data=!3m7!1e1!3m5!1sybSF0sCZT8YW99IABIlENA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DybSF0sCZT8YW99IABIlENA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D22.74891818844798%26pitch%3D2.9904537987229247%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 321 seems to be signed only as 1 and 58 (the two routes it connects) (as of 2021).
+* 322 (the bridge at Lambor) seems to be signed only as 109 and A018 (the two routes it connects) (as of 2024).
 * 420 (as shown on the map near Pekan) seems to be unsigned (as of 2018), but [another 420 is signed](https://www.google.com/maps/@3.7683689,103.2251332,3a,15y,54.14h,98.44t/data=!3m7!1e1!3m5!1sUTW9I4WHcFWfF7g21p6FRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DUTW9I4WHcFWfF7g21p6FRA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D54.141257678622026%26pitch%3D-8.437252626973375%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu). Its west end may be wrong.
 * 421 [is signed](https://www.tiktok.com/@kuantanbest/video/7350575114800418066) (at 0:28).
 * 422 seems to be unsigned (as of 2020).
