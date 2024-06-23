@@ -70,6 +70,7 @@ Notes on routes:
 * 238 seems to be unsigned (as of 2020).
 * 239 and 240 (E1 local lanes in Iroh) may be unsigned.
 * 243 seems to be uunsigned (as of 2021).
+* 246 [is signed](https://www.google.com/maps/@2.8350393,102.325126,3a,32.8y,77.37h,96.38t/data=!3m7!1e1!3m5!1sFs36ViEhVWxWRfYWgbRtLA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DFs36ViEhVWxWRfYWgbRtLA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D77.37155504316482%26pitch%3D-6.380642003771115%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 248 [is signed as B20](https://www.google.com/maps/@2.8163264,101.6399467,3a,15y,366.53h,76.2t/data=!3m7!1e1!3m5!1sYnHYHt1NZ30ME2XpPYy8Aw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DYnHYHt1NZ30ME2XpPYy8Aw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D366.5311492878662%26pitch%3D13.79825159944673%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2019).
 * 256 [is signed](https://www.google.com/maps/@6.1487658,100.3991663,3a,43y,147.09h,100.55t/data=!3m7!1e1!3m5!1s6V8iYmB3ECzbXzC4gpEmGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D6V8iYmB3ECzbXzC4gpEmGA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D147.09148400501132%26pitch%3D-10.548012227039592%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 258 seems to be unsigned (as of 2020).
