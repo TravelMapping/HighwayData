@@ -1117,6 +1117,7 @@ date;region;route;root;description
 2015-11-13;Czechia;R6 (Bošov);cze.r006bos;New Route
 2015-07-28;Czechia;Městský Okruh;cze.mo;New Route
 2015-07-28;Czechia;R43;cze.r043;New Route
+2023-06-29;Denmark;PR40;dnk.pr040;Route relocated from through Skagen and onto bypass
 2023-05-14;Denmark;PR30;dnk.pr030;Route extended at east end from E45 to PR52 in Horsens (former SR451)
 2023-05-14;Denmark;SR311;dnk.sr311;Route truncated at north end from SR162 to junction with Adelgade and Østre Engvej in Bogense
 2023-05-14;Denmark;SR311;dnk.sr311;Route truncated at south end from SR162 to O2 in Odense
@@ -3629,6 +3630,8 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2024-06-29;Norway;E6;nor.e6;Route relocated from through Kråkmoa and onto bypass (Kråkmotunnelen, opened in 2016)
+2024-06-29;Norway;E6;nor.e6;Route relocated from old alignemnt (Fv7327 now) and onto new alignment (with Åsnevtunnelen, Langmoåstunnelen and Åsbergtunnelen, opened in 2020) between Fv7333 and Fv7326 north of Mosjøen
 2024-05-08;Norway;Fv565;nor.fv565;Route relocated from Slettevegen, and onto new alignment between Fv525 and Fv5484
 2024-04-20;Norway;E136;nor.e136;Route truncated at west end from Steinvågvegen to Skutvikskaret
 2024-04-20;Norway;Rv163;nor.rv163;Route truncated at west end from Ulvensplitten (E6) to Dronning Margretes vei
@@ -6354,6 +6357,16 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2024-06-25;(USA) Arkansas;US 412;ar.us412;removed from US 412 Business (Walnut Ridge) and relocated onto US 63 & US 67.
+2024-06-25;(USA) Arkansas;US 412 Business (Walnut Ridge);ar.us412buswal;Route added.
+2024-06-25;(USA) Arkansas;AR 89 (Cabot);ar.ar089;North end truncated from AR 107 to AR 367. Section from AR 107 to US 67/167 is now a separate AR 89 (Pulaski County) route.
+2024-06-25;(USA) Arkansas;AR 89 (Pulaski County);ar.ar089pul;Route added.
+2024-06-25;(USA) Arkansas;AR 335 (Newell);ar.ar335new;Route added.
+2024-06-25;(USA) Arkansas;AR 335 (Norphlet);ar.ar335;South end truncated from AR 15 to AR 7. Section from AR 15 to US 82 is now a separate AR 355 (Newell) route.
+2024-06-25;(USA) Arkansas;AR 355 (Patmos);ar.ar355;North end truncated from Kidd Landing to AR 174.
+2024-06-25;(USA) Arkansas;AR 355Y;;Route deleted.
+2024-06-25;(USA) Arkansas;AR 367 (Cabot);ar.ar367;South end truncated from AR 5/321 to AR 89. Section from AR 5/321 to Palisade Drive now designated as AR 367S (Cabot).
+2024-06-25;(USA) Arkansas;AR 367S (Cabot);ar.ar367scab;Route added.
 2024-06-06;(USA) Arkansas;US 78;ar.us078;Route added.
 2024-06-06;(USA) Arkansas;AR 145 (Tuckerman);;Route deleted.
 2023-10-16;(USA) Arkansas;AR 89 (Mayflower);ar.ar089may;Removed from Arkansas River Trail, Miller Street, and AR 365 and relocated onto the Mayflower Bypass between Arkansas River Trail and I-40.
@@ -6849,6 +6862,9 @@ date;region;route;root;description
 2015-08-17;(USA) Iowa;IA 92;ia.ia092;Removed from Grandview Avenue/Mississippi Drive in Muscatine and rerouted onto US 61 and IA 38/Park Avenue in and around Muscatine
 2015-08-17;(USA) Iowa;US 34;ia.us034;Removed from road extending westward from I-29 exit 32 into Nebraska and moved onto new expressway extending west from I-29 exit 35 to Nebraska state line
 2015-08-17;(USA) Iowa;US 69;ia.us069;Renamed point IA152->CRR35
+2024-06-27;(USA) Kansas;US 54 Truck (El Dorado);ks.us054TrkElD;Extended counterclockwise from the old end at US 54 on East Central Ave to the new end at US 54 on South Main St at Kansas Ave.
+2024-06-27;(USA) Kansas;US 77 Truck (El Dorado);ks.us077TrkElD;Extended counterclockwise from the old end at US 77 on North Main St to the new end at US 54 on South Main St at Kansas Ave.
+2024-06-27;(USA) Kansas;KS 254 Truck (El Dorado);ks.ks254TrkElD;Route added.
 2024-06-23;(USA) Kansas;US 166;ks.us166;Removed from Bagdad Rd and relocated southward onto a 4-lane freeway between the US 400 split and KS 26.
 2024-06-23;(USA) Kansas;US 400;ks.us400;Removed from Bagdad Rd and relocated southward onto a 4-lane freeway between the US 166 split and KS 26.
 2024-06-23;(USA) Kansas;KS 26;ks.ks026;Extended southward from Bagdad Rd to US 166.
@@ -7212,6 +7228,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2024-06-24;(USA) Louisiana;LA 3241;la.la3241;Route added
 2024-05-11;(USA) Louisiana;LA 157 (Haughton);la.la0157;Truncated at south end from US71 to barricaded bridge 1/2 mile north of US71 (segment south of the former bridge is now LA 157 (McDade))
 2024-05-11;(USA) Louisiana;LA 157 (McDade);la.la0157mcd;Route added (was part of LA 157 (Haughton) before bridge was closed)
 2024-04-10;(USA) Louisiana;LA 42;la.la0042;Truncated at west end from LA 327 Spur to Perkins Rd (N)
@@ -7400,6 +7417,7 @@ date;region;route;root;description
 2015-11-13;(USA) Massachusetts;MA 138;ma.ma138;Removed from the Brightman Street Bridge and MA 103, and relocated onto the Veterans Memorial Bridge between MA 79 and MA 103
 2015-11-13;(USA) Massachusetts;MA 79;ma.ma079;Waypoint US6 moved from Brightman Street to the Veterans Memorial Bridge
 2015-11-13;(USA) Massachusetts;US 6;ma.us006;Removed from Grand Army of the Republic Highway and the Brightman Street Bridge, and relocated onto the Veterans Memorial Bridge between a point labeled *OldUS6 and MA 79
+2024-06-24;(USA) Michigan;US 31 Business (Pentwater);;Route deleted
 2023-10-21;(USA) Michigan;US 223;mi.us223;Truncated at north end from US 12 to US127 (removed segment was concurrent with US 127)
 2023-10-21;(USA) Michigan;MI 30;mi.mi030;Extended at south end from MI 20 to MI 46
 2023-10-21;(USA) Michigan;MI 60 Business (Niles);mi.mi060busnil;Truncated at west end from 5th St to MI 51 (removed segment was concurrent with MI 51) 
@@ -8166,6 +8184,7 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2024-06-24;(USA) Pennsylvania;PA 424;pa.pa424;Extended slightly further west from Commerce Dr (ComDr) to Mount Pleasant Ln (MouPleLn).
 2024-05-26;(USA) Pennsylvania;US 1 Alternate Truck (West Grove);;Route deleted (was partly concurrent with PA 841 Alternate Truck (West Grove) and PA 796).
 2024-05-26;(USA) Pennsylvania;PA 41 Alternate Truck (Avondale);pa.pa041alttrkavo;Route added.
 2024-01-02;(USA) Pennsylvania;US 6;pa.us006;Relocated PA660_E label due to realignment of PA 660.  The former PA660_E label is now ChaRd.
