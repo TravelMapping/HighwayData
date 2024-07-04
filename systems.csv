@@ -356,10 +356,11 @@ usawv;USA;West Virginia State Highways;TMbrown;4;active
 usawi;USA;Wisconsin State Highways;TMbrown;4;active
 usawy;USA;Wyoming State Highways;TMbrown;4;active
 zafn;ZAF;South Africa National Highways;TMgreen;3;active
+zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;active
 zwer;ZWE;Zimbabwe Regional Roads;TMgreen;4;active
 zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;active
 #Preview Systems
-naca;NA;Rutas Centroamericanas (Guatemala);TMgreen;2;preview
+naca;NA;Rutas Centroamericanas;TMgreen;2;preview
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
 argrn;ARG;Argentina Rutas Nacionales;TMred;2;preview
@@ -501,12 +502,14 @@ frapacd05;FRA;Hautes-Alpes Routes Départementales;TMyellow;5;preview
 frapacd13;FRA;Bouches-du-Rhône Routes Départementales;TMyellow;5;preview
 frapacd83;FRA;Var Routes Départementales;TMyellow;5;preview
 frapacd84;FRA;Vaucluse Routes Départementales;TMyellow;5;preview
-gtmrn;GTM;Guatemala Rutas Nacionales;TMred;2;preview
+gtmrn;GTM;Guatemala Rutas Nacionales;TMred;3;preview
 gtmsf;GTM;Guatemala Select Freeways;TMteal;3;preview
 gufd;FRA;French Guiana Routes Départementales;TMyellow;5;preview
 gbnmkgr;GBR;Milton Keynes Grid Roads;TMgray;5;preview
 gbrtrl;GBR;United Kingdom Trails;TMbrown;5;preview
 gbrrr;GBR;United Kingdom Ring Roads;TMgray;5;preview
+hndrnp;HND;Honduras Rutas Nacionales Principales;TMred;3;preview
+hndrns;HND;Honduras Rutas Nacionales Secundarias;TMbrown;4;preview
 hrvz;HRV;Croatia Županijske Ceste;TMyellow;5;preview
 idnah;IDN;Indonesia UNESCAP Asian Highways;TMred;3;preview
 index;IND;India National Expressways;TMblue;1;preview
@@ -517,6 +520,7 @@ itass;ITA;Italy Strade Statali;TMlightsalmon;4;preview
 khmah;KHM;Cambodia UNESCAP Asian Highways;TMred;3;preview
 jeyc;JEY;Jersey C Roads;TMgray;5;preview
 jpnh;JPN;Japan Ippan Kokudō;TMlightsalmon;4;preview
+norr;NOR;Norway Ringveiene i Oslo;TMyellow;5;preview
 lkaa;LKA;Sri Lanka A Roads;TMlightsalmon;4;preview
 laoah;LAO;Laos UNESCAP Asian Highways;TMred;3;preview
 kena;KEN;Kenya A Roads;TMgreen;3;preview
@@ -532,6 +536,8 @@ mkdr;MKD;North Macedonia Regional Roads;TMyellow;4;preview
 mmrah;MMR;Myanmar UNESCAP Asian Highways;TMred;3;preview
 mozn;MOZ;Mozambique Estrada Nacional;TMgreen;4;preview
 mwim;MWI;Malawi Main Roads;TMgreen;4;preview
+mysjp;MYS;Malaysia Jalan Persekutuan;TMbrown;4;preview
+nicnic;NIC;Nicaragua Red Vial Nacional;TMred;3;preview
 nplah;NPL;Nepal UNESCAP Asian Highways;TMred;3;preview
 nplh;NPL;Nepal Highways;TMlightsalmon;4;preview
 nzlrr;NZL;New Zealand Regional Roads;TMYellow;5;preview
@@ -543,12 +549,14 @@ prkah;PRK;Korea (North) UNESCAP Asian Highways;TMred;3;preview
 prypy;PRY;Red Vial Paraguaya;TMred;2;preview
 rusa;RUS;Russia Access Roads;TMlightsalmon;4;preview
 senn;SEN;Senegal Routes Nationales;TMgreen;4;preview
+slvrn;SLV;El Salvador Rutas Nacionales;TMred;3;preview
+slvsf;SLV;El Salvador Select Freeways;TMteal;3;preview
 srba2;SRB;Serbia Autoputevi (redo - for checking);TMblue;1;preview
 srbm;SRB;Serbia Motoputevi;TMteal;2;preview
 srbe;SRB;Serbia E-roads (redo - for checking);TMgreen;3;preview
 srbb2;SRB;Serbia Državni Putevi (redo - for checking);TMlightsalmon;4;preview
 srbr;SRB;Serbia Državni Putevi IIA;TMyellow;5;preview
-srbrb;SRB;Serbia Državni Putevi IIB;TMgrey;5;preview
+srbrb;SRB;Serbia Državni Putevi IIB;TMgray;5;preview
 swzmr;SWZ;Eswatini Main Roads;TMgreen;4;preview
 thaah;THA;Thailand UNESCAP Asian Highways;TMred;3;preview
 ttoh;TTO;Trinidad & Tobago Highways;TMred;3;preview
@@ -565,7 +573,7 @@ vena;VEN;Venezuela Autopistas;TMblue;1;preview
 vent;VEN;Venezuela Vías Troncales;TMred;2;preview
 vnmct;VNM;Vietnam Cao Toc;TMblue;1;preview
 vnmah;VNM;Vietnam UNESCAP Asian Highways;TMred;3;preview
-zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;preview
+zaff;ZAF;South Africa Select Freeways;TMcyan;2;preview
 zmbt;ZMB;Zambia Trunk Roads;TMgreen;4;preview
 zmbm;ZMB;Zambia Main Roads;TMyellow;5;preview
 #Devel Systems
@@ -578,7 +586,7 @@ asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);TMred;3;devel
 #autl34;AUT;Lower Austria Landesstraßen L 4000s;TMyellow;5;devel
 #autl35;AUT;Lower Austria Landesstraßen L 5000s;TMyellow;5;devel
 #autl36;AUT;Lower Austria Landesstraßen L 6000s;TMyellow;5;devel
-#autl37;AUT;Lower Austria Landesstraßen L 7000s;TMyellow;5;devel
+autl37;AUT;Lower Austria Landesstraßen L 7000s;TMyellow;5;devel
 #autl38;AUT;Lower Austria Landesstraßen L 8000s;TMyellow;5;devel
 cannss;CAN;Nova Scotia Scenic Travelways;TMyellow;5;devel
 canons;CAN;Ontario Secondary Highways;TMyellow;5;devel
@@ -624,7 +632,7 @@ prtn;PRT;Portugal Estradas Nacionais;TMyellow;5;devel
 rusr;RUS;Russia Regional Roads;TMlightsalmon;4;devel
 #ukrn;UKR;Ukraine Nacional'ni Avtomobil'ni Dorohy;TMlightsalmon;4;devel
 #ukrr;UKR;Ukraine Rehional'na Avtomobil'na Doroha;TMyellow;5;devel
-usatr;USA;United States select tourist routes;TMbrown;5;devel
+usatr;USA;United States Select Tourist Routes;TMbrown;5;devel
 #usatxf;USA;Texas Farm to Market Roads 1-499;TMyellow;5;devel
 #usatxf2;USA;Texas Farm to Market Roads 500-999;TMyellow;5;devel
 #usatxf3;USA;Texas Farm to Market Roads 1000-1499;TMyellow;5;devel
