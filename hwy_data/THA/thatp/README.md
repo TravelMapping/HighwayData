@@ -1,5 +1,7 @@
 Thailand Thangluang Phaendin (National Highways)
 
+About the abbreviation Thl: most signs just use shields, but [at least one sign](https://www.google.com/maps/@17.0050928,100.1780994,3a,24.9y,307.55h,86.31t/data=!3m7!1e1!3m5!1sHJ2KREpXGwhATauKsy9bmA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DHJ2KREpXGwhATauKsy9bmA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D307.5489361122021%26pitch%3D3.6852826339801226%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) uses ทล. (transliteration: Thl.) as a short form of ทางหลวง (Thangluang/Highway). ทล. is also the abbreviation used on [Thai Wikipedia](https://th.wikipedia.org/wiki/%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%99%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%82_11) in the infoboxes and on [official Thai government websites](https://www.google.com/search?q=site%3A.th+%22%E0%B8%97%E0%B8%A5+3119%22).
+
 Sources:
 * http://bmm.doh.go.th/website/index.php/road-maintenance-statistics/control-distance-map (maps and GIS data)
 * [translated info about rural roads from Thai Wikipedia](https://th-m-wikipedia-org.translate.goog/wiki/%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%9A%E0%B8%97)
