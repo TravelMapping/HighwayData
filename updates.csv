@@ -1,6 +1,10 @@
 date;region;route;root;description
+2024-07-05;Albania;A1;alb.a001;Route extended at south end from Thumanë to SH2 west of Kamëz
+2024-07-05;Albania;SH1 (Shkodër);alb.sh001;Route truncated at south end from Tirana to Fushë Milot
+2024-07-05;Albania;SH1 (Tirana);alb.sh001tir;New Route (remainder after interruption south of Thumanë due to the extension of A1)
+2024-07-05;Albania;SH8;alb.sh008;Route relocated through Tunelit të Llogarasë from Dukat i Ri to north of Palasë
 2023-09-19;Albania;A1 (Klos);alb.a001;Route extended at south end from SH30 at Rreshen to southern junction with SH1, and at north end from SH5 to Kosovo border
-2023-09-19;Albania;A1 (Thumane);alb.a001;Route merged with main segment
+2023-09-19;Albania;A1 (Thumanë);alb.a001;Route merged with main segment
 2023-09-19;Albania;A3;alb.a003;Route truncated at north end from SH56 to SH3 at Lundër
 2023-09-19;Albania;Unaza Lindore, Tiranë;alb.unalin;Route added
 2023-09-19;Albania;Unaza e Madhe, Tiranë;alb.unamad;Route added (consisting of truncated parts of A3 and SH56)
@@ -19,7 +23,7 @@ date;region;route;root;description
 2018-11-21;Albania;A3 (Tirane);alb.a003;Route extended at north end from Rruga Kristo Luarasi to SH56, and at south end from SH3 at Lunder to SH3 at Berzhite
 2018-11-21;Albania;A3 (Dobresh);alb.a003;Route merged into main route
 2018-05-15;Albania;SH93;alb.sh093;New Route
-2016-03-12;Albania;A1 (Thumane);alb.a001thu;New Route
+2016-03-12;Albania;A1 (Thumanë);alb.a001thu;New Route
 2016-03-12;Albania;A3;;Route Deleted
 2016-03-12;Albania;A3 (Dobresh);alb.a003dob;New Route
 2016-03-12;Albania;A3 (Elbasan);alb.a003elb;New Route
@@ -3422,6 +3426,7 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2024-07-05;Netherlands;N434;nld.n434;New Route
 2023-04-02;Netherlands;N515;nld.n515;New Route
 2023-04-02;Netherlands;N517;nld.n517;Route truncated at east end from Populierenlaan to Heideweg in Volendam
 2023-04-02;Netherlands;N519;nld.n519;Route truncated at north end from N200 to Dennenlaan south of Zwanenburg
@@ -6387,6 +6392,11 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2024-07-05;(USA) Arkansas;AR 10;ar.ar010;East end truncated from I-30 to President Clinton Ave.
+2024-07-05;(USA) Arkansas;AR 169 (Crossett);ar.ar169;North end truncated from Millyard Rd to US 82.
+2024-07-05;(USA) Arkansas;AR 226 (Tuckerman);;Route deleted.
+2024-07-05;(USA) Arkansas;AR 322 (Harrisburg);;Route deleted.
+2024-07-05;(USA) Arkansas;AR 384 (Balch);;Route deleted.
 2024-06-25;(USA) Arkansas;US 412;ar.us412;removed from US 412 Business (Walnut Ridge) and relocated onto US 63 & US 67.
 2024-06-25;(USA) Arkansas;US 412 Business (Walnut Ridge);ar.us412buswal;Route added.
 2024-06-25;(USA) Arkansas;AR 89 (Cabot);ar.ar089;North end truncated from AR 107 to AR 367. Section from AR 107 to US 67/167 is now a separate AR 89 (Pulaski County) route.
@@ -7329,6 +7339,10 @@ date;region;route;root;description
 2017-06-19;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended south from exit 215 to exit 211
 2015-10-10;(USA) Louisiana;US 371;la.us371;Removed from LA 177 and US84 and relocated onto a new two-lane east-west roadway between the LA 177 north split and the US 84 / LA 1 junction
 2015-09-03;(USA) Louisiana;I-49 (Belcher);la.i049bel;Extended north from exit 234 to the Arkansas state line
+2024-07-04;(USA) Maine;US 202;me.us202;Waypoint ME26_N moved from Shaker Rd to Maine Wildlife Parkway.
+2024-07-04;(USA) Maine;ME 4;me.me004;Waypoint ME26_N moved from Shaker Rd to Maine Wildlife Parkway.
+2024-07-04;(USA) Maine;ME 26;me.me026;Removed from Main St & Shaker Rd and relocated onto West Gray Rd & Maine Wildlife Parkway from the junction of routes 202, 4, 100 & 115 to Shaker Rd. Waypoint I-95 is now an alternate label for I-95(63) rather than the existing location at I-95(53).
+2024-07-04;(USA) Maine;ME 26A (Gray);me.me026;Deleted. redesignated as ME 26.
 2023-10-09;(USA) Maine;US 201;me.us201;SB alignment removed from ME11 and Main St in Waterville, and relocated onto existing NB alignment on Front St, which now carries two-way-traffic.
 2021-01-28;(USA) Maine;Paradise Hill Road, Acadia NP;me.parhillrd;North end truncated from ME 3 to Visitor Center Rd.
 2019-08-30;(USA) Maine;US 2;me.us002;Waypoint label ME232 moved from Church Street to the 2015 Martin Memorial Bridge.
