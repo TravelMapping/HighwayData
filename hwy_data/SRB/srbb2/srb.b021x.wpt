@@ -1,8 +1,8 @@
 B12 http://www.openstreetmap.org/?lat=45.270175&lon=19.842081
 TemPut_S +R100_W http://www.openstreetmap.org/?lat=45.267970&lon=19.843025
-BeoKej +R100 http://www.openstreetmap.org/?lat=45.263047&lon=19.857810
-KejSko +R100 http://www.openstreetmap.org/?lat=45.260729&lon=19.862251
-UliKosNada +R100 http://www.openstreetmap.org/?lat=45.254634&lon=19.875641
+BeoKej http://www.openstreetmap.org/?lat=45.263047&lon=19.857810
+KejSko http://www.openstreetmap.org/?lat=45.260729&lon=19.862251
+UliKosNada http://www.openstreetmap.org/?lat=45.254634&lon=19.875641
 PrePut_N +R100_N http://www.openstreetmap.org/?lat=45.248682&lon=19.876971
 R100_S http://www.openstreetmap.org/?lat=45.242715&lon=19.882164
 BukPut http://www.openstreetmap.org/?lat=45.232863&lon=19.884589
@@ -48,7 +48,7 @@ R340 http://www.openstreetmap.org/?lat=44.399694&lon=19.912934
 BabPut http://www.openstreetmap.org/?lat=44.348619&lon=19.903922
 UliMij http://www.openstreetmap.org/?lat=44.338859&lon=19.891477
 DivBrdo http://www.openstreetmap.org/?lat=44.313716&lon=19.877272
-B27 http://www.openstreetmap.org/?lat=44.273967&lon=19.883795
+B27_W +B27 http://www.openstreetmap.org/?lat=44.273967&lon=19.883795
 Uli9Maja http://www.openstreetmap.org/?lat=44.276041&lon=19.911947
 B27_E http://www.openstreetmap.org/?lat=44.280712&lon=19.926195
 R176 http://www.openstreetmap.org/?lat=44.267376&lon=19.922290
@@ -69,8 +69,8 @@ R174_S http://www.openstreetmap.org/?lat=43.994605&lon=19.916496
 R177 http://www.openstreetmap.org/?lat=43.907231&lon=20.003529
 Glu http://www.openstreetmap.org/?lat=43.878438&lon=20.001769
 UliBanaMil http://www.openstreetmap.org/?lat=43.848579&lon=20.035930
-B23_N http://www.openstreetmap.org/?lat=43.847713&lon=20.066442
-B23_S +B23 http://www.openstreetmap.org/?lat=43.834620&lon=20.038676
+B23_E +B23_N http://www.openstreetmap.org/?lat=43.847713&lon=20.066442
+B23_W +B23 +B23_S http://www.openstreetmap.org/?lat=43.834620&lon=20.038676
 +X629465 http://www.openstreetmap.org/?lat=43.830812&lon=20.073352
 UliBos http://www.openstreetmap.org/?lat=43.785471&lon=20.108671
 UliSteCol http://www.openstreetmap.org/?lat=43.764958&lon=20.094852
