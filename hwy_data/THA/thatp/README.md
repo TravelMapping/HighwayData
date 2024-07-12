@@ -58,6 +58,7 @@ Notes on routes:
 * 2416 [is signed](https://www.google.com/maps/@16.5394495,103.4296846,3a,32.8y,324.92h,86.74t/data=!3m7!1e1!3m5!1sYOGnbsaJcv8wswcoDNWkqg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DYOGnbsaJcv8wswcoDNWkqg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D324.91980338575036%26pitch%3D3.258328165512154%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2021).
 * 2442 seems to be unsigned (as of 2023).
 * 2444 seems to be unsigned (as of 2022).
+* 2483 [is signed](https://www.google.com/maps/@14.988105,104.9741124,3a,15y,242.94h,64.88t/data=!3m7!1e1!3m5!1sAkSWCASZFcsXXooWsBqrCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DAkSWCASZFcsXXooWsBqrCA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D242.93612227613576%26pitch%3D25.12126201627555%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3006 is unsigned (as of 2022).
 * 3033 seems to be unsigned near 32, but it is signed at 311.
 * 3045 [is signed](https://www.google.com/maps/@14.3396687,100.995594,3a,15y,109.6h,93.05t/data=!3m7!1e1!3m5!1sXuu7uxB4Bw86DOg_2Rbbow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXuu7uxB4Bw86DOg_2Rbbow%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D109.59991488517161%26pitch%3D-3.047340223724902%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024), though for some reason the numbers on km posts were painted over between 2021 and 2022.
