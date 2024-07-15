@@ -14,4 +14,3 @@
 
 
 **NOTES TO ROUTES:**
-- `B173` 2km segment west of Treuen was rededicated to district road on 1st January 2016 (also OSM) but it's still in mauttabelle.de (not in HB)
