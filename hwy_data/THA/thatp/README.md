@@ -52,16 +52,19 @@ Notes on routes:
 * 1412 [is signed](https://www.google.com/maps/@15.7026684,100.4616112,3a,32.8y,113.49h,80.3t/data=!3m7!1e1!3m5!1sXFEturUoVO8GZMoQQbly0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXFEturUoVO8GZMoQQbly0g%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D113.4908393418836%26pitch%3D9.700085045601028%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1419 [is signed](https://www.google.com/maps/@17.973873,100.0792194,3a,75y,252.36h,105.51t/data=!3m7!1e1!3m5!1sZgsiSr7HdMQDxb3UfeJw3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DZgsiSr7HdMQDxb3UfeJw3Q%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D252.35510531010942%26pitch%3D-15.507539716271353%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1421 is not in the GIS data, but it is signed (replacing the west end of 1152).
+* 2011 is not in the GIS data, but it [is signed](https://www.google.com/maps/@16.8990527,101.2301116,3a,15y,164.96h,87.02t/data=!3m7!1e1!3m5!1sanHDCrTNW-9EW_2xSBCDbw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DanHDCrTNW-9EW_2xSBCDbw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D164.95861879593156%26pitch%3D2.9837468613556695%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2022). With the lack of other signs, this is being treated as a remnant of a former route.
 * 2024 is not in the GIS data, but it [is signed](https://www.google.com/maps/@17.4490338,102.7928285,3a,15.5y,231.45h,86.21t/data=!3m7!1e1!3m5!1suNLeb1vBs4EKHVRpC-va6g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DuNLeb1vBs4EKHVRpC-va6g%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D231.45151230270707%26pitch%3D3.788451456099807%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2023). [Another sign](https://www.google.com/maps/@17.4261205,102.7769666,3a,18.1y,339.72h,89.45t/data=!3m7!1e1!3m5!1sXApxo_1Q31SAXok_Qa4B6Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXApxo_1Q31SAXok_Qa4B6Q%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D339.7212847497878%26pitch%3D0.5456321383730653%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) is badly faded.
 * 2136 is not in the GIS data, but it [is signed](https://www.google.com/maps/@16.3039588,104.1938143,3a,15y,68.64h,87.17t/data=!3m7!1e1!3m5!1sCTb5cz2kK-T5Z3LAsreqOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCTb5cz2kK-T5Z3LAsreqOw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D68.63619218490973%26pitch%3D2.833940080587851%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2022).
 * 2220 seems to be unsigned (as of 2022).
 * 2232 [is signed](https://www.google.com/maps/@15.9713232,105.0362554,3a,15y,324.64h,73.28t/data=!3m7!1e1!3m5!1sfWNY26gg7gxNHL6Lsh6AlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DfWNY26gg7gxNHL6Lsh6AlQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D324.6444940678161%26pitch%3D16.721461735466292%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 2252 [is signed](https://www.google.com/maps/@15.8635934,104.9260634,3a,15y,271.1h,76.78t/data=!3m7!1e1!3m5!1sVJrXoY_msiwPiLPlHWKujQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DVJrXoY_msiwPiLPlHWKujQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D271.09786417114105%26pitch%3D13.223887786979219%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
+* 2302 is not in the GIS data east of 2278, but it [is signed](https://www.google.com/maps/@16.6541386,101.1618132,3a,31.3y,326.74h,107.53t/data=!3m7!1e1!3m5!1sxKWRkbyJVOFsQsD0Wz0Wuw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DxKWRkbyJVOFsQsD0Wz0Wuw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D326.73820660722413%26pitch%3D-17.52724881097879%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2023).
 * 2324 [is signed as "enter the city" 22](https://www.google.com/maps/@17.3627335,103.0950057,3a,15.2y,88.07h,90.7t/data=!3m7!1e1!3m5!1sTzLj2ML5LkS_7swCY4wN7A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DTzLj2ML5LkS_7swCY4wN7A%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D88.0725548698146%26pitch%3D-0.6986428194667695%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), so has been mapped as 22Non.
 * 2347 is not in the GIS data, but it [is signed](https://www.google.com/maps/@16.7402086,101.2256863,3a,25.1y,94.04h,89.85t/data=!3m7!1e1!3m5!1syjFYej6LSc4IDJl-9Inhjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DyjFYej6LSc4IDJl-9Inhjw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D94.03624315286734%26pitch%3D0.14734498302256327%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2022).
 * 2416 [is signed](https://www.google.com/maps/@16.5394495,103.4296846,3a,32.8y,324.92h,86.74t/data=!3m7!1e1!3m5!1sYOGnbsaJcv8wswcoDNWkqg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DYOGnbsaJcv8wswcoDNWkqg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D324.91980338575036%26pitch%3D3.258328165512154%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2021).
 * 2442 seems to be unsigned (as of 2023).
 * 2444 seems to be unsigned (as of 2022).
+* 2465 is signed as [21](https://www.google.com/maps/@16.2647384,101.0471386,3a,15y,229.27h,88.07t/data=!3m7!1e1!3m5!1s91e8ipYmVTr_x2D6X0RQlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D91e8ipYmVTr_x2D6X0RQlQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D229.2689806933519%26pitch%3D1.9294793909374732%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) or [113](https://www.google.com/maps/@16.2620713,101.0470362,3a,15y,286.78h,88.41t/data=!3m7!1e1!3m5!1sTq8yXWImMdGriCfgFj02QA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DTq8yXWImMdGriCfgFj02QA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D286.7841997026729%26pitch%3D1.5851237505423939%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 2483 [is signed](https://www.google.com/maps/@14.988105,104.9741124,3a,15y,242.94h,64.88t/data=!3m7!1e1!3m5!1sAkSWCASZFcsXXooWsBqrCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DAkSWCASZFcsXXooWsBqrCA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D242.93612227613576%26pitch%3D25.12126201627555%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3006 is unsigned (as of 2022).
 * 3033 seems to be unsigned near 32, but it is signed at 311.
@@ -130,3 +133,85 @@ Notes on routes:
 * 4373 [is signed](https://www.google.com/maps/@11.7560138,99.7422258,3a,15y,56.17h,79.06t/data=!3m7!1e1!3m5!1sfL3oTJtMoq1_GOlJvig-wQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DfL3oTJtMoq1_GOlJvig-wQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D56.170686687737316%26pitch%3D10.936818580382749%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2023).
 
 [A rare AH2 on a km post!](https://www.google.com/maps/@9.1352446,99.1591663,3a,15y,260.89h,76.76t/data=!3m8!1e1!3m6!1sDSg3f5cuG5rYsB4yO7Ed4Q!2e0!5s20210701T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DDSg3f5cuG5rYsB4yO7Ed4Q%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D260.8883001274877%26pitch%3D13.241021510269945%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu)
+
+Rural road prefix table:
+
+|Province|||
+|-|-|-|
+|Amnat Charoen|อจ|Xc|
+|Ang Thong|อท|Xth|
+|Bangkok|กท|Kth|
+|Bueng Kan|บก|Bk|
+|Buri Ram|บร|Br|
+|Chachoengsao|ฉช|Chch|
+|Chai Nat|ชน|Chn|
+|Chaiyaphum|ชย|Chy|
+|Chanthaburi|จบ|Cb|
+|Chiang Mai|ชม|Chm|
+|Chiang Rai|ชร|Chr|
+|Chon Buri|ชบ|Chb|
+|Chumphon|ชพ|Chph|
+|Kalasin|กส|Ks|
+|Kamphaeng Phet|กพ|Kph|
+|Kanchanaburi|กจ|Kc|
+|Khon Kaen|ขก|Khk|
+|Krabi|กบ|Kb|
+|Lampang|ลป|Lp|
+|Lamphun|ลพ|Lph|
+|Loei|ลย|Ly|
+|Lop Buri|ลบ|Lb|
+|Mae Hong Son|มส|Ms|
+|Maha Sarakham|มค|Mkh|
+|Mukdahan|มห|Mh|
+|Nakhon Nayok|นย|Ny|
+|Nakhon Pathom|นฐ|Nth|
+|Nakhon Phanom|นพ|Nph|
+|Nakhon Ratchasima|นม|Nm|
+|Nakhon Sawan|นว|Nw|
+|Nakhon Si Thammarat|นศ|Ns|
+|Nan|นน|Nn|
+|Narathiwat|นธ|Nth|
+|Nong Bua Lam Phu|นภ|Nph|
+|Nong Khai|นค|Nkh|
+|Nonthaburi|นบ|Nb|
+|Pathum Thani|ปท|Pth|
+|Pattani|ปน|Pn|
+|Phangnga|พง|Phng|
+|Phatthalung|พท|Phth|
+|Phayao|พย|Phy|
+|Phetchabun|พช|Phch|
+|Phetchaburi|พบ|Phb|
+|Phichit|พจ|Phc|
+|Phitsanulok|พล|Phl|
+|Phra Nakhon Si Ayutthaya|อย|Xy|
+|Phrae|พร|Phr|
+|Phuket|ภก|Phk|
+|Prachin Buri|ปจ|Pc|
+|Prachuap Khiri Khan|ปข|Pkh|
+|Ranong|รน|Rn|
+|Ratchaburi|รบ|Rb|
+|Rayong|รย|Ry|
+|Roi Et|รอ|Rx|
+|Sa Kaeo|สก|Sk|
+|Sakon Nakhon|สน|Sn|
+|Samut Prakan|สป|Sp|
+|Samut Sakhon|สค|Skh|
+|Samut Songkhram|สส|Ss|
+|Saraburi|สบ|Sb|
+|Satun|สต|St|
+|Si Sa Ket|ศก|Sk|
+|Sing Buri|สห|Sh|
+|Songkhla|สข|Skh|
+|Sukhothai|สท|Sth|
+|Suphan Buri|สพ|Sph|
+|Surat Thani|สฎ|Sd|
+|Surin|สร|Sr|
+|Tak|ตก|Tk|
+|Trang|ตง|Tng|
+|Trat|ตร|Tr|
+|Ubon Ratchathani|อบ|Xb|
+|Udon Thani|อด|Xd|
+|Uthai Thani|อน|Xn|
+|Uttaradit|อต|Xt|
+|Yala|ยล|Yl|
+|Yasothon|ยส|Ys|
