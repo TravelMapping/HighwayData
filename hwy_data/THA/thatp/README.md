@@ -16,6 +16,7 @@ Notes on routes:
 * 24's and 212's shared endpoints are based on [this sign assembly](https://www.google.com/maps/@15.2356891,104.8551785,3a,15y,237.72h,85.6t/data=!3m7!1e1!3m5!1soUfWnqnLskWKMU7j_aqgwA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DoUfWnqnLskWKMU7j_aqgwA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D237.71945287278618%26pitch%3D4.396049988452631%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) on former (?) 2050.
 * 31 [seems to include the Don Muang Tollway](https://www.google.com/maps/@13.9212904,100.6023165,3a,15y,342.7h,83.18t/data=!3m7!1e1!3m5!1svwpIb9Q1F6DpdEG2GCgfMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DvwpIb9Q1F6DpdEG2GCgfMw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D342.70095099029186%26pitch%3D6.820454808865733%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) - but the portion north of roughly the city limits [is 38](https://www.google.com/maps/@13.9674213,100.6191468,3a,15y,135.57h,85.44t/data=!3m7!1e1!3m5!1sqrc07mJRUgiwvYxbAs_SkA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dqrc07mJRUgiwvYxbAs_SkA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D135.57436428875835%26pitch%3D4.560610324911394%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu)!
 * 42's route thru Sungai Kolok is from km posts; there is a gap in maintenance.
+* 106's north end is unclear; it is signed north from 1141 but perhaps nowhere beyond.
 * 108 is signed east from 1141, the east end per GIS data, but there doesn't seem to be any signage beyond.
 * 202's west end may be wrong; maintenance ends at 201 but it is clearly signed west of there.
 * 202's east end may be wrong.
@@ -50,6 +51,7 @@ Notes on routes:
 * 1377 seems to be unsigned (as of 2021).
 * 1399 seems to be unsigned (as of 2024).
 * 1413 is unsigned (as of 2023).
+* 1415 is in the wrong place in the GIS data. However, it may be unsigned in the correct place (as of 2023).
 * 1420 (a wye connection at 101 and 129) is unsigned.
 * 1422 [is signed](https://www.google.com/maps/@18.2276473,100.2089152,3a,24y,213.69h,86.94t/data=!3m7!1e1!3m5!1sGpqoRBHFIso1oz-BylwgVg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DGpqoRBHFIso1oz-BylwgVg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D213.69498071273188%26pitch%3D3.0573217858948567%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), though signs at the south end show 101 or [old 101](https://www.google.com/maps/@18.2108589,100.2000322,3a,19.3y,58.99h,85.47t/data=!3m7!1e1!3m5!1sKnFLGvHDTxYAgwC6usO5Ng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DKnFLGvHDTxYAgwC6usO5Ng%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D58.98739908101514%26pitch%3D4.527102548880123%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1425 seems to be unsigned (as of 2022).
