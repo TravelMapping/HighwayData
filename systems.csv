@@ -357,13 +357,16 @@ usawv;USA;West Virginia State Highways;TMbrown;4;active
 usawi;USA;Wisconsin State Highways;TMbrown;4;active
 usawy;USA;Wyoming State Highways;TMbrown;4;active
 zafn;ZAF;South Africa National Highways;TMgreen;3;active
+#zafns;ZAF;South Africa National Highways (split);TMgreen;3;active
 zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;active
+#zafp;ZAF;South Africa Main Provincial Roads (split);TMyellow;4;active
 zwer;ZWE;Zimbabwe Regional Roads;TMgreen;4;active
 zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;active
 #Preview Systems
 naca;NA;Rutas Centroamericanas;TMgreen;2;preview
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
+#zafrtr;AFR;SADC Regional Trunk Roads (split ZAF);TMlightsalmon;3;preview
 argrn;ARG;Argentina Rutas Nacionales;TMred;2;preview
 argsf;ARG;Argentina Select Freeways;TMteal;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
@@ -581,6 +584,7 @@ zmbm;ZMB;Zambia Main Roads;TMyellow;5;preview
 #Devel Systems
 #afrcu;AFR;UEMOA Community Roads;TMlightsalmon;3;devel
 afrtah;AFR;UNECA Trans-African Highways;TMred;2;devel
+#zaftah;AFR;UNECA Trans-African Highways (split ZAF);TMred;2;devel
 #agoen;AGO;Angola Estrada Nacional;TMgreen;3;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);TMred;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);TMred;3;devel
