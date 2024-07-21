@@ -126,6 +126,9 @@ Notes on routes:
 * 3517 is unsigned (as of 2023).
 * 3520 seems to be unsigned, but [at least one sign](https://www.google.com/maps/@14.3438411,100.8564974,3a,16.1y,11.42h,87.54t/data=!3m7!1e1!3m5!1sYUpRNlHWRzfEwc18Z5gbYA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DYUpRNlHWRzfEwc18Z5gbYA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D11.415943838405235%26pitch%3D2.4630168471173164%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) was present in 2019.
 * 3524 [is signed](https://www.google.com/maps/@13.8139423,100.0376627,3a,21.1y,214.81h,89.14t/data=!3m7!1e1!3m5!1sL0abKfrMGG7iYzJpZ7rbZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DL0abKfrMGG7iYzJpZ7rbZA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D214.81098737648873%26pitch%3D0.8621294380274094%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
+* 3532 seems to be unsigned (as of 2024).
+* 3533 seems to be unsigned (as of 2024).
+* 3534 is signed as SphTh1-026 (as of 2024).
 * 3541 is signed as Ny3001 (as of 2021).
 * 3542 is signed as Ny3027 (as of 2024).
 * 3543 seems to be unsigned.
