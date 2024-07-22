@@ -98,6 +98,7 @@ Notes on routes:
 * 2483 [is signed](https://www.google.com/maps/@14.988105,104.9741124,3a,15y,242.94h,64.88t/data=!3m7!1e1!3m5!1sAkSWCASZFcsXXooWsBqrCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DAkSWCASZFcsXXooWsBqrCA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D242.93612227613576%26pitch%3D25.12126201627555%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 2487 is only signed east of Sr6048/6052 (as of 2024).
 * 3006 is unsigned (as of 2022).
+* 3020 [is signed](https://www.google.com/maps/@14.7142003,100.7765517,3a,15y,18.41h,70.25t/data=!3m7!1e1!3m5!1sJTSVfJZbMyCcyPCjr1NuaA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DJTSVfJZbMyCcyPCjr1NuaA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D18.412711784376125%26pitch%3D19.745081090597353%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3033 seems to be unsigned near 32, but it is signed at 311.
 * 3035 is not in the GIS data, but it [is signed](https://www.google.com/maps/@14.0195125,100.5249435,3a,15y,265.75h,87.88t/data=!3m7!1e1!3m5!1sKZTt3AAIFNUge4YO7iEEOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DKZTt3AAIFNUge4YO7iEEOw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D265.75254980569406%26pitch%3D2.1179943874211773%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * 3045 [is signed](https://www.google.com/maps/@14.3396687,100.995594,3a,15y,109.6h,93.05t/data=!3m7!1e1!3m5!1sXuu7uxB4Bw86DOg_2Rbbow!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXuu7uxB4Bw86DOg_2Rbbow%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D109.59991488517161%26pitch%3D-3.047340223724902%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024), though for some reason the numbers on km posts were painted over between 2021 and 2022.
@@ -121,6 +122,7 @@ Notes on routes:
 * 3401 is not in the GIS data, but it [is signed](https://www.google.com/maps/@14.4047427,100.1585733,3a,15y,299.82h,100.01t/data=!3m7!1e1!3m5!1sblx6h-t2R3FkW8NdfwjZgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dblx6h-t2R3FkW8NdfwjZgw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D299.8173665376145%26pitch%3D-10.010105368466654%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * 3465 is not in the GIS data, but it [is signed](https://www.google.com/maps/@15.0440625,100.1462977,3a,39.4y,74.22h,99.6t/data=!3m7!1e1!3m5!1siLA42whXaATUZccwh4hHew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DiLA42whXaATUZccwh4hHew%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D74.2163583481493%26pitch%3D-9.598992137626226%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3501 [is signed](https://www.google.com/maps/@14.4173404,100.4381136,3a,27.3y,21.01h,85.96t/data=!3m7!1e1!3m5!1sxekFg36L4F-ui0lTmESTTg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DxekFg36L4F-ui0lTmESTTg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D21.009646244460214%26pitch%3D4.036634505161658%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
+* 3507 is signed, but its south end is [SphTh3-0005](https://www.google.com/maps/@14.4780188,100.1145845,3a,15y,317.07h,87.46t/data=!3m7!1e1!3m5!1sJxD5Zi30ASgyemx6vUefqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DJxD5Zi30ASgyemx6vUefqw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D317.0698496219621%26pitch%3D2.541868598602207%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3508 seems to be unsigned (as of 2024).
 * 3512 is in the wrong place in the GIS data.
 * 3517 is unsigned (as of 2023).
@@ -132,6 +134,7 @@ Notes on routes:
 * 3541 is signed as Ny3001 (as of 2021).
 * 3542 is signed as Ny3027 (as of 2024).
 * 3543 seems to be unsigned.
+* 3547 seems to be unsigned (as of 2024).
 * 3559 is unsigned (as of 2022).
 * 3560 (a ramp at the north 1/362 interchange?) seems to be unsigned.
 * 3567 seems to be unsigned (as of 2023).
