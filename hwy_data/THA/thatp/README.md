@@ -135,6 +135,7 @@ Notes on routes:
 * 3542 is signed as Ny3027 (as of 2024).
 * 3543 seems to be unsigned.
 * 3547 seems to be unsigned (as of 2024).
+* 3553 is unsigned (as of 2022).
 * 3559 is unsigned (as of 2022).
 * 3560 (a ramp at the north 1/362 interchange?) seems to be unsigned.
 * 3567 seems to be unsigned (as of 2023).
