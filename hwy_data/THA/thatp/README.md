@@ -145,6 +145,7 @@ Notes on routes:
 * 3560 (a ramp at the north 1/362 interchange?) seems to be unsigned.
 * 3567 seems to be unsigned (as of 2023).
 * 3573 [is signed](https://www.google.com/maps/@12.6585203,100.9530643,3a,15y,292.94h,69.52t/data=!3m8!1e1!3m6!1s1LCifJW4a7aEFslHK8cBTA!2e0!5s20190201T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D1LCifJW4a7aEFslHK8cBTA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D292.9444925710048%26pitch%3D20.48465636288165%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (though it has faded pretty badly).
+* 3584 seems to be unsigned (as of 2024).
 * 3591 [is signed](https://www.google.com/maps/@14.1205133,100.565551,3a,15y,144.65h,83.7t/data=!3m7!1e1!3m5!1stp2BEKTDji9n0QYDaalOTw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dtp2BEKTDji9n0QYDaalOTw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D144.65356238713628%26pitch%3D6.2977077665201335%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3600 [is signed](https://www.google.com/maps/@15.8959744,100.3116117,3a,16y,193.14h,72.65t/data=!3m7!1e1!3m5!1sd2SXHsoqCNlZ6kn2JYBCnw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dd2SXHsoqCNlZ6kn2JYBCnw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D193.14366340944326%26pitch%3D17.351044177429486%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3645 is unsigned (as of 2022).
