@@ -357,13 +357,16 @@ usawv;USA;West Virginia State Highways;TMbrown;4;active
 usawi;USA;Wisconsin State Highways;TMbrown;4;active
 usawy;USA;Wyoming State Highways;TMbrown;4;active
 zafn;ZAF;South Africa National Highways;TMgreen;3;active
+#zafns;ZAF;South Africa National Highways (split);TMgreen;3;active
 zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;active
+#zafp;ZAF;South Africa Main Provincial Roads (split);TMyellow;4;active
 zwer;ZWE;Zimbabwe Regional Roads;TMgreen;4;active
 zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;active
 #Preview Systems
 naca;NA;Rutas Centroamericanas;TMgreen;2;preview
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
+#zafrtr;AFR;SADC Regional Trunk Roads (split ZAF);TMlightsalmon;3;preview
 argrn;ARG;Argentina Rutas Nacionales;TMred;2;preview
 argsf;ARG;Argentina Select Freeways;TMteal;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
@@ -381,6 +384,7 @@ auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;preview
 autl3;AUT;Lower Austria Landesstraßen L 2-178;TMyellow;5;preview
 autl31;AUT;Lower Austria Landesstraßen L 1000s;TMyellow;5;preview
 autl32;AUT;Lower Austria Landesstraßen L 2000s;TMyellow;5;preview
+autl37;AUT;Lower Austria Landesstraßen L 7000s;TMyellow;5;preview
 autl42;AUT;Upper Austria Landesstraßen 2. Ordnung;TMyellow;5;preview
 autl6;AUT;Styria Landesstraßen L;TMyellow;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
@@ -408,6 +412,7 @@ chlrn;CHL;Chile Rutas Nacionales;TMred;2;preview
 chlsf;CHL;Chile Select Freeways;TMteal;3;preview
 chng;CHN;China National Expressways;TMblue;1;preview
 chnah;CHN;China UNESCAP Asian Highways;TMred;3;preview
+chngd;CHN;Guangdong Provincial Expressways;TMyellow;2;preview
 cogn;COG;Congo Routes Nationales;TMgreen;4;preview
 colrn;COL;Colombia Red Vial Nacional;TMred;2;preview
 colsf;COL;Colombia Select Freeways;TMteal;3;preview
@@ -538,6 +543,7 @@ mmrah;MMR;Myanmar UNESCAP Asian Highways;TMred;3;preview
 mozn;MOZ;Mozambique Estrada Nacional;TMgreen;4;preview
 mwim;MWI;Malawi Main Roads;TMgreen;4;preview
 mysjp;MYS;Malaysia Jalan Persekutuan;TMbrown;4;preview
+myssf;MYS;Malaysia Select Freeways;TMteal;3;preview
 nicnic;NIC;Nicaragua Red Vial Nacional;TMred;3;preview
 nplah;NPL;Nepal UNESCAP Asian Highways;TMred;3;preview
 nplh;NPL;Nepal Highways;TMlightsalmon;4;preview
@@ -555,7 +561,11 @@ slvsf;SLV;El Salvador Select Freeways;TMteal;3;preview
 srbr;SRB;Serbia Državni Putevi IIA;TMyellow;5;preview
 srbrb;SRB;Serbia Državni Putevi IIB;TMgray;5;preview
 swzmr;SWZ;Eswatini Main Roads;TMgreen;4;preview
-thaah;THA;Thailand UNESCAP Asian Highways;TMred;3;preview
+tham;THA;Thailand Motorways;TMblue;1;preview
+thaexat;THA;Expressway Authority of Thailand;TMgreen;2;preview
+thaah;THA;Thailand UNESCAP/ASEAN Asian Highways;TMred;3;preview
+thasf;THA;Thailand Select Freeways;TMteal;3;preview
+thatp;THA;Thailand Thangluang Phaendin (incomplete);TMbrown;4;preview
 ttoh;TTO;Trinidad & Tobago Highways;TMred;3;preview
 ttomr;TTO;Trinidad & Tobago Main Roads;TMbrown;4;preview
 tunrn;TUN;Tunisia Routes Nationales;TMgreen;4;preview
@@ -570,12 +580,14 @@ vena;VEN;Venezuela Autopistas;TMblue;1;preview
 vent;VEN;Venezuela Vías Troncales;TMred;2;preview
 vnmct;VNM;Vietnam Cao Toc;TMblue;1;preview
 vnmah;VNM;Vietnam UNESCAP Asian Highways;TMred;3;preview
-zaff;ZAF;South Africa Select Freeways;TMcyan;2;preview
+zaff;ZAF;South Africa Select Freeways;TMblue;1;preview
+#zaffs;ZAF;South Africa Select Freeways (split);TMblue;1;preview
 zmbt;ZMB;Zambia Trunk Roads;TMgreen;4;preview
 zmbm;ZMB;Zambia Main Roads;TMyellow;5;preview
 #Devel Systems
 #afrcu;AFR;UEMOA Community Roads;TMlightsalmon;3;devel
 afrtah;AFR;UNECA Trans-African Highways;TMred;2;devel
+#zaftah;AFR;UNECA Trans-African Highways (split ZAF);TMred;2;devel
 #agoen;AGO;Angola Estrada Nacional;TMgreen;3;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);TMred;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);TMred;3;devel
@@ -583,7 +595,6 @@ autl33;AUT;Lower Austria Landesstraßen L 3000s;TMyellow;5;devel
 autl34;AUT;Lower Austria Landesstraßen L 4000s;TMyellow;5;devel
 autl35;AUT;Lower Austria Landesstraßen L 5000s;TMyellow;5;devel
 autl36;AUT;Lower Austria Landesstraßen L 6000s;TMyellow;5;devel
-autl37;AUT;Lower Austria Landesstraßen L 7000s;TMyellow;5;devel
 autl38;AUT;Lower Austria Landesstraßen L 8000s;TMyellow;5;devel
 cannss;CAN;Nova Scotia Scenic Travelways;TMyellow;5;devel
 canons;CAN;Ontario Secondary Highways;TMyellow;5;devel
