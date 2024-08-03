@@ -60,6 +60,7 @@ Notes on routes:
 * 1354 seems to be in the wrong place (on Chr1056) in the GIS data.
 * 1363 is unsigned (as of 2024).
 * 1368 ([old 101](https://www.google.com/maps/@17.0014095,99.7913243,3a,15y,241.5h,68.53t/data=!3m8!1e1!3m6!1spw0Jh7j4w-VOvCBoIozNoQ!2e0!5s20140101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dpw0Jh7j4w-VOvCBoIozNoQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D241.49631660040401%26pitch%3D21.466126243616984%26thumbfov%3D90!7i13312!8i6656?coh=205410&entry=ttu)) seems to be unsigned (as of 2023).
+* 1375 [is signed](https://www.google.com/maps/@16.1202357,99.9391238,3a,15y,174.2h,58.18t/data=!3m7!1e1!3m5!1sNjDt8VKie0wZp4wh0QfuHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DNjDt8VKie0wZp4wh0QfuHA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D174.20369127400497%26pitch%3D31.816571997038537%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1377 seems to be unsigned (as of 2021).
 * 1380 seems to be unsigned (as of 2024).
 * 1399 seems to be unsigned (as of 2024).
@@ -173,6 +174,7 @@ Notes on routes:
 * 3606 [is signed](https://www.google.com/maps/@13.58184,100.9509287,3a,15y,150.17h,83.84t/data=!3m7!1e1!3m5!1sE4nb_PddB4W0BTS9JOrxKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DE4nb_PddB4W0BTS9JOrxKA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D150.16562694311676%26pitch%3D6.156359404620275%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3609 [is signed](https://www.google.com/maps/@13.572711,100.9502719,3a,15y,305.89h,87.3t/data=!3m7!1e1!3m5!1sSqpFsaL9t8Demn19KZRJAQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DSqpFsaL9t8Demn19KZRJAQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D305.885232404185%26pitch%3D2.701222714670365%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3620 seems to be unsigned (as of 2023).
+* 3621 seems to be unsigned (as of 2022).
 * 3623 [is signed](https://www.google.com/maps/@15.4085054,101.3649029,3a,15y,353.07h,86t/data=!3m7!1e1!3m5!1sHrQ5aLBwe1DZSyBIMpfWBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DHrQ5aLBwe1DZSyBIMpfWBg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D353.07366829943504%26pitch%3D4.004083882701565%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu). The GIS data shows it continuing north, but the sign says it ends here.
 * 3624 [is signed](https://www.google.com/maps/@15.4472344,101.3549187,3a,17.2y,163.95h,85.96t/data=!3m7!1e1!3m5!1sn5KRGCWNRg8rIsvgMLOutA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dn5KRGCWNRg8rIsvgMLOutA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D163.95230678127518%26pitch%3D4.041223259032847%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu). The GIS data shows it continuing south, but the sign says it ends here.
 * 3626 is signed as part of 3604 (as of 2023).
