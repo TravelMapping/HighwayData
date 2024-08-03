@@ -163,6 +163,7 @@ Notes on routes:
 * 3553 is unsigned (as of 2022).
 * 3559 is unsigned (as of 2022).
 * 3560 (a ramp at the north 1/362 interchange?) seems to be unsigned.
+* 3561 seems to be unsigned (as of 2023); [an older sign](https://www.google.com/maps/@15.6632039,100.1568326,3a,15y,54.04h,89.24t/data=!3m7!1e1!3m5!1s40A9Qv-EIjIXtrWTMLSQNw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D40A9Qv-EIjIXtrWTMLSQNw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D54.036277900479035%26pitch%3D0.7621055242804431%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) calls it 3001, so it is mapped as 3001Rai.
 * 3563 seems to be unsigned (as of 2023).
 * 3567 seems to be unsigned (as of 2023).
 * 3573 [is signed](https://www.google.com/maps/@12.6585203,100.9530643,3a,15y,292.94h,69.52t/data=!3m8!1e1!3m6!1s1LCifJW4a7aEFslHK8cBTA!2e0!5s20190201T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D1LCifJW4a7aEFslHK8cBTA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D292.9444925710048%26pitch%3D20.48465636288165%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (though it has faded pretty badly).
