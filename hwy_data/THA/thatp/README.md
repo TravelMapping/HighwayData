@@ -150,8 +150,9 @@ Notes on routes:
 * 3385's east end is unclear. The GIS data has it end west of 21, but signs point it both ways from 21; however, all that exists east of 21 may be [faded km posts](https://www.google.com/maps/@14.7065817,100.9000972,3a,15y,355.09h,76.57t/data=!3m7!1e1!3m5!1shhuSq8_ExFTotDLJEFLhng!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DhhuSq8_ExFTotDLJEFLhng%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D355.0940317717318%26pitch%3D13.430343387523152%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3392 is not in the GIS data, but it [is signed](https://www.google.com/maps/@12.7283167,101.1463717,3a,37.6y,217.97h,115.93t/data=!3m7!1e1!3m5!1sPu0WpxqNHnRWXy_lYffkyw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DPu0WpxqNHnRWXy_lYffkyw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D217.971708221103%26pitch%3D-25.92684326246672%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * 3401 is not in the GIS data, but it [is signed](https://www.google.com/maps/@14.4047427,100.1585733,3a,15y,299.82h,100.01t/data=!3m7!1e1!3m5!1sblx6h-t2R3FkW8NdfwjZgw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dblx6h-t2R3FkW8NdfwjZgw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D299.8173665376145%26pitch%3D-10.010105368466654%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024). However, another 3401 is in the GIS data.
+* 3403 [is signed](https://www.google.com/maps/@13.546129,100.0977246,3a,44.9y,341.63h,82.73t/data=!3m7!1e1!3m5!1soO2Dn85DcFyplQjAUkK1lg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.270488881403139%26panoid%3DoO2Dn85DcFyplQjAUkK1lg%26yaw%3D341.626400866589!7i16384!8i8192?coh=205410&entry=ttu).
 * 3420's east end is per the GIS data; a few remnant signs show it continuing past 3330.
-* 3423 seems to have become [Skh6008](https://www.google.com/maps/@13.5389244,100.2888613,3a,16y,210.43h,91.46t/data=!3m7!1e1!3m5!1s16iHM27xBvfBRLNZQXw8LA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D16iHM27xBvfBRLNZQXw8LA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D210.42694292588553%26pitch%3D-1.4579260001671912%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), [though at least one shield](https://www.google.com/maps/@13.54369,100.2867225,3a,16.8y,128.34h,86.77t/data=!3m7!1e1!3m5!1s0yMUQYYkt2rzi_mkK3aCjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D0yMUQYYkt2rzi_mkK3aCjA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D128.34014963077777%26pitch%3D3.2327032888982927%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) still exists (as of 2024).  
+* 3423 seems to have become [Skhr6008](https://www.google.com/maps/@13.5389244,100.2888613,3a,16y,210.43h,91.46t/data=!3m7!1e1!3m5!1s16iHM27xBvfBRLNZQXw8LA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D16iHM27xBvfBRLNZQXw8LA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D210.42694292588553%26pitch%3D-1.4579260001671912%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), [though at least one shield](https://www.google.com/maps/@13.54369,100.2867225,3a,16.8y,128.34h,86.77t/data=!3m7!1e1!3m5!1s0yMUQYYkt2rzi_mkK3aCjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D0yMUQYYkt2rzi_mkK3aCjA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D128.34014963077777%26pitch%3D3.2327032888982927%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) still exists (as of 2024).  
 * 3442 is not in the GIS data, but it [is signed](https://www.google.com/maps/@14.1659419,100.5144244,3a,15y,89.48h,89.05t/data=!3m7!1e1!3m5!1sUWYrgLUim4iViiOK12_x1g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DUWYrgLUim4iViiOK12_x1g%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D89.47836262636206%26pitch%3D0.9524064899981397%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2023). However, [other signs](https://www.google.com/maps/@14.1648773,100.5641081,3a,15y,231.91h,86.06t/data=!3m7!1e1!3m5!1sK19KhlNcixOquujZRBIiLw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DK19KhlNcixOquujZRBIiLw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D231.91302797787563%26pitch%3D3.93974842179108%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) call it Xy3048.
 * 3465 is not in the GIS data, but it [is signed](https://www.google.com/maps/@15.0440625,100.1462977,3a,39.4y,74.22h,99.6t/data=!3m7!1e1!3m5!1siLA42whXaATUZccwh4hHew!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DiLA42whXaATUZccwh4hHew%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D74.2163583481493%26pitch%3D-9.598992137626226%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3501 [is signed](https://www.google.com/maps/@14.4173404,100.4381136,3a,27.3y,21.01h,85.96t/data=!3m7!1e1!3m5!1sxekFg36L4F-ui0lTmESTTg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DxekFg36L4F-ui0lTmESTTg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D21.009646244460214%26pitch%3D4.036634505161658%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
@@ -195,7 +196,7 @@ Notes on routes:
 * 3626 is signed as part of 3604 (as of 2023).
 * 3644 is not in the GIS data, but it [is signed](https://www.google.com/maps/@13.6305154,99.8393777,3a,25.1y,176.25h,84.29t/data=!3m7!1e1!3m5!1svN4L1shcy9mkTvvkT1dXhw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.707016223666415%26panoid%3DvN4L1shcy9mkTvvkT1dXhw%26yaw%3D176.2482573273227!7i16384!8i8192?coh=205410&entry=ttu) (as of 2023).
 * 3645 is unsigned (as of 2022).
-* 3651 is not in the GIS data, but it [is signed](https://www.google.com/maps/@13.6490671,100.3014141,3a,46.9y,85h,77.72t/data=!3m7!1e1!3m5!1sFMd_WHMCqMknjxsn3bBkFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DFMd_WHMCqMknjxsn3bBkFA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D84.99539381453705%26pitch%3D12.275841190513418%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) along former Skh4018 (as of 2024).
+* 3651 is not in the GIS data, but it [is signed](https://www.google.com/maps/@13.6490671,100.3014141,3a,46.9y,85h,77.72t/data=!3m7!1e1!3m5!1sFMd_WHMCqMknjxsn3bBkFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DFMd_WHMCqMknjxsn3bBkFA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D84.99539381453705%26pitch%3D12.275841190513418%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) along former Skhr4018 (as of 2024).
 * 3701 [is signed](https://www.google.com/maps/@13.5695771,100.9838912,3a,15y,276.17h,87.48t/data=!3m7!1e1!3m5!1sAlzqis43xlox1RwbqgEK5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DAlzqis43xlox1RwbqgEK5A%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D276.1662298058394%26pitch%3D2.524861863029628%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), but only on some segments.
 * 3702 [is signed](https://www.google.com/maps/@13.5692346,100.9832259,3a,15y,68.16h,84.42t/data=!3m7!1e1!3m5!1sQYEqjvBjdJLyx0UhxbBwZQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DQYEqjvBjdJLyx0UhxbBwZQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D68.16419914627429%26pitch%3D5.578966716547328%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), but only on some segments.
 * 3901 [is signed](https://www.google.com/maps/@13.6636547,100.4052966,3a,25.1y,341.69h,86.72t/data=!3m7!1e1!3m5!1suIk-Hr4snQzixbh3Zs3pHw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DuIk-Hr4snQzixbh3Zs3pHw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D341.6853641110684%26pitch%3D3.2769356304273884%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), but only on some segments.
@@ -203,6 +204,7 @@ Notes on routes:
 * 4011 [is signed west of 41](https://www.google.com/maps/@9.3884706,99.168985,3a,17.6y,262.47h,86.82t/data=!3m7!1e1!3m5!1sgi32nJh6IW3yrr9qLmNxVA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dgi32nJh6IW3yrr9qLmNxVA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D262.47312303165%26pitch%3D3.1835327066999923%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), but the GIS data (and signs on 4) shows it only east.
 * 4012 is not in the GIS data, but it [is signed](https://www.google.com/maps/@8.3812999,99.9724554,3a,60.3y,28.96h,93.9t/data=!3m7!1e1!3m5!1s--IcPm31RoYT_N5pja91ig!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D--IcPm31RoYT_N5pja91ig%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D28.96007672024135%26pitch%3D-3.900326085476962%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * 4013 [is presumably an error](https://www.google.com/maps/@18.8404665,100.7386364,3a,22.2y,286.32h,89.9t/data=!3m7!1e1!3m5!1su1bbSzN8-H1hlzlLbSokAA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Du1bbSzN8-H1hlzlLbSokAA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D286.3178398127034%26pitch%3D0.0994901933371608%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) for Nn4013.
+* 4017 is not in the GIS data, but it [is signed](https://www.google.com/maps/@13.7480345,100.1209598,3a,15y,11.44h,83.77t/data=!3m7!1e1!3m5!1sU09k8_BnhA7GetcffQZ5dA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.234153620410737%26panoid%3DU09k8_BnhA7GetcffQZ5dA%26yaw%3D11.435242510438286!7i16384!8i8192?coh=205410&entry=ttu) (as of 2022). However, there are no signs at 375, so this is treated as remnant signage for a former route.
 * 4030 [is signed](https://www.google.com/maps/@8.0167367,98.3220439,3a,29.9y,208.12h,82t/data=!3m7!1e1!3m5!1sHMV2U3ePxIp3GIHjAOQwKA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DHMV2U3ePxIp3GIHjAOQwKA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D208.12162272136078%26pitch%3D7.997444860625166%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 4039 is not in the GIS data, but it [is signed](https://www.google.com/maps/@8.3940416,98.7429139,3a,19.3y,11.37h,101.8t/data=!3m7!1e1!3m5!1sJKUfrZ8bRRWbtzGMD3vXBg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DJKUfrZ8bRRWbtzGMD3vXBg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D11.374584741341213%26pitch%3D-11.797974035633516%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu). However, 4039 from the GIS data [is also signed](https://www.google.com/maps/@8.7705187,99.3449384,3a,18.6y,37.48h,85.98t/data=!3m7!1e1!3m5!1sANgpj6dFY_S98r0gFeylQw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DANgpj6dFY_S98r0gFeylQw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D37.47619423913355%26pitch%3D4.023939316431623%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 4040 is not in the GIS data, but it [is signed](https://www.google.com/maps/@8.5056536,98.6808611,3a,15.1y,193.82h,87.13t/data=!3m7!1e1!3m5!1seDkQwoFA1S8fLGN7p6_1eQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DeDkQwoFA1S8fLGN7p6_1eQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D193.8231429953683%26pitch%3D2.869388630837747%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) with an old faded shield, so it probably no longer exists.
@@ -282,13 +284,13 @@ Rural road prefix table:
 |Maha Sarakham|มค|Mkh|
 |Mukdahan|มห|Mh|
 |Nakhon Nayok|นย|Ny|
-|Nakhon Pathom|นฐ|Nth|
+|Nakhon Pathom|นฐ|Nthm|
 |Nakhon Phanom|นพ|Nph|
 |Nakhon Ratchasima|นม|Nm|
 |Nakhon Sawan|นว|Nw|
 |Nakhon Si Thammarat|นศ|Ns|
 |Nan|นน|Nn|
-|Narathiwat|นธ|Nth|
+|Narathiwat|นธ|Nthw|
 |Nong Bua Lam Phu|นภ|Nph|
 |Nong Khai|นค|Nkh|
 |Nonthaburi|นบ|Nb|
@@ -310,16 +312,16 @@ Rural road prefix table:
 |Ratchaburi|รบ|Rb|
 |Rayong|รย|Ry|
 |Roi Et|รอ|Rx|
-|Sa Kaeo|สก|Sk|
+|Sa Kaeo|สก|Skw|
 |Sakon Nakhon|สน|Sn|
 |Samut Prakan|สป|Sp|
-|Samut Sakhon|สค|Skh|
+|Samut Sakhon|สค|Skhr|
 |Samut Songkhram|สส|Ss|
 |Saraburi|สบ|Sb|
 |Satun|สต|St|
-|Si Sa Ket|ศก|Sk|
+|Si Sa Ket|ศก|Sks|
 |Sing Buri|สห|Sh|
-|Songkhla|สข|Skh|
+|Songkhla|สข|Skhl|
 |Sukhothai|สท|Sth|
 |Suphan Buri|สพ|Sph|
 |Surat Thani|สฎ|Sd|
@@ -333,3 +335,11 @@ Rural road prefix table:
 |Uttaradit|อต|Xt|
 |Yala|ยล|Yl|
 |Yasothon|ยส|Ys|
+
+The following should be shorter, but an extra letter has been added to disambiguate (due to multiple Thai letters mapping to a single Latin letter):
+* Nakhon Pathom: Nth -> Nthm
+* Narathiwat: Nth -> Nthw
+* Sa Kaeo: Sk -> Skw
+* Si Sa Ket: Sk -> Sks
+* Samut Sakhon: Skh -> Skhr
+* Songkhla: Skh -> Skhl
