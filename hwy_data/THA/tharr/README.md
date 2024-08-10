@@ -94,4 +94,4 @@ The following should be shorter, but an extra letter has been added to disambigu
 * Songkhla: Skh -> Skhl
 
 Notes on routes:
-* Xy3011 may no longer exist; km posts were painted over between 2019 and 2021, but signs still exist at each end.
+* Xy3011's km posts were painted over between 2019 and 2021, but [new ones](https://www.google.com/maps/@14.2186746,100.4961082,3a,55.4y,12.72h,58.42t/data=!3m7!1e1!3m5!1sBN6Gqa0MH0VPNUVn533yJg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D31.57602881518997%26panoid%3DBN6Gqa0MH0VPNUVn533yJg%26yaw%3D12.723113730840183!7i16384!8i8192?coh=205410&entry=ttu) were installed between 2022 and 2023. The reasons are unknown, but the route definitely still exists.
