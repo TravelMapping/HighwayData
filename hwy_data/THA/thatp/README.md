@@ -6,7 +6,6 @@ Motorways (currently open or under construction: 6, 7, 9, 81, 82) are preceded w
 
 Sources:
 * http://bmm.doh.go.th/website/index.php/road-maintenance-statistics/control-distance-map (maps and GIS data)
-* [translated info about rural roads from Thai Wikipedia](https://th-m-wikipedia-org.translate.goog/wiki/%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%9A%E0%B8%97)
 
 Notes on routes:
 * 1's south end (as maintained) is at the Bangkok city limits (ShaBekRd), except for the underpass at 304, but [at least one sign](https://www.google.com/maps/@13.8711996,100.5940113,3a,15.8y,18.43h,92.42t/data=!3m7!1e1!3m5!1ssoBJUsaScb8SP2uSVLRELg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DsoBJUsaScb8SP2uSVLRELg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D18.427641396185084%26pitch%3D-2.4228312446344376%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) holds on at 304, and [it is signed to the south at 302/351](https://www.google.com/maps/@13.8418794,100.5717465,3a,31.3y,114.71h,94.66t/data=!3m7!1e1!3m5!1sEgxPXUwMevl2-oyBd7bAcw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DEgxPXUwMevl2-oyBd7bAcw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D114.7136247296861%26pitch%3D-4.656041473814284%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) and possibly farther.
@@ -126,6 +125,8 @@ Notes on routes:
 * 3150 is not in the GIS data, but it is signed at the [east end](https://www.google.com/maps/@12.6161678,102.1409454,3a,16.4y,34.19h,90.9t/data=!3m7!1e1!3m5!1sK3PiWxrDhCpbsaPnSzhS_Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DK3PiWxrDhCpbsaPnSzhS_Q%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D34.19156214558216%26pitch%3D-0.8965996341197808%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2023) and [west end](https://www.google.com/maps/@12.6162239,102.1039761,3a,15.3y,52.49h,87.75t/data=!3m7!1e1!3m5!1sEsAEPNvXx4hDy7Mp9DjJXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DEsAEPNvXx4hDy7Mp9DjJXQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D52.4908231526358%26pitch%3D2.247897347712083%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * 3154 is still signed on [at least one faded sign](https://www.google.com/maps/@12.6017034,102.118391,3a,34.3y,97.08h,87.3t/data=!3m7!1e1!3m5!1siBDPyRTsYC6pou-TEZ4nxg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DiBDPyRTsYC6pou-TEZ4nxg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D97.08347876289089%26pitch%3D2.695031147889466%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 3171 [is signed](https://www.google.com/maps/@13.090191,99.8970939,3a,34.3y,57.86h,86.63t/data=!3m7!1e1!3m5!1sXFovH5K2MULba8JAD3m5vA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXFovH5K2MULba8JAD3m5vA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D57.862192445517174%26pitch%3D3.3668674319618077%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
+* 3176 [is signed](https://www.google.com/maps/@13.1281416,99.9492284,3a,15y,96.42h,77.93t/data=!3m7!1e1!3m5!1skzP9f5AU5B_HOM0alolJtA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D12.074149675102092%26panoid%3DkzP9f5AU5B_HOM0alolJtA%26yaw%3D96.41528873748396!7i16384!8i8192?coh=205410&entry=ttu).
+* 3177's east end may be wrong; it [is signed both ways from Ss2021](https://www.google.com/maps/@13.0072827,100.0567591,3a,32.8y,349.61h,84.92t/data=!3m7!1e1!3m5!1sNzd-wV_g7Zvzb33tlu1WgQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.075108676981628%26panoid%3DNzd-wV_g7Zvzb33tlu1WgQ%26yaw%3D349.6128138213107!7i16384!8i8192?coh=205410&entry=ttu).
 * 3180's south end may be wrong.
 * 3202 is not in the GIS data, but it [is signed](https://www.google.com/maps/@13.8382481,100.6626811,3a,39.4y,269.06h,89.44t/data=!3m7!1e1!3m5!1sfyyFOGMEMJGbAJYjVoMIdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DfyyFOGMEMJGbAJYjVoMIdg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D269.0632758818714%26pitch%3D0.5571269596761823%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * 3207 is not in the GIS data, but it [is signed](https://www.google.com/maps/@13.5633508,99.7346202,3a,24y,253.86h,81.49t/data=!3m7!1e1!3m5!1sbpOzrkCDVbmfe7fVGZ1YTw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.50700540216539%26panoid%3DbpOzrkCDVbmfe7fVGZ1YTw%26yaw%3D253.86275762439786!7i16384!8i8192?coh=205410&entry=ttu) (as of 2023). However, [brand new signs](https://www.google.com/maps/@13.5574827,99.6465323,3a,41.8y,92.36h,85.12t/data=!3m7!1e1!3m5!1sp_LlOcMKgo3q6phJFlF0Qg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.880115918883618%26panoid%3Dp_LlOcMKgo3q6phJFlF0Qg%26yaw%3D92.3574881854638!7i16384!8i8192?coh=205410&entry=ttu) show that it is now Rb4127.
@@ -253,93 +254,3 @@ Notes on routes:
 [An older style of rural road shield?](https://www.google.com/maps/@15.7693079,103.7350699,3a,15y,253.46h,79.69t/data=!3m7!1e1!3m5!1sV8LoUtCtuYFIE_joGe2P-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DV8LoUtCtuYFIE_joGe2P-A%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D253.46320115162092%26pitch%3D10.306931447929543%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu)
 
 [New local road sign in front of old style](https://www.google.com/maps/@13.6837415,99.8695494,3a,15y,277.33h,87.49t/data=!3m7!1e1!3m5!1skU2dbcVkRCZ3hCa3FGxfnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.5133119188007527%26panoid%3DkU2dbcVkRCZ3hCa3FGxfnQ%26yaw%3D277.32881764505436!7i16384!8i8192?coh=205410&entry=ttu) (not sure that old is a local road)
-
-Rural road prefix table:
-
-|Province|||
-|-|-|-|
-|Amnat Charoen|อจ|Xc|
-|Ang Thong|อท|Xth|
-|Bangkok|กท|Kth|
-|Bueng Kan|บก|Bk|
-|Buri Ram|บร|Br|
-|Chachoengsao|ฉช|Chch|
-|Chai Nat|ชน|Chn|
-|Chaiyaphum|ชย|Chy|
-|Chanthaburi|จบ|Cb|
-|Chiang Mai|ชม|Chm|
-|Chiang Rai|ชร|Chr|
-|Chon Buri|ชบ|Chb|
-|Chumphon|ชพ|Chph|
-|Kalasin|กส|Ks|
-|Kamphaeng Phet|กพ|Kph|
-|Kanchanaburi|กจ|Kc|
-|Khon Kaen|ขก|Khk|
-|Krabi|กบ|Kb|
-|Lampang|ลป|Lp|
-|Lamphun|ลพ|Lph|
-|Loei|ลย|Ly|
-|Lop Buri|ลบ|Lb|
-|Mae Hong Son|มส|Ms|
-|Maha Sarakham|มค|Mkh|
-|Mukdahan|มห|Mh|
-|Nakhon Nayok|นย|Ny|
-|Nakhon Pathom|นฐ|Nthm|
-|Nakhon Phanom|นพ|Nph|
-|Nakhon Ratchasima|นม|Nm|
-|Nakhon Sawan|นว|Nw|
-|Nakhon Si Thammarat|นศ|Ns|
-|Nan|นน|Nn|
-|Narathiwat|นธ|Nthw|
-|Nong Bua Lam Phu|นภ|Nph|
-|Nong Khai|นค|Nkh|
-|Nonthaburi|นบ|Nb|
-|Pathum Thani|ปท|Pth|
-|Pattani|ปน|Pn|
-|Phangnga|พง|Phng|
-|Phatthalung|พท|Phth|
-|Phayao|พย|Phy|
-|Phetchabun|พช|Phch|
-|Phetchaburi|พบ|Phb|
-|Phichit|พจ|Phc|
-|Phitsanulok|พล|Phl|
-|Phra Nakhon Si Ayutthaya|อย|Xy|
-|Phrae|พร|Phr|
-|Phuket|ภก|Phk|
-|Prachin Buri|ปจ|Pc|
-|Prachuap Khiri Khan|ปข|Pkh|
-|Ranong|รน|Rn|
-|Ratchaburi|รบ|Rb|
-|Rayong|รย|Ry|
-|Roi Et|รอ|Rx|
-|Sa Kaeo|สก|Skw|
-|Sakon Nakhon|สน|Sn|
-|Samut Prakan|สป|Sp|
-|Samut Sakhon|สค|Skhr|
-|Samut Songkhram|สส|Ss|
-|Saraburi|สบ|Sb|
-|Satun|สต|St|
-|Si Sa Ket|ศก|Sks|
-|Sing Buri|สห|Sh|
-|Songkhla|สข|Skhl|
-|Sukhothai|สท|Sth|
-|Suphan Buri|สพ|Sph|
-|Surat Thani|สฎ|Sd|
-|Surin|สร|Sr|
-|Tak|ตก|Tk|
-|Trang|ตง|Tng|
-|Trat|ตร|Tr|
-|Ubon Ratchathani|อบ|Xb|
-|Udon Thani|อด|Xd|
-|Uthai Thani|อน|Xn|
-|Uttaradit|อต|Xt|
-|Yala|ยล|Yl|
-|Yasothon|ยส|Ys|
-
-The following should be shorter, but an extra letter has been added to disambiguate (due to multiple Thai letters mapping to a single Latin letter):
-* Nakhon Pathom: Nth -> Nthm
-* Narathiwat: Nth -> Nthw
-* Sa Kaeo: Sk -> Skw
-* Si Sa Ket: Sk -> Sks
-* Samut Sakhon: Skh -> Skhr
-* Songkhla: Skh -> Skhl
