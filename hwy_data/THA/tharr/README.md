@@ -104,5 +104,7 @@ Notes on routes:
 * Xy5037's east end may be wrong.
 * Xy3052 [is signed](https://www.google.com/maps/@14.5286366,100.5780217,3a,28.6y,176.62h,61.57t/data=!3m7!1e1!3m5!1sBFZr6vDPW5tQAKctI_tOLg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D28.425950012607117%26panoid%3DBFZr6vDPW5tQAKctI_tOLg%26yaw%3D176.61819655310717!7i16384!8i8192?coh=205410&entry=ttu).
 * Xy2054's north end may be wrong; some signs show Xy3013 on both sides of the waterway, while the 2023 log has it as mapped except for not crossing the bridge at the north end.
+* Xy4056 seems to be signed as part of [Xth2033](https://www.google.com/maps/@14.5287331,100.5124734,3a,15y,293.89h,85.44t/data=!3m7!1e1!3m5!1sle3jhoPbDiIg8uSnKLlIRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.56135206954562%26panoid%3Dle3jhoPbDiIg8uSnKLlIRw%26yaw%3D293.8862609004332!7i16384!8i8192?coh=205410&entry=ttu) (as of 2022), unless Xy4056 is supposed to be on the other side of the waterway.
+* Xy6057 (parallel to and south of Xy3006) seems to be unsigned (as of 2019), though it's probably newer than 2019.
 * Xy015 may not make it to Xy2008.
 * Xy017's north end may be wrong.
