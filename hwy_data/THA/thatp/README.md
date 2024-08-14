@@ -254,3 +254,93 @@ Notes on routes:
 [An older style of rural road shield?](https://www.google.com/maps/@15.7693079,103.7350699,3a,15y,253.46h,79.69t/data=!3m7!1e1!3m5!1sV8LoUtCtuYFIE_joGe2P-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DV8LoUtCtuYFIE_joGe2P-A%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D253.46320115162092%26pitch%3D10.306931447929543%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu)
 
 [New local road sign in front of old style](https://www.google.com/maps/@13.6837415,99.8695494,3a,15y,277.33h,87.49t/data=!3m7!1e1!3m5!1skU2dbcVkRCZ3hCa3FGxfnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.5133119188007527%26panoid%3DkU2dbcVkRCZ3hCa3FGxfnQ%26yaw%3D277.32881764505436!7i16384!8i8192?coh=205410&entry=ttu) (not sure that old is a local road)
+
+Rural road prefix table:
+
+|Province|||
+|-|-|-|
+|Amnat Charoen|อจ|Xc|
+|Ang Thong|อท|Xth|
+|Bangkok|กท|Kth|
+|Bueng Kan|บก|Bk|
+|Buri Ram|บร|Br|
+|Chachoengsao|ฉช|Chch|
+|Chai Nat|ชน|Chn|
+|Chaiyaphum|ชย|Chy|
+|Chanthaburi|จบ|Cb|
+|Chiang Mai|ชม|Chm|
+|Chiang Rai|ชร|Chr|
+|Chon Buri|ชบ|Chb|
+|Chumphon|ชพ|Chph|
+|Kalasin|กส|Ks|
+|Kamphaeng Phet|กพ|Kph|
+|Kanchanaburi|กจ|Kc|
+|Khon Kaen|ขก|Khk|
+|Krabi|กบ|Kb|
+|Lampang|ลป|Lp|
+|Lamphun|ลพ|Lph|
+|Loei|ลย|Ly|
+|Lop Buri|ลบ|Lb|
+|Mae Hong Son|มส|Ms|
+|Maha Sarakham|มค|Mkh|
+|Mukdahan|มห|Mh|
+|Nakhon Nayok|นย|Ny|
+|Nakhon Pathom|นฐ|Nthm|
+|Nakhon Phanom|นพ|Nph|
+|Nakhon Ratchasima|นม|Nm|
+|Nakhon Sawan|นว|Nw|
+|Nakhon Si Thammarat|นศ|Ns|
+|Nan|นน|Nn|
+|Narathiwat|นธ|Nthw|
+|Nong Bua Lam Phu|นภ|Nph|
+|Nong Khai|นค|Nkh|
+|Nonthaburi|นบ|Nb|
+|Pathum Thani|ปท|Pth|
+|Pattani|ปน|Pn|
+|Phangnga|พง|Phng|
+|Phatthalung|พท|Phth|
+|Phayao|พย|Phy|
+|Phetchabun|พช|Phch|
+|Phetchaburi|พบ|Phb|
+|Phichit|พจ|Phc|
+|Phitsanulok|พล|Phl|
+|Phra Nakhon Si Ayutthaya|อย|Xy|
+|Phrae|พร|Phr|
+|Phuket|ภก|Phk|
+|Prachin Buri|ปจ|Pc|
+|Prachuap Khiri Khan|ปข|Pkh|
+|Ranong|รน|Rn|
+|Ratchaburi|รบ|Rb|
+|Rayong|รย|Ry|
+|Roi Et|รอ|Rx|
+|Sa Kaeo|สก|Skw|
+|Sakon Nakhon|สน|Sn|
+|Samut Prakan|สป|Sp|
+|Samut Sakhon|สค|Skhr|
+|Samut Songkhram|สส|Ss|
+|Saraburi|สบ|Sb|
+|Satun|สต|St|
+|Si Sa Ket|ศก|Sks|
+|Sing Buri|สห|Sh|
+|Songkhla|สข|Skhl|
+|Sukhothai|สท|Sth|
+|Suphan Buri|สพ|Sph|
+|Surat Thani|สฎ|Sd|
+|Surin|สร|Sr|
+|Tak|ตก|Tk|
+|Trang|ตง|Tng|
+|Trat|ตร|Tr|
+|Ubon Ratchathani|อบ|Xb|
+|Udon Thani|อด|Xd|
+|Uthai Thani|อน|Xn|
+|Uttaradit|อต|Xt|
+|Yala|ยล|Yl|
+|Yasothon|ยส|Ys|
+
+The following should be shorter, but an extra letter has been added to disambiguate (due to multiple Thai letters mapping to a single Latin letter or pair thereof):
+* Nakhon Pathom: Nth -> Nthm
+* Narathiwat: Nth -> Nthw
+* Sa Kaeo: Sk -> Skw
+* Si Sa Ket: Sk -> Sks
+* Samut Sakhon: Skh -> Skhr
+* Songkhla: Skh -> Skhl
