@@ -97,12 +97,19 @@ The following should be shorter, but an extra letter has been added to disambigu
 * Songkhla: Skh -> Skhl
 
 Notes on routes:
+* Lb4051's north end may be wrong.
+* Lb4136 is not in the 2023 log, but it is signed (including km posts that continue from the branch point).
 * Nb1036 (connection between Nb3021 and M9) [seems to be unsigned](https://www.google.com/maps/@14.0083301,100.4614079,3a,15y,312.13h,88.46t/data=!3m7!1e1!3m5!1s1OCaSeCu1-DN1lN3_39ECw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5437297787531605%26panoid%3D1OCaSeCu1-DN1lN3_39ECw%26yaw%3D312.1263051245251!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * Nb5038 (Maha Chesadabodindranusorn Bridge approach) seems to be unsigned (as of 2024).
 * Kth1001 (Kanlapa Phruek Road) [seems to be unsigned](https://www.google.com/maps/@13.6864997,100.4256721,3a,15y,230.03h,90.22t/data=!3m7!1e1!3m5!1stt1t2UY2yyOooQmHLp3zjA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-0.22440957399078343%26panoid%3Dtt1t2UY2yyOooQmHLp3zjA%26yaw%3D230.02621149164864!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * Kth1002 and Kth1003 (Prachim Ratthaya Expressway frontage roads) seem to be unsigned (as of 2024).
 * Pth3012 [is signed](https://www.google.com/maps/@13.9530562,100.8945049,3a,15y,212.41h,74.31t/data=!3m7!1e1!3m5!1sX4mkAe59y9Hmf08z_NATOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D15.688659063023238%26panoid%3DX4mkAe59y9Hmf08z_NATOw%26yaw%3D212.41187701119108!7i16384!8i8192?coh=205410&entry=ttu) south of Thl3312, but the south end is unclear (the farthest south sign may be [km 25](https://www.google.com/maps/@13.8606931,100.8694275,3a,37.6y,351.67h,61.32t/data=!3m7!1e1!3m5!1sfcAMiCS8IsfB3p4HPGzVnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D28.677088952257535%26panoid%3DfcAMiCS8IsfB3p4HPGzVnQ%26yaw%3D351.67454295324325!7i16384!8i8192?coh=205410&entry=ttu)).
 * Pth3028's route near its north end may be wrong.
+* Sb1022 may not exist south of the Ban Klab turnoff.
+* Sb5043's west end may be wrong.
+* Sb5048's west end is at 3022 per the length in the 2023 log (and signage), but the coordinates are at the railroad.
+* Sb4052 is mostly signed as Sp5052, but [the newest signs](https://www.google.com/maps/@14.3005232,100.942657,3a,15y,187.69h,86.87t/data=!3m7!1e1!3m5!1sUuZkVdGc-g5i9Dznh3m2MA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.1337581846886167%26panoid%3DUuZkVdGc-g5i9Dznh3m2MA%26yaw%3D187.6851933258978!7i16384!8i8192?coh=205410&entry=ttu) say 4052.
+* Sb3057's south end may be wrong.
 * Sp4008 may be unsigned, but it is currently under construction, so it has been included.
 * Sp4010 [is signed](https://www.google.com/maps/@13.5431315,100.4567371,3a,15.1y,45.86h,84.3t/data=!3m7!1e1!3m5!1sxIylqeb_wqcKtOMtZOzcyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.696321961092366%26panoid%3DxIylqeb_wqcKtOMtZOzcyQ%26yaw%3D45.86188141100817!7i16384!8i8192?coh=205410&entry=ttu), though the east end is west of where the 2023 log shows it.
 * Xth4012's west end may be wrong; it is based on the length in the 2023 log (the coordinates show it reaching Xth4005).
