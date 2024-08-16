@@ -97,6 +97,8 @@ The following should be shorter, but an extra letter has been added to disambigu
 * Songkhla: Skh -> Skhl
 
 Notes on routes:
+* Chn1008 may no longer exist; some of the km posts seem to have been painted over, but it [is signed](https://www.google.com/maps/@15.2300751,100.1585995,3a,15y,221.56h,85.66t/data=!3m7!1e1!3m5!1sBlmi2dCGIS9_dAOLAhJFGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.337045808314201%26panoid%3DBlmi2dCGIS9_dAOLAhJFGA%26yaw%3D221.559357796368!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
+* Chn4062's [signs were removed and km posts painted over](https://www.google.com/maps/@15.2645739,100.085082,3a,75y,46.18h,82.22t/data=!3m7!1e1!3m5!1sUV0Bu1mio3PEIgolkbtcww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D7.777753320542544%26panoid%3DUV0Bu1mio3PEIgolkbtcww%26yaw%3D46.18153033293966!7i16384!8i8192?coh=205410&entry=ttu) between 2023 and 2024.
 * Lb4051's north end may be wrong.
 * Lb4136 is not in the 2023 log, but it is signed (including km posts that continue from the branch point).
 * Nb1036 (connection between Nb3021 and M9) [seems to be unsigned](https://www.google.com/maps/@14.0083301,100.4614079,3a,15y,312.13h,88.46t/data=!3m7!1e1!3m5!1s1OCaSeCu1-DN1lN3_39ECw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5437297787531605%26panoid%3D1OCaSeCu1-DN1lN3_39ECw%26yaw%3D312.1263051245251!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
