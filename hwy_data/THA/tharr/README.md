@@ -104,6 +104,7 @@ Notes on routes:
 * Lb013's endpoints may be wrong.
 * Lb022's east end may be wrong.
 * Lb4051's north end may be wrong.
+* Lb4059's exact east end may be wrong, but it [definitely goes via Ban Khao Mu Man](https://www.google.com/maps/@15.2546883,100.919645,3a,35.9y,183.4h,70.02t/data=!3m7!1e1!3m5!1sC_N1skpKaateFIC0rtx8uw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D19.978691099109994%26panoid%3DC_N1skpKaateFIC0rtx8uw%26yaw%3D183.40456671224237!7i16384!8i8192?coh=205410&entry=ttu).
 * Lb4136a (an unnamed branch) is not in the 2023 log, but it is signed (including km posts that continue from the branch point).
 * Nb1036 (connection between Nb3021 and M9) [seems to be unsigned](https://www.google.com/maps/@14.0083301,100.4614079,3a,15y,312.13h,88.46t/data=!3m7!1e1!3m5!1s1OCaSeCu1-DN1lN3_39ECw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5437297787531605%26panoid%3D1OCaSeCu1-DN1lN3_39ECw%26yaw%3D312.1263051245251!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * Nb5038 (Maha Chesadabodindranusorn Bridge approach) seems to be unsigned (as of 2024).
