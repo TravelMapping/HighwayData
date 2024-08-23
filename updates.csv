@@ -3903,6 +3903,20 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2024-08-20;Poland;S16 (Biskupiec);pol.s016;Route extended at east end from exit 11 to DK59
+2024-08-20;Poland;DK16 (Elk);pol.dk016elk;Route truncated at west end from Borki Wielkie to DK59_S and extended at west end from DK59_S to DK59_N
+2024-08-20;Poland;DK59;pol.dk059;Route removed from DW680 and relocated onto DK16 and Mrągowa bypass between DK16_E and DW680
+2024-08-20;Poland;DW165;pol.dw165;Route extended at west end from S6 exit 23 to DW163
+2024-08-20;Poland;DW366;;Route deleted
+2024-08-20;Poland;DW493;pol.dw493;Route added
+2024-08-20;Poland;DW587;pol.dw587;Route added
+2024-08-20;Poland;DW621;pol.dw621;Route reentered (was former DK7 south of Warsaw, now former DK65 in Elk)
+2024-08-20;Poland;DW625;pol.dw625;Route added
+2024-08-20;Poland;DW680 (Gora Kalwaria);;Route deleted
+2024-08-20;Poland;DW680 (Ostrowek);pol.dw799;Route deleted (mostly DW799)
+2024-08-20;Poland;DW680;pol.dw680;Route added
+2024-08-20;Poland;DW772;pol.dw772;Route extended at north end from S7 exit 108 to Wilkus
+2024-08-20;Poland;DW799;pol.dw799;Route extended at west end from former Wisla ferry pier to DK50
 2024-08-09;Poland;A2 (Siedlce);pol.a002sie;Route added
 2024-08-09;Poland;E30;pol.e30;Route removed from DK92 and relocated onto A2 between A2 exits 39 and 40
 2024-08-09;Poland;DK2 (Siedlce);pol.dk002sie;Route truncated at west end from A2 exit 37 to A2 exit 40
@@ -6424,6 +6438,7 @@ date;region;route;root;description
 2015-07-24;(UK) Wales;A4046;wls.a4046;Route extended at north end from A4281 to A4047
 2015-07-24;(UK) Wales;A4281;wls.a4281;New Route
 2015-07-24;(UK) Wales;A5153;wls.a5153;Route extended at south end from A55 to B4545
+2024-08-21;(USA) Alabama;AL 158;al.al158;Route extended west to US 98
 2022-03-20;(USA) Alabama;I-359;al.i359;Clarified the northern endpoint as Exit 2. Previous route segment north of Exit 2 is technically within the interchange footprint.
 2022-03-20;(USA) Alabama;US 231 Business (Ozark);;Route deleted
 2018-09-24;(USA) Alabama;US 98 Alternate (Fairhope);;Route deleted
@@ -7549,6 +7564,7 @@ date;region;route;root;description
 2015-11-13;(USA) Massachusetts;MA 138;ma.ma138;Removed from the Brightman Street Bridge and MA 103, and relocated onto the Veterans Memorial Bridge between MA 79 and MA 103
 2015-11-13;(USA) Massachusetts;MA 79;ma.ma079;Waypoint US6 moved from Brightman Street to the Veterans Memorial Bridge
 2015-11-13;(USA) Massachusetts;US 6;ma.us006;Removed from Grand Army of the Republic Highway and the Brightman Street Bridge, and relocated onto the Veterans Memorial Bridge between a point labeled *OldUS6 and MA 79
+2024-08-20;(USA) Michigan;US 2;mi.us002;Relocated to new alignment 350 ft north of old routing east of Epoufette between *OldUS2_W and *OldUS2_E (realignment occurred in 2020)
 2024-08-08;(USA) Michigan;MI 66 Truck (Sturgis);mi.mi066trkstu;Route added
 2024-06-24;(USA) Michigan;US 31 Business (Pentwater);;Route deleted
 2023-10-21;(USA) Michigan;US 223;mi.us223;Truncated at north end from US 12 to US127 (removed segment was concurrent with US 127)
@@ -8326,6 +8342,8 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2024-08-21;(USA) Pennsylvania;I-70;pa.i070;Small realignments between *OldI-70/76_A and *OldI-70/76_B and *OldI-70/76_C and *OldI-70/76_D as part of a reconstruction/widening between milemarkers 102 and 109.  Both realignments are just west of 110(76).
+2024-08-21;(USA) Pennsylvania;I-76;pa.i076;Small realignments between *OldI-70/76_A and *OldI-70/76_B and *OldI-70/76_C and *OldI-70/76_D as part of a reconstruction/widening between milemarkers 102 and 109.  Both realignments are just west of 110.
 2024-06-24;(USA) Pennsylvania;PA 424;pa.pa424;Extended slightly further west from Commerce Dr (ComDr) to Mount Pleasant Ln (MouPleLn).
 2024-05-26;(USA) Pennsylvania;US 1 Alternate Truck (West Grove);;Route deleted (was partly concurrent with PA 841 Alternate Truck (West Grove) and PA 796).
 2024-05-26;(USA) Pennsylvania;PA 41 Alternate Truck (Avondale);pa.pa041alttrkavo;Route added.
