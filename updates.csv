@@ -888,6 +888,11 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2024-08-27;Czechia;D6 (Kladno);cze.d006;Route extended at west end from Krušovice to Nesuchyně
+2024-08-27;Czechia;E48;cze.e48;Route relocated from through Krupá and onto new bypass between Krušovice and Nesuchyně
+2024-08-27;Czechia;I6 (Nové Strašecí);cze.i006;Route truncated at east end from Krušovice to Nesuchyně (II606 now)
+2024-08-27;Czechia;II606 (Stochov);cze.ii606;Route extended at west end from Krušovice to Nesuchyně (former I6)
+2024-08-27;Czechia;II322 (Dašice);cze.ii322das;Route relocated from through Dašice and onto bypass between II340 and III32254
 2024-07-17;Czechia;II156 (Main);cze.ii156;Route relocated from through Žár and onto new bypass
 2024-02-11;Czechia;I11;cze.i011;Route relocated from through Bludov (II368 now) and onto new bypass between Chromeč and Postřelmov, and further onto concurrency with I44
 2024-02-11;Czechia;II368;cze.ii368;Route extended from Rovensko to Šumperk
@@ -2238,6 +2243,7 @@ date;region;route;root;description
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2024-08-26;(Germany) Thuringia;L1079;;Route deleted
 2022-12-08;(Germany) Thuringia;B247;deuth.b247;Route relocated from through Kallmerode and onto new bypass from L1032 to south of Kallmerode
 2022-11-06;(Germany) Thuringia;L2391;deuth.l2391;Route extended at east end in Zeutsch to the new bypass (former B88)
 2022-11-06;(Germany) Thuringia;B88;deuth.b088;Route relocated from through Zeutsch and onto new bypass between K12 and L2391
@@ -5087,6 +5093,7 @@ date;region;route;root;description
 2015-08-20;Slovakia;R2 (Zvolen);svk.r002zvo;New Route
 2015-08-20;Slovakia;R3 (Vrutky);svk.r003vru;New Route
 2015-08-20;Slovakia;R6;svk.r006;Route truncated at north end from II507 to I49
+2024-08-25;Slovenia;R914;svn.r914;Route truncated at west end from Postojna (R409) to Raubarkomanda, and reextended to R409 at Raubarkomanda
 2023-11-06;Slovenia;R689;svn.r689;Route truncated at east end from A4's exit 7 to A4's exit 8, and reextended to R454 through Stanošina
 2023-11-06;Slovenia;R454 (Podlehnik);svn.r454pod;New Route
 2023-11-05;Slovenia;R709;svn.r709;Route extended at east end from R449 to A5
@@ -6442,6 +6449,7 @@ date;region;route;root;description
 2015-07-24;(UK) Wales;A4046;wls.a4046;Route extended at north end from A4281 to A4047
 2015-07-24;(UK) Wales;A4281;wls.a4281;New Route
 2015-07-24;(UK) Wales;A5153;wls.a5153;Route extended at south end from A55 to B4545
+2024-08-21;(USA) Alabama;AL 158;al.al158;Route extended west to US 98
 2022-03-20;(USA) Alabama;I-359;al.i359;Clarified the northern endpoint as Exit 2. Previous route segment north of Exit 2 is technically within the interchange footprint.
 2022-03-20;(USA) Alabama;US 231 Business (Ozark);;Route deleted
 2018-09-24;(USA) Alabama;US 98 Alternate (Fairhope);;Route deleted
@@ -7567,6 +7575,7 @@ date;region;route;root;description
 2015-11-13;(USA) Massachusetts;MA 138;ma.ma138;Removed from the Brightman Street Bridge and MA 103, and relocated onto the Veterans Memorial Bridge between MA 79 and MA 103
 2015-11-13;(USA) Massachusetts;MA 79;ma.ma079;Waypoint US6 moved from Brightman Street to the Veterans Memorial Bridge
 2015-11-13;(USA) Massachusetts;US 6;ma.us006;Removed from Grand Army of the Republic Highway and the Brightman Street Bridge, and relocated onto the Veterans Memorial Bridge between a point labeled *OldUS6 and MA 79
+2024-08-20;(USA) Michigan;US 2;mi.us002;Relocated to new alignment 350 ft north of old routing east of Epoufette between *OldUS2_W and *OldUS2_E (realignment occurred in 2020)
 2024-08-08;(USA) Michigan;MI 66 Truck (Sturgis);mi.mi066trkstu;Route added
 2024-06-24;(USA) Michigan;US 31 Business (Pentwater);;Route deleted
 2023-10-21;(USA) Michigan;US 223;mi.us223;Truncated at north end from US 12 to US127 (removed segment was concurrent with US 127)
@@ -8344,6 +8353,11 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2024-08-26;(USA) Pennsylvania;US 422 (New Castle);pa.us422;Realigned at new bridge over Margaret Road between relocated MarRd point and *OldUS422.
+2024-08-26;(USA) Pennsylvania;PA 18;pa.pa018;Created brief concurrency with PA 168 at PA168_B and PA168_C.
+2024-08-26;(USA) Pennsylvania;PA 168;pa.pa168;Created brief concurrency with PA 18 at PA18_B and PA18_C.
+2024-08-21;(USA) Pennsylvania;I-70;pa.i070;Small realignments between *OldI-70/76_A and *OldI-70/76_B and *OldI-70/76_C and *OldI-70/76_D as part of a reconstruction/widening between milemarkers 102 and 109.  Both realignments are just west of 110(76).
+2024-08-21;(USA) Pennsylvania;I-76;pa.i076;Small realignments between *OldI-70/76_A and *OldI-70/76_B and *OldI-70/76_C and *OldI-70/76_D as part of a reconstruction/widening between milemarkers 102 and 109.  Both realignments are just west of 110.
 2024-06-24;(USA) Pennsylvania;PA 424;pa.pa424;Extended slightly further west from Commerce Dr (ComDr) to Mount Pleasant Ln (MouPleLn).
 2024-05-26;(USA) Pennsylvania;US 1 Alternate Truck (West Grove);;Route deleted (was partly concurrent with PA 841 Alternate Truck (West Grove) and PA 796).
 2024-05-26;(USA) Pennsylvania;PA 41 Alternate Truck (Avondale);pa.pa041alttrkavo;Route added.
@@ -8844,6 +8858,8 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2024-08-23;(USA) Utah;UT 193;ut.ut193;Route extended at west end from UT 177 to UT 110.
+2024-08-23;(USA) Utah;UT 106;ut.ut106;Rerouted from Main Street onto Shepard Lane at north end. Now ends at US 89 exit 396 instead of exit 397.
 2024-04-03;(USA) Utah;UT 287;ut.ut287;Route truncated at north end removing it from now-closed access road to former state prison. Portion along I-15 frontage road up to intersection with former prison access road remains.
 2024-01-07;(USA) Utah;UT 177;ut.ut177;New Route
 2024-01-07;(USA) Utah;UT 193;ut.ut193;Route extended at west end from 3000 West to UT 177.
