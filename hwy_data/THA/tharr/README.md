@@ -97,6 +97,7 @@ The following should be shorter, but an extra letter has been added to disambigu
 * Songkhla: Skh -> Skhl
 
 Notes on routes:
+* Cb4012's north end may be wrong.
 * Chb4082's exact south end may be wrong.
 * Chb5069 [is signed, though faded](https://www.google.com/maps/@12.9223573,101.098985,3a,15y,321.03h,74.79t/data=!3m7!1e1!3m5!1s2GRBARYXfxlT6KVYsDwC8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D15.207949343611403%26panoid%3D2GRBARYXfxlT6KVYsDwC8Q%26yaw%3D321.030590483002!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D) (as of 2023) on what the 2023 log shows is Chb5100 (but Chb5100 is signed farther south).
 * Chb5085 [appears on an old fading sign](https://www.google.com/maps/@13.2918544,100.9426002,3a,15y,19.72h,107t/data=!3m7!1e1!3m5!1s3BbKITlZEr7xPFpofulhRw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-17.001392142939494%26panoid%3D3BbKITlZEr7xPFpofulhRw%26yaw%3D19.718316509518232!7i16384!8i8192?coh=205410&entry=ttu) but seems to no longer exist.
