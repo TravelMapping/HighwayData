@@ -890,7 +890,10 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
-2024-09-03;Czechia;O28 (Klatovy);cze.i027kla;New Route
+2024-09-09;Czechia;E67;cze.e67;Route relocated from through Jaroměř and onto D11 and I33 between D11's exit 108 to II307
+2024-09-09;Czechia;I33;cze.i033;Route truncated at west end from D11's exit 108 to II307 (through Jaroměř), and reextended to D11's exit 113 (Jaroměř northern bypass)
+2024-09-09;Czechia;I37 (Trutnov);cze.i037tru;Route truncated at south end from old I33 in Jaroměř to new I33 Jaroměř northern bypass
+2024-09-03;Czechia;I27 (Klatovy);cze.i027kla;New Route
 2024-08-27;Czechia;D6 (Kladno);cze.d006;Route extended at west end from Krušovice to Nesuchyně
 2024-08-27;Czechia;E48;cze.e48;Route relocated from through Krupá and onto new bypass between Krušovice and Nesuchyně
 2024-08-27;Czechia;I6 (Nové Strašecí);cze.i006;Route truncated at east end from Krušovice to Nesuchyně (II606 now)
@@ -1557,8 +1560,32 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2024-09-10;(Germany) Baden-Württemberg;B292;deubw.b292;Route extended at east end from A81 exit 6 to B290
+2024-09-10;(Germany) Baden-Württemberg;B292 (Boxberg);deubw.b292;Merged into main route
+2024-09-10;(Germany) Baden-Württemberg;L547;deubw.l0547;Route extended at east end from Bahnhofstraße to B45
+2024-09-10;(Germany) Baden-Württemberg;L1012;deubw.l1012;Route extended at east end from Satteldorfer Hauptstraße to B290
+2024-09-10;(Germany) Baden-Württemberg;L1036;deubw.l1036;Route truncated at west end from Hauptstraße in Weinsberg to north of Weinsberg, and reextended to B39
+2024-09-10;(Germany) Baden-Württemberg;L1101;deubw.l1101;Route truncated at east end from east of Weinsberg (B39) to west of Weinsberg (B39)
+2024-09-09;(Germany) Baden-Württemberg;L223 (Steißlingen);deubw.l0223;Route truncated at south end from L222 to B33
+2024-09-09;(Germany) Baden-Württemberg;L223 (Überlingen am Ried);deubw.l0223ube;New Route (former south end of main route)
+2024-09-09;(Germany) Baden-Württemberg;L226a;;Route deleted
+2024-09-09;(Germany) Baden-Württemberg;L538;deubw.l0538;Route extended at west end from Feudenheim (B38a) to Neckarstadt-West (B44)
+2024-09-09;(Germany) Baden-Württemberg;L542;deubw.l0542;Route extended at south end from Seckenheim (L637) to Rheinau (B36)
+2024-09-08;(Germany) Baden-Württemberg;L115;deubw.l0115;Route extended at east from B31a north of Gottenheim through Gottenheim and Umkirch to B31a east of Umkirch
+2024-09-08;(Germany) Baden-Württemberg;L116;deubw.l0116;Route extended at south end from B31a to Umkirch (L115)
+2024-09-08;(Germany) Baden-Württemberg;L173;deubw.l0173;Route extended at east end from L181 to B523
+2024-09-08;(Germany) Baden-Württemberg;L173 (Villingen);deubw.l0173;Merged into main route
+2024-09-08;(Germany) Baden-Württemberg;L178 (Obereschach);deubw.l0178;Route truncated at south end from Donaueschingen (L180) to B33 in the north of Villingen, and reextended into Villingen (L173)
+2024-09-08;(Germany) Baden-Württemberg;L178 (Kirchdorf);deubw.l0178kir;New Route (former main route from B33 southeast of Villingen to Donaueschingen (L180)
+2024-09-08;(Germany) Baden-Württemberg;L195c;;Route deleted
+2024-09-08;(Germany) Baden-Württemberg;L286;deubw.l0286;Route relocated from Hauptstraße and Ebersbacher Straße, and onto Haggenmooser Straße, Saulgauer Straße in Altshausen
+2024-09-08;(Germany) Baden-Württemberg;L300 (Bad Waldsee);deubw.l0300wal;Route extended at west end from Friedhofstraße (L316) to Bad Waldsee-North interchange with B30
+2024-09-08;(Germany) Baden-Württemberg;L313;deubw.l0313;New Route
+2024-09-08;(Germany) Baden-Württemberg;L411;deubw.l0411;New Route
+2024-09-08;(Germany) Baden-Württemberg;L1158;deubw.l1158;Route extended at south end from Hauptstraße in Mögglingen to B29 (former L1161)
+2024-09-08;(Germany) Baden-Württemberg;L1161;deubw.l1161;Route truncated at east end from Hauptstraße in Mögglingen to B29 (L1158 now)
 2024-09-07;(Germany) Baden-Württemberg;L1016;deubw.l1016;Route extended at north end from L1014 to B14
-2024-09-07;(Germany) Baden-Württemberg;L1066 (Sulzbach an der Murr);deubw.l1066;New Route
+2024-09-07;(Germany) Baden-Württemberg;L1066 (Sulzbach an der Murr);deubw.l1066sul;New Route
 2024-09-07;(Germany) Baden-Württemberg;L1100 (Marbach);deubw.l1100;Route relocated in Bad Cannstatt from Rosensteinbrücke and Schönestraße, and onto Neckartalstraße and König-Karls-Brücke
 2024-09-07;(Germany) Baden-Württemberg;L1217a;deubw.l1217a;New Route
 2024-09-07;(Germany) Baden-Württemberg;L1218;deubw.l1218;Route truncated at north end from Göppingen (L1217) to Schlat, and reextended to Süßen (L1214)
@@ -2500,6 +2527,14 @@ date;region;route;root;description
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2024-09-08;Iceland;TH947;isl.th947;New Route
+2024-09-08;Iceland;TH943;isl.th943;New Route
+2024-09-08;Iceland;TH935;isl.th935;New Route
+2024-09-08;Iceland;TH913;isl.th913;New Route
+2024-09-08;Iceland;TH865;isl.th865;New Route
+2024-09-08;Iceland;TH629;isl.th629;New Route
+2024-09-08;Iceland;TH620;isl.th620;New Route
+2024-09-08;Iceland;TH93;isl.th093;Relocated off of Austurvegur and Lónsleira (ending at ferry terminal) and onto Ránargata, Fjarðargagata, Öldugata, and Lónsleira (passing ferry terminal in opposite direction, ending at Austurvegur) in Seyðisfjörður
 2023-12-05;Iceland;TH60;isl.th060;Relocated onto new causeway across Þorskafjörður between points OldTH60_Tho and TH608
 2023-12-05;Iceland;TH60;isl.th060;Relocated onto new alignment west of Þorskafjörður between points *OldTH60_HjaS and *OldTh60_HjaN
 2023-12-05;Iceland;TH60;isl.th060;Relocated onto new alignment in the vicinity of TH63 between points *OldTH60_HelS and *OldTh60_HelN
@@ -7407,6 +7442,8 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2024-09-07;(USA) Louisiana;LA 3169 ((East) Colfax);la.la3169;Truncated at west end from LA 8 to barricaded bridge 1/4 mile east of LA 8 (segment west of the former bridge is now LA 3169 ((West) Colfax))
+2024-09-07;(USA) Louisiana;LA 3169 ((West) Colfax);la.la3169col;Route added (was part of LA 3169 ((East) Colfax) before bridge was closed)
 2024-08-31;(USA) Louisiana;LA 813-3;la.la08133;Truncated at west end from US 167 to Hodge city limits
 2024-08-31;(USA) Louisiana;LA 828;la.la0828;Truncated at west end from LA 33 to Farmerville city limits
 2024-06-24;(USA) Louisiana;LA 3241;la.la3241;Route added
