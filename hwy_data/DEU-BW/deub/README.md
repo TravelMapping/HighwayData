@@ -15,4 +15,3 @@
 
 
 **NOTES TO ROUTES:**
-- BW `B295` Ditzingen - Leonberg is still in mauttabelle.de but it should finally be rededicated on 1st Januar 2019. It's already unsigned for a long time (not in HB)
