@@ -65,6 +65,7 @@ Notes on routes:
 * 1363 is unsigned (as of 2024).
 * 1368 ([old 101](https://www.google.com/maps/@17.0014095,99.7913243,3a,15y,241.5h,68.53t/data=!3m8!1e1!3m6!1spw0Jh7j4w-VOvCBoIozNoQ!2e0!5s20140101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dpw0Jh7j4w-VOvCBoIozNoQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D241.49631660040401%26pitch%3D21.466126243616984%26thumbfov%3D90!7i13312!8i6656?coh=205410&entry=ttu)) seems to be unsigned (as of 2023).
 * 1375 [is signed](https://www.google.com/maps/@16.1202357,99.9391238,3a,15y,174.2h,58.18t/data=!3m7!1e1!3m5!1sNjDt8VKie0wZp4wh0QfuHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DNjDt8VKie0wZp4wh0QfuHA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D174.20369127400497%26pitch%3D31.816571997038537%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
+* 1376 seems to be unsigned (as of 2024).
 * 1377 seems to be unsigned (as of 2021).
 * 1380 seems to be unsigned (as of 2024).
 * 1399 seems to be unsigned (as of 2024).
