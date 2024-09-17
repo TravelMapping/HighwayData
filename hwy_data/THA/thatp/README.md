@@ -39,6 +39,7 @@ Notes on routes:
 * 411 is not in the GIS data, but it [is signed](https://www.google.com/maps/@8.1038773,98.9094744,3a,23.2y,220.56h,97.72t/data=!3m8!1e1!3m6!1sRbgD28h4DwwRYquDcext7g!2e0!5s20220901T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DRbgD28h4DwwRYquDcext7g%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D220.56310914009467%26pitch%3D-7.722618240728025%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2022). It remains to be seen if it's signed after construction is done; due to this and the apparent lack of other signs it has not been mapped.
 * 425 (Hay Yai bypass) does not seem to have been built yet.
 * 1001's north end may be wrong; the GIS data shows it several blocks to the east, but with no turns to the south.
+* 1007's exact east end may be wrong.
 * 1015 [is erroneously signed](https://www.google.com/maps/@11.0111801,99.4661165,3a,26.2y,92.42h,83.78t/data=!3m7!1e1!3m5!1svJVdH2SsiNnrLQbTb7TjCA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.220455264901858%26panoid%3DvJVdH2SsiNnrLQbTb7TjCA%26yaw%3D92.41602544611717!7i16384!8i8192?coh=205410&entry=ttu) on what does not seem to have a number (but leads to Pkh1015 to the west).
 * 1040 [is signed](https://www.google.com/maps/@17.5637844,100.1240645,3a,15y,192.53h,74.9t/data=!3m7!1e1!3m5!1sSBkhY4TJtwdC49W9mGuq7g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DSBkhY4TJtwdC49W9mGuq7g%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D192.5268102298045%26pitch%3D15.09807738625085%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1048 is in the GIS data, but it became part of 106 between [2021](https://www.google.com/maps/@17.3328878,99.5370307,3a,15.3y,189.01h,87.55t/data=!3m8!1e1!3m6!1sCK9KRQGZJpfAkM4IscoYbA!2e0!5s20210601T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCK9KRQGZJpfAkM4IscoYbA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D189.00762652841115%26pitch%3D2.4536798319327744%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) and [2022](https://www.google.com/maps/@17.3329355,99.5369318,3a,15y,167.33h,87.98t/data=!3m8!1e1!3m6!1srbCnJawv5sX_B9XjpdigyQ!2e0!5s20221101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DrbCnJawv5sX_B9XjpdigyQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D167.33044573230572%26pitch%3D2.0202611355364155%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
@@ -69,6 +70,7 @@ Notes on routes:
 * 1376 seems to be unsigned (as of 2024).
 * 1377 seems to be unsigned (as of 2021).
 * 1380 seems to be unsigned (as of 2024).
+* 1396 seems to be unsigned (as of 2024), though most of it is unpaved and lacks imagery.
 * 1399 seems to be unsigned (as of 2024).
 * 1401 seems to be unsigned (as of 2022).
 * 1402 [is signed](https://www.google.com/maps/@16.5768702,98.6545542,3a,15y,216.44h,77.14t/data=!3m6!1e1!3m4!1soPSuPsDJErglgEG-WIGLIQ!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D).
