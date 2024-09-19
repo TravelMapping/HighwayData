@@ -1359,6 +1359,7 @@ date;region;route;root;description
 2022-09-22;(France) French Guiana;N5;;Route removed
 2022-09-22;(France) French Guiana;N2001 (Sinnamary);guf.d021;Route removed
 2022-09-22;(France) French Guiana;N2001 (Kourou);;Route removed
+2024-09-14;(France) Grand-Est;N67;frages.d052052;Route renamed to D520-52
 2023-02-13;(France) Grand-Est;M663-6ae;frages.m06636ae;New Route
 2022-05-14;(France) Grand-Est;N52 (Rombas);frages.n052rom;Route relocated from through frages.n052rom and onto new bypass from D52A to D181
 2021-12-21;(France) Grand-Est;A4 (Metz);frages.a004;Route truncated at east end from exit 51 to exit 48 (M35-6ae now)
@@ -1560,6 +1561,19 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2024-09-13;(Germany) Baden-Württemberg;B500 (Baden-Baden);deubw.b500bad;Route relocated from Hauptstraße and Eckbergstraße, and onto Haupstraße and Maximilianstraße between Geroldsauer Straße and Eckbergstraße in Baden-Baden-Lichtental
+2024-09-13;(Germany) Baden-Württemberg;L78;deubw.l0078;Route truncated at west end from Geroldsauer Straße to Maximilianstraße (B500 now)
+2024-09-13;(Germany) Baden-Württemberg;L81;deubw.l0081;New Route
+2024-09-13;(Germany) Baden-Württemberg;L309;deubw.l0309;Route truncated at west end from Bad Wurzach to Seibranz
+2024-09-13;(Germany) Baden-Württemberg;L343a;deubw.l0343a;New Route
+2024-09-13;(Germany) Baden-Württemberg;L442n;deubw.l0442n;New Route
+2024-09-13;(Germany) Baden-Württemberg;L543 (Schwetzingen);deubw.l0630sch;Route renamed to L630
+2024-09-13;(Germany) Baden-Württemberg;L543 (Eppelheim);;Route deleted
+2024-09-12;(Germany) Baden-Württemberg;B317 (Feldberg);deubw.b317fel;New Route
+2024-09-12;(Germany) Baden-Württemberg;L240 (Erbach);deubw.l0240erb;New Route
+2024-09-12;(Germany) Baden-Württemberg;L302;deubw.l0302;New Route
+2024-09-12;(Germany) Baden-Württemberg;L378a;deubw.l0378a;Route truncated at east end from B313 to B312
+2024-09-12;(Germany) Baden-Württemberg;L1185;deubw.l1185;Route truncated at east end from B313 to Lindenplatz (via Stuttgarter Straße), and reextended to B313 (via Denkendofer Weg and Wendlinger Straße)
 2024-09-11;(Germany) Baden-Württemberg;B295 (Weil der Stadt);deubw.b295wei;New Route
 2024-09-11;(Germany) Baden-Württemberg;B298;deubw.b298;Route relocated from Pfitzerstraße, Baldungstraße and Vordere Schmiedgasse, and onto Graf-von-Soden-Straße and Herlikofer Straße in Schwäbisch Gmünd
 2024-09-11;(Germany) Baden-Württemberg;L571a;;Route deleted
@@ -1832,6 +1846,7 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2024-09-13;(Germany) Brandenburg;L215;;Route deleted
 2024-04-07;(Germany) Brandenburg;L59;deubb.l059;Route truncated at west end from B183 to L64
 2024-04-07;(Germany) Brandenburg;L71 (Leibsch);deubb.l071lei;New Route
 2024-02-24;(Germany) Brandenburg;L37 (Müllrose);deubb.l037;Route truncated at north end from Zechin (L33) to Petershagen (B5)
@@ -1874,6 +1889,8 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2024-09-13;(Germany) Hesse;B7 (Kassel);deuhe.b007;Route relocated from through Calden and onto new bypass from Airport to Holländische Straße east of Calden
+2024-09-13;(Germany) Hesse;B7 (Calden);deuhe.b007;Route merged into main route due to the completion of the bypass
 2024-05-26;(Germany) Hesse;B457;deuhe.b457;Route extended at north end from A485 to transition to city street
 2024-05-26;(Germany) Hesse;L3184 (Gedern);deuhe.l3184ged;New Route
 2024-05-24;(Germany) Hesse;B54 (Michelbach);deuhe.b054mic;New Route
@@ -1888,7 +1905,7 @@ date;region;route;root;description
 2023-10-21;(Germany) Hesse;B252;deuhe.b252;Route relocated from through Dorfitter and onto eastern bypass
 2022-12-24;(Germany) Hesse;B80 (Bad Karlshafen);deuhe.b080;Route extended at west end from Bremer Straße in Bad Karlshafen to border with NW (former B83)
 2022-12-24;(Germany) Hesse;B83 (Hofgeismar);deuhe.b083hof;Route truncated at north end from Bad Karlshafen to K74 south of Bad Karlshafen and reextended onto new bypass to the border with NW
-2022-12-24;(Germany) Hesse;B7 (Calden);deuhe.b007cal;New Route
+2022-12-24;(Germany) Hesse;B7 (Calden);deuhe.b007;New Route
 2022-10-29;(Germany) Hesse;L3225 (Großalmerode);deuhe.l3225gro;Route extended at south end from A44's exit 76 to L3228 in Fürstenhagen
 2022-10-29;(Germany) Hesse;L3460;deuhe.l3460;Route extended at east end from Eschenstruth to A44's exit 75
 2022-10-29;(Germany) Hesse;B7 (Kassel);deuhe.b007;Route truncated at east end from A44's exit 76 to exit 75
@@ -3227,6 +3244,7 @@ date;region;route;root;description
 2016-01-05;Lithuania;Vilnius - Kaunas Greitkelio;ltu.vilkaugre;New Route
 2016-01-05;Lithuania;Vilnius - Panevezys Greitkelio;ltu.vilpangre;New Route
 2015-10-17;Lithuania;E262;ltu.e262;Route relocated from A6 onto A20 between western and eastern junctions between the A6 and A20
+2024-09-13;Luxembourg;N90;lux.n090;Route extended at west end from CR339 to N18
 2023-05-30;Luxembourg;A4;lux.a004;Route truncated at west end from N31 to west of Jonction Lankelz, and reextended to B40
 2023-05-30;Luxembourg;B40;lux.b040;Route extended at north end from Porte des Sciences to A4
 2023-03-15;Luxembourg;B4;lux.n056;Route renumbered N56
@@ -6046,6 +6064,7 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2024-09-16;(UK) England;A263;eng.a0263;Route added
 2024-09-11;(UK) England;A12;eng.a0012;Route truncated at north end from old northern junction with A47 in the town centre to new southern junction with A47 and route extended over Gull Wing Bridge and former A1117 to new northern junction with A47
 2024-09-11;(UK) England;A47 (Peterborough);eng.a0047;Route extended at east end from southern junction with A47 (Lowestoft) (formerly southern junction with A12) to new southern junction with A12
 2024-09-11;(UK) England;A47 (Lowestoft);eng.a0047low;Route added
@@ -9094,6 +9113,8 @@ date;region;route;root;description
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quarry Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2024-09-14;(USA) West Virginia;WV 41;wv.wv041;Removed from old alignment of Stanaford Road in Beckley between intersections with US 19 & McCulloch Drive, and relocated slightly north onto a new bridge alignment between the old intersection with US 19 (OldWV41) & McCDr.  This includes a small extension of the multiplex with US 19, thus requiring the point 'US19_BecN' to shift locations to the north by 0.1 miles, and the old intersection becoming 'OldWV41'.
+2024-09-14;(USA) West Virginia;US 19;wv.us019;Shifted the point 'WV41_BecN' 0.1 miles to the north to a new intersection, due to a reroute of WV 41 onto a new bridge in Beckley. Old location is now called 'OldWV41_N'.
 2024-08-08;(USA) West Virginia;US 35;wv.us035;Extended southward from interchange with I-64 to CR 33 (Teays Valley Rd).
 2024-07-21;(USA) West Virginia;US 33;wv.us033;Removed from old 2-lane road (now only Ripley Road) between the old road alignment (*OldUS33_Spe) & MidForkRd to the west of Spencer, and relocated onto a brand new 2-lane bypass just to the north that now bypasses several curvy segments.
 2023-12-16;(USA) West Virginia;WV 108;wv.wv108;Added route.
