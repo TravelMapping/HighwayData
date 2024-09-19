@@ -76,6 +76,7 @@ Notes on routes:
 * 1375 [is signed](https://www.google.com/maps/@16.1202357,99.9391238,3a,15y,174.2h,58.18t/data=!3m7!1e1!3m5!1sNjDt8VKie0wZp4wh0QfuHA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DNjDt8VKie0wZp4wh0QfuHA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D174.20369127400497%26pitch%3D31.816571997038537%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1376 seems to be unsigned (as of 2024).
 * 1377 seems to be unsigned (as of 2021).
+* 1379 seems to be unsigned (as of 2024).
 * 1380 seems to be unsigned (as of 2024).
 * 1394 is unsigned (as of 2024).
 * 1396 seems to be unsigned (as of 2024), though most of it is unpaved and lacks imagery.
