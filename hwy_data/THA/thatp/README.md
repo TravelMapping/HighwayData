@@ -49,6 +49,7 @@ Notes on routes:
 * 1069 [is signed](https://www.google.com/maps/@16.0239739,100.4518856,3a,15y,228.25h,86.44t/data=!3m7!1e1!3m5!1sU3zDFAkZ6fms2G9o4_qSoQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DU3zDFAkZ6fms2G9o4_qSoQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D228.25449098835915%26pitch%3D3.562213823323731%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1090's south end may be wrong.
 * 1097 [is signed east to 101](https://www.google.com/maps/@19.2931861,100.8715544,3a,75y,218.68h,87.91t/data=!3m7!1e1!3m5!1sieBj36XwlmQMBMqVmraeyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DieBj36XwlmQMBMqVmraeyg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D218.68129805430328%26pitch%3D2.093295936404658%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), even though the GIS data shows its east end at old 1080.
+* 1100 seems to be unsigned (as of 2022).
 * 1101 [is signed west of 129](https://www.google.com/maps/@18.1571615,100.1753919,3a,23.7y,14.98h,101.16t/data=!3m7!1e1!3m5!1s48j3M0WkoHwS-Dr21rp_JQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D48j3M0WkoHwS-Dr21rp_JQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D14.975705550883218%26pitch%3D-11.164260053065703%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024), even though the GIS data shows its west end there.
 * 1104 seems to be unsigned (as of 2023).
 * 1107 [is signed](https://www.google.com/maps/@16.8816184,99.1130997,3a,19.9y,51.6h,87.58t/data=!3m7!1e1!3m5!1sHhKZ0rvga3LViYacVw7JwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DHhKZ0rvga3LViYacVw7JwQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D51.59709599778753%26pitch%3D2.416892579497002%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
@@ -78,6 +79,7 @@ Notes on routes:
 * 1380 seems to be unsigned (as of 2024).
 * 1394 is unsigned (as of 2024).
 * 1396 seems to be unsigned (as of 2024), though most of it is unpaved and lacks imagery.
+* 1398 [is signed as a branch of 1335](https://www.google.com/maps/@18.51806,99.6351236,3a,16y,288.8h,88.89t/data=!3m6!1e1!3m4!1sq_HcNV43ubdnljVPj0hhLA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D).
 * 1399 seems to be unsigned (as of 2024).
 * 1401 seems to be unsigned (as of 2022).
 * 1402 [is signed](https://www.google.com/maps/@16.5768702,98.6545542,3a,15y,216.44h,77.14t/data=!3m6!1e1!3m4!1soPSuPsDJErglgEG-WIGLIQ!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D).
