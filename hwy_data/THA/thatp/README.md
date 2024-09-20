@@ -71,7 +71,8 @@ Notes on routes:
 * 1321 is not in the GIS data, but it [is signed](https://www.google.com/maps/@18.0129649,99.358475,3a,15.7y,211.91h,84.72t/data=!3m7!1e1!3m5!1syIcqZTk9qT9PIVitUns5Xw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DyIcqZTk9qT9PIVitUns5Xw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D211.9148616116878%26pitch%3D5.278925021192066%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * 1331 [is signed](https://www.google.com/maps/@16.6880642,99.6008538,3a,15.2y,160.8h,64.06t/data=!3m7!1e1!3m5!1sCV6sqLZC_aaFqqaLg95joA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCV6sqLZC_aaFqqaLg95joA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D160.79940420509607%26pitch%3D25.944341413207923%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1340 seems to be unsigned (as of 2021).
-* 1354 seems to be in the wrong place (on Chr1056) in the GIS data.
+* 1345 [seems to be unsigned](https://www.google.com/maps/@19.5231163,100.3389241,3a,20.4y,187.03h,73.63t/data=!3m6!1e1!3m4!1s6_CSp_r5m1sIbtehlK15SA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D) (as of 2022).
+* 1354 is in the wrong place (on Chr1056) in the GIS data.
 * 1358 seems to be unsigned (as of 2022), but the GIS data places it partially on a nonexistent road.
 * 1363 is unsigned (as of 2024).
 * 1368 ([old 101](https://www.google.com/maps/@17.0014095,99.7913243,3a,15y,241.5h,68.53t/data=!3m8!1e1!3m6!1spw0Jh7j4w-VOvCBoIozNoQ!2e0!5s20140101T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dpw0Jh7j4w-VOvCBoIozNoQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D241.49631660040401%26pitch%3D21.466126243616984%26thumbfov%3D90!7i13312!8i6656?coh=205410&entry=ttu)) seems to be unsigned (as of 2023).
@@ -285,6 +286,8 @@ Notes on routes:
 [An older style of rural road shield?](https://www.google.com/maps/@15.7693079,103.7350699,3a,15y,253.46h,79.69t/data=!3m7!1e1!3m5!1sV8LoUtCtuYFIE_joGe2P-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DV8LoUtCtuYFIE_joGe2P-A%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D253.46320115162092%26pitch%3D10.306931447929543%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu)
 
 [New local road sign in front of old style](https://www.google.com/maps/@13.6837415,99.8695494,3a,15y,277.33h,87.49t/data=!3m7!1e1!3m5!1skU2dbcVkRCZ3hCa3FGxfnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.5133119188007527%26panoid%3DkU2dbcVkRCZ3hCa3FGxfnQ%26yaw%3D277.32881764505436!7i16384!8i8192?coh=205410&entry=ttu) (not sure that old is a local road)
+
+[New style local road sign for an old style number?](https://www.google.com/maps/@19.3291769,99.7947762,3a,15y,224.95h,83.36t/data=!3m7!1e1!3m5!1sfDJfuRF7hB513TS88FkF6w!2e0!5s20130501T000000!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D)
 
 Rural road prefix table:
 
