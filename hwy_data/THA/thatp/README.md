@@ -83,6 +83,7 @@ Notes on routes:
 * 1380 seems to be unsigned (as of 2024).
 * 1394 is unsigned (as of 2024).
 * 1396 seems to be unsigned (as of 2024), though most of it is unpaved and lacks imagery.
+* 1397 does not exist as shown in the GIS data (there is no road), and it's not clear where it's supposed to be.
 * 1398 [is signed as a branch of 1335](https://www.google.com/maps/@18.51806,99.6351236,3a,16y,288.8h,88.89t/data=!3m6!1e1!3m4!1sq_HcNV43ubdnljVPj0hhLA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D).
 * 1399 seems to be unsigned (as of 2024).
 * 1401 seems to be unsigned (as of 2022).
