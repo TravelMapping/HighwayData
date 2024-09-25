@@ -52,7 +52,7 @@ Notes on routes:
 * 1097 [is signed east to 101](https://www.google.com/maps/@19.2931861,100.8715544,3a,75y,218.68h,87.91t/data=!3m7!1e1!3m5!1sieBj36XwlmQMBMqVmraeyg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DieBj36XwlmQMBMqVmraeyg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D218.68129805430328%26pitch%3D2.093295936404658%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), even though the GIS data shows its east end at old 1080.
 * 1100 seems to be unsigned (as of 2022).
 * 1101 [is signed west of 129](https://www.google.com/maps/@18.1571615,100.1753919,3a,23.7y,14.98h,101.16t/data=!3m7!1e1!3m5!1s48j3M0WkoHwS-Dr21rp_JQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D48j3M0WkoHwS-Dr21rp_JQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D14.975705550883218%26pitch%3D-11.164260053065703%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024), even though the GIS data shows its west end there.
-* 1104 seems to be unsigned (as of 2023).
+* 1104 seems to be unsigned (as of 2023). A different 1104 [is signed](https://www.google.com/maps/@17.2948465,100.0855111,3a,15y,306.89h,87.21t/data=!3m6!1e1!3m4!1s_6gTBEKsk-7hypfxjStSsQ!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D) (as of 2023) but is not in the GIS data.
 * 1107 [is signed](https://www.google.com/maps/@16.8816184,99.1130997,3a,19.9y,51.6h,87.58t/data=!3m7!1e1!3m5!1sHhKZ0rvga3LViYacVw7JwQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DHhKZ0rvga3LViYacVw7JwQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D51.59709599778753%26pitch%3D2.416892579497002%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1117 does not physically go as far as the GIS data shows.
 * 1123 [is signed](https://www.google.com/maps/@18.2999204,101.1181404,3a,31.3y,181h,60.8t/data=!3m6!1e1!3m4!1s-YxPxAqDgoVJbd76NyclXg!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D).
@@ -63,6 +63,7 @@ Notes on routes:
 * [1194's east end](https://www.google.com/maps/@18.1575818,97.9278815,3a,15y,314.08h,69.07t/data=!3m7!1e1!3m5!1s96h-WioMBAK1Y0j6W-6Fhg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D96h-WioMBAK1Y0j6W-6Fhg%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D314.0831175652908%26pitch%3D20.925979174262906%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) is not where the GIS data shows it, at the junction of 105 and 108.
 * 1194's west end may be wrong.
 * 1207 is not in the GIS data, but it [is signed](https://www.google.com/maps/@19.9395713,99.8056546,3a,41.4y,60.77h,98.24t/data=!3m7!1e1!3m5!1sOf1E-TCfVZMIXahrIUVUOw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOf1E-TCfVZMIXahrIUVUOw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D60.77293149062109%26pitch%3D-8.235601769282624%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
+* 1212 is not in the GIS data, but it [is signed](https://www.google.com/maps/@17.6644327,100.7602749,3a,21.9y,225.84h,76.66t/data=!3m6!1e1!3m4!1s_oUGb2A13p8d6h25-1894A!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D) with a faded shield (as of 2024).
 * 1226's north end may be wrong.
 * 1234 seems to be unsigned (as of 2022).
 * 1250 [is signed](https://www.google.com/maps/@19.2766183,97.9548703,3a,15y,337.65h,78.78t/data=!3m7!1e1!3m5!1smo9bycdPxjI475-U6cpIyQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dmo9bycdPxjI475-U6cpIyQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D337.6462717241334%26pitch%3D11.223797302582113%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu). Its east end seems to be [here](https://www.google.com/maps/@19.282652,97.9583094,3a,15.3y,348.19h,87.13t/data=!3m7!1e1!3m5!1sih69-0Fj0kYX2s_NSHDc0Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3Dih69-0Fj0kYX2s_NSHDc0Q%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D348.1884730810912%26pitch%3D2.872596725055047%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu), not at 128 (where the GIS data shows km 0.221).
@@ -72,6 +73,7 @@ Notes on routes:
 * 1321 is not in the GIS data, but it [is signed](https://www.google.com/maps/@18.0129649,99.358475,3a,15.7y,211.91h,84.72t/data=!3m7!1e1!3m5!1syIcqZTk9qT9PIVitUns5Xw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DyIcqZTk9qT9PIVitUns5Xw%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D211.9148616116878%26pitch%3D5.278925021192066%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * 1331 [is signed](https://www.google.com/maps/@16.6880642,99.6008538,3a,15.2y,160.8h,64.06t/data=!3m7!1e1!3m5!1sCV6sqLZC_aaFqqaLg95joA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DCV6sqLZC_aaFqqaLg95joA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D160.79940420509607%26pitch%3D25.944341413207923%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1340 seems to be unsigned (as of 2021).
+* 1341 seems to be unsigned (as of 2021).
 * 1345 [seems to be unsigned](https://www.google.com/maps/@19.5231163,100.3389241,3a,20.4y,187.03h,73.63t/data=!3m6!1e1!3m4!1s6_CSp_r5m1sIbtehlK15SA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D) (as of 2022).
 * 1350 is signed, but not on all the branches. It is assumed there is only one signed main route (imagery is lacking).
 * 1354 is in the wrong place (on Chr1056) in the GIS data.
@@ -83,6 +85,8 @@ Notes on routes:
 * 1377 seems to be unsigned (as of 2021).
 * 1379 seems to be unsigned (as of 2024).
 * 1380 seems to be unsigned (as of 2024).
+* 1382 [is unsigned](https://www.google.com/maps/@17.3060222,100.0749554,3a,75y,230.59h,83.32t/data=!3m6!1e1!3m4!1sZVexxGnb0i0tBum57BqyfQ!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxNi4wIKXMDSoASAFQAw%3D%3D) (as of 2023).
+* 1383 (a wye connection at 11 and 1204) is unsigned.
 * 1394 is unsigned (as of 2024).
 * 1396 seems to be unsigned (as of 2024), though most of it is unpaved and lacks imagery.
 * 1397 does not exist as shown in the GIS data (there is no road), and it's not clear where it's supposed to be.
@@ -97,7 +101,6 @@ Notes on routes:
 * 1424 is unsigned (as of 2024).
 * 1425 seems to be unsigned (as of 2022).
 * 1427 is signed as part of 1084.
-* 1383 (a wye connection at 11 and 1204) is unsigned.
 * 1408 may be unsigned; at least part of it is [signed as Sth7058](https://www.google.com/maps/@17.309488,99.9733522,3a,15y,144.83h,66.87t/data=!3m6!1e1!3m4!1sZeVZgYJkG5Ag1qslNfsCDA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D).
 * 1412 [is signed](https://www.google.com/maps/@15.7026684,100.4616112,3a,32.8y,113.49h,80.3t/data=!3m7!1e1!3m5!1sXFEturUoVO8GZMoQQbly0g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DXFEturUoVO8GZMoQQbly0g%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D113.4908393418836%26pitch%3D9.700085045601028%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 1419 [is signed](https://www.google.com/maps/@17.973873,100.0792194,3a,75y,252.36h,105.51t/data=!3m7!1e1!3m5!1sZgsiSr7HdMQDxb3UfeJw3Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DZgsiSr7HdMQDxb3UfeJw3Q%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D252.35510531010942%26pitch%3D-15.507539716271353%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
