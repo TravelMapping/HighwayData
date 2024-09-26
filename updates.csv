@@ -1353,6 +1353,7 @@ date;region;route;root;description
 2020-11-08;(France) Centre-Val de Loire;D403-77;fracvl.d040377;New Route
 2020-07-09;(France) Centre-Val de Loire;E60;fracvl.e60;Route removed from D751 and D37 and relocated onto A85 and A10 between A85 exit 9 and A10 exit 24
 2020-07-09;(France) Centre-Val de Loire;E604;fracvl.e604;Route truncated at west end from A85 exit 9 to A10
+2024-09-25;(France) Corsica;D72;fracor.d072;Route added
 2021-05-24;(France) Corsica;T40;fracor.t040;Route extended at south end from northern junction with T402 (also the southern junction with D257) to D58
 2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
@@ -2630,6 +2631,17 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2024-09-25;Indonesia;T17 (Java);idn.t017;Route extended at west end from exit 38 to exit 0 and extended at east end from exit 26 to exit 33
+2024-09-25;Indonesia;T17 (Cikarang, Java);idn.t017;Route deleted (merged into main T17)
+2024-09-25;Indonesia;T17 (Tangerang, Java);idn.t017;Route deleted (merged into main T17)
+2024-09-25;Indonesia;Jalan Tol Serang–Panimbang, Java;idn.jtsp;Route added
+2024-09-25;Indonesia;Jalan Tol Yogyakarta–Surakarta, Java;idn.jtys;Route added
+2024-09-25;Indonesia;T1 (Sumatra);idn.t001sum;Route extended at north end from exit 29 to exit 55 and extended at south end from exit 87 to exit 156
+2024-09-25;Indonesia;T6 (Sumatra);idn.t006sum;Route extended at south end from exit 18 to exit 82
+2024-09-25;Indonesia;Jalan Tol Kuala Tanjung–Tebing Tinggi, Sumatra;idn.jtkttt;Route added
+2024-09-25;Indonesia;Jalan Tol Padang–Penkanbaru, Sumatra;idn.jtpp;Route extended at west from from exit 40 to Jalan Raya Bangkinang
+2024-09-25;Indonesia;Jalan Tol Sigli–Banda Aceh, Sumatra;idn.jtsba;Route extended at north end from exit 61 to Jalan Laksamana Malahayati
+2024-09-25;Indonesia;Jalan Tol Tebing Tinggi–Parapat, Sumatra;idn.jtttp;Route added
 2023-09-19;Indonesia;T13 (Java);idn.t013;Route extended at east end from exit 840 to exit 849
 2023-08-12;Indonesia;T2 (Java);idn.t002;Route extended at south end from exit 61 to exit 72
 2023-07-27;Indonesia;T4 (Java);idn.t004;Route extended at east end from exit 187 to exit 217
@@ -6773,6 +6785,8 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
+2024-09-25;(USA) Connecticut;CT 8;ct.ct008;Relabeled exits from sequential to mileage-based.
+2024-09-25;(USA) Connecticut;CT 25;ct.ct025;Relabeled exits from sequential to mileage-based.
 2023-10-01;(USA) Connecticut;I-691;ct.i691;Relabeled exits from sequential to mileage-based.
 2023-10-01;(USA) Connecticut;CT 66;ct.ct066;Relabeled exits from sequential to mileage-based.
 2023-03-12;(USA) Connecticut;CT 9;ct.ct009;Relabeled exits from sequential to mileage-based.
@@ -8952,6 +8966,7 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2024-09-25;(USA) Utah;UT 201 (Salt Lake City);ut.ut201sal;New Route
 2024-08-23;(USA) Utah;UT 193;ut.ut193;Route extended at west end from UT 177 to UT 110.
 2024-08-23;(USA) Utah;UT 106;ut.ut106;Rerouted from Main Street onto Shepard Lane at north end. Now ends at US 89 exit 396 instead of exit 397.
 2024-04-03;(USA) Utah;UT 287;ut.ut287;Route truncated at north end removing it from now-closed access road to former state prison. Portion along I-15 frontage road up to intersection with former prison access road remains.
