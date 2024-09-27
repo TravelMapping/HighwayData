@@ -647,6 +647,7 @@ date;region;route;root;description
 2016-11-19;(Canada) Nova Scotia;TCH (Main);ns.tchmai;Removed from a closed temporary connector and NS 4, and relocated onto a parallel four-lane divided highway between closed intersections labeled *OldNS104_Ant & *OldNS104_LSR
 2016-02-27;(Canada) Nova Scotia;NS 255;ns.ns255;Removed from a closed roadway and demolished bridge, and relocated onto a new parallel roadway and bridge to the east between points labeled *OldNS255_N and *OldNS255_S
 2016-01-02;(Canada) Nova Scotia;NS 103;ns.ns103;Removed from partially-closed local roads through Port Joli and East Port L'Hebert, and relocated onto a limited-access bypass to the north, between closed intersections labeled *OldNS103_PJo and *OldNS103_EPL
+2024-09-22;(Canada) Ontario;ON 6;on.on006;Extended at southern end from a closed intersection with Saint Patrick Street, south 0.25 km to the intersection of Main Street/Walker Street, based on signage.
 2024-01-19;(Canada) Ontario;Dougall Parkway;on.doupkwy;Added route.
 2024-01-19;(Canada) Ontario;Highway 2A;on.hwy2a;Added route.
 2024-01-19;(Canada) Ontario;Nikola Tesla Boulevard;on.niktesblvd;Added route.
@@ -890,7 +891,10 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
-2024-09-03;Czechia;O28 (Klatovy);cze.i027kla;New Route
+2024-09-09;Czechia;E67;cze.e67;Route relocated from through Jaroměř and onto D11 and I33 between D11's exit 108 to II307
+2024-09-09;Czechia;I33;cze.i033;Route truncated at west end from D11's exit 108 to II307 (through Jaroměř), and reextended to D11's exit 113 (Jaroměř northern bypass)
+2024-09-09;Czechia;I37 (Trutnov);cze.i037tru;Route truncated at south end from old I33 in Jaroměř to new I33 Jaroměř northern bypass
+2024-09-03;Czechia;I27 (Klatovy);cze.i027kla;New Route
 2024-08-27;Czechia;D6 (Kladno);cze.d006;Route extended at west end from Krušovice to Nesuchyně
 2024-08-27;Czechia;E48;cze.e48;Route relocated from through Krupá and onto new bypass between Krušovice and Nesuchyně
 2024-08-27;Czechia;I6 (Nové Strašecí);cze.i006;Route truncated at east end from Krušovice to Nesuchyně (II606 now)
@@ -1349,6 +1353,7 @@ date;region;route;root;description
 2020-11-08;(France) Centre-Val de Loire;D403-77;fracvl.d040377;New Route
 2020-07-09;(France) Centre-Val de Loire;E60;fracvl.e60;Route removed from D751 and D37 and relocated onto A85 and A10 between A85 exit 9 and A10 exit 24
 2020-07-09;(France) Centre-Val de Loire;E604;fracvl.e604;Route truncated at west end from A85 exit 9 to A10
+2024-09-25;(France) Corsica;D72;fracor.d072;Route added
 2021-05-24;(France) Corsica;T40;fracor.t040;Route extended at south end from northern junction with T402 (also the southern junction with D257) to D58
 2021-05-24;(France) Corsica;T40 (Bonifacio);fracor.t040;Route merged into main T40 route
 2019-10-31;(France) Corsica;All Routes;;Region name changed from FRH to FRA-COR
@@ -1356,6 +1361,7 @@ date;region;route;root;description
 2022-09-22;(France) French Guiana;N5;;Route removed
 2022-09-22;(France) French Guiana;N2001 (Sinnamary);guf.d021;Route removed
 2022-09-22;(France) French Guiana;N2001 (Kourou);;Route removed
+2024-09-14;(France) Grand-Est;N67;frages.d052052;Route renamed to D520-52
 2023-02-13;(France) Grand-Est;M663-6ae;frages.m06636ae;New Route
 2022-05-14;(France) Grand-Est;N52 (Rombas);frages.n052rom;Route relocated from through frages.n052rom and onto new bypass from D52A to D181
 2021-12-21;(France) Grand-Est;A4 (Metz);frages.a004;Route truncated at east end from exit 51 to exit 48 (M35-6ae now)
@@ -1557,8 +1563,51 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2024-09-13;(Germany) Baden-Württemberg;B500 (Baden-Baden);deubw.b500bad;Route relocated from Hauptstraße and Eckbergstraße, and onto Haupstraße and Maximilianstraße between Geroldsauer Straße and Eckbergstraße in Baden-Baden-Lichtental
+2024-09-13;(Germany) Baden-Württemberg;L78;deubw.l0078;Route truncated at west end from Geroldsauer Straße to Maximilianstraße (B500 now)
+2024-09-13;(Germany) Baden-Württemberg;L81;deubw.l0081;New Route
+2024-09-13;(Germany) Baden-Württemberg;L309;deubw.l0309;Route truncated at west end from Bad Wurzach to Seibranz
+2024-09-13;(Germany) Baden-Württemberg;L343a;deubw.l0343a;New Route
+2024-09-13;(Germany) Baden-Württemberg;L442n;deubw.l0442n;New Route
+2024-09-13;(Germany) Baden-Württemberg;L543 (Schwetzingen);deubw.l0630sch;Route renamed to L630
+2024-09-13;(Germany) Baden-Württemberg;L543 (Eppelheim);;Route deleted
+2024-09-12;(Germany) Baden-Württemberg;B317 (Feldberg);deubw.b317fel;New Route
+2024-09-12;(Germany) Baden-Württemberg;L240 (Erbach);deubw.l0240erb;New Route
+2024-09-12;(Germany) Baden-Württemberg;L302;deubw.l0302;New Route
+2024-09-12;(Germany) Baden-Württemberg;L378a;deubw.l0378a;Route truncated at east end from B313 to B312
+2024-09-12;(Germany) Baden-Württemberg;L1185;deubw.l1185;Route truncated at east end from B313 to Lindenplatz (via Stuttgarter Straße), and reextended to B313 (via Denkendofer Weg and Wendlinger Straße)
+2024-09-11;(Germany) Baden-Württemberg;B295 (Weil der Stadt);deubw.b295wei;New Route
+2024-09-11;(Germany) Baden-Württemberg;B298;deubw.b298;Route relocated from Pfitzerstraße, Baldungstraße and Vordere Schmiedgasse, and onto Graf-von-Soden-Straße and Herlikofer Straße in Schwäbisch Gmünd
+2024-09-11;(Germany) Baden-Württemberg;L571a;;Route deleted
+2024-09-11;(Germany) Baden-Württemberg;L1100 (Heilbronn);deubw.l1100hei;Route truncated at south end from L1106 to B293
+2024-09-11;(Germany) Baden-Württemberg;L1200a;deubw.l1200a;Route truncated at east end from Alleenstraße to Stuttgarter Straße
+2024-09-11;(Germany) Baden-Württemberg;L1201 (Kirchheim unter Teck);deubw.l1201kir;New Route
+2024-09-10;(Germany) Baden-Württemberg;B292;deubw.b292;Route extended at east end from A81 exit 6 to B290
+2024-09-10;(Germany) Baden-Württemberg;B292 (Boxberg);deubw.b292;Merged into main route
+2024-09-10;(Germany) Baden-Württemberg;L547;deubw.l0547;Route extended at east end from Bahnhofstraße to B45
+2024-09-10;(Germany) Baden-Württemberg;L1012;deubw.l1012;Route extended at east end from Satteldorfer Hauptstraße to B290
+2024-09-10;(Germany) Baden-Württemberg;L1036;deubw.l1036;Route truncated at west end from Hauptstraße in Weinsberg to north of Weinsberg, and reextended to B39
+2024-09-10;(Germany) Baden-Württemberg;L1101;deubw.l1101;Route truncated at east end from east of Weinsberg (B39) to west of Weinsberg (B39)
+2024-09-09;(Germany) Baden-Württemberg;L223 (Steißlingen);deubw.l0223;Route truncated at south end from L222 to B33
+2024-09-09;(Germany) Baden-Württemberg;L223 (Überlingen am Ried);deubw.l0223ube;New Route (former south end of main route)
+2024-09-09;(Germany) Baden-Württemberg;L226a;;Route deleted
+2024-09-09;(Germany) Baden-Württemberg;L538;deubw.l0538;Route extended at west end from Feudenheim (B38a) to Neckarstadt-West (B44)
+2024-09-09;(Germany) Baden-Württemberg;L542;deubw.l0542;Route extended at south end from Seckenheim (L637) to Rheinau (B36)
+2024-09-08;(Germany) Baden-Württemberg;L115;deubw.l0115;Route extended at east from B31a north of Gottenheim through Gottenheim and Umkirch to B31a east of Umkirch
+2024-09-08;(Germany) Baden-Württemberg;L116;deubw.l0116;Route extended at south end from B31a to Umkirch (L115)
+2024-09-08;(Germany) Baden-Württemberg;L173;deubw.l0173;Route extended at east end from L181 to B523
+2024-09-08;(Germany) Baden-Württemberg;L173 (Villingen);deubw.l0173;Merged into main route
+2024-09-08;(Germany) Baden-Württemberg;L178 (Obereschach);deubw.l0178;Route truncated at south end from Donaueschingen (L180) to B33 in the north of Villingen, and reextended into Villingen (L173)
+2024-09-08;(Germany) Baden-Württemberg;L178 (Kirchdorf);deubw.l0178kir;New Route (former main route from B33 southeast of Villingen to Donaueschingen (L180)
+2024-09-08;(Germany) Baden-Württemberg;L195c;;Route deleted
+2024-09-08;(Germany) Baden-Württemberg;L286;deubw.l0286;Route relocated from Hauptstraße and Ebersbacher Straße, and onto Haggenmooser Straße, Saulgauer Straße in Altshausen
+2024-09-08;(Germany) Baden-Württemberg;L300 (Bad Waldsee);deubw.l0300wal;Route extended at west end from Friedhofstraße (L316) to Bad Waldsee-North interchange with B30
+2024-09-08;(Germany) Baden-Württemberg;L313;deubw.l0313;New Route
+2024-09-08;(Germany) Baden-Württemberg;L411;deubw.l0411;New Route
+2024-09-08;(Germany) Baden-Württemberg;L1158;deubw.l1158;Route extended at south end from Hauptstraße in Mögglingen to B29 (former L1161)
+2024-09-08;(Germany) Baden-Württemberg;L1161;deubw.l1161;Route truncated at east end from Hauptstraße in Mögglingen to B29 (L1158 now)
 2024-09-07;(Germany) Baden-Württemberg;L1016;deubw.l1016;Route extended at north end from L1014 to B14
-2024-09-07;(Germany) Baden-Württemberg;L1066 (Sulzbach an der Murr);deubw.l1066;New Route
+2024-09-07;(Germany) Baden-Württemberg;L1066 (Sulzbach an der Murr);deubw.l1066sul;New Route
 2024-09-07;(Germany) Baden-Württemberg;L1100 (Marbach);deubw.l1100;Route relocated in Bad Cannstatt from Rosensteinbrücke and Schönestraße, and onto Neckartalstraße and König-Karls-Brücke
 2024-09-07;(Germany) Baden-Württemberg;L1217a;deubw.l1217a;New Route
 2024-09-07;(Germany) Baden-Württemberg;L1218;deubw.l1218;Route truncated at north end from Göppingen (L1217) to Schlat, and reextended to Süßen (L1214)
@@ -1799,6 +1848,7 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2024-09-13;(Germany) Brandenburg;L215;;Route deleted
 2024-04-07;(Germany) Brandenburg;L59;deubb.l059;Route truncated at west end from B183 to L64
 2024-04-07;(Germany) Brandenburg;L71 (Leibsch);deubb.l071lei;New Route
 2024-02-24;(Germany) Brandenburg;L37 (Müllrose);deubb.l037;Route truncated at north end from Zechin (L33) to Petershagen (B5)
@@ -1841,6 +1891,8 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2024-09-13;(Germany) Hesse;B7 (Kassel);deuhe.b007;Route relocated from through Calden and onto new bypass from Airport to Holländische Straße east of Calden
+2024-09-13;(Germany) Hesse;B7 (Calden);deuhe.b007;Route merged into main route due to the completion of the bypass
 2024-05-26;(Germany) Hesse;B457;deuhe.b457;Route extended at north end from A485 to transition to city street
 2024-05-26;(Germany) Hesse;L3184 (Gedern);deuhe.l3184ged;New Route
 2024-05-24;(Germany) Hesse;B54 (Michelbach);deuhe.b054mic;New Route
@@ -1855,7 +1907,7 @@ date;region;route;root;description
 2023-10-21;(Germany) Hesse;B252;deuhe.b252;Route relocated from through Dorfitter and onto eastern bypass
 2022-12-24;(Germany) Hesse;B80 (Bad Karlshafen);deuhe.b080;Route extended at west end from Bremer Straße in Bad Karlshafen to border with NW (former B83)
 2022-12-24;(Germany) Hesse;B83 (Hofgeismar);deuhe.b083hof;Route truncated at north end from Bad Karlshafen to K74 south of Bad Karlshafen and reextended onto new bypass to the border with NW
-2022-12-24;(Germany) Hesse;B7 (Calden);deuhe.b007cal;New Route
+2022-12-24;(Germany) Hesse;B7 (Calden);deuhe.b007;New Route
 2022-10-29;(Germany) Hesse;L3225 (Großalmerode);deuhe.l3225gro;Route extended at south end from A44's exit 76 to L3228 in Fürstenhagen
 2022-10-29;(Germany) Hesse;L3460;deuhe.l3460;Route extended at east end from Eschenstruth to A44's exit 75
 2022-10-29;(Germany) Hesse;B7 (Kassel);deuhe.b007;Route truncated at east end from A44's exit 76 to exit 75
@@ -2500,6 +2552,14 @@ date;region;route;root;description
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2024-09-08;Iceland;TH947;isl.th947;New Route
+2024-09-08;Iceland;TH943;isl.th943;New Route
+2024-09-08;Iceland;TH935;isl.th935;New Route
+2024-09-08;Iceland;TH913;isl.th913;New Route
+2024-09-08;Iceland;TH865;isl.th865;New Route
+2024-09-08;Iceland;TH629;isl.th629;New Route
+2024-09-08;Iceland;TH620;isl.th620;New Route
+2024-09-08;Iceland;TH93;isl.th093;Relocated off of Austurvegur and Lónsleira (ending at ferry terminal) and onto Ránargata, Fjarðargagata, Öldugata, and Lónsleira (passing ferry terminal in opposite direction, ending at Austurvegur) in Seyðisfjörður
 2023-12-05;Iceland;TH60;isl.th060;Relocated onto new causeway across Þorskafjörður between points OldTH60_Tho and TH608
 2023-12-05;Iceland;TH60;isl.th060;Relocated onto new alignment west of Þorskafjörður between points *OldTH60_HjaS and *OldTh60_HjaN
 2023-12-05;Iceland;TH60;isl.th060;Relocated onto new alignment in the vicinity of TH63 between points *OldTH60_HelS and *OldTh60_HelN
@@ -2571,6 +2631,17 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2024-09-25;Indonesia;T17 (Java);idn.t017;Route extended at west end from exit 38 to exit 0 and extended at east end from exit 26 to exit 33
+2024-09-25;Indonesia;T17 (Cikarang, Java);idn.t017;Route deleted (merged into main T17)
+2024-09-25;Indonesia;T17 (Tangerang, Java);idn.t017;Route deleted (merged into main T17)
+2024-09-25;Indonesia;Jalan Tol Serang–Panimbang, Java;idn.jtsp;Route added
+2024-09-25;Indonesia;Jalan Tol Yogyakarta–Surakarta, Java;idn.jtys;Route added
+2024-09-25;Indonesia;T1 (Sumatra);idn.t001sum;Route extended at north end from exit 29 to exit 55 and extended at south end from exit 87 to exit 156
+2024-09-25;Indonesia;T6 (Sumatra);idn.t006sum;Route extended at south end from exit 18 to exit 82
+2024-09-25;Indonesia;Jalan Tol Kuala Tanjung–Tebing Tinggi, Sumatra;idn.jtkttt;Route added
+2024-09-25;Indonesia;Jalan Tol Padang–Penkanbaru, Sumatra;idn.jtpp;Route extended at west from from exit 40 to Jalan Raya Bangkinang
+2024-09-25;Indonesia;Jalan Tol Sigli–Banda Aceh, Sumatra;idn.jtsba;Route extended at north end from exit 61 to Jalan Laksamana Malahayati
+2024-09-25;Indonesia;Jalan Tol Tebing Tinggi–Parapat, Sumatra;idn.jtttp;Route added
 2023-09-19;Indonesia;T13 (Java);idn.t013;Route extended at east end from exit 840 to exit 849
 2023-08-12;Indonesia;T2 (Java);idn.t002;Route extended at south end from exit 61 to exit 72
 2023-07-27;Indonesia;T4 (Java);idn.t004;Route extended at east end from exit 187 to exit 217
@@ -3186,6 +3257,7 @@ date;region;route;root;description
 2016-01-05;Lithuania;Vilnius - Kaunas Greitkelio;ltu.vilkaugre;New Route
 2016-01-05;Lithuania;Vilnius - Panevezys Greitkelio;ltu.vilpangre;New Route
 2015-10-17;Lithuania;E262;ltu.e262;Route relocated from A6 onto A20 between western and eastern junctions between the A6 and A20
+2024-09-13;Luxembourg;N90;lux.n090;Route extended at west end from CR339 to N18
 2023-05-30;Luxembourg;A4;lux.a004;Route truncated at west end from N31 to west of Jonction Lankelz, and reextended to B40
 2023-05-30;Luxembourg;B40;lux.b040;Route extended at north end from Porte des Sciences to A4
 2023-03-15;Luxembourg;B4;lux.n056;Route renumbered N56
@@ -3924,6 +3996,9 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2024-09-11;Poland;DK47;pol.dk047;Route rerouted onto new expressway between Soltysia Dolina and DK49
+2024-09-11;Poland;DK49;pol.dk049;Route extended at north end from DW957 (formerly DK47 junction) to new DK47 junction
+2024-09-11;Poland;DW969;pol.dw969;Route rerouted between DK49 (moved) and Ulica Podhalanska from route through Waksmud, Ostrowsko and Lopuszna to bypass
 2024-08-29;Poland;A2 (Minsk Mazowiecki);pol.a002min;Route extended at east end from exit 37 to exit 38
 2024-08-29;Poland;E30;pol.e30;Route removed from DK92 and relocated onto A2 between A2 exits 37 and 38
 2024-08-29;Poland;DK2 (Kaluszyn);pol.dk002kal;Route truncated at west end from A2 exit 37 to A2 exit 38
@@ -6002,6 +6077,12 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2024-09-16;(UK) England;A263;eng.a0263;Route added
+2024-09-11;(UK) England;A12;eng.a0012;Route truncated at north end from old northern junction with A47 in the town centre to new southern junction with A47 and route extended over Gull Wing Bridge and former A1117 to new northern junction with A47
+2024-09-11;(UK) England;A47 (Peterborough);eng.a0047;Route extended at east end from southern junction with A47 (Lowestoft) (formerly southern junction with A12) to new southern junction with A12
+2024-09-11;(UK) England;A47 (Lowestoft);eng.a0047low;Route added
+2024-09-11;(UK) England;A146;eng.a0146;Route extended at east end from A1117 to A12/A1144
+2024-09-11;(UK) England;A1117;eng.a1117;Route truncated at north end from A47 to A146
 2024-06-28;(UK) England;A30;eng.a0030;Route removed from B3288 and relocated onto Chiverton to Carland Cross dual carriageway between B3284 and southern junction with A39
 2024-06-28;(UK) England;B3288;eng.b3288;Route extended at east end from B3284 to A30/A39
 2024-06-28;(UK) England;B5410;eng.b5410;Route extended at south end from School Road to B5261
@@ -6442,6 +6523,7 @@ date;region;route;root;description
 2015-07-25;(UK) Scotland;E16;sct.e16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
 2015-07-25;(UK) Scotland;E5 (Glasgow);sct.e5gla;New Route
 2015-07-25;(UK) Scotland;M74;sct.m074;Route extended at north end from non-junction with the M8 to exit 22 of the M8
+2024-09-11;(UK) Wales;A465;wls.a0465;Route removed from A4059 and relocated onto Heads of the Valleys Road between former eastern junction with the A4059 and the A4059/A4061 junction
 2024-02-15;(UK) Wales;A487;wls.a0487;Route removed from Dyfi Bridge and relocated onto New Dyfi Bridge between 'PontDdy' and (relocated) 'A493_S'
 2024-02-15;(UK) Wales;A493;wls.a0493;Route extended at south end from old A487 point (now 'PontDdy') and new point 'A487'
 2024-02-15;(UK) Wales;A4102;wls.a4102;Route truncated at west end from A465 to A470
@@ -6703,6 +6785,8 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
+2024-09-25;(USA) Connecticut;CT 8;ct.ct008;Relabeled exits from sequential to mileage-based.
+2024-09-25;(USA) Connecticut;CT 25;ct.ct025;Relabeled exits from sequential to mileage-based.
 2023-10-01;(USA) Connecticut;I-691;ct.i691;Relabeled exits from sequential to mileage-based.
 2023-10-01;(USA) Connecticut;CT 66;ct.ct066;Relabeled exits from sequential to mileage-based.
 2023-03-12;(USA) Connecticut;CT 9;ct.ct009;Relabeled exits from sequential to mileage-based.
@@ -8882,6 +8966,7 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2024-09-25;(USA) Utah;UT 201 (Salt Lake City);ut.ut201sal;New Route
 2024-08-23;(USA) Utah;UT 193;ut.ut193;Route extended at west end from UT 177 to UT 110.
 2024-08-23;(USA) Utah;UT 106;ut.ut106;Rerouted from Main Street onto Shepard Lane at north end. Now ends at US 89 exit 396 instead of exit 397.
 2024-04-03;(USA) Utah;UT 287;ut.ut287;Route truncated at north end removing it from now-closed access road to former state prison. Portion along I-15 frontage road up to intersection with former prison access road remains.
@@ -9044,6 +9129,8 @@ date;region;route;root;description
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quarry Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2024-09-14;(USA) West Virginia;WV 41;wv.wv041;Removed from old alignment of Stanaford Road in Beckley between intersections with US 19 & McCulloch Drive, and relocated slightly north onto a new bridge alignment between the old intersection with US 19 (OldWV41) & McCDr.  This includes a small extension of the multiplex with US 19, thus requiring the point 'US19_BecN' to shift locations to the north by 0.1 miles, and the old intersection becoming 'OldWV41'.
+2024-09-14;(USA) West Virginia;US 19;wv.us019;Shifted the point 'WV41_BecN' 0.1 miles to the north to a new intersection, due to a reroute of WV 41 onto a new bridge in Beckley. Old location is now called 'OldWV41_N'.
 2024-08-08;(USA) West Virginia;US 35;wv.us035;Extended southward from interchange with I-64 to CR 33 (Teays Valley Rd).
 2024-07-21;(USA) West Virginia;US 33;wv.us033;Removed from old 2-lane road (now only Ripley Road) between the old road alignment (*OldUS33_Spe) & MidForkRd to the west of Spencer, and relocated onto a brand new 2-lane bypass just to the north that now bypasses several curvy segments.
 2023-12-16;(USA) West Virginia;WV 108;wv.wv108;Added route.

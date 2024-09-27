@@ -10,10 +10,8 @@
 
 
 * ADDITIONAL SOURCES BY STATES:
-- http://www.svz-bw.de/verkehrszaehlung.html
-- http://www.svz-bw.de/info_vm.html
 - https://www.geoportal-bw.de/
+- https://mobidata-bw.de/
 
 
 **NOTES TO ROUTES:**
-- BW `B295` Ditzingen - Leonberg is still in mauttabelle.de but it should finally be rededicated on 1st Januar 2019. It's already unsigned for a long time (not in HB)
