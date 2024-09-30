@@ -205,7 +205,7 @@ Notes on routes:
 * Xt4019Rai's alignment [is correct](https://www.google.com/maps/@17.3606893,100.0576407,3a,39.4y,18.38h,57.45t/data=!3m7!1e1!3m5!1s6AaPZZul3ramJ8fn7Vo1KA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D32.5511581674926%26panoid%3D6AaPZZul3ramJ8fn7Vo1KA%26yaw%3D18.37801927386647!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D).
 * Xt4023 is consistently signed as such, despite the 2023 log (and numbering system) calling it Xt3023.
 * Xt4037's east end may be wrong; it may have a branch as well.
-* Xt4043's south end may be wrong.
+* Xt3043's south end may be wrong.
 * Xt4056's west end may be wrong.
 * [This new bridge](https://www.google.com/maps/@17.3189705,100.0657618,3a,75y,292.51h,77.09t/data=!3m7!1e1!3m5!1su4b-MIq4R6CoGkd1wnUMqQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D12.90552211520685%26panoid%3Du4b-MIq4R6CoGkd1wnUMqQ%26yaw%3D292.5117555260327!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkyNC4wIKXMDSoASAFQAw%3D%3D) may have an Xt number when finished.
 * Xth4012's west end may be wrong; it is based on the length in the 2023 log (the coordinates show it reaching Xth4005).
