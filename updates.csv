@@ -2631,6 +2631,7 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2024-09-30;Indonesia;T9 (Java);idn.t009;Route extended at west end from exit 16 to exit 22
 2024-09-25;Indonesia;T17 (Java);idn.t017;Route extended at west end from exit 38 to exit 0 and extended at east end from exit 26 to exit 33
 2024-09-25;Indonesia;T17 (Cikarang, Java);idn.t017;Route deleted (merged into main T17)
 2024-09-25;Indonesia;T17 (Tangerang, Java);idn.t017;Route deleted (merged into main T17)
@@ -3996,6 +3997,16 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2024-10-01;Poland;S61;pol.s061;Route extended at south end from exit 8 to exit 1
+2024-10-01;Poland;S61 (Łomża);pol.s061;Route deleted (merged into main route)
+2024-10-01;Poland;E67;pol.e67;Route removed off former DK61/DK63 and relocated onto S61 between S61 exits 5 and 8
+2024-10-01;Poland;DK53;pol.dk053;Route extended at south end from DW760 (formerly DW61) to DK60/61
+2024-10-01;Poland;DK61;pol.dk061;Route truncated at north end from DK53 to DK53/60 (old route now DK53)
+2024-10-01;Poland;DK61;pol.dk061;Route extended at north end from DK53/60 to S8 exit 80
+2024-10-01;Poland;DK61 (Łomża);;Route deleted
+2024-10-01;Poland;DK63;pol.dk063;Route removed off former DK61/DK63 and relocated onto S61 between S61 exits 5 and 8
+2024-10-01;Poland;DW760 (Łomża);pol.dw760lom;Route added
+
 2024-09-11;Poland;DK47;pol.dk047;Route rerouted onto new expressway between Soltysia Dolina and DK49
 2024-09-11;Poland;DK49;pol.dk049;Route extended at north end from DW957 (formerly DK47 junction) to new DK47 junction
 2024-09-11;Poland;DW969;pol.dw969;Route rerouted between DK49 (moved) and Ulica Podhalanska from route through Waksmud, Ostrowsko and Lopuszna to bypass
@@ -6077,6 +6088,7 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2024-09-30;(UK) England;A41 (London);eng.a0041lon;Route removed from Akeman Street and relocated on road alongside HS2 and bridge over HS2 between HS2 Works Compound and Waddesdon Hill
 2024-09-16;(UK) England;A263;eng.a0263;Route added
 2024-09-11;(UK) England;A12;eng.a0012;Route truncated at north end from old northern junction with A47 in the town centre to new southern junction with A47 and route extended over Gull Wing Bridge and former A1117 to new northern junction with A47
 2024-09-11;(UK) England;A47 (Peterborough);eng.a0047;Route extended at east end from southern junction with A47 (Lowestoft) (formerly southern junction with A12) to new southern junction with A12
@@ -7633,6 +7645,7 @@ date;region;route;root;description
 2017-06-09;(USA) Maryland;MD 351;;Deleted route
 2016-04-24;(USA) Maryland;MD 717;md.md717;Added route
 2015-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
+2024-09-27;(USA) Massachusetts;MA 111;ma.ma111;Removed from MA 225 & MA 119 and relocated onto Elm St. This is only a correction to Travel Mapping's data, and does not reflect an actual change in routing.
 2024-06-23;(USA) Massachusetts;MA 79;ma.ma079;Removed from a demolished section of the Western Fall River Expressway in the median of MA 138 and relocated onto MA 138 between a waypoint labeled *OldMA79 and the US6 Veterans Memorial Bridge.
 2021-11-21;(USA) Massachusetts;MA 28;ma.ma028;Extended at south end from MA 6A concurrent with MA 6A to US 6.
 2021-09-15;(USA) Massachusetts;I-290;ma.i290;Relabeled exits from sequential to mileage-based. All .list entries broken.
