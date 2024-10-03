@@ -150,7 +150,14 @@ Notes on routes:
 * Lb4059's exact east end may be wrong, but it [definitely goes via Ban Khao Mu Man](https://www.google.com/maps/@15.2546883,100.919645,3a,35.9y,183.4h,70.02t/data=!3m7!1e1!3m5!1sC_N1skpKaateFIC0rtx8uw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D19.978691099109994%26panoid%3DC_N1skpKaateFIC0rtx8uw%26yaw%3D183.40456671224237!7i16384!8i8192?coh=205410&entry=ttu).
 * Lb4136a (an unnamed branch) is not in the 2023 log, but it is signed (including km posts that continue from the branch point).
 * Lb4160 seems to be unsigned (as of 2023).
+* Ms4001Pan's west end may be wrong.
+* Ms4003MoL may be unsigned.
+* Ms3004's route may be wrong.
 * Ms4006 [is signed](https://www.google.com/maps/@18.3436988,98.077527,3a,15.8y,231.39h,81.53t/data=!3m6!1e1!3m4!1s_uSIzJ28Rb4YIzicYR57YA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D).
+* Ms4012's west end may be wrong.
+* Ms5013's north end is probably wrong.
+* Ms4014's north end may be wrong.
+* Ms5021 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@18.7798351,97.8173958,3a,17.1y,326.7h,88.72t/data=!3m7!1e1!3m5!1s9XVRTEj3mlpLa0mBvdeKeQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.276969166556114%26panoid%3D9XVRTEj3mlpLa0mBvdeKeQ%26yaw%3D326.6975994053244!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkzMC4wIKXMDSoASAFQAw%3D%3D) (as of 2024).
 * Nb1036 (connection between Nb3021 and M9) [seems to be unsigned](https://www.google.com/maps/@14.0083301,100.4614079,3a,15y,312.13h,88.46t/data=!3m7!1e1!3m5!1s1OCaSeCu1-DN1lN3_39ECw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5437297787531605%26panoid%3D1OCaSeCu1-DN1lN3_39ECw%26yaw%3D312.1263051245251!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * Nb5038 (Maha Chesadabodindranusorn Bridge approach) seems to be unsigned (as of 2024).
 * Nw1001's exact south end may be wrong.
