@@ -109,6 +109,8 @@ Notes on routes:
 * Chb4094's west end may be wrong, but it [no longer makes it all the way to its former end](https://www.google.com/maps/@12.9981596,100.9864035,3a,15y,244.79h,85.18t/data=!3m7!1e1!3m5!1s8Y8mccHnlt6B3bsD2L_3BA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.817989191241139%26panoid%3D8Y8mccHnlt6B3bsD2L_3BA%26yaw%3D244.78524245665207!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDgyMS4wIKXMDSoASAFQAw%3D%3D).
 * Chb3104's west end may be wrong.
 * Chb5108 [may extend south](https://www.google.com/maps/@13.1283982,101.6188253,3a,15y,164.86h,86.26t/data=!3m7!1e1!3m5!1sDzyQQDFWlXMQNJNGMNaH3w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.7367604055129533%26panoid%3DDzyQQDFWlXMQNJNGMNaH3w%26yaw%3D164.85554404233352!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D) to [a branch of Ry5002](https://www.google.com/maps/@13.1247844,101.584553,3a,15y,116.51h,89.93t/data=!3m7!1e1!3m5!1s95NeWNCOC5G5InYMOi294g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.07126290839569549%26panoid%3D95NeWNCOC5G5InYMOi294g%26yaw%3D116.50807641486742!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D), but imagery is not available where they would intersect.
+* Chch4043 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@13.492848,101.5447495,3a,75y,168.79h,71.49t/data=!3m7!1e1!3m5!1ssnOig0QEcgPJ8U67nKnXyA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D18.506296208017943%26panoid%3DsnOig0QEcgPJ8U67nKnXyA%26yaw%3D168.79419593404543!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D) (as of 2024). Signs were installed in 2023-2024.
+* Chch4057 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@13.4498927,102.0011984,3a,29.9y,228.4h,72.18t/data=!3m7!1e1!3m5!1sfanQfCgXszZ8qAZTG4BksQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D17.823928964456286%26panoid%3DfanQfCgXszZ8qAZTG4BksQ%26yaw%3D228.4023249997827!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D) (as of 2024).
 * Chm4030's north end is probably wrong.
 * Chm4039's north end may be wrong.
 * Chm3044's south end may be wrong; the 2023 log seems to show it continuing to Lph2047, but there is no good road or signage south of the mapped end.
@@ -150,7 +152,18 @@ Notes on routes:
 * Lb4059's exact east end may be wrong, but it [definitely goes via Ban Khao Mu Man](https://www.google.com/maps/@15.2546883,100.919645,3a,35.9y,183.4h,70.02t/data=!3m7!1e1!3m5!1sC_N1skpKaateFIC0rtx8uw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D19.978691099109994%26panoid%3DC_N1skpKaateFIC0rtx8uw%26yaw%3D183.40456671224237!7i16384!8i8192?coh=205410&entry=ttu).
 * Lb4136a (an unnamed branch) is not in the 2023 log, but it is signed (including km posts that continue from the branch point).
 * Lb4160 seems to be unsigned (as of 2023).
+* Lph028's east end may be wrong.
+* Ms4001Pan's west end may be wrong.
+* Ms4003MoL may be unsigned.
+* Ms3004's route may be wrong.
 * Ms4006 [is signed](https://www.google.com/maps/@18.3436988,98.077527,3a,15.8y,231.39h,81.53t/data=!3m6!1e1!3m4!1s_uSIzJ28Rb4YIzicYR57YA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D).
+* Ms4011's west end is probably wrong.
+* Ms4012's west end may be wrong.
+* Ms5013's north end is probably wrong.
+* Ms4014's north end may be wrong.
+* Ms3017's south end is probably wrong.
+* Ms5021 [is signed](https://www.google.com/maps/@18.7798351,97.8173958,3a,17.1y,326.7h,88.72t/data=!3m7!1e1!3m5!1s9XVRTEj3mlpLa0mBvdeKeQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.276969166556114%26panoid%3D9XVRTEj3mlpLa0mBvdeKeQ%26yaw%3D326.6975994053244!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkzMC4wIKXMDSoASAFQAw%3D%3D) (as of 2024); it is in the 2023 log (p. 239).
+* Ms3035 [is signed](https://www.google.com/maps/@18.345012,98.1169099,3a,15y,132.47h,80.16t/data=!3m7!1e1!3m5!1svDjKAHTFuSJeGmrJkDsDNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.840448585472402%26panoid%3DvDjKAHTFuSJeGmrJkDsDNQ%26yaw%3D132.46795407940164!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkzMC4wIKXMDSoASAFQAw%3D%3D0) (as of 2024) on what the 2023 log calls Ms7020, but perhaps only at its north end.
 * Nb1036 (connection between Nb3021 and M9) [seems to be unsigned](https://www.google.com/maps/@14.0083301,100.4614079,3a,15y,312.13h,88.46t/data=!3m7!1e1!3m5!1s1OCaSeCu1-DN1lN3_39ECw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D1.5437297787531605%26panoid%3D1OCaSeCu1-DN1lN3_39ECw%26yaw%3D312.1263051245251!7i16384!8i8192?coh=205410&entry=ttu) (as of 2024).
 * Nb5038 (Maha Chesadabodindranusorn Bridge approach) seems to be unsigned (as of 2024).
 * Nw1001's exact south end may be wrong.
