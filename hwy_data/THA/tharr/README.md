@@ -1,7 +1,7 @@
 Thailand Rural Roads
 
 Sources:
-* [2023 log](https://web.archive.org/web/20231110221226/https://maintenance.drr.go.th/wp-content/uploads/2022/01/%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%9A%E0%B8%97-%E0%B8%9B%E0%B8%B5-2566.pdf)
+* [2023 log](https://web.archive.org/web/20231110221226/https://maintenance.drr.go.th/wp-content/uploads/2022/01/%E0%B8%9A%E0%B8%B1%E0%B8%8D%E0%B8%8A%E0%B8%B5%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%9A%E0%B8%97-%E0%B8%9B%E0%B8%B5-2566.pdf) (doesn't include the three-digit "community bridges", so some of those are probably missing)
 * [translated info about rural roads from Thai Wikipedia](https://th-m-wikipedia-org.translate.goog/wiki/%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B9%83%E0%B8%99%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp#%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%9A%E0%B8%97)
 * [2021 annual report (Bureau 1 Pathumthani)](https://fliphtml5.com/ukufi/buds/AW8_DRR_AnnualReport2564_Ebook/) including maps
 * [2014 log](https://kb.psu.ac.th/psukb/bitstream/2016/13768/1/%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%96%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87%E0%B8%8A%E0%B8%99%E0%B8%9A%E0%B8%97%E0%B8%9B%E0%B8%B5%202557.pdf)
@@ -174,6 +174,7 @@ Notes on routes:
 * Nw4113's south end may be wrong.
 * Nw3116's north end may be wrong.
 * Nw3119 [is signed at km 0](https://www.google.com/maps/@15.7166294,100.1760179,3a,15y,47.33h,74.83t/data=!3m7!1e1!3m5!1sAJz2gP1k1Fe1xEBNDdAGgg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D15.167808705160397%26panoid%3DAJz2gP1k1Fe1xEBNDdAGgg%26yaw%3D47.33094277334633!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D) and perhaps nowhere else. [Signs on 225](https://www.google.com/maps/@15.7168639,100.1769989,3a,48.9y,213.23h,80.94t/data=!3m7!1e1!3m5!1svsqholosBYz2KAotbu8CZw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.060870210985343%26panoid%3DvsqholosBYz2KAotbu8CZw%26yaw%3D213.23016204521727!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D) call it Nw012.
+* Ny008's north end may be wrong.
 * Ny018's exact north end may be wrong.
 * Ny030's exact east end may be wrong.
 * Ny3007 [is signed](https://www.google.com/maps/@14.147717,100.9864849,3a,15y,382.42h,87.45t/data=!3m7!1e1!3m5!1sVJYVSuewC4u5pOM-Q2G9qQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D2.552202004903066%26panoid%3DVJYVSuewC4u5pOM-Q2G9qQ%26yaw%3D22.418629225517748!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D) (as of 2024), but the 2023 log calls it part of Ny2024.
