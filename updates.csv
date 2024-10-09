@@ -893,6 +893,13 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2024-10-09;Czechia;I42 (Rokytova);cze.i042;New route
+2024-10-09;Czechia;II347 (Brno);cze.ii641;Segment south of I42 renamed to II641, segment between I42 and Bílovice nad Svitavou renamed to II383, segment north of Bílovice nad Svitavou downgraded
+2024-10-09;Czechia;II383;cze.ii641;Segment south of I42 renamed to II641, segment between I42 and Bílovice nad Svitavou renamed to II383, segment north of Bílovice nad Svitavou downgraded
+2024-10-09;Czechia;II641;cze.ii641;New route (former II347)
+2024-10-09;Czechia;D4 (Dobříš);cze.d004;Route extended at south end from exit 45 to exit 54 (former I4)
+2024-10-09;Czechia;I4 (Milín);cze.i004mil;Route truncated at north end from exit 45 to exit 54 (D4 now)
+2024-10-09;Czechia;II604 (Milín);cze.ii604mil;New Route (Note: This is not the old I4 but just a parallel road)
 2024-09-09;Czechia;E67;cze.e67;Route relocated from through Jaroměř and onto D11 and I33 between D11's exit 108 to II307
 2024-09-09;Czechia;I33;cze.i033;Route truncated at west end from D11's exit 108 to II307 (through Jaroměř), and reextended to D11's exit 113 (Jaroměř northern bypass)
 2024-09-09;Czechia;I37 (Trutnov);cze.i037tru;Route truncated at south end from old I33 in Jaroměř to new I33 Jaroměř northern bypass
@@ -1696,6 +1703,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54lor;Route relocated from L154 to A98 between A98 exits 11 and 13
+2024-10-09;(Germany) Bavaria;B300;deuby.b300;Route relocated from through Weichenried and onto new bypass
 2024-03-17;(Germany) Bavaria;St2443;deuby.st2443;Route truncated at west end from Hanauer Landstraße to roundabout just west of A45 (St3308 now)
 2024-03-17;(Germany) Bavaria;St2544;deuby.st2544;Route extended at south end from A96 to district border
 2024-03-17;(Germany) Bavaria;St2584 (Main);deuby.st2584;Route truncated at west end from Freisinger Straße to Schwaigerloh branch, and reextended to Erdinger Allee ramp
@@ -1850,6 +1858,10 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2024-10-09;(Germany) Brandenburg;L133;;Route deleted
+2024-10-09;(Germany) Brandenburg;L134;deubb.l134;Route truncated at north end from Reckenzin to Groß Warnow
+2024-10-09;(Germany) Brandenburg;L601;;Route deleted
+2024-10-09;(Germany) Brandenburg;L622;deubb.l622;Route truncated at east end from L62 to L653
 2024-09-13;(Germany) Brandenburg;L215;;Route deleted
 2024-04-07;(Germany) Brandenburg;L59;deubb.l059;Route truncated at west end from B183 to L64
 2024-04-07;(Germany) Brandenburg;L71 (Leibsch);deubb.l071lei;New Route
