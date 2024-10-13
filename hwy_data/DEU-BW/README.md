@@ -1,6 +1,6 @@
 ﻿**SOURCES general**
 - http://mauttabelle.de/ (deua + deub)
-- https://www.geoportal-bw.de/ (activate "WMS LGL-BW Straßennetzkarte" under "Straße & Verkehr")
+- https://www.geoportal-bw.de/ (activate "WMS LGL-BW Straßennetzkarte" under "Menü" / "Karten" / "Straße & Verkehr")
 - https://mobidata-bw.de/
 
 **SOURCES deub**
