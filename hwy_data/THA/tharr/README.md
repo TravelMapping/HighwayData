@@ -187,6 +187,7 @@ Notes on routes:
 * Nb5038 (Maha Chesadabodindranusorn Bridge approach) seems to be unsigned (as of 2024).
 * Nn4024's east end may be wrong.
 * Nn4041 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@19.4919598,100.8986597,3a,15y,357.11h,91.95t/data=!3m7!1e1!3m5!1sMrppKthvn4sXlc3bfPDncg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9539165956384181%26panoid%3DMrppKthvn4sXlc3bfPDncg%26yaw%3D357.1065637894347!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D) (as of 2024). Since it doesn't fit the numbering, this is assumed to be an error for PAONn4041.
+* Nthm5052 may be no longer signed due to construction at the north end.
 * Nthm3061 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@13.7665335,100.0898395,3a,28.6y,310.09h,86.89t/data=!3m7!1e1!3m5!1srPYKZ-uUTexIxiGBi76FcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.1096234476603257%26panoid%3DrPYKZ-uUTexIxiGBi76FcA%26yaw%3D310.08940970247124!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D) (as of 2024).
 * Nw1001's exact south end may be wrong.
 * Nw4066's exact north end may be wrong.
