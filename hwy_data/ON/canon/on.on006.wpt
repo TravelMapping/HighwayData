@@ -8,7 +8,7 @@ ON3 http://www.openstreetmap.org/?lat=42.884435&lon=-80.114053
 RR55 http://www.openstreetmap.org/?lat=42.908569&lon=-80.100342
 RR20 http://www.openstreetmap.org/?lat=42.962076&lon=-80.051773
 RR29 http://www.openstreetmap.org/?lat=43.023953&lon=-79.996068
-ArgSt +ArgStS http://www.openstreetmap.org/?lat=43.049651&lon=-79.974321
+ArgStS http://www.openstreetmap.org/?lat=43.049651&lon=-79.974321
 +X002(ON6) http://www.openstreetmap.org/?lat=43.053461&lon=-79.975104
 +X003(ON6) http://www.openstreetmap.org/?lat=43.058047&lon=-79.980758
 +X004(ON6) http://www.openstreetmap.org/?lat=43.063244&lon=-79.980383
@@ -59,9 +59,9 @@ RR7 http://www.openstreetmap.org/?lat=43.593307&lon=-80.306561
 RR38 http://www.openstreetmap.org/?lat=43.610935&lon=-80.306432
 RR22 http://www.openstreetmap.org/?lat=43.640307&lon=-80.317976
 +X012(ON6) http://www.openstreetmap.org/?lat=43.683663&lon=-80.349787
-BelAve +BelAveW http://www.openstreetmap.org/?lat=43.699225&lon=-80.372007
-TowSt_N +TowStS_N http://www.openstreetmap.org/?lat=43.702304&lon=-80.376234
-QueSt +QueStE http://www.openstreetmap.org/?lat=43.705150&lon=-80.376159
+BelAve http://www.openstreetmap.org/?lat=43.699225&lon=-80.372007
+TowSt_N http://www.openstreetmap.org/?lat=43.702304&lon=-80.376234
+QueSt http://www.openstreetmap.org/?lat=43.705150&lon=-80.376159
 GarSt http://www.openstreetmap.org/?lat=43.707632&lon=-80.382060
 RR17 http://www.openstreetmap.org/?lat=43.761184&lon=-80.460123
 +X013(ON6) http://www.openstreetmap.org/?lat=43.766399&lon=-80.473169
@@ -86,7 +86,7 @@ RR40 http://www.openstreetmap.org/?lat=44.441992&lon=-80.897988
 ON10_S http://www.openstreetmap.org/?lat=44.456414&lon=-80.898074
 +X018(ON6) http://www.openstreetmap.org/?lat=44.467601&lon=-80.905037
 RR18 http://www.openstreetmap.org/?lat=44.523697&lon=-80.917912
-ON10/21 +ON10/21_N http://www.openstreetmap.org/?lat=44.569437&lon=-80.928372
+ON10/21 http://www.openstreetmap.org/?lat=44.569437&lon=-80.928372
 3rdAve http://www.openstreetmap.org/?lat=44.567923&lon=-80.941418
 2ndAve http://www.openstreetmap.org/?lat=44.567392&lon=-80.946118
 RR17B http://www.openstreetmap.org/?lat=44.565974&lon=-80.962147
@@ -95,18 +95,19 @@ RR17B http://www.openstreetmap.org/?lat=44.565974&lon=-80.962147
 ON21_S http://www.openstreetmap.org/?lat=44.558903&lon=-80.990814
 +X021(ON6) http://www.openstreetmap.org/?lat=44.572853&lon=-80.994054
 RR170 http://www.openstreetmap.org/?lat=44.614606&lon=-81.085303
-RR10 http://www.openstreetmap.org/?lat=44.636078&lon=-81.133486
+StoSchRd http://www.openstreetmap.org/?lat=44.633780&lon=-81.128953
+RR10/8 +RR10 http://www.openstreetmap.org/?lat=44.633727&lon=-81.133309
 RR1 http://www.openstreetmap.org/?lat=44.717206&lon=-81.139119
 RR26 http://www.openstreetmap.org/?lat=44.740126&lon=-81.140685
 RR13 http://www.openstreetmap.org/?lat=44.751038&lon=-81.141436
 RR9 http://www.openstreetmap.org/?lat=44.771051&lon=-81.143893
-+X022(ON6) http://www.openstreetmap.org/?lat=44.772026&lon=-81.184545
+GreSetRd http://www.openstreetmap.org/?lat=44.771378&lon=-81.182984
 LimRd http://www.openstreetmap.org/?lat=44.868432&lon=-81.235807
 RR9_Fer http://www.openstreetmap.org/?lat=44.971842&lon=-81.287563
-+X023(ON6) http://www.openstreetmap.org/?lat=45.029460&lon=-81.317389
+CheHillRd http://www.openstreetmap.org/?lat=45.028839&lon=-81.316794
 IraLakeRd http://www.openstreetmap.org/?lat=45.068518&lon=-81.413128
 LinRd30 http://www.openstreetmap.org/?lat=45.101699&lon=-81.443013
-+X025(ON6) http://www.openstreetmap.org/?lat=45.127101&lon=-81.437767
+DyeBayRd http://www.openstreetmap.org/?lat=45.126351&lon=-81.437584
 CypLakeRd http://www.openstreetmap.org/?lat=45.194453&lon=-81.559281
 LitCoveRd http://www.openstreetmap.org/?lat=45.231133&lon=-81.630124
 +X026(ON6) http://www.openstreetmap.org/?lat=45.242511&lon=-81.651807
