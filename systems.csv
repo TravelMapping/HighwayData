@@ -362,13 +362,16 @@ usawv;USA;West Virginia State Highways;TMbrown;4;active
 usawi;USA;Wisconsin State Highways;TMbrown;4;active
 usawy;USA;Wyoming State Highways;TMbrown;4;active
 zafn;ZAF;South Africa National Highways;TMgreen;3;active
+#zafns;ZAF;South Africa National Highways (split);TMgreen;3;active
 zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;active
+#zafp;ZAF;South Africa Main Provincial Roads (split);TMyellow;4;active
 zwer;ZWE;Zimbabwe Regional Roads;TMgreen;4;active
 zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;active
 #Preview Systems
 naca;NA;Rutas Centroamericanas;TMgreen;2;preview
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
+#zafrtr;AFR;SADC Regional Trunk Roads (split ZAF);TMlightsalmon;3;preview
 argrn;ARG;Argentina Rutas Nacionales;TMred;2;preview
 argsf;ARG;Argentina Select Freeways;TMteal;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
@@ -392,7 +395,6 @@ autl6;AUT;Styria Landesstraßen L;TMyellow;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
 bgdah;BGD;Bangladesh UNESCAP Asian Highways;TMred;3;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);TMblue;1;preview
-bihe;BIH;UNECE 'E' Roads (Srpska renumbering);TMgreen;3;preview
 bihm2;BIH;Bosnia and Herzegovina Magistrale (Srpska renumbering);TMlightsalmon;4;preview
 bolf;BOL;Bolivia Red Vial Fundamental;TMred;2;preview
 brabac;BRA;Bahia Rodovias Estaduais Coincidentes;TMyellow;3;preview
@@ -423,6 +425,8 @@ crirp;CRI;Costa Rica Rutas Nacionales Primarias;TMred;3;preview
 crirs;CRI;Costa Rica Rutas Nacionales Secundarias;TMbrown;4;preview
 ecue;ECU;Ecuador Red Vial Estatal;TMred;2;preview
 ecusf;ECU;Ecuador Select Freeways;TMteal;3;preview
+#eure2;EUR;UNECE 'E' Roads (Srpska renumbering / Italy split);TMgreen;3;preview
+#eursf2;EUR;Europe Select Named Freeways (Italy split);TMteal;2;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;TMbrown;5;preview
 fraarad01;FRA;Ain Routes Départementales;TMyellow;5;preview
 fraarad03;FRA;Allier Routes Départementales;TMyellow;5;preview
@@ -519,7 +523,9 @@ hrvz;HRV;Croatia Županijske Ceste;TMyellow;5;preview
 idnah;IDN;Indonesia UNESCAP Asian Highways;TMred;3;preview
 index;IND;India National Expressways;TMblue;1;preview
 indaho;IND;India UNESCAP Asian Highways (old draft);TMred;3;preview
+#itaa2;ITA;Italy Autostrada (Italy split);TMblue;1;preview
 itass;ITA;Italy Strade Statali;TMlightsalmon;4;preview
+#itass2;ITA;Italy Strade Statali (Italy split);TMlightsalmon;4;preview
 khmah;KHM;Cambodia UNESCAP Asian Highways;TMred;3;preview
 jeyc;JEY;Jersey C Roads;TMgray;5;preview
 jpnh;JPN;Japan Ippan Kokudō;TMlightsalmon;4;preview
@@ -577,6 +583,7 @@ vent;VEN;Venezuela Vías Troncales;TMred;2;preview
 vnmct;VNM;Vietnam Cao Toc;TMblue;1;preview
 vnmah;VNM;Vietnam UNESCAP Asian Highways;TMred;3;preview
 zaff;ZAF;South Africa Select Freeways;TMblue;1;preview
+#zaffs;ZAF;South Africa Select Freeways (split);TMblue;1;preview
 zmbt;ZMB;Zambia Trunk Roads;TMgreen;4;preview
 zmbm;ZMB;Zambia Main Roads;TMyellow;5;preview
 #Devel Systems
@@ -644,7 +651,6 @@ usatr;USA;United States Select Tourist Routes;TMbrown;5;devel
 #usatxf7;USA;Texas Farm to Market Roads 3000-3499;TMyellow;5;devel
 #usatxf8;USA;Texas Farm to Market Roads 3500-4000;TMyellow;5;devel
 #usatxr;USA;Texas Ranch to Market Roads;TMyellow;5;devel
-##HIDDEN SYSTEMS FOR SPLIT COUNTRIES##
 #deua2;DEU;Germany Autobahn (unsplit hidden system);TMblue;1;preview
 #deub2;DEU;Germany Bundesroute (unsplit hidden system);TMlightsalmon;3;preview
 #espa2;ESP;Spain Autovia (unsplit hidden system);TMblue;1;preview
@@ -653,11 +659,3 @@ usatr;USA;United States Select Tourist Routes;TMbrown;5;devel
 #frae;FRA;France E-roads (unsplit hidden system);TMblue;1;preview
 #frasf;FRA;France select freeways (unsplit hidden system);TMcyan;2;preview
 #fran2;FRA;France national roads (unsplit hidden system);TMlightsalmon;3;preview
-#itaa2;ITA;Italy Autostrada (split hidden system);TMblue;1;preview
-#itae;ITA;Italy E-roads (split hidden system);TMblue;1;preview
-#itasf;ITA;Italy select freeways (split hidden system);TMcyan;2;preview
-#itass2;ITA;Italy Strade Statali (split hidden system);TMlightsalmon;4;preview
-#zaffs;ZAF;South Africa Select Freeways (split hidden system);TMblue;1;preview
-#zafns;ZAF;South Africa National Highways (split hidden system);TMgreen;3;preview
-#zafrtr;AFR;South Africa SADC Regional Trunk Roads (split hidden system);TMlightsalmon;3;preview
-#zafp;ZAF;South Africa Main Provincial Roads (split hidden system);TMyellow;4;preview
