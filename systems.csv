@@ -362,16 +362,16 @@ usawv;USA;West Virginia State Highways;TMbrown;4;active
 usawi;USA;Wisconsin State Highways;TMbrown;4;active
 usawy;USA;Wyoming State Highways;TMbrown;4;active
 zafn;ZAF;South Africa National Highways;TMgreen;3;active
-#zafns;ZAF;South Africa National Highways (split);TMgreen;3;active
+#zafns;ZAF;South Africa National Highways (South Africa split);TMgreen;3;active
 zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;active
-#zafp;ZAF;South Africa Main Provincial Roads (split);TMyellow;4;active
+#zafp;ZAF;South Africa Main Provincial Roads (South Africa split);TMyellow;4;active
 zwer;ZWE;Zimbabwe Regional Roads;TMgreen;4;active
 zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;active
 #Preview Systems
 naca;NA;Rutas Centroamericanas;TMgreen;2;preview
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
-#zafrtr;AFR;SADC Regional Trunk Roads (split ZAF);TMlightsalmon;3;preview
+#zafrtr;ZAF;SADC Regional Trunk Roads (South Africa split);TMlightsalmon;3;preview
 argrn;ARG;Argentina Rutas Nacionales;TMred;2;preview
 argsf;ARG;Argentina Select Freeways;TMteal;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
@@ -427,7 +427,7 @@ crirp;CRI;Costa Rica Rutas Nacionales Primarias;TMred;3;preview
 crirs;CRI;Costa Rica Rutas Nacionales Secundarias;TMbrown;4;preview
 ecue;ECU;Ecuador Red Vial Estatal;TMred;2;preview
 ecusf;ECU;Ecuador Select Freeways;TMteal;3;preview
-#eure2;EUR;UNECE 'E' Roads (Srpska renumbering / Italy split);TMgreen;3;preview
+#eure2;EUR;UNECE 'E' Roads (Italy split);TMgreen;3;preview
 #eursf2;EUR;Europe Select Named Freeways (Italy split);TMteal;2;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;TMbrown;5;preview
 fraarad01;FRA;Ain Routes Départementales;TMyellow;5;preview
@@ -585,13 +585,13 @@ vent;VEN;Venezuela Vías Troncales;TMred;2;preview
 vnmct;VNM;Vietnam Cao Toc;TMblue;1;preview
 vnmah;VNM;Vietnam UNESCAP Asian Highways;TMred;3;preview
 zaff;ZAF;South Africa Select Freeways;TMblue;1;preview
-#zaffs;ZAF;South Africa Select Freeways (split);TMblue;1;preview
+#zaffs;ZAF;South Africa Select Freeways (South Africa split);TMblue;1;preview
 zmbt;ZMB;Zambia Trunk Roads;TMgreen;4;preview
 zmbm;ZMB;Zambia Main Roads;TMyellow;5;preview
 #Devel Systems
 #afrcu;AFR;UEMOA Community Roads;TMlightsalmon;3;devel
 afrtah;AFR;UNECA Trans-African Highways;TMred;2;devel
-#zaftah;AFR;UNECA Trans-African Highways (split ZAF);TMred;2;devel
+#zaftah;ZAF;UNECA Trans-African Highways (South Africa split);TMred;2;devel
 #agoen;AGO;Angola Estrada Nacional;TMgreen;3;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);TMred;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);TMred;3;devel
@@ -614,17 +614,17 @@ crirt;CRI;Costa Rica Rutas Nacionales Terciarias;TMyellow;5;devel
 #franorm76;FRA;Métropole Rouen Normandie Routes Métropolitaines;TMyellow;5;devel
 #franaqm33;FRA;Bordeaux Métropole Routes Métropolitaines;TMyellow;5;devel
 #frapacm83;FRA;Toulon Provence Méditerranée Routes Métropolitaines;TMyellow;5;devel
-#idnahs;IDN;Indonesia UNESCAP Asian Highways (split regions);TMred;2;devel
-#idnjwt;IDN;Java Jalan Tol;TMblue;1;devel
+#idnahs;IDN;Indonesia UNESCAP Asian Highways (Indonesia split);TMred;2;devel
+#idnjwt;IDN;Java Jalan Tol (Indonesia split);TMblue;1;preview
 #idnjwt;IDN;Java Ruta Nacional;TMlightsalmon;3;devel
-#idnkat;IDN;Kalimantan Jalan Tol;TMblue;1;devel
-#idnkat;IDN;Kalimantan Ruta Nacional;TMlightsalmon;3;devel
-#idnnut;IDN;Nusa Tenggara Jalan Tol;TMblue;1;devel
+#idnkat;IDN;Kalimantan Jalan Tol (Indonesia split);TMblue;1;preview
+#idnkat;IDN;Kalimantan Ruta Nacional (Indonesia split);TMlightsalmon;3;devel
+#idnnut;IDN;Nusa Tenggara Jalan Tol (Indonesia split);TMblue;1;preview
 #idnnun;IDN;Nusa Tenggara Ruta Nacional;TMlightsalmon;3;devel
-#idnppn;IDN;(West) Papua Ruta Nacional;TMlightsalmon;3;devel
-#idnslt;IDN;Sulawesi Jalan Tol;TMblue;1;devel
+#idnppn;IDN;(West) Papua Ruta Nacional (Indonesia split);TMlightsalmon;3;devel
+#idnslt;IDN;Sulawesi Jalan Tol (Indonesia split);TMblue;1;preview
 #idnslt;IDN;Sulawesi Ruta Nacional;TMlightsalmon;3;devel
-#idnsmt;IDN;Sumatra Jalan Tol;TMblue;1;devel
+#idnsmt;IDN;Sumatra Jalan Tol (Indonesia split);TMblue;1;preview
 #idnsmt;IDN;Sumatra Ruta Nacional;TMlightsalmon;3;devel
 indne;IND;India National Expressways;TMblue;1;devel
 indah;IND;Asian Highways (redraft);TMred;3;devel
