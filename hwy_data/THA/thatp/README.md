@@ -378,6 +378,7 @@ Notes on routes:
 * 4346 seems to be unsigned (as of 2022).
 * 4348's alignment is almost completely different from where the GIS data shows it (as of 2023).
 * 4350 seems to be unsigned (as of 2023).
+* 4351 [is signed](https://www.google.com/maps/@6.0922481,101.6897736,3a,32.7y,165.88h,47.09t/data=!3m7!1e1!3m5!1sp0s2mrAJ2e7kWuQ-njFUmw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D42.909770043753255%26panoid%3Dp0s2mrAJ2e7kWuQ-njFUmw%26yaw%3D165.8848610033369!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D) (as of 2021).
 * 4353 seems to be unsigned (as of 2024).
 * 4354 (a wye connection between 42 and 4296) is unsigned (as of 2022).
 * 4355 is unsigned (as of 2022).
