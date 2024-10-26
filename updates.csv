@@ -50,6 +50,8 @@ date;region;route;root;description
 2020-09-23;(Australia) New South Wales;M1 (Grafton);ausnsw.m001gra;Route extended at north end from Oval Link Road to Iluka Road
 2020-07-05;(Australia) New South Wales;M8;ausnsw.m008;Route added
 2020-05-26;(Australia) New South Wales;M1 (Grafton);ausnsw.m001gra;Route added
+2024-10-22;(Australia) Queensland;M1;ausqld.m001;Route extended at north end from exit 262 to exit 290
+2024-10-22;(Australia) Queensland;QLD49;ausqld.qld49;Route extended at east end from A1 to M1
 2023-04-17;(Australia) Victoria;N1 Alternative (Melbourne);ausvic.n001altmel;Route added
 2023-04-17;(Australia) Victoria;A60;;Route deleted (now N1Alt, MR60 and C101)
 2021-11-20;(Australia) Victoria;M11;ausvic.m011;Route extended at north end from exit 6 (for MR40) to MR87
@@ -789,6 +791,7 @@ date;region;route;root;description
 2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
 2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2022-01-23;(China) Xianjiang;AH9;chnxj.ah009;Route added
+2024-10-22;Croatia;A11;hrv.a011;Route extended at south end from exit 6 to Stupno
 2024-09-03;Croatia;D318;hrv.d318;New Route
 2024-05-28;Croatia;D553;hrv.d553;New Route
 2024-05-28;Croatia;D403;;Route deleted
@@ -1579,8 +1582,14 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2024-10-25;(Germany) Baden-Württemberg;L1079;deubw.l1079;Route extended at north end from A7 to L1082
+2024-10-25;(Germany) Baden-Württemberg;L1079 (Giengen);deubw.l1079;Route merged into main route
+2024-10-25;(Germany) Baden-Württemberg;L1082 (Giengen);deubw.l1082;Route extended at west end from B19 to L1164
+2024-10-25;(Germany) Baden-Württemberg;L1082 (Herbrechtingen);deubw.l1082;Route merged into main route
+2024-10-25;(Germany) Baden-Württemberg;L1095 ;deubw.l1095;Route extended at north end from B292A to A81
+2024-10-25;(Germany) Baden-Württemberg;L1095 (Osterburken);deubw.l1095;Route merged into main route
 2024-10-20;(Germany) Baden-Württemberg;L546;deubw.l0546;Route truncated at west end from Bahnhofsstraße to L560
-2024-10-20;(Germany) Baden-Württemberg;L555 (Waghäusl);deubw.l0555;New Route
+2024-10-20;(Germany) Baden-Württemberg;L555 (Waghäusl);deubw.l0555wag;New Route
 2024-10-20;(Germany) Baden-Württemberg;L556;deubw.l0556;Route truncated at south end from B35 to A5
 2024-10-20;(Germany) Baden-Württemberg;L602a;deubw.l0602a;New Route
 2024-10-20;(Germany) Baden-Württemberg;L720;deubw.l0720;Route truncated at north end from L526 to L1096
@@ -2682,6 +2691,7 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2024-10-22;Indonesia;Jalan Tol Betung–Jambi;idn.jtbj;Route added
 2024-09-30;Indonesia;T9 (Java);idn.t009;Route extended at west end from exit 16 to exit 22
 2024-09-25;Indonesia;T17 (Java);idn.t017;Route extended at west end from exit 38 to exit 0 and extended at east end from exit 26 to exit 33
 2024-09-25;Indonesia;T17 (Cikarang, Java);idn.t017;Route deleted (merged into main T17)
@@ -7226,6 +7236,9 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2024-10-23;(USA) Kentucky;I-65;ky.i065;Exit 86 moved south approximately 0.2 mile to new KY 222 alignment
+2024-10-23;(USA) Kentucky;US 31W;ky.us031w;Realigned slightly between *OldKY222 (former KY222 junction) and KY222_E
+2024-10-23;(USA) Kentucky;KY 222;ky.ky0222;Realigned to the south between *OldKY222 and SpoLakeRd_N
 2024-07-11;(USA) Kentucky;KY 9007;ky.ky9007;Point 1 removed as alternate name for Exit 0 (KY 622/Plano Rd) to new location at I-65 junction (currently Exit 1, formerly Exit 2)
 2024-04-10;(USA) Kentucky;US 79;ky.us079;Realigned slightly to the south between relocated KY346 and NelRd
 2024-04-10;(USA) Kentucky;US 460;ky.us460;Realigned slightly to the south between relocated KY1050 and OldUS460_Jef
@@ -7989,6 +8002,7 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2024-10-22;(USA) Nevada;NV 894;nv.nv894;Southern end adjusted to match logs
 2024-05-30;(USA) Nevada;I-11;nv.i011;North end extended over I-515 and US 95 to NV 157
 2024-05-30;(USA) Nevada;I-515;;Route deleted, replaced by extended I-11
 2023-10-23;(USA) Nevada;NV 613;nv.nv613;Route reversed to reflect mileposting, exit numbers added to west end
@@ -8826,6 +8840,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2024-10-23;(USA) Tennessee;TN 396;tn.tn396;Extended at west end from US 31 to TN 247
 2024-05-11;(USA) Tennessee;TN 162 (Knoxville);tn.tn162;Route truncated at south end to north end of I-140, with segment south of I-140 becoming TN 162 (Alcoa)
 2024-05-11;(USA) Tennessee;TN 162 (Alcoa);tn.tn162alc;Route added (was TN 162 segment south of I-140)
 2024-05-11;(USA) Tennessee;TN 385 (Millington);tn.tn385;Route truncated at south end to north end of I-269, with segment southwest of I-269 becoming TN 385 (Collierville)
@@ -9134,6 +9149,7 @@ date;region;route;root;description
 2017-05-17;(USA) Utah;UT 212;;Route Deleted
 2016-01-31;(USA) Utah;UT 7;ut.ut007;Extended east from Exit 10 (Warner Valley Road) to Sand Hollow Road, merged with former Sand Hollow segment
 2016-01-31;(USA) Utah;UT 7 (Sand Hollow);;Route deleted (merged into main route)
+2024-10-23;(USA) Vermont;US 5 Alternate (Derby Line);vt.us005altder;New Route
 2016-08-16;(USA) Vermont;Vermont 7B (Clarendon);vt.vt007bcla;Truncated back to its northern junction with US 7
 2019-08-12;(USA) Virgin Islands;VI 752;vi.vi752;Extended west along what was previously mapped as part of VI 750
 2019-08-12;(USA) Virgin Islands;VI 750;vi.vi750;Truncated at east end to VI 751
@@ -9261,6 +9277,9 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2024-10-23;(USA) Wisconsin;WI 112;wi.wi112;Extended north along Sanborn Avenue from WI 137 to US 2
+2024-10-23;(USA) Wisconsin;WI 155;wi.wi155;Relocated north end one block from Smith Street to Lake Street in Sayner
+2024-10-23;(USA) Wisconsin;WI 13 Alternate (Ashland);wi.wi013altash;Added route
 2024-07-09;(USA) Wisconsin;WI 50;wi.wi050;Truncated from WI 32 to WI 31 in Kenosha
 2024-01-10;(USA) Wisconsin;WI 15;wi.wi015;Removed from Main Street in Hortonville and relocated onto new bypass north of Hortonville.
 2024-01-10;(USA) Wisconsin;WI 29 Business (Chippewa Falls);wi.wi029buschi;Extended east from WI 124 to WI 29.
