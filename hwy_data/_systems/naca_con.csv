@@ -1,15 +1,30 @@
 systemName;route;banner;groupName;roots
-naca;CA1;;;gtm.ca001
-naca;CA2;;;gtm.ca002
-naca;CA2;;Tecún Umán;gtm.ca002tec
-naca;CA8;;;gtm.ca008
-naca;CA9;;Sur;gtm.ca009sur
-naca;CA9;;Norte;gtm.ca009nor
-naca;CA9A;;;gtm.ca009a
-naca;CA10;;;gtm.ca010
-naca;CA11;;;gtm.ca011
-naca;CA12;;;gtm.ca012
-naca;CA13;;;gtm.ca013
-naca;CA13A;;;gtm.ca013a
-naca;CA13;;Santa Elena;gtm.ca013ele
-naca;CA14;;;gtm.ca014
+naca;CA1;;GTM-SLV;gtm.ca01,slv.ca01w
+naca;CA1;;SLV-HND;slv.ca01e,hnd.ca01
+naca;CA2;;GTM-SLV;gtm.ca02,slv.ca02
+naca;CA2;;HND;hnd.ca02
+naca;CA2;;Tecún Umán, GTM;gtm.ca02tec
+naca;CA3;;SLV;slv.ca03
+naca;CA3;;HND;hnd.ca03
+naca;CA4;;South (SLV);slv.ca04s
+naca;CA4;;SLV-HND;slv.ca04n,hnd.ca04
+naca;CA5;;San Pedro Sula, HND;hnd.ca05
+naca;CA5;;Sabanagrande, HND;hnd.ca05sab
+naca;CA6;;;hnd.ca06
+naca;CA7;;;slv.ca07,hnd.ca07
+naca;CA8;;GTM-SLV;gtm.ca08,slv.ca08ahu
+naca;CA8;;Armenia, SLV;slv.ca08
+naca;CA8A;;;slv.ca08a
+naca;CA9Nor;;;gtm.ca09nor
+naca;CA9NorA;;;gtm.ca09nora
+naca;CA9Sur;;;gtm.ca09sur
+naca;CA9SurA;;;gtm.ca09sura
+naca;CA10;;;gtm.ca10,hnd.ca10
+naca;CA11;;;gtm.ca11,hnd.ca11
+naca;CA11A;;;hnd.ca11a
+naca;CA12;;;gtm.ca12,slv.ca12
+naca;CA13;;GTM;gtm.ca13
+naca;CA13;;Santa Elena, GTM;gtm.ca13ele
+naca;CA13;;GTM-HND;gtm.ca13a,hnd.ca13cor
+naca;CA13;;HND;hnd.ca13
+naca;CA14;;;gtm.ca14

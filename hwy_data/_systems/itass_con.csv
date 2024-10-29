@@ -1,7 +1,6 @@
 ﻿System;Route;Banner;Name;Roots
 itass;SS1;;Civitavecchia;ita.ss001civ
-itass;SS1;;Grosseto;ita.ss001
-itass;SS1;;Livorno;ita.ss001liv
+itass;SS1;;Livorno;ita.ss001
 itass;SS1;;Rapallo;ita.ss001rap
 itass;SS1;;Savona;ita.ss001sav
 itass;SS1;Bis;Monte Romano;ita.ss001bismon
@@ -47,6 +46,7 @@ itass;SS9;;Lodi;ita.ss009
 itass;SS9;Dir;Lodi;ita.ss009dirlod
 itass;SS9;Var;Tangenziale Nord;ita.ss009varnor
 itass;SS9;Var;Tangenziale Sud;ita.ss009varsud
+itass;SS9;;;ita.ss010
 itass;SS12;;Pisa;ita.ss012pis
 itass;SS12;;Lucca;ita.ss012luc
 itass;SS12;;Modena;ita.ss012mod
@@ -228,6 +228,7 @@ itass;SS106;;Rocco Imperial Marina;ita.ss106rim
 itass;SS106;Tar;Taranto;ita.ss106tar
 itass;SS106;Dir;Palagiano;ita.ss106dirpal
 itass;SS106;Radd;Rossano Stazione;ita.ss106raddros
+itass;SS106;Ter;Reggio Calabria;ita.ss106terreg
 itass;SS106;Var;Siderno;ita.ss106varsid
 itass;SS106;Var;Catanzaro;ita.ss106varcat
 itass;SS106;Var;Montegiordano;ita.ss106varmon
@@ -322,6 +323,7 @@ itass;SS192;;;ita.ss192
 itass;SS193;;;ita.ss193
 itass;SS194;;;ita.ss194
 itass;SS195;;;ita.ss195
+itass;SS195;Bis;;ita.ss195bis
 itass;SS195;Racc;Casteddu;ita.ss195racccas
 itass;SS196;;;ita.ss196
 itass;SS196;Dir;Serramanna;ita.ss196dirser
@@ -356,7 +358,10 @@ itass;SS242;Dir;Leitach;ita.ss242dirlei
 itass;SS243;;;ita.ss243
 itass;SS244;;;ita.ss244
 itass;SS249;;;ita.ss249
+itass;SS253;;;ita.ss253
+itass;SS255;;;ita.ss255
 itass;SS256;;;ita.ss256
+itass;SS258;;;ita.ss258
 itass;SS259;;;ita.ss259
 itass;SS260;;;ita.ss260
 itass;SS260;Dir;;ita.ss260dir
@@ -390,10 +395,13 @@ itass;SS295;;;ita.ss295
 itass;SS296;;;ita.ss296
 itass;SS301;;;ita.ss301
 itass;SS303;;;ita.ss303
+itass;SS308;;;ita.ss308
 itass;SS309;;;ita.ss309
 itass;SS309;Dir;Ravenna;ita.ss309dirrav
 itass;SS318;;;ita.ss318
 itass;SS320;;;ita.ss320
+itass;SS324;;;ita.ss324
+itass;SS325;;;ita.ss325
 itass;SS330;;;ita.ss330
 itass;SS318;Dir;Petrignano;ita.ss318dirpet
 itass;SS335;;;ita.ss335
@@ -406,6 +414,7 @@ itass;SS340;;;ita.ss340
 itass;SS340;Dir;Gravedona;ita.ss340dirgra
 itass;SS341;;;ita.ss341
 itass;SS342;;;ita.ss342
+itass;SS343;;;ita.ss343
 itass;SS344;;Induno Olona;ita.ss344
 itass;SS344;;Besano;ita.ss344bes
 itass;SS344;Var;Arcisate;ita.ss344vararc
@@ -414,6 +423,7 @@ itass;SS347;;;ita.ss347
 itass;SS349;;;ita.ss349
 itass;SS349;Dir;Nosellari;ita.ss349dirnos
 itass;SS350;;;ita.ss350
+itass;SS357;;;ita.ss357
 itass;SS361;;;ita.ss361
 itass;SS362;;;ita.ss362
 itass;SS369;;;ita.ss369
@@ -486,8 +496,7 @@ itass;SS585;;;ita.ss585
 itass;SS585;Dir;Lauria;ita.ss585dirlau
 itass;SS591;Bis;Orio al Serio;ita.ss591bisori
 itass;SS597;;Piaghe;ita.ss597pia
-itass;SS597;;Chilivani;ita.ss597chi
-itass;SS597;;Belchidda;ita.ss597
+itass;SS597;;Chilivani;ita.ss597
 itass;SS598;;;ita.ss598
 itass;SS612;;;ita.ss612
 itass;SS612;Dir;Castello di Fiemme;ita.ss612dircas
@@ -498,6 +507,7 @@ itass;SS616;Dir;Altilia;ita.ss616diralt
 itass;SS620;;;ita.ss620
 itass;SS621;;;ita.ss621
 itass;SS622;;;ita.ss622
+itass;SS623;;;ita.ss623
 itass;SS624;;;ita.ss624
 itass;SS626;;;ita.ss626
 itass;SS626;Dir;Ravanusa;ita.ss626dirrav
@@ -596,9 +606,7 @@ itass;SS726;;;ita.ss726
 itass;SS727;;;ita.ss727
 itass;SS727;Bis;Forli;ita.ss727bisfor
 itass;SS728;;;ita.ss728
-itass;SS729;;Aldara;ita.ss729
-itass;SS729;;Oscheri;ita.ss729osc
-itass;SS729;;Olbia;ita.ss729olb
+itass;SS729;;;ita.ss729
 itass;SS730;;;ita.ss730
 itass;SS731;;;ita.ss731
 itass;SS732;;;ita.ss732

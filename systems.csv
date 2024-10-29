@@ -20,6 +20,7 @@ austasb;AUS;Tasmania B Roads;TMyellow;4;active
 auswa;AUS;Western Australia State Highways;TMyellow;4;active
 ausnt;AUS;Northern Territory Territorial Highways;TMlightsalmon;5;active
 ausntc;AUS;Northern Territory C Roads;TMgray;5;active
+austasc;AUS;Tasmania C Roads;TMgray;5;active
 auta;AUT;Austria Autobahnen;TMblue;1;active
 auts;AUT;Austria Schnellstrassen;TMteal;2;active
 autb;AUT;Austria Landesstraßen B;TMlightsalmon;4;active
@@ -143,6 +144,7 @@ fragesd6ae;FRA;Collectivité européenne d'Alsace Routes Départementales;TMyell
 fragesm6ae;FRA;Eurométropole de Strasbourg Routes Métropolitaines;TMyellow;5;active
 frahdfd59;FRA;Nord Routes Départementales;TMyellow;5;active
 frahdfm59;FRA;Métropole européenne de Lille Routes Métropolitaines;TMyellow;5;active
+frahdfd60;FRA;Oise Routes Départementales;TMyellow;5;active
 frahdfd62;FRA;Pas-de-Calais Routes Départementales;TMyellow;5;active
 frahdfd80;FRA;Somme Routes Départementales;TMyellow;5;active
 fraidfd77;FRA;Seine-et-Marne Routes Départementales;TMyellow;5;active
@@ -155,6 +157,7 @@ fraidfd95;FRA;Val-d'Oise Routes Départementales;TMyellow;5;active
 fraoccm31;FRA;Toulouse Métropole Routes Métropolitaines;TMyellow;5;active
 frapacd06;FRA;Alpes-Maritimes Routes Départementales;TMyellow;5;active
 frapacm06;FRA;Métropole Nice Côte d'Azur Routes Métropolitaines;TMyellow;5;active
+frapdlm44;FRA;Nantes Métropole Routes Métropolitaines;TMyellow;5;active
 glpd;FRA;Guadaloupe Routes Départementales;TMyellow;5;active
 mytd;FRA;Mayotte Routes Départementales;TMyellow;5;active
 reud;FRA;Reunion Routes Départementales;TMyellow;5;active
@@ -240,6 +243,7 @@ nlds;NLD;Netherlands Stadsroutes;TMyellow;5;active
 normot;NOR;Norway Motorveier;TMblue;1;active
 norrv;NOR;Norway Riksveier;TMlightsalmon;4;active
 norfv;NOR;Norway Primære Fylkesveier;TMyellow;5;active
+norr;NOR;Norway Ringveiene i Oslo;TMyellow;5;active
 norntv;NOR;Norway Nasjonale Turistveger;TMbrown;5;active
 nzlmot;NZL;New Zealand Motorways;TMblue;1;active
 nzlsh;NZL;New Zealand State Highways;TMlightsalmon;4;active
@@ -266,6 +270,7 @@ rwanr;RWA;Rwanda National Roads;TMgreen;4;active
 sena;SEN;Senegal Autoroutes;TMblue;1;active
 sgpex;SGP;Singapore Expressways;TMblue;1;active
 srba;SRB;Serbia Autoputevi;TMblue;1;active
+srbm;SRB;Serbia Motoputevi;TMteal;2;active
 srbb;SRB;Serbia Državni Put;TMlightsalmon;4;active
 stpen;STP;Sao Tome and Principe Estrada Nacional;TMgreen;4;active
 svkd;SVK;Slovakia Diaľnica;TMblue;1;active
@@ -331,6 +336,7 @@ usanh;USA;New Hampshire State Highways;TMbrown;4;active
 usanj;USA;New Jersey State Highways;TMbrown;4;active
 usanm;USA;New Mexico State Highways;TMbrown;4;active
 usany;USA;New York State Highways;TMbrown;4;active
+usanyp;USA;New York Parkways;TMteal;2;active
 usanc;USA;North Carolina State Highways;TMbrown;4;active
 usand;USA;North Dakota State Highways;TMbrown;4;active
 usamp;USA;Northern Mariana Islands Territorial Highways;TMbrown;4;active
@@ -356,17 +362,21 @@ usawv;USA;West Virginia State Highways;TMbrown;4;active
 usawi;USA;Wisconsin State Highways;TMbrown;4;active
 usawy;USA;Wyoming State Highways;TMbrown;4;active
 zafn;ZAF;South Africa National Highways;TMgreen;3;active
+#zafns;ZAF;South Africa National Highways (South Africa split);TMgreen;3;active
+zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;active
+#zafp;ZAF;South Africa Main Provincial Roads (South Africa split);TMyellow;4;active
 zwer;ZWE;Zimbabwe Regional Roads;TMgreen;4;active
 zwep;ZWE;Zimbabwe Primary Roads;TMyellow;5;active
 #Preview Systems
+naca;NA;Rutas Centroamericanas;TMgreen;2;preview
 afrea;AFR;EAC Road Network;TMlightsalmon;3;preview
 afrrtr;AFR;SADC Regional Trunk Roads;TMlightsalmon;3;preview
+#zafrtr;ZAF;SADC Regional Trunk Roads (South Africa split);TMlightsalmon;3;preview
 argrn;ARG;Argentina Rutas Nacionales;TMred;2;preview
 argsf;ARG;Argentina Select Freeways;TMteal;3;preview
 asim;ASI;ESCWA Arab Mashreq International Road Network;TMred;3;preview
 ausnswb;AUS;New South Wales B Roads;TMyellow;4;preview
 ausvicb;AUS;Victoria B Roads;TMyellow;4;preview
-austasc;AUS;Tasmania C Roads;TMgray;5;preview
 ausvicc;AUS;Victoria C Roads;TMgray;5;preview
 ausvicmr;AUS;Melbourne Metropolitan Routes;TMlightsalmon;5;preview
 ausstr;AUS;Australia Strategic Touring Routes;TMbrown;5;preview
@@ -376,11 +386,17 @@ aussatd;AUS;South Australia Tourist Drives;TMbrown;5;preview
 ausvictd;AUS;Victoria Tourist Drives;TMbrown;5;preview
 auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;preview
 autl3;AUT;Lower Austria Landesstraßen L 2-178;TMyellow;5;preview
+autl31;AUT;Lower Austria Landesstraßen L 1000s;TMyellow;5;preview
+autl32;AUT;Lower Austria Landesstraßen L 2000s;TMyellow;5;preview
+autl36;AUT;Lower Austria Landesstraßen L 6000s;TMyellow;5;preview
+autl37;AUT;Lower Austria Landesstraßen L 7000s;TMyellow;5;preview
+autl38;AUT;Lower Austria Landesstraßen L 8000s;TMyellow;5;preview
 autl42;AUT;Upper Austria Landesstraßen 2. Ordnung;TMyellow;5;preview
 autl6;AUT;Styria Landesstraßen L;TMyellow;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
 bgdah;BGD;Bangladesh UNESCAP Asian Highways;TMred;3;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);TMblue;1;preview
+bihe;BIH;UNECE 'E' Roads (Srpska renumbering);TMgreen;3;preview
 bihm2;BIH;Bosnia and Herzegovina Magistrale (Srpska renumbering);TMlightsalmon;4;preview
 bolf;BOL;Bolivia Red Vial Fundamental;TMred;2;preview
 brabac;BRA;Bahia Rodovias Estaduais Coincidentes;TMyellow;3;preview
@@ -399,10 +415,12 @@ btnah;BTN;Bhutan UNESCAP Asian Highways;TMred;3;preview
 canabs;CAN;Alberta Provincial Highways 500-986;TMyellow;5;preview
 canmbp;CAN;Manitoba Provincial Roads;TMyellow;5;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;TMbrown;4;preview
+canons;CAN;Ontario Secondary Highways;TMyellow;5;preview
 chlrn;CHL;Chile Rutas Nacionales;TMred;2;preview
 chlsf;CHL;Chile Select Freeways;TMteal;3;preview
 chng;CHN;China National Expressways;TMblue;1;preview
 chnah;CHN;China UNESCAP Asian Highways;TMred;3;preview
+chngd;CHN;Guangdong Provincial Expressways;TMyellow;2;preview
 cogn;COG;Congo Routes Nationales;TMgreen;4;preview
 colrn;COL;Colombia Red Vial Nacional;TMred;2;preview
 colsf;COL;Colombia Select Freeways;TMteal;3;preview
@@ -410,7 +428,7 @@ crirp;CRI;Costa Rica Rutas Nacionales Primarias;TMred;3;preview
 crirs;CRI;Costa Rica Rutas Nacionales Secundarias;TMbrown;4;preview
 ecue;ECU;Ecuador Red Vial Estatal;TMred;2;preview
 ecusf;ECU;Ecuador Select Freeways;TMteal;3;preview
-#eure2;EUR;UNECE 'E' Roads (Srpska renumbering / Italy split);TMgreen;3;preview
+#eure2;EUR;UNECE 'E' Roads (Italy split);TMgreen;3;preview
 #eursf2;EUR;Europe Select Named Freeways (Italy split);TMteal;2;preview
 eurtr;EUR;Europe Select Tourist and Scenic Routes;TMbrown;5;preview
 fraarad01;FRA;Ain Routes Départementales;TMyellow;5;preview
@@ -455,7 +473,6 @@ fragesd55;FRA;Meuse Routes Départementales;TMyellow;5;preview
 fragesd57;FRA;Moselle Routes Départementales;TMyellow;5;preview
 fragesd88;FRA;Vosges Routes Départementales;TMyellow;5;preview
 frahdfd02;FRA;Aisne Routes Départementales;TMyellow;5;preview
-frahdfd60;FRA;Oise Routes Départementales;TMyellow;5;preview
 franord14;FRA;Calvados Routes Départementales;TMyellow;5;preview
 franord27;FRA;Eure Routes Départementales;TMyellow;5;preview
 franord50;FRA;Manche Routes Départementales;TMyellow;5;preview
@@ -488,7 +505,6 @@ fraoccd66;FRA;Pyrénées-Orientales Routes Départementales;TMyellow;5;preview
 fraoccd81;FRA;Tarn Routes Départementales;TMyellow;5;preview
 fraoccd82;FRA;Tarn-et-Garonne Routes Départementales;TMyellow;5;preview
 frapdld44;FRA;Loire-Atlantique Routes Départementales;TMyellow;5;preview
-frapdlm44;FRA;Nantes Métropole Routes Métropolitaines;TMyellow;5;preview
 frapdld49;FRA;Maine-et-Loire Routes Départementales;TMyellow;5;preview
 frapdld53;FRA;Mayenne Routes Départementales;TMyellow;5;preview
 frapdld72;FRA;Sarthe Routes Départementales;TMyellow;5;preview
@@ -498,10 +514,14 @@ frapacd05;FRA;Hautes-Alpes Routes Départementales;TMyellow;5;preview
 frapacd13;FRA;Bouches-du-Rhône Routes Départementales;TMyellow;5;preview
 frapacd83;FRA;Var Routes Départementales;TMyellow;5;preview
 frapacd84;FRA;Vaucluse Routes Départementales;TMyellow;5;preview
+gtmrn;GTM;Guatemala Rutas Nacionales;TMred;3;preview
+gtmsf;GTM;Guatemala Select Freeways;TMteal;3;preview
 gufd;FRA;French Guiana Routes Départementales;TMyellow;5;preview
 gbnmkgr;GBR;Milton Keynes Grid Roads;TMgray;5;preview
 gbrtrl;GBR;United Kingdom Trails;TMbrown;5;preview
 gbrrr;GBR;United Kingdom Ring Roads;TMgray;5;preview
+hndrnp;HND;Honduras Rutas Nacionales Principales;TMred;3;preview
+hndrns;HND;Honduras Rutas Nacionales Secundarias;TMbrown;4;preview
 hrvz;HRV;Croatia Županijske Ceste;TMyellow;5;preview
 idnah;IDN;Indonesia UNESCAP Asian Highways;TMred;3;preview
 index;IND;India National Expressways;TMblue;1;preview
@@ -527,6 +547,9 @@ mkdr;MKD;North Macedonia Regional Roads;TMyellow;4;preview
 mmrah;MMR;Myanmar UNESCAP Asian Highways;TMred;3;preview
 mozn;MOZ;Mozambique Estrada Nacional;TMgreen;4;preview
 mwim;MWI;Malawi Main Roads;TMgreen;4;preview
+mysjp;MYS;Malaysia Jalan Persekutuan;TMbrown;4;preview
+myssf;MYS;Malaysia Select Freeways;TMteal;3;preview
+nicnic;NIC;Nicaragua Red Vial Nacional;TMred;3;preview
 nplah;NPL;Nepal UNESCAP Asian Highways;TMred;3;preview
 nplh;NPL;Nepal Highways;TMlightsalmon;4;preview
 nzlrr;NZL;New Zealand Regional Roads;TMYellow;5;preview
@@ -538,8 +561,17 @@ prkah;PRK;Korea (North) UNESCAP Asian Highways;TMred;3;preview
 prypy;PRY;Red Vial Paraguaya;TMred;2;preview
 rusa;RUS;Russia Access Roads;TMlightsalmon;4;preview
 senn;SEN;Senegal Routes Nationales;TMgreen;4;preview
+slvrn;SLV;El Salvador Rutas Nacionales;TMred;3;preview
+slvsf;SLV;El Salvador Select Freeways;TMteal;3;preview
+srbr;SRB;Serbia Državni Putevi IIA;TMyellow;5;preview
+srbrb;SRB;Serbia Državni Putevi IIB;TMgray;5;preview
 swzmr;SWZ;Eswatini Main Roads;TMgreen;4;preview
-thaah;THA;Thailand UNESCAP Asian Highways;TMred;3;preview
+tham;THA;Thailand Motorways;TMblue;1;preview
+thaexat;THA;Expressway Authority of Thailand;TMgreen;2;preview
+thaah;THA;Thailand UNESCAP/ASEAN Asian Highways;TMred;3;preview
+thasf;THA;Thailand Select Freeways;TMteal;3;preview
+thatp;THA;Thailand Thangluang Phaendin (incomplete);TMbrown;4;preview
+tharr;THA;Thailand Rural Roads (incomplete);TMpurple;5;preview
 ttoh;TTO;Trinidad & Tobago Highways;TMred;3;preview
 ttomr;TTO;Trinidad & Tobago Main Roads;TMbrown;4;preview
 tunrn;TUN;Tunisia Routes Nationales;TMgreen;4;preview
@@ -548,31 +580,26 @@ tzat;TZA;Tanzania Trunk Roads;TMgreen;4;preview
 usaal;USA;Alabama State Highways;TMbrown;4;preview
 usaas;USA;American Samoa Territorial Highways;TMbrown;4;preview
 usams;USA;Mississippi State Highways;TMbrown;4;preview
-usanyp;USA;New York Parkways;TMteal;2;preview
 usaush;USA;United States Historic Highways;TMbrown;4;preview
 vena;VEN;Venezuela Autopistas;TMblue;1;preview
 vent;VEN;Venezuela Vías Troncales;TMred;2;preview
 vnmct;VNM;Vietnam Cao Toc;TMblue;1;preview
 vnmah;VNM;Vietnam UNESCAP Asian Highways;TMred;3;preview
-zafr;ZAF;South Africa Main Provincial Roads;TMyellow;4;preview
+zaff;ZAF;South Africa Select Freeways;TMblue;1;preview
+#zaffs;ZAF;South Africa Select Freeways (South Africa split);TMblue;1;preview
 zmbt;ZMB;Zambia Trunk Roads;TMgreen;4;preview
 zmbm;ZMB;Zambia Main Roads;TMyellow;5;preview
 #Devel Systems
 #afrcu;AFR;UEMOA Community Roads;TMlightsalmon;3;devel
 afrtah;AFR;UNECA Trans-African Highways;TMred;2;devel
+#zaftah;ZAF;UNECA Trans-African Highways (South Africa split);TMred;2;devel
 #agoen;AGO;Angola Estrada Nacional;TMgreen;3;devel
 asiaho;ASI;UNESCAP / ASEAN Asian Highways (outlined);TMred;3;devel
 asimo;ASI;ESCWA Arab Mashreq International Road Network (outlined);TMred;3;devel
-autl31;AUT;Lower Austria Landesstraßen L 1000s;TMyellow;5;devel
-#autl32;AUT;Lower Austria Landesstraßen L 2000s;TMyellow;5;devel
-#autl33;AUT;Lower Austria Landesstraßen L 3000s;TMyellow;5;devel
-#autl34;AUT;Lower Austria Landesstraßen L 4000s;TMyellow;5;devel
-#autl35;AUT;Lower Austria Landesstraßen L 5000s;TMyellow;5;devel
-#autl36;AUT;Lower Austria Landesstraßen L 6000s;TMyellow;5;devel
-#autl37;AUT;Lower Austria Landesstraßen L 7000s;TMyellow;5;devel
-#autl38;AUT;Lower Austria Landesstraßen L 8000s;TMyellow;5;devel
+autl33;AUT;Lower Austria Landesstraßen L 3000s;TMyellow;5;devel
+autl34;AUT;Lower Austria Landesstraßen L 4000s;TMyellow;5;devel
+autl35;AUT;Lower Austria Landesstraßen L 5000s;TMyellow;5;devel
 cannss;CAN;Nova Scotia Scenic Travelways;TMyellow;5;devel
-canons;CAN;Ontario Secondary Highways;TMyellow;5;devel
 codn;COD;DRC Routes Nationale;TMgreen;4;devel
 crirt;CRI;Costa Rica Rutas Nacionales Terciarias;TMyellow;5;devel
 #cuba;CUB;Cuba Autopista;TMblue;1;devel
@@ -587,17 +614,17 @@ crirt;CRI;Costa Rica Rutas Nacionales Terciarias;TMyellow;5;devel
 #franorm76;FRA;Métropole Rouen Normandie Routes Métropolitaines;TMyellow;5;devel
 #franaqm33;FRA;Bordeaux Métropole Routes Métropolitaines;TMyellow;5;devel
 #frapacm83;FRA;Toulon Provence Méditerranée Routes Métropolitaines;TMyellow;5;devel
-#idnahs;IDN;Indonesia UNESCAP Asian Highways (split regions);TMred;2;devel
-#idnjwt;IDN;Java Jalan Tol;TMblue;1;devel
+#idnahs;IDN;Indonesia UNESCAP Asian Highways (Indonesia split);TMred;2;devel
+#idnjwt;IDN;Java Jalan Tol (Indonesia split);TMblue;1;preview
 #idnjwt;IDN;Java Ruta Nacional;TMlightsalmon;3;devel
-#idnkat;IDN;Kalimantan Jalan Tol;TMblue;1;devel
-#idnkat;IDN;Kalimantan Ruta Nacional;TMlightsalmon;3;devel
-#idnnut;IDN;Nusa Tenggara Jalan Tol;TMblue;1;devel
+#idnkat;IDN;Kalimantan Jalan Tol (Indonesia split);TMblue;1;preview
+#idnkat;IDN;Kalimantan Ruta Nacional (Indonesia split);TMlightsalmon;3;devel
+#idnnut;IDN;Nusa Tenggara Jalan Tol (Indonesia split);TMblue;1;preview
 #idnnun;IDN;Nusa Tenggara Ruta Nacional;TMlightsalmon;3;devel
-#idnppn;IDN;(West) Papua Ruta Nacional;TMlightsalmon;3;devel
-#idnslt;IDN;Sulawesi Jalan Tol;TMblue;1;devel
+#idnppn;IDN;(West) Papua Ruta Nacional (Indonesia split);TMlightsalmon;3;devel
+#idnslt;IDN;Sulawesi Jalan Tol (Indonesia split);TMblue;1;preview
 #idnslt;IDN;Sulawesi Ruta Nacional;TMlightsalmon;3;devel
-#idnsmt;IDN;Sumatra Jalan Tol;TMblue;1;devel
+#idnsmt;IDN;Sumatra Jalan Tol (Indonesia split);TMblue;1;preview
 #idnsmt;IDN;Sumatra Ruta Nacional;TMlightsalmon;3;devel
 indne;IND;India National Expressways;TMblue;1;devel
 indah;IND;Asian Highways (redraft);TMred;3;devel
@@ -610,12 +637,12 @@ indwb;IND;West Bengal State Highways;TMyellow;4;devel
 #jamb;JAM;Jamaica B Roads;TMyellow;5;devel
 #mexdn;MEX;Mexico Federal Expressways (new);TMblue;1;devel
 #mexedn;MEX;Mexico State Expressways (new);TMteal;3;devel
-naca;NA;Rutas Centroamericanas;TMred;2;devel
 ngae;NGA;Nigeria Expressways;TMblue;1;devel
 prtn;PRT;Portugal Estradas Nacionais;TMyellow;5;devel
 rusr;RUS;Russia Regional Roads;TMlightsalmon;4;devel
 #ukrn;UKR;Ukraine Nacional'ni Avtomobil'ni Dorohy;TMlightsalmon;4;devel
 #ukrr;UKR;Ukraine Rehional'na Avtomobil'na Doroha;TMyellow;5;devel
+usatr;USA;United States Select Tourist Routes;TMbrown;5;devel
 #usatxf;USA;Texas Farm to Market Roads 1-499;TMyellow;5;devel
 #usatxf2;USA;Texas Farm to Market Roads 500-999;TMyellow;5;devel
 #usatxf3;USA;Texas Farm to Market Roads 1000-1499;TMyellow;5;devel
@@ -625,4 +652,11 @@ rusr;RUS;Russia Regional Roads;TMlightsalmon;4;devel
 #usatxf7;USA;Texas Farm to Market Roads 3000-3499;TMyellow;5;devel
 #usatxf8;USA;Texas Farm to Market Roads 3500-4000;TMyellow;5;devel
 #usatxr;USA;Texas Ranch to Market Roads;TMyellow;5;devel
-usatr;USA;EASTER EGG - United States select tourist routes;TMpurple;5;preview
+#deua2;DEU;Germany Autobahn (unsplit hidden system);TMblue;1;preview
+#deub2;DEU;Germany Bundesroute (unsplit hidden system);TMlightsalmon;3;preview
+#espa2;ESP;Spain Autovia (unsplit hidden system);TMblue;1;preview
+#espe;ESP;Spain E-roads (unsplit hidden system);TMgreen;2;preview
+#fraa2;FRA;France Autoroutes (unsplit hidden system);TMblue;1;preview
+#frae;FRA;France E-roads (unsplit hidden system);TMblue;1;preview
+#frasf;FRA;France select freeways (unsplit hidden system);TMcyan;2;preview
+#fran2;FRA;France national roads (unsplit hidden system);TMlightsalmon;3;preview
