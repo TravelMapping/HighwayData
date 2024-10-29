@@ -249,6 +249,8 @@ Notes on routes:
 * Sb5048's west end is at 3022 per the length in the 2023 log (and signage), but the coordinates are at the railroad.
 * Sb4052 is mostly signed as Sp5052, but [the newest signs](https://www.google.com/maps/@14.3005232,100.942657,3a,15y,187.69h,86.87t/data=!3m7!1e1!3m5!1sUuZkVdGc-g5i9Dznh3m2MA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.1337581846886167%26panoid%3DUuZkVdGc-g5i9Dznh3m2MA%26yaw%3D187.6851933258978!7i16384!8i8192?coh=205410&entry=ttu) say 4052.
 * Sb3057's south end may be wrong.
+* Sd6038's endpoints may both be wrong.
+* Sd6064 and Sd6065 may be unsigned.
 * Sh2006's north end may be wrong; the 311/3285 fits the coordinates and description in the 2023 log but not the length. There is no signage north of [km 8](https://www.google.com/maps/@15.0074579,100.3352149,3a,28.6y,339.37h,65.46t/data=!3m7!1e1!3m5!1sMLPTq7xvGzTyGA9x8YmYWg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D24.536629130002524%26panoid%3DMLPTq7xvGzTyGA9x8YmYWg%26yaw%3D339.3743096380178!7i16384!8i8192?coh=205410&entry=ttu).
 * Sh4030 does not fit the numbering system; it should be Sh3030, but it intersects Thl3030.
 * Sh4051 seems to no longer exist, despite [at least one faded km post](https://www.google.com/maps/@15.0093917,100.2695246,3a,15y,191.74h,78.1t/data=!3m7!1e1!3m5!1sPn4_hY7lRT9HSDIBIlGkNg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D11.899233617341295%26panoid%3DPn4_hY7lRT9HSDIBIlGkNg%26yaw%3D191.74487991822144!7i16384!8i8192?coh=205410&entry=ttu).
