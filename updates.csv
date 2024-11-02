@@ -1583,6 +1583,10 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2024-11-01;(Germany) Baden-Württemberg;B294;deubw.b294;Route relocated in Oberwinden from Brandbergtunnel and onto Hauptstraße (undo September change, route through tunnel is actually B294n)
+2024-11-01;(Germany) Baden-Württemberg;B294n;deubw.b294n;New Route
+2024-11-01;(Germany) Baden-Württemberg;B466;deubw.b466;Route relocated from through Donzdorf, and onto bypass (opened in 2010 but rededicated in 2024)
+2024-11-01;(Germany) Baden-Württemberg;L2310 (Wertheim);deubw.l2310wer;New Route
 2024-10-27;(Germany) Baden-Württemberg;L210;deubw.l0210;New Route (former L1210)
 2024-10-27;(Germany) Baden-Württemberg;L1066;deubw.l1066;Route relocated from Goethestraße and Worthingtonstraße, and onto Alter Postweg and Bahnhofstraße in Crailsheim
 2024-10-27;(Germany) Baden-Württemberg;L1210;deubw.l1210;Route truncated at west end from B313 to district boundary (L210 now)
@@ -1967,6 +1971,8 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2024-11-01;(Germany) Hesse;L3256;deuhe.l3256;Route relocated from through Waldeck downtown, and onto Dr.-Mauser-Straße and Sachsenheimer Straße in Waldeck between Bahnhofstraße and Abelauf
+2024-11-01;(Germany) Hesse;L3256;deuhe.l3388;Route truncated from Abelauf to Dr.-Mauser-Straße in Waldeck (L3256 now)
 2024-09-13;(Germany) Hesse;B7 (Kassel);deuhe.b007;Route relocated from through Calden and onto new bypass from Airport to Holländische Straße east of Calden
 2024-09-13;(Germany) Hesse;B7 (Calden);deuhe.b007;Route merged into main route due to the completion of the bypass
 2024-05-26;(Germany) Hesse;B457;deuhe.b457;Route extended at north end from A485 to transition to city street
@@ -2006,10 +2012,10 @@ date;region;route;root;description
 2015-09-15;(Germany) Hesse;A66;deuhe.a066;Route extended at eastern end from exit 51 to exit 55, including Eichenzell section
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
+2024-11-01;(Germany) Lower Saxony;B240 (Fölziehausen);;Route deleted
 2024-04-05;(Germany) Lower Saxony;L6;deuni.l006;Route relocated from Carolinensiel bypass, and through Carolinensiel
 2024-04-03;(Germany) Lower Saxony;B83 (Bückeburg);deuni.b083;Route merged into main route
 2024-04-03;(Germany) Lower Saxony;B83;deuni.b083;Route extended at west end from L441 to B65 (no route change but state boundary clarification only)
-2024-04-03;(Germany) Lower Saxony;B240 (Fölziehausen);deuni.b240fol;New Route
 2024-04-03;(Germany) Lower Saxony;B243 (Main);deuni.b243;Route relocated from through Nüxei and onto new alignment from north of Nüxei to the Thuringian border
 2024-04-03;(Germany) Lower Saxony;L603;deuni.l603;Route truncated at west end from Nüxei to Tettenborn
 2024-04-02;(Germany) Lower Saxony;L382;deuni.l382;Route relocated from through Berenbostel, and onto Stelinger Straße and Mecklenheidestraße from L382 to B6
@@ -2088,6 +2094,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2024-10-31;(Germany) North Rhine-Westphalia;L239 (Lintorf);deunw.l239lin;New Route
 2024-10-30;(Germany) North Rhine-Westphalia;L208 (Geistenbeck);deunw.l208gei;New Route
 2024-10-29;(Germany) North Rhine-Westphalia;L70 (Sprockhövel);deunw.l070spr;New Route
 2024-10-28;(Germany) North Rhine-Westphalia;L47 (Gangelt);deunw.l047;Route merged into main route
@@ -6708,6 +6715,7 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2024-10-31;(USA) Arkansas;AR 132;;Route deleted.
 2024-10-07;(USA) Arkansas;AR 43 (Siloam Springs);ar.ar043sil;Truncated from the Missouri line to the Oklahoma line. Truncated portion added as a new Oklahoma section and small Arkansas section sear Southwest City, MO.
 2024-10-07;(USA) Arkansas;AR 43 (Southwest City, MO);ar.ar043sou;Route added.
 2024-07-29;(USA) Arkansas;AR 600;ar.ar600;Route added.
@@ -8022,6 +8030,7 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2024-10-22;(USA) Nevada;NV 156;nv.nv156;Southern end truncated to end of state maintenance
 2024-10-22;(USA) Nevada;NV 894;nv.nv894;Southern end adjusted to match logs
 2024-05-30;(USA) Nevada;I-11;nv.i011;North end extended over I-515 and US 95 to NV 157
 2024-05-30;(USA) Nevada;I-515;;Route deleted, replaced by extended I-11
