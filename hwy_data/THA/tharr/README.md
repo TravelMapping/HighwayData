@@ -209,6 +209,11 @@ Notes on routes:
 * Nthw5002's endpoints may be wrong.
 * Nthw4007's south end (of the mainline) may be wrong. Some branches may be missing.
 * Nthw5034's south end may be wrong.
+* Nthw2036's south end may be wrong.
+* Nthw6037's north end may be wrong.
+* Nthw5039's north end is probably wrong.
+* Nthw6040 seems to be unsigned (as of 2024).
+* Nthw6041 [seems to be unsigned](https://www.google.com/maps/@6.5133599,101.6868638,3a,35.9y,214.28h,80.5t/data=!3m7!1e1!3m5!1s8wTS4cg0thsGGjZuPd_VZg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.495080014879008%26panoid%3D8wTS4cg0thsGGjZuPd_VZg%26yaw%3D214.27906146691055!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D) (as of 2024), though this may be the wrong place.
 * Nw1001's exact south end may be wrong.
 * Nw4066's exact north end may be wrong.
 * Nw4097 ends at 3353 per the 2023 log, but it [is signed](https://www.google.com/maps/@15.4594811,100.7213536,3a,29.9y,251.44h,84.79t/data=!3m7!1e1!3m5!1sFCXbI5z1TpdNwInAo6ASKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.2075100391171105%26panoid%3DFCXbI5z1TpdNwInAo6ASKw%26yaw%3D251.4384404686353!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D) at Lb4182.
