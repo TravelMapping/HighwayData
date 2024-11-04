@@ -208,6 +208,7 @@ Notes on routes:
 * Nthm3061 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@13.7665335,100.0898395,3a,28.6y,310.09h,86.89t/data=!3m7!1e1!3m5!1srPYKZ-uUTexIxiGBi76FcA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.1096234476603257%26panoid%3DrPYKZ-uUTexIxiGBi76FcA%26yaw%3D310.08940970247124!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D) (as of 2024).
 * Nthw5002's endpoints may be wrong.
 * Nthw4007's south end (of the mainline) may be wrong. Some branches may be missing.
+* Nthw5034's south end may be wrong.
 * Nw1001's exact south end may be wrong.
 * Nw4066's exact north end may be wrong.
 * Nw4097 ends at 3353 per the 2023 log, but it [is signed](https://www.google.com/maps/@15.4594811,100.7213536,3a,29.9y,251.44h,84.79t/data=!3m7!1e1!3m5!1sFCXbI5z1TpdNwInAo6ASKw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.2075100391171105%26panoid%3DFCXbI5z1TpdNwInAo6ASKw%26yaw%3D251.4384404686353!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkxOC4xIKXMDSoASAFQAw%3D%3D) at Lb4182.
