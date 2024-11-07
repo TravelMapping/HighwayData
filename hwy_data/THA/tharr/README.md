@@ -232,6 +232,7 @@ Notes on routes:
 * Phl4040's route in the unpaved section (north of BanNamDan) may be wrong, and it may have a gap.
 * Phl4045's west end may be wrong (it was at least partially repaved in 2022-2023; 2022 imagery at the west end shows no signage).
 * Phl4048's exact route near its west end may be wrong.
+* Phng4026 may continue south and loop around, but there is no available imagery.
 * Phng1042 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@8.2610765,98.300824,3a,15y,158.16h,92.93t/data=!3m7!1e1!3m5!1sh-ymN9Ipmf3wBCY5GPkF6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.930295378383505%26panoid%3Dh-ymN9Ipmf3wBCY5GPkF6w%26yaw%3D158.15815480508064!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D) (as of 2024).
 * Phr007's east end may be wrong.
 * Phr3023's south end may be wrong.
