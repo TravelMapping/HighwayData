@@ -234,6 +234,9 @@ Notes on routes:
 * Phl4048's exact route near its west end may be wrong.
 * Phng4026 may continue south and loop around, but there is no available imagery.
 * Phng1042 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@8.2610765,98.300824,3a,15y,158.16h,92.93t/data=!3m7!1e1!3m5!1sh-ymN9Ipmf3wBCY5GPkF6w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.930295378383505%26panoid%3Dh-ymN9Ipmf3wBCY5GPkF6w%26yaw%3D158.15815480508064!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D) (as of 2024).
+* Phth5022's west end may be wrong.
+* Phth4025's south end [may be wrong](https://www.google.com/maps/@7.26372,100.0871936,3a,23.8y,80.21h,83.36t/data=!3m7!1e1!3m5!1ssynDdB0-iaMxQMaLDS0ulQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.638111376975999%26panoid%3DsynDdB0-iaMxQMaLDS0ulQ%26yaw%3D80.2087816935351!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D), but it matches the length in the 2023 log.
+* Phth1028 [is signed](https://www.google.com/maps/@7.5625231,99.9846319,3a,15y,56.38h,84.58t/data=!3m7!1e1!3m5!1shn8_4KB5Nb41dWw0o9_A7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.415886900684811%26panoid%3Dhn8_4KB5Nb41dWw0o9_A7w%26yaw%3D56.3758681491945!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D) (as of 2023).
 * Phth1040's north end may be wrong.
 * Phth4048's east end may be wrong.
 * Phth7057 seems to be unsigned (as of 2022).
