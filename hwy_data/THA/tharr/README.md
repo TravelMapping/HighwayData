@@ -239,6 +239,7 @@ Notes on routes:
 * Phth1028 [is signed](https://www.google.com/maps/@7.5625231,99.9846319,3a,15y,56.38h,84.58t/data=!3m7!1e1!3m5!1shn8_4KB5Nb41dWw0o9_A7w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.415886900684811%26panoid%3Dhn8_4KB5Nb41dWw0o9_A7w%26yaw%3D56.3758681491945!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D) (as of 2023).
 * Phth1040's north end may be wrong.
 * Phth4048's east end may be wrong.
+* Phth5056 seems to be unsigned (as of 2022), but the imagery on the route itself is only from 2016.
 * Phth7057 seems to be unsigned (as of 2022).
 * Phr007's east end may be wrong.
 * Phr3023's south end may be wrong.
