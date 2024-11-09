@@ -139,6 +139,7 @@ Notes on routes:
 * 2443 seems to be signed only as a branch of 217 (of which it is an old alignment).
 * 2444 seems to be unsigned (as of 2022).
 * 2445 is only signed north of 224 (as of 2022).
+* 2464 seems to be unsigned (as of 2022).
 * 2465 is signed as [21](https://www.google.com/maps/@16.2647384,101.0471386,3a,15y,229.27h,88.07t/data=!3m7!1e1!3m5!1s91e8ipYmVTr_x2D6X0RQlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D91e8ipYmVTr_x2D6X0RQlQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D229.2689806933519%26pitch%3D1.9294793909374732%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) or [113](https://www.google.com/maps/@16.2620713,101.0470362,3a,15y,286.78h,88.41t/data=!3m7!1e1!3m5!1sTq8yXWImMdGriCfgFj02QA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DTq8yXWImMdGriCfgFj02QA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D286.7841997026729%26pitch%3D1.5851237505423939%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 2467 [is signed as 2013](https://www.google.com/maps/@17.0662656,100.8100512,3a,32.8y,260.87h,90.2t/data=!3m6!1e1!3m4!1sVc8CLkHXyuH920dyNlSU2A!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D).
 * 2475 [is signed as 2331](https://www.google.com/maps/@16.9838912,101.0204861,3a,32.8y,339.67h,85.86t/data=!3m6!1e1!3m4!1sU2JJxSi4EIQkMevb6cHHqQ!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D). The east end is from the length of 1.683 km.
