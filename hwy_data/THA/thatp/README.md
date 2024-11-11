@@ -367,6 +367,7 @@ Unsigned or former routes that are in the GIS data but not included:
 * 2443 seems to be signed only as a branch of 217 (of which it is an old alignment).
 * 2444 seems to be unsigned (as of 2022).
 * 2445 is only signed north of 224 (as of 2022).
+* 2453 seems to be unsigned (as of 2022).
 * 2464 seems to be unsigned (as of 2022).
 * 2465 is signed as [21](https://www.google.com/maps/@16.2647384,101.0471386,3a,15y,229.27h,88.07t/data=!3m7!1e1!3m5!1s91e8ipYmVTr_x2D6X0RQlQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D91e8ipYmVTr_x2D6X0RQlQ%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D229.2689806933519%26pitch%3D1.9294793909374732%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu) or [113](https://www.google.com/maps/@16.2620713,101.0470362,3a,15y,286.78h,88.41t/data=!3m7!1e1!3m5!1sTq8yXWImMdGriCfgFj02QA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DTq8yXWImMdGriCfgFj02QA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D286.7841997026729%26pitch%3D1.5851237505423939%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu).
 * 2467 [is signed as 2013](https://www.google.com/maps/@17.0662656,100.8100512,3a,32.8y,260.87h,90.2t/data=!3m6!1e1!3m4!1sVc8CLkHXyuH920dyNlSU2A!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D).
@@ -443,7 +444,13 @@ Unsigned or former routes that are in the GIS data but not included:
 
 [New style local road sign for an old style number?](https://www.google.com/maps/@19.3291769,99.7947762,3a,15y,224.95h,83.36t/data=!3m7!1e1!3m5!1sfDJfuRF7hB513TS88FkF6w!2e0!5s20130501T000000!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MDkxNS4wIKXMDSoASAFQAw%3D%3D)
 
-[Former A18 on 41?](https://www.google.com/maps/@9.9782496,99.1499588,3a,45y,199.55h,80.31t/data=!3m7!1e1!3m5!1sakIPnuC2Kfj8NvCHXi0mMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.686245663534947%26panoid%3DakIPnuC2Kfj8NvCHXi0mMw%26yaw%3D199.55153255814673!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D)
+Former Asian Highways:
+* [Former A12 on 24?](https://www.google.com/maps/@14.6096909,103.081881,3a,41.4y,281.74h,115.66t/data=!3m8!1e1!3m6!1sOggnsciWKyk_ubJn79JG-Q!2e0!5s20150301T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DOggnsciWKyk_ubJn79JG-Q%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D281.74468344731326%26pitch%3D-25.656362250694542%26thumbfov%3D90!7i13312!8i6656?coh=205410&entry=ttu)
+* [Former A14 on 12?](https://www.google.com/maps/@16.445216,102.7901157,3a,15y,294.3h,108.43t/data=!3m7!1e1!3m5!1sKbzMcHyONn8bC30yaXFM-Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.427463366839902%26panoid%3DKbzMcHyONn8bC30yaXFM-Q%26yaw%3D294.2963277641378!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D)
+* [Former A14 on 23?](https://www.google.com/maps/@16.039505,103.1206884,3a,15y,193.09h,87.61t/data=!3m7!1e1!3m5!1s3sGN5t1qZp7VRObGvXc-wA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3D3sGN5t1qZp7VRObGvXc-wA%26cb_client%3Dmaps_sv.share%26w%3D900%26h%3D600%26yaw%3D193.09082595368636%26pitch%3D2.3868790309542476%26thumbfov%3D90!7i16384!8i8192?coh=205410&entry=ttu)
+* [Former A18 on 41?](https://www.google.com/maps/@9.9782496,99.1499588,3a,45y,199.55h,80.31t/data=!3m7!1e1!3m5!1sakIPnuC2Kfj8NvCHXi0mMw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D9.686245663534947%26panoid%3DakIPnuC2Kfj8NvCHXi0mMw%26yaw%3D199.55153255814673!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D)
+
+[Rare use of Thai numerals](https://www.google.com/maps/@16.524592,102.938468,3a,15.2y,31.4h,86.21t/data=!3m7!1e1!3m5!1sUN1FmiYwnFExa91dgHyx3A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.7923383904696095%26panoid%3DUN1FmiYwnFExa91dgHyx3A%26yaw%3D31.397316438330563!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D)
 
 Rural road prefix table:
 
