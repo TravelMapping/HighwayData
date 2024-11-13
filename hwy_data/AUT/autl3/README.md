@@ -15,5 +15,6 @@
 - `L3112` not drafted since location is unknown (length: under 1km)
 - `L3112a` not drafted since location is unknown (length: under 1km)
 - `L3113` not drafted since location is unknown (length: under 1km)
+- `L3153` not drafted since location is unknown (length: under 1km)
 - `L6139a` is a one-way street for the opposite direction of `L6139`, not drafted for that reason
 - `L8097` not drafted since location is unknown (length: under 1km)
