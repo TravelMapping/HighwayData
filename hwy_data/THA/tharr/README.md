@@ -162,6 +162,7 @@ Notes on routes:
 * Chy3010's exact west end may be wrong.
 * Chy6023's east end may be wrong.
 * Chy3028 does not seem to be signed south of approximately km 1.8.
+* Chy6031's north end may be wrong.
 * Chy4048's route near +X868692 may be wrong; it is based on a total length of 24.86 km.
 * Chy3049's south end may be wrong.
 * Kb1016 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@8.1501037,98.8557133,3a,15y,34.13h,83.79t/data=!3m7!1e1!3m5!1sJL7FEoOi82Ii0sh1l9wBaw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.209129474850229%26panoid%3DJL7FEoOi82Ii0sh1l9wBaw%26yaw%3D34.128399854230636!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D) on a faded sign (as of 2024). However, due to an apparent lack of other signs, this is treated as a remnant of a former route.
