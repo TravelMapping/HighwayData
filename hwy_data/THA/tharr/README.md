@@ -195,6 +195,7 @@ Notes on routes:
 * Lb4136a (an unnamed branch) is not in the 2023 log, but it is signed (including km posts that continue from the branch point).
 * Lb4160 seems to be unsigned (as of 2023).
 * Lph028's east end may be wrong.
+* Mkh3011's west end may be wrong.
 * Ms4001Pan's west end may be wrong.
 * Ms4003MoL may be unsigned.
 * Ms3004's route may be wrong.
