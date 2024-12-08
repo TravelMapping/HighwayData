@@ -1938,6 +1938,8 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2024-12-07;(Germany) Brandenburg;L901;;Route deleted
+2024-12-07;(Germany) Brandenburg;L902;deubb.l902;Route extended at west end from A10 to village boundary of Töplitz
 2024-12-03;(Germany) Brandenburg;L452 (Neuzelle);deubb.l452;Route truncated at west end from Henzendorf to Bahro (L45)
 2024-12-01;(Germany) Brandenburg;L39 (Neu-Zittau);deubb.l039neu;New Route
 2024-12-01;(Germany) Brandenburg;L39 (Heidesee);deubb.l039;Route extended at north end from A12 to actual end at the next junction
@@ -3662,6 +3664,7 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2024-12-07;Netherlands;A24;nld.a024;New Route
 2024-07-05;Netherlands;N434;nld.n434;New Route
 2023-04-02;Netherlands;N515;nld.n515;New Route
 2023-04-02;Netherlands;N517;nld.n517;Route truncated at east end from Populierenlaan to Heideweg in Volendam
@@ -4969,6 +4972,7 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2024-04-12;Romania;DN17F;rou.dn17f;New Route
 2023-12-03;Romania;DEx12;rou.dex12;Route extended at northern end from Colonesti to DN65A and at southern end from Craiova to Bals
 2024-12-03;Romania;DJ643F;rou.dj643f;New Route
 2024-11-22;Romania;DJ763;rou.dj763;Route extended at eastern end from DC265 to DJ108C
@@ -6241,6 +6245,13 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2024-12-05;England;A51;eng.a0051;Route truncated at south end from A4097 to A461
+2024-12-05;(UK) England;A51 (Tamworth);eng.a0051tam;Route added
+2024-12-05;(UK) England;A461;eng.a0461;Route truncated at east end from A51 to A461Lic (that section now A461 (Lichfield)) and extended at east end from A461Lic to A5206
+2024-12-05;(UK) England;A461 (Lichfield);eng.a0461lic;Route added
+2024-12-05;(UK) England;A5127;eng.a5127;Route truncated at north end from northern junction with A38 to A461
+2024-12-05;(UK) England;A5127 (Lichfield);eng.a5127lic;Route added
+2024-12-05;(UK) England;B4083;eng.b4083;Route extended at west end from northern junction with A4104 to western junction with A44
 2024-09-30;(UK) England;A41 (London);eng.a0041lon;Route removed from Akeman Street and relocated on road alongside HS2 and bridge over HS2 between HS2 Works Compound and Waddesdon Hill
 2024-09-16;(UK) England;A263;eng.a0263;Route added
 2024-09-11;(UK) England;A12;eng.a0012;Route truncated at north end from old northern junction with A47 in the town centre to new southern junction with A47 and route extended over Gull Wing Bridge and former A1117 to new northern junction with A47
