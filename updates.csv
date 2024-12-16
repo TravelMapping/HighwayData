@@ -1938,6 +1938,8 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2024-12-07;(Germany) Brandenburg;L901;;Route deleted
+2024-12-07;(Germany) Brandenburg;L902;deubb.l902;Route extended at west end from A10 to village boundary of Töplitz
 2024-12-03;(Germany) Brandenburg;L452 (Neuzelle);deubb.l452;Route truncated at west end from Henzendorf to Bahro (L45)
 2024-12-01;(Germany) Brandenburg;L39 (Neu-Zittau);deubb.l039neu;New Route
 2024-12-01;(Germany) Brandenburg;L39 (Heidesee);deubb.l039;Route extended at north end from A12 to actual end at the next junction
@@ -1988,6 +1990,7 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2024-12-09;(Germany) Hesse;A44 (Hessisch Lichtenau);deuhe.a044hes;Route extended at east end from exit 79 to exit 82
 2024-11-01;(Germany) Hesse;L3256;deuhe.l3256;Route relocated from through Waldeck downtown, and onto Dr.-Mauser-Straße and Sachsenheimer Straße in Waldeck between Bahnhofstraße and Abelauf
 2024-11-01;(Germany) Hesse;L3256;deuhe.l3388;Route truncated from Abelauf to Dr.-Mauser-Straße in Waldeck (L3256 now)
 2024-09-13;(Germany) Hesse;B7 (Kassel);deuhe.b007;Route relocated from through Calden and onto new bypass from Airport to Holländische Straße east of Calden
@@ -2111,6 +2114,14 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2024-12-15;(Germany) North Rhine-Westphalia;L827 (Main);deunw.l827;Route truncated at west end from L616 to east of Steinheim, and reextended to B239
+2024-12-15;(Germany) North Rhine-Westphalia;L827 (Steinheim);deunw.l827ste;New Route (former part of main route)
+2024-12-14;(Germany) North Rhine-Westphalia;L673;deunw.l673;Route relocated Hagener Straße and Ostenstraße, and onto Beckestraße, Karl-Gerharts-Straße and Bethunestraße in Schwerte
+2024-12-14;(Germany) North Rhine-Westphalia;L712 (Bad Salzuflen);deunw.l712sal;New Route
+2024-12-12;(Germany) North Rhine-Westphalia;L534 (Klus);deunw.l534klu;New Route
+2024-12-09;(Germany) North Rhine-Westphalia;L525;deunw.l525;Route truncated at north end from L625 to B226 in Witten
+2024-12-09;(Germany) North Rhine-Westphalia;L660;deunw.l660;Route extended at south end from Berger Straße to B226 in Witten (former L525)
+2024-12-08;(Germany) North Rhine-Westphalia;L12 (Keyenberg);deunw.l012key;New Route
 2024-11-29;(Germany) North Rhine-Westphalia;L39 (Mönchengladbach);deunw.l039mon;Route clarified through Wickrath
 2024-11-29;(Germany) North Rhine-Westphalia;L39 (Wickrath);deunw.l039wic;New Route
 2024-11-29;(Germany) North Rhine-Westphalia;L277 (Mönchengladbach);deunw.l277mon;Route clarified through Wickrath
@@ -3662,6 +3673,7 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2024-12-07;Netherlands;A24;nld.a024;New Route
 2024-07-05;Netherlands;N434;nld.n434;New Route
 2023-04-02;Netherlands;N515;nld.n515;New Route
 2023-04-02;Netherlands;N517;nld.n517;Route truncated at east end from Populierenlaan to Heideweg in Volendam
@@ -7321,6 +7333,11 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2024-12-09;(USA) Kentucky;KY 52;ky.ky0052;Realigned between *OldKY52_W and *OldKY52_E west of Richmond
+2024-12-09;(USA) Kentucky;KY 1398;;Route deleted
+2024-12-09;(USA) Kentucky;KY 2098;ky.ky2098;Route added
+2024-12-09;(USA) Kentucky;KY 2827;ky.ky2827;Extended at north end from KY 39 to KY 169
+2024-12-09;(USA) Kentucky;KY 2872;ky.ky2872;Extended at west end from KY 2881 to KY 52
 2024-10-23;(USA) Kentucky;I-65;ky.i065;Exit 86 moved south approximately 0.2 mile to new KY 222 alignment
 2024-10-23;(USA) Kentucky;US 31W;ky.us031w;Realigned slightly between *OldKY222 (former KY222 junction) and KY222_E
 2024-10-23;(USA) Kentucky;KY 222;ky.ky0222;Realigned to the south between *OldKY222 and SpoLakeRd_N
@@ -8142,6 +8159,7 @@ date;region;route;root;description
 2015-08-03;(USA) Nevada;I-11 Future (Henderson);nv.i011futhen;New Route
 2015-08-03;(USA) Nevada;I-11 Future (Hoover Dam);nv.i011futhoo;New Route
 2015-07-23;(USA) Nevada;Summerlin Parkway;nv.sumpkwy;New Route
+2024-12-09;(USA) New Hampshire;NH 119;nh.nh119;Removed from Anna Hunt Marsh Bridge, Hinsdale Island and Charles Dana Bridge, and relocated onto General John Stark Memorial Bridge between the Vermont state line and Georges Field Rd.
 2024-06-23;(USA) New Hampshire;NH 16;nh.nh016;Relocated away from the Androscoggin River between waypoint *OldNH16_Dum and Dummer Pond Rd.
 2021-05-01;(USA) New Hampshire;NH 11 Truck ((East) Claremont);nh.nh011trkecl;New Route
 2021-05-01;(USA) New Hampshire;NH 11 Truck ((West) Claremont);nh.nh011trkwcl;New Route
@@ -8193,6 +8211,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2024-12-10;(USA) New York;I-86 (Owego);ny.i086owe;Route added.
+2024-12-10;(USA) New York;I-86 Future (Binghamton);ny.i086futbin;Truncated: section west of exit 67 to Pennsylvania state line moved to new I-86 (Owego) route.
 2024-07-07;(USA) New York;Hutchinson River Parkway;ny.hutrivpkwy;Waypoint 2 moved from I-95 (now labeled 2A) to Bartow Ave.
 2024-01-12;(USA) New York;I-86 Future (Binghamton);ny.i086futbin;Waypoint labels 72 & 72B swapped.
 2024-01-12;(USA) New York;NY 17 (Binghamton);ny.ny017bin;Waypoint labels 72 & 72B swapped.
@@ -8585,6 +8605,10 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2024-12-10;(USA) Oklahoma;I-335;ok.i335;Route added.
+2024-12-10;(USA) Oklahoma;Kickapoo Turnpike;ok.i335;Deleted: designated as I-335.
+2024-12-10;(USA) Oklahoma;I-344;ok.i344;Route added.
+2024-12-10;(USA) Oklahoma;John Kilpatrick Turnpike;ok.i344;Deleted: designated as I-344.
 2024-10-07;(USA) Oklahoma;AR 43;ok.ar043;Route added.
 2024-01-29;(USA) Oklahoma;OK 33;ok.ok033;East end truncated from US 75 Alt and OK 97 to OK 117.
 2024-01-29;(USA) Oklahoma;OK 66;ok.ok066;Removed from Dewey Ave and relocated onto OK 117 & OK 117A (Mission St) between waypoints DewAve_W & DewAve_E.
@@ -8655,6 +8679,8 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2024-12-10;(USA) Pennsylvania;I-86 (South Waverly);pa.i086swa;Extended eastward from exit 60 to New York state line.
+2024-12-10;(USA) Pennsylvania;I-86 Future (South Waverly);pa.i086swa;Deleted: Promoted to full Interstate & merged into I-86 (South Waverly).
 2024-10-07;(USA) Pennsylvania;PA 82 Alternate Truck (East Fallowfield Township);pa.pa082alttrkeas;Slightly realigned (between *OldPA41 and PA926) due to newly opened roundabout at PA 926.
 2024-10-07;(USA) Pennsylvania;PA 41;pa.pa041;Slightly realigned (between *OldPA41 and PA926) due to newly opened roundabout at PA 926.
 2024-10-07;(USA) Pennsylvania;PA 926;pa.pa926;Slightly realigned (between *OldPA926 and PA41) due to newly opened roundabout at PA 41.
