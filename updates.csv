@@ -2345,6 +2345,9 @@ date;region;route;root;description
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2024-12-18;(Germany) Saxony;S47 (Trebsen);deusn.s047tre;New Route
+2024-12-18;(Germany) Saxony;S72;;Route deleted
+2024-12-18;(Germany) Saxony;S95a;;Route deleted
 2024-09-03;(Germany) Saxony;S298;deusn.s298;Route truncated from Plauensche Straße in Falkenstein to K7827 in Reumtengrün
 2024-09-03;(Germany) Saxony;S303;deusn.s303;Route truncated from Rudolf-Breitscheid-Straße in Falkenstein to east of Neustadt, and reextended to B169 (western bypass of Falkenstein)
 2024-09-03;(Germany) Saxony;S304;deusn.s304;Route extended from Plauensche Straße in Falkenstein to B169 (former S298 up to K7815)
@@ -2352,7 +2355,7 @@ date;region;route;root;description
 2024-02-24;(Germany) Saxony;S36 (Main);deusn.s036;Route relocated in Freital from Wilsdruffer Straße and Dresdner Straße, and onto Carl-Thieme-Straße and Hüttenstraße
 2024-02-24;(Germany) Saxony;S194;deusn.s194;Route relocated from in Freital from Dresdner Straße, and onto Carl-Thieme-Straße and Hüttenstraße
 2023-12-24;(Germany) Saxony;S95;deusn.s095;Route relocated from through Leppersdorf (S95a now), and onto western bypass (former S177n)
-2023-12-24;(Germany) Saxony;S95a;deusn.s095a;New Route (former S95)
+2023-12-24;(Germany) Saxony;S95a;;New Route (former S95)
 2023-12-24;(Germany) Saxony;S177n;deusn.s095;Route deleted (S95 now)
 2023-11-27;(Germany) Saxony;B95 (Rötha);;Route deleted
 2023-11-27;(Germany) Saxony;S72;deusn.s072;Route truncated from former B95 north of Rötha to A72's exit 29 north of Böhlen
@@ -2394,6 +2397,7 @@ date;region;route;root;description
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
+2024-12-18;(Germany) Saxony-Anhalt;L166;deust.l143;Route deleted, merged into L143
 2024-04-14;(Germany) Saxony-Anhalt;B187a (Zerbst);deust.b187a;Route relocated from through Zerbst, and onto southern bypass from Biaser Straße to B184
 2024-04-10;(Germany) Saxony-Anhalt;L181;deust.l181;Route truncated at north end from B91 to L178
 2024-04-10;(Germany) Saxony-Anhalt;L193 (Zeitz);deust.l193zei;New Route
@@ -4144,6 +4148,12 @@ date;region;route;root;description
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2024-12-18;Poland;A2 (Siedlce);pol.a002sie;Route extended at west end from exit 39 to exit 33
+2024-12-18;Poland;A2 (Mińsk Mazowiecki);pol.a002sie;Route merged into Siedlce section
+2024-12-18;Poland;E30;pol.e30;Route removed from DK92 and relocated onto A2 between A2 exits 38 and 39
+2024-12-18;Poland;DK92 (Siedlce);pol.dk092sie;Route extended at west end from A2 exit 39 to S17
+2024-12-18;Poland;DK2 (Kaluszyn);pol.dk092sie;Route deleted (now DK92)
+2024-12-18;Poland;DK92 (Minsk Mazowiecki);pol.dk092sie;Route merged into Siedlce section
 2024-10-01;Poland;S61;pol.s061;Route extended at south end from exit 8 to exit 1
 2024-10-01;Poland;S61 (Łomża);pol.s061;Route deleted (merged into main route)
 2024-10-01;Poland;E67;pol.e67;Route removed off former DK61/DK63 and relocated onto S61 between S61 exits 5 and 8
@@ -6262,7 +6272,8 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
-2024-12-05;England;A51;eng.a0051;Route truncated at south end from A4097 to A461
+2024-12-05;(UK) England;A4545;eng.a4545;Route added
+2024-12-05;(UK) England;A51;eng.a0051;Route truncated at south end from A4097 to A461
 2024-12-05;(UK) England;A51 (Tamworth);eng.a0051tam;Route added
 2024-12-05;(UK) England;A461;eng.a0461;Route truncated at east end from A51 to A461Lic (that section now A461 (Lichfield)) and extended at east end from A461Lic to A5206
 2024-12-05;(UK) England;A461 (Lichfield);eng.a0461lic;Route added
