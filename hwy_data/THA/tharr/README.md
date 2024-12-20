@@ -357,7 +357,11 @@ Notes on routes:
 * Skhr4043 seems to be the only signed designation for what the 2023 log (and numbering system) calls Skhr3043.
 * Skhr4047 seems to be the [only signed rural road designation](https://www.google.com/maps/@13.5888638,100.0922719,3a,15y,189.6h,71.67t/data=!3m6!1e1!3m4!1sHzyzUwd_DHYEvAJHrfhAJg!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D) for what the 2023 log (and numbering system) calls Skhr3047, but it is also [signed as PAOSkth313A](https://www.google.com/maps/@13.588342,100.0926108,3a,15y,17.91h,86.23t/data=!3m6!1e1!3m4!1sLU7JbDQcu1fh9kYXFYDvMA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D).
 * Skhr3048 had its km posts painted over by 2022, and there seem to be no other signs.
+* Sks027's west end may be wrong.
+* Sks3058's west end may be wrong; it is based on the length of 6.7 km in the 2023 log, but available imagery is limited.
 * Sks4066 [is signed as such](https://www.google.com/maps/@14.54591,104.2086087,3a,15y,94.81h,85.62t/data=!3m7!1e1!3m5!1sCXaMsL_w1PkN-t0OBeV_1Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.382843122062411%26panoid%3DCXaMsL_w1PkN-t0OBeV_1Q%26yaw%3D94.81434170851738!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) (as of 2023), despite the 2023 log calling it Sks6066. It is also signed on a significantly shorter route than in the log.
+* Sks3070 seems to be unsigned (as of 2022).
+* Sks3071 seems to be unsigned (as of 2023).
 * Skw034's west end may be wrong.
 * Skw3003's west end may be wrong.
 * Skw4029's south end may be wrong. The 2023 log shows it ending at 3383, but it [is signed](https://www.google.com/maps/@13.5825049,102.3630963,3a,19.2y,177.87h,84.46t/data=!3m7!1e1!3m5!1skbpuklHkGmkoar-tyMJcnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.538992451954485%26panoid%3DkbpuklHkGmkoar-tyMJcnQ%26yaw%3D177.8716019724768!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D) south from 3383 (as of 2022).
