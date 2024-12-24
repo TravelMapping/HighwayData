@@ -379,6 +379,7 @@ Notes on routes:
 * Sks4083's west end may be wrong; the 2023 log shows it to be much longer.
 * Sks5085 seems to be unsigned.
 * [Sks6086](https://www.google.com/maps/@14.5635677,104.3605734,3a,59.1y,165.05h,71.66t/data=!3m7!1e1!3m5!1sG0wUKMsk98RMeL5v6wF_OQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D18.343722991076206%26panoid%3DG0wUKMsk98RMeL5v6wF_OQ%26yaw%3D165.04998040293754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) seems to be unsigned (as of 2023).
+* Sks4088 (from p. 181 of the 2023 log) is probably unsigned, but its location is unclear.
 * Skw034's west end may be wrong.
 * Skw3003's west end may be wrong.
 * Skw4029's south end may be wrong. The 2023 log shows it ending at 3383, but it [is signed](https://www.google.com/maps/@13.5825049,102.3630963,3a,19.2y,177.87h,84.46t/data=!3m7!1e1!3m5!1skbpuklHkGmkoar-tyMJcnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.538992451954485%26panoid%3DkbpuklHkGmkoar-tyMJcnQ%26yaw%3D177.8716019724768!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D) south from 3383 (as of 2022).
