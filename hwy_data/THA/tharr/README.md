@@ -360,6 +360,7 @@ Notes on routes:
 * Sks027's west end may be wrong.
 * Sks3058's west end may be wrong; it is based on the length of 6.7 km in the 2023 log, but available imagery is limited.
 * Sks5060's exact south end may be wrong.
+* Sks3065's east end may be wrong.
 * Sks4066 [is signed as such](https://www.google.com/maps/@14.54591,104.2086087,3a,15y,94.81h,85.62t/data=!3m7!1e1!3m5!1sCXaMsL_w1PkN-t0OBeV_1Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.382843122062411%26panoid%3DCXaMsL_w1PkN-t0OBeV_1Q%26yaw%3D94.81434170851738!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) (as of 2023), despite the 2023 log calling it Sks6066. It is also signed on a significantly shorter route than in the log, but its north end may be wrong.
 * Sks4067 [is signed](https://www.google.com/maps/@14.4530066,104.8279617,3a,15y,192.13h,86.27t/data=!3m7!1e1!3m5!1styY_zanF-W_3d1B5cFI8RA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.725037878789408%26panoid%3DtyY_zanF-W_3d1B5cFI8RA%26yaw%3D192.13023289277947!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) (as of 2022), but its endpoints are unclear.
 * Sks4069 seems to be unsigned (as of 2022).
@@ -373,8 +374,10 @@ Notes on routes:
 * [Sks4078](https://www.google.com/maps/@14.4902546,104.4878114,3a,26.2y,234.06h,85.54t/data=!3m7!1e1!3m5!1slMCcI4sV3WECx66_ix94yw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.455549880769084%26panoid%3DlMCcI4sV3WECx66_ix94yw%26yaw%3D234.06265349851745!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) seems to be unsigned (as of 2023).
 * Sks6079's north end may be wrong.
 * Sks5080 [is signed](https://www.google.com/maps/@14.727529,104.1033104,3a,15y,134.2h,75.81t/data=!3m7!1e1!3m5!1slyGji9XJ_1FVJ776mSy2dw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.193950554786525%26panoid%3DlyGji9XJ_1FVJ776mSy2dw%26yaw%3D134.2016043318426!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) (as of 2021). Its north end may be wrong.
+* Sks5081 seems to be unsigned (as of 2023).
 * Sks4082 seems to be unsigned (as of 2023).
 * Sks4083's west end may be wrong; the 2023 log shows it to be much longer.
+* Sks5085 seems to be unsigned.
 * [Sks6086](https://www.google.com/maps/@14.5635677,104.3605734,3a,59.1y,165.05h,71.66t/data=!3m7!1e1!3m5!1sG0wUKMsk98RMeL5v6wF_OQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D18.343722991076206%26panoid%3DG0wUKMsk98RMeL5v6wF_OQ%26yaw%3D165.04998040293754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) seems to be unsigned (as of 2023).
 * Skw034's west end may be wrong.
 * Skw3003's west end may be wrong.
