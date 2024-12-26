@@ -11,4 +11,4 @@
 - http://forum.travelmapping.net/index.php?topic=2826
 
 **NOTES TO ROUTES:**
-- 
+- `L103` is incorrectly indicated for the Westring of Pinneberg on OSM (since 2012) but not dedicated according to danord.gdi-sh.de nor any road marker on delineators according to 2023 GSV, thus not in HB
