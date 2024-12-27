@@ -499,13 +499,13 @@ Rural road prefix table:
 |Mukdahan|มห|Mh|
 |Nakhon Nayok|นย|Ny|
 |Nakhon Pathom|นฐ|Nthm|
-|Nakhon Phanom|นพ|Nph|
+|Nakhon Phanom|นพ|Nphn|
 |Nakhon Ratchasima|นม|Nm|
 |Nakhon Sawan|นว|Nw|
 |Nakhon Si Thammarat|นศ|Ns|
 |Nan|นน|Nn|
 |Narathiwat|นธ|Nthw|
-|Nong Bua Lam Phu|นภ|Nph|
+|Nong Bua Lam Phu|นภ|Nbph|
 |Nong Khai|นค|Nkh|
 |Nonthaburi|นบ|Nb|
 |Pathum Thani|ปท|Pth|
@@ -551,6 +551,8 @@ Rural road prefix table:
 |Yasothon|ยส|Ys|
 
 The following should be shorter, but an extra letter has been added to disambiguate (due to multiple Thai letters mapping to a single Latin letter or pair thereof):
+* Nakhon Phanom: Nph -> Nphn
+* Nong Bua Lam Phu: Nph -> Nbph
 * Nakhon Pathom: Nth -> Nthm
 * Narathiwat: Nth -> Nthw
 * Sa Kaeo: Sk -> Skw
