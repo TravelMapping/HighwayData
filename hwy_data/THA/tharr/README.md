@@ -37,13 +37,13 @@ Rural road prefix table:
 |Mukdahan|มห|Mh|
 |Nakhon Nayok|นย|Ny|
 |Nakhon Pathom|นฐ|Nthm|
-|Nakhon Phanom|นพ|Nph|
+|Nakhon Phanom|นพ|Nphn|
 |Nakhon Ratchasima|นม|Nm|
 |Nakhon Sawan|นว|Nw|
 |Nakhon Si Thammarat|นศ|Ns|
 |Nan|นน|Nn|
 |Narathiwat|นธ|Nthw|
-|Nong Bua Lam Phu|นภ|Nph|
+|Nong Bua Lam Phu|นภ|Nbph|
 |Nong Khai|นค|Nkh|
 |Nonthaburi|นบ|Nb|
 |Pathum Thani|ปท|Pth|
@@ -89,6 +89,8 @@ Rural road prefix table:
 |Yasothon|ยส|Ys|
 
 The following should be shorter, but an extra letter has been added to disambiguate (due to multiple Thai letters mapping to a single Latin letter or pair thereof):
+* Nakhon Phanom: Nph -> Nphn
+* Nong Bua Lam Phu: Nph -> Nbph
 * Nakhon Pathom: Nth -> Nthm
 * Narathiwat: Nth -> Nthw
 * Sa Kaeo: Sk -> Skw
@@ -220,7 +222,7 @@ Notes on routes:
 * Nm3138's east end [is correct](https://www.google.com/maps/@14.3183814,101.9310288,3a,16.5y,299.65h,72.94t/data=!3m7!1e1!3m5!1sniTfERG3A3ZPvFTcc6xlqQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D17.061891856674592%26panoid%3DniTfERG3A3ZPvFTcc6xlqQ%26yaw%3D299.6490886028019!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D); it doesn't go as shown on OSM (or the coordinates in the 2023 log).
 * Nn4024's east end may be wrong.
 * Nn4041 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@19.4919598,100.8986597,3a,15y,357.11h,91.95t/data=!3m7!1e1!3m5!1sMrppKthvn4sXlc3bfPDncg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.9539165956384181%26panoid%3DMrppKthvn4sXlc3bfPDncg%26yaw%3D357.1065637894347!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwNS4yIKXMDSoASAFQAw%3D%3D) (as of 2024). Since it doesn't fit the numbering, this is assumed to be an error for PAONn4041.
-* Nph3007 has signs in Loei that call it the ["Loei section"](https://www.google.com/maps/@16.8796012,102.0068132,3a,15y,88.61h,85.72t/data=!3m7!1e1!3m5!1sidlXVvzFfI2o0yzmFLxe8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.275111258244195%26panoid%3DidlXVvzFfI2o0yzmFLxe8Q%26yaw%3D88.61310612552458!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D), but it's continuous with the Nakhon Phanom section.
+* Nphn3007 has signs in Loei that call it the ["Loei section"](https://www.google.com/maps/@16.8796012,102.0068132,3a,15y,88.61h,85.72t/data=!3m7!1e1!3m5!1sidlXVvzFfI2o0yzmFLxe8Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.275111258244195%26panoid%3DidlXVvzFfI2o0yzmFLxe8Q%26yaw%3D88.61310612552458!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D), but it's continuous with the Nakhon Phanom section.
 * Ns4030 is not in the 2023 log, but it [is signed](https://www.google.com/maps/@8.3962889,100.0964584,3a,24y,274.67h,83.5t/data=!3m7!1e1!3m5!1sSZtvJSsz4D6mKSJ6uLJvOA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.503457887767681%26panoid%3DSZtvJSsz4D6mKSJ6uLJvOA%26yaw%3D274.6661747939986!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D) (as of 2024; signs posted in or after 2022). However, it seems to be otherwise unsigned, and the road is in poor condition, so this is assumed to be an error for [a former route](https://www.google.com/maps/@8.3968288,100.0949823,3a,16.3y,113.42h,67.68t/data=!3m8!1e1!3m6!1sozXdnPfLh99_M12NIV0G5A!2e0!5s20160501T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D22.319528659567013%26panoid%3DozXdnPfLh99_M12NIV0G5A%26yaw%3D113.41598658165968!7i13312!8i6656?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D).
 * [Ns3063](https://www.google.com/maps/@8.0561966,99.4272209,3a,15y,349.18h,85.51t/data=!3m7!1e1!3m5!1suhazOihuVSr7enIcydOuqw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.494432171427121%26panoid%3DuhazOihuVSr7enIcydOuqw%26yaw%3D349.1763929119949!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D) is probably a remnant of a former route.
 * Ns5078 may be completely wrong.
@@ -357,6 +359,29 @@ Notes on routes:
 * Skhr4043 seems to be the only signed designation for what the 2023 log (and numbering system) calls Skhr3043.
 * Skhr4047 seems to be the [only signed rural road designation](https://www.google.com/maps/@13.5888638,100.0922719,3a,15y,189.6h,71.67t/data=!3m6!1e1!3m4!1sHzyzUwd_DHYEvAJHrfhAJg!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D) for what the 2023 log (and numbering system) calls Skhr3047, but it is also [signed as PAOSkth313A](https://www.google.com/maps/@13.588342,100.0926108,3a,15y,17.91h,86.23t/data=!3m6!1e1!3m4!1sLU7JbDQcu1fh9kYXFYDvMA!2e0!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MDkwOS4wIKXMDSoASAFQAw%3D%3D).
 * Skhr3048 had its km posts painted over by 2022, and there seem to be no other signs.
+* Sks027's west end may be wrong.
+* Sks3058's west end may be wrong; it is based on the length of 6.7 km in the 2023 log, but available imagery is limited.
+* Sks5060's exact south end may be wrong.
+* Sks3065's east end may be wrong.
+* Sks4066 [is signed as such](https://www.google.com/maps/@14.54591,104.2086087,3a,15y,94.81h,85.62t/data=!3m7!1e1!3m5!1sCXaMsL_w1PkN-t0OBeV_1Q!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.382843122062411%26panoid%3DCXaMsL_w1PkN-t0OBeV_1Q%26yaw%3D94.81434170851738!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) (as of 2023), despite the 2023 log calling it Sks6066. It is also signed on a significantly shorter route than in the log, but its north end may be wrong.
+* Sks4067 [is signed](https://www.google.com/maps/@14.4530066,104.8279617,3a,15y,192.13h,86.27t/data=!3m7!1e1!3m5!1styY_zanF-W_3d1B5cFI8RA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.725037878789408%26panoid%3DtyY_zanF-W_3d1B5cFI8RA%26yaw%3D192.13023289277947!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) (as of 2022), but its endpoints are unclear.
+* Sks4069 seems to be unsigned (as of 2022).
+* Sks3070 seems to be unsigned (as of 2022).
+* Sks3071 seems to be unsigned (as of 2023).
+* Sks4073 seems to have been deleted between [2015](https://www.google.com/maps/@14.5467046,104.3684781,3a,44.4y,144.4h,81.27t/data=!3m8!1e1!3m6!1shIYpKpkRJwxZyRKXQ-3nVw!2e0!5s20151001T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D8.728180643521895%26panoid%3DhIYpKpkRJwxZyRKXQ-3nVw%26yaw%3D144.39693629790835!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) and [2022](https://www.google.com/maps/@14.5466293,104.3685653,3a,75y,182.07h,64.01t/data=!3m8!1e1!3m6!1shFzVghnqhLqPFN9pWKpN6g!2e0!5s20221001T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D25.98668763882391%26panoid%3DhFzVghnqhLqPFN9pWKpN6g%26yaw%3D182.06776120950423!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D).
+* Sks4074's west end may be wrong.
+* [Sks4075](https://www.google.com/maps/@14.5249714,104.4666185,3a,75y,66.83h,70.48t/data=!3m7!1e1!3m5!1sRSWhtxGDzHsErar-igFYHg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D19.51502707266704%26panoid%3DRSWhtxGDzHsErar-igFYHg%26yaw%3D66.82654438507834!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) seems to be unsigned (as of 2023).
+* Sks5076 seems to be unsigned (as of 2022).
+* Sks5077 seems to be unsigned (as of 2023).
+* [Sks4078](https://www.google.com/maps/@14.4902546,104.4878114,3a,26.2y,234.06h,85.54t/data=!3m7!1e1!3m5!1slMCcI4sV3WECx66_ix94yw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D4.455549880769084%26panoid%3DlMCcI4sV3WECx66_ix94yw%26yaw%3D234.06265349851745!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) seems to be unsigned (as of 2023).
+* Sks6079's north end may be wrong.
+* Sks5080 [is signed](https://www.google.com/maps/@14.727529,104.1033104,3a,15y,134.2h,75.81t/data=!3m7!1e1!3m5!1slyGji9XJ_1FVJ776mSy2dw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.193950554786525%26panoid%3DlyGji9XJ_1FVJ776mSy2dw%26yaw%3D134.2016043318426!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) (as of 2021). Its north end may be wrong.
+* Sks5081 seems to be unsigned (as of 2023).
+* Sks4082 seems to be unsigned (as of 2023).
+* Sks4083's west end may be wrong; the 2023 log shows it to be much longer.
+* Sks5085 seems to be unsigned.
+* [Sks6086](https://www.google.com/maps/@14.5635677,104.3605734,3a,59.1y,165.05h,71.66t/data=!3m7!1e1!3m5!1sG0wUKMsk98RMeL5v6wF_OQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D18.343722991076206%26panoid%3DG0wUKMsk98RMeL5v6wF_OQ%26yaw%3D165.04998040293754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D) seems to be unsigned (as of 2023).
+* Sks4088 (from p. 181 of the 2023 log) is probably unsigned, but its location is unclear.
 * Skw034's west end may be wrong.
 * Skw3003's west end may be wrong.
 * Skw4029's south end may be wrong. The 2023 log shows it ending at 3383, but it [is signed](https://www.google.com/maps/@13.5825049,102.3630963,3a,19.2y,177.87h,84.46t/data=!3m7!1e1!3m5!1skbpuklHkGmkoar-tyMJcnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D5.538992451954485%26panoid%3DkbpuklHkGmkoar-tyMJcnQ%26yaw%3D177.8716019724768!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MTAwMi4xIKXMDSoASAFQAw%3D%3D) south from 3383 (as of 2022).
@@ -395,6 +420,11 @@ Notes on routes:
 * Tr1038 [is signed](https://www.google.com/maps/@12.0242365,102.7662932,3a,16.4y,305.47h,83.12t/data=!3m7!1e1!3m5!1s582OFD8q7oh1nm_5EYCsdw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D6.8775972919986685%26panoid%3D582OFD8q7oh1nm_5EYCsdw%26yaw%3D305.4749116795462!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDgyOC4wIKXMDSoASAFQAw%3D%3D) on what the 2023 log calls Tr1036.
 * Tr1043 seems to be unsigned (as of 2024).
 * Tr5044's north end may be wrong (it may not make it to Tr4007).
+* Xb4034's route thru Ban Non Ko is based on the locations of [km 10](https://www.google.com/maps/@14.9806803,105.4010307,3a,75y,114.89h,58.11t/data=!3m8!1e1!3m6!1sv1RGM2diRMRY5jQ71UKCEQ!2e0!5s20150701T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D31.887892957402755%26panoid%3Dv1RGM2diRMRY5jQ71UKCEQ%26yaw%3D114.89184431821805!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D) and [km 12](https://www.google.com/maps/@14.9861329,105.4080187,3a,36y,245.03h,72.25t/data=!3m7!1e1!3m5!1sVjndf5YvYmP-KrUeFzlH2w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D17.746519020800946%26panoid%3DVjndf5YvYmP-KrUeFzlH2w%26yaw%3D245.02563134550434!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D). [Km 11](https://www.google.com/maps/@14.9886536,105.3992498,3a,15.5y,174.05h,75.94t/data=!3m8!1e1!3m6!1svtnIvP-DnT3EGHDDVaSsoQ!2e0!5s20150701T000000!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D14.064429991186103%26panoid%3DvtnIvP-DnT3EGHDDVaSsoQ%26yaw%3D174.05191153821903!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D) was formerly posted.
+* Xb3050's route thru Ban Kaeng Dom is based on the locations of [km 15](https://www.google.com/maps/@15.1836916,105.1371433,3a,35.9y,199.83h,62.48t/data=!3m7!1e1!3m5!1sWuLDhKFBs2Qo3s_T4YOFfw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D27.519007137941358%26panoid%3DWuLDhKFBs2Qo3s_T4YOFfw%26yaw%3D199.82639036062153!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D) and [km 17](https://www.google.com/maps/@15.1942264,105.1382745,3a,32.8y,40.54h,74.42t/data=!3m7!1e1!3m5!1sOIpB9Z58_jDIsDTDeJmoBw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D15.576611925738177%26panoid%3DOIpB9Z58_jDIsDTDeJmoBw%26yaw%3D40.54104521394872!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D); presumably [this](https://www.google.com/maps/@15.1903448,105.143632,3a,15y,200.15h,86.75t/data=!3m7!1e1!3m5!1sCCC-e0LiYQVVb8wu8Y9X9A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D3.254727010223178%26panoid%3DCCC-e0LiYQVVb8wu8Y9X9A%26yaw%3D200.15235007949394!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI0MTIwNC4wIKXMDSoASAFQAw%3D%3D) is km 16.
+* Xb4064's north end may be wrong; it is from the coordinates in the 2023 log, but km posts near the north end have been painted over.
+* Xb3151's endpoints may be wrong.
+* Xc4023's south end is signed at two places along 2049; the one chosen had signs added more recently.
 * Xn4015 [is also signed as Xn5015](https://www.google.com/maps/@14.960452,99.5615963,3a,15.6y,52.02h,79.25t/data=!3m7!1e1!3m5!1swVXLSFbeh8SLu40Vn2IgCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.74510422119107%26panoid%3DwVXLSFbeh8SLu40Vn2IgCQ%26yaw%3D52.02269798230511!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D), but [km posts](https://www.google.com/maps/@14.960431,99.5617014,3a,34.3y,101.78h,51.4t/data=!3m7!1e1!3m5!1sb0McUd6IxxAghIxdjOuwkg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D38.59818378917312%26panoid%3Db0McUd6IxxAghIxdjOuwkg%26yaw%3D101.78433977713956!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D) and the 2023 log say Xn4015.
 * Xt4007 may have been extended south by recent construction, or it may have been deleted.
 * Xt2014's west end may have changed due to construction.
