@@ -1,4 +1,5 @@
 date;region;route;root;description
+2024-12-31;Albania;Unaza e Madhe, Tiranë;alb.unamad;Route extended at north end from Rruga Dritan Hoxha (SH1) to Bulevardi Bajram Curri
 2024-11-25;Albania;SH75;alb.sh075;Route relocated onto new alignment from Ujë Bardhë to south of Ersekë
 2024-11-06;Albania;A1;alb.a001;Route relocated from old Drinit bridge, and onto new Drinit bridge between Drinas and Kukës
 2024-11-06;Albania;E851;alb.e851;Route relocated from old Drinit bridge, and onto new Drinit bridge between Drinas and Kukës
@@ -909,6 +910,7 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2024-12-31;Czechia;I58;cze.i058;Route relocated from through Mošnov and onto western bypass between III48018 and south of Mošnov
 2024-12-22;Czechia;I3 (Kaplice);cze.i003;Route truncated at north end from D3's exit 130 to II157 (I34, I20, I39 and II603 now)
 2024-12-22;Czechia;I20 (Main);cze.i020;Route extended at south end from I39 (former I3) to Jírovcova (I34)
 2024-12-22;Czechia;I34;cze.i034;Route truncated at west end from Pražská tř. (II603) to Jírovcova (section is I20 now)
@@ -2067,6 +2069,23 @@ date;region;route;root;description
 2015-09-15;(Germany) Hesse;A66 (Eichenzell);;Route merged into main A66 route
 2015-09-10;(Germany) Hesse;A480 (Aßlar);deuhe.a480ass;Route extended at east end from exit 2 to L3053
 2024-11-01;(Germany) Lower Saxony;B240 (Fölziehausen);;Route deleted
+2024-12-29;(Germany) Lower Saxony;L573 (Main);deuni.l573;Route relocated from through Rosdorf and onto eastern bypass
+2024-12-29;(Germany) Lower Saxony;L573 (Rosdorf);deuni.l573ros;New Route
+2024-12-29;(Germany) Lower Saxony;L629;deuni.l629;Route truncated at west end from L627 to L625
+2024-12-29;(Germany) Lower Saxony;L831;deuni.l831;Route relocated from B72, and onto Münsterlandring southwest of Friesoythe
+2024-12-29;(Germany) Lower Saxony;L839;deuni.l839;Route relocated from through Lindern, and onto southeastern bypass
+2024-12-28;(Germany) Lower Saxony;L391 (Wennigsen);;Route deleted
+2024-12-28;(Germany) Lower Saxony;L434;deuni.l434;L439 and L443 waypoints merged into A2 waypoint
+2024-12-28;(Germany) Lower Saxony;L439;deuni.l439;L434 waypoint merged into A2 waypoint
+2024-12-28;(Germany) Lower Saxony;L443;deuni.l443;L434 waypoint merged into A2 waypoint
+2024-12-28;(Germany) Lower Saxony;L472 (Lengede);deuni.l472;Route truncated at south end from B248 to A39
+2024-12-28;(Germany) Lower Saxony;L472 (Salder);deuni.l472sal;New Route
+2024-12-28;(Germany) Lower Saxony;L472 (Bad Salzgitter);deuni.l472bad;New Route
+2024-12-28;(Germany) Lower Saxony;L670 (Gebhardshagen);deuni.l670geb;Route relocated from Nord-Süd-Straße, and onto Vor der Burg
+2024-12-27;(Germany) Lower Saxony;L83;deuni.l083;Route relocated from through Buer, and onto eastern bypass
+2024-12-27;(Germany) Lower Saxony;L92;deuni.l092;Route relocated from Osnabrücker Straße, Kirchplatz and Auf Torf, and onto Barkhausener Straße and eastern bypass of Buer
+2024-12-27;(Germany) Lower Saxony;L98;deuni.l098;Route relocated from through Bad Laer, and onto western bypass between K338 and L94
+2024-12-27;(Germany) Lower Saxony;L133;deuni.l133;Route relocated from through Lilienthal, and onto northern bypass between border to Bremen and west of L154
 2024-04-05;(Germany) Lower Saxony;L6;deuni.l006;Route relocated from Carolinensiel bypass, and through Carolinensiel
 2024-04-03;(Germany) Lower Saxony;B83 (Bückeburg);deuni.b083;Route merged into main route
 2024-04-03;(Germany) Lower Saxony;B83;deuni.b083;Route extended at west end from L441 to B65 (no route change but state boundary clarification only)
@@ -2486,6 +2505,11 @@ date;region;route;root;description
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
 2024-08-29;(Germany) Thuringia;L2009;;Route deleted
 2024-08-26;(Germany) Thuringia;L1079;;Route deleted
+2024-12-30;(Germany) Thuringia;L1025 (Waltershausen);deuth.l1025;Route truncated at east end from Schönau to Schnepfenthal
+2024-12-30;(Germany) Thuringia;L1025 (Ernstroda);deuth.l1025ern;New Route
+2024-12-30;(Germany) Thuringia;L1032;deuth.l1032;Route extended at west end from B247 to L3080
+2024-12-30;(Germany) Thuringia;L1035;deuth.l1035;Route truncated at west end from L3080 to L1011
+2024-12-30;(Germany) Thuringia;L1070;deuth.l1070;L1075 waypoint merged into A9 waypoint
 2022-12-08;(Germany) Thuringia;B247;deuth.b247;Route relocated from through Kallmerode and onto new bypass from L1032 to south of Kallmerode
 2022-11-06;(Germany) Thuringia;L2391;deuth.l2391;Route extended at east end in Zeutsch to the new bypass (former B88)
 2022-11-06;(Germany) Thuringia;B88;deuth.b088;Route relocated from through Zeutsch and onto new bypass between K12 and L2391
@@ -7132,11 +7156,23 @@ date;region;route;root;description
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
-2023-04-30;(USA) Georgia;GA 32 Truck (Leesburg);ga.ga032trklee;Added route
-2022-03-13;(USA) Georgia;GA 35 Conn (Tifton);ga.ga035contif;Added route, formerly GA 35 Loop(Tifton)
-2022-03-13;(USA) Georgia;GA 35 Loop (Tifton);;Route renamed to GA 35 Conn (Tifton)
-2022-03-13;(USA) Georgia;US 84;ga.us084;Realigned onto bypasses around Argyle (MainSt_W to MainSt_E) and Wahoma (ValHwy to GleAve)
-2022-03-13;(USA) Georgia;GA 38;ga.ga038;Realigned onto bypasses around Argyle (MainSt_W to MainSt_E) and Wahoma (ValHwy to GleAve)
+2024-12-27;(USA) Georgia;US 84;ga.us084;Relocated eastern intersection with US 84 Bus (Bainbridge).
+2024-12-27;(USA) Georgia;US 84 Bus (Bainbridge);ga.us084busbai;Relocated eastern intersection with US 84.
+2024-12-27;(USA) Georgia;GA 38;ga.ga038;Relocated eastern intersection with US 84 Bus (Bainbridge).
+2024-12-27;(USA) Georgia;GA 38 Bus (Bainbridge);ga.ga038busbai;Relocated eastern intersection with GA 38.
+2024-12-27;(USA) Georgia;US 129;ga.us129;Moved GA 96 point due to GA 96 realignment. Old point is OldHwy96.
+2024-12-27;(USA) Georgia;GA 40 Spur (St. Marys);ga.ga040sprstm;Extended north end to boat ramp based on field signage.
+2024-12-27;(USA) Georgia;GA 96;ga.ga096;Realigned in Bonaire between Old Perry Rd and Thompson Mill Rd.
+2024-12-27;(USA) Georgia;GA 247;ga.ga247;Moved GA 96 point due to GA 96 realignment. Old point is OldHwy96.
+2024-12-26;(USA) Georgia;I-75 Bus (Cordele);;Route deleted.
+2024-12-26;(USA) Georgia;GA 8 Conn (Tucker);ga.ga008contuc;Added route.
+2024-12-26;(USA) Georgia;GA 169;ga.ga169;Realigned southern end of route (south of new SunBlvd point).
+2024-12-26;(USA) Georgia;GA 201;ga.ga201;Rerouted from Tunnel Hill Church Street to North New Varnell Road north of Tunnel Hill.
+2023-04-30;(USA) Georgia;GA 32 Truck (Leesburg);ga.ga032trklee;Added route.
+2022-03-13;(USA) Georgia;GA 35 Conn (Tifton);ga.ga035contif;Added route, formerly GA 35 Loop(Tifton).
+2022-03-13;(USA) Georgia;GA 35 Loop (Tifton);;Route renamed to GA 35 Conn (Tifton).
+2022-03-13;(USA) Georgia;US 84;ga.us084;Realigned onto bypasses around Argyle (MainSt_W to MainSt_E) and Wahoma (ValHwy to GleAve).
+2022-03-13;(USA) Georgia;GA 38;ga.ga038;Realigned onto bypasses around Argyle (MainSt_W to MainSt_E) and Wahoma (ValHwy to GleAve).
 2022-02-26;(USA) Georgia;GA 14 Spur (LaGrange);ga.ga014sprlag;Route truncated from GA 219 to US 27.
 2022-01-16;(USA) Georgia;GA 17;ga.ga017;Shortened from GA 21 to its proper end at Sonny Dixon Interchange.
 2022-01-01;(USA) Georgia;Sugarloaf Parkway;ga.sugpkwy;Route added.
@@ -8290,6 +8326,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2024-12-28;(USA) New York;NY 12E;ny.ny012e;Removed from Main St and Bridge St and relocated onto the 2024 Black River bridge between Main St and NY 12F.
+2024-12-28;(USA) New York;NY 12F;ny.ny012f;Waypoint NY12E moved from Bridge St to the 2024 Black River bridge.
 2024-12-10;(USA) New York;I-86 (Owego);ny.i086owe;Route added.
 2024-12-10;(USA) New York;I-86 Future (Binghamton);ny.i086futbin;Truncated: section west of exit 67 to Pennsylvania state line moved to new I-86 (Owego) route.
 2024-07-07;(USA) New York;Hutchinson River Parkway;ny.hutrivpkwy;Waypoint 2 moved from I-95 (now labeled 2A) to Bartow Ave.
@@ -8684,6 +8722,10 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2024-12-28;(USA) Oklahoma;US 62;ok.us062;Waypoint OK10_S moved to Georgetown Rd from a closed intersection (now labeled *OldOK10) 0.3 mi east.
+2024-12-28;(USA) Oklahoma;OK 9 Business (Gotebo);;Route deleted.
+2024-12-28;(USA) Oklahoma;OK 10;ok.ok010;Sometime 2017-2019, removed from demolished roadway and relocated onto an easterly extension of Three Forks Rd, Georgetown Rd and US 62 between waypoints *OldOK10_S & *OldOK10_N.
+2024-12-28;(USA) Oklahoma;OK 82A;;Route deleted.
 2024-12-10;(USA) Oklahoma;I-335;ok.i335;Route added.
 2024-12-10;(USA) Oklahoma;Kickapoo Turnpike;ok.i335;Deleted: designated as I-335.
 2024-12-10;(USA) Oklahoma;I-344;ok.i344;Route added.
@@ -9032,6 +9074,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2024-12-30;(USA) Tennessee;TN 137;tn.tn137;Route added
 2024-10-23;(USA) Tennessee;TN 396;tn.tn396;Extended at west end from US 31 to TN 247
 2024-05-11;(USA) Tennessee;TN 162 (Knoxville);tn.tn162;Route truncated at south end to north end of I-140, with segment south of I-140 becoming TN 162 (Alcoa)
 2024-05-11;(USA) Tennessee;TN 162 (Alcoa);tn.tn162alc;Route added (was TN 162 segment south of I-140)
