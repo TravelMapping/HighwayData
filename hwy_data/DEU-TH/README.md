@@ -1,6 +1,7 @@
 ﻿**SOURCES general**
 - http://mauttabelle.de/ (deua + deub)
 - https://bau-verkehr.thueringen.de/service/karten-und-statistiken/strassenkarten
+- https://baustelleninfo.thueringen.de/sperr-app-bis/de.novasib.sperr.gwt.app.Bis/Bis.jsp
 
 **SOURCES deub**
 - https://de.wikipedia.org/wiki/Liste_der_Bundesstra%C3%9Fen_in_Deutschland
