@@ -22,6 +22,7 @@
 - `D435` appeared on the 2024 route log, exact location unknown, see https://www.openstreetmap.org/note/4585274 (the "luka TEF" seems to be still under construction as-of January 2025), not in HB
 - `D542` routing unknown, not yet existing? "Zajci (DC64) – Polje Čepić (DC500)", not in HB
 - `D545` should be extended to D228 but that's u/c or even not yet u/c (but visible on German OSM as-of January 2025), not in HB
+- `D677` is not in 2024 route log but indicated on OSM for a new route, its extension is still u/c, might be renamed later, maybe `D1` realignment? (note: D600s do usually only appear for a short period of time)
 - `D682` is not in 2024 route log but indicated on OSM for old `D44`, might be removed later (note: D600s do usually only appear for a short period of time)
 - `Z2268`appeared on the 2024 route log (0.3km), seems to be a future route from `D41` to the Hungarian border, not in HB
 - `Z3305`appeared on the 2024 route log (16.3km), seems to be a future route, not in HB
