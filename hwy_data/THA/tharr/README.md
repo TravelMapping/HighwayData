@@ -425,7 +425,10 @@ Notes on routes:
 * Xb4064's north end may be wrong; it is from the coordinates in the 2023 log, but km posts near the north end have been painted over.
 * Xb3151's endpoints may be wrong.
 * Xc4023's south end is signed at two places along 2049; the one chosen had signs added more recently.
-* Xd4074's route near its south end may bew rong, but it matches the length of 17.8 km in the 2023 log.
+* Xd4002's exact north end may be wrong.
+* Xd4074's route near its south end may be wrong, but it matches the length of 17.8 km in the 2023 log.
+* Xd3090 (across the ditch from Xd3091) seems to be unsigned (as of 2022).
+* Xd3091 may not be signed all the way to its north end.
 * Xn4015 [is also signed as Xn5015](https://www.google.com/maps/@14.960452,99.5615963,3a,15.6y,52.02h,79.25t/data=!3m7!1e1!3m5!1swVXLSFbeh8SLu40Vn2IgCQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D10.74510422119107%26panoid%3DwVXLSFbeh8SLu40Vn2IgCQ%26yaw%3D52.02269798230511!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D), but [km posts](https://www.google.com/maps/@14.960431,99.5617014,3a,34.3y,101.78h,51.4t/data=!3m7!1e1!3m5!1sb0McUd6IxxAghIxdjOuwkg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D38.59818378917312%26panoid%3Db0McUd6IxxAghIxdjOuwkg%26yaw%3D101.78433977713956!7i16384!8i8192?coh=205410&entry=ttu&g_ep=EgoyMDI0MDkyMy4wIKXMDSoASAFQAw%3D%3D) and the 2023 log say Xn4015.
 * Xt4007 may have been extended south by recent construction, or it may have been deleted.
 * Xt2014's west end may have changed due to construction.
