@@ -13,6 +13,7 @@ deunwl;L10;;;deunw.l010
 deunwl;L11;;Aldenhoven;deunw.l011ald
 deunwl;L11;;Eschweiler;deunw.l011esc
 deunwl;L11;;Mechernich;deunw.l011
+deunwl;L12;;Keyenberg;deunw.l012key
 deunwl;L12;;Holzweiler;deunw.l012hol
 deunwl;L12;;Titz;deunw.l012tit
 deunwl;L12;;Niederzier;deunw.l012nie
@@ -49,6 +50,7 @@ deunwl;L37;;;deunw.l037
 deunwl;L38;;;deunw.l038
 deunwl;L39;;Viersen;deunw.l039
 deunwl;L39;;Mönchengladbach;deunw.l039mon
+deunwl;L39;;Wickrath;deunw.l039wic
 deunwl;L41;;;deunw.l041
 deunwl;L42;;;deunw.l042
 deunwl;L43;;Köln;deunw.l043
@@ -116,7 +118,7 @@ deunwl;L102;;;deunw.l102
 deunwl;L103;;;deunw.l103
 deunwl;L104;;;deunw.l104
 deunwl;L105;;;deunw.l105
-deunwl;L106;;;deunw.l106
+deunwl;L106;;;deunw.l106mut,bel.l106,deunw.l106
 deunwl;L107;;;deunw.l107
 deunwl;L108;;;deunw.l108
 deunwl;L109;;;deunw.l109
@@ -269,7 +271,6 @@ deunwl;L239;;Ratingen;deunw.l239rat
 deunwl;L240;;;deunw.l240
 deunwl;L241;;Jülich;deunw.l241
 deunwl;L241;;Lamersdorf;deunw.l241lam
-deunwl;L241;;Weisweiler;deunw.l241wei
 deunwl;L242;;;deunw.l242
 deunwl;L244;;;deunw.l244
 deunwl;L245;;;deunw.l245
@@ -366,7 +367,8 @@ deunwl;L350;;;deunw.l350
 deunwl;L351;;;deunw.l351
 deunwl;L352;;;deunw.l352
 deunwl;L353;;;deunw.l353
-deunwl;L354;;;deunw.l354
+deunwl;L354;;(Main);deunw.l354
+deunwl;L354;;Kuckum;deunw.l354kuc
 deunwl;L355;;;deunw.l355
 deunwl;L357;;;deunw.l357
 deunwl;L358;;;deunw.l358
@@ -424,8 +426,7 @@ deunwl;L419;;;deunw.l419
 deunwl;L420;;;deunw.l420
 deunwl;L422;;;deunw.l422
 deunwl;L423;;;deunw.l423
-deunwl;L426;;(Main);deunw.l426
-deunwl;L426;;Hetterscheidt;deunw.l426het
+deunwl;L426;;;deunw.l426
 deunwl;L427;;;deunw.l427
 deunwl;L429;;;deunw.l429
 deunwl;L432;;;deunw.l432
@@ -506,8 +507,7 @@ deunwl;L524;;(Main);deunw.l524
 deunwl;L524;;Recklinghausen;deunw.l524rec
 deunwl;L525;;;deunw.l525
 deunwl;L526;;;deunw.l526
-deunwl;L527;;(Main);deunw.l527
-deunwl;L527;;Silschede;deunw.l527sil
+deunwl;L527;;;deunw.l527
 deunwl;L527n;;;deunw.l527n
 deunwl;L528;;;deunw.l528
 deunwl;L529;;;deunw.l529
@@ -516,7 +516,8 @@ deunwl;L531;;(Main);deunw.l531
 deunwl;L531;;Siegen;deunw.l531sie
 deunwl;L532;;;deunw.l532
 deunwl;L533;;;deunw.l533
-deunwl;L534;;;deunw.l534
+deunwl;L534;;(Main);deunw.l534
+deunwl;L534;;Klus;deunw.l534klu
 deunwl;L535;;;deunw.l535
 deunwl;L536;;;deunw.l536
 deunwl;L537;;;deunw.l537
@@ -559,7 +560,7 @@ deunwl;L571;;;deunw.l571
 deunwl;L572;;Gronau;deunw.l572gro
 deunwl;L572;;Stadtlohn;deunw.l572
 deunwl;L572;;Rhede;deunw.l572rhe
-deunwl;L572;AST;Südlohn;deunw.l572ast
+deunwl;L572;;Südlohn;deunw.l572sud
 deunwl;L573;;;deunw.l573
 deunwl;L574;;Gronau;deunw.l574gro
 deunwl;L574;;Heek;deunw.l574
@@ -703,6 +704,7 @@ deunwl;L708;;;deunw.l708
 deunwl;L709;;;deunw.l709
 deunwl;L711;;;deunw.l711
 deunwl;L712;;Herford;deunw.l712
+deunwl;L712;;Bad Salzuflen;deunw.l712sal
 deunwl;L712;;Blomberg;deunw.l712blo
 deunwl;L712n;;;deunw.l712n
 deunwl;L713;;;deunw.l713
@@ -824,8 +826,9 @@ deunwl;L822;;Uentrop;deunw.l822uen
 deunwl;L822;;Lippstadt;deunw.l822
 deunwl;L823;;;deunw.l823
 deunwl;L825;;;deunw.l825
-deunwl;L827;;(Main);deunw.l827
 deunwl;L827;;Steinheim;deunw.l827ste
+deunwl;L827;;(Main);deunw.l827
+deunwl;L827;;Steinheim (branch);deunw.l827stb
 deunwl;L828;;(Main);deunw.l828
 deunwl;L828;;Horn;deunw.l828hor
 deunwl;L829;;;deunw.l829

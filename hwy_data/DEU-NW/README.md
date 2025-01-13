@@ -11,4 +11,4 @@
 - http://forum.travelmapping.net/index.php?topic=2824
 
 **NOTES TO ROUTES:**
-- 
+- `L938` and `L938` extend through the Senne military training ground but they are not open for public; excluded restricted sections from HB

@@ -6,7 +6,7 @@
 - https://www.rsd.cz/wps/wcm/connect/c627e870-3aa0-4636-924c-323ddd3a6f4a/2016_1_cr_500vrst.jpg?MOD=AJPERES
 - https://cs.wikipedia.org/wiki/Seznam_silnic_I._t%C5%99%C3%ADdy_v_%C4%8Cesku
 - https://geoportal.rsd.cz/apps/silnicni_a_dalnicni_sit_cr_verejna/ (reliable source)
-
+- https://www.rsd.cz/mapa-staveb#/stavby?komunikace=silnice&filters[]=StavbyProvoz2024&page=0 (I road openings per year, edit url)
 
 **NOTES TO ROUTES:**
 - `I7Pre` + `I611` (and some D routes) are in HB even within the Prague city limits since indicated on geoportal.rsd.cz
