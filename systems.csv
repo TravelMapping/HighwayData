@@ -24,8 +24,9 @@ austasc;AUS;Tasmania C Roads;TMgray;5;active
 auta;AUT;Austria Autobahnen;TMblue;1;active
 auts;AUT;Austria Schnellstrassen;TMteal;2;active
 autb;AUT;Austria Landesstraßen B;TMlightsalmon;4;active
-autl4;AUT;Upper Austria Landesstraßen 1. Ordnung;TMyellow;5;active
-autl5;AUT;Salzburg Landesstraßen;TMyellow;5;active
+autl4;AUT;Upper Austria Landesstraßen L;TMyellow;5;active
+autl5;AUT;Salzburg Landesstraßen L;TMyellow;5;active
+autl6;AUT;Styria Landesstraßen L;TMyellow;5;active
 autl7;AUT;Tyrol Landesstraßen L;TMyellow;5;active
 azem;AZE;Azerbaijan Magistrale;TMlightsalmon;4;active
 bela;BEL;Belgium Autosnelwegen / Autoroutes;TMblue;1;active
@@ -181,6 +182,7 @@ grceo;GRC;Greece Ethniki Odos;TMlightsalmon;4;active
 hkgrt;CHN;Hong Kong Routes;TMteal;2;active
 hrva;HRV;Croatia Autocesta;TMblue;1;active
 hrvd;HRV;Croatia Državne Ceste;TMlightsalmon;4;active
+hrvz;HRV;Croatia Županijske Ceste;TMyellow;5;active
 hunm;HUN;Hungary Autópálya;TMblue;1;active
 hunf;HUN;Hungary Főútjai;TMlightsalmon;4;active
 idnt;IDN;Indonesia Jalan Tol;TMblue;1;active
@@ -226,6 +228,7 @@ mexed;MEX;Mexico State Expressways;TMteal;3;active
 mltt;MLT;Malta Arterial Roads;TMlightsalmon;4;active
 mkdap;MKD;North Macedonia Avtopatishta;TMblue;1;active
 mkda;MKD;North Macedonia Magistrale;TMlightsalmon;4;active
+mkdr;MKD;North Macedonia Regional Roads;TMyellow;4;active
 mnea;MNE;Montenegro Autoput;TMblue;1;active
 mnem;MNE;Montenegro Magistralni Put;TMlightsalmon;4;active
 mner;MNE;Montenegro Regionalni Put;TMyellow;5;active
@@ -390,8 +393,6 @@ aussatd;AUS;South Australia Tourist Drives;TMbrown;5;preview
 ausvictd;AUS;Victoria Tourist Drives;TMbrown;5;preview
 auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;preview
 autl3;AUT;Lower Austria Landesstraßen L;TMyellow;5;preview
-autl42;AUT;Upper Austria Landesstraßen 2. Ordnung;TMyellow;5;preview
-autl6;AUT;Styria Landesstraßen L;TMyellow;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
 bgdah;BGD;Bangladesh UNESCAP Asian Highways;TMred;3;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);TMblue;1;preview
@@ -521,7 +522,6 @@ gbrtrl;GBR;United Kingdom Trails;TMbrown;5;preview
 gbrrr;GBR;United Kingdom Ring Roads;TMgray;5;preview
 hndrnp;HND;Honduras Rutas Nacionales Principales;TMred;3;preview
 hndrns;HND;Honduras Rutas Nacionales Secundarias;TMbrown;4;preview
-hrvz;HRV;Croatia Županijske Ceste;TMyellow;5;preview
 idnah;IDN;Indonesia UNESCAP Asian Highways;TMred;3;preview
 index;IND;India National Expressways;TMblue;1;preview
 indaho;IND;India UNESCAP Asian Highways (old draft);TMred;3;preview
@@ -543,7 +543,6 @@ mexdfeje;MEX;Mexico City Ejes;TMyellow;5;preview
 mexemex;MEX;Estado de México Carreteras Estatales;TMbrown;4;preview
 mexnlm;MEX;Monterrey Rutas;TMyellow;5;preview
 mexqro;MEX;Querétaro Carreteras Estatales;TMbrown;4;preview
-mkdr;MKD;North Macedonia Regional Roads;TMyellow;4;preview
 mmre;MMR;Myanmar Expressways;TMblue;1;preview
 mmrah;MMR;Myanmar UNESCAP Asian Highways;TMred;3;preview
 mozn;MOZ;Mozambique Estrada Nacional;TMgreen;4;preview
@@ -624,8 +623,11 @@ crirt;CRI;Costa Rica Rutas Nacionales Terciarias;TMyellow;5;devel
 indne;IND;India National Expressways;TMblue;1;devel
 indah;IND;Asian Highways (redraft);TMred;3;devel
 indnh;IND;India National Highways;TMgreen;3;devel
-inddl;IND;Delhi Union Territory Highways;TMyellow;4;devel
+#inddl;IND;Delhi Union Territory Highways;TMyellow;4;devel
 indka;IND;Karnataka State Highways;TMyellow;4;devel
+indkl;IND;Kerala State Highways;TMyellow;4;devel
+indmh;IND;Manipur State Highways;TMyellow;4;devel
+indtg;IND;Telangana State Highways;TMyellow;4;devel
 indup;IND;Uttar Pradesh State Highways;TMyellow;4;devel
 indwb;IND;West Bengal State Highways;TMyellow;4;devel
 #irqf;IRQ;Iraq Freeways;TMblue;1;devel
