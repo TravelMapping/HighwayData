@@ -1,0 +1,45 @@
+Full list of toll roads with names from 2023 log:
+
+Sumatera:
+* T1: [JT Binjai-Langsa](https://www.google.com/maps/@3.6489981,98.5431146,3a,15y,232.07h,91.37t/data=!3m7!1e1!3m5!1sQ7mQmft9zB5vG6-WC4CX-A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.3724600307295418%26panoid%3DQ7mQmft9zB5vG6-WC4CX-A%26yaw%3D232.0656001163401!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (incomplete; post-2019 log), JT Medan-Binjai, JT Belawan-Medan-Tanjung Morawa (part), JT Medan-Kualanamu-Tebing Tinggi (part), JT Kisaran-Tebing Tinggi (post-2019 log)
+* T2: JT Belawan-Medan-Tanjung Morawa (part)
+* T3: JT Bakaheuni-Terbanggi Besar, JT Terbanggi Besar-Pematang Panggang-Kayuagung (post-2019 log), JT Kayu Agung-Palembang-Betung (incomplete; post-2019 log)
+* T4: JT Medan-Kualanamu-Tebing Tinggi (part)
+* T6: JT Palembang-Simpang Indralaya, Simpang Indralaya-Muara Enim (incomplete; post-2019 log)
+* JT Sigli-Banda Aceh (incomplete)
+* JT Kuala Tanjung-Tebing Tinggi-Parapat (incomplete) - we have this split into KTTT and TTP, but is this correct?
+* JT Dumai-Simpang Sigambal-Rantau Prapat (incomplete) - we have this as DRP
+* [JT Pekanbaru-Dumai](https://www.google.com/maps/@0.6409324,101.4464036,3a,32.8y,348.43h,91.11t/data=!3m7!1e1!3m5!1sbq26OZUQQYx55xDNUejWZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1146331472707516%26panoid%3Dbq26OZUQQYx55xDNUejWZA%26yaw%3D348.42788222231343!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (2023 log calls it Pekanbaru-Kandis-Dumai)
+* [JT Pekanbaru-Bangkinang](https://www.google.com/maps/@0.4045661,101.2605886,3a,28.6y,287.23h,91.24t/data=!3m7!1e1!3m5!1snssSyQlMBgKfraOMtITfnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.235058758444893%26panoid%3DnssSyQlMBgKfraOMtITfnQ%26yaw%3D287.22642464915936!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (2023 log calls it part of planned Pekanbaru-Padang)
+* [JT Bengkulu-Taba Penanjung](https://www.google.com/maps/@-3.8583363,102.3600525,3a,15.2y,48.29h,92.47t/data=!3m7!1e1!3m5!1smMG1Cph8ruBwq35MHOQgEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.471144735474468%26panoid%3DmMG1Cph8ruBwq35MHOQgEw%26yaw%3D48.29098813429377!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (2023 log calls it planned Lubuk Linggau-Curup-Bengkulu) - we have this as BL
+* JT Betung (Simpang Sekayu)-Tempino-Jambi (incomplete) - we have this as BJ
+
+Jawa:
+* T1: JT Tangerang-Merak, JT Jakarta-Tangerang, JT Cawang-Tomang-Pluit (part; named JT Lingkar Dalam Kota in 2019 log), JT Cawang-Tanjung Priok-Ancol Timur-Pluit-Jembatan Tiga/Pluit (part; named JT Pelabuhan Tanjung Priok in 2019 log), JT Akses Tanjung Priok (JORR I) (not separate in 2019 log), JT JORR Non S (JORR I) (part; named JT Jakarta Cikampek in 2019 log), JT Cikopo-Palimanan, JT Kanci-Pejagan, JT Pejagan-Pemalang, JT Pemalang-Batang, JT Batang-Semarang
+* T2: JT Cawang-Tanjung Priok-Ancol Timur-Pluit-Jembatan Tiga/Pluit (part; named JT Cawang-Tanjung Priuk-Pluit in 2019 log), JT Jakarta-Bogor-Ciawi, JT Ciawi-Sukabumi
+* T3: JT Prof. Dr. Ir. Soedijatmo
+* T4: JT Cikampek-Padalarang, JT Padalarang-Cileunyi (both named JT Purbaleunyi in 2019 log), JT Cileunyi-Sumedang-Dawuan (post-2019 log)
+* T5: JT JORR Non S (JORR I) (part), JT Pondok Pinang-Tamani Mini (JORR I), JT Ulujami-Kebon Jeruk (JORR I), JT Kebon Jeruk-Penjaringan (JORR I) (all named JT Lingkar Luar Jakarta in 2019 log)
+* T6: JT Semarang Seksi A,B,C (named JT Tanjung Mas-Srondol, JT Jatingaleh Krapyak, JT Srondol-Jatingaleh in 2019 log), JT Semarang-Solo
+* T7: JT Cawang-Tomang-Pluit (part; named JT Lingkar Dalam Jakarta in 2019 log), JT Jakarta-Cikampek
+* T8: JT Surabaya-Gresik, JT Surabaya-Gempol (named JT Surabaya-Porong and JT Porong-Gempol in 2019 log), JT Gempol-Pandaan
+* T9: JT Pondok Aren-Ulujami (JORR I), JT Pondok Aren-Serpong (both named JT Jakarta-Serpong in 2019 log), JT Serpong-Balaraja (JORR III) (incomplete; post-2019 log)
+* T11: JT Solo-Mantignan-Ngawi, JT Ngawi-Kertosono, JT Mojokerto-Jombang-Kertosono, JT Mojokerto-Surabaya
+* T13: JT Gempol-Pasuruan, JT Pasuruan-Probolinggo
+* JT Serang-Panimbang
+* JT Cengkareng-Batu Ceper-Kunciran (JORR II)
+* JT Kunciran-Serpong
+* JT Serpong-Cinere (JORR II)
+* JT Cibitung-Cilincing (JORR II)
+* JT Bogor Ring Road
+* Jalan Layang MBZ Sheikh Mohamed bin Zayed
+* JT Palimanan-Cirebon/Kanci
+* JT Soreang-Pasirkoja
+* JT Akses Bandara Kertajati
+* JT Krian-Legundi-Bunder
+* JT Pandaan-Malang
+* JT SS Waru-Bandara Juanda
+
+* JT Kelapa Gading-Pulogebang
+* JT Depok-Antasari
+* JT Bekasi-Cawang-Kp. Melayu
