@@ -15,31 +15,27 @@ Sumatera:
 * JT Betung (Simpang Sekayu)-Tempino-Jambi (incomplete) - we have this as BJ
 
 Jawa:
-* T1: JT Tangerang-Merak, JT Jakarta-Tangerang, JT Cawang-Tomang-Pluit (part; named JT Lingkar Dalam Kota in 2019 log), JT Cawang-Tanjung Priok-Ancol Timur-Pluit-Jembatan Tiga/Pluit (part; named JT Pelabuhan Tanjung Priok in 2019 log), JT Akses Tanjung Priok (JORR I) (not separate in 2019 log), JT JORR Non S (JORR I) (part; named JT Jakarta Cikampek in 2019 log), JT Cikopo-Palimanan, JT Kanci-Pejagan, JT Pejagan-Pemalang, JT Pemalang-Batang, JT Batang-Semarang
-* T2: JT Cawang-Tanjung Priok-Ancol Timur-Pluit-Jembatan Tiga/Pluit (part; named JT Cawang-Tanjung Priuk-Pluit in 2019 log), JT Jakarta-Bogor-Ciawi, JT Ciawi-Sukabumi
+* T1: JT Tangerang-Merak, JT Jakarta-Tangerang, JT Cawang-Tomang-Pluit (part; named JT Lingkar Dalam Kota in 2019 log), JT Cawang-Tanjung Priok-Ancol Timur-Pluit-Jembatan Tiga/Pluit (part; named JT Pelabuhan Tanjung Priok in 2019 log), JT Akses Tanjung Priok (JORR I) (not separate in 2019 log), JT JORR Non S (JORR I) (part; named JT Jakarta Cikampek in 2019 log), JT Cikopo-Palimanan, JT Palimanan-Cirebon/Kanci (named JT Kanci-Pejagan in 2019 log), JT Kanci-Pejagan, JT Pejagan-Pemalang, JT Pemalang-Batang, JT Batang-Semarang
+* T2: JT Cawang-Tanjung Priok-Ancol Timur-Pluit-Jembatan Tiga/Pluit (part; named JT Cawang-Tanjung Priuk-Pluit in 2019 log), JT Jakarta-Bogor-Ciawi, JT Ciawi-Sukabumi (incomplete)
 * T3: JT Prof. Dr. Ir. Soedijatmo
 * T4: JT Cikampek-Padalarang, JT Padalarang-Cileunyi (both named JT Purbaleunyi in 2019 log), JT Cileunyi-Sumedang-Dawuan (post-2019 log)
 * T5: JT JORR Non S (JORR I) (part), JT Pondok Pinang-Tamani Mini (JORR I), JT Ulujami-Kebon Jeruk (JORR I), JT Kebon Jeruk-Penjaringan (JORR I) (all named JT Lingkar Luar Jakarta in 2019 log)
 * T6: JT Semarang Seksi A,B,C (named JT Tanjung Mas-Srondol, JT Jatingaleh Krapyak, JT Srondol-Jatingaleh in 2019 log), JT Semarang-Solo
 * T7: JT Cawang-Tomang-Pluit (part; named JT Lingkar Dalam Jakarta in 2019 log), JT Jakarta-Cikampek
-* T8: JT Surabaya-Gresik, JT Surabaya-Gempol (named JT Surabaya-Porong and JT Porong-Gempol in 2019 log), JT Gempol-Pandaan
+* T8: JT Surabaya-Gresik, JT Surabaya-Gempol (named JT Surabaya-Porong and JT Porong-Gempol in 2019 log), JT Gempol-Pandaan, JT Pandaan-Malang (post-2019 log)
 * T9: JT Pondok Aren-Ulujami (JORR I), JT Pondok Aren-Serpong (both named JT Jakarta-Serpong in 2019 log), JT Serpong-Balaraja (JORR III) (incomplete; post-2019 log)
+* T10 (post-2019 log): JT Soreang-Pasirkoja
 * T11: JT Solo-Mantignan-Ngawi, JT Ngawi-Kertosono, JT Mojokerto-Jombang-Kertosono, JT Mojokerto-Surabaya
+* T12 (post-2019 log): JT Depok-Antasari
 * T13: JT Gempol-Pasuruan, JT Pasuruan-Probolinggo
+* T15 (post-2019 log): JT Bogor Ring Road (incomplete)
+* T17 (post-2019 log): JT Cibitung-Cilincing (JORR II), JT Cimanggis-Cibitung (JORR II), JT Cinere-Cimanggis (Cinere-Jagorawi) (JORR II), JT Serpong-Cinere (JORR II), JT Kunciran-Serpong, JT Cengkareng-Batu Ceper-Kunciran (JORR II)
+* T19 (post-2019 log): JT Bekasi-Cawang-Kp. Melayu (incomplete)
+* JT Kelapa Gading-Pulogebang - we have this as SPG
 * JT Serang-Panimbang
-* JT Cengkareng-Batu Ceper-Kunciran (JORR II)
-* JT Kunciran-Serpong
-* JT Serpong-Cinere (JORR II)
-* JT Cibitung-Cilincing (JORR II)
-* JT Bogor Ring Road
 * Jalan Layang MBZ Sheikh Mohamed bin Zayed
-* JT Palimanan-Cirebon/Kanci
-* JT Soreang-Pasirkoja
-* JT Akses Bandara Kertajati
-* JT Krian-Legundi-Bunder
-* JT Pandaan-Malang
-* JT SS Waru-Bandara Juanda
-
-* JT Kelapa Gading-Pulogebang
-* JT Depok-Antasari
-* JT Bekasi-Cawang-Kp. Melayu
+* Akses Bandara Kertajati - not mapped (airport access)
+* JT Solo-Yogyakarta-Nyia Kulonprogo (incomplete) - we have this as YS
+* JT Semarang-Demak (incomplete)
+* [JT Krian-Legundi-Bunder-Manyar](https://www.google.com/maps/@-7.4064388,112.5492572,3a,15.1y,310.64h,89.91t/data=!3m7!1e1!3m5!1sG1wtL4T8mLd1IkVZ_PXC4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.09262513291426444%26panoid%3DG1wtL4T8mLd1IkVZ_PXC4A%26yaw%3D310.6381959344842!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (JT Krian-Legundi-Bunder in 2023 log)
+* JT SS Waru-Bandara Juanda - we have this as part of T11 - is this correct?
