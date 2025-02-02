@@ -912,6 +912,31 @@ date;region;route;root;description
 2015-07-28;Croatia;A2;hrv.a002;Route extended at north end from exit 1 to Slovenian border
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
+
+2025-02-01;Cyprus;D05;cyp.d550;Route deleted (mostly now D550)
+2025-02-01;Cyprus;D10 (Girne);cyp.d100;Route deleted (now D100)
+2025-02-01;Cyprus;D10 (Dipkarpaz);cyp.d100;Route deleted (now D100)
+2025-02-01;Cyprus;D15;cyp.d575;Route deleted (now D575)
+2025-02-01;Cyprus;D20 (Hamitkoy);cyp.d200ham;Route deleted (now D200 (Hamitkoy))
+2025-02-01;Cyprus;D20 (Iskele);cyp.d200;Route deleted (now D200 (Iskele))
+2025-02-01;Cyprus;D25;cyp.d650;Route deleted (now D650)
+2025-02-01;Cyprus;D30;cyp.d300;Route deleted (now D300)
+2025-02-01;Cyprus;D35;cyp.d750;Route deleted (now D750)
+2025-02-01;Cyprus;D45;cyp.d850;Route deleted (now D850)
+2025-02-01;Cyprus;D55;cyp.d950;Route deleted (now D950)
+2025-02-01;Cyprus;D65;cyp.d925;Route deleted (now D925)
+2025-02-01;Cyprus;D100;cyp.d100;Route added
+2025-02-01;Cyprus;D200 (Hamitkoy);cyp.d200ham;Route added
+2025-02-01;Cyprus;D200 (Iskele);cyp.d200;Route added
+2025-02-01;Cyprus;D300;cyp.d300;Route added
+2025-02-01;Cyprus;D400;cyp.d400;Route added
+2025-02-01;Cyprus;D550;cyp.d550;Route added
+2025-02-01;Cyprus;D575;cyp.d575;Route added
+2025-02-01;Cyprus;D650;cyp.d650;Route added
+2025-02-01;Cyprus;D750;cyp.d750;Route added
+2025-02-01;Cyprus;D850;cyp.d850;Route added
+2025-02-01;Cyprus;D925;cyp.d925;Route added
+2025-02-01;Cyprus;D950;cyp.d950;Route added
 2024-08-09;Cyprus;A22;cyp.a022;Route added
 2022-09-05;Cyprus;A1;cyp.a001;Route extended at north end from E116 to B18 and at south end from exit 28a to E147/E604
 2022-09-05;Cyprus;A2;cyp.a002;Route extended at south end from A3 to B2
@@ -1440,6 +1465,7 @@ date;region;route;root;description
 2021-12-26;(France) Brittany;D137;frabre.d137;Route truncated at south end in Rennes from Rond-Point de la Robiquette to N136
 2015-09-09;(France) Brittany;Voie Express Rennes - St Malo;frabre.d013735;New Route
 2015-07-25;(France) Brittany;E3 (Rennes);frabre.e3ren;New Route
+2025-02-01;(France) Bourgogne-Franche-Comté;N274;frabfc.m027421;Route renamed to M274-21
 2025-01-10;(France) Bourgogne-Franche-Comté;N5;frabfc.n005;Route relocated from through Poligny downtown, and onto Route Lons, Rue Jacques Coittier and Rue Travot between N83 and Place des Déportés
 2025-01-10;(France) Bourgogne-Franche-Comté;N57;frabfc.n057;Route relocated from through Cayenne and onto new bypass between exit 50 and 51
 2025-01-10;(France) Bourgogne-Franche-Comté;E23;frabfc.e23;Route relocated from through Cayenne and onto new bypass between exit 50 and 51
@@ -1521,6 +1547,7 @@ date;region;route;root;description
 2015-09-09;(France) Hauts-de-France;Boulevard Péripherique Est de Lille;frahdf.m065159;New Route
 2015-09-09;(France) Hauts-de-France;Rocade Nord Ouest, Lille;frahdf.m065259;New Route
 2015-09-09;(France) Hauts-de-France;Voie Rapide Urbane, Roubaix;frahdf.m065659;New Route
+2025-02-01;(France) Île-de-France;N410;;Route deleted
 2025-01-10;(France) Île-de-France;D1605-77;fraidf.d160577;New Route
 2024-03-25;(France) Île-de-France;A16 (Saint-Denis);fraidf.a016den;New Route
 2024-01-18;(France) Île-de-France;N4;fraidf.d100477;Route downgraded to D1004-77
@@ -1547,7 +1574,7 @@ date;region;route;root;description
 2019-08-02;(France) Île-de-France;N13 (Neuilly-sur-Seine);fraidf.n013;Route truncated at west end from A14_E to A14
 2019-08-02;(France) Île-de-France;N330;fraidf.n330;Route extended at south end from exit 4 to exit 3
 2019-07-30;(France) Île-de-France;N301;fraidf.n301;Route truncated at north end from D29 to D901
-2019-07-30;(France) Île-de-France;N410;fraidf.n410;Route truncated at west end from A86 to D24
+2019-07-30;(France) Île-de-France;N410;;Route truncated at west end from A86 to D24
 2019-08-02;(France) Île-de-France;N188;;Route deleted
 2019-08-02;(France) Île-de-France;N314;;Route deleted
 2019-07-30;(France) Île-de-France;N515;;Route deleted
@@ -1589,6 +1616,7 @@ date;region;route;root;description
 2015-07-25;(France) Nouvelle-Aquitaine;A89;franaq.a089;Route extended at west end from exit 19.1 to exit 9, including former Périgueux section
 2015-07-25;(France) Nouvelle-Aquitaine;A89 (Périgueux);franaq.a089;Route merged with main A89 route
 2015-07-25;(France) Nouvelle-Aquitaine;E62;franaq.e62;Removed from N149 and relocated to N249 between N249 Exit 15 and N149 exit 17
+2025-02-01;(France) Occitanie;N166;fraocc.d006666;Route renamed to D66-66
 2023-07-30;(France) Occitanie;N1088;fraocc.n1088;New Route
 2022-05-14;(France) Occitanie;N88 (Rodez);fraocc.n088;Route relocated from through Baraqueville and La Mothe (D888-12 now) and onto new bypass from exit 26 north of Baraqueville to south of La Mothe
 2022-02-15;(France) Occitanie;N124;fraocc.n124;Route relocated from through Gimont (D924 now) and onto new bypass from west of Gimont to east of Gimont
@@ -1617,12 +1645,13 @@ date;region;route;root;description
 2015-09-09;(France) Occitanie;Voie Lactée, Toulouse;fraocc.m090231;New Route
 2015-07-25;(France) Occitanie;A75;fraocc.a075;Route extended at south end from exit 59 to the A9, including former Béziers section
 2015-07-25;(France) Occitanie;A75 (Béziers);fraocc.a075;Route merged with main A75 route
-2022-07-08;(France) Pays-de-la-Loire;N162;frapdl.n162;Route extended at north end from D35 to N12 (new Mayenne bypass)
+2025-02-01;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route renamed to D962-53 or D962-49
+2022-07-08;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route extended at north end from D35 to N12 (new Mayenne bypass)
 2022-03-28;(France) Pays-de-la-Loire;Liaison Sud-Ouest du Mans;;Route deleted
 2018-11-01;(France) Pays-de-la-Loire;Liaison Sud-Ouest du Mans;;New Route
-2016-10-22;(France) Pays-de-la-Loire;N162;frapdl.n162;Route truncated at north end from N12 to D3
-2016-05-01;(France) Pays-de-la-Loire;N162;frapdl.n162;Route truncated at north end from N12 to D24 and extended at north end from D24 to N12 along Moulay bypass, former N2162, D113 and D7
-2016-05-01;(France) Pays-de-la-Loire;N2162;frapdl.n162;Route merged into N162
+2016-10-22;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route truncated at north end from N12 to D3
+2016-05-01;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route truncated at north end from N12 to D24 and extended at north end from D24 to N12 along Moulay bypass, former N2162, D113 and D7
+2016-05-01;(France) Pays-de-la-Loire;N2162;frapdl.d096253;Route merged into N162
 2024-10-09;(France) Provence-Alpes-Cote-d’Azur;D2562-06;frapac.d256206;Route extended at east end from Boulevard Maréchal Leclerc to Boulevard Fragonard in Grasse
 2024-10-09;(France) Provence-Alpes-Cote-d’Azur;D6085-06 (Grasse);frapac.d608506;New Route
 2021-05-07;(France) Provence-Alpes-Cote-d’Azur;Voie Pierre Mathis, Nice;frapac.voiepiemat;New Route
@@ -3829,6 +3858,7 @@ date;region;route;root;description
 2024-05-04;(Mexico) Zacatecas;MEX49DFre;mexzac.mex049dfre;deleted (still MEX45DFre)
 2024-05-04;(Mexico) Zacatecas;MEX49DVic;mexzac.mex049dvic;deleted (still MEX45DVic)
 2024-06-13;(Mexico) Tamaulipas;MEX97D;mextam.mex097d;new route
+2025-02-01;Moldova;R32.1;mda.r0321;Route truncated at south end from G314 to M3
 2024-02-15;Moldova;E581;mda.e581;Route removed from R3 and relocated onto R3 and M3 between M2/R3 junction and M3/R3 junction north of Cimislia
 2024-02-15;Moldova;M3 (Comrat);mda.m003;Route truncated at south end from Romanian border to R32.1 and extended at south end to G142
 2024-02-15;Moldova;M3 (Giurgiulesti);mda.m003giu;Route added
@@ -5501,6 +5531,7 @@ date;region;route;root;description
 2023-08-17;Singapore;AH143;;Route deleted
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2025-02-01;Slovakia;I66;svk.i066;Route truncated at north end from Polish border (at DW960) to 'CesSlo_W' in Podspady and route extended at north end from 'CesSlo_W' to Polish border (at DK49)
 2024-12-31;Slovakia;E58;svk.e58;Route removed from D1 and D2 and relocated onto D4 between D1/D4 interchange and D2/D4 interchange
 2024-12-31;Slovakia;E75;svk.e75;Route removed from D1 and D2 and relocated onto D4 between D4 exit 2 and D1/D4 interchange
 2023-10-14;Slovakia;I72;svk.i072;Route removed from DK66 and Tisovska Cesta and relocated onto Brezno bypass between (relocated) I66_E and TisCes
@@ -5999,6 +6030,7 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2025-02-01;Sweden;E22;swe.e22;Route relocated from through Jämjö and onto bypass from Torstäva (exit 66) to Bosavavägen
 2024-11-25;Sweden;E12;swe.e12;Route relocated from northern bypass of Umeå, ando onto southern bypass of Umeå from Trafikplats Klockarbäcken to junction with E4 at the airport
 2024-10-11;Sweden;Arbogavägen, Örebro;swe.oreenkmot;Route merged into Örebro - Enköping motorvägen
 2024-10-11;Sweden;Enköpingsvägen, Stockholm;swe.enkvag;Route truncated at west end from R56 to Enköping (belongs to Örebro - Enköping motorvägen now)
