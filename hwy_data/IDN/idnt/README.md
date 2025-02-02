@@ -10,8 +10,8 @@ Sumatera:
 * JT Kuala Tanjung-Tebing Tinggi-Parapat (incomplete) - we have this split into KTTT and TTP, but is this correct?
 * JT Dumai-Simpang Sigambal-Rantau Prapat (incomplete) - we have this as DRP
 * [JT Pekanbaru-Dumai](https://www.google.com/maps/@0.6409324,101.4464036,3a,32.8y,348.43h,91.11t/data=!3m7!1e1!3m5!1sbq26OZUQQYx55xDNUejWZA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.1146331472707516%26panoid%3Dbq26OZUQQYx55xDNUejWZA%26yaw%3D348.42788222231343!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (2023 log calls it Pekanbaru-Kandis-Dumai)
-* [JT Pekanbaru-Bangkinang](https://www.google.com/maps/@0.4045661,101.2605886,3a,28.6y,287.23h,91.24t/data=!3m7!1e1!3m5!1snssSyQlMBgKfraOMtITfnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.235058758444893%26panoid%3DnssSyQlMBgKfraOMtITfnQ%26yaw%3D287.22642464915936!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (2023 log calls it part of planned Pekanbaru-Padang)
-* [JT Bengkulu-Taba Penanjung](https://www.google.com/maps/@-3.8583363,102.3600525,3a,15.2y,48.29h,92.47t/data=!3m7!1e1!3m5!1smMG1Cph8ruBwq35MHOQgEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.471144735474468%26panoid%3DmMG1Cph8ruBwq35MHOQgEw%26yaw%3D48.29098813429377!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (2023 log calls it planned Lubuk Linggau-Curup-Bengkulu) - we have this as BL
+* [JT Pekanbaru-Bangkinang](https://www.google.com/maps/@0.4045661,101.2605886,3a,28.6y,287.23h,91.24t/data=!3m7!1e1!3m5!1snssSyQlMBgKfraOMtITfnQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-1.235058758444893%26panoid%3DnssSyQlMBgKfraOMtITfnQ%26yaw%3D287.22642464915936!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (2023 log calls it part of planned Pekanbaru-Padang, which is apparently the name for the full thing including the extension west of Bangkinang)
+* [JT Bengkulu-Taba Penanjung](https://www.google.com/maps/@-3.8583363,102.3600525,3a,15.2y,48.29h,92.47t/data=!3m7!1e1!3m5!1smMG1Cph8ruBwq35MHOQgEw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.471144735474468%26panoid%3DmMG1Cph8ruBwq35MHOQgEw%26yaw%3D48.29098813429377!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (2023 log calls it planned Lubuk Linggau-Curup-Bengkulu)
 * JT Betung (Simpang Sekayu)-Tempino-Jambi (incomplete) - we have this as BJ
 
 Jawa:
@@ -39,3 +39,14 @@ Jawa:
 * JT Semarang-Demak (incomplete)
 * [JT Krian-Legundi-Bunder-Manyar](https://www.google.com/maps/@-7.4064388,112.5492572,3a,15.1y,310.64h,89.91t/data=!3m7!1e1!3m5!1sG1wtL4T8mLd1IkVZ_PXC4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.09262513291426444%26panoid%3DG1wtL4T8mLd1IkVZ_PXC4A%26yaw%3D310.6381959344842!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (JT Krian-Legundi-Bunder in 2023 log)
 * JT SS Waru-Bandara Juanda - we have this as part of T11 - is this correct?
+
+Pulau Kalimantan (Borneo):
+* T1: JT Balikpapan-Samarinda (no 2019 log)
+
+Pulau Bali:
+* T1: JT Bali-Mandara
+
+Pulau Sulawesi:
+* T1: JT Makassar Seksi IV (no 2019 log)
+* T2: JT Ujung Pandang (no 2019 log)
+* JT Manado-Bitung (incomplete)
