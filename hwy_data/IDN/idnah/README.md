@@ -3,3 +3,6 @@ There is very little information available about these routes' exact alignments,
 * Why does AH2 include 20 km of Yogyakarta-Surakarta?
 * AH2's Bandung spur seems to stay with T4 all the way to Cileunyi.
 * AH2 appears to use both sides of the T1/T2/T7 loop around downtown Jakarta as well as the spur of T1 to the port/ferry.
+
+Other notes:
+* It's not clear which side of the Yogyakarta bypass AH152 follows; both are different national routes.
