@@ -5,6 +5,7 @@ Notes on routes:
 * N1 [is signed](https://www.google.com/maps/@-6.9780468,109.9918796,3a,17.6y,77.41h,103.14t/data=!3m7!1e1!3m5!1su2P5dIJx5nSbd6uHWLnlsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.141182713610362%26panoid%3Du2P5dIJx5nSbd6uHWLnlsg%26yaw%3D77.41165476790573!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) both ways at Gringsing.
 * N1 may bypass downtown Kendal (both routes are nationally maintained).
 * N1 may bypass downtown Tuban (both routes are nationally maintained).
+* N1's route thru Surbaya may be wrong (it doesn't seem like anything is nationally maintained).
 * N1 [is signed](https://www.google.com/maps/@-7.6300002,112.8776031,3a,15y,71.6h,106.45t/data=!3m7!1e1!3m5!1s-ZpH_gNpUKTi4vtzGrEcXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.45487937907302%26panoid%3D-ZpH_gNpUKTi4vtzGrEcXQ%26yaw%3D71.59821935126112!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) thru downtown Pasuruan (both routes are nationally maintained).
 * N11's east end may be wrong.
 
