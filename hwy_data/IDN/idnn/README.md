@@ -1,3 +1,5 @@
+Many signs remain from before the 2019 renumbering, but at least one sign exists (on another route) for N5 to Tanjung Lesung.
+
 Notes on routes:
 * Alignments thru Jakarta are from the 2007 log (note that N2 and N12 are now N8 and N6, and N13 no logner exists).
 * N1 goes both ways thru Cikarang per the 2019 log, but the bypass is mapped because the downtown route annot be followed westbound.
