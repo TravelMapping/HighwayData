@@ -1,8 +1,8 @@
 Many signs remain from before the 2019 renumbering, but at least one sign exists (on another route) for N5 to Tanjung Lesung.
 
 Notes on routes:
-* Alignments thru Jakarta are from the 2007 log (note that N2 and N12 are now N8 and N6, and N13 no logner exists).
-* N1 goes both ways thru Cikarang per the 2019 log, but the bypass is mapped because the downtown route annot be followed westbound.
+* Alignments thru Jakarta are from the 2007 log (note that N2 and N12 are now N8 and N6, and N13 no longer exists).
+* N1 goes both ways thru Cikarang per the 2019 log, but the bypass is mapped because the downtown route cannot be followed westbound.
 * N1 uses Jalan Ir. H. Juanda in Cikampek per the 2019 log, but it [is not signed this way](https://www.google.com/maps/@-6.4082123,107.4866307,3a,15.9y,224.13h,108.12t/data=!3m7!1e1!3m5!1smqhkoSGpDe1vCAg7M9-hjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.122681498273593%26panoid%3DmqhkoSGpDe1vCAg7M9-hjw%26yaw%3D224.13487536007761!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (as of 2024).
 * N1 [is signed](https://www.google.com/maps/@-6.868952,109.1331469,3a,15y,163.72h,112.26t/data=!3m7!1e1!3m5!1szHAwvE4zCeSrZ886Zn7b5A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-22.26153780862073%26panoid%3DzHAwvE4zCeSrZ886Zn7b5A%26yaw%3D163.7169222164349!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) thru Brebes.
 * N1 [is signed](https://www.google.com/maps/@-6.9780468,109.9918796,3a,17.6y,77.41h,103.14t/data=!3m7!1e1!3m5!1su2P5dIJx5nSbd6uHWLnlsg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.141182713610362%26panoid%3Du2P5dIJx5nSbd6uHWLnlsg%26yaw%3D77.41165476790573!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) both ways at Gringsing.
@@ -10,7 +10,11 @@ Notes on routes:
 * N1 may bypass downtown Tuban (both routes are nationally maintained).
 * N1's route thru Surabaya may be wrong (it doesn't seem like anything is nationally maintained).
 * N1 [is signed](https://www.google.com/maps/@-7.6300002,112.8776031,3a,15y,71.6h,106.45t/data=!3m7!1e1!3m5!1s-ZpH_gNpUKTi4vtzGrEcXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.45487937907302%26panoid%3D-ZpH_gNpUKTi4vtzGrEcXQ%26yaw%3D71.59821935126112!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) thru downtown Pasuruan (both routes are nationally maintained).
+* N10 is assumed to bypass downtown Purwakarta (both routes are nationally maintained).
+* N10 southbound uses a different route thru Padalarang. Since only the northbound route is nationally maintained, and several important points are on the northbound route's overlap with N11, that direction is mapped.
 * N11's route thru Bandung may be wrong (a northern route is also nationally maintained).
 * N11's east end may be wrong (Jalan Pilang Raya etc. is also nationally maintained).
 
 [An older sign with a former number](https://www.google.com/maps/@-7.5471163,112.697656,3a,15y,162.87h,110.87t/data=!3m7!1e1!3m5!1soeokgu3zIpQD4g8XgN3Y6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.86534095150739%26panoid%3Doeokgu3zIpQD4g8XgN3Y6A%26yaw%3D162.87409280218978!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (N23 is now N36)
+
+[Old and newer signs, both with the former number N4 for N10](https://www.google.com/maps/@-6.4236104,107.4797206,3a,23.2y,198.76h,122.63t/data=!3m7!1e1!3m5!1sbm_HRYnqkZbOIV0Wpiolhw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-32.63221453774024%26panoid%3Dbm_HRYnqkZbOIV0Wpiolhw%26yaw%3D198.7554719096179!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D)
