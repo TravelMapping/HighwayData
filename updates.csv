@@ -1546,6 +1546,7 @@ date;region;route;root;description
 2015-09-09;(France) Hauts-de-France;Boulevard Péripherique Est de Lille;frahdf.m065159;New Route
 2015-09-09;(France) Hauts-de-France;Rocade Nord Ouest, Lille;frahdf.m065259;New Route
 2015-09-09;(France) Hauts-de-France;Voie Rapide Urbane, Roubaix;frahdf.m065659;New Route
+2025-02-01;(France) Île-de-France;N410;;Route deleted
 2025-01-10;(France) Île-de-France;D1605-77;fraidf.d160577;New Route
 2024-03-25;(France) Île-de-France;A16 (Saint-Denis);fraidf.a016den;New Route
 2024-01-18;(France) Île-de-France;N4;fraidf.d100477;Route downgraded to D1004-77
@@ -1614,6 +1615,7 @@ date;region;route;root;description
 2015-07-25;(France) Nouvelle-Aquitaine;A89;franaq.a089;Route extended at west end from exit 19.1 to exit 9, including former Périgueux section
 2015-07-25;(France) Nouvelle-Aquitaine;A89 (Périgueux);franaq.a089;Route merged with main A89 route
 2015-07-25;(France) Nouvelle-Aquitaine;E62;franaq.e62;Removed from N149 and relocated to N249 between N249 Exit 15 and N149 exit 17
+2025-02-01;(France) Occitanie;N166;fraocc.d006666;Route renamed to D66-66
 2023-07-30;(France) Occitanie;N1088;fraocc.n1088;New Route
 2022-05-14;(France) Occitanie;N88 (Rodez);fraocc.n088;Route relocated from through Baraqueville and La Mothe (D888-12 now) and onto new bypass from exit 26 north of Baraqueville to south of La Mothe
 2022-02-15;(France) Occitanie;N124;fraocc.n124;Route relocated from through Gimont (D924 now) and onto new bypass from west of Gimont to east of Gimont
@@ -1642,12 +1644,13 @@ date;region;route;root;description
 2015-09-09;(France) Occitanie;Voie Lactée, Toulouse;fraocc.m090231;New Route
 2015-07-25;(France) Occitanie;A75;fraocc.a075;Route extended at south end from exit 59 to the A9, including former Béziers section
 2015-07-25;(France) Occitanie;A75 (Béziers);fraocc.a075;Route merged with main A75 route
-2022-07-08;(France) Pays-de-la-Loire;N162;frapdl.n162;Route extended at north end from D35 to N12 (new Mayenne bypass)
+2025-02-01;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route renamed to D962-53 or D962-49
+2022-07-08;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route extended at north end from D35 to N12 (new Mayenne bypass)
 2022-03-28;(France) Pays-de-la-Loire;Liaison Sud-Ouest du Mans;;Route deleted
 2018-11-01;(France) Pays-de-la-Loire;Liaison Sud-Ouest du Mans;;New Route
-2016-10-22;(France) Pays-de-la-Loire;N162;frapdl.n162;Route truncated at north end from N12 to D3
-2016-05-01;(France) Pays-de-la-Loire;N162;frapdl.n162;Route truncated at north end from N12 to D24 and extended at north end from D24 to N12 along Moulay bypass, former N2162, D113 and D7
-2016-05-01;(France) Pays-de-la-Loire;N2162;frapdl.n162;Route merged into N162
+2016-10-22;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route truncated at north end from N12 to D3
+2016-05-01;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route truncated at north end from N12 to D24 and extended at north end from D24 to N12 along Moulay bypass, former N2162, D113 and D7
+2016-05-01;(France) Pays-de-la-Loire;N2162;frapdl.d096253;Route merged into N162
 2024-10-09;(France) Provence-Alpes-Cote-d’Azur;D2562-06;frapac.d256206;Route extended at east end from Boulevard Maréchal Leclerc to Boulevard Fragonard in Grasse
 2024-10-09;(France) Provence-Alpes-Cote-d’Azur;D6085-06 (Grasse);frapac.d608506;New Route
 2021-05-07;(France) Provence-Alpes-Cote-d’Azur;Voie Pierre Mathis, Nice;frapac.voiepiemat;New Route
@@ -6027,6 +6030,7 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2025-02-01;Sweden;E22;swe.e22;Route relocated from through Jämjö and onto bypass from Torstäva (exit 66) to Bosavavägen
 2024-11-25;Sweden;E12;swe.e12;Route relocated from northern bypass of Umeå, ando onto southern bypass of Umeå from Trafikplats Klockarbäcken to junction with E4 at the airport
 2024-10-11;Sweden;Arbogavägen, Örebro;swe.oreenkmot;Route merged into Örebro - Enköping motorvägen
 2024-10-11;Sweden;Enköpingsvägen, Stockholm;swe.enkvag;Route truncated at west end from R56 to Enköping (belongs to Örebro - Enköping motorvägen now)
