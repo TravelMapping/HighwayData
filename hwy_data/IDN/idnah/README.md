@@ -2,7 +2,8 @@ There is very little information available about these routes' exact alignments.
 
 Notes from the 2010 log:
 * AH2's east end seems to be on Jl Gatot Subroto at Jl Cokroaminoto in Denpasar (the first segment is listed as 11 km in the 2010 log, which makes no sense, but it's clearly shown as following 40.008.K, which may have been longer in 2010? or was the section completely moved? some sections on Java were totally renumbered, and the length does roughly match ending at the airport on N1)
-* Why does AH2 include 20 km of Yogyakarta-Surakarta?
+* AH2 may have used part of N1 thru Surabaya - or was part of T8 originally built as N1?
+* AH2 [is signed via Tuban](https://www.google.com/maps/@-7.0998329,112.1787094,3a,43y,214.02h,103.18t/data=!3m7!1e1!3m5!1s0gwX2tXao2aDIHo-N5lGjg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.184867156328991%26panoid%3D0gwX2tXao2aDIHo-N5lGjg%26yaw%3D214.01725166948972!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D), not via Kartasura as the 2010 log shows. It is assumed to still use T6 around Semarang.
 * AH2's Bandung spur seems to stay with T4 all the way to Cileunyi.
 * AH2 appears to use both sides of the T1/T2/T7 loop around downtown Jakarta as well as the spur of T1 to the port/ferry.
 
