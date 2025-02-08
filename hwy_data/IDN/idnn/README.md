@@ -1,4 +1,4 @@
-Many signs remain from before the 2019 renumbering, but at least one sign exists (on another route) for N5 to Tanjung Lesung.
+Many signs remain from before the 2019 renumbering, but some do refer to the new numbers (such as [N17](https://www.google.com/maps/@-7.5656429,112.7176402,3a,15.1y,308.07h,103.54t/data=!3m7!1e1!3m5!1sWH9VR0mXoZOmjCiGvj9HGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.54119175818687%26panoid%3DWH9VR0mXoZOmjCiGvj9HGA%26yaw%3D308.0668457968097!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D)).
 
 Notes on routes:
 * Alignments thru Jakarta are from the 2007 log (note that N2 and N12 are now N8 and N6, and N13 no longer exists).
