@@ -86,7 +86,7 @@ FRA-74 = `HSa` = Haute-Savoie
 - `D224D` is indicated being `D224E` on OSM and GM; `D224D` is confirmed by 2012 GSV
 
 *FRA-69 - Rhone:*
-- `N7` from Roanne to Lyon was downgraded with the opening of A89 in 2018 according to wikisara but no new numbering is known. December 2020 GSV still indicates `N7`. Drafted as route departement `N7`.
+- `N7` from Roanne to Tarare was downgraded with the opening of A89 in 2018 according to wikisara but no new numbering is known. December 2020 GSV still indicates `N7`. Drafted as route departement `N7`.
 - `D35` through Saône-et-Loire is indicated as `D335` on OSM and GM but 2018 GSV does not show `D335`; there is a `D35` milepost at west end and `D35` signs to the west and to the east at `D27` junction --> route most likely belongs to departement Rhone's `D35`
 - `D155` signs in Colombier have been removed according to 2020 GSV
 
