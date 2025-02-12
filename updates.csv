@@ -643,6 +643,7 @@ date;region;route;root;description
 2021-12-03;(Canada) Northwest Territories;NT 9;nt.nt009;New route
 2017-12-08;(Canada) Northwest Territories;NT 10;nt.nt010;New route
 2017-12-08;(Canada) Northwest Territories;NT 1;nt.nt001;West end truncated from Wrigley village centre, to Tulita winter road entrance southeast of Wrigley
+2025-02-10;(Canada) Nova Scotia;NS 107;ns.ns107;Extended west from Exit 12 to NS 102.
 2023-07-12;(Canada) Nova Scotia;NS 4 (New Glasgow);ns.ns004ngl;Removed from "Old Highway 4" between Rossfield Rd and Barneys River Rd, relocated northwestward onto a NS104 (exit 29) connector to point *OldNS104_Bar, extended eastward over the former NS 104 alignment to point *OldNS104_Mar, northeastward via a direct transition into the former NS 4 (Antigonish) route at point *OldNS4, then eastward over the former Antigonish route to NS 316.
 2023-07-12;(Canada) Nova Scotia;NS 4 (Antigonish);ns.ns004ngl;Route deleted, and merged into NS 4 (New Glasgow) east of point *OldNS4. Segment between *OldNS4 and Strathglass Rd demolished.
 2023-07-12;(Canada) Nova Scotia;NS 104;ns.ns104;Removed from NS 4 (New Glasgow) and demolished roadway, and relocated southward onto a 4-lane divided highway between Exit 29 and a point labeled *OldNS104_Gle.
@@ -1454,7 +1455,6 @@ date;region;route;root;description
 2017-04-26;(France) Auvergne-Rhône-Alpes;N2102;fraara.n2102;New Route
 2016-12-30;(France) Auvergne-Rhône-Alpes;N7;fraara.n007;Route removed from D707 and relocated onto Varennes-sur-Allier bypass between D707 and D23
 2015-09-09;(France) Auvergne-Rhône-Alpes;Boulevard Laurent Bonnevay, Lyon;fraara.d383;New Route
-2015-09-09;(France) Auvergne-Rhône-Alpes;Boulevard Urbain Sud, Lyon;fraara.d301;New Route
 2015-09-09;(France) Auvergne-Rhône-Alpes;Lyon Tangent Est-Ost;fraara.teo;New Route
 2015-07-25;(France) Auvergne-Rhône-Alpes;A466;fraara.a466;New Route
 2015-07-25;(France) Auvergne-Rhône-Alpes;A719;fraara.a719;Route extended at east end from exit 15 to exit 16
@@ -1875,6 +1875,9 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from L154 to A98 between A98 exits 11 and 13
+2025-02-03;(Germany) Bavaria;B16 (Donauwörth);deuby.b016;Route relocated from through Marktoberdorf and onto eastern bypass from Schillenberg (St2008) to Altdorf (OAL5)
+2025-02-03;(Germany) Bavaria;B472;deuby.b472;Route truncated at west end from Geisenried (B12) to Bertoldshofen (B16), St2008 or B16 now
+2025-02-03;(Germany) Bavaria;St2008;deuby.st2008;Route extended at north end from Schillenberg (B16) to Geisenried (B12), former B472
 2024-12-21;(Germany) Bavaria;St2205;deuby.st2205;Route relocated from through Beiersdorf and Neuses, and onto new bypass between Wiesenfeld and B4
 2024-12-02;(Germany) Bavaria;St2435;deuby.st2435;Route relocated from through Wiesenfeld, and onto new bypass
 2024-10-26;(Germany) Bavaria;St2083 (Vilshofen);deuby.st2083vil;Route extended at east end from St2119 to B8
@@ -3156,6 +3159,9 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2025-02-12;Ireland;R772 (Newtownmountkennedy);irl.r772new;Route added
+2025-02-12;Ireland;R772 (Rathnew);irl.r772rat;Route added
+2025-02-12;Ireland;R772 (Gorey);irl.r772;Route truncated at north end from N11 exit 12 to M11 exit 18
 2024-09-05;Ireland;N59;irl.n059;Route removed from L1309 through Moycullen and relocated onto Maigh Cuillinn Bypass between northern and southern junctions with L1309
 2024-06-18;Ireland;N69;irl.n069;Route removed from Upper Church Street, Church Street, Bridge Street and Tralee Road and relocated onto John B. Keane Road and Listowel Western Bypass between Upper Church Street and R557
 2024-05-15;Ireland;N78;irl.n078;Route removed from Dublin Road, Duke Street and R428 and relocated onto Athy Distributor Road between R428 and northern junction with R418
@@ -5829,6 +5835,7 @@ date;region;route;root;description
 2022-01-15;(Spain) Extremadura;EXC1;espex.exc001;Route added
 2022-01-15;(Spain) Extremadura;BA20;espex.ba020;Route extended at west end from N523 to A5 exit 407
 2019-08-31;(Spain) Extremadura;N523;espex.n523;New Route
+2025-02-08;(Spain) Galicia;A54 (Lugo);espga.a054lug;Route extended at west end from exit 38 to exit 50
 2024-12-31;(Spain) Galicia;A57;espga.a057;Route added
 2024-12-31;(Spain) Galicia;N554;espga.n554;Route extended at north end from San Martin (former access to N550) to A57
 2024-06-28;(Spain) Galicia;A54;espga.a054;Exit numbers changed, including exits 84 and 93 swapping
@@ -8160,6 +8167,8 @@ date;region;route;root;description
 2017-06-09;(USA) Maryland;MD 351;;Deleted route
 2016-04-24;(USA) Maryland;MD 717;md.md717;Added route
 2015-08-17;(USA) Maryland;MD 200;md.md200;Extended east end of route from I-95 to US1
+2025-02-08;(USA) Massachusetts;MA 131;ma.ma131;Waypoint MA169_S moved 0.1 mi east to a relocated North Woodstock Rd from a closed intersection labeled *OldMA169. This change occurred sometime 2012-2014.
+2025-02-08;(USA) Massachusetts;MA 169;ma.ma169;Sometime 2012-2014, removed from demolished roadway directly connecting waypoints *OldMA169_S and *OldMA169_N, and relocated onto MA 131 and North Woodstock Rd.
 2024-09-27;(USA) Massachusetts;MA 111;ma.ma111;Removed from MA 225 & MA 119 and relocated onto Elm St. This is only a correction to Travel Mapping's data, and does not reflect an actual change in routing.
 2024-06-23;(USA) Massachusetts;MA 79;ma.ma079;Removed from a demolished section of the Western Fall River Expressway in the median of MA 138 and relocated onto MA 138 between a waypoint labeled *OldMA79 and the US6 Veterans Memorial Bridge.
 2021-11-21;(USA) Massachusetts;MA 28;ma.ma028;Extended at south end from MA 6A concurrent with MA 6A to US 6.
