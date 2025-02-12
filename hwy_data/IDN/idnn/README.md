@@ -1,7 +1,7 @@
 Many signs remain from before the 2019 renumbering, but some do refer to the new numbers (such as [N17](https://www.google.com/maps/@-7.5656429,112.7176402,3a,15.1y,308.07h,103.54t/data=!3m7!1e1!3m5!1sWH9VR0mXoZOmjCiGvj9HGA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.54119175818687%26panoid%3DWH9VR0mXoZOmjCiGvj9HGA%26yaw%3D308.0668457968097!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNC4wIKXMDSoASAFQAw%3D%3D)).
 
 Sources:
-* 2019 logs: https://id.wikipedia.org/wiki/Nomor_rute#Daftar_pustaka ([Bali](https://web.archive.org/web/20190711031703/http://jdih.dephub.go.id/assets/uudocs/kepEI/2019/KP.2073_.AJ_.001_.DRJD_.2019_.pdf))
+* 2019 logs (and 2007 for Jawa): https://id.wikipedia.org/wiki/Nomor_rute#Daftar_pustaka ([Bali](https://web.archive.org/web/20190711031703/http://jdih.dephub.go.id/assets/uudocs/kepEI/2019/KP.2073_.AJ_.001_.DRJD_.2019_.pdf))
 * Maps: https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_2.pdf https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_3.pdf https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_4.pdf https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_5.pdf https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_6.pdf
 * [GIS data](https://gisportal.binamarga.pu.go.id/portal/apps/mapviewer/index.html) (layers RN_NAT_PG and Kemantapan IRI 1 2024)
 
