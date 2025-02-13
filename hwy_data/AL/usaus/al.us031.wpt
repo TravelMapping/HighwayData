@@ -28,7 +28,7 @@ CR6 http://www.openstreetmap.org/?lat=31.036784&lon=-87.188991
 CR18 http://www.openstreetmap.org/?lat=31.078198&lon=-87.118484
 US29_N http://www.openstreetmap.org/?lat=31.103436&lon=-87.072589
 StJosAve http://www.openstreetmap.org/?lat=31.107680&lon=-87.068555
-LoveLn http://www.openstreetmap.org/?lat=31.143375&lon=-87.068598
+LovLn http://www.openstreetmap.org/?lat=31.143375&lon=-87.068598
 CR7 http://www.openstreetmap.org/?lat=31.195545&lon=-87.055562
 CR40 http://www.openstreetmap.org/?lat=31.228151&lon=-87.065170
 +x08 http://www.openstreetmap.org/?lat=31.246622&lon=-87.057295
@@ -78,12 +78,12 @@ US80 http://www.openstreetmap.org/?lat=32.311863&lon=-86.349878
 AL21_E http://www.openstreetmap.org/?lat=32.328800&lon=-86.344171
 +x13 http://www.openstreetmap.org/?lat=32.334561&lon=-86.362925
 OldSelRd http://www.openstreetmap.org/?lat=32.353972&lon=-86.377022
-BirmHwy http://www.openstreetmap.org/?lat=32.371630&lon=-86.375118
+BirHwy +BirmHwy http://www.openstreetmap.org/?lat=32.371630&lon=-86.375118
 HunLoopRd http://www.openstreetmap.org/?lat=32.396548&lon=-86.395213
 CR4_Pra http://www.openstreetmap.org/?lat=32.424991&lon=-86.411923
 US82/14 +US82 http://www.openstreetmap.org/?lat=32.438683&lon=-86.426241
 MainSt http://www.openstreetmap.org/?lat=32.460348&lon=-86.450778
-FairAve http://www.openstreetmap.org/?lat=32.466395&lon=-86.450901
+FaiAve +FairAve http://www.openstreetmap.org/?lat=32.466395&lon=-86.450901
 CR23_Aut +CR23Aut http://www.openstreetmap.org/?lat=32.511449&lon=-86.456346
 I-65(186) http://www.openstreetmap.org/?lat=32.549653&lon=-86.457767
 CR40_Pin http://www.openstreetmap.org/?lat=32.582028&lon=-86.464269
@@ -116,7 +116,7 @@ CR87 http://www.openstreetmap.org/?lat=33.200883&lon=-86.776092
 CR26_Sag http://www.openstreetmap.org/?lat=33.209187&lon=-86.783393
 I-65(238) http://www.openstreetmap.org/?lat=33.230867&lon=-86.807469
 AL119_S http://www.openstreetmap.org/?lat=33.238557&lon=-86.815681
-CR44_Ala +CR44Al http://www.openstreetmap.org/?lat=33.245059&lon=-86.815982
+2ndPl +CR44Al http://www.openstreetmap.org/?lat=33.245059&lon=-86.815982
 CR68_Ala http://www.openstreetmap.org/?lat=33.263644&lon=-86.811191
 CR52_E http://www.openstreetmap.org/?lat=33.283813&lon=-86.810467
 CR105 http://www.openstreetmap.org/?lat=33.296476&lon=-86.811594
@@ -124,7 +124,7 @@ AL119_N http://www.openstreetmap.org/?lat=33.332500&lon=-86.792003
 AL261 http://www.openstreetmap.org/?lat=33.346142&lon=-86.795833
 RivPkwy http://www.openstreetmap.org/?lat=33.364249&lon=-86.796171
 AL150 http://www.openstreetmap.org/?lat=33.377120&lon=-86.803515
-I-459(13B) http://www.openstreetmap.org/?lat=33.384502&lon=-86.806583
+I-459 +I-459(13B) http://www.openstreetmap.org/?lat=33.384502&lon=-86.806583
 I-65(252) http://www.openstreetmap.org/?lat=33.412207&lon=-86.806133
 RouRd http://www.openstreetmap.org/?lat=33.431929&lon=-86.788452
 CanRd http://www.openstreetmap.org/?lat=33.445354&lon=-86.791086
@@ -157,7 +157,7 @@ SnoRogRd http://www.openstreetmap.org/?lat=33.697414&lon=-86.816862
 MaryBucPkwy http://www.openstreetmap.org/?lat=33.719552&lon=-86.825101
 MorMajRd http://www.openstreetmap.org/?lat=33.747765&lon=-86.813611
 SarRd http://www.openstreetmap.org/?lat=33.758246&lon=-86.814415
-StouRd http://www.openstreetmap.org/?lat=33.773159&lon=-86.813654
+StoRd http://www.openstreetmap.org/?lat=33.773159&lon=-86.813654
 Exit280Con +Ex280Con http://www.openstreetmap.org/?lat=33.784970&lon=-86.822661
 DanaRd http://www.openstreetmap.org/?lat=33.801537&lon=-86.816754
 CaneCreRd http://www.openstreetmap.org/?lat=33.807759&lon=-86.811696
@@ -192,8 +192,8 @@ MillRd http://www.openstreetmap.org/?lat=34.523146&lon=-86.970370
 AL67 http://www.openstreetmap.org/?lat=34.562255&lon=-86.973406
 11thStSE http://www.openstreetmap.org/?lat=34.584138&lon=-86.980503
 MouSt http://www.openstreetmap.org/?lat=34.603837&lon=-86.980036
-ALT72_W http://www.openstreetmap.org/?lat=34.609528&lon=-86.977097
-ALT72_E http://www.openstreetmap.org/?lat=34.629059&lon=-86.952410
+US72Alt_W +ALT72_W http://www.openstreetmap.org/?lat=34.609528&lon=-86.977097
+US72Alt_E +ALT72_E http://www.openstreetmap.org/?lat=34.629059&lon=-86.952410
 ThoHamRd http://www.openstreetmap.org/?lat=34.658154&lon=-86.950302
 LauRd http://www.openstreetmap.org/?lat=34.693577&lon=-86.955612
 HunBroRd http://www.openstreetmap.org/?lat=34.731165&lon=-86.957093
