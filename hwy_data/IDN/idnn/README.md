@@ -5,7 +5,7 @@ Sources:
 * Maps: https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_2.pdf https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_3.pdf https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_4.pdf https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_5.pdf https://jdih.pu.go.id/internal/assets/assets/produk_parsial/KepmenPUPR/2023/03/2023kmpupr367_part_6.pdf
 * [GIS data](https://gisportal.binamarga.pu.go.id/portal/apps/mapviewer/index.html) (layers RN_NAT_PG and Kemantapan IRI 1 2024)
 
-Notes on routes:
+Notes on routes (Jawa):
 * Alignments thru Jakarta are from the 2007 log (note that N2 and N12 are now N8 and N6, and N13 no longer exists).
 * N1 goes both ways thru Cikarang per the 2019 log, but the bypass is mapped because the downtown route cannot be followed westbound.
 * N1 uses Jalan Ir. H. Juanda in Cikampek per the 2019 log, but it [is not signed this way](https://www.google.com/maps/@-6.4082123,107.4866307,3a,15.9y,224.13h,108.12t/data=!3m7!1e1!3m5!1smqhkoSGpDe1vCAg7M9-hjw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.122681498273593%26panoid%3DmqhkoSGpDe1vCAg7M9-hjw%26yaw%3D224.13487536007761!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (as of 2024).
@@ -23,7 +23,14 @@ Notes on routes:
 * N17 (former N15) [is signed](https://www.google.com/maps/@-7.5395072,111.6573848,3a,15.4y,78.72h,111.56t/data=!3m7!1e1!3m5!1saJ7v2p5Cm163J3VhA2hQFg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-21.55967273357325%26panoid%3DaJ7v2p5Cm163J3VhA2hQFg%26yaw%3D78.71668414855586!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D) on the bypass around Caruban, but this is not nationally maintained, and [westbound signage](https://www.google.com/maps/@-7.5509522,111.6916342,3a,15y,273.34h,103.06t/data=!3m7!1e1!3m5!1sRVRJjIraQFBfPY8XVK4Uww!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-13.064407396484683%26panoid%3DRVRJjIraQFBfPY8XVK4Uww%26yaw%3D273.3404755204108!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D) shows both ways.
 * N20 (former N16) [is signed](https://www.google.com/maps/@-7.2942781,110.4738437,3a,15y,70.34h,106.58t/data=!3m7!1e1!3m5!1spzdDCSMXehK8sWhntJnYeQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.57539628642948%26panoid%3DpzdDCSMXehK8sWhntJnYeQ%26yaw%3D70.34123781844256!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D) thru downtown Salatiga, but only the bypass is nationally maintained.
 * N32 may bypass downtown Madiun (both routes are nationally maintained).
-* Bali: the junction of N3/N4/N5 may be wrong (the 2019 log shows N3 entering on Jalan HOS Cokroaminoto, with presumably N5 on Jalan Gatot Subroto west of there).
+
+Notes on routes (Bali):
+* The junction of N3/N4/N5 may be wrong (the 2019 log shows N3 entering on Jalan HOS Cokroaminoto, with presumably N5 on Jalan Gatot Subroto west of there).
+
+Notes on routes (Sumatera):
+* The maps in the 2019 log show many branches that are not listed in text. These are not mapped unless explicitly signed.
+* N1 may go either way thru Medan, Dumai (both are nationally maintained)
+* N1 [is signed around Palembang](https://www.google.com/maps/@-2.9901824,104.7190842,3a,18.1y,328.09h,108.29t/data=!3m7!1e1!3m5!1s3bmEp4A_5Fc9aN5q-FkWog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.289216122226577%26panoid%3D3bmEp4A_5Fc9aN5q-FkWog%26yaw%3D328.09399985818754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D) (both routes are nationally maintained).
 
 [An older sign with a former number](https://www.google.com/maps/@-7.5471163,112.697656,3a,15y,162.87h,110.87t/data=!3m7!1e1!3m5!1soeokgu3zIpQD4g8XgN3Y6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.86534095150739%26panoid%3Doeokgu3zIpQD4g8XgN3Y6A%26yaw%3D162.87409280218978!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (N23 is now N36)
 
