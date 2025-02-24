@@ -34,6 +34,8 @@ Notes on routes (Sumatera):
 * N1 [is signed around Palembang](https://www.google.com/maps/@-2.9901824,104.7190842,3a,18.1y,328.09h,108.29t/data=!3m7!1e1!3m5!1s3bmEp4A_5Fc9aN5q-FkWog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.289216122226577%26panoid%3D3bmEp4A_5Fc9aN5q-FkWog%26yaw%3D328.09399985818754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D) (both routes are nationally maintained).
 * N5 is assumed to bypass Bandar Lampung, so N52 can intersect it (both routes are nationally maintained).
 * N7 may bypass Bandar Lampung (both routes are nationally maintained).
+* N9's north end may be wrong (the route into downtown Kabanjahe is also nationally maintained).
+* N9 may bypass Parapat (both routes are nationally maintained).
 * N10's north end is assumed due to the configuration of one-way streets in Tarutung (the direct route east to N5 is also nationally maintained).
 
 [An older sign with a former number](https://www.google.com/maps/@-7.5471163,112.697656,3a,15y,162.87h,110.87t/data=!3m7!1e1!3m5!1soeokgu3zIpQD4g8XgN3Y6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.86534095150739%26panoid%3Doeokgu3zIpQD4g8XgN3Y6A%26yaw%3D162.87409280218978!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (N23 is now N36)
