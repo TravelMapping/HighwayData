@@ -10,4 +10,6 @@ Notes from the 2010 log:
 
 Other notes:
 * [This sign](https://www.google.com/maps/@-6.4262616,107.480368,3a,42.4y,293.4h,104.73t/data=!3m7!1e1!3m5!1siU7RVBw6krQIEjSN7uXwRA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.726921872338991%26panoid%3DiU7RVBw6krQIEjSN7uXwRA%26yaw%3D293.3962794305108!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D) and [this one](https://www.google.com/maps/@-6.4236104,107.4797206,3a,23.2y,198.76h,122.63t/data=!3m7!1e1!3m5!1sbm_HRYnqkZbOIV0Wpiolhw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-32.63221453774024%26panoid%3Dbm_HRYnqkZbOIV0Wpiolhw%26yaw%3D198.7554719096179!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwMy4wIKXMDSoASAFQAw%3D%3D) show that AH2 uses N10 to get between what was then the east end of T1 and N1.
+* AH150 may bypass Banjarmasin (both routes are nationally maintained).
+* AH150 may bypass Palangka Raya (both routes are nationally maintained).
 * It's not clear which side of the Yogyakarta bypass AH152 follows; both are different national routes.
