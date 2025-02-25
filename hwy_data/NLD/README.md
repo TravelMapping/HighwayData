@@ -2,6 +2,7 @@
 - https://www.wegenwiki.nl/N-wegen
 - https://www.wegenwiki.nl/Ring#Bewegwijzerde_ringwegen_in_Nederland
 - https://www.wegenwiki.nl/Stadsroute
+- Drenthe P routes: https://kaartportaal.drenthe.nl/portal/apps/mapviewer/index.html?layers=016b99c212a34971ab52ecaabcaf8d88
 - Flevoland P routes: https://kaart.flevoland.nl/atlas/ (verkeer en vervoer > Provinciale wegen)
 - Groningen P routes: https://geoportaal.provinciegroningen.nl/portal/apps/webappviewer/index.html?appid=5fe5aa281c904f7f89480bc72362059f
 - North Holland P routes: https://geoapps.noord-holland.nl/GeoWeb/Viewer/?app=a15ba7ecb8ed4ab095d72001a0e6c111
