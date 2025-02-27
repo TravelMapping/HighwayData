@@ -2448,6 +2448,7 @@ date;region;route;root;description
 2015-09-10;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 3 to exit 2
 2015-09-10;(Germany) North Rhine-Westphalia;A544;deunw.a544;Route re-entered
 2015-09-10;(Germany) North Rhine-Westphalia;A562;deunw.a562;Route re-entered
+2025-02-26;(Germany) Rhineland-Palatinate;L504;deurp.l504;Route truncated at south end from L499 to B48
 2025-01-27;(Germany) Rhineland-Palatinate;L516 (Walsheim);deurp.l516wal;New Route
 2025-01-27;(Germany) Rhineland-Palatinate;L529;deurp.l529;Route truncated at north end from K12 to Böhler Straße
 2025-01-27;(Germany) Rhineland-Palatinate;L530 (Dannstadt-Schauernheim);deurp.l530;Route extended at south end from K12 to Böhler Straße
@@ -3712,7 +3713,7 @@ date;region;route;root;description
 2015-09-24;Luxembourg;A7;lux.a007;Route extended at south end from exit 2 to A1
 2015-09-24;Luxembourg;A7 (Lëtzebuerg);;Route merged into main A7
 2015-09-24;Luxembourg;E421;lux.e421;Route removed from N7 and N11 and onto A7 between A7 exits 1 and 2
-2024-02-23;Malaysia;AH140;mys.ah140;realigned off FT4 and onto FT67/76 via Pengkalan Hulu; realigned to follow FT4 rather than FT8 east of Machang
+2025-02-23;Malaysia;AH140;mys.ah140;realigned off FT4 and onto FT67/76 via Pengkalan Hulu, realigned to follow FT4 rather than FT8 east of Machang
 2024-02-12;Malaysia;E32Ban;;new route
 2023-07-14;Malaysia;E24;;deleted
 2023-07-14;Malaysia;E37;mys.lebsal;deleted (moved to myssf as LebSal)
@@ -3953,6 +3954,26 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2025-02-25;Netherlands;N203;nld.n203;Route truncatd at north end from N9 to N513
+2025-02-25;Netherlands;N253;nld.n253;Route truncatd at east end from Dorpsstraat to N61
+2025-02-25;Netherlands;N307;nld.n307;Route extended at east end from N50 to actual end in the west of Kampen
+2025-02-25;Netherlands;N347;nld.n347;Route truncated at north end from N340 to Prinses Julianastraat
+2025-02-25;Netherlands;N351;nld.n351;Route truncated at west end from Sluisweg to Wilhelminalaan
+2025-02-25;Netherlands;N352;nld.n352;Route truncated at west end from Urkerweg to Meep
+2025-02-25;Netherlands;N373;nld.n373;Route truncated at north end from N372 to Hullenweg
+2025-02-25;Netherlands;N374;nld.n374;Route truncated at west end from A28 to Smirnoffstraat
+2025-02-25;Netherlands;N472;;Route deleted
+2025-02-25;Netherlands;N666 ('s Heerenhoek);nld.n666hee;New Route
+2025-02-25;Netherlands;N686;nld.n686;Route truncated at west end from Yara to N62
+2025-02-25;Netherlands;N706;nld.n706;Route truncated at west end from N305 to A27
+2025-02-25;Netherlands;N710;nld.n710;Route truncated at north end from N711 to N307
+2025-02-25;Netherlands;N712;nld.n712;Route truncated at west end from Urkerweg to Nagel
+2025-02-25;Netherlands;N742;;Route deleted
+2025-02-25;Netherlands;N748;nld.n748;Route truncated at west end from N36 to Rusluieweg
+2025-02-25;Netherlands;N751;nld.n751;Route truncated at south end from N35 to Loonderesweg
+2025-02-25;Netherlands;N753;nld.n753;Route truncated at east end from Diepenheimsweg to Herikerweg
+2025-02-25;Netherlands;N763;nld.n763;Route truncated at north end from Europa-allee to Jules van Hasseltweg
+2025-02-25;Netherlands;N862;;Route deleted
 2025-02-16;Netherlands;N387;nld.n387;Route truncated at east end from Leentjerweg to N33 (N987 now)
 2025-02-16;Netherlands;N390;nld.n390;Route truncated at west end from ferry terminal to Harlingerstraatweg
 2025-02-16;Netherlands;N910;nld.n910;Route truncated at west end from N356/N361 to east of Dokkum
@@ -7117,6 +7138,8 @@ date;region;route;root;description
 2016-07-30;(USA) Alabama;US 82;al.us082;Removed from AL 25 and AL 382 and relocated onto the northeastern Centreville bypass between AL 25 North and CR 20
 2016-07-30;(USA) Alabama;US 84 Business (Opp);;Route deleted
 2016-04-17;(USA) Alabama;US 431;al.us431;Relocated onto the Anniston Eastern Bypass and a 3-mile leg of I-20
+2025-02-25;(USA) Alaska;AK 1;ak.ak001;In Portage, relocated to new alignment between Portage River Trail and Portage railroad station
+2025-02-25;(USA) Alaska;I-A3;ak.ia003;In Portage, relocated to new alignment between Portage River Trail and Portage railroad station
 2019-04-09;(USA) Alaska;AK 10 (Childs Glacier);;Route deleted
 2018-12-26;(USA) Alaska;Walter J. Hickel Parkway;ak.hicpkwy;Route added (includes parts of Minnesota Dr. and O'Malley Rd. in Anchorage)
 2019-03-04;(USA) Alaska;McCarthy Road;ak.mccarrd;Route added in Wrangell-St. Elias NP
@@ -7502,6 +7525,8 @@ date;region;route;root;description
 2016-06-27;(USA) Georgia;US 19 Business (Dahlonega);ga.us019busdah;Removed from South Chestatee Street and East Main Street between the intersections of South Chestatee Street/US 19/GA 9/GA 52/GA 60 and North Grove Street/East Main Street. Then rerouted along East Main Street between the intersections of North Grove Street/East Main Street and East Main Street/US 19/GA 9/GA 52/GA 60
 2015-08-18;(USA) Georgia;Harry S Truman Parkway;ga.hartrupkwy;Extended westward from the interchange with GA 204 Spur (Whitfield Avenue) in Savannah to a new intersection with GA 204 (Abercorn Street).
 2015-08-11;(USA) Georgia;I-16;ga.i016;Relabeled waypoint I-75 as 1 and previous waypoint 1 as 1A (US 23 & US 129, Spring Street) in Macon.
+2025-02-26;(USA) Hawaii;HI 160;;Route deleted (transferred to Hawaii County maintenance)
+2025-02-26;(USA) Hawaii;HI 240;;Route deleted (transferred to Hawaii County maintenance)
 2023-04-17;(USA) Hawaii;HI 98;hi.hi098;Extended northwest from H-1 exit 20B to Houghtailing St., via frontage roads Halona St. and Olomea St.
 2022-03-11;(USA) Hawaii;Crater Rim Dr.;hi.crarimdr;In Hawaii Volcanoes NP, extended west from park entrance to former Jaggar Museum site, over part of original Crater Rim Dr. alignment
 2018-10-19;(USA) Hawaii;HI 3000;hi.hi3000;Route extended about 0.5 mile south, from northern junction with HI 30, to closed intersection with old HI 30 alignment
@@ -8596,6 +8621,8 @@ date;region;route;root;description
 2017-05-01;(USA) New Jersey;NJ 15;nj.nj015;South end removed from Clinton St (including a demolished section underpassing US 46) and Bergen St between Richboynton Rd and US 46 at Bergen St, and relocated onto a southwesterly realignment of Clinton St between Richboynton Rd and an at-grade T-intersection with US 46.
 2016-11-16;(USA) New Jersey;NJ 18;nj.nj018;Extended north from Buckingham Drive to I-287
 2016-11-16;(USA) New Jersey;NJ 19;nj.nj019;South end removed from the Garden State Parkway access ramps between The Broad Street ramps and the Garden State Parkway, and relocated onto Broad Street between the GSP ramps and Colfax Avenue
+2025-02-25;(USA) New Mexico;NM 65;nm.nm065;In El Porvenir, route removed from FR263, and extended west along FR261 from FR263 to Porvenir Canyon Trail
+2025-02-25;(USA) New Mexico;NM 605;nm.nm605;In San Mateo, route removed from San Mateo Main St., and extended north to CR75
 2022-08-30;(USA) New Mexico;NM 195 (Elephant Butte Lake);nm.nm195ele;East end of route truncated, from NM 177 to barricade at Dirt Dam day use area
 2022-08-30;(USA) New Mexico;NM 572;;Route deleted (decommissioned)
 2021-08-17;(USA) New Mexico;NM 181;nm.nm181;South end truncated, from I-25(79) to I-25BL. North end extended, from I-25(89) to frontage road barricade north of Alamosa Creek
