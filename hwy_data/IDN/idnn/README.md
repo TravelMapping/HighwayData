@@ -15,7 +15,6 @@ Notes on routes (Jawa):
 * N1 may bypass downtown Tuban (both routes are nationally maintained).
 * N1's route thru Surabaya may be wrong (it doesn't seem like anything is nationally maintained).
 * N1 [is signed](https://www.google.com/maps/@-7.6300002,112.8776031,3a,15y,71.6h,106.45t/data=!3m7!1e1!3m5!1s-ZpH_gNpUKTi4vtzGrEcXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.45487937907302%26panoid%3D-ZpH_gNpUKTi4vtzGrEcXQ%26yaw%3D71.59821935126112!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) thru downtown Pasuruan (both routes are nationally maintained).
-* N6 (Bali)'s exact north end may be wrong.
 * N10 is assumed to bypass downtown Purwakarta (both routes are nationally maintained).
 * N10 southbound uses a different route thru Padalarang. Since only the northbound route is nationally maintained, and several important points are on the northbound route's overlap with N11, that direction is mapped.
 * N11's route thru Bandung may be wrong (a northern route is also nationally maintained).
@@ -26,6 +25,7 @@ Notes on routes (Jawa):
 
 Notes on routes (Bali):
 * The junction of N3/N4/N5 may be wrong (the 2019 log shows N3 entering on Jalan HOS Cokroaminoto, with presumably N5 on Jalan Gatot Subroto west of there).
+* N6's exact north end may be wrong.
 
 Notes on routes (Sumatera):
 * The maps in the 2019 log show many branches that are not listed in text. These are not mapped unless explicitly signed. There is also a lot of inconsistency between the list and maps (for example, what the list calls N21 is a second N31 on the maps, and what the maps call N21 doesn't seem to be un the list. There is even disagreement between maps; the Sumatera Barat map shows N15 but the Jambi map shows N19 for what is N15 in the list.
@@ -34,7 +34,7 @@ Notes on routes (Sumatera):
 * N1 [is signed around Palembang](https://www.google.com/maps/@-2.9901824,104.7190842,3a,18.1y,328.09h,108.29t/data=!3m7!1e1!3m5!1s3bmEp4A_5Fc9aN5q-FkWog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.289216122226577%26panoid%3D3bmEp4A_5Fc9aN5q-FkWog%26yaw%3D328.09399985818754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D) (both routes are nationally maintained).
 * N5 is assumed to bypass Bandar Lampung, so N52 can intersect it (both routes are nationally maintained).
 * N7 may bypass Bandar Lampung (both routes are nationally maintained).
-* N9's north end may be wrong (the route into downtown Kabanjahe is also nationally maintained).
+* N9's north end may be wrong (the route into downtown Kabanjahe is also nationally maintained) - or is this N6?
 * N9 may bypass Parapat (both routes are nationally maintained).
 * N10's north end is assumed due to the configuration of one-way streets in Tarutung (the direct route east to N5 is also nationally maintained).
 * N10's south end may be wrong (the bypass is also nationally maintained).
