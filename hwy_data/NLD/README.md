@@ -14,3 +14,6 @@
 **NOTES TO ROUTES:**
 - Ring Eindhoven is not listed but signed, drafted
 - Stadsroutes in Almere are replaced by N702, N703 or signs have been removed since 2015 according to wegenwiki.
+- `N554` was removed from OSM in July  2024, not on GM but still indicated on wegenwiki, no response by ChrisZwolle, still in HB
+- `N613` was removed from OSM in April 2024, still indicated on GM and wegenwiki, no response by ChrisZwolle, still in HB
+- `N616` was removed from OSM in July  2023, still indicated on GM and wegenwiki, no response by ChrisZwolle, still in HB
