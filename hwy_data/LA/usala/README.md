@@ -11,7 +11,7 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 826<br>
 897-4<br>
 897-5<br>
-1018-3<br>
+<s>1018-3</s> signed per GMSV<br>
 1018-4<br>
 1018-5<br>
 1265<br>
