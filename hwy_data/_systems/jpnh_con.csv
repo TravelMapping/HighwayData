@@ -81,10 +81,10 @@ jpnh;N9;;Matsue Bypass;jpn.n009mat
 jpnh;N9;;Oda Bypass;jpn.n009oda
 jpnh;N9;;Tottori Bypass;jpn.n009tot
 jpnh;N9;;Yonago Spur;jpn.n009yon
-jpnh;N9;;Yunotsu Bypass;jpn.n009yun
 jpnh;N10;;;jpn.n010
 jpnh;N10;;Hayato Bypass;jpn.n010hay
 jpnh;N10;;Kagoshima North Bypass;jpn.n010kag
+jpnh;N10;;Kajiki Bypass;jpn.n010kaj
 jpnh;N10;;Miyakonojo-Shibushi Road;jpn.n010miy
 jpnh;N10;;Nobeoka Bypass;jpn.n010nob
 jpnh;N10;;Ōita South Bypass;jpn.n010oit
@@ -244,6 +244,7 @@ jpnh;N56;;Uwajima Road;jpn.n056uwa
 jpnh;N57;;;jpn.n057
 jpnh;N57;;Kitagawa-Fukkyū Road;jpn.n057kit
 jpnh;N57;;Nagasaki;jpn.n057nag
+jpnh;N57;;Shimabara Road;jpn.n057shi
 jpnh;N58;;Kagoshima;jpn.n058
 jpnh;N58;;Amami Oshima;jpn.n058ama
 jpnh;N58;;Ginowan Bypass;jpn.n058gin
@@ -284,7 +285,6 @@ jpnh;N108;;Naruko Old Road;jpn.n108nar
 jpnh;N112;;;jpn.n112
 jpnh;N112;;Gassan Road;jpn.n112gas
 jpnh;N113;;;jpn.n113
-jpnh;N113;;Nanyō Old Road;jpn.n113nan
 jpnh;N113;;Tōkōsen Bypass;jpn.n113tok
 jpnh;N114;;;jpn.n114
 jpnh;N115;;;jpn.n115
@@ -496,7 +496,6 @@ jpnh;N195;;;jpn.n195
 jpnh;N195;;Akebono Highway;jpn.n195koc
 jpnh;N196;;;jpn.n196
 jpnh;N197;;;jpn.n197
-jpnh;N197;;Nogoe Bypass;jpn.n197nog
 jpnh;N197;;Ōita Higashi Bypass;jpn.n197ohb
 jpnh;N197;;Ōita;jpn.n197oit
 jpnh;N197;;Ōzu-Yawatahama Bypass;jpn.n197ozu
@@ -524,9 +523,10 @@ jpnh;N203;;Taku East Bypass;jpn.n203tak
 jpnh;N204;;;jpn.n204
 jpnh;N204;;Imari Bypass;jpn.n204ima
 jpnh;N204;;Matsuura Bypass;jpn.n204mat
+jpnh;N204;;Nagoya Old Road;jpn.n204nag
+jpnh;N204;;Tobo Bypass;jpn.n204tob
 jpnh;N205;;;jpn.n205
 jpnh;N206;;;jpn.n206
-jpnh;N206;;Hinami Bypass;jpn.n206hin
 jpnh;N206;;Kawahira Toll Road;jpn.n206kaw
 jpnh;N206;;Komukae Bypass;jpn.n206kom
 jpnh;N207;;;jpn.n207
@@ -538,8 +538,8 @@ jpnh;N209;;;jpn.n209
 jpnh;N210;;;jpn.n210
 jpnh;N210;;Ukiha Bypass;jpn.n210uki
 jpnh;N211;;;jpn.n211
+jpnh;N211;;Toho Old Road;jpn.n211toh
 jpnh;N212;;;jpn.n212
-jpnh;N212;;Kamade Old Road;jpn.n212kam
 jpnh;N212;;Nakatsu-Hita Road;jpn.n212nak
 jpnh;N212;;Yabakei Road;jpn.n212yab
 jpnh;N213;;;jpn.n213
@@ -554,15 +554,16 @@ jpnh;N219;;;jpn.n219
 jpnh;N219;;Hirose Bypass;jpn.n219hir
 jpnh;N220;;;jpn.n220
 jpnh;N220;;Furue Bypass;jpn.n220fur
-jpnh;N220;;Ibi Old Road;jpn.n220ibi
 jpnh;N221;;;jpn.n221
 jpnh;N222;;;jpn.n222
 jpnh;N222;;Ushinotōge Bypass;jpn.n222ush
 jpnh;N223;;;jpn.n223
+jpnh;N223;;Hayacho Old Road;jpn.n223hay
 jpnh;N224;;;jpn.n224
 jpnh;N224;;Kagoshima;jpn.n224kag
 jpnh;N225;;;jpn.n225
 jpnh;N226;;;jpn.n226
+jpnh;N226;;Kasasa Old Road;jpn.n226kas
 jpnh;N227;;;jpn.n227
 jpnh;N228;;;jpn.n228
 jpnh;N228;;Hakodate-Esashi Expressway;jpn.n228hak
@@ -602,7 +603,6 @@ jpnh;N249;;Wajima Bypass;jpn.n249waj
 jpnh;N250;;;jpn.n250
 jpnh;N251;;;jpn.n251
 jpnh;N251;;Aino Bypass;jpn.n251ain
-jpnh;N251;;Nagasaki Old Road;jpn.n251nag
 jpnh;N251;;Shimabara Bypass;jpn.n251shi
 jpnh;N252;;;jpn.n252
 jpnh;N252;;Honmei Old Road;jpn.n252hon
@@ -644,7 +644,6 @@ jpnh;N268;;;jpn.n268
 jpnh;N269;;Ibusuki;jpn.n269
 jpnh;N269;;Miyazaki;jpn.n269miy
 jpnh;N269;;Nishihara Bypass;jpn.n269nis
-jpnh;N269;;Sata Old Road;jpn.n269sat
 jpnh;N270;;;jpn.n270
 jpnh;N270;;Ichikikushikino Bypass;jpn.n270ich
 jpnh;N270;;Miyazaki Bypass;jpn.n270miy
@@ -765,9 +764,10 @@ jpnh;N320;;;jpn.n320
 jpnh;N320;;Uwajima Spur;jpn.n320uwa
 jpnh;N321;;;jpn.n321
 jpnh;N322;;;jpn.n322
-jpnh;N322;;Hatchōtōge Old Road;jpn.n322hat
+jpnh;N322;;Akizuki Old Road;jpn.n322aki
 jpnh;N322;;Kitagata Old Road;jpn.n322kit
 jpnh;N322;;Kokuraminami Old Road;jpn.n322kok
+jpnh;N322;;Shimoura Old Road;jpn.n322shi
 jpnh;N322;;Tagawa Old Road;jpn.n322tag
 jpnh;N322;;Yamada Old Road;jpn.n322yam
 jpnh;N323;;;jpn.n323
@@ -777,7 +777,9 @@ jpnh;N324;;Amakusa;jpn.n324ama
 jpnh;N324;;Hondaka Bypass;jpn.n324hon
 jpnh;N324;;Matsushima Toll Road;jpn.n324mat
 jpnh;N324;;Misumi-Oyano Road;jpn.n324mis
+jpnh;N324;;Nagasaki Spur;jpn.n324nag
 jpnh;N325;;;jpn.n325
+jpnh;N325;;Akahoshi Old Road;jpn.n325aka
 jpnh;N325;;Old Aso Bridge Spur;jpn.n325aso
 jpnh;N326;;;jpn.n326
 jpnh;N327;;;jpn.n327
@@ -814,7 +816,6 @@ jpnh;N339;;Goshogawara Kita Bypass;jpn.n339gos
 jpnh;N339;;Itayanagi Bypass;jpn.n339ita
 jpnh;N340;;;jpn.n340
 jpnh;N340;;Oshikado Pass Old Road;jpn.n340osh
-jpnh;N340;;Tachimaru Pass Old Road;jpn.n340tac
 jpnh;N341;;;jpn.n341
 jpnh;N342;;;jpn.n342
 jpnh;N342;;Hanaizumi Old Road;jpn.n342han
@@ -831,9 +832,7 @@ jpnh;N348;;;jpn.n348
 jpnh;N349;;;jpn.n349
 jpnh;N349;;Baikō Tunnel;jpn.n349bai
 jpnh;N349;;Hitachiōta Old Road;jpn.n349hit
-jpnh;N349;;Otsunagi Old Road;jpn.n349ots
 jpnh;N349;;Yamakami Old Road;jpn.n349yam
-jpnh;N349;;Yanagawa Old Road;jpn.n349yan
 jpnh;N350;;Niigata;jpn.n350
 jpnh;N350;;Jōetsu;jpn.n350joe
 jpnh;N350;;Sadoshima;jpn.n350sad
@@ -929,20 +928,20 @@ jpnh;N383;;Hirado Old Road;jpn.n383hir
 jpnh;N384;;Fukuejima;jpn.n384
 jpnh;N384;;Nakadorijima;jpn.n384nak
 jpnh;N384;;Sasebo;jpn.n384sas
-jpnh;N384;;Shinkamigoto Old Road;jpn.n384shi
 jpnh;N385;;;jpn.n385
-jpnh;N385;;Higashisefuri Tunnel Toll Road;jpn.n385hig
 jpnh;N385;;Kanzaki Old Road;jpn.n385kan
 jpnh;N385;;Okawa Old Road;jpn.n385oka
+jpnh;N385;;Sakamoto Pass Old Road;jpn.n385sak
 jpnh;N386;;;jpn.n386
 jpnh;N386;;Asakura Old Road;jpn.n386asa
 jpnh;N387;;;jpn.n387
 jpnh;N388;;;jpn.n388
-jpnh;N388;;Misato Old Road;jpn.n388mis
 jpnh;N389;;Ōmuta;jpn.n389
 jpnh;N389;;Akune;jpn.n389aku
 jpnh;N389;;Amakusa;jpn.n389ama
+jpnh;N389;;Odayuka Old Road;jpn.n389oda
 jpnh;N389;;Shimabara;jpn.n389shi
+jpnh;N389;;Taira Bypass;jpn.n389tai
 jpnh;N390;;Ishigaki;jpn.n390
 jpnh;N390;;Ishigaki Bypass;jpn.n390ish
 jpnh;N390;;Miyakojima;jpn.n390miy
@@ -1013,6 +1012,7 @@ jpnh;N416;;Eiheiji Bypass;jpn.n416eih
 jpnh;N416;;Hakuko-Fuseda Bypass;jpn.n416fus
 jpnh;N417;;Gifu;jpn.n417
 jpnh;N417;;Echizen Old Road;jpn.n417ech
+jpnh;N417;;Itagakizaka Old Road;jpn.n417ita
 jpnh;N418;;Gifu;jpn.n418
 jpnh;N418;;Kamiyahagi Bypass;jpn.n418kam
 jpnh;N418;;Kiso River Closed Section;jpn.n418kis
@@ -1186,14 +1186,16 @@ jpnh;N498;;Kurinoki Pass Old Road;jpn.n498kur
 jpnh;N499;;;jpn.n499
 jpnh;N499;;Akune;jpn.n499aku
 jpnh;N500;;;jpn.n500
+jpnh;N500;;Egawa Old Road;jpn.n500ega
+jpnh;N500;;Innai Old Road;jpn.n500inn
 jpnh;N501;;;jpn.n501
 jpnh;N502;;;jpn.n502
 jpnh;N503;;;jpn.n503
 jpnh;N504;;;jpn.n504
 jpnh;N504;;Hokusatsu-Ōdan Road;jpn.n504hok
+jpnh;N504;;Kihoku Old Road;jpn.n504kih
+jpnh;N504;;Satsuma Road;jpn.n504sat
 jpnh;N505;;;jpn.n505
-jpnh;N505;;Goga Old Road;jpn.n505gog
 jpnh;N506;;Naha Airport Expressway;jpn.n506
 jpnh;N507;;;jpn.n507
 jpnh;N507;;Tsukazan Bypass;jpn.n507tsu
-jpnh;N507;;Uema Spur;jpn.n507uem
