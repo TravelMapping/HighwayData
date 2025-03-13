@@ -2650,6 +2650,7 @@ date;region;route;root;description
 2018-12-31;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from border to Lower Saxony to A14 junction (A36 now)
 2018-12-19;(Germany) Saxony-Anhalt;B79;deust.b079;Route removed from through Harsleben and onto the bypass
 2015-09-15;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;New Route
+2025-03-09;(Germany) Schleswig-Holstein;B209 (Schwarzenbek);deush.b209sch;New Route
 2024-12-26;(Germany) Schleswig-Holstein;L89;deush.l089;Route truncated at west end from Jersbeker Straße to L225
 2024-12-26;(Germany) Schleswig-Holstein;L103;deush.l103;Route truncated at west end from Mühlenstraße to Wedeler Weg
 2024-12-26;(Germany) Schleswig-Holstein;L105;deush.l105;Route relocated from Westring, and onto Wedeler Weg between L103 and L106
@@ -3956,6 +3957,12 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2025-03-09;Netherlands;N198 (De Meern);;Route deleted
+2025-03-09;Netherlands;N312 (Ruurlo);nld.n312;Route truncated at south end from N18 to N315/N319
+2025-03-09;Netherlands;N312 (Vragender);;Route deleted
+2025-03-09;Netherlands;N419 (Aansluiting Harmelen);;Route deleted
+2025-03-09;Netherlands;N823;;Route deleted
+2025-03-04;Netherlands;N601;nld.ringsher;Route deleted but still part of Ring 's-Hertogenbosch
 2025-02-27;Netherlands;A79;nld.a079;Route truncatd at east end from exit 7 to A76
 2025-02-25;Netherlands;N203;nld.n203;Route truncatd at north end from N9 to N513
 2025-02-25;Netherlands;N253;nld.n253;Route truncatd at east end from Dorpsstraat to N61
@@ -7274,6 +7281,8 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2025-03-07;(USA) California;US 395 Business (Olancha);ca.us395busola;Added route along former alignment of US 395
+2025-03-07;(USA) California;Alfred Harrell Highway;ca.alfharhwy;Added route
 2025-02-27;(USA) California;I-10 Business Loop (Blythe);ca.i010blbly;Truncated from I-10 exit 241 west to 7th St. via US 95 and Hobsonway, and extended south to I-10 exit 240 via 7th St.
 2025-02-27;(USA) California;I-40 Business Loop (Needles);ca.i040blnee;Truncated from I-40 exit 142 via J St. to Broadway St., and extended north via Broadway and Needles Hwy. to I-40 exit 141
 2025-02-16;(USA) California;Colorado Freeway;ca.colfwy;Added state-maintained freeway, in Glendale CA
@@ -7419,7 +7428,8 @@ date;region;route;root;description
 2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach.
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
-2022-11-10;(USA) District of Columbia;Beach Drive;;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2025-03-07;(USA) District of Columbia;I-295;dc.i295;Exit number for Suitland Parkway renumbered from 3 to 4. If you were using the waypoint label "4" for travels ending at the 11th Street Bridges (now "5"), you will need to update your .list file.
+2022-11-10;(USA) District of Columbia;Beach Drive;dc.beadr;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
 2024-07-22;(USA) Florida;FL 134;fl.fl134;Western end truncated from an intersection with FL 228, one block south to the intersection of POW-MIA Memorial Pkwy/103rd St.
 2024-04-27;(USA) Florida;FL 686A;fl.fl686a;Added route.
 2024-04-27;(USA) Florida;FL 690;fl.fl690;Added route.
@@ -8117,6 +8127,8 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2025-03-07;(USA) Louisiana;LA 1018-4;;Route deleted
+2025-03-07;(USA) Louisiana;LA 1018-5;;Route deleted
 2024-09-07;(USA) Louisiana;LA 3169 ((East) Colfax);la.la3169;Truncated at west end from LA 8 to barricaded bridge 1/4 mile east of LA 8 (segment west of the former bridge is now LA 3169 ((West) Colfax))
 2024-09-07;(USA) Louisiana;LA 3169 ((West) Colfax);la.la3169col;Route added (was part of LA 3169 ((East) Colfax) before bridge was closed)
 2024-08-31;(USA) Louisiana;LA 813-3;la.la08133;Truncated at west end from US 167 to Hodge city limits
@@ -9404,6 +9416,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2025-03-07;(USA) Tennessee;TN 460;tn.tn460;Route added
 2024-12-30;(USA) Tennessee;TN 137;tn.tn137;Route added
 2024-10-23;(USA) Tennessee;TN 396;tn.tn396;Extended at west end from US 31 to TN 247
 2024-05-11;(USA) Tennessee;TN 162 (Knoxville);tn.tn162;Route truncated at south end to north end of I-140, with segment south of I-140 becoming TN 162 (Alcoa)
