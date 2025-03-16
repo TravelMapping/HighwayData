@@ -2650,6 +2650,7 @@ date;region;route;root;description
 2018-12-31;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from border to Lower Saxony to A14 junction (A36 now)
 2018-12-19;(Germany) Saxony-Anhalt;B79;deust.b079;Route removed from through Harsleben and onto the bypass
 2015-09-15;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;New Route
+2025-03-09;(Germany) Schleswig-Holstein;B209 (Schwarzenbek);deush.b209sch;New Route
 2024-12-26;(Germany) Schleswig-Holstein;L89;deush.l089;Route truncated at west end from Jersbeker Straße to L225
 2024-12-26;(Germany) Schleswig-Holstein;L103;deush.l103;Route truncated at west end from Mühlenstraße to Wedeler Weg
 2024-12-26;(Germany) Schleswig-Holstein;L105;deush.l105;Route relocated from Westring, and onto Wedeler Weg between L103 and L106
@@ -3944,6 +3945,9 @@ date;region;route;root;description
 2018-01-05;Montenegro;Magistralni Put;;Re-entered all routes
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
 2024-02-12;Morocco;N23;mar.n023;Route relocated on new alignement south of Benslimane and south of Demnate
+2025-03-12;Namibia;A1;nam.a001;Route extended at north end from B1_N to B1/B2
+2025-03-12;Namibia;A2;nam.a002;Route extended at south end from D1984 to C14
+2025-03-12;Namibia;B9;nam.b009;Route extended at east end from Robert Mugabe Avenue to Sam Nujoma Drive
 2022-02-11;Namibia;A2;nam.a002;Route added
 2020-02-22;Namibia;A1;nam.a001;Route extended at north end from northern D1473 junction to Osona Airstrip
 2024-02-15;(Netherlands) Aruba;Rt1;abw.rt001;Route added
@@ -3956,6 +3960,11 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2025-03-09;Netherlands;N198 (De Meern);;Route deleted
+2025-03-09;Netherlands;N312 (Ruurlo);nld.n312;Route truncated at south end from N18 to N315/N319
+2025-03-09;Netherlands;N312 (Vragender);;Route deleted
+2025-03-09;Netherlands;N419 (Aansluiting Harmelen);;Route deleted
+2025-03-09;Netherlands;N823;;Route deleted
 2025-03-04;Netherlands;N601;nld.ringsher;Route deleted but still part of Ring 's-Hertogenbosch
 2025-02-27;Netherlands;A79;nld.a079;Route truncatd at east end from exit 7 to A76
 2025-02-25;Netherlands;N203;nld.n203;Route truncatd at north end from N9 to N513
@@ -6633,6 +6642,8 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2025-03-12;(UK) England;B3285;eng.b3285;Route extended at east end from B3288 to A30/A39
+2025-03-12;(UK) England;B3288;eng.b3288;Route truncated at north end from A30/A39 to B3285 and at south end from A30/A390 to A30/B3284
 2025-01-10;(UK) England;A158;eng.a0158;Route truncated at west end from A15/A46 to A15
 2025-01-10;(UK) England;A338;eng.a0338;Route removed from Newbury Street and relocated onto Ormond Road between WalSt_W and B4507
 2025-01-10;(UK) England;A417;eng.a0417;Route removed from Reading Road, Charlton Road and A338 and relocated onto King Alfred Way between ReaRd_W and A338
@@ -7275,6 +7286,8 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2025-03-07;(USA) California;US 395 Business (Olancha);ca.us395busola;Added route along former alignment of US 395
+2025-03-07;(USA) California;Alfred Harrell Highway;ca.alfharhwy;Added route
 2025-02-27;(USA) California;I-10 Business Loop (Blythe);ca.i010blbly;Truncated from I-10 exit 241 west to 7th St. via US 95 and Hobsonway, and extended south to I-10 exit 240 via 7th St.
 2025-02-27;(USA) California;I-40 Business Loop (Needles);ca.i040blnee;Truncated from I-40 exit 142 via J St. to Broadway St., and extended north via Broadway and Needles Hwy. to I-40 exit 141
 2025-02-16;(USA) California;Colorado Freeway;ca.colfwy;Added state-maintained freeway, in Glendale CA
@@ -7420,7 +7433,8 @@ date;region;route;root;description
 2018-01-07;(USA) Delaware;DE 16;de.de016;East end extended from DE 1, along Broadkill Rd., to Broadkill Beach.
 2017-12-19;(USA) Delaware;DE 15;de.de015;Removed from a demolished roadway directly connecting waypoints *OldDE15_A and *OldDE15_B, and relocated onto a northwesterly relocation of Wyoming Mill Rd and Hazlettville Rd via an intersection with Westover Dr. Removed from a demolished roadway directly connecting *OldDE15_C and the entrance to Charles E. Price Memorial Park, and relocated eastward via a roundabout at St Annes Church Rd. Removed from a demolished roadway directly connecting waypoints *OldDE15_D and *OldDE15_E, and relocated onto a northwesterly relocation of Levels Rd and Middletown Warwick Rd (US 301).
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
-2022-11-10;(USA) District of Columbia;Beach Drive;;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2025-03-07;(USA) District of Columbia;I-295;dc.i295;Exit number for Suitland Parkway renumbered from 3 to 4. If you were using the waypoint label "4" for travels ending at the 11th Street Bridges (now "5"), you will need to update your .list file.
+2022-11-10;(USA) District of Columbia;Beach Drive;dc.beadr;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
 2024-07-22;(USA) Florida;FL 134;fl.fl134;Western end truncated from an intersection with FL 228, one block south to the intersection of POW-MIA Memorial Pkwy/103rd St.
 2024-04-27;(USA) Florida;FL 686A;fl.fl686a;Added route.
 2024-04-27;(USA) Florida;FL 690;fl.fl690;Added route.
@@ -9719,6 +9733,7 @@ date;region;route;root;description
 2017-05-17;(USA) Utah;UT 212;;Route Deleted
 2016-01-31;(USA) Utah;UT 7;ut.ut007;Extended east from Exit 10 (Warner Valley Road) to Sand Hollow Road, merged with former Sand Hollow segment
 2016-01-31;(USA) Utah;UT 7 (Sand Hollow);;Route deleted (merged into main route)
+2025-03-14;(USA) Vermont;VT 119;vt.vt119;Relocated onto new Brattleboro-Hinsdale Bridge between VT 142 and the New Hampshire line and now terminates at VT 142
 2024-10-23;(USA) Vermont;US 5 Alternate (Derby Line);vt.us005altder;New Route
 2016-08-16;(USA) Vermont;Vermont 7B (Clarendon);vt.vt007bcla;Truncated back to its northern junction with US 7
 2019-08-12;(USA) Virgin Islands;VI 752;vi.vi752;Extended west along what was previously mapped as part of VI 750
