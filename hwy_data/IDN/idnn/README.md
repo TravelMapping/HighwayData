@@ -43,6 +43,7 @@ Notes on routes (Sumatera):
 * N19 is not on the maps in the 2019 log, except as part of N15, and the one in the list is mapped as N25.
 * N31 or N33 may use the nationally-maintained eastern bypass of Pangkalpinang (the 2019 log is unclear).
 * N32 may go thru downtown Jambi (both routes are nationally maintained).
+* N45 may have been rerouted onto a more direct route via Jalan DI Panjaitan and Jalan WR Supratman in eastern Tanjung Pinang; the longer route is explicitly stated in the 2019 log but may be no longer nationally maintained.
 
 [An older sign with a former number](https://www.google.com/maps/@-7.5471163,112.697656,3a,15y,162.87h,110.87t/data=!3m7!1e1!3m5!1soeokgu3zIpQD4g8XgN3Y6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.86534095150739%26panoid%3Doeokgu3zIpQD4g8XgN3Y6A%26yaw%3D162.87409280218978!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (N23 is now N36)
 
