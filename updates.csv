@@ -3960,6 +3960,8 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2025-03-16;Netherlands;N287;nld.n287;Route truncated at west end from Westkapelle to Westhove
+2025-03-16;Netherlands;N456;;Route deleted
 2025-03-09;Netherlands;N198 (De Meern);;Route deleted
 2025-03-09;Netherlands;N312 (Ruurlo);nld.n312;Route truncated at south end from N18 to N315/N319
 2025-03-09;Netherlands;N312 (Vragender);;Route deleted
@@ -4116,7 +4118,7 @@ date;region;route;root;description
 2023-03-23;Netherlands;N467;nld.n467;Route truncated at west end from N213/N222 roundabout to Kruisbroekweg in Naaldwijk (partially N222 now)
 2023-03-22;Netherlands;N58;;Route deleted
 2023-03-22;Netherlands;N206;nld.n206;Route relocated from Zonnebloemlaan, and onto Boekenroodeweg in Heemstede
-2023-03-22;Netherlands;N456;nld.n456;Route truncated at east end from N207 to A20 (N457 now)
+2023-03-22;Netherlands;N456;;Route truncated at east end from N207 to A20 (N457 now)
 2023-03-22;Netherlands;N457;nld.n457;Route extended at south end from A20 to N207 (former N456)
 2023-03-22;Netherlands;N457;nld.n457;Route extended at north end from A20 to Polderweg
 2023-03-22;Netherlands;N686 (Terneuzen);nld.n686ter;New Route
@@ -7287,8 +7289,9 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
-2025-03-07;(USA) California;US 395 Business (Olancha);ca.us395busola;Added route along former alignment of US 395
-2025-03-07;(USA) California;Alfred Harrell Highway;ca.alfharhwy;Added route
+2025-03-16;(USA) California;Dante's View Road (Death Valley NP);ca.danviewrd;Added route
+2025-03-09;(USA) California;US 395 Business (Olancha);ca.us395busola;Added route along former alignment of US 395
+2025-03-09;(USA) California;Alfred Harrell Highway;ca.alfharhwy;Route added
 2025-02-27;(USA) California;I-10 Business Loop (Blythe);ca.i010blbly;Truncated from I-10 exit 241 west to 7th St. via US 95 and Hobsonway, and extended south to I-10 exit 240 via 7th St.
 2025-02-27;(USA) California;I-40 Business Loop (Needles);ca.i040blnee;Truncated from I-40 exit 142 via J St. to Broadway St., and extended north via Broadway and Needles Hwy. to I-40 exit 141
 2025-02-16;(USA) California;Colorado Freeway;ca.colfwy;Added state-maintained freeway, in Glendale CA
@@ -8133,6 +8136,10 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2025-03-16;(USA) Louisiana;LA 124;la.la0124;Extended at east end from the western junction with LA 3102 to the eastern junction with LA 3102 (note that the easternmost point is physically west of the previous point)
+2025-03-16;(USA) Louisiana;LA 338;la.la0338;Truncated at south end from LA 14 Business to LA 14
+2025-03-16;(USA) Louisiana;LA 577 Spur (Indian Lake);la.la0577sprind;Truncated at east end from the national wildlife refuge boundary to a point 1.2 miles east of LA 577
+2025-03-16;(USA) Louisiana;LA 934;la.la0934;Truncated at east end from point east of LA 431 to junction with LA 431, removing a short concurrency with LA 431
 2025-03-07;(USA) Louisiana;LA 1018-4;;Route deleted
 2025-03-07;(USA) Louisiana;LA 1018-5;;Route deleted
 2024-09-07;(USA) Louisiana;LA 3169 ((East) Colfax);la.la3169;Truncated at west end from LA 8 to barricaded bridge 1/4 mile east of LA 8 (segment west of the former bridge is now LA 3169 ((West) Colfax))
@@ -8418,6 +8425,8 @@ date;region;route;root;description
 2024-06-29;(USA) Minnesota;MN 222;;Deleted route
 2024-06-29;(USA) Minnesota;MN 30;mn.mn030;Route relocated north of Rochester Airport via CR 8/CR 16/US 63
 2024-11-15;(USA) Minnesota;US 12;mn.us012;Route relocated west of Willmar between 45thStNW and 28thSt
+2025-03-19;(USA) Mississippi;MS 537 (Moss);ms.ms537mos;New leg of MS 537 added
+2025-03-19;(USA) Mississippi;MS 76;ms.ms076;Extended west to MS 25
 2018-05-05;(USA) Mississippi;I-269;ms.i269;Extended west to MS 305/Exit 9
 2018-04-11;(USA) Mississippi;US 278;ms.us278;Relocated onto Corridor V through southern Tupelo
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
@@ -8557,6 +8566,7 @@ date;region;route;root;description
 2015-08-18;(USA) Nebraska;NE 370;ne.ne370;Truncated between the old eastern end at the Iowa state line and the new end at US 75.
 2015-08-18;(USA) Nebraska;US 34;ne.us034;Removed from Chicago Avenue, 1st Avenue, 6th Street, Main Street, 3rd Street, and Livingston Road in Plattsmouth, and relocated onto US 75, Platteview Road, and the new Missouri River Bridge, between NE 66 and the Iowa state line.
 2015-08-18;(USA) Nebraska;US 75;ne.us075;Moved waypoint US34_E from NE 66 to Platteview Road.
+2025-03-16;(USA) Nevada;Harry Reid Airport Connector;nv.hraircon;Route added
 2024-11-01;(USA) Nevada;NV 156;nv.nv156;Southern end truncated to end of state maintenance
 2024-10-22;(USA) Nevada;NV 894;nv.nv894;Southern end adjusted to match logs
 2024-05-30;(USA) Nevada;I-11;nv.i011;North end extended over I-515 and US 95 to NV 157
@@ -8960,6 +8970,7 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2025-03-16;(USA) Ohio;International Gateway;oh.intgtwy;Route added
 2024-07-27;(USA) Ohio;US 23;oh.us023;Removed from Livingston Ave between High St and 3rd St/4thSt and onto Fulton St/Mound St pair, which involved moving US33_S point from Livingston intersection with 3rd/4th to Fulton/Mound intersection with 3rd/4th and moving HighSt_S point from Livingston intersection with High to Fulton/Mound intersection with High (old routing between Fulton/Mound and Livingston is still part of US 33) 
 2024-07-27;(USA) Ohio;US 33;oh.us033;US23_S point moved from intersection of Livingston Ave and 3rd St/4th St pair (now labeled LivAve_W) to intersection of new US 23 routing on Fulton St/Mound St at 3rd/4th
 2024-05-11;(USA) Ohio;OH 65;oh.oh065;Removed from Central Ave (southbound only), North St (OH 81), and Elizabeth St in Lima, and relocated onto the Union St/Central Ave pair and Wayne St between CenAve_S and WaySt_W
@@ -9062,6 +9073,9 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2025-03-17;(USA) Oklahoma;OK 6;ok.ok006;Removed from Windle St, Mountain Ave & Sulphur Rd and relocated onto Bartlett St between Windle St & Sulphur Rd.
+2025-03-17;(USA) Oklahoma;OK 9;ok.ok009;Waypoint OK6 moved from Windle St (now WinSt) to Bartlett St.
+2025-03-17;(USA) Oklahoma;L.L. Tisdale Parkway;ok.lltispkwy;Route added.
 2024-12-28;(USA) Oklahoma;US 62;ok.us062;Waypoint OK10_S moved to Georgetown Rd from a closed intersection (now labeled *OldOK10) 0.3 mi east.
 2024-12-28;(USA) Oklahoma;OK 9 Business (Gotebo);;Route deleted.
 2024-12-28;(USA) Oklahoma;OK 10;ok.ok010;Sometime 2017-2019, removed from demolished roadway and relocated onto an easterly extension of Three Forks Rd, Georgetown Rd and US 62 between waypoints *OldOK10_S & *OldOK10_N.
@@ -9734,6 +9748,7 @@ date;region;route;root;description
 2017-05-17;(USA) Utah;UT 212;;Route Deleted
 2016-01-31;(USA) Utah;UT 7;ut.ut007;Extended east from Exit 10 (Warner Valley Road) to Sand Hollow Road, merged with former Sand Hollow segment
 2016-01-31;(USA) Utah;UT 7 (Sand Hollow);;Route deleted (merged into main route)
+2025-03-14;(USA) Vermont;VT 119;vt.vt119;Relocated onto new Brattleboro-Hinsdale Bridge between VT 142 and the New Hampshire line and now terminates at VT 142
 2024-10-23;(USA) Vermont;US 5 Alternate (Derby Line);vt.us005altder;New Route
 2016-08-16;(USA) Vermont;Vermont 7B (Clarendon);vt.vt007bcla;Truncated back to its northern junction with US 7
 2019-08-12;(USA) Virgin Islands;VI 752;vi.vi752;Extended west along what was previously mapped as part of VI 750

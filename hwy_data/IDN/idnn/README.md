@@ -15,7 +15,6 @@ Notes on routes (Jawa):
 * N1 may bypass downtown Tuban (both routes are nationally maintained).
 * N1's route thru Surabaya may be wrong (it doesn't seem like anything is nationally maintained).
 * N1 [is signed](https://www.google.com/maps/@-7.6300002,112.8776031,3a,15y,71.6h,106.45t/data=!3m7!1e1!3m5!1s-ZpH_gNpUKTi4vtzGrEcXQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-16.45487937907302%26panoid%3D-ZpH_gNpUKTi4vtzGrEcXQ%26yaw%3D71.59821935126112!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) thru downtown Pasuruan (both routes are nationally maintained).
-* N6 (Bali)'s exact north end may be wrong.
 * N10 is assumed to bypass downtown Purwakarta (both routes are nationally maintained).
 * N10 southbound uses a different route thru Padalarang. Since only the northbound route is nationally maintained, and several important points are on the northbound route's overlap with N11, that direction is mapped.
 * N11's route thru Bandung may be wrong (a northern route is also nationally maintained).
@@ -26,6 +25,7 @@ Notes on routes (Jawa):
 
 Notes on routes (Bali):
 * The junction of N3/N4/N5 may be wrong (the 2019 log shows N3 entering on Jalan HOS Cokroaminoto, with presumably N5 on Jalan Gatot Subroto west of there).
+* N6's exact north end may be wrong.
 
 Notes on routes (Sumatera):
 * The maps in the 2019 log show many branches that are not listed in text. These are not mapped unless explicitly signed. There is also a lot of inconsistency between the list and maps (for example, what the list calls N21 is a second N31 on the maps, and what the maps call N21 doesn't seem to be un the list. There is even disagreement between maps; the Sumatera Barat map shows N15 but the Jambi map shows N19 for what is N15 in the list.
@@ -34,10 +34,16 @@ Notes on routes (Sumatera):
 * N1 [is signed around Palembang](https://www.google.com/maps/@-2.9901824,104.7190842,3a,18.1y,328.09h,108.29t/data=!3m7!1e1!3m5!1s3bmEp4A_5Fc9aN5q-FkWog!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-18.289216122226577%26panoid%3D3bmEp4A_5Fc9aN5q-FkWog%26yaw%3D328.09399985818754!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxMi4wIKXMDSoASAFQAw%3D%3D) (both routes are nationally maintained).
 * N5 is assumed to bypass Bandar Lampung, so N52 can intersect it (both routes are nationally maintained).
 * N7 may bypass Bandar Lampung (both routes are nationally maintained).
-* N9's north end may be wrong (the route into downtown Kabanjahe is also nationally maintained).
+* N9's north end may be wrong (the route into downtown Kabanjahe is also nationally maintained) - or is this N6?
 * N9 may bypass Parapat (both routes are nationally maintained).
 * N10's north end is assumed due to the configuration of one-way streets in Tarutung (the direct route east to N5 is also nationally maintained).
 * N10's south end may be wrong (the bypass is also nationally maintained).
+* N13 does not seem to be nationally maintained, so it may no longer exist.
+* N17 is not on the maps in the 2019 log, and the one in the list is mapped as N21.
+* N19 is not on the maps in the 2019 log, except as part of N15, and the one in the list is mapped as N25.
+* N31 or N33 may use the nationally-maintained eastern bypass of Pangkalpinang (the 2019 log is unclear).
+* N32 may go thru downtown Jambi (both routes are nationally maintained).
+* N45 may have been rerouted onto a more direct route via Jalan DI Panjaitan and Jalan WR Supratman in eastern Tanjung Pinang; the longer route is explicitly stated in the 2019 log but may be no longer nationally maintained.
 
 [An older sign with a former number](https://www.google.com/maps/@-7.5471163,112.697656,3a,15y,162.87h,110.87t/data=!3m7!1e1!3m5!1soeokgu3zIpQD4g8XgN3Y6A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-20.86534095150739%26panoid%3Doeokgu3zIpQD4g8XgN3Y6A%26yaw%3D162.87409280218978!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (N23 is now N36)
 
@@ -62,6 +68,9 @@ Former numbering in Sumatera:
 * N1 (and AH151!) on N31 at [Muara Enim](https://www.google.com/maps/@-3.6589884,103.7801163,3a,15y,129.69h,98.77t/data=!3m7!1e1!3m5!1sMXGxz8fyigAMOBszRHdNdA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.769375389049543%26panoid%3DMXGxz8fyigAMOBszRHdNdA%26yaw%3D129.69202864441024!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOC4wIKXMDSoASAFQAw%3D%3D)
 * N1 (and AH25) on N5 at [Palas](https://www.google.com/maps/@-5.7278146,105.6536464,3a,15y,69.94h,104.66t/data=!3m7!1e1!3m5!1s83LkzAhGz3k8FfPvZfgSAw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.657424748095451%26panoid%3D83LkzAhGz3k8FfPvZfgSAw%26yaw%3D69.9432295681986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOC4wIKXMDSoASAFQAw%3D%3D)
 * N1 (and AH25) on N23 near [Menggala](https://www.google.com/maps/@-4.5513449,105.2206473,3a,15y,139.17h,99.18t/data=!3m7!1e1!3m5!1s-qUADkTLGJUFWIEC04MXcg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-9.180668445815428%26panoid%3D-qUADkTLGJUFWIEC04MXcg%26yaw%3D139.16681955116258!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOC4wIKXMDSoASAFQAw%3D%3D)
+* [N1 on N7](https://www.google.com/maps/@-4.921803,103.5960799,3a,15y,111.51h,104.62t/data=!3m7!1e1!3m5!1sshwlSzxb20a9yjTGW6lp-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.624835660141045%26panoid%3DshwlSzxb20a9yjTGW6lp-g%26yaw%3D111.50844631254256!7i13312!8i6656?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoASAFQAw%3D%3D)
 * [N3 on N5 near Bukittinggi](https://www.google.com/maps/@-0.3410018,100.3831302,3a,16.8y,152.99h,104.99t/data=!3m7!1e1!3m5!1sDJtBSRNjdbgsnZlKnz37PQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.989895428075485%26panoid%3DDJtBSRNjdbgsnZlKnz37PQ%26yaw%3D152.98684193473937!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOC4wIKXMDSoASAFQAw%3D%3D)
 * [N5 and N20 near Padang](https://www.google.com/maps/@-0.7926827,100.3180502,3a,15.4y,257.35h,98.29t/data=!3m7!1e1!3m5!1sMA1619gRD3gw59FLUsG1Ag!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.293468937776467%26panoid%3DMA1619gRD3gw59FLUsG1Ag%26yaw%3D257.34707646625986!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxOS4xIKXMDSoASAFQAw%3D%3D)
+* [N9 on N18 near Payakumbuh](https://www.google.com/maps/@-0.2641143,100.5769981,3a,20.5y,70.25h,109.94t/data=!3m7!1e1!3m5!1sPhKWnMPRjv7RvgWWkcK0jw!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-19.9422662244084%26panoid%3DPhKWnMPRjv7RvgWWkcK0jw%26yaw%3D70.25050614631999!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoASAFQAw%3D%3D)
 * [N13 into Jambi from the west](https://www.google.com/maps/@-1.6237282,103.5488835,3a,15y,91.35h,96.93t/data=!3m7!1e1!3m5!1s6GAHj2o4WaLboviJJ-SiEg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-6.932365163817153%26panoid%3D6GAHj2o4WaLboviJJ-SiEg%26yaw%3D91.35123032718637!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIxNy4wIKXMDSoASAFQAw%3D%3D)
+* [N13 on N34 west of Jambi](https://www.google.com/maps/@-1.5994384,103.4996973,3a,15y,52.73h,95.82t/data=!3m7!1e1!3m5!1sbB-hPf2ts3SawqX6GW7RvQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-5.820976865406038%26panoid%3DbB-hPf2ts3SawqX6GW7RvQ%26yaw%3D52.7261993703749!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoASAFQAw%3D%3D)
