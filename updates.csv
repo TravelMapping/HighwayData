@@ -3342,6 +3342,10 @@ date;region;route;root;description
 2017-05-31;Israel;F7;isr.f007;New Route
 2017-05-31;Israel;F20;isr.f020;Route extended at north end from exit 22 to H2
 2017-05-31;Israel;F50 (Beit Hanina);pse.f050;Route deleted
+2025-04-02;Italy;A2 (Diramazione Napoli);ita.a002dirnap;Route added
+2025-04-02;Italy;A3;ita.a003;Route truncated at east end from A2 to A2Dir at SP129 (removed section now A2DirNap)
+2025-04-02;Italy;A13 (Diramazione per Ferrara);ita.a013fer;Route truncated at east end from SS309 to SS16 (removed section now RA8)
+2025-04-02;Italy;RA8;ita.ra008;Route added
 2025-03-25;Italy;A21 Racc (Raccordo autostradale Ospitaletto-Montichiari);ita.a021raccbre;Route extended at west end from SPBS235 to 'ToA4'
 2025-01-26;Italy;E840;ita.e840;Route removed from SS597 and relocated onto SS729 between SS597 (relabelled 'SS729_W') and SS131 (moved point)
 2024-10-05;Italy;Raccordo Autostradale di Reggio Calabria;ita.ra004;Route truncated at south end from Via Saraceinello to SS106Ter, moved to itaa, and given its number 'RA4'
@@ -7049,6 +7053,8 @@ date;region;route;root;description
 2015-07-25;(UK) Northern Ireland;A8;nir.a008;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E1;nir.e1;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
 2015-07-25;(UK) Northern Ireland;E18;nir.e18;Route relocated from Larne Road, Ballynure onto Ballynure Bypass, between A57 and Ballybricken Road
+2025-04-02;(UK) Scotland;A9294;sct.a9294;Route extended at west end from Stormontfield Road to A9
+2025-04-02;(UK) Scotland;B9993;sct.b9993;Route extended at north end from Adamson Avenue to northern junction with A9
 2025-03-19;(UK) Scotland;A8016;sct.a8016;Route added
 2024-04-01;(UK) Scotland;A925;sct.a0925;Route added
 2024-02-15;(UK) Scotland;A9294;sct.a9294;Route added
@@ -7130,7 +7136,7 @@ date;region;route;root;description
 2015-07-25;(UK) Scotland;E16;sct.e16;Route extended at east end from exit 2 of the M8 to exit 1 of the M8
 2015-07-25;(UK) Scotland;E5 (Glasgow);sct.e5gla;New Route
 2015-07-25;(UK) Scotland;M74;sct.m074;Route extended at north end from non-junction with the M8 to exit 22 of the M8
-2025-03-27;(UK) Wales;A5156;wls.a5156;Route extended at south end from (now western) junction with A534 to A525
+2025-03-29;(UK) Wales;A5156;wls.a5156;Route extended at south end from (now western) junction with A534 to A525
 2025-01-10;(UK) Wales;A458;wls.a0458;Route removed from Raven Street, High Steet and Salop Road and relocated onto Brook Street, Mill Lane and Smithfield Road between A490_N and A483/A490
 2025-01-10;(UK) Wales;A490;wls.a0490;Route removed from Berriview Road, Mount Street and Raven Street and relocated onto A483 and A458 between A483_S and A458_W
 2025-01-10;(UK) Wales;B4381;wls.b4381;Route truncated at west end from A458/A490 to A458
