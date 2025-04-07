@@ -5,4 +5,4 @@ Sources:
 * Maps: https://www.dpwh.gov.ph/dpwh/DPWH_ATLAS/Road%20Data%202016/index.htm (2023)
 
 Notes on routes:
-* N642 is shown in GIS data with strange loops thru Aroroy and Baleno
+* N663 is shown in GIS data with strange loops thru Aroroy and Baleno
