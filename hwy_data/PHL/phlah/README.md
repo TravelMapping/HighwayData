@@ -4,3 +4,4 @@ Sources:
 
 Notes on routes:
 * AH27Lap may use N82 or N841; the description simply lists a branch from Cebu City to Lapu-Lapu City.
+* AH28Bat begins at Calamba City; the GIS Nautical Highway data shows a different alignment of E2 than what was built, so it's assumed that AH28 uses E2 south of the Calamba City interchange.
