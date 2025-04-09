@@ -11,9 +11,9 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 826<br>
 897-4<br>
 897-5<br>
-1018-3<br>
-1018-4<br>
-1018-5<br>
+<s>1018-3</s> signed per GMSV<br>
+<s>1018-4</s> unsigned per GMSV<br>
+<s>1018-5</s> unsigned per GMSV<br>
 1265<br>
 3102
 
@@ -27,8 +27,6 @@ LA29Spr is the western segment of LA26 (Chataignier St) within the one-way pair 
 LA44 is signed W-E at its east end and S-N at its north end. It is in the process of being partially deleted from the state system.
 
 LA77 is signed along LA77 Spur, and the adjacent section of LA77 is unsigned.
-
-LA124's route through Harrisonburg is not completely clear since LA8 was routed onto a new bridge.
 
 The northern segment of LA486 is (mostly) unsigned, so it has not been included in the file.
 
