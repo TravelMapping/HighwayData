@@ -1,8 +1,16 @@
 ﻿System;Route;Banner;Name;Roots
 itass2;SS1;;Civitavecchia;italaz.ss001civ
-itass2;SS1;;Livorno;italaz.ss001mon,itatos.ss001,italig.ss001sar
-itass2;SS1;;Rapallo;italig.ss001rap
-itass2;SS1;;Savona;italig.ss001sav
+itass2;SS1;;Livorno;italaz.ss001mon,itatos.ss001,italig.ss001laz
+itass2;SS1;;Arcola;italig.ss001arc
+itass2;SS1;;Carrodano;italig.ss001car
+itass2;SS1;;Sant Anna;italig.ss001ann
+itass2;SS1;;Zoagli;italig.ss001zoa
+itass2;SS1;;Recco;italig.ss001rec
+itass2;SS1;;Arenzano;italig.ss001are
+itass2;SS1;;Valloria;italig.ss001val
+itass2;SS1;;Loano;italig.ss001loa
+itass2;SS1;;Sanremo;italig.ss001san
+itass2;SS1;;Grimaldi;italig.ss001gri
 itass2;SS1;Bis;;italaz.ss001bis
 itass2;SS1;Dir;Vado Ligure;italig.ss001dirvad
 itass2;SS1;Dir;Grimaldi;italig.ss001dirgri
@@ -47,8 +55,18 @@ itass2;SS9;;Lodi;itaemi.ss009,italom.ss009
 itass2;SS9;Dir;;italom.ss009dir
 itass2;SS9;Var;Tangenziale Nord;itaemi.ss009varnor
 itass2;SS9;Var;Tangenziale Sud;itaemi.ss009varsud
+itass2;SS10;;Pino Torines;itapie.ss010pin
+itass2;SS10;;Villanova d'Asti;itapie.ss010
+itass2;SS10;;Castello d'Annone;itapie.ss010cas
+itass2;SS10;;Marengo;itapie.ss010mar
+itass2;SS10;;Pontecurone;itapie.ss010pon
 itass2;SS10;;;itaemi.ss010
+itass2;SS10;Racc;;itapie.ss010racc
 itass2;SS10;Var;;italom.ss010var
+itass2;SS11;;Settimo Torinese;itapie.ss011set
+itass2;SS11;;Rondissone;itapie.ss011ron
+itass2;SS11;;Vercelli;itapie.ss011
+itass2;SS11;;Trecate;itapie.ss011tre
 itass2;SS11;Dir;;italom.ss011dir
 itass2;SS12;;Pisa;itatos.ss012pis
 itass2;SS12;;Lucca;itatos.ss012luc
@@ -95,6 +113,9 @@ itass2;SS18;Var;Omiganano Salento;itacam.ss018varomi
 itass2;SS18;Var;Cilentana;itacam.ss018varcli
 itass2;SS19;;;itacam.ss019,itabas.ss019,itacam.ss019for,itabas.ss019mon
 itass2;SS19;Ter;;itacam.ss019ter
+itass2;SS20;;San Giovanni;itapie.ss020san
+itass2;SS20;;Cavallermaggiore;itapie.ss020cav
+itass2;SS20;;Cuneo;itapie.ss020cun
 itass2;SS20;;Borgo San Dalmazzo;itapie.ss020
 itass2;SS20;;Ventimiglia;italig.ss020
 itass2;SS21;;;itapie.ss021
@@ -106,6 +127,7 @@ itass2;SS26;Dir;;itaval.ss026dir
 itass2;SS27;;Saint Bernard;itaval.ss027
 itass2;SS27;;Variney;itaval.ss027var
 itass2;SS27;Var;;itaval.ss027vargig
+itass2;SS28;;Genola;itapie.ss028gen
 itass2;SS28;;Mondovi;itapie.ss028,italig.ss028
 itass2;SS28;;Cesio;italig.ss028ces
 itass2;SS28;;Imperia;italig.ss028imp
@@ -113,10 +135,16 @@ itass2;SS28;Var;Pieve di Teco;italig.ss028varpie
 itass2;SS28;Var;Chiusanico;italig.ss028varchi
 itass2;SS29;;;italig.ss029
 itass2;SS29;Var;;italig.ss029var
-itass2;SS30;;;italig.ss030
-itass2;SS32;;;itapie.ss032
+itass2;SS30;;;italig.ss030,itapie.ss030
+itass2;SS31;;;itapie.ss031
+itass2;SS32;;Campagnola;itapie.ss032cam
+itass2;SS32;;Oleggio;itapie.ss032
+itass2;SS32;Dir;;itapie.ss032dir
+itass2;SS32;Var;;itapie.ss032var
 itass2;SS33;;;italom.ss033,itapie.ss033
+itass2;SS33;Racc;;itapie.ss033racc
 itass2;SS34;;;itapie.ss034
+itass2;SS35;;;itapie.ss035,italig.ss035
 itass2;SS36;;;italom.ss036
 itass2;SS36;Racc;;italom.ss036racc
 itass2;SS37;;;italom.ss037
@@ -289,6 +317,9 @@ itass2;SS132;;;itasar.ss132
 itass2;SS133;;;itasar.ss133
 itass2;SS133;Bis;;itasar.ss133bis
 itass2;SS134;;;itasar.ss134
+itass2;SS142;;Brusnengo;itapie.ss142bru
+itass2;SS142;;Romagnano Sesia;itapie.ss142
+itass2;SS142;;Oleggio Castello;itapie.ss142ole
 itass2;SS145;;Castellammare di Stabia;itacam.ss145
 itass2;SS145;;Sorrento;itacam.ss145sor
 itass2;SS145;Var;;itacam.ss145var
@@ -339,13 +370,21 @@ itass2;SS202;Dir;;itafri.ss202dir
 itass2;SS205;;;itaumb.ss205
 itass2;SS209;;;itaumb.ss209
 itass2;SS210;;;itamar.ss210
+itass2;SS211;;Tortona;itapie.ss211
+itass2;SS211;;Novara;itapie.ss211nov
+itass2;SS211;Bis;;itapie.ss211bis
 itass2;SS212;;Benevento;itacam.ss212ben
 itass2;SS212;;Reino;itacam.ss212,itamol.ss212
 itass2;SS212;Var;;itacam.ss212var
 itass2;SS214;;;italaz.ss214
 itass2;SS219;;;itaumb.ss219
 itass2;SS223;;;itatos.ss223
+itass2;SS228;;;itapie.ss228
+itass2;SS229;;Momo;itapie.ss229
+itass2;SS229;;Omegna;itapie.ss229ome
+itass2;SS229;Var;;itapie.ss229var
 itass2;SS231;;;itapie.ss231
+itass2;SS232;Var;;itapie.ss232var
 itass2;SS233;;;italom.ss233
 itass2;SS237;;;itatre.ss237
 itass2;SS237;Dir;;itatre.ss237dir
@@ -396,6 +435,11 @@ itass2;SS292;Dir;;itasar.ss292dir
 itass2;SS293;;;itasar.ss293
 itass2;SS295;;;itasar.ss295
 itass2;SS296;;;italaz.ss296
+itass2;SS299;;Novara;itapie.ss299
+itass2;SS299;;Ghemme;itapie.ss299ghe
+itass2;SS299;;Grignasco;itapie.ss299gri
+itass2;SS299;Dir;;itapie.ss299dir
+itass2;SS299;Var;;itapie.ss299var
 itass2;SS301;;;italom.ss301
 itass2;SS303;;;itacam.ss303
 itass2;SS308;;;itaemi.ss308
@@ -407,12 +451,15 @@ itass2;SS320;;;itaumb.ss320
 itass2;SS324;;;itaemi.ss324
 itass2;SS325;;;itaemi.ss325
 itass2;SS330;;;itatos.ss330,italig.ss330
-itass2;SS335;;;itaval.ss335
-itass2;SS335;Dir;;itaval.ss335dir
+itass2;SS331;;;italig.ss331
+itass2;SS334;;;italig.ss334,itapie.ss334
+itass2;SS335;;;itapie.ss335
+itass2;SS335;Dir;;itapie.ss335dir
 itass2;SS336;;;italom.ss336,itapie.ss336
 itass2;SS336;Dir;Malpensa;italom.ss336dirmal
 itass2;SS336;Dir;Vanzaghello;italom.ss336dirvan
 itass2;SS337;;;itapie.ss337
+itass2;SS338;;;itapie.ss338
 itass2;SS340;;;italom.ss340
 itass2;SS340;Dir;;italom.ss340dir
 itass2;SS341;;;itapie.ss341,italom.ss341
@@ -444,6 +491,7 @@ itass2;SS389;Var;;itasar.ss389var
 itass2;SS390;;;itasar.ss390
 itass2;SS391;;;itasar.ss391
 itass2;SS392;;;itasar.ss392
+itass2;SS393;;;itapie.ss393
 itass2;SS394;;;italom.ss394
 itass2;SS398;;;itatos.ss398
 itass2;SS400;;;itacam.ss400
@@ -459,6 +507,7 @@ itass2;SS423;;;itamar.ss423
 itass2;SS424;;;itamar.ss424
 itass2;SS425;;;itacam.ss425
 itass2;SS427;;;itasar.ss427
+itass2;SS432;;;italig.ss432
 itass2;SS433;;;itamar.ss433
 itass2;SS434;;;itaven.ss434
 itass2;SS439;;;itatos.ss439
@@ -467,11 +516,20 @@ itass2;SS439;Var;;itatos.ss439var
 itass2;SS442;;;itasar.ss442
 itass2;SS448;;;itaumb.ss448
 itass2;SS452;;;itaumb.ss452,itamar.ss452
+itass2;SS453;;;italig.ss453
+itass2;SS456;;Montegrosso d'Asti;itapie.ss456mon
+itass2;SS456;;Nizza Monferrato;itapie.ss456niz
+itass2;SS456;;Ovada;itapie.ss456,italig.ss456
+itass2;SS456;Var;;itapie.ss456var
+itass2;SS457;;;itapie.ss457
+itass2;SS457;Var;;itapie.ss457var
+itass2;SS466;;;itapie.ss460
 itass2;SS466;;;itasar.ss466
 itass2;SS470;Dir;;italom.ss470dir
 itass2;SS471;;;itaumb.ss471,italaz.ss471
 itass2;SS481;;;itabas.ss481,itacal.ss481
 itass2;SS487;;;itaabr.ss487
+itass2;SS494;;;itapie.ss494
 itass2;SS494;;;italom.ss494
 itass2;SS496;;;itaemi.ss496
 itass2;SS508;;;itatre.ss508
@@ -480,26 +538,37 @@ itass2;SS516;;;itaven.ss516
 itass2;SS516;Dir;;itaven.ss516dir
 itass2;SS517;Dir;;itacam.ss517dir
 itass2;SS517;Var;;itacam.ss517var
+itass2;SS523;;;italig.ss523
 itass2;SS526;;;italom.ss526
+itass2;SS527;;;itapie.ss527
 itass2;SS531;;;itacal.ss531
 itass2;SS534;;;itacal.ss534
 itass2;SS537;;;itasar.ss537
 itass2;SS539;;;itaabr.ss539
 itass2;SS539;Dir;;itaabr.ss539dir
 itass2;SS547;;;itasar.ss547
+itass2;SS549;;;itapie.ss549
 itass2;SS553;;;itaabr.ss553
 itass2;SS554;;;itasar.ss554
 itass2;SS557;;;itasic.ss557
 itass2;SS560;;;itasic.ss560
 itass2;SS561;;;itasic.ss561
+itass2;SS565;;;itapie.ss565
 itass2;SS571;;;itamar.ss571
 itass2;SS575;;;itasic.ss575
 itass2;SS576;;;itasic.ss576
 itass2;SS578;;;itaabr.ss578,italaz.ss578
+itass2;SS582;;;itapie.ss582,italig.ss582
 itass2;SS584;;;itaabr.ss584
 itass2;SS585;;;itabas.ss585
 itass2;SS585;Dir;;itabas.ss585dir
+itass2;SS586;;;italig.ss586
+itass2;SS589;;;Cavour;itapie.ss589
+itass2;SS589;;(South) Pinerolo;itapie.ss589spi
+itass2;SS589;;Pinerolo;itapie.ss589pin
 itass2;SS591;Bis;;italom.ss591bis
+itass2;SS596;;;itapie.ss596
+itass2;SS596;Dir;;itapie.ss596dir
 itass2;SS597;;Piaghe;itasar.ss597pia
 itass2;SS597;;Chilivani;itasar.ss597
 itass2;SS598;;;itacam.ss598,itabas.ss598
@@ -519,6 +588,7 @@ itass2;SS626;;;itasic.ss626
 itass2;SS626;Dir;;itasic.ss626dir
 itass2;SS629;;;italaz.ss629
 itass2;SS630;;;italaz.ss630
+itass2;SS631;;;itapie.ss631
 itass2;SS640;;;itasic.ss640
 itass2;SS640;Dir;;itasic.ss640dir
 itass2;SS641;;;itatre.ss641
@@ -533,6 +603,7 @@ itass2;SS649;Dir;;itaabr.ss649dir
 itass2;SS650;;;itamol.ss650,itaabr.ss650sch,itamol.ss650tri,itaabr.ss650san,itamol.ss650mns,itaabr.ss650cel,itamol.ss650mon,itaabr.ss650
 itass2;SS652;;;itamol.ss652cer,itaabr.ss652cas,itamol.ss652san,itaabr.ss652ate,itamol.ss652cas,itaabr.ss652
 itass2;SS653;;;itabas.ss653
+itass2;SS654;;;italig.ss654
 itass2;SS655;;;itapug.ss655,itabas.ss655lav,itapug.ss655spi,itabas.ss655
 itass2;SS656;;;itaabr.ss656
 itass2;SS656;Dir;;itaabr.ss656dir
@@ -540,6 +611,7 @@ itass2;SS658;;;itabas.ss658
 itass2;SS658;Dir;;itabas.ss658dir
 itass2;SS659;;;itapie.ss659
 itass2;SS660;;;itacal.ss660
+itass2;SS662;;;itapie.ss662
 itass2;SS665;;;itatos.ss665,itaemi.ss665
 itass2;SS672;;;itasar.ss672
 itass2;SS673;;;itapug.ss673
@@ -632,4 +704,7 @@ itass2;SS744;;;itamar.ss744,itaemi.ss744,itamar.ss744mon
 itass2;SS749;;;italaz.ss749
 itass2;SS750;;;itapug.ss750
 itass2;SS752;;;itacam.ss752
-itass2;NSA568;;;italaz.nsa568
+itass2;SS757;;;itapie.ss757
+itass2;SS758;;;itapie.ss758
+itass2;SS759;;;itapie.ss759
+itass2;SS760;;;itapie.ss760
