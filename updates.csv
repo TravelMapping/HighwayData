@@ -2282,6 +2282,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2025-04-15;(Germany) North Rhine-Westphalia;B51 (Köln);deunw.b051kol;Route relocated from through Meschenich, and onto western bypass
 2024-12-15;(Germany) North Rhine-Westphalia;L827 (Main);deunw.l827;Route truncated at west end from L616 to east of Steinheim, and reextended to B239
 2024-12-15;(Germany) North Rhine-Westphalia;L827 (Steinheim);deunw.l827ste;New Route (former part of main route)
 2024-12-14;(Germany) North Rhine-Westphalia;L673;deunw.l673;Route relocated Hagener Straße and Ostenstraße, and onto Beckestraße, Karl-Gerharts-Straße and Bethunestraße in Schwerte
@@ -8806,6 +8807,17 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2025-04-13;(USA) North Carolina;I-74 (High Point);nc.i074hig;extended southeast with US 74 to east end of Rockingham bypass
+2025-04-13;(USA) North Carolina;I-74fut (Rockingham);;deleted - replaced by I-74 (High Point)
+2025-04-13;(USA) North Carolina;NC 36;nc.036;new route that replaces NC 42 from NC 50 to I-42 and is new routing entirely from I-42 to US 70
+2025-04-13;(USA) North Carolina;NC 42;nc.042;truncated to US 70 Clayton and west of NC 50 becomes NC 42 (Sanford) and NC 50 to I-42 becomes part of NC 36
+2025-04-13;(USA) North Carolina;NC 42 (Sanford);nc.nc042san;new route replacing NC 42 west of NC 50
+2025-04-13;(USA) North Carolina;US 70;nc.us070;removed from I-40 and I-42 to replace US 70 Bus (Smithfield) through Clayton
+2025-04-13;(USA) North Carolina;US 70 Bus (Smithfield);nc.us070bussmi;west end truncated to I-42 as US 70 replaced it west to I-40 Garner
+2025-04-13;(USA) North Carolina;US 311;nc.us311;south end truncated to NC 74
+2025-04-13;(USA) North Carolina;I-85 Bus (Greensboro);;deleted - route remains US 29 and I-40
+2025-04-13;(USA) North Carolina;I-85 Bus (Lexington);;deleted - route remains US 29
+2025-04-13;(USA) North Carolina;US 70 Byp (Goldsboro);;deleted - route replaced by I-42 (Goldsboro)
 2025-02-01;(USA) North Carolina;I-73;nc.i073;extended south as new freeway to US 74
 2025-02-01;(USA) North Carolina;I-74 (High Point);nc.i074hig;extended south as new freeway to US 74
 2024-10-02;(USA) North Carolina;I-42;nc.i042;Added route - addition to US 70 in Garner area
@@ -9811,6 +9823,10 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2025-04-13;(USA) Virginia; US 58 Alt Bus (Dryden);va.us058altbusdry;new route added
+2025-04-13;(USA) Virginia; I-395;va.i395;exit 8C renumbered as 8B with no alt label possible
+2025-04-13;(USA) Virginia; US 58 Alt (Abingdon);va.us058altabi;VA 158 E and W labels swapped
+2025-04-13;(USA) Virginia; VA 375;va.va375;route now posted with shields
 2025-02-01;(USA) Virginia;VA 92 (Clover);va.va092clo;renamed US 360 waypoint to US 360Clo with no alt label in anticipation of merging the two VA 92 files
 2025-02-01;(USA) Virginia;VA 379 (Main Entrance);va.va379mai;new route added
 2025-02-01;(USA) Virginia;VA 72 Trk (Coeburn);va.va072trkcoe;new route added from Dungannon to Coeburn fully concurrent with VA 65 and US 58 ALT
