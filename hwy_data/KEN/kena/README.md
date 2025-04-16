@@ -1,0 +1,5 @@
+Routes were renumbered in 2016. Signs with the new numbers [do exist](https://www.google.com/maps/@-3.9909587,39.5678498,3a,43.4y,128.56h,98.18t/data=!3m7!1e1!3m5!1scyPT_vXjfCS0e3IF7YohZg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-8.184795416823818%26panoid%3DcyPT_vXjfCS0e3IF7YohZg%26yaw%3D128.55555630254298!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQwOS4wIKXMDSoASAFQAw%3D%3D).
+
+Sources:
+* https://maps.krb.go.ke/kenya-roads-board12769/maps/109276/1-road-network-classification-
+* https://igrtc.go.ke/views/img/resource/IGRTC/Legal%20Notice%20No.%202%20of%202016-%20roads%20and%20libraries%20(1).pdf
