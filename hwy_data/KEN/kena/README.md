@@ -3,3 +3,6 @@ Routes were renumbered in 2016. Signs with the new numbers [do exist](https://ww
 Sources:
 * https://maps.krb.go.ke/kenya-roads-board12769/maps/109276/1-road-network-classification-
 * https://igrtc.go.ke/views/img/resource/IGRTC/Legal%20Notice%20No.%202%20of%202016-%20roads%20and%20libraries%20(1).pdf
+
+Notes on routes:
+* A2 [is signed via Forest Road (Wangari Maathai Road)](https://www.google.com/maps/@-1.2591613,36.845675,3a,48.9y,239.84h,100.68t/data=!3m7!1e1!3m5!1s0by_sYM7y6Nf2DahfdIq-g!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-10.675915627756623%26panoid%3D0by_sYM7y6Nf2DahfdIq-g%26yaw%3D239.83897261611958!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDQxNC4xIKXMDSoASAFQAw%3D%3D) despite the official map showing it using Murang'a Road.
