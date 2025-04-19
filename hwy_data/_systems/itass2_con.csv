@@ -81,10 +81,13 @@ itass2;SS12;Var;Ponte a Moriano;itatos.ss012var
 itass2;SS12;Var;Mirandola;itaemi.ss012var
 itass2;SS12;Var;Isola della Scala;itaven.ss012var
 itass2;SS13;;Mogliano Veneto;itaven.ss013mog
-itass2;SS13;;Conegliano;itaven.ss013,itafri.ss013
-itass2;SS13;;Tarvisio;itafri.ss013tar
+itass2;SS13;;Conegliano;itaven.ss013,itafri.ss013sar
+itass2;SS13;;Fontanafredda;itafri.ss013fon
+itass2;SS13;;Udine;itafri.ss013
 itass2;SS14;;San Donà di Piave;itaven.ss014
-itass2;SS14;;San Michele al Tagliamento;itaven.ss014smt,itafri.ss014smt
+itass2;SS14;;San Michele al Tagliamento;itaven.ss014smt,itafri.ss014
+itass2;SS14;;Roncho dei Legionari;itafri.ss014ron
+itass2;SS14;;Sistiana;itafri.ss014sis
 itass2;SS14;;Trieste;itafri.ss014tri
 itass2;SS14;Racc;;itafri.ss014racc
 itass2;SS14;Var;Musile di Piave;itaven.ss014varmus
@@ -178,13 +181,15 @@ itass2;SS50;;Belluno;itaven.ss050
 itass2;SS50;BisVar;;itaven.ss050bisvar
 itass2;SS51;;;itaven.ss051,itatre.ss051
 itass2;SS51;Bis;;itaven.ss051bis
-itass2;SS52;;;itaven.ss052,itatre.ss052
+itass2;SS52;;;itafri.ss052,itaven.ss052,itatre.ss052
 itass2;SS52;Bis;;itafri.ss052bis
 itass2;SS52;BisDir;;itafri.ss052bisdir
 itass2;SS53;;;itaven.ss053
+itass2;SS54;;Remanzacco;itafri.ss054rem
 itass2;SS54;;Cividale del Friuli;itafri.ss054
 itass2;SS54;;Tarvisio;itafri.ss054tar
 itass2;SS54;Dir;;itafri.ss054dir
+itass2;SS54;Var;;itafri.ss054var
 itass2;SS55;;;itafri.ss055
 itass2;SS58;;;itafri.ss058
 itass2;SS62;;;italig.ss062,itatos.ss062,itaemi.ss062
@@ -379,6 +384,7 @@ itass2;SS212;Var;;itacam.ss212var
 itass2;SS214;;;italaz.ss214
 itass2;SS219;;;itaumb.ss219
 itass2;SS223;;;itatos.ss223
+itass2;SS225;;;italig.ss225
 itass2;SS228;;;itapie.ss228
 itass2;SS229;;Momo;itapie.ss229
 itass2;SS229;;Omegna;itapie.ss229ome
@@ -620,6 +626,9 @@ itass2;SS674;;;itatos.ss674
 itass2;SS675;;;italaz.ss675,itaumb.ss675
 itass2;SS675;Bis;;itaumb.ss675bis
 itass2;SS675;Dir;;itaumb.ss675dir
+itass2;SS676;;Tangenziale Sud di Udini (Paparotti);itafri.ss676
+itass2;SS676;;Tangenziale Sud di Udini (Udine);itafri.ss676udi
+itass2;SS677;;;itafri.ss677
 itass2;SS679;;;itatos.ss679
 itass2;SS680;;;itatos.ss680
 itass2;SS681;;;itamar.ss681
