@@ -71,7 +71,8 @@ itass2;SS11;Dir;;italom.ss011dir
 itass2;SS12;;Pisa;itatos.ss012pis
 itass2;SS12;;Lucca;itatos.ss012luc
 itass2;SS12;;Modena;itatos.ss012mod,itaemi.ss012mod
-itass2;SS12;;Ostiglia;itaemi.ss012ost,italom.ss012ost,itaven.ss012ost
+itass2;SS12;;Ostiglia;itaemi.ss012ost,italom.ss012ost,itaven.ss012nog
+itass2;SS12;;Buttapura;itaven.ss012but
 itass2;SS12;;Trento;itaven.ss012,itatre.ss012
 itass2;SS12;;Sterzing;itatre.ss012ste
 itass2;SS12;Dir;;itaemi.ss012dir
@@ -81,19 +82,23 @@ itass2;SS12;Var;Ponte a Moriano;itatos.ss012var
 itass2;SS12;Var;Mirandola;itaemi.ss012var
 itass2;SS12;Var;Isola della Scala;itaven.ss012var
 itass2;SS13;;Mogliano Veneto;itaven.ss013mog
-itass2;SS13;;Conegliano;itaven.ss013,itafri.ss013sar
+itass2;SS13;;Spresiano;itaven.ss013
+itass2;SS13;;Sacile;itaven.ss013ors,itafri.ss013sar
 itass2;SS13;;Fontanafredda;itafri.ss013fon
 itass2;SS13;;Udine;itafri.ss013
-itass2;SS14;;San Donà di Piave;itaven.ss014
-itass2;SS14;;San Michele al Tagliamento;itaven.ss014smt,itafri.ss014
+itass2;SS14;;Musile di Piave;itaven.ss014
+itass2;SS14;;Ceggia;itaven.ss014ceg
+itass2;SS14;;Cervignano del Friuli;itaven.ss014smt,itafri.ss014
 itass2;SS14;;Roncho dei Legionari;itafri.ss014ron
 itass2;SS14;;Sistiana;itafri.ss014sis
 itass2;SS14;;Trieste;itafri.ss014tri
 itass2;SS14;Racc;;itafri.ss014racc
+itass2;SS14;Var;Campalto;itaven.ss014varcam
 itass2;SS14;Var;Musile di Piave;itaven.ss014varmus
 itass2;SS14;Var;San Donà di Piave;itaven.ss014varsdp
 itass2;SS14;Var;Portogruaro;itaven.ss014varpor
-itass2;SS16;;Rovigo;itaven.ss016rov,itaemi.ss016rov
+itass2;SS16;;Montegrotto Terme;itaven.ss016mon
+itass2;SS16;;Rovigo;itaven.ss016,itaemi.ss016rov
 itass2;SS16;;Ravenna;itaemi.ss016,itamar.ss016,itaabr.ss016
 itass2;SS16;;Ortona;itaabr.ss016ort,itamol.ss016ort
 itass2;SS16;;Bari;itamol.ss016bar,itapug.ss016bar
@@ -179,8 +184,10 @@ itass2;SS49;Bis;;itatre.ss049bis
 itass2;SS50;;Mezzano;itatre.ss050
 itass2;SS50;;Belluno;itaven.ss050
 itass2;SS50;BisVar;;itaven.ss050bisvar
-itass2;SS51;;;itaven.ss051,itatre.ss051
+itass2;SS51;;Conegliano;itaven.ss051con
+itass2;SS51;;Cortina d'Ampezzo;itaven.ss051,itatre.ss051
 itass2;SS51;Bis;;itaven.ss051bis
+itass2;SS51;Var;;itaven.ss051var
 itass2;SS52;;;itafri.ss052,itaven.ss052,itatre.ss052
 itass2;SS52;Bis;;itafri.ss052bis
 itass2;SS52;BisDir;;itafri.ss052bisdir
@@ -540,7 +547,8 @@ itass2;SS494;;;italom.ss494
 itass2;SS496;;;itaemi.ss496
 itass2;SS508;;;itatre.ss508
 itass2;SS514;;;itasic.ss514
-itass2;SS516;;;itaven.ss516
+itass2;SS516;;Ponte San Nicolo;itaven.ss516pon
+itass2;SS516;;Codevigo;itaven.ss516
 itass2;SS516;Dir;;itaven.ss516dir
 itass2;SS517;Dir;;itacam.ss517dir
 itass2;SS517;Var;;itacam.ss517var
