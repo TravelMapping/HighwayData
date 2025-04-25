@@ -72,6 +72,7 @@ itass;SS12;;Pisa;ita.ss012pis
 itass;SS12;;Lucca;ita.ss012luc
 itass;SS12;;Modena;ita.ss012mod
 itass;SS12;;Ostiglia;ita.ss012ost
+itass;SS12;;Buttapura;ita.ss012but
 itass;SS12;;Trento;ita.ss012
 itass;SS12;;Sterzing;ita.ss012ste
 itass;SS12;Dir;Pievepelago;ita.ss012dirpie
@@ -81,18 +82,22 @@ itass;SS12;Var;Ponte a Moriano;ita.ss012varmor
 itass;SS12;Var;Mirandola;ita.ss012varmir
 itass;SS12;Var;Isola della Scala;ita.ss012variso
 itass;SS13;;Mogliano Veneto;ita.ss013mog
-itass;SS13;;Conegliano;ita.ss013
+itass;SS13;;Spresiano;ita.ss013spr
+itass;SS13;;Sacile;ita.ss013
 itass;SS13;;Fontanafredda;ita.ss013fon
 itass;SS13;;Udine;ita.ss013udi
-itass;SS14;;San Donà di Piave;ita.ss014
-itass;SS14;;San Michele al Tagliamento;ita.ss014smt
+itass;SS14;;Musile di Piave;ita.ss014mus
+itass;SS14;;Ceggia;ita.ss014ceg
+itass;SS14;;Cervignano del Friuli;ita.ss014
 itass;SS14;;Sistiana;ita.ss014sis
 itass;SS14;;Roncho dei Legionari;ita.ss014ron
 itass;SS14;;Trieste;ita.ss014tri
 itass;SS14;Racc;Monfalcone;ita.ss014raccmon
+itass;SS14;Var;Campalto;ita.ss014varcam
 itass;SS14;Var;Musile di Piave;ita.ss014varmus
 itass;SS14;Var;San Donà di Piave;ita.ss014varsdp
 itass;SS14;Var;Portogruaro;ita.ss014varpor
+itass;SS16;;Montegrotto Terme;ita.ss016mon
 itass;SS16;;Rovigo;ita.ss016rov
 itass;SS16;;Ravenna;ita.ss016
 itass;SS16;;Ortona;ita.ss016ort
@@ -179,11 +184,15 @@ itass;SS48;;;ita.ss048
 itass;SS48;Bis;Schluderbach;ita.ss048bissch
 itass;SS49;;;ita.ss049
 itass;SS49;Bis;Schabs;ita.ss049bissch
+itass;SS50;;Ponte nelle Alpi;ita.ss050pon
+itass;SS50;;Santa Giustina;ita.ss050
+itass;SS50;;Mugnai;ita.ss050mug
 itass;SS50;;Mezzano;ita.ss050mez
-itass;SS50;;Belluno;ita.ss050
 itass;SS50;BisVar;Feltre;ita.ss050bisvarfel
-itass;SS51;;;ita.ss051
+itass;SS51;;Conegliano;ita.ss051con
+itass;SS51;;Cortina d'Ampezzo;ita.ss051
 itass;SS51;Bis;Lozzo di Cadore;ita.ss051bisloz
+itass;SS51;Var;Vittorio Veneto;ita.ss051varvit
 itass;SS52;;;ita.ss052
 itass;SS52;Bis;Plöckenpass;ita.ss052bisplo
 itass;SS52;BisDir;Tolmezzo;ita.ss052bisdirtol
@@ -449,6 +458,7 @@ itass;SS299;;Ghemme;ita.ss299ghe
 itass;SS299;;Grignasco;ita.ss299gri
 itass;SS299;Dir;;ita.ss299dir
 itass;SS299;Var;;ita.ss299var
+itass;SS300;;;ita.ss300
 itass;SS301;;;ita.ss301
 itass;SS303;;;ita.ss303
 itass;SS308;;;ita.ss308
@@ -464,25 +474,34 @@ itass;SS331;;;ita.ss331
 itass;SS334;;;ita.ss334
 itass;SS335;;;ita.ss335
 itass;SS335;Dir;Gad;ita.ss335dirgad
-itass;SS336;;;ita.ss336
+itass;SS336;;Cardano al Campo;ita.ss336
+itass;SS336;;Varallo Pombia;ita.ss336var
 itass;SS336;Dir;Malpensa;ita.ss336dirmal
 itass;SS336;Dir;Vanzaghello;ita.ss336dirvan
 itass;SS337;;;ita.ss337
 itass;SS338;;;ita.ss338
 itass;SS340;;;ita.ss340
 itass;SS340;Dir;Gravedona;ita.ss340dirgra
-itass;SS341;;;ita.ss341
-itass;SS342;;;ita.ss342
-itass;SS343;;;ita.ss343
+itass;SS341;;Castano Primo;ita.ss341
+itass;SS341;;Albizzate;ita.ss341alb
+itass;SS342;;Olgiate Molgora;ita.ss342
+itass;SS342;;Maccio;ita.ss342mac
+itass;SS342;;Binago;ita.ss342bin
+itass;SS342;;Malnate;ita.ss342mal
+itass;SS342;Dir;;ita.ss342dir
+itass;SS343;;Casalmaggiore;ita.ss343
+itass;SS343;;Asola;ita.ss343aso
 itass;SS344;;Induno Olona;ita.ss344
 itass;SS344;;Besano;ita.ss344bes
 itass;SS344;Var;Arcisate;ita.ss344vararc
+itass;SS344;Dir;;ita.ss344dir
 itass;SS346;;;ita.ss346
 itass;SS347;;;ita.ss347
 itass;SS349;;;ita.ss349
 itass;SS349;Dir;Nosellari;ita.ss349dirnos
 itass;SS350;;;ita.ss350
 itass;SS357;;;ita.ss357
+itass;SS358;;;ita.ss358
 itass;SS361;;;ita.ss361
 itass;SS362;;;ita.ss362
 itass;SS369;;;ita.ss369
@@ -501,14 +520,17 @@ itass;SS390;;;ita.ss390
 itass;SS391;;;ita.ss391
 itass;SS392;;;ita.ss392
 itass;SS393;;;ita.ss393
-itass;SS394;;;ita.ss394
+itass;SS394;;Gemonio;ita.ss394
+itass;SS394;;Maccagno;ita.ss394mac
 itass;SS398;;;ita.ss398
 itass;SS400;;;ita.ss400
 itass;SS401;;;ita.ss401
 itass;SS401;Dir;Rocchetta Sant'Antonio;ita.ss401dirrsa
+itass;SS402;;;ita.ss402
 itass;SS407;;;ita.ss407
 itass;SS410;;;ita.ss410
 itass;SS410;Dir;Canicatti;ita.ss410dircan
+itass;SS412;;;ita.ss412
 itass;SS417;;;ita.ss417
 itass;SS418;;;ita.ss418
 itass;SS421;;;ita.ss421
@@ -533,22 +555,36 @@ itass;SS456;Var;;ita.ss456var
 itass;SS457;;;ita.ss457
 itass;SS457;Var;;ita.ss457var
 itass;SS460;;;ita.ss460
+itass;SS461;;;ita.ss461
 itass;SS466;;;ita.ss466
+itass;SS469;;;ita.ss469
+itass;SS470;;;ita.ss470
 itass;SS470;Dir;;ita.ss470dir
 itass;SS471;;;ita.ss471
 itass;SS481;;;ita.ss481
 itass;SS487;;;ita.ss487
-itass;SS494;;;ita.ss494ale
-itass;SS494;;;ita.ss494
+itass;SS494;;Trezzano sul Naviglio;ita.ss494tre
+itass;SS494;;Soria Vecchia;ita.ss494sor
+itass;SS494;;Morata;ita.ss494
+itass;SS494;;Valenza;ita.ss494val
+itass;SS494;Dir;(north) Vigevano;ita.ss494dirnvi
+itass;SS494;Dir;(south) Vigevano;ita.ss494dirsvi
+itass;SS494;Var;;ita.ss494var
 itass;SS508;;;ita.ss508
 itass;SS514;;;ita.ss514
-itass;SS516;;;ita.ss516
+itass;SS516;;Ponte San Nicolo;ita.ss516pon
+itass;SS516;;Codevigo;ita.ss516
 itass;SS516;Dir;Liettoli;ita.ss516dirlie
 itass;SS517;Dir;Torre Orsala;ita.ss517dirtor
 itass;SS517;Var;Caselle in Pittari;ita.ss517varcas
 itass;SS523;;;ita.ss523
-itass;SS526;;;ita.ss526
-itass;SS527;;;ita.ss527
+itass;SS526;;Magenta;ita.ss526mag
+itass;SS526;;Motta Visconti;ita.ss526
+itass;SS527;;Valera;ita.ss527val
+itass;SS527;;Bovisio Masciago;ita.ss527
+itass;SS527;;Uboldo;ita.ss527ubo
+itass;SS527;;Cascina Elisa;ita.ss527cas
+itass;SS527;;Sant'Anna Ovest;ita.ss527sao
 itass;SS531;;;ita.ss531
 itass;SS534;;;ita.ss534
 itass;SS537;;;ita.ss537
@@ -576,7 +612,9 @@ itass;SS589;;(South) Pinerolo;ita.ss589spi
 itass;SS589;;Pinerolo;ita.ss589pin
 itass;SS591;Bis;Orio al Serio;ita.ss591bisori
 itass;SS596;;;ita.ss596
-itass;SS596;Dir;;ita.ss596dir
+itass;SS596;Dir;Cozza;ita.ss596dir
+itass;SS596;Dir;Fiume Sesia;ita.ss596dirses
+itass;SS596;Dir;;ita.ss596var
 itass;SS597;;Piaghe;ita.ss597pia
 itass;SS597;;Chilivani;ita.ss597
 itass;SS598;;;ita.ss598
@@ -597,6 +635,9 @@ itass;SS626;Dir;Ravanusa;ita.ss626dirrav
 itass;SS629;;;ita.ss629
 itass;SS630;;;ita.ss630
 itass;SS631;;;ita.ss631
+itass;SS639;;Valmadrera;ita.ss639val
+itass;SS639;;Vercurago;ita.ss639ver
+itass;SS639;;Cisano Bergamasco;ita.ss639
 itass;SS640;;;ita.ss640
 itass;SS640;Dir;Caltanissetta;ita.ss640dircal
 itass;SS641;;;ita.ss641
@@ -621,6 +662,8 @@ itass;SS659;;;ita.ss659
 itass;SS660;;;ita.ss660
 itass;SS662;;;ita.ss662
 itass;SS665;;;ita.ss665
+itass;SS671;;;ita.ss671
+itass;SS671;Dir;;ita.ss671dir
 itass;SS672;;;ita.ss672
 itass;SS673;;;ita.ss673
 itass;SS673;Dir;Foggia;ita.ss673dirfog
@@ -715,6 +758,10 @@ itass;SS744;;;ita.ss744
 itass;SS749;;;ita.ss749
 itass;SS750;;;ita.ss750
 itass;SS752;;;ita.ss752
+itass;SS753;;;ita.ss753
+itass;SS754;;;ita.ss754
+itass;SS755;;;ita.ss755
+itass;SS756;;;ita.ss756
 itass;SS757;;;ita.ss757
 itass;SS758;;;ita.ss758
 itass;SS759;;;ita.ss759
