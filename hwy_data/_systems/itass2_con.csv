@@ -51,7 +51,9 @@ itass2;SS9;;Castelfranco Emilia;itaemi.ss009cas
 itass2;SS9;;Rubiera;itaemi.ss009rub
 itass2;SS9;;Sant'Ilario d'Enza;itaemi.ss009sie
 itass2;SS9;;Fidenza;itaemi.ss009fid
-itass2;SS9;;Lodi;itaemi.ss009,italom.ss009
+itass2;SS9;;Codogno;itaemi.ss009,italom.ss009cod
+itass2;SS9;;Lodi;italom.ss009
+itass2;SS9;;San Giuliano Milanese;italom.ss009sgm
 itass2;SS9;Dir;;italom.ss009dir
 itass2;SS9;Var;Tangenziale Nord;itaemi.ss009varnor
 itass2;SS9;Var;Tangenziale Sud;itaemi.ss009varsud
@@ -59,19 +61,38 @@ itass2;SS10;;Pino Torines;itapie.ss010pin
 itass2;SS10;;Villanova d'Asti;itapie.ss010
 itass2;SS10;;Castello d'Annone;itapie.ss010cas
 itass2;SS10;;Marengo;itapie.ss010mar
-itass2;SS10;;Pontecurone;itapie.ss010pon
-itass2;SS10;;;itaemi.ss010
+itass2;SS10;;Pontecurone;itapie.ss010pon,italom.ss010vog
+itass2;SS10;;;italom.ss010str,itaemi.ss010,italom.ss010cre
+itass2;SS10;;Piadena;italom.ss010
+itass2;SS10;;Castel d'Ario;italom.ss010cas
 itass2;SS10;Racc;;itapie.ss010racc
 itass2;SS10;Var;;italom.ss010var
 itass2;SS11;;Settimo Torinese;itapie.ss011set
 itass2;SS11;;Rondissone;itapie.ss011ron
 itass2;SS11;;Vercelli;itapie.ss011
-itass2;SS11;;Trecate;itapie.ss011tre
+itass2;SS11;;Magenta;itapie.ss011tre,italom.ss011mag;
+itass2;SS11;;Sedriano;italom.ss011sed
+itass2;SS11;;Settimo Milanese;italom.ss011set
+itass2;SS11;;Pioltello;italom.ss011pio
+itass2;SS11;;Gorgonzola;italom.ss011
+itass2;SS11;;Pezzoli;italom.ss011pez
+itass2;SS11;;Treviglio;italom.ss011tre
+itass2;SS11;;Mozzanica;italom.ss011moz
+itass2;SS11;;Antegnate;italom.ss011ant
+itass2;SS11;;Urago d'Oglio;italom.ss011ura
+itass2;SS11;;Coccaglio;italom.ss011coc
+itass2;SS11;;Cazzago San Martino;italom.ss011caz
+itass2;SS11;;Castegnato;italom.ss011cas
+itass2;SS11;;Ponte San Marco;italom.ss011pon
+itass2;SS11;;Sirmione;italom.ss011sir
+itass2;SS11;Bis;;italom.ss011bis
 itass2;SS11;Dir;;italom.ss011dir
+itass2;SS11;Var;Sola;italom.ss011var
+itass2;SS11;Var;Calcio;italom.ss011varcal
 itass2;SS12;;Pisa;itatos.ss012pis
 itass2;SS12;;Lucca;itatos.ss012luc
 itass2;SS12;;Modena;itatos.ss012mod,itaemi.ss012mod
-itass2;SS12;;Ostiglia;itaemi.ss012ost,italom.ss012ost,itaven.ss012nog
+itass2;SS12;;Ostiglia;itaemi.ss012ost,italom.ss012,itaven.ss012nog
 itass2;SS12;;Buttapura;itaven.ss012but
 itass2;SS12;;Trento;itaven.ss012,itatre.ss012
 itass2;SS12;;Sterzing;itatre.ss012ste
@@ -162,13 +183,14 @@ itass2;SS37;;;italom.ss037
 itass2;SS38;;;italom.ss038,itatre.ss038
 itass2;SS38;Dir;Tirano;italom.ss038dirtir
 itass2;SS38;Dir;Stelvio;italom.ss038dirste
-itass2;SS38;Var;;italom.ss038var
+itass2;SS38;Var;Morbengo;italom.ss038var
+itass2;SS38;Var;Bormio;italom.ss038varbor
 itass2;SS39;;;italom.ss039
 itass2;SS40;;;itatre.ss040
 itass2;SS41;;;itatre.ss041
-itass2;SS42;;Bergamo;italom.ss042ber
-itass2;SS42;;Bozen;italom.ss042,itatre.ss042
-itass2;SS42;Dir;;italom.ss042dir
+itass2;SS42;;;italom.ss042,itatre.ss042
+itass2;SS42;Dir;Gorlago;italom.ss042dirgor
+itass2;SS42;Dir;Mortirolo;italom.ss042dir
 itass2;SS43;;;itatre.ss043
 itass2;SS43;Dir;;itatre.ss043dir
 itass2;SS43;Racc;;itatre.ss043racc
@@ -387,9 +409,10 @@ itass2;SS202;Dir;;itafri.ss202dir
 itass2;SS205;;;itaumb.ss205
 itass2;SS209;;;itaumb.ss209
 itass2;SS210;;;itamar.ss210
-itass2;SS211;;Tortona;itapie.ss211
-itass2;SS211;;Novara;itapie.ss211nov
+itass2;SS211;;Tortona;itapie.ss211,italom.ss211
+itass2;SS211;;Novara;italom.ss211alb,itapie.ss211nov
 itass2;SS211;Bis;;itapie.ss211bis
+itass2;SS211;Var;;italom.ss211var
 itass2;SS212;;Benevento;itacam.ss212ben
 itass2;SS212;;Reino;itacam.ss212,itamol.ss212
 itass2;SS212;Var;;itacam.ss212var
@@ -451,6 +474,7 @@ itass2;SS291;Var;;itasar.ss291var
 itass2;SS292;;;itasar.ss292
 itass2;SS292;Dir;;itasar.ss292dir
 itass2;SS293;;;itasar.ss293
+itass2;SS294;;;italom.ss294
 itass2;SS295;;;itasar.ss295
 itass2;SS296;;;italaz.ss296
 itass2;SS299;;Novara;itapie.ss299
@@ -490,7 +514,7 @@ itass2;SS342;;Binago;italom.ss342bin
 itass2;SS342;;Malnate;italom.ss342mal
 itass2;SS342;Dir;;italom.ss342dir
 itass2;SS343;;Casalmaggiore;itaemi.ss343,italom.ss343cas
-itass2;SS343;;Asora;italom.ss343
+itass2;SS343;;Asora;italom.ss343var
 itass2;SS344;;Induno Olona;italom.ss344
 itass2;SS344;;Besano;italom.ss344bes
 itass2;SS344;Dir;;italom.ss344dir
