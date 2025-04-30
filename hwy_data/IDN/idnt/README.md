@@ -19,18 +19,17 @@ Jawa:
 * T2: JT Cawang-Tanjung Priok-Ancol Timur-Pluit-Jembatan Tiga/Pluit (part; named JT Cawang-Tanjung Priuk-Pluit in 2019 log), JT Jakarta-Bogor-Ciawi, JT Ciawi-Sukabumi (incomplete)
 * T3: JT Prof. Dr. Ir. Soedijatmo
 * T4: JT Cikampek-Padalarang, JT Padalarang-Cileunyi (both named JT Purbaleunyi in 2019 log), JT Cileunyi-Sumedang-Dawuan (post-2019 log)
+* T4Sor (post-2019 log): JT Soreang-Pasirkoja ([T4 signs](https://www.google.com/maps/@-6.9358761,107.5514777,3a,75y,156.61h,104.47t/data=!3m7!1e1!3m5!1sB90M38c0QMNJgzi3sb0-bg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-14.467830604613042%26panoid%3DB90M38c0QMNJgzi3sb0-bg%26yaw%3D156.60696026714587!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwOS4wIKXMDSoASAFQAw%3D%3D) added in 2019-2021; may not exist north of N4 mainline)
 * T5: JT JORR Non S (JORR I) (part), JT Pondok Pinang-Tamani Mini (JORR I), JT Ulujami-Kebon Jeruk (JORR I), JT Kebon Jeruk-Penjaringan (JORR I) (all named JT Lingkar Luar Jakarta in 2019 log)
 * T6: JT Semarang Seksi A,B,C (named JT Tanjung Mas-Srondol, JT Jatingaleh Krapyak, JT Srondol-Jatingaleh in 2019 log), JT Semarang-Solo
 * T7: JT Cawang-Tomang-Pluit (part; named JT Lingkar Dalam Jakarta in 2019 log), JT Jakarta-Cikampek
 * T8: JT Surabaya-Gresik, JT Surabaya-Gempol (named JT Surabaya-Porong and JT Porong-Gempol in 2019 log), JT Gempol-Pandaan, JT Pandaan-Malang (post-2019 log)
 * T9: JT Pondok Aren-Ulujami (JORR I), JT Pondok Aren-Serpong (both named JT Jakarta-Serpong in 2019 log), JT Serpong-Balaraja (JORR III) (incomplete; post-2019 log)
-* T10 (post-2019 log): JT Soreang-Pasirkoja
 * T11: JT Solo-Mantignan-Ngawi, JT Ngawi-Kertosono, JT Mojokerto-Jombang-Kertosono, JT Mojokerto-Surabaya
-* T12 (post-2019 log): JT Depok-Antasari
 * T13: JT Gempol-Pasuruan, JT Pasuruan-Probolinggo
+* [T14](https://www.google.com/maps/@-7.4341362,110.98413,3a,15y,270.8h,102.65t/data=!3m7!1e1!3m5!1sfsPtBg_SmpQ4SjmZuLlZFA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-12.645260008669155%26panoid%3DfsPtBg_SmpQ4SjmZuLlZFA%26yaw%3D270.8027991165157!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDIwNS4xIKXMDSoASAFQAw%3D%3D) may be an error?
 * T15 (post-2019 log): JT Bogor Ring Road (incomplete)
 * T17 (post-2019 log): JT Cibitung-Cilincing (JORR II), JT Cimanggis-Cibitung (JORR II), JT Cinere-Cimanggis (Cinere-Jagorawi) (JORR II), JT Serpong-Cinere (JORR II), JT Kunciran-Serpong, JT Cengkareng-Batu Ceper-Kunciran (JORR II)
-* T19 (post-2019 log): JT Bekasi-Cawang-Kp. Melayu (incomplete)
 * JT Kelapa Gading-Pulogebang - we have this as SPG
 * JT Serang-Panimbang
 * Jalan Layang MBZ Sheikh Mohamed bin Zayed
@@ -39,6 +38,8 @@ Jawa:
 * JT Semarang-Demak (incomplete)
 * [JT Krian-Legundi-Bunder-Manyar](https://www.google.com/maps/@-7.4064388,112.5492572,3a,15.1y,310.64h,89.91t/data=!3m7!1e1!3m5!1sG1wtL4T8mLd1IkVZ_PXC4A!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D0.09262513291426444%26panoid%3DG1wtL4T8mLd1IkVZ_PXC4A%26yaw%3D310.6381959344842!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D) (JT Krian-Legundi-Bunder in 2023 log)
 * JT SS Waru-Bandara Juanda - we have this as part of T11 - is this correct?
+* JT Depok-Antasari (OSM labels this T12)
+* JT Bekasi-Cawang-Kp. Melayu (incomplete) (OSM labels this T19)
 
 Pulau Kalimantan (Borneo):
 * T1: JT Balikpapan-Samarinda (no 2019 log)
