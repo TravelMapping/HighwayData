@@ -2120,6 +2120,7 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2025-05-25;(Germany) Hesse;B62 (Niederklein);deuhe.b062nie;New Route
 2025-03-24;(Germany) Hesse;A49;deuhe.a049;Route extended at south end from exit 18 to exit 23 (A5)
 2025-01-08;(Germany) Hesse;L3377 (Fulda);deuhe.l3377ful;New Route
 2025-01-07;(Germany) Hesse;L3424 (Eschwege);deuhe.l3424esc;New Route
@@ -2572,6 +2573,8 @@ date;region;route;root;description
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2025-05-25;(Germany) Saxony;B178;deusn.b178;Route extended at south end from S18 to the Polish border
+2025-05-25;(Germany) Saxony;B178 (Zittau);deusn.b178;Route merged into main route
 2024-12-18;(Germany) Saxony;S47 (Trebsen);deusn.s047tre;New Route
 2024-12-18;(Germany) Saxony;S72;;Route deleted
 2024-12-18;(Germany) Saxony;S95a;;Route deleted
@@ -8270,6 +8273,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2025-05-25;(USA) Louisiana;LA 89;la.la0089;Truncated at north end from Church St. to Chemin Metairie Pkwy
 2025-05-13;(USA) Louisiana;LA 3105;la.la3105;Truncated at south end from Arthur Ray Teague Pkwy to US 71
 2025-03-16;(USA) Louisiana;LA 124;la.la0124;Extended at east end from the western junction with LA 3102 to the eastern junction with LA 3102 (note that the easternmost point is physically west of the previous point)
 2025-03-16;(USA) Louisiana;LA 338;la.la0338;Truncated at south end from LA 14 Business to LA 14
@@ -9307,6 +9311,9 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2025-05-25;(USA) Pennsylvania;PA 82 Alternate Truck (Coatesville);pa.pa082alttrkcoa;Route added.
+2025-05-25;(USA) Pennsylvania;US 30 Business Alternate Truck (Coatesville);pa.us030bustrkcoa;Route added.
+2025-05-24;(USA) Pennsylvania;US 322 Alternate Truck (Downingtown);pa.us322alttrkdow;Renamed from US 322 Truck (Downingtown), route is otherwise not changed for now
 2025-02-22;(USA) Pennsylvania;PA 74 Truck (Ickesburg);pa.pa074trkick;Added route (Northbound route only that follows PA 17 to Millerstown, Market Street to US 22/US 322, US 22/US 322 west to PA 75, and PA 75 south to the existing northern terminus of PA 74)
 2025-01-29;(USA) Pennsylvania;PA 351;pa.pa351;Relocated PA351Trk_W label to 9th Street to match PA 351 Truck (Ellwood City).
 2025-01-29;(USA) Pennsylvania;PA 351 Truck (Ellwood City);pa.pa351trkell;Relocated west end (PA351_W) to PA 351/9th Street intersection, and made route westbound only between PA351_W and 5thSt_S following 9th Street, Beaver Avenue, 6th Street, and Spring Avenue due to the previous removal of eastbound signs for this route along PA 351. 
