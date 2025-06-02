@@ -44,21 +44,21 @@ OR47_N http://www.openstreetmap.org/?lat=45.682753&lon=-123.196993
 PihlRd http://www.openstreetmap.org/?lat=45.664596&lon=-123.164613
 OR47_S http://www.openstreetmap.org/?lat=45.645111&lon=-123.135924
 53 +OR6 http://www.openstreetmap.org/?lat=45.616094&lon=-123.065951
-55 +DerRd http://www.openstreetmap.org/?lat=45.604025&lon=-123.032735
-57 +GleRd http://www.openstreetmap.org/?lat=45.590588&lon=-122.997008
-59 +JacSchRd http://www.openstreetmap.org/?lat=45.579761&lon=-122.968168
-61 +ShuRd http://www.openstreetmap.org/?lat=45.563989&lon=-122.926197
-62 +CorPasRd http://www.openstreetmap.org/?lat=45.554388&lon=-122.900791
-64 +NW185thAve +185thAve http://www.openstreetmap.org/?lat=45.541886&lon=-122.867575
-65 +CorRd http://www.openstreetmap.org/?lat=45.531635&lon=-122.840495
-67 +MurRd +MurBlvd http://www.openstreetmap.org/?lat=45.522285&lon=-122.815776
-68 +CedHilBlvd http://www.openstreetmap.org/?lat=45.514016&lon=-122.793932
+55 http://www.openstreetmap.org/?lat=45.604025&lon=-123.032735
+57 http://www.openstreetmap.org/?lat=45.590588&lon=-122.997008
+59 http://www.openstreetmap.org/?lat=45.579761&lon=-122.968168
+61 http://www.openstreetmap.org/?lat=45.563989&lon=-122.926197
+62 http://www.openstreetmap.org/?lat=45.554388&lon=-122.900791
+64 +NW185thAve http://www.openstreetmap.org/?lat=45.541886&lon=-122.867575
+65 http://www.openstreetmap.org/?lat=45.531635&lon=-122.840495
+67 http://www.openstreetmap.org/?lat=45.522285&lon=-122.815776
+68 http://www.openstreetmap.org/?lat=45.514016&lon=-122.793932
 69 +OR217 http://www.openstreetmap.org/?lat=45.508392&lon=-122.778311
 +x36 http://www.openstreetmap.org/?lat=45.505655&lon=-122.761703
-71A +OR8 http://www.openstreetmap.org/?lat=45.507400&lon=-122.745566
-71B +SkyBlvd http://www.openstreetmap.org/?lat=45.508768&lon=-122.735868
+71A http://www.openstreetmap.org/?lat=45.507400&lon=-122.745566
+71B http://www.openstreetmap.org/?lat=45.508768&lon=-122.735868
 +x37 http://www.openstreetmap.org/?lat=45.509565&lon=-122.726662
-72 +WashPark +KniBlvd http://www.openstreetmap.org/?lat=45.507144&lon=-122.718980
+72 +WashPark http://www.openstreetmap.org/?lat=45.507144&lon=-122.718980
 +x38 http://www.openstreetmap.org/?lat=45.507625&lon=-122.709453
 73 +CanRd http://www.openstreetmap.org/?lat=45.515625&lon=-122.699797
 74 +I-405 +I-405(1D) http://www.openstreetmap.org/?lat=45.514708&lon=-122.689069
@@ -72,10 +72,10 @@ OR99E http://www.openstreetmap.org/?lat=45.501534&lon=-122.660722
 MilAve http://www.openstreetmap.org/?lat=45.501159&lon=-122.654243
 17thAve http://www.openstreetmap.org/?lat=45.500000&lon=-122.649200
 26thAve http://www.openstreetmap.org/?lat=45.497955&lon=-122.639651
-CesChaBlvd +39thAve http://www.openstreetmap.org/?lat=45.497308&lon=-122.622593
+CesChaBlvd http://www.openstreetmap.org/?lat=45.497308&lon=-122.622593
 FosRd http://www.openstreetmap.org/?lat=45.497504&lon=-122.611370
 OR213 http://www.openstreetmap.org/?lat=45.497414&lon=-122.578712
-92ndAve +SE92ndAve http://www.openstreetmap.org/?lat=45.497396&lon=-122.568498
+92ndAve http://www.openstreetmap.org/?lat=45.497396&lon=-122.568498
 I-205 http://www.openstreetmap.org/?lat=45.497360&lon=-122.565386
 +x39 http://www.openstreetmap.org/?lat=45.495729&lon=-122.559078
 122ndAve http://www.openstreetmap.org/?lat=45.497068&lon=-122.537663
@@ -83,11 +83,11 @@ I-205 http://www.openstreetmap.org/?lat=45.497360&lon=-122.565386
 +x40 http://www.openstreetmap.org/?lat=45.499248&lon=-122.515454
 148thAve http://www.openstreetmap.org/?lat=45.498045&lon=-122.510605
 162ndAve http://www.openstreetmap.org/?lat=45.494796&lon=-122.496700
-182ndAve +SE182ndAve http://www.openstreetmap.org/?lat=45.490344&lon=-122.475500
+182ndAve http://www.openstreetmap.org/?lat=45.490344&lon=-122.475500
 +x41 http://www.openstreetmap.org/?lat=45.489818&lon=-122.469792
 BirAve http://www.openstreetmap.org/?lat=45.497063&lon=-122.454933
 EasPkwy http://www.openstreetmap.org/?lat=45.497143&lon=-122.438250
-HogDr +HogAve http://www.openstreetmap.org/?lat=45.497895&lon=-122.413938
+HogDr http://www.openstreetmap.org/?lat=45.497895&lon=-122.413938
 +x42 http://www.openstreetmap.org/?lat=45.494826&lon=-122.411106
 BurRd http://www.openstreetmap.org/?lat=45.493709&lon=-122.405656
 PalAve http://www.openstreetmap.org/?lat=45.486717&lon=-122.399626
@@ -109,7 +109,7 @@ CheDr_E http://www.openstreetmap.org/?lat=45.375348&lon=-122.115870
 +x45 http://www.openstreetmap.org/?lat=45.377940&lon=-122.103939
 +x46 http://www.openstreetmap.org/?lat=45.375875&lon=-122.081065
 SleHolDr_W http://www.openstreetmap.org/?lat=45.378498&lon=-122.066002
-SleHolDr_E +SleHolDr http://www.openstreetmap.org/?lat=45.379161&lon=-122.045081
+SleHolDr_E http://www.openstreetmap.org/?lat=45.379161&lon=-122.045081
 BriLoopRd_W http://www.openstreetmap.org/?lat=45.374775&lon=-122.028988
 BriLoopRd_E http://www.openstreetmap.org/?lat=45.360936&lon=-121.997724
 WelRd http://www.openstreetmap.org/?lat=45.348147&lon=-121.963305
@@ -122,7 +122,7 @@ LoloPassRd http://www.openstreetmap.org/?lat=45.343821&lon=-121.942749
 +x52 http://www.openstreetmap.org/?lat=45.312080&lon=-121.792245
 +x53 http://www.openstreetmap.org/?lat=45.307402&lon=-121.792374
 US26Bus_W +GovCampLp_W http://www.openstreetmap.org/?lat=45.302753&lon=-121.769114
-US26Bus_E +GovCampLp_E http://www.openstreetmap.org/?lat=45.302065&lon=-121.745757
+US26Bus_E http://www.openstreetmap.org/?lat=45.302065&lon=-121.745757
 OR173 http://www.openstreetmap.org/?lat=45.301426&lon=-121.740833
 +x54 http://www.openstreetmap.org/?lat=45.300279&lon=-121.734395
 +x55 http://www.openstreetmap.org/?lat=45.290118&lon=-121.734996

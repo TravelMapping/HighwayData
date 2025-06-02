@@ -1,5 +1,4 @@
 date;region;route;root;description
-2025-05-14;(China) Inner Mongolia;AH6;chnnm.ah006;Route now routed through G10
 2025-04-19;Albania;SH45;alb.sh045;Route truncated at west end from SH6 to SH50 (SH50 now)
 2025-04-19;Albania;SH50;alb.sh050;Route extended at north end from SH45 to SH6 (former SH45)
 2025-04-19;Albania;SH61;alb.sh061;Route truncated at east end from SH6 at Fshat south of Klos, to Zall-Dajt, and reextended to SH6 at Bulqizë
@@ -817,6 +816,7 @@ date;region;route;root;description
 2018-10-26;(China) Liaoning;AH31;chnln.ah031;New Route
 2018-10-26;(China) Liaoning;AH35 (Chaoyang);chnln.ah035;New Route
 2018-10-26;(China) Liaoning;AH35 (Jianpingzhen);chnln.ah035jia;New Route
+2025-05-14;(China) Inner Mongolia;AH6;chnnm.ah006;Route now routed through G10
 2018-10-26;(China) Nei Mongol;AH1;chnnm.ah003;New Route
 2018-10-26;(China) Nei Mongol;AH6;chnnm.ah006;New Route
 2018-10-26;(China) Nei Mongol;AH32;chnnm.ah032;New Route
@@ -935,7 +935,6 @@ date;region;route;root;description
 2015-07-28;Croatia;A2;hrv.a002;Route extended at north end from exit 1 to Slovenian border
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
-
 2025-02-01;Cyprus;D05;cyp.d550;Route deleted (mostly now D550)
 2025-02-01;Cyprus;D10 (Girne);cyp.d100;Route deleted (now D100)
 2025-02-01;Cyprus;D10 (Dipkarpaz);cyp.d100;Route deleted (now D100)
@@ -2120,6 +2119,7 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2025-05-25;(Germany) Hesse;B62 (Niederklein);deuhe.b062nie;New Route
 2025-03-24;(Germany) Hesse;A49;deuhe.a049;Route extended at south end from exit 18 to exit 23 (A5)
 2025-01-08;(Germany) Hesse;L3377 (Fulda);deuhe.l3377ful;New Route
 2025-01-07;(Germany) Hesse;L3424 (Eschwege);deuhe.l3424esc;New Route
@@ -2572,6 +2572,8 @@ date;region;route;root;description
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
+2025-05-25;(Germany) Saxony;B178;deusn.b178;Route extended at south end from S18 to the Polish border
+2025-05-25;(Germany) Saxony;B178 (Zittau);deusn.b178;Route merged into main route
 2024-12-18;(Germany) Saxony;S47 (Trebsen);deusn.s047tre;New Route
 2024-12-18;(Germany) Saxony;S72;;Route deleted
 2024-12-18;(Germany) Saxony;S95a;;Route deleted
@@ -3218,6 +3220,8 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2025-05-23;Ireland;R463;irl.r463;Route removed from L4001 and relocated onto Killaloe Bypass between R496 and L4001
+2025-05-23;Ireland;R496;irl.r496;Route truncated at west end from R463 at Killalow Bridge to (former southern junction with) R494 and extended at west end from R494 to R463 at Killaloe Bypass and Brian Boru Bridge
 2025-02-12;Ireland;R772 (Newtownmountkennedy);irl.r772new;Route added
 2025-02-12;Ireland;R772 (Rathnew);irl.r772rat;Route added
 2025-02-12;Ireland;R772 (Gorey);irl.r772;Route truncated at north end from N11 exit 12 to M11 exit 18
@@ -6753,6 +6757,11 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2025-05-23;(UK) England;A30;eng.a0030;A391 point moved (now A389)
+2025-05-23;(UK) England;A391;eng.a0391;Route removed from B3278 and relocated onto B3274, Roche bypass and former A30, between (now southern junction with) B3274 and (relocated) A30
+2025-05-23;(UK) England;B3191 (Watchet);eng.b3191wat;Route added
+2025-05-23;(UK) England;B3191 (Carhampton);eng.b3191;Route truncated at west end from eastern junction with A39 to Daws Castle
+2025-05-23;(UK) England;B3278;eng.b3278;Route added (old A391)
 2025-05-09;(UK) England;A284;eng.a0284;Route truncated at south end from B2187 to B2284 and extended at south end from B2284 to B2187 (moved from Arundel, Wick and Lyminster Roads to Fitzalan Road and Lyminster bypass)
 2025-05-09;(UK) England;A3059;eng.a3059;Route extended at west end from A3058 to A392
 2025-05-09;(UK) England;B2284;eng.b2284;Route added (old route of A284)
@@ -7701,6 +7710,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2025-05-30;(USA) Illinois;IL 64 Truck (Elmhurst);il.il064trkelm;Rerouted to follow IL 83 and US 20
 2024-07-09;(USA) Illinois;US 12;il.us012;Removed from Lee Street between Elk Boulevard and Rand Road and relocated onto Elk Boulevard and South Des Plaines River Road in Des Plaines
 2024-07-09;(USA) Illinois;US 45;il.us045;Removed from Lee Street between Elk Boulevard and Rand Road and relocated onto Elk Boulevard and South Des Plaines River Road in Des Plaines
 2023-11-12;(USA) Illinois;IL 97;il.il097;Truncated from I-74 to US 150
@@ -8263,6 +8273,12 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2025-05-29;(USA) Louisiana;LA 93-1;la.la00931;Truncated at south end from Ridge Rd. (former LA 342) to W. Congress St.
+2025-05-29;(USA) Louisiana;LA 342;la.la0342;Truncated at east end from Rue de Belier (former LA 93-1) to a point east of LA 724
+2025-05-29;(USA) Louisiana;LA 3246;la.la3246;Truncated at south end from Highland Rd. to Perkins Rd.
+2025-05-28;(USA) Louisiana;LA 98;la.la0098;Truncated at east end from Sawmill Hwy to LA 176
+2025-05-28;(USA) Louisiana;LA 426;;Route deleted
+2025-05-25;(USA) Louisiana;LA 89;la.la0089;Truncated at north end from Church St. to Chemin Metairie Pkwy
 2025-05-13;(USA) Louisiana;LA 3105;la.la3105;Truncated at south end from Arthur Ray Teague Pkwy to US 71
 2025-03-16;(USA) Louisiana;LA 124;la.la0124;Extended at east end from the western junction with LA 3102 to the eastern junction with LA 3102 (note that the easternmost point is physically west of the previous point)
 2025-03-16;(USA) Louisiana;LA 338;la.la0338;Truncated at south end from LA 14 Business to LA 14
@@ -8560,6 +8576,7 @@ date;region;route;root;description
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2025-05-30;(USA) Missouri;MO 92 Spur (Tracy);mo.mo092sprtra;Created route
 2024-04-08;(USA) Missouri;I-435;mo.i435;Corrected exit for East 63rd Street from 66A->66B and corrected MO 350 exit from 66B->66A
 2024-01-10;(USA) Missouri;MO 32 Business (Park Hills);mo.mo032buspar;Reactivated route.
 2022-09-16;(USA) Missouri;MO 28 Spur (Vienna);mo.mo028sprvie;Created route
@@ -8902,6 +8919,9 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2025-05-28;(USA) North Carolina;I-73fut (Rockingham);;deleted - redundant with I-74
+2025-05-28;(USA) North Carolina;US 1 ALT (Franklinton);;deleted - decommissioned
+2025-05-28;(USA) North Carolina;I-885;nc.i885;exit 10 moved to US 70 split and Carr Rd (now 70(288A)) cannot use 10 as alt label
 2025-04-13;(USA) North Carolina;I-74 (High Point);nc.i074hig;extended southeast with US 74 to east end of Rockingham bypass
 2025-04-13;(USA) North Carolina;I-74fut (Rockingham);;deleted - replaced by I-74 (High Point)
 2025-04-13;(USA) North Carolina;NC 36;nc.036;new route that replaces NC 42 from NC 50 to I-42 and is new routing entirely from I-42 to US 70
@@ -9279,6 +9299,10 @@ date;region;route;root;description
 2015-09-10;(USA) Oklahoma;Muskogee Turnpike;;Deleted route. Renamed to OK 351.
 2015-09-10;(USA) Oklahoma;OK 351;ok.ok351;Added route. Renamed from Muskogee Turnpike.
 2015-09-10;(USA) Oklahoma;OK 364;ok.ok364;Added route. Renamed from Creek Turnpike.
+2025-05-28;(USA) Oregon;US97;or.us097;Route remove from demolished highway and US97Bus and relocated onto Bend Parkway between exits 134 and 135B. Exit 135A and RobRd are moved
+2025-05-28;(USA) Oregon;US97 Business (Bend);or.us097busbend;Route truncated at north end from northern junction with US97 (at exit 135B) to former location of 'US20_W' (now 'EmpAve', with 'US20_W' moved slightly north) and route extended at north end from Empire Avenue to new 'US97_N' location just north of Cooley Road.
+2025-05-28;(USA) Oregon;OR42 Business (Coquille);or.or042buscoq;Route added
+2025-05-28;(USA) Oregon;OR255;or.or255;Route at extended north end from US101 at Pistol River (formerly labelled 'US101_N') to US101 at Cape Sebastian (new 'US101_N' point)
 2024-02-15;(USA) Oregon;OR182;;Route deleted
 2024-02-15;(USA) Oregon;OR200;or.or200;Route truncated at south end from Douglas County/Lane County line to Lane County/Benton County line
 2024-02-15;(USA) Oregon;OR205;or.or205;Route truncated at south end from End to Roaring Springs Road
@@ -9300,6 +9324,9 @@ date;region;route;root;description
 2017-09-06;(USA) Oregon;OR 99;or.or099;Restored route from I-5 onto Yoncalla-Drain routing.
 2017-09-06;(USA) Oregon;OR 99W;or.or099w;Truncated route from I-5(306) to I-5(294) to reflect signage and prepare for Oregon Highways dataset.
 2017-09-06;(USA) Oregon;OR 126;or.or126;Moved route from Bus 97 to US 97 in Redmond.
+2025-05-25;(USA) Pennsylvania;PA 82 Alternate Truck (Coatesville);pa.pa082alttrkcoa;Route added.
+2025-05-25;(USA) Pennsylvania;US 30 Business Alternate Truck (Coatesville);pa.us030bustrkcoa;Route added.
+2025-05-24;(USA) Pennsylvania;US 322 Alternate Truck (Downingtown);pa.us322alttrkdow;Renamed from US 322 Truck (Downingtown), route is otherwise not changed for now
 2025-02-22;(USA) Pennsylvania;PA 74 Truck (Ickesburg);pa.pa074trkick;Added route (Northbound route only that follows PA 17 to Millerstown, Market Street to US 22/US 322, US 22/US 322 west to PA 75, and PA 75 south to the existing northern terminus of PA 74)
 2025-01-29;(USA) Pennsylvania;PA 351;pa.pa351;Relocated PA351Trk_W label to 9th Street to match PA 351 Truck (Ellwood City).
 2025-01-29;(USA) Pennsylvania;PA 351 Truck (Ellwood City);pa.pa351trkell;Relocated west end (PA351_W) to PA 351/9th Street intersection, and made route westbound only between PA351_W and 5thSt_S following 9th Street, Beaver Avenue, 6th Street, and Spring Avenue due to the previous removal of eastbound signs for this route along PA 351. 
@@ -9918,6 +9945,7 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2025-05-28;(USA) Virginia;US 311;va.us311;rerouted Oct 2024 over new alignment to end at US 58 instead of US 58 Business, everything from new waypoint BerHillRd_E is new routing
 2025-04-13;(USA) Virginia; US 58 Alt Bus (Dryden);va.us058altbusdry;new route added
 2025-04-13;(USA) Virginia; I-395;va.i395;exit 8C renumbered as 8B with no alt label possible
 2025-04-13;(USA) Virginia; US 58 Alt (Abingdon);va.us058altabi;VA 158 E and W labels swapped
