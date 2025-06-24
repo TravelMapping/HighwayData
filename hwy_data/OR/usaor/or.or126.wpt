@@ -33,7 +33,7 @@ KniRd http://www.openstreetmap.org/?lat=44.059150&lon=-123.435624
 SutRd http://www.openstreetmap.org/?lat=44.052218&lon=-123.426783
 +x19 http://www.openstreetmap.org/?lat=44.049473&lon=-123.420657
 8thSt http://www.openstreetmap.org/?lat=44.053733&lon=-123.360141
-TerHwy http://www.openstreetmap.org/?lat=44.054273&lon=-123.352113
+TerHwy +OR200 http://www.openstreetmap.org/?lat=44.054273&lon=-123.352113
 HusRd http://www.openstreetmap.org/?lat=44.052700&lon=-123.330328
 CenRd http://www.openstreetmap.org/?lat=44.052631&lon=-123.291895
 FisRd http://www.openstreetmap.org/?lat=44.053105&lon=-123.244838
@@ -48,11 +48,11 @@ GarSt http://www.openstreetmap.org/?lat=44.047773&lon=-123.123012
 OR99_N +OR99 http://www.openstreetmap.org/?lat=44.052743&lon=-123.122771
 ChaSt http://www.openstreetmap.org/?lat=44.052704&lon=-123.118437
 BlaBlvd http://www.openstreetmap.org/?lat=44.052696&lon=-123.106495
-I-105/99 http://www.openstreetmap.org/?lat=44.052727&lon=-123.101099
+I-105/99 +I-105/OR99 http://www.openstreetmap.org/?lat=44.052727&lon=-123.101099
 +x1(I-105) http://www.openstreetmap.org/?lat=44.063352&lon=-123.101120
-1 http://www.openstreetmap.org/?lat=44.064739&lon=-123.099747
+1 +I-105(1) http://www.openstreetmap.org/?lat=44.064739&lon=-123.099747
 +x2(I-105) http://www.openstreetmap.org/?lat=44.061301&lon=-123.087687
-2 http://www.openstreetmap.org/?lat=44.061255&lon=-123.084641
+2 +I-105(2) http://www.openstreetmap.org/?lat=44.061255&lon=-123.084641
 2A +I-105(2A) http://www.openstreetmap.org/?lat=44.062396&lon=-123.079920
 4 +I-105(4) http://www.openstreetmap.org/?lat=44.063074&lon=-123.049192
 +x21 http://www.openstreetmap.org/?lat=44.063059&lon=-123.034365
@@ -88,7 +88,7 @@ BlueRivDr http://www.openstreetmap.org/?lat=44.150616&lon=-122.361742
 CasSt http://www.openstreetmap.org/?lat=44.152236&lon=-122.337479
 +x34 http://www.openstreetmap.org/?lat=44.153068&lon=-122.316155
 BlueRivRd http://www.openstreetmap.org/?lat=44.164853&lon=-122.290202
-FS19 http://www.openstreetmap.org/?lat=44.165679&lon=-122.260626
+FS19 +CouDamRd http://www.openstreetmap.org/?lat=44.165679&lon=-122.260626
 McKenRivDr_W http://www.openstreetmap.org/?lat=44.170400&lon=-122.241687
 McKenRivDr_E http://www.openstreetmap.org/?lat=44.177022&lon=-122.187420
 HorCreRd http://www.openstreetmap.org/?lat=44.173555&lon=-122.159485
@@ -123,7 +123,7 @@ CamSheRd http://www.openstreetmap.org/?lat=44.392787&lon=-121.674024
 +x9(US20) http://www.openstreetmap.org/?lat=44.372137&lon=-121.626270
 IndForRd http://www.openstreetmap.org/?lat=44.357952&lon=-121.612733
 BarDr http://www.openstreetmap.org/?lat=44.295719&lon=-121.559579
-OR242_E http://www.openstreetmap.org/?lat=44.291580&lon=-121.555395
+OR242_E +OR242 http://www.openstreetmap.org/?lat=44.291580&lon=-121.555395
 LarSt http://www.openstreetmap.org/?lat=44.291280&lon=-121.546297
 LocSt http://www.openstreetmap.org/?lat=44.290481&lon=-121.543765
 US20_E http://www.openstreetmap.org/?lat=44.287762&lon=-121.540163
@@ -139,7 +139,7 @@ SW23rdSt http://www.openstreetmap.org/?lat=44.269220&lon=-121.194348
 SW12thSt http://www.openstreetmap.org/?lat=44.270034&lon=-121.180766
 US97Bus http://www.openstreetmap.org/?lat=44.270065&lon=-121.173835
 US97_S +US97/97Bus http://www.openstreetmap.org/?lat=44.269675&lon=-121.171606
-US97_N +US97 http://www.openstreetmap.org/?lat=44.272598&lon=-121.169865
+US97_N +US97 http://www.openstreetmap.org/?lat=44.272577&lon=-121.169889
 +x50 http://www.openstreetmap.org/?lat=44.272492&lon=-121.163299
 SE9thSt http://www.openstreetmap.org/?lat=44.268958&lon=-121.158836
 +x51 http://www.openstreetmap.org/?lat=44.262074&lon=-121.147935
@@ -150,5 +150,5 @@ ParLn http://www.openstreetmap.org/?lat=44.247443&lon=-120.967669
 +x53 http://www.openstreetmap.org/?lat=44.247566&lon=-120.945289
 GeoMilRd http://www.openstreetmap.org/?lat=44.283093&lon=-120.893190
 TomMcAllRd http://www.openstreetmap.org/?lat=44.285397&lon=-120.887804
-ORH370 http://www.openstreetmap.org/?lat=44.301278&lon=-120.862312
-US26 http://www.openstreetmap.org/?lat=44.302955&lon=-120.858315
+ORH370 +OR370 http://www.openstreetmap.org/?lat=44.301278&lon=-120.862312
+US26 http://www.openstreetmap.org/?lat=44.303094&lon=-120.858407
