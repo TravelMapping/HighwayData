@@ -84,6 +84,7 @@ date;region;route;root;description
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
 2024-12-16;(Australia) Western Australia;WA101;auswa.wa101;Route added
 2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
+2025-06-24;Austria;L214-5;aut.l2145;Route relocated from through Wagrain and onto western bypass between B163 and Kirchboden
 2025-02-20;Austria;B36;aut.b036;Route relocated from through Kleinpoppen and Wolfenstein, and onto eastern bypass
 2025-01-14;Austria;B6;aut.b006;Route relocated from through Tresdorf, Harmannsdorf and Rückersdorf, and onto new bypass between L1123 and L32
 2024-11-15;Austria;S26 (Linzer Autobahn);aut.a026;New Route
@@ -1523,6 +1524,9 @@ date;region;route;root;description
 2022-09-22;(France) French Guiana;N5;;Route removed
 2022-09-22;(France) French Guiana;N2001 (Sinnamary);guf.d021;Route removed
 2022-09-22;(France) French Guiana;N2001 (Kourou);;Route removed
+2025-06-15;(France) Grand-Est;N33;frages.d063357;Route renamed to D633-57
+2025-06-15;(France) Grand-Est;N61;frages.d066157;Route renamed to D661-57
+2025-06-15;(France) Grand-Est;N61A;frages.d0661a57;Route renamed to D661a-57
 2025-02-02;(France) Grand-Est;N52 (Rombas);frages.d065257;Route renamed to D652-57
 2024-09-14;(France) Grand-Est;N67;frages.d052052;Route renamed to D520-52
 2023-02-13;(France) Grand-Est;M663-6ae;frages.m06636ae;New Route
@@ -2573,7 +2577,7 @@ date;region;route;root;description
 2022-10-28;(Germany) Saarland;L174;deusl.l174;Route extended at east end from L143 to B51
 2022-04-09;(Germany) Saarland;B269 (Neububach);deusl.b269neu;New Route
 2015-09-15;(Germany) Saarland;E422;deusl.e422;Route extended at south end from exit 150 of the A1 to the A620
-2025-05-25;(Germany) Saxony;B178;deusn.b178;Route extended at south end from S18 to the Polish border
+2025-05-25;(Germany) Saxony;B178;deusn.b178;Route extended at south end from S128 to the Polish border
 2025-05-25;(Germany) Saxony;B178 (Zittau);deusn.b178;Route merged into main route
 2024-12-18;(Germany) Saxony;S47 (Trebsen);deusn.s047tre;New Route
 2024-12-18;(Germany) Saxony;S72;;Route deleted
@@ -6274,6 +6278,8 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2025-06-24;Sweden;Helsingborg - Kanna motorvägen;swe.heljonmot;Route merged into Helsingborg - Jönköping motorvägen
+2025-06-24;Sweden;Ljungby - Jönköping motorvägen;swe.heljonmot;Route merged into Helsingborg - Jönköping motorvägen
 2025-05-04;Sweden;Lund - Kristianstad motorvägen (Lund);swe.lundkrimot;Route truncated at east end (not signed as motorway) from exit 28 to Tappavit (concurrent with E22)
 2025-02-14;Sweden;R27;swe.r027;Route relocated from through Backaryd and onto eastern bypass
 2025-02-14;Sweden;R53;swe.r053;Route relocated from Vasavägen and Stenkvistavägen, and onto Sveavägen in Eskiltuna
@@ -7927,6 +7933,9 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2025-06-23;(USA) Kentucky;KY 9;ky.ky0009;KY3056 point moved approx 250m east to reflect reconfiguration of intersection that happened between 2016 and 2018 (old KY 3056 point now labeled *OldKY3056)
+2025-06-23;(USA) Kentucky;KY 10;ky.ky0010;KY3056 point moved approx 250m east to reflect reconfiguration of intersection that happened between 2016 and 2018 (old KY 3056 point now labeled *OldKY3056)
+2025-06-23;(USA) Kentucky;KY 3056;ky.ky3056;KY9 point (now labeled KY9/10) moved approx 250m east to relocated intersection reconstructed between 2016 and 2018 (new routing is between KY9/10 and OldKY3056 points)
 2024-12-26;(USA) Kentucky;KY 1679;ky.ky1679;Truncated at east end from US 119 to KY 160 to reflect changes in signage on the county-maintained segment 
 2024-12-24;(USA) Kentucky;I-69;ky.i069;Extended at south end to the Tennessee state line, incorporating the former I-69 Future and Purchase Pkwy
 2024-12-24;(USA) Kentucky;I-169;ky.i169;Route added, incorporating the former Pennyrile Pkwy
@@ -8292,6 +8301,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2025-06-24;(USA) Louisiana;LA 3241;la.la3241;Extended at south end from LA 435 to LA 36
 2025-05-29;(USA) Louisiana;LA 93-1;la.la00931;Truncated at south end from Ridge Rd. (former LA 342) to W. Congress St.
 2025-05-29;(USA) Louisiana;LA 342;la.la0342;Truncated at east end from Rue de Belier (former LA 93-1) to a point east of LA 724
 2025-05-29;(USA) Louisiana;LA 3246;la.la3246;Truncated at south end from Highland Rd. to Perkins Rd.
@@ -8329,7 +8339,7 @@ date;region;route;root;description
 2023-11-18;(USA) Louisiana;LA 182-1;;Route deleted
 2023-11-18;(USA) Louisiana;LA 731;;Route deleted
 2023-11-18;(USA) Louisiana;LA 830-5;;Route deleted
-2023-11-18;(USA) Louisiana;LA 1160;la.la1160;Extended at east end from LA13 to LA104/3149
+2023-11-18;(USA) Louisiana;LA 1160;la.la1160;Extended at east end from LA 13 to LA 104/3149
 2023-11-18;(USA) Louisiana;LA 3184;la.la3184;Extended at north end approximately 0.1 mile from I-10 to end of state maintenance
 2023-10-21;(USA) Louisiana;LA 64;la.la0064;Truncated at north end from LA 964 to LA 67
 2023-10-21;(USA) Louisiana;LA 69;la.la0069;Truncated at north end from LA 1 to north end of LA 405 concurrency
@@ -8588,6 +8598,7 @@ date;region;route;root;description
 2024-06-29;(USA) Minnesota;MN 222;;Deleted route
 2024-06-29;(USA) Minnesota;MN 30;mn.mn030;Route relocated north of Rochester Airport via CR 8/CR 16/US 63
 2024-11-15;(USA) Minnesota;US 12;mn.us012;Route relocated west of Willmar between 45thStNW and 28thSt
+2025-06-11;(USA) Minnesota;US 2 Truck Bypass (Crookston);mn.us002trkbypcro;New route
 2025-03-19;(USA) Mississippi;MS 537 (Moss);ms.ms537mos;New leg of MS 537 added
 2025-03-19;(USA) Mississippi;MS 76;ms.ms076;Extended west to MS 25
 2018-05-05;(USA) Mississippi;I-269;ms.i269;Extended west to MS 305/Exit 9
@@ -9319,7 +9330,7 @@ date;region;route;root;description
 2015-09-10;(USA) Oklahoma;OK 351;ok.ok351;Added route. Renamed from Muskogee Turnpike.
 2015-09-10;(USA) Oklahoma;OK 364;ok.ok364;Added route. Renamed from Creek Turnpike.
 2025-05-28;(USA) Oregon;US97;or.us097;Route remove from demolished highway and US97Bus and relocated onto Bend Parkway between exits 134 and 135B. Exit 135A and RobRd are moved
-2025-05-28;(USA) Oregon;US97 Business (Bend);or.us097busbend;Route truncated at north end from northern junction with US97 (at exit 135B) to former location of 'US20_W' (now 'EmpAve', with 'US20_W' moved slightly north) and route extended at north end from Empire Avenue to new 'US97_N' location just north of Cooley Road.
+2025-05-28;(USA) Oregon;US97 Business (Bend);or.us097busben;Route truncated at north end from northern junction with US97 (at exit 135B) to former location of 'US20_W' (now 'EmpAve', with 'US20_W' moved slightly north) and route extended at north end from Empire Avenue to new 'US97_N' location just north of Cooley Road.
 2025-05-28;(USA) Oregon;OR42 Business (Coquille);or.or042buscoq;Route added
 2025-05-28;(USA) Oregon;OR255;or.or255;Route at extended north end from US101 at Pistol River (formerly labelled 'US101_N') to US101 at Cape Sebastian (new 'US101_N' point)
 2024-02-15;(USA) Oregon;OR182;;Route deleted

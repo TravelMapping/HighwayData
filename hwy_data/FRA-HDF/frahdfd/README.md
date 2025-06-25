@@ -27,7 +27,7 @@ FRA-80 = `Som` = Somme
 - `D643` through Pas-de-Calais seems to belong to Nord
 
 *FRA-60 - Oise:*
-- wikisara has a full ist but is sometimes outdated
+- wikisara has a full list but is sometimes outdated
 - e.g. `D503`, `D514`, `D514E`, `D563L`, `D566E`, `D592` and `D593` are unsigned now
 
 *FRA-62 - Pas-de-Calais:*
