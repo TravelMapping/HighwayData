@@ -183,6 +183,7 @@ gbnb;GBR;Great Britain B Roads;TMyellow;5;active
 nirb;GBR;Northern Ireland B Roads;TMyellow;5;active
 nirtr;GBR;Northern Ireland Tourist Routes;TMbrown;5;active
 sctntr;GBR;Scotland National Tourist Routes;TMbrown;5;active
+gbnmkgr;GBR;Milton Keynes Grid Roads;TMgray;6;active
 gaba;GAB;Gabon Autoroutes;TMblue;1;active
 gabn;GAB;Gabon Routes Nationales;TMgreen;4;active
 geos;GEO;Georgia Sakartvelo Roads;TMlightsalmon;4;active
@@ -216,6 +217,7 @@ jamt;JAM;Jamaica Motorways;TMblue;1;active
 jama;JAM;Jamaica A Roads;TMbrown;4;active
 jeya;JEY;Jersey A Roads;TMlightsalmon;4;active
 jeyb;JEY;Jersey B Roads;TMyellow;5;active
+jeyc;JEY;Jersey C Roads;TMgray;6;active
 jpne;JPN;Japan Kōsoku Jidōsha Kokudō;TMblue;1;active
 jpntk;JPN;Japan Toshi Kōsokudōro;TMteal;2;active
 kaza;KAZ;Kazakhstan Main Roads;TMlightsalmon;4;active
@@ -541,7 +543,6 @@ frapacd84;FRA;Vaucluse Routes Départementales;TMyellow;5;preview
 gtmrn;GTM;Guatemala Rutas Nacionales;TMred;3;preview
 gtmsf;GTM;Guatemala Select Freeways;TMteal;3;preview
 gufd;FRA;French Guiana Routes Départementales;TMyellow;5;preview
-gbnmkgr;GBR;Milton Keynes Grid Roads;TMgray;6;preview
 gbrtrl;GBR;United Kingdom Trails;TMbrown;5;preview
 gbrrr;GBR;United Kingdom Ring Roads;TMgray;5;preview
 hndrnp;HND;Honduras Rutas Nacionales Principales;TMred;3;preview
@@ -556,7 +557,6 @@ itass;ITA;Italy Strade Statali;TMlightsalmon;4;preview
 #itass2;ITA;Italy Strade Statali (Italy split);TMlightsalmon;4;preview
 khme;KHM;Cambodia Expressways;TMblue;1;preview
 khmah;KHM;Cambodia UNESCAP Asian Highways;TMred;3;preview
-jeyc;JEY;Jersey C Roads;TMgray;6;preview
 jpnh;JPN;Japan Ippan Kokudō;TMlightsalmon;4;preview
 lkaa;LKA;Sri Lanka A Roads;TMlightsalmon;4;preview
 laoah;LAO;Laos UNESCAP Asian Highways;TMred;3;preview
@@ -608,6 +608,8 @@ tzat;TZA;Tanzania Trunk Roads;TMgreen;4;preview
 usaas;USA;American Samoa Territorial Highways;TMpurple;4;preview
 usams;USA;Mississippi State Highways;TMpurple;4;preview
 usaush;USA;United States Historic Highways;TMbrown;4;preview
+usanht;USA;United States National Historic Trails;TMbrown;5;preview
+usatr;USA;United States Select Tourist Routes;TMbrown;5;preview
 vena;VEN;Venezuela Autopistas;TMblue;1;preview
 vent;VEN;Venezuela Vías Troncales;TMred;2;preview
 vnmct;VNM;Vietnam Cao Toc;TMblue;1;preview
@@ -667,8 +669,6 @@ prtn;PRT;Portugal Estradas Nacionais;TMyellow;5;devel
 rusr;RUS;Russia Regional Roads;TMlightsalmon;4;devel
 #ukrn;UKR;Ukraine Nacional'ni Avtomobil'ni Dorohy;TMlightsalmon;4;devel
 #ukrr;UKR;Ukraine Rehional'na Avtomobil'na Doroha;TMyellow;5;devel
-usanht;USA;United States National Historic Trails;TMbrown;5;devel
-usatr;USA;United States Select Tourist Routes;TMbrown;5;devel
 #usatxf;USA;Texas Farm to Market Roads 1-499;TMyellow;5;devel
 #usatxf2;USA;Texas Farm to Market Roads 500-999;TMyellow;5;devel
 #usatxf3;USA;Texas Farm to Market Roads 1000-1499;TMyellow;5;devel
