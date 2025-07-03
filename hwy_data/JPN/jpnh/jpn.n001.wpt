@@ -1,5 +1,5 @@
-N4 http://www.openstreetmap.org/?lat=35.684051&lon=139.774493
-N15/P10 http://www.openstreetmap.org/?lat=35.682536&lon=139.773699
+N4/N6 +N4 http://www.openstreetmap.org/?lat=35.684051&lon=139.774493
+N15_N +N15/P10 http://www.openstreetmap.org/?lat=35.682536&lon=139.773699
 P403 http://www.openstreetmap.org/?lat=35.685295&lon=139.763136
 P304 http://www.openstreetmap.org/?lat=35.675006&lon=139.759551
 N20_W http://www.openstreetmap.org/?lat=35.677699&lon=139.753497
@@ -9,23 +9,23 @@ P301 http://www.openstreetmap.org/?lat=35.647953&lon=139.744570
 P305/P415 http://www.openstreetmap.org/?lat=35.642923&lon=139.734154
 P312 http://www.openstreetmap.org/?lat=35.640391&lon=139.732816
 P317 http://www.openstreetmap.org/?lat=35.623879&lon=139.720991
-P2_N http://www.openstreetmap.org/?lat=35.621163&lon=139.719677
+P2 +P2_N http://www.openstreetmap.org/?lat=35.621163&lon=139.719677
 SE2 http://www.openstreetmap.org/?lat=35.617404&lon=139.717673
 P318 http://www.openstreetmap.org/?lat=35.595556&lon=139.711673
 P311 http://www.openstreetmap.org/?lat=35.565494&lon=139.696535
 N409 http://www.openstreetmap.org/?lat=35.544050&lon=139.691199
 P14 http://www.openstreetmap.org/?lat=35.521520&lon=139.672082
 ToSEK7 http://www.openstreetmap.org/?lat=35.494698&lon=139.658653
-P2_S http://www.openstreetmap.org/?lat=35.484215&lon=139.641321
+P2_Yok +P2_S http://www.openstreetmap.org/?lat=35.484215&lon=139.641321
 N1Yok_E http://www.openstreetmap.org/?lat=35.481928&lon=139.636329
 P12 http://www.openstreetmap.org/?lat=35.478672&lon=139.633215
 P83 http://www.openstreetmap.org/?lat=35.471034&lon=139.626448
-N15 http://www.openstreetmap.org/?lat=35.470018&lon=139.627459
+N15_S +N15 http://www.openstreetmap.org/?lat=35.470018&lon=139.627459
 SEK1 http://www.openstreetmap.org/?lat=35.464779&lon=139.623828
-N16Yok http://www.openstreetmap.org/?lat=35.459546&lon=139.623504
+N16_E +N16Yok http://www.openstreetmap.org/?lat=35.459546&lon=139.623504
 P13 http://www.openstreetmap.org/?lat=35.459189&lon=139.623264
 P80 http://www.openstreetmap.org/?lat=35.456807&lon=139.618042
-N16/P81 http://www.openstreetmap.org/?lat=35.454252&lon=139.612521
+N16_W +N16/P81 http://www.openstreetmap.org/?lat=35.454252&lon=139.612521
 P84 http://www.openstreetmap.org/?lat=35.443740&lon=139.596297
 E16_Kar http://www.openstreetmap.org/?lat=35.444970&lon=139.583922
 E16(1) http://www.openstreetmap.org/?lat=35.443778&lon=139.576969
@@ -39,11 +39,12 @@ P18 http://www.openstreetmap.org/?lat=35.377132&lon=139.505349
 P30 http://www.openstreetmap.org/?lat=35.361130&lon=139.494632
 N467 http://www.openstreetmap.org/?lat=35.350768&lon=139.478477
 P43 http://www.openstreetmap.org/?lat=35.348623&lon=139.456703
-N1Shi_E http://www.openstreetmap.org/?lat=35.348034&lon=139.451690
+C4 +N1Shi_E http://www.openstreetmap.org/?lat=35.348034&lon=139.451690
 P44 http://www.openstreetmap.org/?lat=35.344078&lon=139.443286
 P45 http://www.openstreetmap.org/?lat=35.333173&lon=139.405632
-N1Shi_W http://www.openstreetmap.org/?lat=35.332799&lon=139.383792
-N129 http://www.openstreetmap.org/?lat=35.332174&lon=139.359042
+E84_Chi +N1Shi_W http://www.openstreetmap.org/?lat=35.332799&lon=139.383792
+P46 http://www.openstreetmap.org/?lat=35.332873&lon=139.377330
+N129/N412 +N129 http://www.openstreetmap.org/?lat=35.332174&lon=139.359042
 P61 http://www.openstreetmap.org/?lat=35.331778&lon=139.339641
 P62 http://www.openstreetmap.org/?lat=35.324678&lon=139.331117
 N134Ois http://www.openstreetmap.org/?lat=35.315253&lon=139.321901
@@ -59,65 +60,81 @@ E84_Oda http://www.openstreetmap.org/?lat=35.255966&lon=139.170432
 N255 http://www.openstreetmap.org/?lat=35.250587&lon=139.159304
 N135/P73 http://www.openstreetmap.org/?lat=35.246542&lon=139.149516
 +X355155 http://www.openstreetmap.org/?lat=35.246832&lon=139.132149
-E84/N1SSH_Iry http://www.openstreetmap.org/?lat=35.244379&lon=139.127723
-N1SSH_Yam http://www.openstreetmap.org/?lat=35.235152&lon=139.114266
+E84/N1Oda +E84/N1Oda_Iry http://www.openstreetmap.org/?lat=35.244379&lon=139.127723
+N1Oda_Yam http://www.openstreetmap.org/?lat=35.235152&lon=139.114266
 +X930091 http://www.openstreetmap.org/?lat=35.232755&lon=139.082643
-N138 http://www.openstreetmap.org/?lat=35.244941&lon=139.059304
+N138_W +N138 http://www.openstreetmap.org/?lat=35.244941&lon=139.059304
 +X513365 http://www.openstreetmap.org/?lat=35.238652&lon=139.046468
 +X303515 http://www.openstreetmap.org/?lat=35.223164&lon=139.047953
 P75_N http://www.openstreetmap.org/?lat=35.205464&lon=139.032055
 P75_S http://www.openstreetmap.org/?lat=35.189039&lon=139.025035
-N1SSH_W http://www.openstreetmap.org/?lat=35.184261&lon=139.016871
+N1Oda_Hak +N1Oda_W http://www.openstreetmap.org/?lat=35.184261&lon=139.016871
 P20 http://www.openstreetmap.org/?lat=35.182146&lon=139.014023
 +X735007 http://www.openstreetmap.org/?lat=35.169685&lon=139.009873
 +X951194 http://www.openstreetmap.org/?lat=35.138613&lon=138.970220
 E70 http://www.openstreetmap.org/?lat=35.131036&lon=138.943391
 P22_E http://www.openstreetmap.org/?lat=35.121374&lon=138.932191
-N136/P21 http://www.openstreetmap.org/?lat=35.111730&lon=138.919981
+P142 http://www.openstreetmap.org/?lat=35.114665&lon=138.927792
+N136 +N136/P21 http://www.openstreetmap.org/?lat=35.111730&lon=138.919981
 P51 http://www.openstreetmap.org/?lat=35.110109&lon=138.915206
 P380 http://www.openstreetmap.org/?lat=35.109549&lon=138.894873
-N246/N414 http://www.openstreetmap.org/?lat=35.121225&lon=138.881036
+N246/N414 http://www.openstreetmap.org/?lat=35.121227&lon=138.881046
 P22_W http://www.openstreetmap.org/?lat=35.121548&lon=138.860643
 +X994454 http://www.openstreetmap.org/?lat=35.116290&lon=138.838053
 P165 http://www.openstreetmap.org/?lat=35.127842&lon=138.800360
-+X741800 http://www.openstreetmap.org/?lat=35.137697&lon=138.750506
-N139/P76 http://www.openstreetmap.org/?lat=35.148918&lon=138.713734
+N139 +N139/P76 http://www.openstreetmap.org/?lat=35.148918&lon=138.713734
 N139FIS http://www.openstreetmap.org/?lat=35.141958&lon=138.676327
-+X399258 http://www.openstreetmap.org/?lat=35.120990&lon=138.623088
-+X225022 http://www.openstreetmap.org/?lat=35.110602&lon=138.573291
-P396 http://www.openstreetmap.org/?lat=35.093758&lon=138.551400
+FujEki http://www.openstreetmap.org/?lat=35.133350&lon=138.648252
+KanBarE http://www.openstreetmap.org/?lat=35.123691&lon=138.623321
++X974292 http://www.openstreetmap.org/?lat=35.116264&lon=138.622044
+KanBarW http://www.openstreetmap.org/?lat=35.111669&lon=138.576165
+P396 http://www.openstreetmap.org/?lat=35.093773&lon=138.551363
 N1Sei_E http://www.openstreetmap.org/?lat=35.056140&lon=138.531450
 N52 http://www.openstreetmap.org/?lat=35.054271&lon=138.528610
 P371 http://www.openstreetmap.org/?lat=35.043125&lon=138.498848
 N149 http://www.openstreetmap.org/?lat=35.023532&lon=138.487186
 P54/P67 http://www.openstreetmap.org/?lat=35.023941&lon=138.479582
+NanShin http://www.openstreetmap.org/?lat=35.010825&lon=138.449538
+P201 http://www.openstreetmap.org/?lat=34.999938&lon=138.432511
 P74 http://www.openstreetmap.org/?lat=34.990723&lon=138.418119
 P27 http://www.openstreetmap.org/?lat=34.972598&lon=138.387635
 N362 http://www.openstreetmap.org/?lat=34.970584&lon=138.384674
 P84_Shi http://www.openstreetmap.org/?lat=34.961754&lon=138.374837
-+X471047 http://www.openstreetmap.org/?lat=34.947792&lon=138.356583
+MarShin http://www.openstreetmap.org/?lat=34.954964&lon=138.368500
+P207 http://www.openstreetmap.org/?lat=34.949466&lon=138.359974
 N1Sei_W http://www.openstreetmap.org/?lat=34.948887&lon=138.331297
-+X250616 http://www.openstreetmap.org/?lat=34.923020&lon=138.292921
+P208 http://www.openstreetmap.org/?lat=34.937001&lon=138.308196
 P81/P381 http://www.openstreetmap.org/?lat=34.902469&lon=138.284550
-N1Fuj/P81 http://www.openstreetmap.org/?lat=34.897660&lon=138.277572
-P32 http://www.openstreetmap.org/?lat=34.871243&lon=138.227803
-+X872523 http://www.openstreetmap.org/?lat=34.851505&lon=138.193432
-P64 http://www.openstreetmap.org/?lat=34.843334&lon=138.148273
+N1Fuj +N1Fuj/P81 http://www.openstreetmap.org/?lat=34.897660&lon=138.277572
+P209 http://www.openstreetmap.org/?lat=34.891771&lon=138.262089
+P215 http://www.openstreetmap.org/?lat=34.889544&lon=138.256266
+P32 http://www.openstreetmap.org/?lat=34.869970&lon=138.225158
+ToKo http://www.openstreetmap.org/?lat=34.854264&lon=138.202837
+P217 http://www.openstreetmap.org/?lat=34.848083&lon=138.182615
+HasSas http://www.openstreetmap.org/?lat=34.845765&lon=138.166951
+P64 http://www.openstreetmap.org/?lat=34.843958&lon=138.150340
 N473_E http://www.openstreetmap.org/?lat=34.838147&lon=138.122486
 +X238060 http://www.openstreetmap.org/?lat=34.818745&lon=138.114265
 N473Kan http://www.openstreetmap.org/?lat=34.820949&lon=138.106465
 N1Nis_E http://www.openstreetmap.org/?lat=34.821286&lon=138.100017
 N1Nis_W http://www.openstreetmap.org/?lat=34.808935&lon=138.082325
-+X502773 http://www.openstreetmap.org/?lat=34.790888&lon=138.072718
-+X757522 http://www.openstreetmap.org/?lat=34.783919&lon=138.034544
+P415 http://www.openstreetmap.org/?lat=34.790138&lon=138.071258
+P270 http://www.openstreetmap.org/?lat=34.786393&lon=138.050342
+MiyWak http://www.openstreetmap.org/?lat=34.784468&lon=138.028131
 P39 http://www.openstreetmap.org/?lat=34.788007&lon=138.012893
 P40 http://www.openstreetmap.org/?lat=34.778402&lon=137.990231
-+X248315 http://www.openstreetmap.org/?lat=34.762737&lon=137.966519
+P253 http://www.openstreetmap.org/?lat=34.770438&lon=137.977968
+P402 http://www.openstreetmap.org/?lat=34.763121&lon=137.970394
+P413_E http://www.openstreetmap.org/?lat=34.757505&lon=137.935817
+HorKos http://www.openstreetmap.org/?lat=34.757266&lon=137.922232
 P61_Fuk http://www.openstreetmap.org/?lat=34.752695&lon=137.908242
-+X516279 http://www.openstreetmap.org/?lat=34.737096&lon=137.880088
+TamYam http://www.openstreetmap.org/?lat=34.746986&lon=137.894238
+P413_W http://www.openstreetmap.org/?lat=34.737575&lon=137.884721
+Iwai http://www.openstreetmap.org/?lat=34.737793&lon=137.877530
 P86 http://www.openstreetmap.org/?lat=34.739432&lon=137.858945
 P44_Iwa http://www.openstreetmap.org/?lat=34.735924&lon=137.846097
-N152/P65 http://www.openstreetmap.org/?lat=34.727985&lon=137.786404
+P262 http://www.openstreetmap.org/?lat=34.728376&lon=137.814308
+N152 +N152/P65 http://www.openstreetmap.org/?lat=34.727985&lon=137.786404
 N150 http://www.openstreetmap.org/?lat=34.689827&lon=137.769137
 N150Kak http://www.openstreetmap.org/?lat=34.674008&lon=137.754191
 +X439261 http://www.openstreetmap.org/?lat=34.670302&lon=137.719886
@@ -152,9 +169,9 @@ P76 http://www.openstreetmap.org/?lat=34.979831&lon=137.105839
 P12_Anj http://www.openstreetmap.org/?lat=34.992588&lon=137.078885
 N419 http://www.openstreetmap.org/?lat=35.001224&lon=137.059097
 N155_E http://www.openstreetmap.org/?lat=35.012722&lon=137.042761
-E1A/N23 http://www.openstreetmap.org/?lat=35.038024&lon=137.012168
+E1A +E1A/N23 http://www.openstreetmap.org/?lat=35.038024&lon=137.012168
 P57 http://www.openstreetmap.org/?lat=35.046896&lon=137.004564
-N302_E http://www.openstreetmap.org/?lat=35.067826&lon=136.965563
+C2(1) +N302_E http://www.openstreetmap.org/?lat=35.067826&lon=136.965563
 P59 http://www.openstreetmap.org/?lat=35.078465&lon=136.944513
 P36 http://www.openstreetmap.org/?lat=35.084560&lon=136.934524
 NE3(304) http://www.openstreetmap.org/?lat=35.088756&lon=136.932237
@@ -165,16 +182,16 @@ NE3(303) http://www.openstreetmap.org/?lat=35.108044&lon=136.923088
 +X810115 http://www.openstreetmap.org/?lat=35.110398&lon=136.922823
 NE3(313) http://www.openstreetmap.org/?lat=35.112375&lon=136.922396
 AirRte http://www.openstreetmap.org/?lat=35.115066&lon=136.921957
-N19/N247 http://www.openstreetmap.org/?lat=35.122069&lon=136.907274
+N19/N22 +N19/N247 http://www.openstreetmap.org/?lat=35.122069&lon=136.907274
 N154 http://www.openstreetmap.org/?lat=35.124017&lon=136.900993
 P63_Nag http://www.openstreetmap.org/?lat=35.123803&lon=136.888286
 InnRng_W http://www.openstreetmap.org/?lat=35.124872&lon=136.869141
 P59_Nag http://www.openstreetmap.org/?lat=35.126250&lon=136.824083
-N302_W http://www.openstreetmap.org/?lat=35.126383&lon=136.818233
+C2(25) +N302_W http://www.openstreetmap.org/?lat=35.126350&lon=136.818151
 P65_Kan http://www.openstreetmap.org/?lat=35.124270&lon=136.782809
 N155_W http://www.openstreetmap.org/?lat=35.113138&lon=136.731954
 P7 http://www.openstreetmap.org/?lat=35.096578&lon=136.703401
-+X864172 http://www.openstreetmap.org/?lat=35.080584&lon=136.690216
+P142_Kuw http://www.openstreetmap.org/?lat=35.076864&lon=136.684937
 N421 http://www.openstreetmap.org/?lat=35.058235&lon=136.684462
 N258 http://www.openstreetmap.org/?lat=35.048305&lon=136.679335
 N1Hok http://www.openstreetmap.org/?lat=35.028714&lon=136.671778
@@ -182,8 +199,8 @@ P26_Yok http://www.openstreetmap.org/?lat=35.011154&lon=136.658193
 P64_Yok http://www.openstreetmap.org/?lat=34.996353&lon=136.646476
 P9 http://www.openstreetmap.org/?lat=34.984065&lon=136.632159
 N365 http://www.openstreetmap.org/?lat=34.972473&lon=136.625029
-N164 http://www.openstreetmap.org/?lat=34.969308&lon=136.624031
-N164_End http://www.openstreetmap.org/?lat=34.967536&lon=136.623314
+N164/N477 http://www.openstreetmap.org/?lat=34.969308&lon=136.624031
+Suw http://www.openstreetmap.org/?lat=34.967536&lon=136.623314
 P44_Yok http://www.openstreetmap.org/?lat=34.941556&lon=136.602140
 N25_E http://www.openstreetmap.org/?lat=34.932629&lon=136.598272
 P8 http://www.openstreetmap.org/?lat=34.914362&lon=136.569351
@@ -193,8 +210,11 @@ P27_W http://www.openstreetmap.org/?lat=34.878764&lon=136.520541
 +X293680 http://www.openstreetmap.org/?lat=34.875670&lon=136.496132
 P28 http://www.openstreetmap.org/?lat=34.862972&lon=136.486691
 N306 http://www.openstreetmap.org/?lat=34.862928&lon=136.470273
-E25 http://www.openstreetmap.org/?lat=34.859148&lon=136.425779
-E23/E25 http://www.openstreetmap.org/?lat=34.858538&lon=136.414104
+ToP647 http://www.openstreetmap.org/?lat=34.864206&lon=136.439802
+P647 http://www.openstreetmap.org/?lat=34.862377&lon=136.435124
+ToE25 http://www.openstreetmap.org/?lat=34.859018&lon=136.425288
+E25 http://www.openstreetmap.org/?lat=34.858589&lon=136.414077
+E23 http://www.openstreetmap.org/?lat=34.857520&lon=136.411805
 P10 http://www.openstreetmap.org/?lat=34.849666&lon=136.399895
 P11 http://www.openstreetmap.org/?lat=34.849717&lon=136.392251
 N25_W http://www.openstreetmap.org/?lat=34.856063&lon=136.381075
@@ -204,19 +224,21 @@ N25_W http://www.openstreetmap.org/?lat=34.856063&lon=136.381075
 P9_Tsu http://www.openstreetmap.org/?lat=34.937269&lon=136.281461
 P24 http://www.openstreetmap.org/?lat=34.938468&lon=136.263204
 P24/P41 http://www.openstreetmap.org/?lat=34.939901&lon=136.254484
-+X845776 http://www.openstreetmap.org/?lat=34.961303&lon=136.201380
+P126 http://www.openstreetmap.org/?lat=34.960506&lon=136.203137
+ShiRd http://www.openstreetmap.org/?lat=34.966346&lon=136.196217
 N307_N http://www.openstreetmap.org/?lat=34.973878&lon=136.188211
 N307Hin http://www.openstreetmap.org/?lat=34.978151&lon=136.182254
 P13_E http://www.openstreetmap.org/?lat=34.986013&lon=136.120873
+P27_KonE http://www.openstreetmap.org/?lat=34.989644&lon=136.116625
 P13_W http://www.openstreetmap.org/?lat=34.994577&lon=136.110680
 N1Rit/P22 http://www.openstreetmap.org/?lat=35.022109&lon=136.064539
-P27_Kon http://www.openstreetmap.org/?lat=35.024787&lon=136.055060
+P27_KonW http://www.openstreetmap.org/?lat=35.024787&lon=136.055060
 N1Rit/P4 http://www.openstreetmap.org/?lat=35.021333&lon=136.049461
 P12_Rit http://www.openstreetmap.org/?lat=35.031024&lon=136.014803
 E1(30) http://www.openstreetmap.org/?lat=35.029320&lon=136.001628
 N8_E http://www.openstreetmap.org/?lat=35.028564&lon=135.999100
 P55 http://www.openstreetmap.org/?lat=35.026032&lon=135.993510
-P2 http://www.openstreetmap.org/?lat=35.021413&lon=135.975633
+P2_Rit http://www.openstreetmap.org/?lat=35.021413&lon=135.975633
 N1Ots http://www.openstreetmap.org/?lat=35.009898&lon=135.959130
 P43_Kus http://www.openstreetmap.org/?lat=34.999402&lon=135.947191
 P26_Kus http://www.openstreetmap.org/?lat=34.982737&lon=135.920283
@@ -226,24 +248,27 @@ N161 http://www.openstreetmap.org/?lat=34.991882&lon=135.834571
 E1(32) http://www.openstreetmap.org/?lat=34.989225&lon=135.828581
 P35_Yam http://www.openstreetmap.org/?lat=34.981169&lon=135.824109
 P185 http://www.openstreetmap.org/?lat=34.981452&lon=135.799601
-+X276812 http://www.openstreetmap.org/?lat=34.988814&lon=135.793788
+P143_E http://www.openstreetmap.org/?lat=34.994103&lon=135.775891
 P32_Kyo http://www.openstreetmap.org/?lat=34.995882&lon=135.766263
 N24/N367 http://www.openstreetmap.org/?lat=34.996210&lon=135.759714
 N9/P38 http://www.openstreetmap.org/?lat=34.996268&lon=135.752397
-P143 http://www.openstreetmap.org/?lat=34.979387&lon=135.753698
+P143_W http://www.openstreetmap.org/?lat=34.979387&lon=135.753698
 N171 http://www.openstreetmap.org/?lat=34.979208&lon=135.746231
 P181 http://www.openstreetmap.org/?lat=34.973325&lon=135.746064
 E1(33-2) http://www.openstreetmap.org/?lat=34.952781&lon=135.745501
 P13_N http://www.openstreetmap.org/?lat=34.932656&lon=135.744968
 P188 http://www.openstreetmap.org/?lat=34.926685&lon=135.744796
-N478/N1Kei http://www.openstreetmap.org/?lat=34.897572&lon=135.744028
+N1Kei/N478 +N478/N1Kei http://www.openstreetmap.org/?lat=34.897572&lon=135.744028
 P81 http://www.openstreetmap.org/?lat=34.890675&lon=135.743768
 P15 http://www.openstreetmap.org/?lat=34.879980&lon=135.736695
-P22_Yaw http://www.openstreetmap.org/?lat=34.871065&lon=135.729694
+P22_YawN http://www.openstreetmap.org/?lat=34.871065&lon=135.729694
+P22_YawS http://www.openstreetmap.org/?lat=34.868242&lon=135.727496
+P251 http://www.openstreetmap.org/?lat=34.857992&lon=135.712258
 P17_Hir http://www.openstreetmap.org/?lat=34.836897&lon=135.694333
 P18_Hir http://www.openstreetmap.org/?lat=34.826033&lon=135.683491
 N307_S http://www.openstreetmap.org/?lat=34.814740&lon=135.670038
-N168/P20 http://www.openstreetmap.org/?lat=34.808305&lon=135.656507
+N168 http://www.openstreetmap.org/?lat=34.808305&lon=135.656507
+YamTakRd http://www.openstreetmap.org/?lat=34.806717&lon=135.652828
 N170_N http://www.openstreetmap.org/?lat=34.801048&lon=135.630668
 N170_S http://www.openstreetmap.org/?lat=34.796322&lon=135.627428
 P13_S http://www.openstreetmap.org/?lat=34.793751&lon=135.619449
@@ -254,6 +279,7 @@ P2/P13 http://www.openstreetmap.org/?lat=34.749424&lon=135.578225
 N479 http://www.openstreetmap.org/?lat=34.731845&lon=135.555618
 N163_E http://www.openstreetmap.org/?lat=34.715477&lon=135.546564
 P8_Osa http://www.openstreetmap.org/?lat=34.700293&lon=135.546299
+P9012 http://www.openstreetmap.org/?lat=34.699284&lon=135.536388
 P30_Osa http://www.openstreetmap.org/?lat=34.697051&lon=135.518047
 HE12(12-01) http://www.openstreetmap.org/?lat=34.697639&lon=135.509384
 N423 http://www.openstreetmap.org/?lat=34.698133&lon=135.502008
