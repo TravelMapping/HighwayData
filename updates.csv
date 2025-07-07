@@ -8968,6 +8968,9 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2025-07-04;(USA) North Carolina;NC 902;nc.nc902;truncated to NC87 - old route to US 64 Bus remains US 15-501 and NC 87
+2025-07-04;(USA) North Carolina;US 15;nc.us015;rerouted around western Pittsboro using existing NC 87 and US 64.  Old route no longer primary routing. New route points are between SanRd_N and US64(383)
+2025-07-04;(USA) North Carolina;US 501;nc.us501;rerouted around western Pittsboro using existing NC 87 and US 64.  Old route no longer primary routing. New route points are between SanRd_N and US64(383)
 2025-05-28;(USA) North Carolina;I-73fut (Rockingham);;deleted - redundant with I-74
 2025-05-28;(USA) North Carolina;US 1 ALT (Franklinton);;deleted - decommissioned
 2025-05-28;(USA) North Carolina;I-885;nc.i885;exit 10 moved to US 70 split and Carr Rd (now 70(288A)) cannot use 10 as alt label
@@ -9584,6 +9587,7 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2025-07-04;(USA) South Carolina;SC 161 Business (York);;Route deleted
 2024-05-17;(USA) South Carolina;US 21;sc.us021;large wye intersection with SC 5 and SC 121 reconfigured to a T junction - between closed SC5_N and CowRd is the new routing
 2024-05-17;(USA) South Carolina;SC 121;sc.sc121;large wye intersection with SC 5 and US 21 reconfigured to a T junction - between closed SC5_S and CowRd is the new routing
 2024-01-14;(USA) South Carolina;I-74 Future (Myrtle Beach);;removed - not posted in any way and may not ever happen. Route remains SC 31
@@ -9738,6 +9742,8 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2025-03-21;(USA) Texas;US 181;tx.us181;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
+2025-03-21;(USA) Texas;TX35;tx.tx035;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
 2025-03-21;(USA) Texas;I-69;tx.i069;Extended southward from Exit 94 to TX Spur 10.
 2025-03-21;(USA) Texas;US 281;tx.us281;Removed from US 281 Business (Lampasas) and relocated onto E.E. Jr. Ohnmeiss Dr and US 183/190.
 2025-03-21;(USA) Texas;US 281 Business (Lampasas);tx.us281buslam;Route added.
@@ -9994,6 +10000,8 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2025-07-04;(USA) Virginia;US 311 Alt (Danville);va.us311altdan;Added route which had been part of US 311
+2025-07-04;(USA) Virginia;VA 83;va.va083;extended east to actual state line from what is now DivRidRd waypoint - no alt name possible
 2025-05-28;(USA) Virginia;US 311;va.us311;rerouted Oct 2024 over new alignment to end at US 58 instead of US 58 Business, everything from new waypoint BerHillRd_E is new routing
 2025-04-13;(USA) Virginia; US 58 Alt Bus (Dryden);va.us058altbusdry;new route added
 2025-04-13;(USA) Virginia; I-395;va.i395;exit 8C renumbered as 8B with no alt label possible
@@ -10087,6 +10095,7 @@ date;region;route;root;description
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quarry Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2025-07-05;(USA) West Virginia;WV 83;wv.wv083;Route truncated at the Western end to the actual state line about 0.4 miles to the east. The 'DavMouRd' point is now a part of an extended VA 83 route.
 2025-07-01;(USA) West Virginia;US 522 Bypass (Berkeley Springs);wv.us522bypber;Added route.
 2024-09-14;(USA) West Virginia;WV 41;wv.wv041;Removed from old alignment of Stanaford Road in Beckley between intersections with US 19 & McCulloch Drive, and relocated slightly north onto a new bridge alignment between the old intersection with US 19 (OldWV41) & McCDr.  This includes a small extension of the multiplex with US 19, thus requiring the point 'US19_BecN' to shift locations to the north by 0.1 miles, and the old intersection becoming 'OldWV41'.
 2024-09-14;(USA) West Virginia;US 19;wv.us019;Shifted the point 'WV41_BecN' 0.1 miles to the north to a new intersection, due to a reroute of WV 41 onto a new bridge in Beckley. Old location is now called 'OldWV41_N'.
