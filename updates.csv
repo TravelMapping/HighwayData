@@ -1908,6 +1908,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from L154 to A98 between A98 exits 11 and 13
+2025-07-07;(Germany) Bavaria;St2987;deuby.st2187;Route deleted (St2187 now)
+2025-07-07;(Germany) Bavaria;St2187;deuby.st2187;Route relocated from through Ebensfeld and onto southern bypass between west of Prächting to St2197
 2025-02-03;(Germany) Bavaria;B16 (Donauwörth);deuby.b016;Route relocated from through Marktoberdorf and onto eastern bypass from Schillenberg (St2008) to Altdorf (OAL5)
 2025-02-03;(Germany) Bavaria;B472;deuby.b472;Route truncated at west end from Geisenried (B12) to Bertoldshofen (B16), St2008 or B16 now
 2025-02-03;(Germany) Bavaria;St2008;deuby.st2008;Route extended at north end from Schillenberg (B16) to Geisenried (B12), former B472
@@ -2312,6 +2314,7 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2025-07-08;(Germany) North Rhine-Westphalia;B67 (Merfeld);deunw.b067mer;New Route
 2025-04-18;(Germany) North Rhine-Westphalia;Chorweiler Zubringer Köln;deunw.chozub;Route extended at west end from A57 to K21
 2025-04-15;(Germany) North Rhine-Westphalia;B51 (Köln);deunw.b051kol;Route relocated from through Meschenich, and onto western bypass
 2024-12-15;(Germany) North Rhine-Westphalia;L827 (Main);deunw.l827;Route truncated at west end from L616 to east of Steinheim, and reextended to B239
@@ -2865,6 +2868,8 @@ date;region;route;root;description
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2025-07-09;Hungary;M85;hun.m085;Route extended at western end between F84 (close to austrian border) and exit 89
+2025-07-09;Hungary;M44;hun.m044;Route extended at western end between M5 and exit 25
 2024-11-26;Hungary;F32;hun.f032;Route relocated from the town of Jászberény on the bypass of Jászberény
 2024-08-08;Hungary;F451;hun.f451;Route extended at east end from F45 to F47
 2024-07-30;Hungary;M44;hun.m044;Route extended at western end between exits 30 and 25
@@ -5464,6 +5469,8 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2025-07-08;Romania;DN2S;rou.dn02s;Route extended at eastern end from DN2J to DN22
+2025-07-08;Romania;A0;rou.a000;Route extended at eastern end from A3 to DN2
 2025-07-03;Romania;A1;rou.a001;Route extended at western end from DN7C to Curtea de Arges
 2025-07-03;Romania;A0 (Jilava);rou.a000jil;Route extended at western end from DN6 to A1
 2025-01-16;Romania;A7;rou.a007miz;New Route
@@ -9746,8 +9753,8 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
-2025-03-21;(USA) Texas;US 181;tx.us181;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
-2025-03-21;(USA) Texas;TX35;tx.tx035;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
+2025-07-06;(USA) Texas;US 181;tx.us181;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
+2025-07-06;(USA) Texas;TX 35;tx.tx035;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
 2025-03-21;(USA) Texas;I-69;tx.i069;Extended southward from Exit 94 to TX Spur 10.
 2025-03-21;(USA) Texas;US 281;tx.us281;Removed from US 281 Business (Lampasas) and relocated onto E.E. Jr. Ohnmeiss Dr and US 183/190.
 2025-03-21;(USA) Texas;US 281 Business (Lampasas);tx.us281buslam;Route added.
@@ -10136,6 +10143,7 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2025-07-09;(USA) Wisconsin;US 63;wi.us063;Removed from part of US 53 and road now named Service Loop in Trego and relocated onto Trego bypass and junction with US 53 farther south. (relocation between points 172 and *OldUS63_Tre)
 2025-03-29;(USA) Wisconsin;WI 158;wi.wi158;Extended east from WI 32 to 6th Avenue
 2025-03-27;(USA) Wisconsin;WI 195;wi.wi195;Extended from WI 31 east along County Line Rd to WI 32
 2025-02-27;(USA) Wisconsin;WI 75;;Deleted route
