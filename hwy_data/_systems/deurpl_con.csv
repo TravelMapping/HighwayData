@@ -46,7 +46,9 @@ deurpl;L40;;;deurp.l040
 deurpl;L42;;;deurp.l042
 deurpl;L43;;;deurp.l043
 deurpl;L46;;;deurp.l046
-deurpl;L47;;(Main);deurp.l047
+deurpl;L47;;Quint;deurp.l047qui
+deurpl;L47;;Schweich;deurp.l047sch
+deurpl;L47;;Osann-Monzel;deurp.l047
 deurpl;L47;;Bernkastel-Kues;deurp.l047ber
 deurpl;L48;;;deurp.l048
 deurpl;L49;;;deurp.l049
@@ -56,11 +58,8 @@ deurpl;L53;;;deurp.l053
 deurpl;L54;;;deurp.l054
 deurpl;L55;;;deurp.l055
 deurpl;L56;;;deurp.l056
-deurpl;L57;;;deurp.l057
 deurpl;L58;;;deurp.l058
 deurpl;L60;;;deurp.l060
-deurpl;L62;;;deurp.l062
-deurpl;L63;;;deurp.l063
 deurpl;L64;;;deurp.l064
 deurpl;L65;;;deurp.l065
 deurpl;L66;;;deurp.l066
@@ -77,14 +76,14 @@ deurpl;L75;;;deurp.l075
 deurpl;L76;;;deurp.l076
 deurpl;L77;;;deurp.l077
 deurpl;L78;;;deurp.l078
-deurpl;L79;;(Main);deurp.l079
-deurpl;L79;;Beller;deurp.l079bel
+deurpl;L79;;;deurp.l079
 deurpl;L80;;(Main);deurp.l080
 deurpl;L80;;Heppingen;deurp.l080hep
 deurpl;L81;;;deurp.l081
 deurpl;L82;;Sinzig;deurp.l082sin
 deurpl;L82;;Mayen;deurp.l082
-deurpl;L82;AST;Sinzig;deurp.l082ast
+deurpl;L82;;Mayen (branch);deurp.l082may
+deurpl;L82;;Niederzissen;deurp.l082nie
 deurpl;L83;;;deurp.l083
 deurpl;L84;;;deurp.l084
 deurpl;L85;;;deurp.l085
@@ -104,6 +103,7 @@ deurpl;L97;;;deurp.l097
 deurpl;L98;;Ochtendung;deurp.l098och
 deurpl;L98;;Cochem;deurp.l098
 deurpl;L98;;Senheim;deurp.l098sen
+deurpl;L98;;Mayen;deurp.l098may
 deurpl;L99;;;deurp.l099
 deurpl;L100;;;deurp.l100
 deurpl;L101;;Mosbruch;deurp.l101
@@ -117,7 +117,8 @@ deurpl;L106;;;deurp.l106
 deurpl;L107;;;deurp.l107
 deurpl;L108;;;deurp.l108
 deurpl;L109;;;deurp.l109
-deurpl;L110;;;deurp.l110
+deurpl;L110;;(Main);deurp.l110
+deurpl;L110;;Naunheim;deurp.l110nau
 deurpl;L111;;;deurp.l111
 deurpl;L112;;;deurp.l112
 deurpl;L113;;;deurp.l113
@@ -142,8 +143,7 @@ deurpl;L133;;;deurp.l133
 deurpl;L134;;;deurp.l134
 deurpl;L135;;;deurp.l135
 deurpl;L136;;;deurp.l136
-deurpl;L137;;Konz;deurp.l137
-deurpl;L137;;Wiltingen;deurp.l137wil
+deurpl;L137;;;deurp.l137
 deurpl;L138;;;deurp.l138
 deurpl;L139;;;deurp.l139
 deurpl;L141;;;deurp.l141
@@ -189,7 +189,6 @@ deurpl;L185;;;deurp.l185
 deurpl;L187;;;deurp.l187
 deurpl;L189;;;deurp.l189
 deurpl;L190;;;deurp.l190
-deurpl;L192;;;deurp.l192
 deurpl;L193;;;deurp.l193
 deurpl;L194;;;deurp.l194
 deurpl;L195;;;deurp.l195
@@ -276,7 +275,7 @@ deurpl;L280;;Oberasdorf;deurp.l280obe
 deurpl;L280;;Betzdorf;deurp.l280
 deurpl;L281;;Gebhardshain;deurp.l281geb
 deurpl;L281;;Hachenburg;deurp.l281
-deurpl;L281a;;;deurp.l281a
+deurpl;L281;;Alpenrod;deurp.l281alp
 deurpl;L282;;;deurp.l282
 deurpl;L283;;;deurp.l283
 deurpl;L284;;;deurp.l284
@@ -344,8 +343,7 @@ deurpl;L341;;;deurp.l341
 deurpl;L347;;;deurp.l347
 deurpl;L348;;Berschweiler;deurp.l348
 deurpl;L348;;Eckersweiler;deurp.l348eck
-deurpl;L349;;(Main);deurp.l349
-deurpl;L349;;Reichweiler;deurp.l349rei
+deurpl;L349;;;deurp.l349
 deurpl;L350;;;deurp.l350
 deurpl;L352;;;deurp.l352
 deurpl;L353;;;deurp.l353
@@ -353,7 +351,6 @@ deurpl;L354;;;deurp.l354
 deurpl;L355;;Schönenberg-Kübelberg;deurp.l355
 deurpl;L355;;Bruchmühlbach-Miesau;deurp.l355bru
 deurpl;L356;;;deurp.l356
-deurpl;L357;;;deurp.l357
 deurpl;L358;;;deurp.l358
 deurpl;L359;;;deurp.l359
 deurpl;L360;;(Main);deurp.l360
@@ -383,23 +380,21 @@ deurpl;L385;;;deurp.l385
 deurpl;L386;;;deurp.l386
 deurpl;L387;;;deurp.l387
 deurpl;L388;;;deurp.l388
-deurpl;L389;;;deurp.l389
+deurpl;L389;;(Main);deurp.l389
+deurpl;L389;;Otterbach;deurp.l389ott
 deurpl;L390;;;deurp.l390
 deurpl;L391;;;deurp.l391
 deurpl;L392;;;deurp.l392
 deurpl;L393;;;deurp.l393
 deurpl;L394;;;deurp.l394
 deurpl;L395;;;deurp.l395
-deurpl;L396;;;deurp.l396
 deurpl;L397;;;deurp.l397
 deurpl;L398;;;deurp.l398
 deurpl;L399;;;deurp.l399
 deurpl;L400;;;deurp.l400
 deurpl;L401;;;deurp.l401
-deurpl;L402;;;deurp.l402
 deurpl;L403;;;deurp.l403
 deurpl;L404;;;deurp.l404
-deurpl;L405;;;deurp.l405
 deurpl;L406;;;deurp.l406
 deurpl;L407;;;deurp.l407
 deurpl;L408;;;deurp.l408
@@ -422,19 +417,18 @@ deurpl;L426;;;deurp.l426
 deurpl;L427;;;deurp.l427
 deurpl;L428;;;deurp.l428
 deurpl;L429;;;deurp.l429
-deurpl;L430;;;deurp.l430
 deurpl;L431;;;deurp.l431
 deurpl;L432;;;deurp.l432
 deurpl;L435;;;deurp.l435
 deurpl;L436;;;deurp.l436
 deurpl;L437;;;deurp.l437
 deurpl;L438;;;deurp.l438
-deurpl;L439;;;deurp.l439
+deurpl;L439;;(Main);deurp.l439
+deurpl;L439;;Worms;deurp.l439wor
 deurpl;L440;;;deurp.l440
 deurpl;L442;;;deurp.l442
 deurpl;L443;;;deurp.l443
 deurpl;L445;;;deurp.l445
-deurpl;L446;;;deurp.l446
 deurpl;L447;;;deurp.l447
 deurpl;L448;;;deurp.l448
 deurpl;L449;;;deurp.l449
@@ -463,7 +457,6 @@ deurpl;L475;;;deurp.l475
 deurpl;L476;;;deurp.l476
 deurpl;L477;;;deurp.l477
 deurpl;L478;;;deurp.l478
-deurpl;L479;;;deurp.l479
 deurpl;L480;;;deurp.l480
 deurpl;L482;;(Main);deurp.l482
 deurpl;L482;;Pirmasens;deurp.l482pir
@@ -497,7 +490,6 @@ deurpl;L507;;Schwegenheim;deurp.l507sch
 deurpl;L508;;Siebeldingen;deurp.l508
 deurpl;L508;;Bad Bergzabern;deurp.l508ber
 deurpl;L509;;(Main);deurp.l509
-deurpl;L509;;Bellheim;deurp.l509bel
 deurpl;L509;;Offenbach an der Queich;deurp.l509off
 deurpl;L510;;;deurp.l510
 deurpl;L511;;;deurp.l511
@@ -509,6 +501,7 @@ deurpl;L516;;Grünstadt;deurp.l516gru
 deurpl;L516;;Kirchheim;deurp.l516kir
 deurpl;L516;;Bad Dürkheim;deurp.l516dur
 deurpl;L516;;Edenkoben;deurp.l516
+deurpl;L516;;Walsheim;deurp.l516wal
 deurpl;L517;;;deurp.l517
 deurpl;L519;;Meckenheim;deurp.l519
 deurpl;L519;;Burrweiler;deurp.l519bur
