@@ -3851,7 +3851,9 @@ date;region;route;root;description
 2024-04-30;(Mexico) Baja California Sur;MEX1D;mexbcs.mex001d;north end truncated (remainder is in mexf as MEX1AIC)
 2024-04-30;(Mexico) Baja California Sur;MEX1DCab;mexbcs.mex001dcab;new route
 2024-04-30;(Mexico) Baja California Sur;MEX19D;mexbcs.mex019d;new route
-2024-05-02;(Mexico) Chihuahua;CHIH48D;mexchih.chih048d;extended east from MEX45 to MEX2
+2025-07-23;(Mexico) Chihuahua;CHIH45D;mexchih.chih045d;new route (was CHIH48D)
+2025-07-23;(Mexico) Chihuahua;CHIH48D;mexchih.chih045d;renamed CHIH45D
+2024-05-02;(Mexico) Chihuahua;CHIH48D;mexchih.chih045d;extended east from MEX45 to MEX2
 2024-05-02;(Mexico) Chihuahua;CHIH80D;mexchih.chih080d;new route
 2024-05-02;(Mexico) Estado de México;MEX15DTol;mexemex.emexa006d;deleted (renumbered EMEXA6D)
 2024-05-02;(Mexico) Estado de México;MEX55DTen;mexemex.emexa002d;deleted (renumbered EMEXA2D)
@@ -8346,6 +8348,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2025-07-24;(USA) Louisiana;LA 415;la.la0415;Extended at south end from I-10 to end of state maintenance at I-10 frontage road
 2025-06-24;(USA) Louisiana;LA 3241;la.la3241;Extended at south end from LA 435 to LA 36
 2025-05-29;(USA) Louisiana;LA 93-1;la.la00931;Truncated at south end from Ridge Rd. (former LA 342) to W. Congress St.
 2025-05-29;(USA) Louisiana;LA 342;la.la0342;Truncated at east end from Rue de Belier (former LA 93-1) to a point east of LA 724
@@ -9656,6 +9659,7 @@ date;region;route;root;description
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
+2025-06-23;(USA) South Dakota;SD 1889;sd.sd1889;New Route
 2025-02-27;(USA) South Dakota;US 14;sd.us014;Rerouted along former US 14/83 Truck in Pierre
 2025-02-27;(USA) South Dakota;US 83;sd.us083;Rerouted along former US 14/83 Truck in Pierre
 2025-02-27;(USA) South Dakota;US 14 Truck (Pierre);;Deleted route
@@ -9947,7 +9951,6 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
 2024-10-26;(USA) Utah;UT 176;ut.ut176;Route extended at west end from Main Street along new roadway to connector to Vineyard Road.
-2024-09-25;(USA) Utah;UT 201 (Salt Lake City);ut.ut201sal;New Route
 2024-08-23;(USA) Utah;UT 193;ut.ut193;Route extended at west end from UT 177 to UT 110.
 2024-08-23;(USA) Utah;UT 106;ut.ut106;Rerouted from Main Street onto Shepard Lane at north end. Now ends at US 89 exit 396 instead of exit 397.
 2024-04-03;(USA) Utah;UT 287;ut.ut287;Route truncated at north end removing it from now-closed access road to former state prison. Portion along I-15 frontage road up to intersection with former prison access road remains.
