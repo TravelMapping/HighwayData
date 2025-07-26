@@ -3957,6 +3957,7 @@ date;region;route;root;description
 2024-05-04;(Mexico) Estado de México;MEX134D;mexemex.mex134d;new route
 2024-05-04;(Mexico) Estado de México;MEX150D;mexemex.mex150d;new route (was MEX150DIxt) (extended west)
 2024-05-04;(Mexico) Estado de México;MEX150DIxt;mexemex.mex150d;deleted (renamed MEX150D)
+2025-07-24;(Mexico) Guerrero;MEX93D;mexgro.mex093chi;deleted (renamed MEX93Chi in mexf)
 2024-05-04;(Mexico) Guerrero;MEX93D;mexgro.mex093d;new route
 2024-05-04;(Mexico) Guerrero;MEX95DAca;mexgro.mex095daca;new route
 2024-05-04;(Mexico) Guerrero;MEX95DAca;mexgro.mex095dchi;deleted (renamed MEX95DChi)
@@ -3974,6 +3975,7 @@ date;region;route;root;description
 2024-05-04;(Mexico) Morelos;MEX95D;mexmor.mex095d;extended north from south Cuernavaca to Ciudad de México (absorbing MEX95DMex)
 2024-05-04;(Mexico) Morelos;MEX95D;mexmor.mex095dmex;deleted (absorbed by MEX95D)
 2024-05-04;(Mexico) Morelos;MEX115DAme;mexmor.mex115dame;new route
+2025-07-25;(Mexico) Nuevo León;MEX85D;mexnl.mex085d;extended north from MEX85_GloS to NL/TAM
 2024-05-04;(Mexico) Oaxaca;MEX175D;mexoax.mex175d;new route
 2024-05-04;(Mexico) Oaxaca;MEX185D;mexoax.mex185d;new route (was MEX200D) and east end truncated 
 2024-05-04;(Mexico) Oaxaca;MEX190D;mexoax.mex190d;new route
@@ -3993,7 +3995,9 @@ date;region;route;root;description
 2024-05-04;(Mexico) Zacatecas;MEX45D;mexzac.mex045d;extended south from ZAC181
 2024-05-04;(Mexico) Zacatecas;MEX49DFre;mexzac.mex049dfre;deleted (still MEX45DFre)
 2024-05-04;(Mexico) Zacatecas;MEX49DVic;mexzac.mex049dvic;deleted (still MEX45DVic)
-2024-06-13;(Mexico) Tamaulipas;MEX97D;mextam.mex097d;new route
+2025-07-25;(Mexico) Tamaulipas;MEX85D;mextam.mex085d;new route
+2025-07-25;(Mexico) Tamaulipas;MEX97D;mextam.mex002pha;deleted (merged with MEX2Pha in mexf)
+2024-06-13;(Mexico) Tamaulipas;MEX97D;mextam.mex002pha;new route
 2025-02-01;Moldova;R32.1;mda.r0321;Route truncated at south end from G314 to M3
 2024-02-15;Moldova;E581;mda.e581;Route removed from R3 and relocated onto R3 and M3 between M2/R3 junction and M3/R3 junction north of Cimislia
 2024-02-15;Moldova;M3 (Comrat);mda.m003;Route truncated at south end from Romanian border to R32.1 and extended at south end to G142
@@ -8348,6 +8352,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2025-07-24;(USA) Louisiana;LA 415;la.la0415;Extended at south end from I-10 to end of state maintenance at I-10 frontage road
 2025-06-24;(USA) Louisiana;LA 3241;la.la3241;Extended at south end from LA 435 to LA 36
 2025-05-29;(USA) Louisiana;LA 93-1;la.la00931;Truncated at south end from Ridge Rd. (former LA 342) to W. Congress St.
 2025-05-29;(USA) Louisiana;LA 342;la.la0342;Truncated at east end from Rue de Belier (former LA 93-1) to a point east of LA 724
