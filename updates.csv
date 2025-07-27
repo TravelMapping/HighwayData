@@ -3848,9 +3848,11 @@ date;region;route;root;description
 2018-09-13;(Mexico) Estado de México;MEX15D;mexemex.mex015d;East end extended from MEX55 to MEX40D.
 2024-04-30;(Mexico) Baja California;MEX1D;mexbc.mex001d;north end truncated (remainder is in mexsf as CarrEsc)
 2024-04-30;(Mexico) Baja California;MEX2D;mexbc.mex002d;west end truncated
+2025-07-27;(Mexico) Baja California Sur;MEX1DMan;mexbcs.mex001dman;new route (was MEX19D)
+2025-07-27;(Mexico) Baja California Sur;MEX19D;mexbcs.mex001dman;deleted (renamed MEX1DMan)
 2024-04-30;(Mexico) Baja California Sur;MEX1D;mexbcs.mex001d;north end truncated (remainder is in mexf as MEX1AIC)
 2024-04-30;(Mexico) Baja California Sur;MEX1DCab;mexbcs.mex001dcab;new route
-2024-04-30;(Mexico) Baja California Sur;MEX19D;mexbcs.mex019d;new route
+2024-04-30;(Mexico) Baja California Sur;MEX19D;mexbcs.mex001dman;new route
 2025-07-23;(Mexico) Chihuahua;CHIH45D;mexchih.chih045d;new route (was CHIH48D)
 2025-07-23;(Mexico) Chihuahua;CHIH48D;mexchih.chih045d;renamed CHIH45D
 2024-05-02;(Mexico) Chihuahua;CHIH48D;mexchih.chih045d;extended east from MEX45 to MEX2
@@ -3906,7 +3908,9 @@ date;region;route;root;description
 2024-05-03;(Mexico) Quintana Roo;MEX305D;mexqroo.mex305d;new route
 2024-05-03;(Mexico) Quintana Roo;MEX307D;mexqroo.mex307d;new route
 2024-05-03;(Mexico) Tabasco;MEX180DVil;mextab.mex180dvil;new route
-2024-05-03;(Mexico) Tamaulipas;MEX10D;mextam.mex010d;new route
+2025-07-26;(Mexico) Tamaulipas;MEX10D;mextam.mex020d;deleted (became MEX20D)
+2025-07-26;(Mexico) Tamaulipas;MEX20D;mextam.mex020d;new route (was MEX10D)
+2024-05-03;(Mexico) Tamaulipas;MEX10D;mextam.mex020d;new route
 2024-05-03;(Mexico) Veracruz;MEX132D;mexver.mex132d;extended east into Túxpam
 2024-05-03;(Mexico) Veracruz;MEX140D;mexver.mex140d;extended east to MEX140
 2024-05-03;(Mexico) Veracruz;MEX140DEPl;mexver.mex140dpla;deleted (renamed MEX140DPla)
@@ -3922,6 +3926,7 @@ date;region;route;root;description
 2024-05-03;(Mexico) Estado de México;MEX15DMex;mexemex.mex015dmex;extended north to Lerma
 2024-05-03;(Mexico) Guanajuato;MEX80D;mexgto.mex080d;new route
 2024-05-03;(Mexico) Guanajuato;MEX90D;mexgto.mex090d;new route
+2025-07-26;(Mexico) Jalisco;MEX200D;mexjal.mex200d;new route
 2024-05-03;(Mexico) Jalisco;MEX45D;mexjal.mex045d;new route (was MEX45DLeo)
 2024-05-03;(Mexico) Jalisco;MEX45DLeo;mexjal.mex045d;deleted (renamed MEX45D)
 2024-05-03;(Mexico) Jalisco;MEX80DLag;mexjal.mex080dlag;new route
@@ -3930,6 +3935,7 @@ date;region;route;root;description
 2024-05-03;(Mexico) Jalisco;MEXGUA10D;mexjal.mexgua010d;new route
 2024-05-03;(Mexico) Michoacán;MEX37DMor;mexmich.mex037dmor;new route
 2024-05-03;(Mexico) Michoacán;MEX90D;mexmich.mex090d;new route
+2025-07-26;(Mexico) Nayarit;MEX200D;mexnay.mex200d;extended south from MEX200_Buc to NAY/JAL
 2024-05-03;(Mexico) Nayarit;MEX15D;mexnay.mex015d;new route (was MEX15DTeq)
 2024-05-03;(Mexico) Nayarit;MEX15DTeq;mexnay.mex015d;deleted (renamed MEX15D)
 2024-05-03;(Mexico) Nayarit;MEX15DCha;mexnay.mex015dcha;new route (was MEX15D)
@@ -3976,10 +3982,12 @@ date;region;route;root;description
 2024-05-04;(Mexico) Morelos;MEX95D;mexmor.mex095dmex;deleted (absorbed by MEX95D)
 2024-05-04;(Mexico) Morelos;MEX115DAme;mexmor.mex115dame;new route
 2025-07-25;(Mexico) Nuevo León;MEX85D;mexnl.mex085d;extended north from MEX85_GloS to NL/TAM
+2025-07-26;(Mexico) Oaxaca;MEX190D;mexoax.mex190d;extended west from Lac to LlaCru and absorbed MEX190DMit from LlaCru to MEX179/190
+2025-07-26;(Mexico) Oaxaca;MEX190DMit;mexoax.mex190d;deleted (absorbed by MEX190D)
 2024-05-04;(Mexico) Oaxaca;MEX175D;mexoax.mex175d;new route
 2024-05-04;(Mexico) Oaxaca;MEX185D;mexoax.mex185d;new route (was MEX200D) and east end truncated 
 2024-05-04;(Mexico) Oaxaca;MEX190D;mexoax.mex190d;new route
-2024-05-04;(Mexico) Oaxaca;MEX190DMit;mexoax.mex190dmit;new route
+2024-05-04;(Mexico) Oaxaca;MEX190DMit;mexoax.mex190d;new route
 2024-05-04;(Mexico) Oaxaca;MEX200D;mexoax.mex185d;deleted (renumbered MEX185D)
 2025-07-22;(Mexico) Puebla;MEX136D;mexpue.mex136d;extended from MEX140 to MEX150D
 2024-05-04;(Mexico) Puebla;MEX132DAvi;mexpue.mex132davi;new route
@@ -7489,6 +7497,7 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2025-07-26;(USA) California;I-580;ca.i580;Changed exit numbers in Richmond, old 7B is now 7 and old 7C is now 7B
 2025-06-28;(USA) California;CA 41;ca.ca041;Realigned east of Shandon
 2025-06-28;(USA) California;CA 46;ca.ca046;Realigned east of Shandon
 2025-03-16;(USA) California;Dante's View Road (Death Valley NP);ca.danviewrd;Added route

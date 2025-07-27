@@ -1,11 +1,11 @@
 systemName;route;banner;groupName;roots
 mexd;MEX1D;;San José del Cabo, BCS;mexbcs.mex001d
 mexd;MEX1D;;Cabo San Lucas, BCS;mexbcs.mex001dcab
+mexd;MEX1D;;El Mangle, BCS;mexbcs.mex001dman
 mexd;MEX1D;;Baja California;mexbc.mex001d
 mexd;MEX2D;;Baja California;mexbc.mex002d
 mexd;MEX2D;;Sonora;mexson.mex002d
 mexd;MEX2D;;Tamaulipas;mextam.mex002d
-mexd;MEX10D;;;mextam.mex010d
 mexd;MEX14D;;;mexmich.mex014d
 mexd;MEX15D;;Distrito Federal - E. Estado de México;mexdf.mex015d,mexemex.mex015dmex
 mexd;MEX15D;;Macho de Agua, MICH;mexemex.mex015dmac,mexmich.mex015dmac
@@ -20,7 +20,7 @@ mexd;MEX15D;;Ciudad Obregón;mexson.mex015dobr
 mexd;MEX15D;;C. Sonora;mexson.mex015d
 mexd;MEX15D;;Nogales, SON;mexson.mex015dnog
 mexd;MEX16D;;;mexchih.mex016d
-mexd;MEX19D;;;mexbcs.mex019d
+mexd;MEX20D;;;mextam.mex020d
 mexd;MEX37D;;Lázaro Cárdenas-Uruapan;mexmich.mex037dlaz,mexgro.mex037d,mexmich.mex037d
 mexd;MEX37D;;Morelia;mexmich.mex037dmor
 mexd;MEX37D;;San Luis Potosí;mexslp.mex037d
@@ -98,11 +98,10 @@ mexd;MEX180D;;Campeche;mexcam.mex180d
 mexd;MEX180D;;Yucatán - Quintana Roo;mexyuc.mex180d,mexqroo.mex180d
 mexd;MEX185D;;;mexoax.mex185d
 mexd;MEX190D;;Puebla;mexpue.mex190d
-mexd;MEX190D;;Mitla;mexoax.mex190dmit
 mexd;MEX190D;;Tehuantepec;mexoax.mex190d
 mexd;MEX190D;;Arriaga-Ocozocuautla;mexchis.mex190d
 mexd;MEX190D;;San Cristóbal;mexchis.mex190dcri
-mexd;MEX200D;;Compostela, NAY;mexnay.mex200d
+mexd;MEX200D;;Nayarit-Jalisco;mexnay.mex200d,mexjal.mex200d
 mexd;MEX200D;;Colima;mexcol.mex200d
 mexd;MEX200D;;Tecpán de Galeana;mexgro.mex200dtec
 mexd;MEX200D;;Guerrero;mexgro.mex200d
