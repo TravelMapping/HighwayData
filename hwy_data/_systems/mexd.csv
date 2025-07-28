@@ -1,12 +1,11 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 mexd;MEX-BCS;MEX1D;;;San José del Cabo;mexbcs.mex001d;
 mexd;MEX-BCS;MEX1D;;Cab;Cabo San Lucas;mexbcs.mex001dcab;
-mexd;MEX-BCS;MEX19D;;;;mexbcs.mex019d;
+mexd;MEX-BCS;MEX1D;;Man;El Mangle;mexbcs.mex001dman;
 mexd;MEX-BC;MEX1D;;;;mexbc.mex001d;
 mexd;MEX-BC;MEX2D;;;;mexbc.mex002d;
 mexd;MEX-SON;MEX2D;;;;mexson.mex002d;
 mexd;MEX-TAM;MEX2D;;;;mextam.mex002d;
-mexd;MEX-TAM;MEX10D;;;;mextam.mex010d;
 mexd;MEX-MICH;MEX14D;;;;mexmich.mex014d;
 mexd;MEX-DF;MEX15D;;;Ciudad de México;mexdf.mex015d;MEX15DMex
 mexd;MEX-EMEX;MEX15D;;Mex;Ciudad de México;mexemex.mex015dmex;
@@ -28,6 +27,7 @@ mexd;MEX-SON;MEX15D;;Obr;Ciudad Obregón;mexson.mex015dobr;
 mexd;MEX-SON;MEX15D;;;;mexson.mex015d;
 mexd;MEX-SON;MEX15D;;Nog;Nogales;mexson.mex015dnog;
 mexd;MEX-CHIH;MEX16D;;;;mexchih.mex016d;
+mexd;MEX-TAM;MEX20D;;;;mextam.mex020d;
 mexd;MEX-MICH;MEX37D;;Laz;Lázaro Cárdenas;mexmich.mex037dlaz;
 mexd;MEX-GRO;MEX37D;;;Uruapan;mexgro.mex037d;
 mexd;MEX-MICH;MEX37D;;;Uruapan;mexmich.mex037d;
@@ -79,6 +79,7 @@ mexd;MEX-NAY;MEX68D;;;;mexnay.mex068d;
 mexd;MEX-NAY;MEX70D;;;;mexnay.mex070d;
 mexd;MEX-SLP;MEX70D;;;;mexslp.mex070d;
 mexd;MEX-TAM;MEX70D;;;;mextam.mex070d;
+mexd;MEX-NAY;MEX76D;;;;mexnay.mex076d;AutTepSB
 mexd;MEX-JAL;MEX80D;;;;mexjal.mex080d;
 mexd;MEX-JAL;MEX80D;;Lag;Lagos de Moreno;mexjal.mex080dlag;
 mexd;MEX-GTO;MEX80D;;;;mexgto.mex080d;
@@ -86,21 +87,20 @@ mexd;MEX-SLP;MEX80D;;;;mexslp.mex080d;
 mexd;MEX-EMEX;MEX85D;;;;mexemex.mex085d;
 mexd;MEX-HGO;MEX85D;;;;mexhgo.mex085d;
 mexd;MEX-NL;MEX85D;;;;mexnl.mex085d;
+mexd;MEX-TAM;MEX85D;;;;mextam.mex085d;
 mexd;MEX-JAL;MEX90D;;;;mexjal.mex090d;
 mexd;MEX-MICH;MEX90D;;;;mexmich.mex090d;
 mexd;MEX-JAL;MEX90D;;Pie;La Piedad de Cabadas;mexjal.mex090dpie;
 mexd;MEX-GTO;MEX90D;;;;mexgto.mex090d;
-mexd;MEX-GRO;MEX93D;;;;mexgro.mex093d;
+mexd;MEX-GRO;MEX91D;;Tax;Taxco;mexgro.mex091dtax;MEX95DTax
+mexd;MEX-GRO;MEX91D;;;;mexgro.mex091d;MEX95DIgu
+mexd;MEX-MOR;MEX91D;;;;mexmor.mex091d;MEX95DIgu
 mexd;MEX-MOR;MEX94D;;;;mexmor.mex094d;
 mexd;MEX-GRO;MEX95D;;Aca;Acapulco;mexgro.mex095daca;
 mexd;MEX-GRO;MEX95D;;Chi;Chilpancingo;mexgro.mex095dchi;
-mexd;MEX-GRO;MEX95D;;Tax;Taxco;mexgro.mex095dtax;
-mexd;MEX-GRO;MEX95D;;Igu;Iguala;mexgro.mex095digu;
-mexd;MEX-MOR;MEX95D;;Igu;Iguala;mexmor.mex095digu;
 mexd;MEX-GRO;MEX95D;;;Temixco;mexgro.mex095d;
 mexd;MEX-MOR;MEX95D;;;Temixco;mexmor.mex095d;MEX95DMex
 mexd;MEX-DF;MEX95D;;;;mexdf.mex095d;MEX95DMex
-mexd;MEX-TAM;MEX97D;;;;mextam.mex097d;
 mexd;MEX-MOR;MEX115D;;;;mexmor.mex115d;
 mexd;MEX-MOR;MEX115D;;Ame;Amecameca;mexmor.mex115dame;
 mexd;MEX-EMEX;MEX115D;;;;mexemex.mex115d;
@@ -115,7 +115,6 @@ mexd;MEX-HGO;MEX132D;;;;mexhgo.mex132d;
 mexd;MEX-PUE;MEX132D;;;;mexpue.mex132d;
 mexd;MEX-PUE;MEX132D;;Avi;Villa Ávila Camacho;mexpue.mex132davi;
 mexd;MEX-VER;MEX132D;;;;mexver.mex132d;
-mexd;MEX-CHIS;MEX133D;;;;mexchis.mex133d;
 mexd;MEX-EMEX;MEX134D;;;;mexemex.mex134d;
 mexd;MEX-OAX;MEX135D;;;;mexoax.mex135d;
 mexd;MEX-PUE;MEX135D;;;;mexpue.mex135d;
@@ -152,18 +151,18 @@ mexd;MEX-CAM;MEX180D;;;Campeche;mexcam.mex180d;
 mexd;MEX-YUC;MEX180D;;;Cancún;mexyuc.mex180d;
 mexd;MEX-QROO;MEX180D;;;Cancún;mexqroo.mex180d;
 mexd;MEX-OAX;MEX185D;;;;mexoax.mex185d;
-mexd;MEX-PUE;MEX190D;;;;mexpue.mex190d;
-mexd;MEX-OAX;MEX190D;;Mit;Mitla;mexoax.mex190dmit;
 mexd;MEX-OAX;MEX190D;;;;mexoax.mex190d;
 mexd;MEX-CHIS;MEX190D;;;;mexchis.mex190d;
 mexd;MEX-CHIS;MEX190D;;Cri;San Cristóbal;mexchis.mex190dcri;
 mexd;MEX-NAY;MEX200D;;;;mexnay.mex200d;
+mexd;MEX-JAL;MEX200D;;;;mexjal.mex200d;
 mexd;MEX-COL;MEX200D;;;;mexcol.mex200d;
 mexd;MEX-GRO;MEX200D;;;;mexgro.mex200d;
 mexd;MEX-GRO;MEX200D;;Tec;Tecpán de Galeana;mexgro.mex200dtec;
 mexd;MEX-QROO;MEX305D;;;;mexqroo.mex305d;
 mexd;MEX-JAL;MEX307D;;;;mexjal.mex307d;
 mexd;MEX-QROO;MEX307D;;;;mexqroo.mex307d;
+mexd;MEX-PUE;MEX438D;;;;mexpue.mex438d;
 mexd;MEX-JAL;MEXGUA10D;;;;mexjal.mexgua010d;
 mexd;MEX-SON;MEXHER10D;;;;mexson.mexher010d;
 mexd;MEX-GTO;MEXI20D;;;;mexgto.mexi020d;
