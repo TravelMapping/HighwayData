@@ -3848,8 +3848,8 @@ date;region;route;root;description
 2018-09-13;(Mexico) Estado de México;MEX15D;mexemex.mex015d;East end extended from MEX55 to MEX40D.
 2024-04-30;(Mexico) Baja California;MEX1D;mexbc.mex001d;north end truncated (remainder is in mexsf as CarrEsc)
 2024-04-30;(Mexico) Baja California;MEX2D;mexbc.mex002d;west end truncated
-2025-07-27;(Mexico) Baja California Sur;MEX1DMan;mexbcs.mex001dman;new route (was MEX19D)
-2025-07-27;(Mexico) Baja California Sur;MEX19D;mexbcs.mex001dman;deleted (renamed MEX1DMan)
+2025-07-26;(Mexico) Baja California Sur;MEX1DMan;mexbcs.mex001dman;new route (was MEX19D)
+2025-07-26;(Mexico) Baja California Sur;MEX19D;mexbcs.mex001dman;deleted (renamed MEX1DMan)
 2024-04-30;(Mexico) Baja California Sur;MEX1D;mexbcs.mex001d;north end truncated (remainder is in mexf as MEX1AIC)
 2024-04-30;(Mexico) Baja California Sur;MEX1DCab;mexbcs.mex001dcab;new route
 2024-04-30;(Mexico) Baja California Sur;MEX19D;mexbcs.mex001dman;new route
@@ -3873,8 +3873,10 @@ date;region;route;root;description
 2024-05-02;(Mexico) Guanajuato;LibCel;mexgto.libcel;new route
 2024-05-02;(Mexico) Michoacán;MICH15D;mexmich.mich015d;new route
 2024-05-02;(Mexico) Nuevo León;NL40D;mexnl.m022;deleted (still in mexnlm as M22)
-2024-05-02;(Mexico) Pueblo;MEX190D;mexpue.mex190d;new route (was PUE190D)
-2024-05-02;(Mexico) Pueblo;PUE190D;mexpue.mex190d;deleted (renumbered MEX190D)
+2025-07-27;(Mexico) Pueblo;MEX190D;mexpue.mex438d;renamed MEX438D
+2025-07-27;(Mexico) Pueblo;MEX438D;mexpue.mex438d;new route (was MEX190D)
+2024-05-02;(Mexico) Pueblo;MEX190D;mexpue.mex438d;new route (was PUE190D)
+2024-05-02;(Mexico) Pueblo;PUE190D;mexpue.mex438d;deleted (renumbered MEX190D)
 2024-05-02;(Mexico) San Luis Potosí;SLP20D;mexslp.slp020d;new route
 2024-05-02;(Mexico) San Luis Potosí;SLP80CE;mexslp.slp080ce;new route
 2024-05-02;(Mexico) Veracruz;VERJA10D;mexver.verja010d;new route
@@ -3882,7 +3884,8 @@ date;region;route;root;description
 2024-05-02;(Mexico) Chihuahua;MEX45DChE;mexchih.mex045dche;new route
 2024-05-02;(Mexico) Chihuahua;MEX45DChi;mexchih.mex045dsac;deleted (renamed MEX45DSac)
 2024-05-02;(Mexico) Chihuahua;MEX45DSac;mexchih.mex045dsac;new route (was MEX45DChi)
-2024-05-02;(Mexico) Chiapas;MEX133D;mexchis.mex133d;new route
+2025-07-27;(Mexico) Chiapas;MEX133D;mexchis.mex190suc;deleted (renamed MEX190Suc in mexf)
+2024-05-02;(Mexico) Chiapas;MEX133D;mexchis.mex190suc;new route
 2024-05-02;(Mexico) Chiapas;MEX145D;mexchis.mex145d;new route (was MEX187D)
 2024-05-02;(Mexico) Chiapas;MEX187D;mexchis.mex145d;deleted (renumbered MEX145D)
 2024-05-02;(Mexico) Chiapas;MEX190D;mexchis.mex190dcri;deleted (renamed MEX190DCri)
@@ -3935,6 +3938,7 @@ date;region;route;root;description
 2024-05-03;(Mexico) Jalisco;MEXGUA10D;mexjal.mexgua010d;new route
 2024-05-03;(Mexico) Michoacán;MEX37DMor;mexmich.mex037dmor;new route
 2024-05-03;(Mexico) Michoacán;MEX90D;mexmich.mex090d;new route
+2025-07-27;(Mexico) Nayarit;MEX76D;mexnay.mex076d;new route (was AutTepSB)
 2025-07-26;(Mexico) Nayarit;MEX200D;mexnay.mex200d;extended south from MEX200_Buc to NAY/JAL
 2024-05-03;(Mexico) Nayarit;MEX15D;mexnay.mex015d;new route (was MEX15DTeq)
 2024-05-03;(Mexico) Nayarit;MEX15DTeq;mexnay.mex015d;deleted (renamed MEX15D)
@@ -3963,9 +3967,16 @@ date;region;route;root;description
 2024-05-04;(Mexico) Estado de México;MEX134D;mexemex.mex134d;new route
 2024-05-04;(Mexico) Estado de México;MEX150D;mexemex.mex150d;new route (was MEX150DIxt) (extended west)
 2024-05-04;(Mexico) Estado de México;MEX150DIxt;mexemex.mex150d;deleted (renamed MEX150D)
+2025-07-27;(Mexico) Guerrero;MEX91D;mexgro.mex91d;new route (was MEX95DIgu)
+2025-07-27;(Mexico) Guerrero;MEX91DTax;mexgro.mex91dtax;new route (was MEX95DTax)
+2025-07-27;(Mexico) Guerrero;MEX95DIgu;mexgro.mex91d;renamed MEX91D
+2025-07-27;(Mexico) Guerrero;MEX95DTax;mexgro.mex91dtax;renamed MEX91DTax
+2025-07-27;(Mexico) Guerrero;MEX200D;mexgro.mex200d;truncated (east of MEX95D became MEX95DAca)
+2025-07-27;(Mexico) Guerrero;MEX95DAca;mexgro.mex95daca;new route (was MEX200D east of MEX95D)
+2025-07-27;(Mexico) Guerrero;MEX95DAca;mexgro.max;deleted (renamed Max in mexsf)
 2025-07-24;(Mexico) Guerrero;MEX93D;mexgro.mex093chi;deleted (renamed MEX93Chi in mexf)
 2024-05-04;(Mexico) Guerrero;MEX93D;mexgro.mex093d;new route
-2024-05-04;(Mexico) Guerrero;MEX95DAca;mexgro.mex095daca;new route
+2024-05-04;(Mexico) Guerrero;MEX95DAca;mexgro.max;new route
 2024-05-04;(Mexico) Guerrero;MEX95DAca;mexgro.mex095dchi;deleted (renamed MEX95DChi)
 2024-05-04;(Mexico) Guerrero;MEX95DChi;mexgro.mex095dchi;new route (was MEX95DAca)
 2024-05-04;(Mexico) Guerrero;MEX200D;mexgro.mex200d;extended west from MEX95D to Bajos del Ejido
@@ -3977,6 +3988,8 @@ date;region;route;root;description
 2024-05-04;(Mexico) Hidalgo;MEXM40DCal;mexhgo.mexm040d;deleted (renamed MEXM40DCal)
 2024-05-04;(Mexico) Hidalgo;MEXM40DCal;mexhgo.mexm040dcal;new route (was MEXM40)
 2024-05-04;(Mexico) Hidalgo;MEXM40D;mexhgo.mexm040d;deleted (renamed MEXM40D)
+2025-07-27;(Mexico) Morelos;MEX91D;mexmor.mex91d;new route (was MEX95DIgu)
+2025-07-27;(Mexico) Morelos;MEX95DIgu;mexmor.mex91d;renamed MEX91D
 2024-05-04;(Mexico) Morelos;MEX94D;mexmor.mex094d;new route
 2024-05-04;(Mexico) Morelos;MEX95D;mexmor.mex095d;extended north from south Cuernavaca to Ciudad de México (absorbing MEX95DMex)
 2024-05-04;(Mexico) Morelos;MEX95D;mexmor.mex095dmex;deleted (absorbed by MEX95D)
