@@ -2693,6 +2693,7 @@ date;region;route;root;description
 2018-12-31;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from border to Lower Saxony to A14 junction (A36 now)
 2018-12-19;(Germany) Saxony-Anhalt;B79;deust.b079;Route removed from through Harsleben and onto the bypass
 2015-09-15;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;New Route
+2025-07-23;(Germany) Schleswig-Holstein;B404 (Kiel);deush.b404kie;Route relocated from through Kleinbarkau and onto eastern bypass (future A21) from L49/L307 to south of Kleinbarkau
 2025-03-09;(Germany) Schleswig-Holstein;B209 (Schwarzenbek);deush.b209sch;New Route
 2024-12-26;(Germany) Schleswig-Holstein;L89;deush.l089;Route truncated at west end from Jersbeker Straße to L225
 2024-12-26;(Germany) Schleswig-Holstein;L103;deush.l103;Route truncated at west end from Mühlenstraße to Wedeler Weg
@@ -3847,14 +3848,20 @@ date;region;route;root;description
 2018-09-13;(Mexico) Estado de México;MEX15D;mexemex.mex015d;East end extended from MEX55 to MEX40D.
 2024-04-30;(Mexico) Baja California;MEX1D;mexbc.mex001d;north end truncated (remainder is in mexsf as CarrEsc)
 2024-04-30;(Mexico) Baja California;MEX2D;mexbc.mex002d;west end truncated
+2025-07-26;(Mexico) Baja California Sur;MEX1DMan;mexbcs.mex001dman;new route (was MEX19D)
+2025-07-26;(Mexico) Baja California Sur;MEX19D;mexbcs.mex001dman;deleted (renamed MEX1DMan)
 2024-04-30;(Mexico) Baja California Sur;MEX1D;mexbcs.mex001d;north end truncated (remainder is in mexf as MEX1AIC)
 2024-04-30;(Mexico) Baja California Sur;MEX1DCab;mexbcs.mex001dcab;new route
-2024-04-30;(Mexico) Baja California Sur;MEX19D;mexbcs.mex019d;new route
-2024-05-02;(Mexico) Chihuahua;CHIH48D;mexchih.chih048d;extended east from MEX45 to MEX2
+2024-04-30;(Mexico) Baja California Sur;MEX19D;mexbcs.mex001dman;new route
+2025-07-23;(Mexico) Chihuahua;CHIH45D;mexchih.chih045d;new route (was CHIH48D)
+2025-07-23;(Mexico) Chihuahua;CHIH48D;mexchih.chih045d;renamed CHIH45D
+2024-05-02;(Mexico) Chihuahua;CHIH48D;mexchih.chih045d;extended east from MEX45 to MEX2
 2024-05-02;(Mexico) Chihuahua;CHIH80D;mexchih.chih080d;new route
+2025-07-28;(Mexico) Estado de México;MEX55DIxt;mexemex.mex055dixt;new route (was EMEXA2D)
+2025-07-28;(Mexico) Estado de México;EMEXA2D;mexemex.mex055dixt;deleted (renumbered MEX55DIxt)
 2024-05-02;(Mexico) Estado de México;MEX15DTol;mexemex.emexa006d;deleted (renumbered EMEXA6D)
-2024-05-02;(Mexico) Estado de México;MEX55DTen;mexemex.emexa002d;deleted (renumbered EMEXA2D)
-2024-05-02;(Mexico) Estado de México;EMEXA2D;mexemex.emexa002d;new route (was MEX55DTen)
+2024-05-02;(Mexico) Estado de México;MEX55DTen;mexemex.mex055dixt;deleted (renumbered EMEXA2D)
+2024-05-02;(Mexico) Estado de México;EMEXA2D;mexemex.mex055dixt;new route (was MEX55DTen)
 2024-05-02;(Mexico) Estado de México;EMEX5D;mexemex.emex005d;extended south from MEX136D to MEX150D
 2024-05-02;(Mexico) Estado de México;EMEX5DGua;mexemex.emex005dgua;new route
 2024-05-02;(Mexico) Estado de México;EMEX5DPer;mexemex.emex005dper;new route
@@ -3863,13 +3870,18 @@ date;region;route;root;description
 2024-05-02;(Mexico) Estado de México;EMEXA7D;mexemex.emexa007d;new route (was EMEX7D)
 2024-05-02;(Mexico) Estado de México;EMEXA7DVal;mexemex.emexa007dval;new route
 2024-05-02;(Mexico) Estado de México;EMEXA10D;mexemex.emexa010d;new route
+2025-07-27;(Mexico) Guanajuato;GTO150D;mexgto.gto150d;new route
 2024-05-02;(Mexico) Guanajuato;MEX110D;mexgto.gto110d;deleted (renumbered GTO110D)
 2024-05-02;(Mexico) Guanajuato;GTO110D;mexgto.gto110d;new route (was MEX110D)
 2024-05-02;(Mexico) Guanajuato;LibCel;mexgto.libcel;new route
 2024-05-02;(Mexico) Michoacán;MICH15D;mexmich.mich015d;new route
 2024-05-02;(Mexico) Nuevo León;NL40D;mexnl.m022;deleted (still in mexnlm as M22)
-2024-05-02;(Mexico) Pueblo;MEX190D;mexpue.mex190d;new route (was PUE190D)
-2024-05-02;(Mexico) Pueblo;PUE190D;mexpue.mex190d;deleted (renumbered MEX190D)
+2025-07-27;(Mexico) Pueblo;PUE438D;mexpue.mex438d;renamed MEX438D
+2025-07-27;(Mexico) Pueblo;MEX438D;mexpue.mex438d;new route (was PUE438D)
+2025-07-27;(Mexico) Pueblo;MEX190D;mexpue.mex438dpue;renamed MEX438DPue
+2025-07-27;(Mexico) Pueblo;MEX438DPue;mexpue.mex438dpue;new route (was MEX190D)
+2024-05-02;(Mexico) Pueblo;MEX190D;mexpue.mex438d;new route (was PUE190D)
+2024-05-02;(Mexico) Pueblo;PUE190D;mexpue.mex438d;deleted (renumbered MEX190D)
 2024-05-02;(Mexico) San Luis Potosí;SLP20D;mexslp.slp020d;new route
 2024-05-02;(Mexico) San Luis Potosí;SLP80CE;mexslp.slp080ce;new route
 2024-05-02;(Mexico) Veracruz;VERJA10D;mexver.verja010d;new route
@@ -3877,7 +3889,8 @@ date;region;route;root;description
 2024-05-02;(Mexico) Chihuahua;MEX45DChE;mexchih.mex045dche;new route
 2024-05-02;(Mexico) Chihuahua;MEX45DChi;mexchih.mex045dsac;deleted (renamed MEX45DSac)
 2024-05-02;(Mexico) Chihuahua;MEX45DSac;mexchih.mex045dsac;new route (was MEX45DChi)
-2024-05-02;(Mexico) Chiapas;MEX133D;mexchis.mex133d;new route
+2025-07-27;(Mexico) Chiapas;MEX133D;mexchis.mex190suc;deleted (renamed MEX190Suc in mexf)
+2024-05-02;(Mexico) Chiapas;MEX133D;mexchis.mex190suc;new route
 2024-05-02;(Mexico) Chiapas;MEX145D;mexchis.mex145d;new route (was MEX187D)
 2024-05-02;(Mexico) Chiapas;MEX187D;mexchis.mex145d;deleted (renumbered MEX145D)
 2024-05-02;(Mexico) Chiapas;MEX190D;mexchis.mex190dcri;deleted (renamed MEX190DCri)
@@ -3903,7 +3916,9 @@ date;region;route;root;description
 2024-05-03;(Mexico) Quintana Roo;MEX305D;mexqroo.mex305d;new route
 2024-05-03;(Mexico) Quintana Roo;MEX307D;mexqroo.mex307d;new route
 2024-05-03;(Mexico) Tabasco;MEX180DVil;mextab.mex180dvil;new route
-2024-05-03;(Mexico) Tamaulipas;MEX10D;mextam.mex010d;new route
+2025-07-26;(Mexico) Tamaulipas;MEX10D;mextam.mex020d;deleted (became MEX20D)
+2025-07-26;(Mexico) Tamaulipas;MEX20D;mextam.mex020d;new route (was MEX10D)
+2024-05-03;(Mexico) Tamaulipas;MEX10D;mextam.mex020d;new route
 2024-05-03;(Mexico) Veracruz;MEX132D;mexver.mex132d;extended east into Túxpam
 2024-05-03;(Mexico) Veracruz;MEX140D;mexver.mex140d;extended east to MEX140
 2024-05-03;(Mexico) Veracruz;MEX140DEPl;mexver.mex140dpla;deleted (renamed MEX140DPla)
@@ -3919,6 +3934,7 @@ date;region;route;root;description
 2024-05-03;(Mexico) Estado de México;MEX15DMex;mexemex.mex015dmex;extended north to Lerma
 2024-05-03;(Mexico) Guanajuato;MEX80D;mexgto.mex080d;new route
 2024-05-03;(Mexico) Guanajuato;MEX90D;mexgto.mex090d;new route
+2025-07-26;(Mexico) Jalisco;MEX200D;mexjal.mex200d;new route
 2024-05-03;(Mexico) Jalisco;MEX45D;mexjal.mex045d;new route (was MEX45DLeo)
 2024-05-03;(Mexico) Jalisco;MEX45DLeo;mexjal.mex045d;deleted (renamed MEX45D)
 2024-05-03;(Mexico) Jalisco;MEX80DLag;mexjal.mex080dlag;new route
@@ -3927,6 +3943,8 @@ date;region;route;root;description
 2024-05-03;(Mexico) Jalisco;MEXGUA10D;mexjal.mexgua010d;new route
 2024-05-03;(Mexico) Michoacán;MEX37DMor;mexmich.mex037dmor;new route
 2024-05-03;(Mexico) Michoacán;MEX90D;mexmich.mex090d;new route
+2025-07-27;(Mexico) Nayarit;MEX76D;mexnay.mex076d;new route (was AutTepSB)
+2025-07-26;(Mexico) Nayarit;MEX200D;mexnay.mex200d;extended south from MEX200_Buc to NAY/JAL
 2024-05-03;(Mexico) Nayarit;MEX15D;mexnay.mex015d;new route (was MEX15DTeq)
 2024-05-03;(Mexico) Nayarit;MEX15DTeq;mexnay.mex015d;deleted (renamed MEX15D)
 2024-05-03;(Mexico) Nayarit;MEX15DCha;mexnay.mex015dcha;new route (was MEX15D)
@@ -3954,8 +3972,16 @@ date;region;route;root;description
 2024-05-04;(Mexico) Estado de México;MEX134D;mexemex.mex134d;new route
 2024-05-04;(Mexico) Estado de México;MEX150D;mexemex.mex150d;new route (was MEX150DIxt) (extended west)
 2024-05-04;(Mexico) Estado de México;MEX150DIxt;mexemex.mex150d;deleted (renamed MEX150D)
+2025-07-27;(Mexico) Guerrero;MEX91D;mexgro.mex091d;new route (was MEX95DIgu)
+2025-07-27;(Mexico) Guerrero;MEX91DTax;mexgro.mex091dtax;new route (was MEX95DTax)
+2025-07-27;(Mexico) Guerrero;MEX95DIgu;mexgro.mex091d;renamed MEX91D
+2025-07-27;(Mexico) Guerrero;MEX95DTax;mexgro.mex091dtax;renamed MEX91DTax
+2025-07-27;(Mexico) Guerrero;MEX200D;mexgro.mex200d;truncated (east of MEX95D became MEX95DAca)
+2025-07-27;(Mexico) Guerrero;MEX95DAca;mexgro.mex095daca;new route (was MEX200D east of MEX95D)
+2025-07-27;(Mexico) Guerrero;MEX95DAca;mexgro.max;deleted (renamed Max in mexsf)
+2025-07-24;(Mexico) Guerrero;MEX93D;mexgro.mex093chi;deleted (renamed MEX93Chi in mexf)
 2024-05-04;(Mexico) Guerrero;MEX93D;mexgro.mex093d;new route
-2024-05-04;(Mexico) Guerrero;MEX95DAca;mexgro.mex095daca;new route
+2024-05-04;(Mexico) Guerrero;MEX95DAca;mexgro.max;new route
 2024-05-04;(Mexico) Guerrero;MEX95DAca;mexgro.mex095dchi;deleted (renamed MEX95DChi)
 2024-05-04;(Mexico) Guerrero;MEX95DChi;mexgro.mex095dchi;new route (was MEX95DAca)
 2024-05-04;(Mexico) Guerrero;MEX200D;mexgro.mex200d;extended west from MEX95D to Bajos del Ejido
@@ -3967,14 +3993,21 @@ date;region;route;root;description
 2024-05-04;(Mexico) Hidalgo;MEXM40DCal;mexhgo.mexm040d;deleted (renamed MEXM40DCal)
 2024-05-04;(Mexico) Hidalgo;MEXM40DCal;mexhgo.mexm040dcal;new route (was MEXM40)
 2024-05-04;(Mexico) Hidalgo;MEXM40D;mexhgo.mexm040d;deleted (renamed MEXM40D)
+2025-07-27;(Mexico) Morelos;PUE438D;mexmor.mex438d;renamed MEX438D
+2025-07-27;(Mexico) Morelos;MEX438D;mexmor.mex438d;new route (was PUE438D)
+2025-07-27;(Mexico) Morelos;MEX91D;mexmor.mex091d;new route (was MEX95DIgu)
+2025-07-27;(Mexico) Morelos;MEX95DIgu;mexmor.mex091d;renamed MEX91D
 2024-05-04;(Mexico) Morelos;MEX94D;mexmor.mex094d;new route
 2024-05-04;(Mexico) Morelos;MEX95D;mexmor.mex095d;extended north from south Cuernavaca to Ciudad de México (absorbing MEX95DMex)
 2024-05-04;(Mexico) Morelos;MEX95D;mexmor.mex095dmex;deleted (absorbed by MEX95D)
 2024-05-04;(Mexico) Morelos;MEX115DAme;mexmor.mex115dame;new route
+2025-07-25;(Mexico) Nuevo León;MEX85D;mexnl.mex085d;extended north from MEX85_GloS to NL/TAM
+2025-07-26;(Mexico) Oaxaca;MEX190D;mexoax.mex190d;extended west from Lac to LlaCru and absorbed MEX190DMit from LlaCru to MEX179/190
+2025-07-26;(Mexico) Oaxaca;MEX190DMit;mexoax.mex190d;deleted (absorbed by MEX190D)
 2024-05-04;(Mexico) Oaxaca;MEX175D;mexoax.mex175d;new route
 2024-05-04;(Mexico) Oaxaca;MEX185D;mexoax.mex185d;new route (was MEX200D) and east end truncated 
 2024-05-04;(Mexico) Oaxaca;MEX190D;mexoax.mex190d;new route
-2024-05-04;(Mexico) Oaxaca;MEX190DMit;mexoax.mex190dmit;new route
+2024-05-04;(Mexico) Oaxaca;MEX190DMit;mexoax.mex190d;new route
 2024-05-04;(Mexico) Oaxaca;MEX200D;mexoax.mex185d;deleted (renumbered MEX185D)
 2025-07-22;(Mexico) Puebla;MEX136D;mexpue.mex136d;extended from MEX140 to MEX150D
 2024-05-04;(Mexico) Puebla;MEX132DAvi;mexpue.mex132davi;new route
@@ -3990,7 +4023,9 @@ date;region;route;root;description
 2024-05-04;(Mexico) Zacatecas;MEX45D;mexzac.mex045d;extended south from ZAC181
 2024-05-04;(Mexico) Zacatecas;MEX49DFre;mexzac.mex049dfre;deleted (still MEX45DFre)
 2024-05-04;(Mexico) Zacatecas;MEX49DVic;mexzac.mex049dvic;deleted (still MEX45DVic)
-2024-06-13;(Mexico) Tamaulipas;MEX97D;mextam.mex097d;new route
+2025-07-25;(Mexico) Tamaulipas;MEX85D;mextam.mex085d;new route
+2025-07-25;(Mexico) Tamaulipas;MEX97D;mextam.mex002pha;deleted (merged with MEX2Pha in mexf)
+2024-06-13;(Mexico) Tamaulipas;MEX97D;mextam.mex002pha;new route
 2025-02-01;Moldova;R32.1;mda.r0321;Route truncated at south end from G314 to M3
 2024-02-15;Moldova;E581;mda.e581;Route removed from R3 and relocated onto R3 and M3 between M2/R3 junction and M3/R3 junction north of Cimislia
 2024-02-15;Moldova;M3 (Comrat);mda.m003;Route truncated at south end from Romanian border to R32.1 and extended at south end to G142
@@ -7482,6 +7517,7 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2025-07-26;(USA) California;I-580;ca.i580;Changed exit numbers in Richmond, old 7B is now 7 and old 7C is now 7B
 2025-06-28;(USA) California;CA 41;ca.ca041;Realigned east of Shandon
 2025-06-28;(USA) California;CA 46;ca.ca046;Realigned east of Shandon
 2025-03-16;(USA) California;Dante's View Road (Death Valley NP);ca.danviewrd;Added route
@@ -8345,6 +8381,7 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2025-07-24;(USA) Louisiana;LA 415;la.la0415;Extended at south end from I-10 to end of state maintenance at I-10 frontage road
 2025-06-24;(USA) Louisiana;LA 3241;la.la3241;Extended at south end from LA 435 to LA 36
 2025-05-29;(USA) Louisiana;LA 93-1;la.la00931;Truncated at south end from Ridge Rd. (former LA 342) to W. Congress St.
 2025-05-29;(USA) Louisiana;LA 342;la.la0342;Truncated at east end from Rue de Belier (former LA 93-1) to a point east of LA 724
@@ -9187,7 +9224,7 @@ date;region;route;root;description
 2015-10-27;(USA) North Carolina;I-485;nc.i485;Extended between exits 23C (NC 115) and 30 (I-85), completing loop around Charlotte
 2015-10-27;(USA) North Carolina;NC 140;nc.nc140;New route
 2015-10-27;(USA) North Carolina;NC 87;nc.nc087;Moved from partially closed Old Maco Rd. to new Maco Rd. alignment, between US 17 and waypoint OldMacoRd
-2024-07-21;(USA) North Dakota;ND 3 Business (Rugby);nd.003busrug;New route
+2025-07-21;(USA) North Dakota;ND 3 Business (Rugby);nd.003busrug;New route
 2024-04-12;(USA) North Dakota;Bismarck Expressway;nd.bisexpy;Added freeway portion of Bismarck Expressway
 2023-09-18;(USA) North Dakota;ND 31 (Stanton);nd.nd031new;Renamed as ND 31 (New Salem)
 2022-07-11;(USA) North Dakota;ND 13 Business (Wahpeton);nd.nd013buswah;New route
@@ -9655,6 +9692,7 @@ date;region;route;root;description
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
+2025-06-23;(USA) South Dakota;SD 1889;sd.sd1889;New Route
 2025-02-27;(USA) South Dakota;US 14;sd.us014;Rerouted along former US 14/83 Truck in Pierre
 2025-02-27;(USA) South Dakota;US 83;sd.us083;Rerouted along former US 14/83 Truck in Pierre
 2025-02-27;(USA) South Dakota;US 14 Truck (Pierre);;Deleted route
@@ -9946,7 +9984,6 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
 2024-10-26;(USA) Utah;UT 176;ut.ut176;Route extended at west end from Main Street along new roadway to connector to Vineyard Road.
-2024-09-25;(USA) Utah;UT 201 (Salt Lake City);ut.ut201sal;New Route
 2024-08-23;(USA) Utah;UT 193;ut.ut193;Route extended at west end from UT 177 to UT 110.
 2024-08-23;(USA) Utah;UT 106;ut.ut106;Rerouted from Main Street onto Shepard Lane at north end. Now ends at US 89 exit 396 instead of exit 397.
 2024-04-03;(USA) Utah;UT 287;ut.ut287;Route truncated at north end removing it from now-closed access road to former state prison. Portion along I-15 frontage road up to intersection with former prison access road remains.
