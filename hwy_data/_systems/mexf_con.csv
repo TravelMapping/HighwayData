@@ -131,7 +131,6 @@ mexf;MEX54;;Paso por Dr. González, NL;mexnl.mex054gon
 mexf;MEX55;;;mexgro.mex055,mexemex.mex055,mexqro.mex055
 mexf;MEX55;;Paso por Ixtapan de la Sal;mexemex.mex055ixt
 mexf;MEX55;;Paso por Acambay, EMEX;mexemex.mex055aca
-mexf;MEX57;;Entronque Jorobas, EMEX - Tula, HGO;mexemex.mex057,mexhgo.mex057
 mexf;MEX57;;Entronque Toluca, QRO - La Encantada, COAH;mexqro.mex057,mexgto.mex057,mexslp.mex057,mexnl.mex057,mexcoah.mex057hua
 mexf;MEX57;;Tanque Blanco, QRO - San Miguel de Allende, GTO;mexqro.mex057sma,mexgto.mex057sma
 mexf;MEX57;;Ramal a San José Iturbide, GTO;mexgto.mex057itu
@@ -187,7 +186,6 @@ mexf;MEX80;;Ramal a El Salto, SLP;mexslp.mex080sal
 mexf;MEX80;;Ciudad Mante - Tampico, TAM;mextam.mex080
 mexf;MEX80;;Paso por González - Estación Manuel, TAM;mextam.mex080man
 mexf;MEX81;;;mextam.mex081
-mexf;MEX82;;;mextam.mex082
 mexf;MEX83;;;mextam.mex083
 mexf;MEX85;;;mexdf.mex085,mexemex.mex085,mexhgo.mex085,mexslp.mex085,mextam.mex085,mexnl.mex085,mextam.mex085lar
 mexf;MEX85;;Paso por Pachuca, HGO;mexhgo.mex085pac
@@ -196,6 +194,7 @@ mexf;MEX85;;Paso por Ciudad Mante, TAM;mextam.mex085man
 mexf;MEX85;;Paso por Montemorelos, NL;mexnl.mex085mon
 mexf;MEX85;;Avenida Félix U. Gómez (southbound in Monterrey, NL);mexnl.mex085gom
 mexf;MEX85;;Paso por Sabinas Hidalgo, NL;mexnl.mex085sab
+mexf;MEX87;;;mexemex.mex087,mexhgo.mex087
 mexf;MEX88;;;mexhgo.mex088,mextlax.mex088
 mexf;MEX90;;Acceso a Puerto de Salina Cruz, OAX;mexoax.mex090
 mexf;MEX90;;Zapotlanejo, JAL - Irapuato, GTO;mexjal.mex090,mexmich.mex090,mexgto.mex090
@@ -205,7 +204,7 @@ mexf;MEX95;;;mexgro.mex095,mexmor.mex095,mexdf.mex095
 mexf;MEX95;;Libramiento Norte de Acapulco, GRO (Ramal a Bajos del Ejido);mexgro.mex095baj
 mexf;MEX95;;Tierra Colorada - Cruz Grande, GRO;mexgro.mex095cru
 mexf;MEX95;;Chilpancingo - Chichihualco, GRO;mexgro.mex095chi
-mexf;MEX95;;Casa Verde - Filo de Caballos, GRO;mexgro.mex095fil
+mexf;MEX95;;Casa Verde - Entronque Atoyac de Álvarez, GRO;mexgro.mex095fil
 mexf;MEX95;;Ramal a Aeropuerto Internacional Mariano Matamoros, MOR;mexmor.mex095amm
 mexf;MEX95;;Ramal a Coajomulco, MOR;mexmor.mex095coa
 mexf;MEX95;;Ramal a Lagunas de Zempoala, MOR;mexmor.mex095zem
@@ -354,7 +353,8 @@ mexf;MEX180;;Paso por Hoctún - Xocchel, YUC;mexyuc.mex180xoc
 mexf;MEX180;;Paso por Hoctún, YUC;mexyuc.mex180hoc
 mexf;MEX180;;Paso por Kantunil, YUC;mexyuc.mex180kan
 mexf;MEX180;;Paso por Ticuch, YUC;mexyuc.mex180tic
-mexf;MEX182;;;mexoax.mex182teo,mexpue.mex182,mexoax.mex182
+mexf;MEX182;;OAX/PUE;mexoax.mex182teo,mexpue.mex182,mexoax.mex182
+mexf;MEX182;;TAM;mextam.mex182
 mexf;MEX184;;;mexyuc.mex184,mexqroo.mex184
 mexf;MEX185;;;mexoax.mex185,mexver.mex185
 mexf;MEX185;;Paso por Palomares, OAX;mexoax.mex185pal
@@ -408,7 +408,6 @@ mexf;MEX200;;Boulevard Ixtapa Zihuatanejo - Aeropuerto Internacional de Zihuatan
 mexf;MEX200;;Ramal a Aeropuerto Internacional de Zihuatanejo, GRO;mexgro.mex200aze
 mexf;MEX200;;Paso por Nuxco, GRO;mexgro.mex200nux
 mexf;MEX200;;Paso por la Y Griega, GRO;mexgro.mex200ygr
-mexf;MEX200;;Entronque Atoyac de Alvarez - El Paraíso, GRO;mexgro.mex200ato
 mexf;MEX200;;Paso por Cacalutla, GRO;mexgro.mex200cac
 mexf;MEX200;;Cayaco - Las Horquetas, GRO;mexgro.mex200bar
 mexf;MEX200;;Acceso a Puerto Marqués, GRO;mexgro.mex200mar
