@@ -2328,6 +2328,10 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2025-08-16;(Germany) North Rhine-Westphalia;B58;deunw.b058;Route removed from through Beckum and onto new bypass from A2 to L586
+2025-08-16;(Germany) North Rhine-Westphalia;B58 (Beckum);deunw.b058;Route merged into main route
+2025-08-16;(Germany) North Rhine-Westphalia;L507;deunw.l507;Route extended at east end from Sternstraße (L808) to B58 (former B58)
+2025-08-16;(Germany) North Rhine-Westphalia;L808;deunw.l808;Route extended at north end from Stromberger Straße to L507 (former B58)
 2025-07-08;(Germany) North Rhine-Westphalia;B67 (Merfeld);deunw.b067mer;New Route
 2025-04-18;(Germany) North Rhine-Westphalia;Chorweiler Zubringer Köln;deunw.chozub;Route extended at west end from A57 to K21
 2025-04-15;(Germany) North Rhine-Westphalia;B51 (Köln);deunw.b051kol;Route relocated from through Meschenich, and onto western bypass
@@ -2380,7 +2384,7 @@ date;region;route;root;description
 2022-12-24;(Germany) North Rhine-Westphalia;L353;deunw.l353;Route truncated at west end from Rheinpromenade Monheim to A59
 2022-12-24;(Germany) North Rhine-Westphalia;B80;deunw.b080;New Route (former B83)
 2022-12-24;(Germany) North Rhine-Westphalia;B83 (Beverungen);deunw.b083;Route truncated at south end from Bad Karlshafen to west of Herstelle and reextended onto new bypass to the border with Hesse
-2022-10-28;(Germany) North Rhine-Westphalia;B58 (Beckum);deunw.b058bec;New Route
+2022-10-28;(Germany) North Rhine-Westphalia;B58 (Beckum);deunw.b058;New Route
 2022-10-28;(Germany) North Rhine-Westphalia;B288;deunw.b288;Route truncated at east end from A59 to B8 (now A524)
 2022-10-28;(Germany) North Rhine-Westphalia;A524;deunw.a524;Route extended at west end from exit 2 to exit 1 (former B288)
 2022-06-25;(Germany) North Rhine-Westphalia;L794;;Route deleted
@@ -4632,6 +4636,10 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2025-08-15;Poland;E28;pol.e28;Route removed from Ulica Jana Pawla II and Ulica Antoniego Abrahama and relocated onto future S6 between S6 exits 44 and 45
+2025-08-15;Poland;DK6 (Lebork);pol.dk006leb;Route removed from Ulica Jana Pawla II and Ulica Antoniego Abrahama and relocated onto future S6 between S6 exits 44 and 45
+2025-08-15;Poland;DK71 (Aleksandrow Lodzki);pol.dk072;Route deleted (now part of DK72)
+2025-08-15;Poland;DK72;pol.dk072;Route removed from Ulica Wojska Polskiego and Ulica Aleksandrowska and relocated onto DW475, S14 access road and Ulica Szczecinska between 'UliWojPol_E' and 'UliSzc_N'
 2025-06-25;Poland;S3;pol.s003;Route extended at north end from Troszyn to exit 1
 2025-06-25;Poland;S7 (Gdynia);pol.s007gdy;Route extended at south end from exit 53 to exit 7
 2025-06-25;Poland;E65;pol.e65;Route removed from former DK3 and relocated onto S3 between S3 exits 3 and 4
