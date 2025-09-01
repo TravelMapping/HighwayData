@@ -54,17 +54,17 @@ NC78 http://www.openstreetmap.org/?lat=35.437011&lon=-79.218614
 99 http://www.openstreetmap.org/?lat=35.748663&lon=-78.771951
 101 +WalSt http://www.openstreetmap.org/?lat=35.762080&lon=-78.745011
 I-40 http://www.openstreetmap.org/?lat=35.766433&lon=-78.735538
-I-440(1C) http://www.openstreetmap.org/?lat=35.770472&lon=-78.723049
-I-440(1D) http://www.openstreetmap.org/?lat=35.777053&lon=-78.709359
-I-440(2) http://www.openstreetmap.org/?lat=35.783981&lon=-78.700175
-I-440(3) http://www.openstreetmap.org/?lat=35.795469&lon=-78.694768
-I-440(4) http://www.openstreetmap.org/?lat=35.803718&lon=-78.693652
-I-440(5) http://www.openstreetmap.org/?lat=35.815447&lon=-78.690777
-I-440(6) http://www.openstreetmap.org/?lat=35.833089&lon=-78.674984
-I-440(7) http://www.openstreetmap.org/?lat=35.835315&lon=-78.669448
-I-440(8) http://www.openstreetmap.org/?lat=35.834585&lon=-78.638592
-I-440(10) http://www.openstreetmap.org/?lat=35.825364&lon=-78.621383
-I-440(11) http://www.openstreetmap.org/?lat=35.814612&lon=-78.605161
+1C(440) +I-440(1C) http://www.openstreetmap.org/?lat=35.770472&lon=-78.723049
+1D(440) +I-440(1D) http://www.openstreetmap.org/?lat=35.777053&lon=-78.709359
+2(440) +I-440(2) http://www.openstreetmap.org/?lat=35.783981&lon=-78.700175
+3A(440) +I-440(3) http://www.openstreetmap.org/?lat=35.795469&lon=-78.694768
+3C(440) +I-440(4) http://www.openstreetmap.org/?lat=35.803718&lon=-78.693652
+5(440) +I-440(5) http://www.openstreetmap.org/?lat=35.815447&lon=-78.690777
+6(440) +I-440(6) http://www.openstreetmap.org/?lat=35.833089&lon=-78.674984
+7(440) +I-440(7) http://www.openstreetmap.org/?lat=35.835315&lon=-78.669448
+8(440) +I-440(8) http://www.openstreetmap.org/?lat=35.834585&lon=-78.638592
+10(440) +I-440(10) http://www.openstreetmap.org/?lat=35.825364&lon=-78.621383
+11(440) +I-440(11) http://www.openstreetmap.org/?lat=35.814612&lon=-78.605161
 BreRd http://www.openstreetmap.org/?lat=35.818788&lon=-78.595934
 US401_N +US401 http://www.openstreetmap.org/?lat=35.839194&lon=-78.579894
 I-540 http://www.openstreetmap.org/?lat=35.875281&lon=-78.576665
@@ -74,9 +74,9 @@ US1AltWak_S http://www.openstreetmap.org/?lat=35.945728&lon=-78.539178
 125 +NC98Bus http://www.openstreetmap.org/?lat=35.978944&lon=-78.539425
 NC96 http://www.openstreetmap.org/?lat=36.041587&lon=-78.497261
 US1AltWak_N http://www.openstreetmap.org/?lat=36.054520&lon=-78.488184
-US1AltFra_S http://www.openstreetmap.org/?lat=36.083813&lon=-78.475154
+MainSt_FraS +US1AltFra_S http://www.openstreetmap.org/?lat=36.083813&lon=-78.475154
 NC56 http://www.openstreetmap.org/?lat=36.103538&lon=-78.465310
-US1AltFra_N http://www.openstreetmap.org/?lat=36.115725&lon=-78.454903
+MainSt_FraN +US1AltFra_N http://www.openstreetmap.org/?lat=36.115725&lon=-78.454903
 EgyMouRd http://www.openstreetmap.org/?lat=36.190607&lon=-78.450623
 US1BusHen_S http://www.openstreetmap.org/?lat=36.240050&lon=-78.436128
 US1BusHen http://www.openstreetmap.org/?lat=36.272260&lon=-78.406452

@@ -9,11 +9,14 @@ mexf;MEX2;;Tijuana, BC - Santa Ana, SON;mexbc.mex002,mexson.mex002
 mexf;MEX2;;Imuris, SON - El Porvenir, CHIH;mexson.mex002agu,mexchih.mex002
 mexf;MEX2;;Ramal a Naco, SON;mexson.mex002nac
 mexf;MEX2;;Ramal a Palomas Viejo, CHIH;mexchih.mex002pal
+mexf;MEX2;;Ramal a Jerónimo, CHIH;mexchih.mex002jer
 mexf;MEX2;;Ojinaga, CHIH;mexchih.mex002oji
 mexf;MEX2;;Ciudad Acuña, COAH - Playa Lauro Villar, TAM;mexcoah.mex002,mexnl.mex002,mextam.mex002
 mexf;MEX2;;Ramal a Presa de la Amistad, COAH;mexcoah.mex002ami
 mexf;MEX2;;Acceso al Puente Internacional III, TAM;mextam.mex002iii
 mexf;MEX2;;Paso por Nuevo Laredo, TAM;mextam.mex002lar
+mexf;MEX2;;Libramiento de Ciudad Mier, TAM;mextam.mex002mie
+mexf;MEX2;;Libramiento de Miguel Alemán, TAM;mextam.mex002mig
 mexf;MEX2;;Libramiento Sur de Reynosa, TAM;mextam.mex002rey
 mexf;MEX2;;Acceso al Puente Internacional Reynosa-Pharr, TAM;mextam.mex002pha
 mexf;MEX2;;Paso por Rio Bravo, TAM;mextam.mex002bra
@@ -68,6 +71,7 @@ mexf;MEX35;;Entronque Rinconada, MICH - Entronque Santa Rosa, JAL;mexmich.mex035
 mexf;MEX35;;Montemorelos - China, NL;mexnl.mex035
 mexf;MEX36;;;mexdgo.mex036
 mexf;MEX37;;Playa Azul, MICH - Manuel Doblado, GTO;mexmich.mex037,mexgto.mex037ana,mexjal.mex037,mexgto.mex037man
+mexf;MEX37;;Zamora - La Piedad, MICH;mexmich.mex037zam
 mexf;MEX37;;San Felipe, GTO - Entronque Cerro Gordo, SLP;mexgto.mex037,mexslp.mex037
 mexf;MEX37;;Paso por Villa de Reyes, SLP;mexgto.mex037rey,mexslp.mex037rey
 mexf;MEX37;;Paso por Villa de Reyes (Centro), SLP;mexslp.mex037vrc
@@ -82,7 +86,7 @@ mexf;MEX40;;Avenida Constitución (westbound in Monterrey, NL);mexnl.mex040con
 mexf;MEX40;;Paso por China, NL;mexnl.mex040chi
 mexf;MEX40;;Libramiento de Reynosa, TAM (Viaducto Reynosa);mextam.mex040rey
 mexf;MEX41;;Tacámbaro - Opopeo, MICH;mexmich.mex041
-mexf;MEX41;;Entronque Cuerámaro, GTO - Carretera Federal 37, JAL;mexgto.mex041,mexjal.mex041
+mexf;MEX41;;Entronque Cuerámaro, GTO - JAL state line;mexgto.mex041
 mexf;MEX41;;Ramal a Manuel Doblado, GTO;mexgto.mex041man
 mexf;MEX43;;;mexmich.mex043,mexgto.mex043
 mexf;MEX44;;Ramal a Tuxpan, NAY;mexnay.mex044
@@ -103,7 +107,6 @@ mexf;MEX45;;Paso por Nombre de Dios, DGO;mexdgo.mex045nom
 mexf;MEX45;;Libramiento de Durango, DGO;mexdgo.mex045dur
 mexf;MEX45;;Distribuidor Vial Presa Peña del Aguila, DGO;mexdgo.mex045mor
 mexf;MEX45;;Paso por Delicias-Meoqui, CHIH;mexchih.mex045del
-mexf;MEX48;;;mexchih.mex048
 mexf;MEX49;;San Luis Potosí, SLP - Entronque Las Arcinas, ZAC;mexslp.mex049,mexzac.mex049sal,mexslp.mex049ant,mexzac.mex049gon,mexslp.mex049gon,mexzac.mex049pan
 mexf;MEX49;;Paso por Mexquitic, SLP;mexslp.mex049mex
 mexf;MEX49;;Entronque La Chicharrona, ZAC - Jiménez, CHIH;mexzac.mex049,mexdgo.mex049,mexchih.mex049
@@ -113,7 +116,8 @@ mexf;MEX49;;Paso por Cuencamé, DGO;mexdgo.mex049cue
 mexf;MEX51;;Iguala, GRO - Zitácuaro, MICH;mexgro.mex051,mexmich.mex051
 mexf;MEX51;;Paso por Huetámo, MICH;mexmich.mex051hue
 mexf;MEX51;;Entronque Huajúmbaro - Zinapécuaro, MICH;mexmich.mex051hua
-mexf;MEX51;;Maravatío, MICH - Entronque Ojuelos, JAL;mexmich.mex051mar,mexgto.mex051,mexjal.mex051
+mexf;MEX51;;Acámbaro - Celaya, GTO;mexgto.mex051sal
+mexf;MEX51;;San Miguel de Allende, GTO - Entronque Ojuelos, JAL;mexgto.mex051,mexjal.mex051
 mexf;MEX51;;Salvatierra - Entronque Yuriria, GTO;mexgto.mex051yur
 mexf;MEX51;;Ramal a Atotonilco, GTO;mexgto.mex051ato
 mexf;MEX53;;;mexnl.mex053,mexcoah.mex053
@@ -129,8 +133,9 @@ mexf;MEX54;;Paso por Dr. González, NL;mexnl.mex054gon
 mexf;MEX55;;;mexgro.mex055,mexemex.mex055,mexqro.mex055
 mexf;MEX55;;Paso por Ixtapan de la Sal;mexemex.mex055ixt
 mexf;MEX55;;Paso por Acambay, EMEX;mexemex.mex055aca
-mexf;MEX57;;Entronque Jorobas, EMEX - Tula, HGO;mexemex.mex057,mexhgo.mex057
 mexf;MEX57;;Entronque Toluca, QRO - La Encantada, COAH;mexqro.mex057,mexgto.mex057,mexslp.mex057,mexnl.mex057,mexcoah.mex057hua
+mexf;MEX57;;Tanque Blanco, QRO - San Miguel de Allende, GTO;mexqro.mex057sma,mexgto.mex057sma
+mexf;MEX57;;Ramal a San Miguel de Allende (Los Rodríguez), GTO;mexgto.mex057rod
 mexf;MEX57;;Ramal a San José Iturbide, GTO;mexgto.mex057itu
 mexf;MEX57;;Ramal a Tierra Nueva, SLP;mexslp.mex057tie
 mexf;MEX57;;Paso por Villa Hidalgo, SLP;mexslp.mex057hid
@@ -139,6 +144,7 @@ mexf;MEX57;;Saltillo - Santa Cruz, COAH;mexcoah.mex057can
 mexf;MEX57;;Paso por Monclova, COAH;mexcoah.mex057mon
 mexf;MEX57;;Paso por Allende-Morelos-Nava, COAH;mexcoah.mex057nav
 mexf;MEX58;;;mexnl.mex058
+mexf;MEX61;;;mexmich.mex061,mexgto.mex061
 mexf;MEX62;;;mexzac.mex062,mexslp.mex062
 mexf;MEX62;;Ramal a Matehuala - Ojo de Agua, SLP;mexslp.mex062mat
 mexf;MEX63;;;mexslp.mex063
@@ -183,7 +189,6 @@ mexf;MEX80;;Ramal a El Salto, SLP;mexslp.mex080sal
 mexf;MEX80;;Ciudad Mante - Tampico, TAM;mextam.mex080
 mexf;MEX80;;Paso por González - Estación Manuel, TAM;mextam.mex080man
 mexf;MEX81;;;mextam.mex081
-mexf;MEX82;;;mextam.mex082
 mexf;MEX83;;;mextam.mex083
 mexf;MEX85;;;mexdf.mex085,mexemex.mex085,mexhgo.mex085,mexslp.mex085,mextam.mex085,mexnl.mex085,mextam.mex085lar
 mexf;MEX85;;Paso por Pachuca, HGO;mexhgo.mex085pac
@@ -192,15 +197,16 @@ mexf;MEX85;;Paso por Ciudad Mante, TAM;mextam.mex085man
 mexf;MEX85;;Paso por Montemorelos, NL;mexnl.mex085mon
 mexf;MEX85;;Avenida Félix U. Gómez (southbound in Monterrey, NL);mexnl.mex085gom
 mexf;MEX85;;Paso por Sabinas Hidalgo, NL;mexnl.mex085sab
+mexf;MEX87;;;mexemex.mex087,mexhgo.mex087
 mexf;MEX88;;;mexhgo.mex088,mextlax.mex088
 mexf;MEX90;;Acceso a Puerto de Salina Cruz, OAX;mexoax.mex090
 mexf;MEX90;;Zapotlanejo, JAL - Irapuato, GTO;mexjal.mex090,mexmich.mex090,mexgto.mex090
 mexf;MEX93;;;mexgro.mex093,mexpue.mex093
+mexf;MEX93;;Libramiento Chilpancingo-Tixtla;mexgro.mex093chi
 mexf;MEX95;;;mexgro.mex095,mexmor.mex095,mexdf.mex095
 mexf;MEX95;;Libramiento Norte de Acapulco, GRO (Ramal a Bajos del Ejido);mexgro.mex095baj
-mexf;MEX95;;Tierra Colorada - Cruz Grande, GRO;mexgro.mex095cru
 mexf;MEX95;;Chilpancingo - Chichihualco, GRO;mexgro.mex095chi
-mexf;MEX95;;Casa Verde - Filo de Caballos, GRO;mexgro.mex095fil
+mexf;MEX95;;Casa Verde - Entronque Atoyac de Álvarez, GRO;mexgro.mex095ato
 mexf;MEX95;;Ramal a Aeropuerto Internacional Mariano Matamoros, MOR;mexmor.mex095amm
 mexf;MEX95;;Ramal a Coajomulco, MOR;mexmor.mex095coa
 mexf;MEX95;;Ramal a Lagunas de Zempoala, MOR;mexmor.mex095zem
@@ -214,16 +220,16 @@ mexf;MEX101;;Paso por Francisco Villa, TAM;mextam.mex101fra
 mexf;MEX101;;Paso por San Germán, TAM;mextam.mex101ger
 mexf;MEX102;;;mexslp.mex102,mexhgo.mex102
 mexf;MEX105;;;mexhgo.mex105,mexver.mex105
+mexf;MEX105;;Omitlán de Juárez;mexhgo.mex105omi
 mexf;MEX107;;;mextam.mex107
 mexf;MEX110;;Entronque Tecomán, COL - Entronque Estación Patti, MICH;mexcol.mex110,mexjal.mex110,mexmich.mex110
 mexf;MEX110;;Paso por La Salada, COL;mexcol.mex110sal
 mexf;MEX110;;Paso por Los Asmoles, COL;mexcol.mex110asm
 mexf;MEX110;;Entronque El Mirador - El Zapote, JAL;mexjal.mex110guz
-mexf;MEX110;;Zamora - La Piedad, MICH;mexmich.mex110zam
 mexf;MEX110;;Los Infantes - San Luis de la Paz, GTO;mexgto.mex110
 mexf;MEX110;;Santa Teresa - Silao, GTO;mexgto.mex110sil
 mexf;MEX110;;Ramal a Cañada de Moreno, GTO;mexgto.mex110mor
-mexf;MEX111;;;mexqro.mex111,mexgto.mex111
+mexf;MEX110;;Libramiento de Sahuayo, MICH;mexmich.mex110sah
 mexf;MEX113;;;mexmor.mex113,mexemex.mex113,mexdf.mex113
 mexf;MEX113;;Ramal a Tlalnepantla, MOR;mexmor.mex113tla
 mexf;MEX113;;Ramal a Nepopualco, MOR;mexmor.mex113nep
@@ -252,6 +258,7 @@ mexf;MEX120;;Ramal a San Joaquín, QRO;mexqro.mex120joa
 mexf;MEX121;;;mexpue.mex121,mextlax.mex121
 mexf;MEX121;;Ramal a Panzacola, TLAX;mextlax.mex121ten
 mexf;MEX121;;Teolocholco - Acuitlapilco, TLAX;mextlax.mex121xil
+mexf;MEX123;;;mexver.mex123
 mexf;MEX125;;Pinotepa Nacional - Yucudaa, OAX;mexoax.mex125
 mexf;MEX125;;Huajuapan de León, OAX - Tehuacán, PUE;mexoax.mex125hua,mexpue.mex125
 mexf;MEX125;;Fortín de las Flores - Entronque Conejos, VER;mexver.mex125
@@ -259,7 +266,7 @@ mexf;MEX125;;Paso por Huatusco, VER;mexver.mex125hua
 mexf;MEX125;;Ramal a Colonia Manuel González, VER;mexver.mex125man
 mexf;MEX126;;;mexmich.mex126
 mexf;MEX126;;Maravatío - Contepec, MICH;mexmich.mex126mar
-mexf;MEX127;;San Andrés - Poza Rica, VER;mexver.mex127poz
+mexf;MEX127;;María de la Torre - Poza Rica, VER;mexver.mex127poz
 mexf;MEX127;;El Chote - Papantla, VER;mexver.mex127pap
 mexf;MEX127;;Tihuatlán - Entronque Canoas, VER;mexver.mex127
 mexf;MEX127;;Alamo, VER - Huejutla de Reyes, HGO;mexver.mex127ben,mexhgo.mex127
@@ -309,7 +316,6 @@ mexf;MEX145;;Ciudad Alemán - Santa Cruz, VER;mexver.mex145ale
 mexf;MEX145;;La Granja, VER - Temazcal, OAX;mexver.mex145tem,mexoax.mex145tem
 mexf;MEX147;;;mexoax.mex147pal,mexver.mex147,mexoax.mex147
 mexf;MEX150;;;mexpue.mex150,mexver.mex150
-mexf;MEX150;;Orizaba - Zongolica, VER;mexver.mex150zon
 mexf;MEX150;;Paso por Yanga, VER;mexver.mex150yan
 mexf;MEX150;;Paso por Cuitláhuac, VER;mexver.mex150cui
 mexf;MEX150;;Ramal a Antón Lizardo, VER;mexver.mex150ant
@@ -325,7 +331,7 @@ mexf;MEX176;;;mexyuc.mex176
 mexf;MEX176;;Conkal - Chicxulub Puerto, YUC;mexyuc.mex176chi
 mexf;MEX176;;Paso por Motul-Cansahcab, YUC;mexyuc.mex176can
 mexf;MEX176;;Cansahcab - Dzilam Bravo, YUC;mexyuc.mex176dzi
-mexf;MEX179;;;mexoax.mex179
+mexf;MEX179;;;mexoax.mex179,mexver.mex179
 mexf;MEX179;;Ramal a Zacatepec Mixes, OAX;mexoax.mex179zac
 mexf;MEX180;;La Coma - Estación Manuel, TAM;mextam.mex180
 mexf;MEX180;;Tampico, TAM - Tuxpan, VER;mextam.mex180tam,mexver.mex180nar
@@ -350,7 +356,8 @@ mexf;MEX180;;Paso por Hoctún - Xocchel, YUC;mexyuc.mex180xoc
 mexf;MEX180;;Paso por Hoctún, YUC;mexyuc.mex180hoc
 mexf;MEX180;;Paso por Kantunil, YUC;mexyuc.mex180kan
 mexf;MEX180;;Paso por Ticuch, YUC;mexyuc.mex180tic
-mexf;MEX182;;;mexoax.mex182teo,mexpue.mex182,mexoax.mex182
+mexf;MEX182;;OAX/PUE;mexoax.mex182teo,mexpue.mex182,mexoax.mex182
+mexf;MEX182;;TAM;mextam.mex182
 mexf;MEX184;;;mexyuc.mex184,mexqroo.mex184
 mexf;MEX185;;;mexoax.mex185,mexver.mex185
 mexf;MEX185;;Paso por Palomares, OAX;mexoax.mex185pal
@@ -371,6 +378,7 @@ mexf;MEX190;;Paso por Tapanatepec, OAX;mexoax.mex190tap
 mexf;MEX190;;Las Cruces - Arriaga, CHIS;mexchis.mex190arr
 mexf;MEX190;;Paso por Ocozocoautla, CHIS;mexchis.mex190oco
 mexf;MEX190;;Alterna a Berriozábal, CHIS;mexchis.mex190ber
+mexf;MEX190;;Suchiapa, CHIS (Libramiento Sur de Tuxtla Gutiérrez);mexchis.mex190suc
 mexf;MEX190;;Ramal a Chicoasén, CHIS;mexchis.mex190chi
 mexf;MEX190;;Paso por Tuxtla Gutiérrez, CHIS;mexchis.mex190tux
 mexf;MEX190;;Ramal a El Sumidero, CHIS;mexchis.mex190sum
@@ -379,6 +387,7 @@ mexf;MEX190;;Ramal a La Angostura, CHIS;mexchis.mex190ang
 mexf;MEX190;;Ramal a Aeropuerto Nacional de Comitán, CHIS;mexchis.mex190anc
 mexf;MEX195;;;mexchis.mex195,mextab.mex195
 mexf;MEX195;;Alterna a Parrilla, TAB;mextab.mex195par
+mexf;MEX198;;;mexgro.mex198
 mexf;MEX199;;;mexchis.mex199
 mexf;MEX199;;Ramal a Cascadas de Misol-Ha, CHIS;mexchis.mex199mis
 mexf;MEX200;;Tepic, NAY - Salina Cruz, OAX;mexnay.mex200,mexjal.mex200,mexcol.mex200,mexmich.mex200,mexgro.mex200,mexoax.mex200
@@ -403,7 +412,7 @@ mexf;MEX200;;Boulevard Ixtapa Zihuatanejo - Aeropuerto Internacional de Zihuatan
 mexf;MEX200;;Ramal a Aeropuerto Internacional de Zihuatanejo, GRO;mexgro.mex200aze
 mexf;MEX200;;Paso por Nuxco, GRO;mexgro.mex200nux
 mexf;MEX200;;Paso por la Y Griega, GRO;mexgro.mex200ygr
-mexf;MEX200;;Entronque Atoyac de Alvarez - El Paraíso, GRO;mexgro.mex200ato
+mexf;MEX200;;Paso por Cacalutla, GRO;mexgro.mex200cac
 mexf;MEX200;;Cayaco - Las Horquetas, GRO;mexgro.mex200bar
 mexf;MEX200;;Acceso a Puerto Marqués, GRO;mexgro.mex200mar
 mexf;MEX200;;Ramal a Ometepec, GRO;mexgro.mex200ome
