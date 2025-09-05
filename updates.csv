@@ -983,6 +983,7 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2025-08-30;Czechia;D3 (Dolní Dvořiště);cze.d003dol;New Route
 2025-08-11;Czechia;D35 (Mohelnice);cze.d035;Route merged into main route
 2025-08-11;Czechia;D35 (Olomouc);cze.d035;Route extended at west end from Neředín to Mohelnice
 2025-08-11;Czechia;E442;cze.e442;Route relocated south of Křelov I35, and onto new D35
@@ -2082,6 +2083,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Bavaria;A45;deuby.a045;Relabeled exits 45b as 47, 45a as 46, 44b as 45 and 44a as 44
 2020-06-07;(Germany) Berlin;B109 (Schönerlinder Straße);;Route deleted
 2020-06-07;(Germany) Berlin;B109 (Prenzlauer Promenade);;Route deleted
+2015-08-27;(Germany) Berlin;A100;deube.a100;Route extended at east end from exit 26 to exit 27
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
@@ -3551,6 +3553,8 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2025-08-31;Japan;C3 (Ogaki);;Route deleted, merged into C3 (Nagoya)
+2025-08-31;Japan;C3 (Nagoya);jpn.c003nag;Route extended to exit 15, combining with former C3 (Ogaki) section
 2025-08-06;Japan;E55 (Wada);jpn.e055wad;New route, Wada Tunnel section of Kitagawa Road
 2025-06-02;Japan;E42Kih;jpn.e042kih;New route
 2025-06-02;Japan;E55 (Konan);;Route deleted, merged into E55
@@ -4636,6 +4640,8 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2025-08-25;Poland;S1 (Oświęcim);pol.s001osw;Route added
+2025-08-25;Poland;DK44 (Oświęcim);pol.dk044osw;Route added
 2025-08-15;Poland;E28;pol.e28;Route removed from Ulica Jana Pawla II and Ulica Antoniego Abrahama and relocated onto future S6 between S6 exits 44 and 45
 2025-08-15;Poland;DK6 (Lebork);pol.dk006leb;Route removed from Ulica Jana Pawla II and Ulica Antoniego Abrahama and relocated onto future S6 between S6 exits 44 and 45
 2025-08-15;Poland;DK71 (Aleksandrow Lodzki);pol.dk072;Route deleted (now part of DK72)
@@ -5541,8 +5547,9 @@ date;region;route;root;description
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
 2025-08-06;Romania;DJIMO;rou.djimo;New Route
+2025-08-06;Romania;DJIMO;rou.djimo;New Route
 2025-08-06;Romania;DN65G;rou.dn65g;New Route
-2025-08-06;Romania;DN69B;rou.dn69b;New Route
+2025-08-27;Romania;DJ301A;rou.dj301a;Route extended at southern end from Posta to DJ100
 2025-08-05;Romania;DEx4;rou.dex04;New Route
 2025-08-04;Romania;DEx12;rou.dex12;Route extended at northern end from DN65A to A1
 2025-07-18;Romania;A7;rou.a007foc;Route extended at southern end from DJ203K to DN2B
@@ -6124,6 +6131,8 @@ date;region;route;root;description
 2019-06-08;(Spain) Castile and Leon;A11 (La Mallona);espcl.a011mal;New Route
 2019-04-10;(Spain) Castile and Leon;A11 (Burgo de Osma);espcl.a011bur;Route extended at east end from exit 211 to exit 203
 2018-07-18;(Spain) Castile and Leon;A60 (Villarente);espcl.a060;Route extended at south end from exit 123 to exit 103
+2025-08-28;(Spain) Castille-la Mancha;TO20;espcm.to020;Route added
+2025-08-28;(Spain) Castille-la Mancha;TO21;espcm.to021;Route truncated at south end from A42 to TO20
 2025-05-07;(Spain) Castille-la Mancha;A4A;espcm.a004a;Route added
 2025-05-07;(Spain) Castille-la Mancha;E5 (Santa Cruz de Mudela);espcm.e5scm;Route added
 2024-02-15;(Spain) Castilla-La Mancha;A33;espcm.a033;Route extended at south end from exit 70 to Region of Murcia border
@@ -6156,6 +6165,7 @@ date;region;route;root;description
 2019-05-01;(Spain) Catalonia;C65;espct.c065;Route extended at south end from C31 to C250_S and at north end from C35 to AP7
 2019-04-22;(Spain) Catalonia;T11;espct.t011;Route extended at east end from A27 to N340
 2018-11-26;(Spain) Catalonia;A2 (Girona);espct.a002gir;Route extended at south end from exit 694 to exit 692
+2025-08-25;(Spain) Community of Madrid;A5R;espmd.a005r;Route added
 2025-05-07;(Spain) Community of Madrid;A1A;espmd.a001a;Route added
 2025-05-07;(Spain) Community of Madrid;E5 (El Molar);espmd.e5mol;Route added
 2024-07-19;(Spain) Community of Madrid;E5;espmd.e5;Route removed from A1, M30 and A4 and relocated onto M40 between A1/M40 junction and A4/M40 junction
@@ -7708,6 +7718,7 @@ date;region;route;root;description
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2025-03-07;(USA) District of Columbia;I-295;dc.i295;Exit number for Suitland Parkway renumbered from 3 to 4. If you were using the waypoint label "4" for travels ending at the 11th Street Bridges (now "5"), you will need to update your .list file.
 2022-11-10;(USA) District of Columbia;Beach Drive;dc.beadr;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2025-08-27;(USA) Florida;FL 589;fl.fl589;Extended northward from an interchange with FL 44 to an interchange with CR 486 on a newly opened highway.
 2025-08-13;(USA) Florida;FL 23;fl.fl023;Extended south from Exit 31 (FL 21) to Exit 13 (US 17) on a newly opened highway.
 2024-07-22;(USA) Florida;FL 134;fl.fl134;Western end truncated from an intersection with FL 228, one block south to the intersection of POW-MIA Memorial Pkwy/103rd St.
 2024-04-27;(USA) Florida;FL 686A;fl.fl686a;Added route.
