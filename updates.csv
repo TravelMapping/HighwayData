@@ -756,6 +756,7 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
+2025-09-05;(Canada) Quebec;A-35;qc.a035;Route extended, from exit 15 in St-Sebastien south to exit 5 in St-Armand. 
 2025-02-17;(Canada) Quebec;A-85 (Rivière-du-Loup);qc.a085;Extended east from closed intersection *QC185 to closed intersection *RteGerRoy_A, absorbing existing QC 185 freeway segment
 2025-02-17;(Canada) Quebec;QC 185;qc.qc185;Truncated from closed intersection *QC185 to closed intersection *RteGerRoy_A
 2025-02-17;(Canada) Quebec;QC 291;qc.qc291;Truncated east from Route Gerard-Roy to A-85
@@ -1726,11 +1727,14 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2025-09-07;(Germany) Baden-Württemberg;B39 (Löwenstein);deubw.b039;Route truncated at west end from Rauenberg to Heilbronn (B39Muh, B292, L533 and B27 now)
+2025-09-07;(Germany) Baden-Württemberg;B39 (Mühlhausen);deubw.b039muh;New Route (split off from main route)
+2025-09-07;(Germany) Baden-Württemberg;L533;deubw.l0533;Route relocated from Dührener Straße, and onto Hauptstraße in Sinsheim, and extended to Heilbronn (former B39)
 2025-04-18;(Germany) Baden-Württemberg;Paduaallee Freiburg;deubw.padall;New Route
 2025-04-17;(Germany) Baden-Württemberg;L597 (Seckenheim);deubw.l0597sec;Route extended at north end from L637 to K4138 (new bypass)
 2024-12-22;(Germany) Baden-Württemberg;B3n;deubw.b003n;Route extended at north end from K3738 to L80
 2024-12-22;(Germany) Baden-Württemberg;B27 (Stuttgart);deubw.b027;Route relocated in Heilbronn from Weinsberger Str., Oststr., Südstr., Sontheimer Str., Kolpingstr., Horkheimer Str., Lutzstr. and Lauffener Str., and onto Mannheimer Str., Fügerstr., Neckartalstr. (western route instead of eastern route now)
-2024-12-22;(Germany) Baden-Württemberg;B39 (Heilbronn);deubw.b039;Route relocated in Heilbronn from Fügerstr., Mannheimer Str. and Weinsberger Str., and onto Neckartalstr., Karlsruher Str., Weststr., Südstr. and Oststr. (southern route instead of northern route now)
+2024-12-22;(Germany) Baden-Württemberg;B39 (Löwenstein);deubw.b039;Route relocated in Heilbronn from Fügerstr., Mannheimer Str. and Weinsberger Str., and onto Neckartalstr., Karlsruher Str., Weststr., Südstr. and Oststr. (southern route instead of northern route now)
 2024-12-22;(Germany) Baden-Württemberg;B293;deubw.b293;Route truncated at east end from L1100 to B27 (B39 now)
 2024-12-22;(Germany) Baden-Württemberg;L1100 (Heilbronn);deubw.l1100hei;Route truncated at south end from B293 to B27 (B27 now)
 2024-12-22;(Germany) Baden-Württemberg;L1100 (Marbach);deubw.l1100;Route extended at north end from Sontheimer Straße to B39 (former B27)
@@ -2142,6 +2146,7 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2025-09-07;(Germany) Hesse;L3214;deuhe.l3214;Route truncated at north end from Holländische Straße (old B7 in Calden), and reextended to new B7 via new western bypass of Calden
 2025-07-03;(Germany) Hesse;B7 (Ringgau);deuhe.b007rin;Route truncated at west end from A44's exit 79 to A44's exit 81 (partially L3459 and B27 now)
 2025-07-03;(Germany) Hesse;B27 (Bad Hersfeld);deuhe.b027;Route truncated at north end from A38 to A44 north of Sontra
 2025-07-03;(Germany) Hesse;B27 (Bad Sooden-Allendorf);deuhe.b027soo;New Route (remainder of main route between A38 and B452)
@@ -4372,6 +4377,7 @@ date;region;route;root;description
 2020-03-09;New Zealand;SH1 (Te Ika-a-Māui);nzl.sh001;Route removed from Great South Road and Gordonton Road and relocated onto Waikato Expressway between Great South Road and northern junction with SH1B
 2020-03-09;New Zealand;Thermal Explorer Highway;nzl.theexphwy;Route removed from Gordonton Road and Waikato Expressway and relocated onto Great South Road between Gordonton Road and the SH1 at Horotiu
 2020-03-09;New Zealand;Thermal Explorer Highway;nzl.theexphwy;Route removed from Waikato Expressway and relocated onto Cambridge Road, Hamilton Road, Victoria Street, Queen Street, Albert Street and Tirau Road between the SH1 west of Cambridge and the SH1 east of Cambridge
+2025-09-08;North Macedonia;Avtopatishta Kičevo - Ohrid (Ohrid);mkd.avtkicohrohr;Route extended at north end from Podmolje to Klimeštani
 2025-07-14;North Macedonia;Avtopatishta Kičevo - Ohrid (Izdeglavje);mkd.avtkicohr;New route
 2025-07-14;North Macedonia;Avtopatishta Kičevo - Ohrid (Ohrid);mkd.avtkicohrohr;New route
 2025-06-30;North Macedonia;A1 Prilep (spur);mkd.a001pri;Route relocated onto new alignement between interchange Fariš and Vozarci (R1103)
@@ -8057,6 +8063,8 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2025-09-05;(USA) Kentucky;Bert T. Combs Mountain Parkway;ky.commtnpkwy;Extended at east end along US 460 to western end of KY 114
+2025-09-05;(USA) Kentucky;KY 425;ky.ky0425;Truncated at east end from I-69 to US 41 (segment removed is part of US 41)
 2025-06-23;(USA) Kentucky;KY 9;ky.ky0009;KY3056 point moved approx 250m east to reflect reconfiguration of intersection that happened between 2016 and 2018 (old KY 3056 point now labeled *OldKY3056)
 2025-06-23;(USA) Kentucky;KY 10;ky.ky0010;KY3056 point moved approx 250m east to reflect reconfiguration of intersection that happened between 2016 and 2018 (old KY 3056 point now labeled *OldKY3056)
 2025-06-23;(USA) Kentucky;KY 3056;ky.ky3056;KY9 point (now labeled KY9/10) moved approx 250m east to relocated intersection reconstructed between 2016 and 2018 (new routing is between KY9/10 and OldKY3056 points)
