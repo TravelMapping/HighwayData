@@ -84,6 +84,8 @@ date;region;route;root;description
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
 2024-12-16;(Australia) Western Australia;WA101;auswa.wa101;Route added
 2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
+2025-09-19;Austria;S7;aut.s007;Route extended at east end from exit 15 to the Hungarian border
+2025-09-19;Austria;E66;aut.e66;Route relocated from B65 between Dobersdorf and Hungarian border, and onto S7 from S7's former exit 15 to the Hungarian border
 2025-06-24;Austria;L214-5;aut.l2145;Route relocated from through Wagrain and onto western bypass between B163 and Kirchboden
 2025-02-20;Austria;B36;aut.b036;Route relocated from through Kleinpoppen and Wolfenstein, and onto eastern bypass
 2025-01-14;Austria;B6;aut.b006;Route relocated from through Tresdorf, Harmannsdorf and Rückersdorf, and onto new bypass between L1123 and L32
@@ -756,7 +758,10 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
-2025-09-05;(Canada) Quebec;A-35;qc.a035;Route extended, from exit 15 in St-Sebastien south to exit 5 in St-Armand. 
+2025-09-20;(Canada) Quebec;A-85 (Rivière-du-Loup);qc.a085;Route extended, from closed intersection *RteGerRoy_A to new exit 56
+2025-09-20;(Canada) Quebec;A-85 (Notre-Dame-du-Lac);qc.a085not;Route extended, from exit 47 to closed intersection *ChSav
+2025-09-20;(Canada) Quebec;QC 185;qc.185;North end of route truncated, from closed intersection *RteGerRoy_A to new exit 56. South end of route truncated, from exit 47 to closed intersection *ChSav.
+2025-09-05;(Canada) Quebec;A-35;qc.a035;Route extended, from exit 15 in St-Sebastien south to exit 5 in St-Armand
 2025-02-17;(Canada) Quebec;A-85 (Rivière-du-Loup);qc.a085;Extended east from closed intersection *QC185 to closed intersection *RteGerRoy_A, absorbing existing QC 185 freeway segment
 2025-02-17;(Canada) Quebec;QC 185;qc.qc185;Truncated from closed intersection *QC185 to closed intersection *RteGerRoy_A
 2025-02-17;(Canada) Quebec;QC 291;qc.qc291;Truncated east from Route Gerard-Roy to A-85
@@ -825,6 +830,8 @@ date;region;route;root;description
 2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
 2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2022-01-23;(China) Xianjiang;AH9;chnxj.ah009;Route added
+2025-09-13;Croatia;D46;hrv.d046;Route relocated from through Vinkovci, and onto southern bypass between Jošine and Prišinci
+2025-09-13;Croatia;D55;hrv.d055;Route relocated from through Vinkovci, and onto eastern bypass between Jošine and Nustar
 2025-04-24;Croatia;D64;hrv.d064;Route relocated from through Pazin, and onto southern bypass between Lindarski Križ and D77
 2025-01-13;Croatia;D677;hrv.d677;New Route
 2025-01-12;Croatia;D500;hrv.d500;Route truncated at north end from A8's former exit 7 to Z5047, and reextended to A8's new exit 7
@@ -1469,6 +1476,7 @@ date;region;route;root;description
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 67 and 69
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between Yt1792 and exit 72
 2015-07-17;Finland;E18;fin.e18;Removed from Mt170 (formerly Vt7) and relocated onto Vt7 Moottoritie between exits 81 and 85
+2025-09-13;(France) Auvergne-Rhône-Alpes;N102 (Aubenas);fraara.n102aub;Route relocated from through Le Teil, and onto new northern and eastern bypass between Route des Combes to Avenue de Pont
 2025-02-02;(France) Auvergne-Rhône-Alpes;N85;fraara.n085;Route truncated at south end from the border with PAC to the end of the Laffrey descent (D1085-38Mur now)
 2024-10-28;(France) Auvergne-Rhône-Alpes;N102 (Arvant);fraara.n102arv;New Route
 2022-06-28;(France) Auvergne-Rhône-Alpes;N79;fraara.a079;Route deleted (A79 now)
@@ -1535,6 +1543,9 @@ date;region;route;root;description
 2022-09-22;(France) French Guiana;N5;;Route removed
 2022-09-22;(France) French Guiana;N2001 (Sinnamary);guf.d021;Route removed
 2022-09-22;(France) French Guiana;N2001 (Kourou);;Route removed
+2025-09-13;(France) Grand-Est;E46;frages.e46;Route relocated from N31, and onto A26 between the HDF/GES border points and A344 west of Reims
+2025-09-13;(France) Grand-Est;D559-6ae;frages.d05596ae;New Route
+2025-09-13;(France) Grand-Est;D1059-6ae;frages.d10596ae;Route relocated from through Châtenois and onto northern bypass from west of D424 at Val de Villé to D424 east of Châtenois
 2025-06-15;(France) Grand-Est;N33;frages.d063357;Route renamed to D633-57
 2025-06-15;(France) Grand-Est;N61;frages.d066157;Route renamed to D661-57
 2025-06-15;(France) Grand-Est;N61A;frages.d0661a57;Route renamed to D661a-57
@@ -1926,6 +1937,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from L154 to A98 between A98 exits 11 and 13
+2025-09-16;(Germany) Bavaria;B15a;deuby.b015a;Route extended at north end from RO19 to St2080
 2025-08-11;(Germany) Bavaria;B16 (Donauwörth);deuby.b016;Route relocated from through Hausen, and onto western bypass
 2025-07-07;(Germany) Bavaria;St2987;deuby.st2187;Route deleted (St2187 now)
 2025-07-07;(Germany) Bavaria;St2187;deuby.st2187;Route relocated from through Ebensfeld and onto southern bypass between west of Prächting to St2197
@@ -3078,6 +3090,7 @@ date;region;route;root;description
 2017-11-14;Iceland;TH95;isl.th095;New Route replacing former section of TH1 between Egilsstaðir and Breiðdalsvík
 2017-11-14;Iceland;TH96;;Route deleted, now part of TH1
 2017-11-14;Iceland;TH950;isl.th950;New Route replacing former section of TH92 in Eskifjörður
+2025-09-18;Indonesia;Jalan Tol Betung - Jambi (Sumatra);idn.jtbj;Route extended at north end from exit 34 to exit 52
 2025-07-21;Indonesia;Jalan Tol Yogyakarta–Surakarta (Java);idn.jtys;extended from 22 to 31
 2025-07-21;Indonesia;T13 (Java);idn.t013;extended from 849 to 873
 2025-02-27;Indonesia;Jalan Tol Padang–Sicincin (Sumatra);idn.jtps;Route added
@@ -3749,6 +3762,9 @@ date;region;route;root;description
 2015-10-08;Latvia;E22;lva.e22;Route removed from P136 and relocated onto A12 between P136 and P52_W
 2015-10-08;Latvia;E22;lva.e22;Route removed from A6 and relocated onto A4, P5 and P80 between A4/A6 junction and A6/P80 junction (includes former Turkane section)
 2015-10-08;Latvia;E22;lva.e22tur;Route merged into main E22
+2025-09-13;Lithuania;A5;ltu.a005;Route relocated from Naujienėlė and Trakėnai, and onto new motorway alignment from Smalninkai to Pelucmurgiai
+2025-09-13;Lithuania;E67;ltu.e67;Route relocated from Naujienėlė and Trakėnai, and onto new motorway alignment from Smalninkai to Pelucmurgiai
+2025-09-13;Lithuania;Kaunas - Kalvarija Greitkelio;ltu.kaukalgre;Route extended at south end from Smalninkai to Pelucmurgiai
 2025-02-13;Lithuania;K208;ltu.k208;Route extended at east end from K111 to R4902
 2024-10-11;Lithuania;Kaunas - Marijampolė Greitkelio;ltu.kaukalgre;Route merged into Kaunas - Kalvarija Greitkelio
 2024-10-11;Lithuania;Kaunas - Kalvarija Greitkelio;ltu.kaukalgre;Route extended at north end from R5122 to K230 at Mauručiai
@@ -4088,6 +4104,7 @@ date;region;route;root;description
 2018-01-05;Montenegro;Magistralni Put;;Re-entered all routes
 2016-12-04;Montenegro;E763;mne.e763;Route removed from road through Cukovac and onto bypass between 'Cuk_S' and 'Cuk_N'
 2024-02-12;Morocco;N23;mar.n023;Route relocated on new alignement south of Benslimane and south of Demnate
+2025-09-18;Namibia;B9 (Hosea Kutako International Airport);nam.b009air;Route added
 2025-03-12;Namibia;A1;nam.a001;Route extended at north end from B1_N to B1/B2
 2025-03-12;Namibia;A2;nam.a002;Route extended at south end from D1984 to C14
 2025-03-12;Namibia;B9;nam.b009;Route extended at east end from Robert Mugabe Avenue to Sam Nujoma Drive
@@ -4399,6 +4416,8 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2025-09-13;Norway;Lyngdal Motorveien;nor.lynmot;New Route
+2025-09-13;Norway;E39 (Stavanger);nor.e39;Route relocated from through Lyngdal and onto new motorway bypass from Eikeland (west of exit 13) to Flekkefjordveien at Herdalen (west of exit 14)
 2025-06-27;Norway;E39 (Trondheim);nor.e39tro;Route relocated from through Hennset and onto bypass from Fv6182 near Hestnes to Fv6179 near Myra
 2025-04-28;Norway;Rv3;nor.rv003;Route relocated from east of Tunna river to west of Tunna river between Fv2246 and west of Lonåsen
 2025-02-13;Norway;Rv354 (Tangenvegen);nor.rv354tan;New Route
@@ -4646,6 +4665,10 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2025-09-18;Poland;DW699;;Route deleted
+2025-09-18;Poland;DW712 (Leg);;Route deleted
+2025-09-18;Poland;DW712 (Karczew);;Route deleted
+2025-09-18;Poland;DW868;;Route deleted
 2025-08-25;Poland;S1 (Oświęcim);pol.s001osw;Route added
 2025-08-25;Poland;DK44 (Oświęcim);pol.dk044osw;Route added
 2025-08-15;Poland;E28;pol.e28;Route removed from Ulica Jana Pawla II and Ulica Antoniego Abrahama and relocated onto future S6 between S6 exits 44 and 45
@@ -6049,6 +6072,8 @@ date;region;route;root;description
 2019-05-04;(Spain) Andulucia;CA36;espan.ca036;New Route
 2018-07-24;(Spain) Andulucia;SE40 (Coria del Rio);espan.se040cor;New Route
 2017-10-13;(Spain) Andulucia;H30;espan.h030;Route extended at north end from Paseo Marina to A49
+2025-09-18;(Spain) Aragon;A22;espar.a022;Route extended at west end from exit 94 to A23
+2025-09-18;(Spain) Aragon;N240;espar.n240;Route truncated at west end from A23 to A22 exit 102
 2025-05-07;(Spain) Aragon;NII (La Muela);;Route deleted
 2025-05-07;(Spain) Aragon;NIIa (La Almunia de Doña Godina);espar.n002aalm;Route truncated at west end from exit 260 of A2 to A2302
 2025-04-18;(Spain) Aragon;A21 (Tiermas);espar.a021;Route deleted (merged into Miramont section)
@@ -6171,6 +6196,8 @@ date;region;route;root;description
 2019-05-01;(Spain) Catalonia;C65;espct.c065;Route extended at south end from C31 to C250_S and at north end from C35 to AP7
 2019-04-22;(Spain) Catalonia;T11;espct.t011;Route extended at east end from A27 to N340
 2018-11-26;(Spain) Catalonia;A2 (Girona);espct.a002gir;Route extended at south end from exit 694 to exit 692
+2025-09-18;(Spain) Community of Madrid;E5 (Madrid);espmd.e5mad;Route added
+2025-09-18;(Spain) Community of Madrid;E90 (Getafe);espmd.e90get;Route added
 2025-08-25;(Spain) Community of Madrid;A5R;espmd.a005r;Route added
 2025-05-07;(Spain) Community of Madrid;A1A;espmd.a001a;Route added
 2025-05-07;(Spain) Community of Madrid;E5 (El Molar);espmd.e5mol;Route added
@@ -6181,6 +6208,7 @@ date;region;route;root;description
 2022-01-15;(Spain) Extremadura;EXC1;espex.exc001;Route added
 2022-01-15;(Spain) Extremadura;BA20;espex.ba020;Route extended at west end from N523 to A5 exit 407
 2019-08-31;(Spain) Extremadura;N523;espex.n523;New Route
+2025-09-18;(Spain) Galicia;E801;espga.a075;Route deleted
 2025-05-07;(Spain) Galicia;AG51;espga.ag051;Route extended at south end from exit 2 to PILSAN
 2025-02-08;(Spain) Galicia;A54 (Lugo);espga.a054lug;Route extended at west end from exit 38 to exit 50
 2024-12-31;(Spain) Galicia;A57;espga.a057;Route added
@@ -6557,6 +6585,7 @@ date;region;route;root;description
 2016-05-01;Sweden;Västkustvägen;swe.vastkustvag;New Route
 2016-05-01;Sweden;Vätterleden;swe.jonodemot;New Route
 2016-05-01;Sweden;Ystadvägen, Malmö;swe.ystvag;New Route
+2025-09-13;Switzerland;H9;che.h009;Route relocated from through Penthaz, and onto northern bypass from Route de Cossonay to Route de Lausanne
 2024-01-05;Switzerland;H17;che.h017;Route relocated in Zürich from south of Irchelpark to north and east of Irchelpark between junction Bucheggerstrasse/Wehntalerstrasse and Winterthurerstrasse/Irchelstrasse
 2024-01-05;Switzerland;H17 (Universität Zürich);che.h017;Merged into main route
 2024-01-03;Switzerland;H19;che.h019;Route extended at east end from A13 to H13
@@ -6898,6 +6927,7 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2025-09-18;(UK) England;E22 (Manchester);eng.e22man;Route added
 2025-06-04;(UK) England;M181;eng.m181;Route truncated at north end from old southern terminus of A1077(M) at roundabout near Brumby Common Lane overpass to new southern terminus of A1077(M) at roundabout near B1450 overpass
 2025-06-04;(UK) England;A1077(M);eng.a1077m;Route extended at south end from old northern terminus of M181 at roundabout near Brumby Common Lane overpass to new northern terminus of M181 at roundabout near B1450 overpass
 2025-06-02;(UK) England;A573;eng.a0573;Route truncated at south end from southern junction with A49 to A5739, and extended at south end from A5739 to A579
