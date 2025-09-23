@@ -1675,6 +1675,7 @@ date;region;route;root;description
 2015-07-25;(France) Nouvelle-Aquitaine;A89;franaq.a089;Route extended at west end from exit 19.1 to exit 9, including former Périgueux section
 2015-07-25;(France) Nouvelle-Aquitaine;A89 (Périgueux);franaq.a089;Route merged with main A89 route
 2015-07-25;(France) Nouvelle-Aquitaine;E62;franaq.e62;Removed from N149 and relocated to N249 between N249 Exit 15 and N149 exit 17
+2025-09-22;(France) Occitanie;E9;fraocc.e9;Route truncated at south end from Spanish border to N20/D66 junction and extended at south end from that junction along the N20 to the Spanish border (ie route now bypasses Bourg-Madame)
 2025-02-01;(France) Occitanie;N166;fraocc.d006666;Route renamed to D66-66
 2023-07-30;(France) Occitanie;N1088;fraocc.n1088;New Route
 2022-05-14;(France) Occitanie;N88 (Rodez);fraocc.n088;Route relocated from through Baraqueville and La Mothe (D888-12 now) and onto new bypass from exit 26 north of Baraqueville to south of La Mothe
@@ -6073,6 +6074,11 @@ date;region;route;root;description
 2019-05-04;(Spain) Andulucia;CA36;espan.ca036;New Route
 2018-07-24;(Spain) Andulucia;SE40 (Coria del Rio);espan.se040cor;New Route
 2017-10-13;(Spain) Andulucia;H30;espan.h030;Route extended at north end from Paseo Marina to A49
+2025-09-22;(Spain) Aragon;A68 (Alagon);espar.a068;Route truncated at east end from exit 225 to exit 244 and extended at east end from exit 244 to Calle Miguel Herrero y Rodriquez de Minon
+2025-09-22;(Spain) Aragon;A68 (Alagon);espar.a068;Route extended at west end from exit 294 to the Navarre border
+2025-09-22;(Spain) Aragon;A68 (Cartuja Baja);espar.a068car;Route added
+2025-09-22;(Spain) Aragon;Z32;espar.a068;Route deleted (now part of A68)
+2025-09-22;(Spain) Aragon;N232 (Gallur);espar.n232gal;Route truncated at west end from Navarre border to A68 exit 294
 2025-09-18;(Spain) Aragon;A22;espar.a022;Route extended at west end from exit 94 to A23
 2025-09-18;(Spain) Aragon;N240;espar.n240;Route truncated at west end from A23 to A22 exit 102
 2025-05-07;(Spain) Aragon;NII (La Muela);;Route deleted
@@ -6098,7 +6104,8 @@ date;region;route;root;description
 2019-10-16;(Spain) Balearic Islands;Ma13;espib.ma013;Route extended at north end from exit 40 to Ma2220
 2019-10-16;(Spain) Balearic Islands;Ma15;espib.ma015;Route extended at east end from exit 20 to Ma1020
 2019-10-16;(Spain) Balearic Islands;Ma19;espib.ma019;Route extended at west end from Avinguda de Gabriel Alomar i Villalonga to Avinguda d'Antoni Maura, and extended at east end from Ma19a to Passeig del Port
-2025-07-15;(Spain) Basque Country;AP636;esppv.ap636;New Route
+2025-09-22;(Spain) Basque Country;N624;esppv.n624;Route added
+2025-07-15;(Spain) Basque Country;AP636;esppv.ap636;Route added
 2025-07-15;(Spain) Basque Country;A636;esppv.ap636;Route renumbered AP636
 2025-05-07;(Spain) Basque Country;NI (Estavillo);;Route deleted
 2025-05-07;(Spain) Basque Country;NI (Langraiz-Oka);;Route deleted
@@ -6176,6 +6183,7 @@ date;region;route;root;description
 2019-09-05;(Spain) Castilla-La Mancha;CM45;espcm.cm045;Route extended at west end from CM4111 to A41, and at east end from exit 26 to CM412
 2018-11-04;(Spain) Castille-le-Mancha;N344;espcm.n344;Route truncated at north end from A35 to A31
 2017-10-11;(Spain) Castille-le-Mancha;TO21;espcm.to021;Route extended at east end from southern junction with N403 to A42
+2025-09-22;(Spain) Catalonia;E9;espct.e9;Route truncated at north end from French border (on the N152) to the N152/N154 junction and extended at north end from that junction to French border (on the N154)
 2024-02-16;(Spain) Catalonia;B40 (Abrera);espct.b040;Route deleted (merged into Terrassa section)
 2024-02-16;(Spain) Catalonia;B40 (Terrassa);espct.b040;Route extended at west end from C16 to A2
 2023-10-28;(Spain) Catalonia;A27;espct.a027;Route extended at north end from exit 23 to exit 29
@@ -6264,6 +6272,7 @@ date;region;route;root;description
 2018-01-03;(Spain) Galicia;AG51;espga.ag051;New Route
 2017-10-18;(Spain) La Rioja;A12;espri.a012;Route extended at east end from exit 94 (formerly exit 8) to Navarre border
 2017-10-18;(Spain) La Rioja;A12 (Lograno);espri.a012;Route merged into main route
+2025-09-22;(Spain) Navarre;PA35;espnc.pa035;Route added
 2025-07-15;(Spain) Region of Murcia;AN30;espmc.an030;Route added
 2025-05-09;(Spain) Region of Murcia;CT31;espmc.ct031;Route added
 2024-02-15;(Spain) Region of Murcia;A33;espmc.a033;Route extended at north end from exit RM424 to Castilla-La Mancha border
