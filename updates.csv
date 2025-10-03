@@ -84,6 +84,8 @@ date;region;route;root;description
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
 2024-12-16;(Australia) Western Australia;WA101;auswa.wa101;Route added
 2023-07-10;(Australia) Western Australia;WA2;auswa.wa002;Route extended at north end from Hester Avenue to Romeo Road
+2025-09-19;Austria;S7;aut.s007;Route extended at east end from exit 15 to the Hungarian border
+2025-09-19;Austria;E66;aut.e66;Route relocated from B65 between Dobersdorf and Hungarian border, and onto S7 from S7's former exit 15 to the Hungarian border
 2025-06-24;Austria;L214-5;aut.l2145;Route relocated from through Wagrain and onto western bypass between B163 and Kirchboden
 2025-02-20;Austria;B36;aut.b036;Route relocated from through Kleinpoppen and Wolfenstein, and onto eastern bypass
 2025-01-14;Austria;B6;aut.b006;Route relocated from through Tresdorf, Harmannsdorf and Rückersdorf, and onto new bypass between L1123 and L32
@@ -756,7 +758,11 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
-2025-09-05;(Canada) Quebec;A-35;qc.a035;Route extended, from exit 15 in St-Sebastien south to exit 5 in St-Armand. 
+2025-09-20;(Canada) Quebec;A-85 (Rivière-du-Loup);qc.a085;Route extended, from closed intersection *RteGerRoy_A south to new exit 56
+2025-09-20;(Canada) Quebec;A-85 (Notre-Dame-du-Lac);qc.a085not;Route extended, from exit 47 north to closed intersection *ChSav
+2025-09-20;(Canada) Quebec;QC 185;qc.qc185;North end of route truncated, from closed intersection *RteGerRoy_A to new exit 56. South end of route truncated, from exit 47 to closed intersection *ChSav.
+2025-09-20;(Canada) Quebec;TCH (Main);qc.tchmai;Waypoint 56(85) added, between extended A-85 (Rivière-du-Loup) and truncated QC 185
+2025-09-05;(Canada) Quebec;A-35;qc.a035;Route extended, from exit 15 in St-Sebastien south to exit 5 in St-Armand
 2025-02-17;(Canada) Quebec;A-85 (Rivière-du-Loup);qc.a085;Extended east from closed intersection *QC185 to closed intersection *RteGerRoy_A, absorbing existing QC 185 freeway segment
 2025-02-17;(Canada) Quebec;QC 185;qc.qc185;Truncated from closed intersection *QC185 to closed intersection *RteGerRoy_A
 2025-02-17;(Canada) Quebec;QC 291;qc.qc291;Truncated east from Route Gerard-Roy to A-85
