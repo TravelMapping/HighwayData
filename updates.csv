@@ -758,6 +758,8 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
+2025-10-05;(Canada) Quebec;QC 138;qc.qc138;East end truncated in Kegaska, to end at intersection with Ch. Jacques-Cartier 
+2025-10-05;(Canada) Quebec;QC 138 (La Romaine);qc.qc138rom;Route added (part of planned extension of QC 138 from Kegaska)
 2025-09-20;(Canada) Quebec;A-85 (Rivière-du-Loup);qc.a085;Route extended, from closed intersection *RteGerRoy_A south to new exit 56
 2025-09-20;(Canada) Quebec;A-85 (Notre-Dame-du-Lac);qc.a085not;Route extended, from exit 47 north to closed intersection *ChSav
 2025-09-20;(Canada) Quebec;QC 185;qc.qc185;North end of route truncated, from closed intersection *RteGerRoy_A to new exit 56. South end of route truncated, from exit 47 to closed intersection *ChSav.
@@ -5511,6 +5513,7 @@ date;region;route;root;description
 2015-10-17;Poland;S8 (Warsaw);pol.s008war;Route extended at west end from A2 to (new) western junction with DK7 and DK8
 2015-10-17;Poland;S8 (Zabki);pol.s008zab;New Route
 2015-10-17;Poland;S91;pol.s091;New Route
+2025-10-05;Portugal;IP5;prt.ip005;Route renamed to ex-IP5
 2025-06-06;Portugal;IC12;prt.a035;Route renamed to A35
 2025-05-04;Portugal;A42;prt.a042;Route extended at east end from exit 8 to Várzea (N101)
 2025-05-04;Portugal;VE3;prt.ve003;Route relocated from through Madalena do Mar, and onto bypass (Túnel da Madalena do Mar) between Canto do Passo and Estrada do Torreão
@@ -7612,6 +7615,8 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2025-10-05;(USA) California;CA 28;ca.ca028;Extended at west end along former CA 89 to Tahoe City Bypass
+2025-10-05;(USA) California;CA 89;ca.ca089;Realigned onto Tahoe City Bypass
 2025-07-26;(USA) California;I-580;ca.i580;Changed exit numbers in Richmond, old 7B is now 7 and old 7C is now 7B
 2025-06-28;(USA) California;CA 41;ca.ca041;Realigned east of Shandon
 2025-06-28;(USA) California;CA 46;ca.ca046;Realigned east of Shandon
@@ -7774,6 +7779,7 @@ date;region;route;root;description
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2025-03-07;(USA) District of Columbia;I-295;dc.i295;Exit number for Suitland Parkway renumbered from 3 to 4. If you were using the waypoint label "4" for travels ending at the 11th Street Bridges (now "5"), you will need to update your .list file.
 2022-11-10;(USA) District of Columbia;Beach Drive;dc.beadr;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2025-10-04;(USA) Florida;FL 54 (Zephyrhills);;Route deleted (now signed as CR 54).
 2025-08-27;(USA) Florida;FL 589;fl.fl589;Extended northward from an interchange with FL 44 to an interchange with CR 486 on a newly opened highway.
 2025-08-13;(USA) Florida;FL 23;fl.fl023;Extended south from Exit 31 (FL 21) to Exit 13 (US 17) on a newly opened highway.
 2024-07-22;(USA) Florida;FL 134;fl.fl134;Western end truncated from an intersection with FL 228, one block south to the intersection of POW-MIA Memorial Pkwy/103rd St.
@@ -9140,8 +9146,8 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
-2025-10-01;(USA) North Carolina;US158;nc.us158;rerouted around Weldon - new routing is between I-95(173) and OldHigRd
-2025-10-01;(USA) North Carolina;US158 Bus (Weldon);nc.us158buswel;renumbering of US 158 through Weldon
+2025-10-01;(USA) North Carolina;US 158;nc.us158;rerouted around Weldon - new routing is between I-95(173) and OldHigRd
+2025-10-01;(USA) North Carolina;US 158 Bus (Weldon);nc.us158buswel;renumbering of US 158 through Weldon
 2025-10-01;(USA) North Carolina;NC 46;nc.nc046;NC 46 east truncated to I-95 with old route remaining part of NC 186
 2025-10-01;(USA) North Carolina;NC 74;nc.nc074;NC 74 rerouted at west end away from US 52 Exit 117 and instead extended northwest along its separate carriageway to where it merges into US 52 beyond NC 65.  Drivers who used the Exit 41A ramp on NC 74 west to access US 52 south have not driven all of NC 74
 2025-10-01;(USA) North Carolina;NC 180;nc.nc180;NC 180 rerouted in the Shelby Bypass area - new route is between closed point OldNC180 and Airport Rd
@@ -10183,10 +10189,10 @@ date;region;route;root;description
 2025-07-04;(USA) Virginia;US 311 Alt (Danville);va.us311altdan;Added route which had been part of US 311
 2025-07-04;(USA) Virginia;VA 83;va.va083;extended east to actual state line from what is now DivRidRd waypoint - no alt name possible
 2025-05-28;(USA) Virginia;US 311;va.us311;rerouted Oct 2024 over new alignment to end at US 58 instead of US 58 Business, everything from new waypoint BerHillRd_E is new routing
-2025-04-13;(USA) Virginia; US 58 Alt Bus (Dryden);va.us058altbusdry;new route added
-2025-04-13;(USA) Virginia; I-395;va.i395;exit 8C renumbered as 8B with no alt label possible
-2025-04-13;(USA) Virginia; US 58 Alt (Abingdon);va.us058altabi;VA 158 E and W labels swapped
-2025-04-13;(USA) Virginia; VA 375;va.va375;route now posted with shields
+2025-04-13;(USA) Virginia;US 58 Alt Bus (Dryden);va.us058altbusdry;new route added
+2025-04-13;(USA) Virginia;I-395;va.i395;exit 8C renumbered as 8B with no alt label possible
+2025-04-13;(USA) Virginia;US 58 Alt (Abingdon);va.us058altabi;VA 158 E and W labels swapped
+2025-04-13;(USA) Virginia;VA 375;va.va375;route now posted with shields
 2025-02-01;(USA) Virginia;VA 92 (Clover);va.va092clo;renamed US 360 waypoint to US 360Clo with no alt label in anticipation of merging the two VA 92 files
 2025-02-01;(USA) Virginia;VA 379 (Main Entrance);va.va379mai;new route added
 2025-02-01;(USA) Virginia;VA 72 Trk (Coeburn);va.va072trkcoe;new route added from Dungannon to Coeburn fully concurrent with VA 65 and US 58 ALT
