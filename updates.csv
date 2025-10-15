@@ -6231,6 +6231,7 @@ date;region;route;root;description
 2022-01-15;(Spain) Extremadura;EXC1;espex.exc001;Route added
 2022-01-15;(Spain) Extremadura;BA20;espex.ba020;Route extended at west end from N523 to A5 exit 407
 2019-08-31;(Spain) Extremadura;N523;espex.n523;New Route
+2025-10-15;(Spain) Galicia;VG1.8 (Variante de Aradas);;Route deleted
 2025-09-18;(Spain) Galicia;E801;espga.a075;Route deleted
 2025-05-07;(Spain) Galicia;AG51;espga.ag051;Route extended at south end from exit 2 to PILSAN
 2025-02-08;(Spain) Galicia;A54 (Lugo);espga.a054lug;Route extended at west end from exit 38 to exit 50
@@ -6287,6 +6288,13 @@ date;region;route;root;description
 2017-10-18;(Spain) La Rioja;A12;espri.a012;Route extended at east end from exit 94 (formerly exit 8) to Navarre border
 2017-10-18;(Spain) La Rioja;A12 (Lograno);espri.a012;Route merged into main route
 2025-09-22;(Spain) Navarre;PA35;espnc.pa035;Route added
+2025-10-15;(Spain) Region of Murcia;A30 (Archena);espmc.a030arc;Route added
+2025-10-15;(Spain) Region of Murcia;A30 (Cartagena);espmc.a030;Route truncated at north end from Castilla-La Mancha border to exit 150 and extended at north end from exit 150 to new exit 140 (old route south of A7 MU33, old route north of A7 MU32 and A30 Archena section)
+2025-10-15;(Spain) Region of Murcia;AN30;espmc.a030arc;Route deleted (now part of A30)
+2025-10-15;(Spain) Region of Murcia;MU30;espmc.mu030;Route truncated at west end from A7 to exit 5 (that section now part of A30)
+2025-10-15;(Spain) Region of Murcia;MU31;espmc.a030;Route deleted (now part of A30)
+2025-10-15;(Spain) Region of Murcia;MU32;espmc.mu032;Route added (old A30)
+2025-10-15;(Spain) Region of Murcia;MU33;espmc.mu033;Route added (old A30) 
 2025-07-15;(Spain) Region of Murcia;AN30;espmc.an030;Route added
 2025-05-09;(Spain) Region of Murcia;CT31;espmc.ct031;Route added
 2024-02-15;(Spain) Region of Murcia;A33;espmc.a033;Route extended at north end from exit RM424 to Castilla-La Mancha border
