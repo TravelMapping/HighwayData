@@ -833,6 +833,8 @@ date;region;route;root;description
 2018-10-26;(China) Nei Mongol;AH35 (Linxi);chnnm.ah035;New Route
 2018-10-26;(China) Nei Mongol;AH35 (Sijiazi);chnnm.ah035sij;New Route
 2022-01-23;(China) Xianjiang;AH9;chnxj.ah009;Route added
+2025-10-14;Croatia;A5;hrv.a005;Route extended at north end from exit 2 (Beli Manastir) to the Hungarian border
+2025-10-14;Croatia;E73;hrv.e73;Route relocated from D7/D517 and onto new A5 between A5's exit 2 (Beli Manastir) and the Hungarian border
 2025-09-13;Croatia;D46;hrv.d046;Route relocated from through Vinkovci, and onto southern bypass between Jošine and Prišinci
 2025-09-13;Croatia;D55;hrv.d055;Route relocated from through Vinkovci, and onto eastern bypass between Jošine and Nustar
 2025-04-24;Croatia;D64;hrv.d064;Route relocated from through Pazin, and onto southern bypass between Lindarski Križ and D77
@@ -994,6 +996,10 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2025-10-14;Czechia;D6 (Kladno);cze.d006;Route extended at west end from temporary end at Nesuchyně to exit 62
+2025-10-14;Czechia;E48;cze.e48;Route relocated from I6 (II606 now) and onto new D6 between D6's temporary end at Nesuchyně and exit 62 (I27)
+2025-10-14;Czechia;I6 (Černčice);cze.i006;Route truncated at east end from Nesuchyně to D6's exit 62 (II606 now)
+2025-10-14;Czechia;II606 (Stochov);cze.ii606;Route extended at west end from Nesuchyně to D6's exit 62 (former I6)
 2025-08-30;Czechia;D3 (Dolní Dvořiště);cze.d003dol;New Route
 2025-08-11;Czechia;D35 (Mohelnice);cze.d035;Route merged into main route
 2025-08-11;Czechia;D35 (Olomouc);cze.d035;Route extended at west end from Neředín to Mohelnice
@@ -4124,6 +4130,8 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2025-10-14;Netherlands;A16;nld.a016;Route extended at north end from A20 to A13
+2025-10-14;Netherlands;S111 (Rotterdam-Hillegersberg);nld.s111hil;New Route
 2025-03-31;Netherlands;N260;nld.n260;Route truncated at north end from N261 to A58 (Ring Tilburg now)
 2025-03-31;Netherlands;N261;nld.n261;Route truncated at south end from A65 to Burgemeester Bechtweg (Ring Tilburg now)
 2025-03-31;Netherlands;N602;nld.n602;Route truncated at south end from N272 to the municipality border between Sint Hubert and Wanroij
@@ -5514,6 +5522,7 @@ date;region;route;root;description
 2015-10-17;Poland;S8 (Warsaw);pol.s008war;Route extended at west end from A2 to (new) western junction with DK7 and DK8
 2015-10-17;Poland;S8 (Zabki);pol.s008zab;New Route
 2015-10-17;Poland;S91;pol.s091;New Route
+2025-10-14;Portugal;IC17;prt.ic017;Exit 1 moved to Avenida Marginal and route extended to Avenida de Brasília
 2025-10-05;Portugal;IP5;prt.ip005;Route renamed to ex-IP5
 2025-06-06;Portugal;IC12;prt.a035;Route renamed to A35
 2025-05-04;Portugal;A42;prt.a042;Route extended at east end from exit 8 to Várzea (N101)
@@ -6222,6 +6231,7 @@ date;region;route;root;description
 2022-01-15;(Spain) Extremadura;EXC1;espex.exc001;Route added
 2022-01-15;(Spain) Extremadura;BA20;espex.ba020;Route extended at west end from N523 to A5 exit 407
 2019-08-31;(Spain) Extremadura;N523;espex.n523;New Route
+2025-10-15;(Spain) Galicia;VG1.8 (Variante de Aradas);;Route deleted
 2025-09-18;(Spain) Galicia;E801;espga.a075;Route deleted
 2025-05-07;(Spain) Galicia;AG51;espga.ag051;Route extended at south end from exit 2 to PILSAN
 2025-02-08;(Spain) Galicia;A54 (Lugo);espga.a054lug;Route extended at west end from exit 38 to exit 50
@@ -6278,6 +6288,13 @@ date;region;route;root;description
 2017-10-18;(Spain) La Rioja;A12;espri.a012;Route extended at east end from exit 94 (formerly exit 8) to Navarre border
 2017-10-18;(Spain) La Rioja;A12 (Lograno);espri.a012;Route merged into main route
 2025-09-22;(Spain) Navarre;PA35;espnc.pa035;Route added
+2025-10-15;(Spain) Region of Murcia;A30 (Archena);espmc.a030arc;Route added
+2025-10-15;(Spain) Region of Murcia;A30 (Cartagena);espmc.a030;Route truncated at north end from Castilla-La Mancha border to exit 150 and extended at north end from exit 150 to new exit 140 (old route south of A7 MU33, old route north of A7 MU32 and A30 Archena section)
+2025-10-15;(Spain) Region of Murcia;AN30;espmc.a030arc;Route deleted (now part of A30)
+2025-10-15;(Spain) Region of Murcia;MU30;espmc.mu030;Route truncated at west end from A7 to exit 5 (that section now part of A30)
+2025-10-15;(Spain) Region of Murcia;MU31;espmc.a030;Route deleted (now part of A30)
+2025-10-15;(Spain) Region of Murcia;MU32;espmc.mu032;Route added (old A30)
+2025-10-15;(Spain) Region of Murcia;MU33;espmc.mu033;Route added (old A30) 
 2025-07-15;(Spain) Region of Murcia;AN30;espmc.an030;Route added
 2025-05-09;(Spain) Region of Murcia;CT31;espmc.ct031;Route added
 2024-02-15;(Spain) Region of Murcia;A33;espmc.a033;Route extended at north end from exit RM424 to Castilla-La Mancha border
