@@ -2818,7 +2818,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Thuringia;A71 (Heldrungen);;Route merged into main A71 route
 2015-09-15;(Germany) Thuringia;E40;deuth.e40;Route relocated from old route (now demolished) to new route via Jagdbergtunnel between A4 exits 51 and 53
 2025-08-11;Greece;A5 (Amaliada);grc.a005ama;New Route
-2025-08-11;Greece;EO09;grc.eo009;Route relocated A5, and onto parallel old route from Kaminia to Kato Achaea
+2025-08-11;Greece;EO09;grc.eo009;Route relocated from A5, and onto parallel old route from Kaminia to Kato Achaea
 2025-08-11;Greece;E55;grc.e55;Route relocated from EO9, and onto new A5 from Kato Achaea (exit 32) to Pyrgos (exit 38)
 2025-04-20;Greece;Thessaloníki - Nea Moudania;grc.theneomou;New Route
 2025-04-19;Greece;A62;grc.a064;Route renamed to A64
@@ -3773,6 +3773,7 @@ date;region;route;root;description
 2015-10-08;Latvia;E22;lva.e22;Route removed from P136 and relocated onto A12 between P136 and P52_W
 2015-10-08;Latvia;E22;lva.e22;Route removed from A6 and relocated onto A4, P5 and P80 between A4/A6 junction and A6/P80 junction (includes former Turkane section)
 2015-10-08;Latvia;E22;lva.e22tur;Route merged into main E22
+2025-10-21;Lithuania;Kaunas - Kalvarija Greitkelio;ltu.kaukalgre;Route extended at south end from Pelucmurgiai to the Polish border
 2025-09-13;Lithuania;A5;ltu.a005;Route relocated from Naujienėlė and Trakėnai, and onto new motorway alignment from Smalninkai to Pelucmurgiai
 2025-09-13;Lithuania;E67;ltu.e67;Route relocated from Naujienėlė and Trakėnai, and onto new motorway alignment from Smalninkai to Pelucmurgiai
 2025-09-13;Lithuania;Kaunas - Kalvarija Greitkelio;ltu.kaukalgre;Route extended at south end from Smalninkai to Pelucmurgiai
@@ -7537,6 +7538,16 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2025-10-24;(USA) Arkansas;AR 172 (Artesian);;Route deleted.
+2025-10-24;(USA) Arkansas;AR 205 (Thornton);;Route deleted.
+2025-10-24;(USA) Arkansas;AR 274 (Hopeville);;Route deleted.
+2025-10-24;(USA) Arkansas;AR 234 (Saratoga Landing);;Route deleted.
+2025-10-24;(USA) Arkansas;AR 7S (Hot Springs);;Route deleted.
+2025-10-24;(USA) Arkansas;AR 103 (Clarksville);ar.ar103cla;Route truncated to begin at I-40.
+2025-10-24;(USA) Arkansas;AR 310 (Enola);ar.ar310eno;Route truncated at AR 107.
+2025-10-24;(USA) Arkansas;AR 274 (East Camden);ar.ar274eas;Route truncated at AR203 South.
+2025-10-24;(USA) Arkansas;AR 154;ar.ar154;Route truncated at AR 9.
+2025-10-24;(USA) Arkansas;AR 113 (Bigelow);ar.ar113;Route truncated at the Conway/Perry County Line.
 2025-10-09;(USA) Arkansas;AR 119 (Marie);ar.ar119mar;Route truncated to US 61.
 2024-12-23;(USA) Arkansas;AR 917-1;;Route deleted.
 2024-12-16;(USA) Arkansas;AR 10S;;Route deleted.
@@ -9390,6 +9401,7 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2025-10-23;(USA) Ohio;OH 65;oh.oh065;Removed from Elizabeth St and one block of Wayne St and relocated onto Grand Ave and Main St in Lima, with WaySt_W point moving from the Wayne St/Elizabeth St intersection to the Wayne St/Main St intersection
 2025-03-16;(USA) Ohio;International Gateway;oh.intgtwy;Route added
 2024-07-27;(USA) Ohio;US 23;oh.us023;Removed from Livingston Ave between High St and 3rd St/4thSt and onto Fulton St/Mound St pair, which involved moving US33_S point from Livingston intersection with 3rd/4th to Fulton/Mound intersection with 3rd/4th and moving HighSt_S point from Livingston intersection with High to Fulton/Mound intersection with High (old routing between Fulton/Mound and Livingston is still part of US 33) 
 2024-07-27;(USA) Ohio;US 33;oh.us033;US23_S point moved from intersection of Livingston Ave and 3rd St/4th St pair (now labeled LivAve_W) to intersection of new US 23 routing on Fulton St/Mound St at 3rd/4th
