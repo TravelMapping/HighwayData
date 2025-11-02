@@ -74,8 +74,8 @@ FRA-88 = `Vos` = Vosges
 
 *FRA-6ae - Alsace:*
 - `D30` segment between `D392` and `D1420` is not available in shp files from January 2020 but on the renumbering map from April 2020 (w/o number) and is clearly signed on 2019 GSV, added
-- `D25` north end is `D53` according to shp files from January 2020 but it is very short (0.11mi) and clearly signed as `D25` on 2019 GSV
-- `M63` south end of shp files ignored (short segment of Rue d'Entzheim) as it is very short (0.03mi) and not signed according to September 2022 GSV
+- `D25` north end is `D53` according to shp files from January 2020 but it is very short (0.11mi) and clearly signed as `D25` on 2019 + 2023 GSV
+- `M63` south end of shp files ignored (short segment of Rue d'Entzheim) as it is very short (0.03mi) and not signed according to September 2022 + 2024 GSV
 - `D303` is the former `D103` in Haut-Rhin, renumbered with the merger. January 2020 shp files do have a `D303` in Bas-Rhin (Wissembourg, northern extension of `D263`) which is also indicated on OSM but not on GM nor GSV. There are no duplicates and since the southern `D303` was renamed, the northern one cannot exist. Not drafted the latter in Wissembourg
 - `M445` south end (south of railway) on OSM differs to shp files, shp route is permanently closed according to 2008 + 2019 + 2022 GSV, drafted according to OSM
 - `D503` is signed at junction with `D3`/`D51` but does not extend to the junction according to shp files, not extended
