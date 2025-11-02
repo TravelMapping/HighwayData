@@ -21,7 +21,6 @@ FRA-80 = `Som` = Somme
 **NOTES TO ROUTES:**
 *FRA-20 - Aisne:*
 - General note: OSM is often wrong compared to 2018 or 2019 GSV; If "old" e.g. 2010 GSV is also available, there is usually no change in signage. That means, I'd also trust 2009 or 2010 GSV even when only this is available.
-- `D1140` is signed at `D1044` junction according to 2019 GSV and ends at border to GES in HB but since Gernicourt changed from HDF to GES in 2017 the situation is not clear and must be revisited
 
 *FRA-59 - Nord:*
 - `D643` through Pas-de-Calais seems to belong to Nord
@@ -40,4 +39,3 @@ FRA-80 = `Som` = Somme
 
 *FRA-80 - Somme:*
 - OSM often indicates wrong numbers or misses many D routes (especially `D2xx`) which are clearly visible on GM and on 2018 or 2019 GSV - routes added according to GSV; it seems that the routes are newly dedicated as D routes
-- `D4929` was still signed according to 2015 GSV (OSM+GM confirm it) but the signs were removed according to 2017 GSV
