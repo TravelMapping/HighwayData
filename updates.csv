@@ -1687,6 +1687,12 @@ date;region;route;root;description
 2015-07-25;(France) Nouvelle-Aquitaine;A89;franaq.a089;Route extended at west end from exit 19.1 to exit 9, including former Périgueux section
 2015-07-25;(France) Nouvelle-Aquitaine;A89 (Périgueux);franaq.a089;Route merged with main A89 route
 2015-07-25;(France) Nouvelle-Aquitaine;E62;franaq.e62;Removed from N149 and relocated to N249 between N249 Exit 15 and N149 exit 17
+2025-11-08;(France) Occitanie;N21;fraocc.n021;Route truncated at north end from theLot-et-Garonne boundary to Hautes-Pyrénées boundary (D1021-32 now)
+2025-11-08;(France) Occitanie;N88 (Carmaux);fraocc.n088;Route truncated at east end from A75 to Luc-la-Primaube (N88 (Laissac) and D888-12 now)
+2025-11-08;(France) Occitanie;N88 (Laissac);fraocc.n088lai;New Route
+2025-11-08;(France) Occitanie;N122;fraocc.d080246;Route renamed to D802-46
+2025-11-08;(France) Occitanie;N124;fraocc.n124;Route truncated at west end from D824 to D924/D930 in Gers departement
+2025-11-08;(France) Occitanie;N524;fraocc.d082432;Route renamed to D824-32
 2025-09-22;(France) Occitanie;E9;fraocc.e9;Route truncated at south end from Spanish border to N20/D66 junction and extended at south end from that junction along the N20 to the Spanish border (ie route now bypasses Bourg-Madame)
 2025-02-01;(France) Occitanie;N166;fraocc.d006666;Route renamed to D66-66
 2023-07-30;(France) Occitanie;N1088;fraocc.n1088;New Route
@@ -1717,6 +1723,9 @@ date;region;route;root;description
 2015-09-09;(France) Occitanie;Voie Lactée, Toulouse;fraocc.m090231;New Route
 2015-07-25;(France) Occitanie;A75;fraocc.a075;Route extended at south end from exit 59 to the A9, including former Béziers section
 2015-07-25;(France) Occitanie;A75 (Béziers);fraocc.a075;Route merged with main A75 route
+2025-11-02;(France) Pays-de-la-Loire;D1-72;frapdl.d000172;Route truncated at south end from D13 to D357
+2025-11-02;(France) Pays-de-la-Loire;D13B-72;;Route deleted
+2025-11-02;(France) Pays-de-la-Loire;D295-72;frapdl.d024972;Route extended at east end from D58 to C14
 2025-02-01;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route renamed to D962-53 or D962-49
 2022-07-08;(France) Pays-de-la-Loire;N162;frapdl.d096253;Route extended at north end from D35 to N12 (new Mayenne bypass)
 2022-03-28;(France) Pays-de-la-Loire;Liaison Sud-Ouest du Mans;;Route deleted
@@ -1752,6 +1761,10 @@ date;region;route;root;description
 2017-03-05;Georgia;E97;geo.e97;Route truncated at south end from Turkish border to Poti
 2015-07-15;Georgia;E97;geo.e97;Route extended at south end from E60/E70 junction to Turkish border
 2017-10-06;Germany;All routes;;All routes split into 16 regions
+2025-11-02;(Germany) Baden-Württemberg;B34 (Lauchringen);deubw.b034lau;Route truncated at west end from junction with former B314 to Lauchringen bypass (L163 now)
+2025-11-02;(Germany) Baden-Württemberg;B312;deubw.b312;Route truncated at north end from A8 to B27
+2025-11-02;(Germany) Baden-Württemberg;B314;deubw.b314;Route truncated at west end from L163 to A98
+2025-11-02;(Germany) Baden-Württemberg;L163 (Lauchringen);deubw.l0163lau;Route extended at east end from junction with former B314 to Lauchringen bypass (former B34)
 2025-09-07;(Germany) Baden-Württemberg;B39 (Löwenstein);deubw.b039;Route truncated at west end from Rauenberg to Heilbronn (B39Muh, B292, L533 and B27 now)
 2025-09-07;(Germany) Baden-Württemberg;B39 (Mühlhausen);deubw.b039muh;New Route (split off from main route)
 2025-09-07;(Germany) Baden-Württemberg;L533;deubw.l0533;Route relocated from Dührener Straße, and onto Hauptstraße in Sinsheim, and extended to Heilbronn (former B39)
@@ -1951,6 +1964,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from L154 to A98 between A98 exits 11 and 13
+2025-11-02;(Germany) Bavaria;B15n;deuby.b015;Route merged into B15 (Landshut)
+2025-11-02;(Germany) Bavaria;B15 (Landshut);deuby.b015;Route extended at north end from A92 to A93
 2025-09-16;(Germany) Bavaria;B15a;deuby.b015a;Route extended at north end from RO19 to St2080
 2025-08-11;(Germany) Bavaria;B16 (Donauwörth);deuby.b016;Route relocated from through Hausen, and onto western bypass
 2025-07-07;(Germany) Bavaria;St2987;deuby.st2187;Route deleted (St2187 now)
@@ -2117,6 +2132,9 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2025-11-02;(Germany) Brandenburg;B246;deubb.b246;Route relocated in Zossen from Nächst Neuendorfer Chausee and onto new alignment between B96 and Nächst Neuendorfer Landstraße
+2025-11-02;(Germany) Brandenburg;L19;deubb.l019;Route relocated through Schönberg and onto former K6802 and B167 between Schönberg and Herzberg
+2025-11-02;(Germany) Brandenburg;L50;deubb.l050;Route truncated at south end from B168 to actual transition east of Weidmannsruh
 2024-12-22;(Germany) Brandenburg;L16 (Perwenitz);deubb.l016per;Route truncated at west end from west of Flatow to Börnicke
 2024-12-22;(Germany) Brandenburg;L17 (Friesack);deubb.l017fri;Route truncated at east end from west of Flatow to east of Königshorst
 2024-12-07;(Germany) Brandenburg;L901;;Route deleted
@@ -2172,6 +2190,8 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2025-11-02;(Germany) Hesse;B62 (Main);deuhe.b062;Route relocated from through Sarnau and Göttingen and onto new bypass between Siegener Straße in Goßfelden and Kasseler Straße east of Göttingen
+2025-11-02;(Germany) Hesse;B252;deuhe.b252;Route truncated at south end from Siegener Straße (old B62) to new B62 Göttingen bypass
 2025-09-07;(Germany) Hesse;L3214;deuhe.l3214;Route truncated at north end from Holländische Straße (old B7 in Calden), and reextended to new B7 via new western bypass of Calden
 2025-07-03;(Germany) Hesse;B7 (Ringgau);deuhe.b007rin;Route truncated at west end from A44's exit 79 to A44's exit 81 (partially L3459 and B27 now)
 2025-07-03;(Germany) Hesse;B27 (Bad Hersfeld);deuhe.b027;Route truncated at north end from A38 to A44 north of Sontra
@@ -2361,6 +2381,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2025-11-02;(Germany) North Rhine-Westphalia;B51 (Meschenich);deunw.b051mes;New Route
+2025-11-02;(Germany) North Rhine-Westphalia;L417;deunw.l417;Route truncated at north end from B7 to L172
 2025-08-16;(Germany) North Rhine-Westphalia;B58;deunw.b058;Route removed from through Beckum and onto new bypass from A2 to L586
 2025-08-16;(Germany) North Rhine-Westphalia;B58 (Beckum);deunw.b058;Route merged into main route
 2025-08-16;(Germany) North Rhine-Westphalia;L507;deunw.l507;Route extended at east end from Sternstraße (L808) to B58 (former B58)
@@ -7959,6 +7981,7 @@ date;region;route;root;description
 2017-03-03;(USA) Hawaii;HI 3800;hi.hi3800;Route added
 2015-12-26;(USA) Hawaii;HI 3000;hi.hi3000;Route added
 2015-11-17;(USA) Hawaii;HI 380;hi.hi380;Route relocated from closed Dairy Rd. segment between waypoints AirAccRd and PakSt_N, onto parts of Airport Access Rd. and Pakaula St.
+2025-11-05;(USA) Idaho;US 95;id.us095;Relocated south of Moscow from former two-lane segment (now Reisenauer Rd) onto new divided highway between waypoints ReiRd_S and ReiRd_N
 2025-06-08;(USA) Idaho;ID 46;id.id046;Route extended south from I-84 to US30 in Buhl
 2025-06-05;(USA) Idaho;ID 78;id.id078;Route extended east from I-84BL_E (now OldUS30_E) along former route of I-84 BL (Hammett) to I-84 exit 112
 2025-06-05;(USA) Idaho;I-84 BL (Hammett);;Route deleted
@@ -10154,6 +10177,7 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2025-11-01;(USA) Utah;UT 17;ut.ut017;Rerouted off of old alignement through Toquerville and onto new bypass between points ToqBlvd_S and ToqBlvd_N
 2024-10-26;(USA) Utah;UT 176;ut.ut176;Route extended at west end from Main Street along new roadway to connector to Vineyard Road.
 2024-08-23;(USA) Utah;UT 193;ut.ut193;Route extended at west end from UT 177 to UT 110.
 2024-08-23;(USA) Utah;UT 106;ut.ut106;Rerouted from Main Street onto Shepard Lane at north end. Now ends at US 89 exit 396 instead of exit 397.
