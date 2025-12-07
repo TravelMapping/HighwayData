@@ -38,4 +38,4 @@ FRA-82 = `TeG` = Tarn-et-Garonne
 - `D607` through Aveyron seems to fully belong to Lot departement (even through Montfranc village) because the km posts continue with km0 at `D999`
 
 *FRA-48 - Lozère:*
-- `D45` segment through ARA Haute-Loire (OSM + GM, no GSV available) seems to belong to Lozère departement
+- `D45` segment through ARA Haute-Loire (OSM + GM) seems to be no D route through; 2024 GSV does not show any km posts or signs but there are there a speed limit signs on entering the southen Lozère segment, and km posts are in place in the south
