@@ -4803,7 +4803,13 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
-2025-12-22;Poland;S6 (Kołobrzeg);pol.s006kol;Route deleted (now part of Słupsk section)
+2025-12-23;Poland;A2 (Siedlce);pol.a002sie;Route extended at east end from exit 40 to exit 41
+2025-12-23;Poland;S7 (Elbląg);pol.s007elb;Route truncated at north end from S6 exit 57 to exit 9 and extended at north end from exit 9 to exit 1
+2025-12-23;Poland;S7 (Gdynia);pol.s007elb;Route deleted (now part of Elblag section)
+2025-12-23;Poland;E30;pol.e30;Route removed from DK92 and relocated onto A2 between A2 exits 40 and 41
+2025-12-23;Poland;DK2 (Siedlce);pol.dk002ter;Route truncated at west end from A2 exit 40 to A2 exit 43 and renamed as Terespol section
+2025-12-23;Poland;DK92 (Siedlce);pol.dk092sie;Route extended at east end from A2 exit 40 to DK2
+2025-12-22;Poland;S6 (Kołobrzeg);pol.s006slu;Route deleted (now part of Słupsk section)
 2025-12-22;Poland;S6 (Słupsk);pol.s006slu;Route extended at west end from exit 35 to S3 exit 17. Exit numbers between 34 and 37 all increased by one.
 2025-12-22;Poland;E28;pol.e28;Route removed from DW112 and relocated onto S6 between S6 exits 26 and 35
 2025-12-22;Poland;DK6 (Sławno);pol.dw112;Route deleted (now DW112)
@@ -6064,8 +6070,8 @@ date;region;route;root;description
 2023-08-17;Singapore;AH143;;Route deleted
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
-2025-12-22;Slovakia;A1 (Bratislava);svk.a001;Route extended at the east end from exit 199 to exit 229
-2025-12-22;Slovakia;A1 (Vrutky);svk.a001;Route deleted
+2025-12-22;Slovakia;D1 (Bratislava);svk.d001;Route extended at the east end from exit 199 to exit 229
+2025-12-22;Slovakia;D1 (Vrutky);svk.d001;Route deleted
 2025-12-22;Slovakia;E50;svk.e50;Route removed from D3 and I/18 and relocated onto A1 between A1 exits 188 and 212
 2025-11-21;Slovakia;R2 (Detva);svk.r002det;Route extended at east end from exit 127 to I16 at Tomasovce
 2025-11-21;Slovakia;R2 (Mytna);svk.r002det;Route deleted (now part of Detva section)
