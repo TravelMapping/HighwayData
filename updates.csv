@@ -62,6 +62,7 @@ date;region;route;root;description
 2025-12-03;(Australia) Queensland;M9;ausqld.m009;Route added
 2024-10-22;(Australia) Queensland;M1;ausqld.m001;Route extended at north end from exit 262 to exit 290
 2024-10-22;(Australia) Queensland;QLD49;ausqld.qld49;Route extended at east end from A1 to M1
+2025-12-19;(Australia) Victoria;M4;ausvic.m004;Route added
 2023-04-17;(Australia) Victoria;N1 Alternative (Melbourne);ausvic.n001altmel;Route added
 2023-04-17;(Australia) Victoria;A60;;Route deleted (now N1Alt, MR60 and C101)
 2021-11-20;(Australia) Victoria;M11;ausvic.m011;Route extended at north end from exit 6 (for MR40) to MR87
@@ -512,6 +513,8 @@ date;region;route;root;description
 2016-01-12;Belgium;Ring Mons Est;bel.r005;New Route
 2016-01-12;Belgium;Ring Mons Ouest;bel.r005a;New Route
 2015-07-24;Belgium;A601;;Route deleted
+2025-12-19;Bosnia and Herzegovina;A1 (Bosna);bih.a001bos;Route added
+2025-12-19;Bosnia and Herzegovina;E73;bih.e73;Route removed from M17 and relocated onto A1 between A1 exits 10 and 11
 2025-10-31;Bosnia and Herzegovina;E73;bih.e73;Route truncated at southern end from Croatian border at Metkovic to M17 at Capljina and extended at southern end from M17 at Capljina to Croatian border at Bijaca
 2024-09-05;Bosnia and Herzegovina;A1 (Bubale);bih.a001bub;Route extended at north end from exit 32 (previously labeled as exit 31) to exit 30
 2023-02-17;Bosnia and Herzegovina;M4.2;bih.m0042;Route removed from R400a and relocated onto Ulica Ibrahima Mrzljaka between R400a and Croatian border
@@ -760,7 +763,7 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
-2025-10-05;(Canada) Quebec;QC 138;qc.qc138;East end truncated in Kegaska, to end at intersection with Ch. Jacques-Cartier 
+2025-10-05;(Canada) Quebec;QC 138 (Baie-Comeau);qc.qc138;East end truncated, to T-intersection with Ch. Jacques-Cartier on Kegaska waterfront
 2025-10-05;(Canada) Quebec;QC 138 (La Romaine);qc.qc138rom;Route added (part of planned extension of QC 138 from Kegaska)
 2025-09-20;(Canada) Quebec;A-85 (Rivière-du-Loup);qc.a085;Route extended, from closed intersection *RteGerRoy_A south to new exit 56
 2025-09-20;(Canada) Quebec;A-85 (Notre-Dame-du-Lac);qc.a085not;Route extended, from exit 47 north to closed intersection *ChSav
@@ -1004,6 +1007,21 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2025-12-21;Czechia;II154;cze.ii154;Route relocated from through Kaplice, and onto eastern bypass between II158 and west of Blansko
+2025-12-21;Czechia;II158;cze.ii158;Route extended at north end from Pohorská to now completed II154 bypass
+2025-12-20;Czechia;D1;cze.d001;Route extended from exit 272 to the Polish border
+2025-12-20;Czechia;D1 (Ostrava);cze.d001;Route merged into main route due to opening between exit 272 and former eixt Přerov-Žernov (I55)
+2025-12-20;Czechia;D55 (Olomouc);cze.d055olo;New Route
+2025-12-20;Czechia;I55;cze.i055;Route relocated onto new alignment for D1's exit 282 (Přerov-sever) between II436 and road to Žernov
+2025-12-20;Czechia;II150;cze.ii150;Route relocated onto new alignment for D1's exit 282 (Přerov-sever) between II436 and junction just west of D1
+2025-12-20;Czechia;D35 (Svitavy);cze.d035svi;New Route
+2025-12-20;Czechia;E442;cze.e442;Route relocated from I35, and onto new D35 between Janov and Svitavy
+2025-12-17;Czechia;D35 (Vysoké Mýto);cze.d035vys;New Route
+2025-12-17;Czechia;D35 (Hořice);cze.d035hor;New Route
+2025-12-17;Czechia;E442;cze.e442;Route relocated from I35 (II635 now), and onto new D35 between Hořice and Sadová
+2025-12-17;Czechia;I35 (Turnov);cze.i035;Route truncated at east end from Mohelnice to Hořice (split due to D35 opening and downgrade to II635)
+2025-12-17;Czechia;I35 (Vysoké Mýto);cze.i035vys;New Route (remainder of Turnov segment)
+2025-12-17;Czechia;II635 (Hořice);cze.ii635hor;New Route (former I35)
 2025-12-16;Czechia;I27;cze.i027;Route relocated from through Žiželice and onto new eastern bypass
 2025-12-09;Czechia;D55;cze.d055;Route extended at south end by ~1km from exit 34 to south of the Morava bridge
 2025-10-14;Czechia;D6 (Kladno);cze.d006;Route extended at west end from temporary end at Nesuchyně to exit 62
@@ -4785,6 +4803,27 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2025-12-23;Poland;A2 (Siedlce);pol.a002sie;Route extended at east end from exit 40 to exit 41
+2025-12-23;Poland;S7 (Elbląg);pol.s007elb;Route truncated at north end from S6 exit 57 to exit 9 and extended at north end from exit 9 to exit 1
+2025-12-23;Poland;S7 (Gdynia);pol.s007elb;Route deleted (now part of Elblag section)
+2025-12-23;Poland;E30;pol.e30;Route removed from DK92 and relocated onto A2 between A2 exits 40 and 41
+2025-12-23;Poland;DK2 (Siedlce);pol.dk002ter;Route truncated at west end from A2 exit 40 to A2 exit 43 and renamed as Terespol section
+2025-12-23;Poland;DK7 (Zukowa);pol.dw501;Route deleted (now part of DW501)
+2025-12-23;Poland;DK92 (Siedlce);pol.dk092sie;Route extended at east end from A2 exit 40 to DK2
+2025-12-23;Poland;DW501 (Gdansk);pol.dw501;Route extended at west end from S6 to Ulica Jarzebinowa
+2025-12-22;Poland;S6 (Kołobrzeg);pol.s006slu;Route deleted (now part of Słupsk section)
+2025-12-22;Poland;S6 (Słupsk);pol.s006slu;Route extended at west end from exit 35 to S3 exit 17. Exit numbers between 34 and 37 all increased by one.
+2025-12-22;Poland;E28;pol.e28;Route removed from DW112 and relocated onto S6 between S6 exits 26 and 35
+2025-12-22;Poland;DK6 (Sławno);pol.dw112;Route deleted (now DW112)
+2025-12-22;Poland;DW112;pol.dw112;Route extended at east end from S6 exit 26 to S6 exit 35
+2025-12-19;Poland;S1 (Bielsko-Biala);pol.s001bie;Route truncated at north end from S52 exit 9 to exit 24 extended at north end from exit 24 to exit 20. Exit numbers between 24 and 34 all increased by one.
+2025-12-19;Poland;S1 (Oświęcim);pol.s001bie;Route deleted (now part of Bielsko-Biala section)
+2025-12-19;Poland;S7 (Elbląg);pol.s007elb;Route extended at south end from exit to exit
+2025-12-19;Poland;S7 (Nowy Dwór Mazowiecki);pol.s007elb;Route deleted (now part of Elbląg section)
+2025-12-19;Poland;S52 (Skoczow);pol.s052;Route extended at east end from exit 9 to exit 11
+2025-12-19;Poland;DK7 (Zaluski);pol.s007elb;Route deleted (now part of Elbląg section of S7)
+2025-12-19;Poland;DW506;;Route deleted
+2025-12-19;Poland;DW613;pol.dw521;Route deleted (now part of DW521)
 2025-12-12;Poland;S7 ((east) Krakow);pol.s007ekr;Route extended at north end from exit R11 to exit R12
 2025-12-12;Poland;S74 (Opatow);pol.s074opa;Route added
 2025-12-12;Poland;E371;pol.e371;Route removed from Opatow urban area and relocated onto Opatow bypass between eastern junction with S74 and eastern junction with DK74
@@ -5717,6 +5756,7 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2025-12-09;Romania;A7;rou.a007foc;Route extended at northern end from Focsani Nord to Adjud
 2025-12-09;Romania;A7;rou.a007foc;Route extended at southern end from DN2B to DJ100C and merged with A7Miz
 2025-08-06;Romania;DJIMO;rou.djimo;New Route
 2025-08-06;Romania;DJIMO;rou.djimo;New Route
@@ -6033,6 +6073,9 @@ date;region;route;root;description
 2023-08-17;Singapore;AH143;;Route deleted
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2025-12-22;Slovakia;D1 (Bratislava);svk.d001;Route extended at the east end from exit 199 to exit 229
+2025-12-22;Slovakia;D1 (Vrutky);svk.d001;Route deleted
+2025-12-22;Slovakia;E50;svk.e50;Route removed from D3 and I/18 and relocated onto A1 between A1 exits 188 and 212
 2025-11-21;Slovakia;R2 (Detva);svk.r002det;Route extended at east end from exit 127 to I16 at Tomasovce
 2025-11-21;Slovakia;R2 (Mytna);svk.r002det;Route deleted (now part of Detva section)
 2025-11-21;Slovakia;E58;svk.e58;Route removed from I16 and relocated onto R2 between R2 exit 127 and closed exit with I16 at Mytna
@@ -7100,6 +7143,9 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2025-12-23;(UK) England;M69;eng.m069;Route extended at south end
+2025-12-23;(UK) England;A46 (Warwick);eng.a0046war;Route added
+2025-12-23;(UK) England;A46 (Lincoln);eng.a0046;Route truncated at south end from M5 to M1
 2025-11-23;(UK) England;A573;eng.a0573;Route truncated at south end from A579 to A5739 and extended at south end from A5739 to southern junction with A49
 2025-11-23;(UK) England;A5062;eng.a5062;Route added
 2025-11-23;(UK) England;A5739;eng.a5739;Route reentered
@@ -7683,6 +7729,9 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2025-12-20;(USA) Arkansas;AR 83S ((West) Monticello);ar.ar083swmo;New route.
+2025-12-18;(USA) Arkansas;AR 170 (Farmington);ar.ar170far;Route truncated to the Farmington City Limit boundary.
+2025-12-18;(USA) Arkansas;AR 230 (Brookland);;Route deleted.
 2025-10-24;(USA) Arkansas;AR 172 (Artesian);;Route deleted.
 2025-10-24;(USA) Arkansas;AR 205 (Thornton);;Route deleted.
 2025-10-24;(USA) Arkansas;AR 274 (Hopeville);;Route deleted.
@@ -10480,6 +10529,7 @@ date;region;route;root;description
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quarry Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2025-12-24;(USA) West Virginia;WV 601;wv.wv601;Removed from the Kanawha Turnpike and part of Jefferson Road, and relocated onto a brand new bridge that bypasses it slightly to the east, between the points of 'KanTpke' & 'WasSt'.
 2025-07-05;(USA) West Virginia;WV 83;wv.wv083;Route truncated at the Western end to the actual state line about 0.4 miles to the east. The 'DavMouRd' point is now a part of an extended VA 83 route.
 2025-07-01;(USA) West Virginia;US 522 Bypass (Berkeley Springs);wv.us522bypber;Added route.
 2024-09-14;(USA) West Virginia;WV 41;wv.wv041;Removed from old alignment of Stanaford Road in Beckley between intersections with US 19 & McCulloch Drive, and relocated slightly north onto a new bridge alignment between the old intersection with US 19 (OldWV41) & McCDr.  This includes a small extension of the multiplex with US 19, thus requiring the point 'US19_BecN' to shift locations to the north by 0.1 miles, and the old intersection becoming 'OldWV41'.
@@ -10517,6 +10567,8 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2025-12-23;(USA) Wisconsin;US 51 Business (Wausau);wi.us051buswau;Removed from Bridge Street and 5th/6th Street pair and rerouted onto 3rd/1st avenues and CR N (Thomas Street) between Bridge and Thomas streets
+2025-12-23;(USA) Wisconsin;WI 52;wi.wi052;Removed from Highway 52 Parkway, Stewart Avenue, Scott/Forest streets, and 5th/6th streets between WI 29 and Bridge Street in Wausau and relocated onto Bridge Street to end at US 51
 2025-07-09;(USA) Wisconsin;US 63;wi.us063;Removed from part of US 53 and road now named Service Loop in Trego and relocated onto Trego bypass and junction with US 53 farther south. (relocation between points 172 and *OldUS63_Tre)
 2025-03-29;(USA) Wisconsin;WI 158;wi.wi158;Extended east from WI 32 to 6th Avenue
 2025-03-27;(USA) Wisconsin;WI 195;wi.wi195;Extended from WI 31 east along County Line Rd to WI 32
