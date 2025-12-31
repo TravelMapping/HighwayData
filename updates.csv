@@ -763,7 +763,7 @@ date;region;route;root;description
 2015-09-03;(Canada) Prince Edward Island;PE 241;pe.pe241;Extended West from New London Road to PE 224
 2015-09-03;(Canada) Prince Edward Island;PE 343;pe.pe343;Extended North from PE 3 to PE 342
 2015-09-03;(Canada) Prince Edward Island;PE 344;pe.pe344;Extended South from Portage Road to PE 311
-2025-10-05;(Canada) Quebec;QC 138;qc.qc138;East end truncated in Kegaska, to end at intersection with Ch. Jacques-Cartier 
+2025-10-05;(Canada) Quebec;QC 138 (Baie-Comeau);qc.qc138;East end truncated, to T-intersection with Ch. Jacques-Cartier on Kegaska waterfront
 2025-10-05;(Canada) Quebec;QC 138 (La Romaine);qc.qc138rom;Route added (part of planned extension of QC 138 from Kegaska)
 2025-09-20;(Canada) Quebec;A-85 (Rivière-du-Loup);qc.a085;Route extended, from closed intersection *RteGerRoy_A south to new exit 56
 2025-09-20;(Canada) Quebec;A-85 (Notre-Dame-du-Lac);qc.a085not;Route extended, from exit 47 north to closed intersection *ChSav
@@ -1007,6 +1007,9 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2025-12-25;Czechia;I36;cze.i036;Route relocated from through Pardubice, and onto new northern bypass
+2025-12-25;Czechia;II211;cze.ii211;Route truncated at east end from I37 to Rybitvi (I36 now)
+2025-12-25;Czechia;II232;cze.ii232;Route truncated at south end from Rokycany to north of Osek, and reextended to D5 via new Osek bypass
 2025-12-21;Czechia;II154;cze.ii154;Route relocated from through Kaplice, and onto eastern bypass between II158 and west of Blansko
 2025-12-21;Czechia;II158;cze.ii158;Route extended at north end from Pohorská to now completed II154 bypass
 2025-12-20;Czechia;D1;cze.d001;Route extended from exit 272 to the Polish border
@@ -2005,6 +2008,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from L154 to A98 between A98 exits 11 and 13
+2025-12-25;(Germany) Bavaria;St2689;deuby.st2689;Route relocated from through Döllnitz and onto eastern bypass
 2025-11-02;(Germany) Bavaria;B15n;deuby.b015;Route merged into B15 (Landshut)
 2025-11-02;(Germany) Bavaria;B15 (Landshut);deuby.b015;Route extended at north end from A92 to A93
 2025-09-16;(Germany) Bavaria;B15a;deuby.b015a;Route extended at north end from RO19 to St2080
@@ -2424,6 +2428,8 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2025-12-25;(Germany) North Rhine-Westphalia;L70 (Main);deunw.l070;Route relocated from Hauptstraße and Mühlenstraße in Sprockhövel, and onto Glückauf-Straße
+2025-12-25;(Germany) North Rhine-Westphalia;L70 (Sprockhövel);deunw.l070;Route merged into main route
 2025-11-02;(Germany) North Rhine-Westphalia;B51 (Meschenich);deunw.b051mes;New Route
 2025-11-02;(Germany) North Rhine-Westphalia;L417;deunw.l417;Route truncated at north end from B7 to L172
 2025-08-16;(Germany) North Rhine-Westphalia;B58;deunw.b058;Route removed from through Beckum and onto new bypass from A2 to L586
@@ -2761,6 +2767,8 @@ date;region;route;root;description
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
+2025-12-25;(Germany) Saxony-Anhalt;A36;deust.a036;Route extended at east end from A14 to L65
+2025-12-25;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from A14 to L65
 2024-12-23;(Germany) Saxony-Anhalt;L159 (Salzmünde);deust.l159sal;New Route
 2024-12-23;(Germany) Saxony-Anhalt;L190 (Osterfeld);deust.l190ost;New Route
 2024-12-23;(Germany) Saxony-Anhalt;L212;deust.l212;Route truncated at west end from L215 to L214
@@ -2823,6 +2831,9 @@ date;region;route;root;description
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
 2024-08-29;(Germany) Thuringia;L2009;;Route deleted
 2024-08-26;(Germany) Thuringia;L1079;;Route deleted
+2025-12-25;(Germany) Thuringia;B247;deuth.b247;Route relocated from through Großengottern and Schönstedt, and onto new bypass between L2100 and L2103
+2025-12-25;(Germany) Thuringia;L2100;deuth.l2100;Route relocated from through Großengottern, and onto bypass between Heroldishausen and B247
+2025-12-25;(Germany) Thuringia;L2103;deuth.l2103;Route extended at east end from Schönstedt to new B247 (former B247)
 2024-12-31;(Germany) Thuringia;L1095;deuth.l1095;Route through Saalburg clarified
 2024-12-31;(Germany) Thuringia;L1126 (Bad Liebenstein);deuth.l1126lie;New Route
 2024-12-31;(Germany) Thuringia;L2056;;Route deleted
@@ -4252,6 +4263,9 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2025-12-25;Netherlands;E19;nld.e19;Route relocated from A13 and A20, and onto new A16 north of Rotterdam
+2025-12-25;Netherlands;N209;nld.n209;Route truncated at west end from A13 (Rotterdam-Airport) to A16 (Bergschenhoek)
+2025-12-25;Netherlands;S114 (Rotterdam);nld.s114rot;Route extended at north end from A13 to A16 (former N209)
 2025-10-14;Netherlands;A16;nld.a016;Route extended at north end from A20 to A13
 2025-10-14;Netherlands;S111 (Rotterdam-Hillegersberg);nld.s111hil;New Route
 2025-03-31;Netherlands;N260;nld.n260;Route truncated at north end from N261 to A58 (Ring Tilburg now)
@@ -5766,6 +5780,7 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2025-12-09;Romania;A7;rou.a007foc;Route extended at northern end from Focsani Nord to Adjud
 2025-12-09;Romania;A7;rou.a007foc;Route extended at southern end from DN2B to DJ100C and merged with A7Miz
 2025-08-06;Romania;DJIMO;rou.djimo;New Route
 2025-08-06;Romania;DJIMO;rou.djimo;New Route
@@ -6650,6 +6665,9 @@ date;region;route;root;description
 2018-10-13;Sri Lanka;AH43;lka.ah043;New Route
 2018-10-13;Sri Lanka;AH43 (Kandy branch);lka.ah043kan;New Route
 2018-10-13;Sri Lanka;AH44;lka.ah044;New Route
+2025-12-25;Sweden;Lund - Kristianstad motorvägen (Linderöd);swe.lundkrimotlin;Route truncated at east end from exit 41 to exit 38
+2025-12-25;Sweden;Kristianstad - Karlshamn motorvägen;swe.krikarmot;Route extended at west end from M2080 to exit 38
+2025-12-25;Sweden;R47;swe.r047;Route relocated from through Grästorp and onto northern and eastern bypass between O2563 and L186
 2025-11-29;Sweden;R55;swe.r055;Route relocated onto new alignment between Björndammen and D885
 2025-06-24;Sweden;Helsingborg - Kanna motorvägen;swe.heljonmot;Route merged into Helsingborg - Jönköping motorvägen
 2025-06-24;Sweden;Ljungby - Jönköping motorvägen;swe.heljonmot;Route merged into Helsingborg - Jönköping motorvägen
@@ -6752,7 +6770,7 @@ date;region;route;root;description
 2016-11-20;Sweden;R51;swe.r056;rerouted to new construction north of Heby
 2016-09-02;Sweden;Åby - Norrköping motorvägen;swe.abynormot;New Route
 2016-09-02;Sweden;Arbogavägen, Örebro;swe.arbvag;New Route
-2016-09-02;Sweden;Bromölla - Karlshamn motorvägen;swe.brokarmot;New Route
+2016-09-02;Sweden;Kristianstad - Karlshamn motorvägen;swe.krikarmot;New Route
 2016-09-02;Sweden;Bulltofta - Sunnanå motorvägen, Malmö;swe.bulsunmot;New Route
 2016-09-02;Sweden;Enköpingsvägen, Stockholm;swe.enkvag;New Route
 2016-09-02;Sweden;Eskilstuna - Södertälle motorvägen;swe.esksodmot;New Route
@@ -10538,6 +10556,7 @@ date;region;route;root;description
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quarry Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2025-12-24;(USA) West Virginia;WV 601;wv.wv601;Removed from the Kanawha Turnpike and part of Jefferson Road, and relocated onto a brand new bridge that bypasses it slightly to the east, between the points of 'KanTpke' & 'WasSt'.
 2025-07-05;(USA) West Virginia;WV 83;wv.wv083;Route truncated at the Western end to the actual state line about 0.4 miles to the east. The 'DavMouRd' point is now a part of an extended VA 83 route.
 2025-07-01;(USA) West Virginia;US 522 Bypass (Berkeley Springs);wv.us522bypber;Added route.
 2024-09-14;(USA) West Virginia;WV 41;wv.wv041;Removed from old alignment of Stanaford Road in Beckley between intersections with US 19 & McCulloch Drive, and relocated slightly north onto a new bridge alignment between the old intersection with US 19 (OldWV41) & McCDr.  This includes a small extension of the multiplex with US 19, thus requiring the point 'US19_BecN' to shift locations to the north by 0.1 miles, and the old intersection becoming 'OldWV41'.
@@ -10575,6 +10594,8 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2025-12-23;(USA) Wisconsin;US 51 Business (Wausau);wi.us051buswau;Removed from Bridge Street and 5th/6th Street pair and rerouted onto 3rd/1st avenues and CR N (Thomas Street) between Bridge and Thomas streets
+2025-12-23;(USA) Wisconsin;WI 52;wi.wi052;Removed from Highway 52 Parkway, Stewart Avenue, Scott/Forest streets, and 5th/6th streets between WI 29 and Bridge Street in Wausau and relocated onto Bridge Street to end at US 51
 2025-07-09;(USA) Wisconsin;US 63;wi.us063;Removed from part of US 53 and road now named Service Loop in Trego and relocated onto Trego bypass and junction with US 53 farther south. (relocation between points 172 and *OldUS63_Tre)
 2025-03-29;(USA) Wisconsin;WI 158;wi.wi158;Extended east from WI 32 to 6th Avenue
 2025-03-27;(USA) Wisconsin;WI 195;wi.wi195;Extended from WI 31 east along County Line Rd to WI 32
