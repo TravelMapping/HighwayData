@@ -1,3 +1,5 @@
+NE/IA http://www.openstreetmap.org/?lat=41.259759&lon=-95.921738
+I-480(0) http://www.openstreetmap.org/?lat=41.261098&lon=-95.914314
 FroRd +I-29 http://www.openstreetmap.org/?lat=41.261904&lon=-95.908252
 35thSt http://www.openstreetmap.org/?lat=41.261936&lon=-95.902062
 25thSt http://www.openstreetmap.org/?lat=41.261969&lon=-95.881848
@@ -13,17 +15,19 @@ CRG37 http://www.openstreetmap.org/?lat=41.362283&lon=-95.858331
 SumRd http://www.openstreetmap.org/?lat=41.433943&lon=-95.867901
 DesAve http://www.openstreetmap.org/?lat=41.499176&lon=-95.893693
 US30_MV http://www.openstreetmap.org/?lat=41.556380&lon=-95.887728
+9thSt_MV http://www.openstreetmap.org/?lat=41.556444&lon=-95.883071
++X00 http://www.openstreetmap.org/?lat=41.565853&lon=-95.875239
 CRF58 http://www.openstreetmap.org/?lat=41.576063&lon=-95.850348
 LinHwyLpLog_W http://www.openstreetmap.org/?lat=41.609924&lon=-95.823398
 CRF50_W http://www.openstreetmap.org/?lat=41.636967&lon=-95.796554
 IA127 http://www.openstreetmap.org/?lat=41.643061&lon=-95.789194
 CRL34 http://www.openstreetmap.org/?lat=41.643221&lon=-95.780354
 +X01 http://www.openstreetmap.org/?lat=41.644472&lon=-95.765505
-240thSt http://www.openstreetmap.org/?lat=41.660457&lon=-95.747502
+240thSt http://www.openstreetmap.org/?lat=41.660453&lon=-95.747488
 ParTrl http://www.openstreetmap.org/?lat=41.665603&lon=-95.741751
 IA44 http://www.openstreetmap.org/?lat=41.673970&lon=-95.732503
-QuiTrl http://www.openstreetmap.org/?lat=41.682848&lon=-95.723147
-215thSt http://www.openstreetmap.org/?lat=41.696533&lon=-95.707912
+QuiTrl http://www.openstreetmap.org/?lat=41.682884&lon=-95.723204
+215thSt http://www.openstreetmap.org/?lat=41.696340&lon=-95.708234
 +X02 http://www.openstreetmap.org/?lat=41.702492&lon=-95.703535
 CRF32_E http://www.openstreetmap.org/?lat=41.731515&lon=-95.701454
 US30_WooS http://www.openstreetmap.org/?lat=41.732692&lon=-95.702130
@@ -117,13 +121,13 @@ MarSt_N http://www.openstreetmap.org/?lat=42.062771&lon=-93.903022
 StoSt_N http://www.openstreetmap.org/?lat=42.062739&lon=-93.880019
 StoSt_S http://www.openstreetmap.org/?lat=42.059712&lon=-93.880019
 CRR27 http://www.openstreetmap.org/?lat=42.056757&lon=-93.854270
-CRE41 http://www.openstreetmap.org/?lat=42.055690&lon=-93.834958
-IA17 +addCRE41_W<->200thSt_W http://www.openstreetmap.org/?lat=42.056470&lon=-93.815818
-TAve_N +IA17_N http://www.openstreetmap.org/?lat=42.056502&lon=-93.795884
-TAve_S +IA17_S http://www.openstreetmap.org/?lat=42.050233&lon=-93.795691
-UAv_N http://www.openstreetmap.org/?lat=42.049293&lon=-93.776336
-UAve_S http://www.openstreetmap.org/?lat=42.034728&lon=-93.776378
-CRR38 http://www.openstreetmap.org/?lat=42.034536&lon=-93.698788
+*RAve +CRE41 http://www.openstreetmap.org/?lat=42.055690&lon=-93.834958
+ToIA17 http://www.openstreetmap.org/?lat=42.052496&lon=-93.821056
+CRE41_E http://www.openstreetmap.org/?lat=42.049388&lon=-93.795691
+TAve_N +IA17_S http://www.openstreetmap.org/?lat=42.050233&lon=-93.795691
+UAve_N http://www.openstreetmap.org/?lat=42.049293&lon=-93.776336
+CRR38_N http://www.openstreetmap.org/?lat=42.048910&lon=-93.698788
+CRR38_S +CRR38 http://www.openstreetmap.org/?lat=42.034536&lon=-93.698788
 DakAve http://www.openstreetmap.org/?lat=42.034536&lon=-93.678875
 13thSt http://www.openstreetmap.org/?lat=42.034520&lon=-93.655679
 SheAv_S http://www.openstreetmap.org/?lat=42.022757&lon=-93.654242
@@ -133,8 +137,8 @@ US69_S http://www.openstreetmap.org/?lat=42.022869&lon=-93.610425
 DayAve http://www.openstreetmap.org/?lat=42.022773&lon=-93.581457
 CRR70 http://www.openstreetmap.org/?lat=42.023061&lon=-93.540988
 CRS14_N http://www.openstreetmap.org/?lat=42.022710&lon=-93.462796
-CRS14_S http://www.openstreetmap.org/?lat=42.022774&lon=-93.459148
-6thSt_Nev http://www.openstreetmap.org/?lat=42.022742&lon=-93.452368
+1stSt_Nev +CRS14_S http://www.openstreetmap.org/?lat=42.022733&lon=-93.459095
+6thSt_Nev http://www.openstreetmap.org/?lat=42.022725&lon=-93.452322
 19thSt_Nev http://www.openstreetmap.org/?lat=42.022725&lon=-93.434558
 CRS27 http://www.openstreetmap.org/?lat=42.022614&lon=-93.405676
 US65 http://www.openstreetmap.org/?lat=42.022454&lon=-93.309460
@@ -143,8 +147,9 @@ CRE41_W http://www.openstreetmap.org/?lat=42.018497&lon=-93.174870
 3rdSt_E http://www.openstreetmap.org/?lat=42.018410&lon=-93.167253
 3rdAve_S http://www.openstreetmap.org/?lat=42.016194&lon=-93.166679
 +XLH07 http://www.openstreetmap.org/?lat=42.017509&lon=-93.157356
-CRE41_E http://www.openstreetmap.org/?lat=42.014735&lon=-93.156498
-235thSt_E http://www.openstreetmap.org/?lat=42.015127&lon=-93.029882
+4thSt_W http://www.openstreetmap.org/?lat=42.014735&lon=-93.156498
+CRS62 http://www.openstreetmap.org/?lat=42.015440&lon=-93.098187
+235thSt_E http://www.openstreetmap.org/?lat=42.015297&lon=-93.030167
 LinHwyLpLam_E http://www.openstreetmap.org/?lat=42.022678&lon=-93.027849
 IA330_S http://www.openstreetmap.org/?lat=42.024272&lon=-93.004589
 IA330_N http://www.openstreetmap.org/?lat=42.026089&lon=-92.999997
@@ -163,22 +168,25 @@ US30(192) http://www.openstreetmap.org/?lat=42.011965&lon=-92.785378
 IA146_S http://www.openstreetmap.org/?lat=42.006671&lon=-92.785141
 US30_LGE http://www.openstreetmap.org/?lat=42.007022&lon=-92.766151
 US30_Mon http://www.openstreetmap.org/?lat=42.005109&lon=-92.729845
-CRE49_W http://www.openstreetmap.org/?lat=41.978635&lon=-92.714911
+CRE49_W http://www.openstreetmap.org/?lat=41.978611&lon=-92.714889
+CRT47_S http://www.openstreetmap.org/?lat=41.977678&lon=-92.708516
 +XLH09 http://www.openstreetmap.org/?lat=41.965553&lon=-92.672424
-LinHwyLpMes_W http://www.openstreetmap.org/?lat=41.964022&lon=-92.631225
-LinHwyLpMes_E http://www.openstreetmap.org/?lat=41.968532&lon=-92.609489
-US63_N http://www.openstreetmap.org/?lat=41.971201&lon=-92.581744
+LinHwyLpMes_W http://www.openstreetmap.org/?lat=41.964061&lon=-92.631354
+LinHwyLpMes_E http://www.openstreetmap.org/?lat=41.968824&lon=-92.609146
+US63_N http://www.openstreetmap.org/?lat=41.971145&lon=-92.581733
 9thSt_W http://www.openstreetmap.org/?lat=41.967452&lon=-92.581766
 9thSt_E http://www.openstreetmap.org/?lat=41.967452&lon=-92.579577
 5thSt_W http://www.openstreetmap.org/?lat=41.963766&lon=-92.579556
-US63_S http://www.openstreetmap.org/?lat=41.963735&lon=-92.576863
+US63_S http://www.openstreetmap.org/?lat=41.963688&lon=-92.576855
 US30Bus_W http://www.openstreetmap.org/?lat=41.963926&lon=-92.559514
 US30(204) http://www.openstreetmap.org/?lat=41.967340&lon=-92.546682
 MAve http://www.openstreetmap.org/?lat=41.964434&lon=-92.532974
 US30_BPW http://www.openstreetmap.org/?lat=41.964428&lon=-92.435127
+OldCRE66 http://www.openstreetmap.org/?lat=41.960942&lon=-92.434394
 +XLH10 http://www.openstreetmap.org/?lat=41.958405&lon=-92.427721
 CheByp_W http://www.openstreetmap.org/?lat=41.927601&lon=-92.394505
-JacSt http://www.openstreetmap.org/?lat=41.920289&lon=-92.394676
+CRV18_N http://www.openstreetmap.org/?lat=41.925622&lon=-92.394547
+CRV18_S +JacSt http://www.openstreetmap.org/?lat=41.920289&lon=-92.394676
 CheByp_E http://www.openstreetmap.org/?lat=41.920321&lon=-92.385707
 +XLH11 http://www.openstreetmap.org/?lat=41.919587&lon=-92.358456
 +XLH12 http://www.openstreetmap.org/?lat=41.906046&lon=-92.332191
@@ -197,7 +205,7 @@ CRW14 http://www.openstreetmap.org/?lat=41.963359&lon=-91.970351
 CRW24 http://www.openstreetmap.org/?lat=41.963064&lon=-91.911364
 CRW26 http://www.openstreetmap.org/?lat=41.963575&lon=-91.872740
 CRW28 http://www.openstreetmap.org/?lat=41.963830&lon=-91.853342
-*US30(246) http://www.openstreetmap.org/?lat=41.963304&lon=-91.788701
+*US30(246) http://www.openstreetmap.org/?lat=41.963312&lon=-91.788781
 US30(246A) http://www.openstreetmap.org/?lat=41.961828&lon=-91.780901
 US30(246B) http://www.openstreetmap.org/?lat=41.957938&lon=-91.774737
 80thSt http://www.openstreetmap.org/?lat=41.963894&lon=-91.774807
@@ -215,10 +223,11 @@ LinHwyLpMar_W http://www.openstreetmap.org/?lat=41.983807&lon=-91.659826
 8thAve http://www.openstreetmap.org/?lat=41.978029&lon=-91.653682
 EastPostRd http://www.openstreetmap.org/?lat=41.976776&lon=-91.605849
 US151/13 http://www.openstreetmap.org/?lat=41.976210&lon=-91.551561
-LinHwyLpMar_E http://www.openstreetmap.org/?lat=41.975923&lon=-91.506457
+LinHwyLpMar_E http://www.openstreetmap.org/?lat=41.975907&lon=-91.506468
 IA1 http://www.openstreetmap.org/?lat=41.922237&lon=-91.417022
 1stSt_E http://www.openstreetmap.org/?lat=41.919747&lon=-91.411186
 CRX20 http://www.openstreetmap.org/?lat=41.921263&lon=-91.385501
++XLH13 http://www.openstreetmap.org/?lat=41.922301&lon=-91.372218
 KirBlvd_E +MainSt http://www.openstreetmap.org/?lat=41.918262&lon=-91.366274
 US30Bus_Lis http://www.openstreetmap.org/?lat=41.918079&lon=-91.373492
 US30_E http://www.openstreetmap.org/?lat=41.911731&lon=-91.366596
@@ -236,7 +245,9 @@ US30_LowW http://www.openstreetmap.org/?lat=41.874027&lon=-90.975509
 US30_LowE http://www.openstreetmap.org/?lat=41.867248&lon=-90.956465
 CRY24_N http://www.openstreetmap.org/?lat=41.866205&lon=-90.927401
 CRY24_S http://www.openstreetmap.org/?lat=41.857608&lon=-90.926714
++XLH14 http://www.openstreetmap.org/?lat=41.855050&lon=-90.902424
 105thAve http://www.openstreetmap.org/?lat=41.844341&lon=-90.888519
+230thSt http://www.openstreetmap.org/?lat=41.844181&lon=-90.863543
 120thAve_N http://www.openstreetmap.org/?lat=41.844213&lon=-90.859294
 LinWay_W http://www.openstreetmap.org/?lat=41.836860&lon=-90.854917
 ParkRd http://www.openstreetmap.org/?lat=41.836788&lon=-90.845057
@@ -247,19 +258,28 @@ WilSt_S http://www.openstreetmap.org/?lat=41.832487&lon=-90.842943
 CRY32 http://www.openstreetmap.org/?lat=41.832447&lon=-90.840282
 BenSt_S http://www.openstreetmap.org/?lat=41.832423&lon=-90.836131
 BenSt_N http://www.openstreetmap.org/?lat=41.833510&lon=-90.836098
+142ndAve http://www.openstreetmap.org/?lat=41.833087&lon=-90.816164
 US30_Whe http://www.openstreetmap.org/?lat=41.829465&lon=-90.792561
 US30_Cal http://www.openstreetmap.org/?lat=41.829409&lon=-90.762434
-175thAve http://www.openstreetmap.org/?lat=41.822054&lon=-90.752735
+DavSt_S http://www.openstreetmap.org/?lat=41.827635&lon=-90.762262
+2ndSt_N http://www.openstreetmap.org/?lat=41.827579&lon=-90.758733
+2ndSt_S http://www.openstreetmap.org/?lat=41.824389&lon=-90.758851
+5thSt_N http://www.openstreetmap.org/?lat=41.824405&lon=-90.752649
+175thAve http://www.openstreetmap.org/?lat=41.822042&lon=-90.752639
 CRY52_N http://www.openstreetmap.org/?lat=41.821927&lon=-90.723467
 CRY52_S http://www.openstreetmap.org/?lat=41.814698&lon=-90.723510
 250thSt_E http://www.openstreetmap.org/?lat=41.814538&lon=-90.665145
-+XLH13 http://www.openstreetmap.org/?lat=41.821766&lon=-90.665059
++XLH15 http://www.openstreetmap.org/?lat=41.821766&lon=-90.665059
 CRY54_S http://www.openstreetmap.org/?lat=41.822022&lon=-90.645876
 CRY54_N http://www.openstreetmap.org/?lat=41.824565&lon=-90.645833
 US30_GM http://www.openstreetmap.org/?lat=41.824829&lon=-90.631285
 US30/61 http://www.openstreetmap.org/?lat=41.825700&lon=-90.569572
-6thAve http://www.openstreetmap.org/?lat=41.826212&lon=-90.539017
-330thAve_N http://www.openstreetmap.org/?lat=41.822726&lon=-90.451984
+11thSt_E http://www.openstreetmap.org/?lat=41.825812&lon=-90.547256
+10thSt_E http://www.openstreetmap.org/?lat=41.825188&lon=-90.539017
+6thAve_N +6thAve http://www.openstreetmap.org/?lat=41.826212&lon=-90.539017
+CRY70 http://www.openstreetmap.org/?lat=41.826372&lon=-90.529490
+245thSt_E http://www.openstreetmap.org/?lat=41.822694&lon=-90.457864
+CRZ24_N http://www.openstreetmap.org/?lat=41.822726&lon=-90.451984
 US30_DWW http://www.openstreetmap.org/?lat=41.815338&lon=-90.451813
 CRZ36 http://www.openstreetmap.org/?lat=41.815626&lon=-90.354867
 CRZ40 http://www.openstreetmap.org/?lat=41.815538&lon=-90.315857
@@ -268,4 +288,4 @@ S14thSt http://www.openstreetmap.org/?lat=41.818872&lon=-90.218697
 US67_N http://www.openstreetmap.org/?lat=41.837787&lon=-90.192046
 CRF12 +13thAve http://www.openstreetmap.org/?lat=41.858542&lon=-90.184912
 US67/136 http://www.openstreetmap.org/?lat=41.866237&lon=-90.182219
-IA/IL http://www.openstreetmap.org/?lat=41.864895&lon=-90.173163
+IL/IA http://www.openstreetmap.org/?lat=41.864743&lon=-90.173292

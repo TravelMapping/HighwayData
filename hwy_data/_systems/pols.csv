@@ -1,18 +1,13 @@
 ﻿systemName;region;route;banner;abbrev;city;root;altRouteNames
 pols;POL;S1;;;Dąbrowa Górnicza;pol.s001;S1Mie,DK1Uje
-pols;POL;S1;;Osw;Oświęcim;pol.s001osw;
-pols;POL;S1;;Bie;Bielsko-Biala;pol.s001bie;
-pols;POL;S1;;Mil;Milówka;pol.s001mil;
+pols;POL;S1;;Bie;Bielsko-Biala;pol.s001bie;S1Mil
 pols;POL;S2;;;;pol.s002;
 pols;POL;S3;;;;pol.s003;S3Leg,S3Lub
 pols;POL;S5;;;Poznan;pol.s005;
 pols;POL;S5;;Ost;Ostróda;pol.s005ost;
-pols;POL;S6;;Kol;Kołobrzeg;pol.s006kol;
-pols;POL;S6;;Slu;Słupsk;pol.s006slu;
+pols;POL;S6;;Slu;Słupsk;pol.s006slu;S6Kol
 pols;POL;S6;;;Gdańsk;pol.s006;
-pols;POL;S7;;Gdy;Gdynia;pol.s007gdy;
-pols;POL;S7;;Elb;Elbląg;pol.s007elb;S7Mla,DK7Cie,S7Plo
-pols;POL;S7;;NDw;Nowy Dwór Mazowiecki;pol.s007ndw;
+pols;POL;S7;;Elb;Elbląg;pol.s007elb;S7Mla,DK7Cie,S7Plo,S7Gdy,S7NDw,DK7Zal
 pols;POL;S7;;;Warszawa;pol.s007;S7War,S7Slo
 pols;POL;S7;;EKr;(East) Kraków;pol.s007ekr;
 pols;POL;S7;;Lub;Lubień;pol.s007lub;
@@ -37,14 +32,18 @@ pols;POL;S16;;;Biskupiec;pol.s016;
 pols;POL;S16;;Elk;Elk;pol.s016elk;
 pols;POL;S17;;;Lublin;pol.s017;
 pols;POL;S17;;Tom;Tomaszow Lubelski;pol.s017tom;
+pols;POL;S19;;Sok;Sokolka;pol.s019sok;
+pols;POL;S19;;Bie;Bielsk Podlaski;pol.s019bie;
 pols;POL;S19;;;Kock;pol.s019;
 pols;POL;S19;;Rze;Rzeszów;pol.s019rze;S19Lub
+pols;POL;S19;;Kro;Krosno;pol.s019kro;
 pols;POL;S22;;;;pol.s022;
 pols;POL;S51;;;;pol.s051;
 pols;POL;S52;;;Skoczow;pol.s052;S1Sko
 pols;POL;S52;;WKr;(West) Kraków;pol.s052wkr;S7WKr
 pols;POL;S52;;Kra;Kraków;pol.s052kra;
 pols;POL;S61;;;;pol.s061;S61Lom
-pols;POL;S74;;;;pol.s074;
+pols;POL;S74;;;Kielce;pol.s074;
+pols;POL;S74;;Opa;Opatow;pol.s074opa;
 pols;POL;S79;;;;pol.s079;
 pols;POL;S86;;;;pol.s086;

@@ -1,0 +1,44 @@
+﻿**FORUM THREAD:**
+- http://forum.travelmapping.net/index.php?topic=2976
+
+
+**SOURCES:**
+- 
+
+**DEPARTMENT BORDER LABELS:**
+FRA-09 = `Ari` = Ariège
+FRA-11 = `Aud` = Aude
+FRA-12 = `Avy` = Aveyron
+FRA-30 = `Gar` = Gard
+FRA-31 = `HGa` = Haute-Garonne
+   https://www.data.gouv.fr/fr/datasets/routes-departementales-2/
+   http://yakra.teresco.org/tmtools_demos/gisplunge/FRA/Haute_Garonne/
+   https://routes.fandom.com/wiki/Toulouse_M%C3%A9tropole
+FRA-32 = `Ger` = Gers
+FRA-34 = `Her` = Hérault
+   https://www.data.gouv.fr/fr/datasets/reseau-routier-departemental-de-lherault/
+FRA-46 = `Lot` = Lot
+FRA-48 = `Loz` = Lozère
+FRA-65 = `HPy` = Hautes-Pyrénées
+   https://www.data.gouv.fr/fr/datasets/routes-departementales-des-hautes-pyrenees/
+   http://yakra.teresco.org/tmtools_demos/gisplunge/FRA/Hautes_Pyrenees/
+FRA-66 = `PyO` = Pyrénées-Orientales
+FRA-81 = `Tar` = Tarn
+FRA-82 = `TeG` = Tarn-et-Garonne
+
+
+**NOTES TO ROUTES:**
+*FRA-31 - Haute-Garonne:*
+- `D37L` disappeared on GSV between 2013 and 2019. Removed from HB albeit there is a shp file but it is still continued to D37 instead of being dead end.
+- `D50` routes are unsigned bicycle tracks only, not drafted --> Note to wrong system. Is it Gers, the only OCC system w/o D50? I only remember that it was in the south of France and the bicycle tracks were numbered on GM
+- `D326` added since it's signed since 2025
+- shp file end points do not exactly line up with `HPy` shp file end points, gone with `HPy` coords
+
+*FRA-46 - Lot:*
+- `D16` goes through Cantal departement (no signs at the border, there is another `D16` in Cantal)
+
+*FRA-48 - Lozère:*
+- `D45` segment through ARA Haute-Loire (OSM + GM) seems to be no D route through; 2024 GSV does not show any km posts or signs but there are there a speed limit signs on entering the southen Lozère segment, and km posts are in place in the south
+
+*FRA-81 - Tarn:*
+- `D607` through Aveyron (crosses the border several times) seems to fully belong to Lot departement (even through Montfranc village) because the km posts continue albeit Aveyron does not have km posts; there is another `D607` in Aveyron
