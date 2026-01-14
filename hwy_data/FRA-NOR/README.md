@@ -19,7 +19,6 @@ FRA-76 = `SMt` = Seine-Maritime
 *FRA-27 - Eure:*
 - Generally, OSM + GM often show routes which are not confirmed by GSV. Eure departement also seems to be bad in signposting.
 - Many 3-digit D route numberings on OSM are from early 2010s (indicated with "source bing") but more recent GSV clearly shows no signs or C numbering
-- `D675` Beuzeville bypass and routes around must be checked
 
 *FRA-50 - Manche:*
 - `D4` west of Pontorson belongs all the way to departement Ille-et-Vilaine (35) in BRE
@@ -36,6 +35,3 @@ FRA-76 = `SMt` = Seine-Maritime
 - `D974` from east of Carentan and north of Saint-Lô (former `N174`)is missing in shp files but is indicated on OSM and GSV, partially from 2009 ; drafted
 - Pont-Farcy was merged into the commune of Tessy-Bocage in 2018 and thus moved from Calvados to Manche departement. shp files are older and routes around Pont-Farcy needs to be checked; 2018 GSV already shows new numberings where available, OSM + GM still outdated!
 - `D374` + `D554` + `D975` go through Pont-Farcy, `D296` extension (still `D307` on OSM) and `D359` extension need to be checked
-
-*FRA-61 - Orne:*
-- `D515` existance and west end of `D768` to be checked again before activation
