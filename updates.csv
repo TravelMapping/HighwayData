@@ -40,7 +40,11 @@ date;region;route;root;description
 2021-06-09;Andorra;CG3;and.cg003;Route truncated at south end from CG2 to CG3A and extended at south end from CG3A to CG1/2
 2021-06-09;Andorra;CG3A;and.cg003a;Route reentered
 2021-06-09;Andorra;Tunel d'Envarlira;and.cg002a;Route renamed CG2a
+2026-01-22;(Australia) Australia Capital Territory ;M23;ausact.m023;Route truncated at south end from southern A23 junction to A23 (Canberra Avenue) junction in Fyshwick
 2021-01-14;(Australia) Australia Capital Territory;A23;ausact.a023;Route extended at south end from northern junction with State Circle to NSW border
+2026-01-22;(Australia) New South Wales;M1 (Ballina);ausnsw.m001bal;Route extended at south end from Tuckombil Road to B91
+2026-01-22;(Australia) New South Wales;M1 (Grafton);ausnsw.m001bal;Route deleted (now part of Ballina section)
+2026-01-22;(Australia) New South Wales;A1 (Woodburn);ausnsw.m001bal;Route deleted (now part of M1 Ballina section)
 2025-05-19;(Australia) New South Wales;M1 (Kempsey);ausnsw.m001kem;Route extended at north end from TD12/14 to TD18 at Boambee
 2025-05-19;(Australia) New South Wales;A1 (Coffs Harbour);ausnsw.a001cof;Route truncated at south end from TD12/14 to TD18 at Boambee
 2023-11-28;(Australia) New South Wales;M4;ausnsw.m004;Route extended at east end from M8 to A4
@@ -7975,7 +7979,7 @@ date;region;route;root;description
 2015-08-13;(USA) California;I-15BL (Lake Elsinore - Main St. branch);ca.i015bllke;Route added
 2015-08-13;(USA) California;I-15BL (Lake Elsinore);ca.i015bllak;Truncated north end of route from I-15 exit 77 to CA 74@Lakeshore Dr.
 2026-01-16;(USA) Colorado;I-70;co.i070;Exit 288 relocated to new diverging diamond at Picadilly Road. Old exit marked as *Old288.
-2026-01-16;(USA) Colorado;I-70 BL (Denver);co.i070blden;I-70 Exit 288 relocated to new diverging diamond at Picadilly Road. Old exit marked as *OldI-70(288).
+2026-01-16;(USA) Colorado;I-70 BL (Denver);co.i070blden;I-70 Exit 288 relocated to new diverging diamond at Picadilly Road.
 2026-01-16;(USA) Colorado;US 36;co.us036;I-70 Exit 288 relocated to new diverging diamond at Picadilly Road. Old exit marked as *OldI-70(288).
 2026-01-16;(USA) Colorado;US 40;co.us040;I-70 Exit 288 relocated to new diverging diamond at Picadilly Road. Old exit marked as *OldI-70(288).
 2026-01-16;(USA) Colorado;US 287;co.US 287;I-70 Exit 288 relocated to new diverging diamond at Picadilly Road. Old exit marked as *OldI-70(288).
@@ -9388,6 +9392,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2026-01-21;(USA) New York;NY 481;ny.ny481;Relabeled exits from sequential to mileage-based.
+2026-01-21;(USA) New York;I-481;ny.i481;Relabeled exits from sequential to mileage-based on future I-81 mileage.
 2024-12-28;(USA) New York;NY 12E;ny.ny012e;Removed from Main St and Bridge St and relocated onto the 2024 Black River bridge between Main St and NY 12F.
 2024-12-28;(USA) New York;NY 12F;ny.ny012f;Waypoint NY12E moved from Bridge St to the 2024 Black River bridge.
 2024-12-10;(USA) New York;I-86 (Owego);ny.i086owe;Route added.
@@ -9483,6 +9489,13 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2026-01-24;(USA) North Carolina;US 258 Bus (Farmville);;Route deleted
+2026-01-24;(USA) North Carolina;NC 295;;Route deleted - is now I-295
+2026-01-24;(USA) North Carolina;I-295;nc.i295;extended south as new freeway to Exit 7 and replaced NC 295 to I-95
+2026-01-24;(USA) North Carolina;US 70 Bus (Havelock);nc.us070bushav;new route added
+2026-01-24;(USA) North Carolina;US 70;nc.us070; Havelock bypass open - new route is between points 429 and 437
+2026-01-24;(USA) North Carolina;NC 125;nc.nc125;extended southwest to NC 903 - new route is NC 903 to HorDr
+2026-01-24;(USA) North Carolina;NC 186;nc.nc186;rerouted onto new US 158 Weldon Bypass- new part is between closed point OldNC186 and US158_E
 2025-10-01;(USA) North Carolina;US 158;nc.us158;rerouted around Weldon - new routing is between I-95(173) and OldHigRd
 2025-10-01;(USA) North Carolina;US 158 Bus (Weldon);nc.us158buswel;renumbering of US 158 through Weldon
 2025-10-01;(USA) North Carolina;NC 46;nc.nc046;NC 46 east truncated to I-95 with old route remaining part of NC 186
@@ -10532,6 +10545,8 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2026-01-24;(USA) Virginia;VA 393;va.va393;new route added
+2026-01-24;(USA) Virginia;VA 394;va.va394;new route added
 2025-10-01;(USA) Virginia;US 60 Truck (Richmond);;deleted 
 2025-07-04;(USA) Virginia;US 311 Alt (Danville);va.us311altdan;Added route which had been part of US 311
 2025-07-04;(USA) Virginia;VA 83;va.va083;extended east to actual state line from what is now DivRidRd waypoint - no alt name possible
