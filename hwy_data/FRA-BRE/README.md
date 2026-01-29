@@ -19,6 +19,3 @@ FRA-56 = `Mor` = Morbihan
 
 *FRA-35 - Ille-et-Vilaine:*
 - Many D route signs disappeared in recent years, likely due to bypass openings and further rededications. Compared 2014 / 2015 GSV or even 2019 GSV to 2020 / 2021 GSV where available. The changes are not yet done on GM nor OSM. A detailed check is required before activation
-
-*FRA-56 - Morbihan:*
-- `D316` end not clear, route was downgraded through Baden between 2018 and 2021 (GSV from `D101` junction) but GSV south of it is still from 2018 only
