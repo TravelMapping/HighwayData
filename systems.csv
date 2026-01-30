@@ -98,7 +98,7 @@ deustl;DEU;Saxony-Anhalt Landesstraßen;TMyellow;5;active
 deuthl;DEU;Thuringia Landesstraßen;TMyellow;5;active
 dnkmot;DNK;Denmark Motorvejen;TMblue;1;active
 dnkpr;DNK;Denmark Primærruter;TMlightsalmon;4;active
-frolv;DNK;Faroe Islands Routes;TMlightsalmon;4;active
+frolv;DNK;Faroe Islands Landsvegur;TMlightsalmon;4;active
 dnksr;DNK;Denmark Sekundærrute;TMyellow;5;active
 dnkmr;DNK;Denmark Margueritruten;TMbrown;5;active
 eure;EUR;UNECE International 'E' Roads;TMgreen;3;active
@@ -151,6 +151,8 @@ reun;FRA;Reunion Routes Nationales;TMlightsalmon;4;active
 spmn;FRA;Saint Pierre and Miquelon Routes Territoriales;TMlightsalmon;4;active
 wlft;FRA;Wallis and Futuna Routes Territoriales;TMlightsalmon;4;active
 frabfcd90;FRA;Territoire de Belfort Routes Départementales;TMyellow;5;active
+frabred22;FRA;Côtes-d’Armor Routes Départementales;TMyellow;5;active
+frabred56;FRA;Morbihan Routes Départementales;TMyellow;5;active
 fracord;FRA;Corsica Routes Départementales;TMyellow;5;active
 fracvld18;FRA;Cher Routes Départementales;TMyellow;5;active
 fracvld28;FRA;Eure-et-Loir Routes Départementales;TMyellow;5;active
@@ -187,6 +189,7 @@ franaqd86;FRA;Vienne Routes Départementales;TMyellow;5;active
 franaqd87;FRA;Haute-Vienne Routes Départementales;TMyellow;5;active
 franord14;FRA;Calvados Routes Départementales;TMyellow;5;active
 franord27;FRA;Eure Routes Départementales;TMyellow;5;active
+franord50;FRA;Manche Routes Départementales;TMyellow;5;active
 franord61;FRA;Orne Routes Départementales;TMyellow;5;active
 fraoccd09;FRA;Ariège Routes Départementales;TMyellow;5;active
 fraoccd11;FRA;Aude Routes Départementales;TMyellow;5;active
@@ -491,6 +494,7 @@ colrn;COL;Colombia Red Vial Nacional;TMred;2;preview
 colsf;COL;Colombia Select Freeways;TMteal;3;preview
 crirp;CRI;Costa Rica Rutas Nacionales Primarias;TMred;3;preview
 crirs;CRI;Costa Rica Rutas Nacionales Secundarias;TMbrown;4;preview
+frosl;DNK;Faroe Islands Sóljuleiðir;TMbrown;5;preview
 ecue;ECU;Ecuador Red Vial Estatal;TMred;2;preview
 ecusf;ECU;Ecuador Select Freeways;TMteal;3;preview
 #eure2;EUR;UNECE 'E' Roads (Italy split);TMgreen;3;preview
@@ -519,10 +523,8 @@ frabfcd58;FRA;Nièvre Routes Départementales;TMyellow;5;preview
 frabfcd70;FRA;Haute-Saône Routes Départementales;TMyellow;5;preview
 frabfcd71;FRA;Saône-et-Loire Routes Départementales;TMyellow;5;preview
 frabfcd89;FRA;Yonne Routes Départementales;TMyellow;5;preview
-frabred22;FRA;Côtes-d’Armor Routes Départementales;TMyellow;5;preview
 frabred29;FRA;Finistère Routes Départementales;TMyellow;5;preview
 frabred35;FRA;Ille-et-Vilaine Routes Départementales;TMyellow;5;preview
-frabred56;FRA;Morbihan Routes Départementales;TMyellow;5;preview
 fracvld45;FRA;Loiret Routes Départementales;TMyellow;5;preview
 fragesd08;FRA;Ardennes Routes Départementales;TMyellow;5;preview
 fragesd10;FRA;Aube Routes Départementales;TMyellow;5;preview
@@ -534,18 +536,17 @@ fragesd55;FRA;Meuse Routes Départementales;TMyellow;5;preview
 fragesd57;FRA;Moselle Routes Départementales;TMyellow;5;preview
 fragesm57;FRA;Metz Métropole Routes Métropolitaines;TMyellow;5;preview
 fragesd88;FRA;Vosges Routes Départementales;TMyellow;5;preview
-franord50;FRA;Manche Routes Départementales;TMyellow;5;preview
 franord76;FRA;Seine-Maritime Routes Départementales;TMyellow;5;preview
 frapacd04;FRA;Alpes-de-Haute-Provence Routes Départementales;TMyellow;5;preview
 frapacd05;FRA;Hautes-Alpes Routes Départementales;TMyellow;5;preview
 frapacd13;FRA;Bouches-du-Rhône Routes Départementales;TMyellow;5;preview
 frapacd83;FRA;Var Routes Départementales;TMyellow;5;preview
 frapacd84;FRA;Vaucluse Routes Départementales;TMyellow;5;preview
-gtmrn;GTM;Guatemala Rutas Nacionales;TMred;3;preview
-gtmsf;GTM;Guatemala Select Freeways;TMteal;3;preview
 gufd;FRA;French Guiana Routes Départementales;TMyellow;5;preview
 gbrtrl;GBR;United Kingdom Trails;TMbrown;5;preview
 gbrrr;GBR;United Kingdom Ring Roads;TMgray;5;preview
+gtmrn;GTM;Guatemala Rutas Nacionales;TMred;3;preview
+gtmsf;GTM;Guatemala Select Freeways;TMteal;3;preview
 hndrnp;HND;Honduras Rutas Nacionales Principales;TMred;3;preview
 hndrns;HND;Honduras Rutas Nacionales Secundarias;TMbrown;4;preview
 idnah;IDN;Indonesia UNESCAP Asian Highways;TMred;3;preview

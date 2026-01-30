@@ -36,15 +36,13 @@ FRA-88 = `Vos` = Vosges
 **NOTES TO ROUTES:**
 *FRA-10 - Aube:*
 - Routes through Troyes are often signed inbound at `D610` ring road but not within the city. Only routes drafted through the city when the routing is obviously.
-- `D77` through BFC is signed a mileposts indicating `Aube`
-- `D79E` is only signed on 2010 GSV at `D179`
-- `D82` through BFC is signed a mileposts indicating `Aube`
+- `D77` through BFC is signed on a mileposts indicating `Aube`
+- `D82` through BFC is signed on a mileposts indicating `Aube`
 
 *FRA-52 - Haute-Marne:*
 - `D2A` is just a one-way street to the north in Wassy while the southbound street is `D2`, not included but threated as `D2` for wp location
-- `D65B` is indicated being `D65A` on OSM but GSV has only a `D65B` sign
-- `D65C` might be considered to be a ramp of the interchange of `D65` and `D65B` only but since it can be driven two-way with a redundant relation to the big interchange... Added
-- `D111` and `D157` are not signed through Saint-Dezier
+- `D65B` is also indicated being `D65A`, added as `D65B` only
+- `D111` and `D157` are not signed in the north of Saint-Dezier, excluded
 
 *FRA-54 - Meurthe-et-Moselle:*
 - `D2H`, `D2M` and `D2N` are indicated on OSM and GSV but not on GM/wikisara. Added though.
@@ -86,7 +84,6 @@ FRA-88 = `Vos` = Vosges
 - `D2063` should exist according to shp files + OSM but nothing on GSV, GM nor renumbering map, not drafted beacuse it is 1.8mi long and would be easily visible on the renumbering map but isn't
 
 *FRA-88 - Vosges:*
-- `D2F` end not clear dur to lack of GSV coverage. It is signed at junction with `D2` (2011 GSV) and it is not signed at junction with `D9` (2018 GSV). It crosses the border to BFC and back to GES
 - `D9` extends into Meurthe-et-Moselle and back to Vosges. There are `D9` milepost in MeM. Included.
 - `D22` extends into Haute-Marne a little bit and back to Vosges. Included.
 - `D57` mostly leads through BFC(70) but belong to GES(88), see https://routes.fandom.com/wiki/Route_d%C3%A9partementale_fran%C3%A7aise_D57_(70)
