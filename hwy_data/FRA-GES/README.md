@@ -62,14 +62,6 @@ FRA-88 = `Vos` = Vosges
 - `D145x` routes are drafted as good as possible. OSM is partially incorrect, GSV not fully available
 - `D163B` is only indicated on GM but not on OSM nor OSM - not included
 
-*FRA-57 - Moselle:*
-- `D8A` is indicated on GM and wikisara but not on OSM/GSV. Added though.
-- `D33` exist according to OSM and GSV but GM claims that the northern segment is `D82A`
-- `D77` extends into Meurthe-et-Moselle and back to Moselle but there are no `D9` mileposts in MeM (km12 still in Mos, km13 again in Mos) - not included
-- `D104K` is signed as `C4` at `D37` junction but there is a `D104K` sign at the entrance of Glasenberg, whole route in HB
-- `D199D` is missing, `D199` is likely signed incorrect since no other `D1xx` route exists without suffix
-- It seems that from 2020-01-01 some route segments will be dedicated as M routes (not yet considered when drafting routes!): https://routes.fandom.com/wiki/Metz_M%C3%A9tropole#En_g.C3.A9n.C3.A9ral (`M1`, `M6`, `M7`, `M11`, `M69`, `M157A`,`M157B`,`M603`, `M643`, `M652`, `M657`, `M903`, `M913`, `M953`, `M954`, `M955`, `M999`)
-
 *FRA-6ae - Alsace:*
 - `D30` segment between `D392` and `D1420` is not available in shp files from January 2020 but on the renumbering map from April 2020 (w/o number) and is clearly signed on 2019 GSV, added
 - `D25` north end is `D53` according to shp files from January 2020 but it is very short (0.11mi) and clearly signed as `D25` on 2019 + 2023 GSV
