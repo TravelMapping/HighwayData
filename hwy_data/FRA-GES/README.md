@@ -49,7 +49,6 @@ FRA-88 = `Vos` = Vosges
 
 *FRA-55 - Meuse:*
 - `D1916` is only signed `Voie Sacrée`, in HB as `fran` route `NVS`
-- `D145x` routes are drafted as good as possible. OSM is partially incorrect, GSV not fully available
 - `D163B` is only indicated on GM but not on OSM nor OSM - not included
 
 *FRA-6ae - Alsace:*
