@@ -49,7 +49,6 @@ FRA-88 = `Vos` = Vosges
 
 *FRA-55 - Meuse:*
 - `D1916` is only signed `Voie Sacrée`, in HB as `fran` route `NVS`
-- `D163B` is only indicated on GM but not on OSM nor OSM - not included
 
 *FRA-6ae - Alsace:*
 - `D30` segment between `D392` and `D1420` is not available in shp files from January 2020 but on the renumbering map from April 2020 (w/o number) and is clearly signed on 2019 GSV, added
