@@ -4892,16 +4892,6 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
-2025-12-31;Poland;S19 (Sokolka);pol.s019sok;Route added
-2025-12-31;Poland;S19 (Krosno);pol.s019kro;Route added
-2025-12-31;Poland;E371;pol.e371;Route removed from DW864 and relocated onto S19 between northern and southern junctions with DW864
-2025-12-31;Poland;DK19 (Kuznica);pol.dk019kuz;Route added
-2025-12-31;Poland;DK19 (Bialystok);pol.dk019;Route truncated at north end from Belarus border to S19 exit 1.1
-2025-12-31;Poland;DK19 (Rzeszów);pol.dk019rze;Route truncated at south end from Slovakia border to S19 exit 69
-2025-12-31;Poland;DK19 (Dukla);pol.dk019duk;Route added
-2025-12-31;Poland;DK74 (Lagow);pol.dk074lag;Route added
-2025-12-31;Poland;DK74 (Zamosc);pol.dk074zam;Route truncated at west end from to DK9
-2025-12-31;Poland;DW864;pol.dw864;Route added
 2025-04-10;Philippines;CALAX;phl.calax;New route
 2025-04-10;Philippines;CavC5LinkPar;phl.cavc5linkpar;New route
 2025-04-10;Philippines;CavC5Link;phl.cavc5link;New route
@@ -4913,7 +4903,25 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2026-03-23;Poland;S1 (Bielsko-Biala);pol.s001bie;Route extended at north end from exit 20 to exit 19
+2026-03-23;Poland;E75;pol.e75;Route removed from DK1 and relocated onto DK44, S1 and S52 between DK1/44 junction and S52 exit
+2026-03-23;Poland;E462;pol.e462;Route removed from DK1 and relocated onto S52, S1 and DK44 between S52 exit  and DK1/44 junction
+2026-03-23;Poland;DK44;pol.dk044;Route removed from and relocated onto Oświęcim bypass between eastern junction with Ulica Warszawska and western junction with DW933
+2026-03-23;Poland;DK44 (Oświęcim);pol.dk044;Route deleted (now part of main route)
+2026-03-23;Poland;DK52;pol.dk052;Route extended at east end from DK7 to A4 exit R1
+2026-03-23;Poland;DW933;pol.dw933;Route removed from DK1, DW939 and Ulica Zorska and relocated onto DK1, DW935 and Ulica Zorska between southern junction (formerly northern junction) with DK1 and southern junction with Ulica Zorska (formerly northern junction)
+2026-03-23;Poland;DW939;pol.dw939;Route extended at east end from western junction with Ulica Bielska to DK1
 2026-01-09;Poland;DW935;pol.dw935;Route removed from Ulica Raciborska and DK78 and relocated onto Aleja ROW between UliRac_E and DK78
+2025-12-31;Poland;S19 (Sokolka);pol.s019sok;Route added
+2025-12-31;Poland;S19 (Krosno);pol.s019kro;Route added
+2025-12-31;Poland;E371;pol.e371;Route removed from DW864 and relocated onto S19 between northern and southern junctions with DW864
+2025-12-31;Poland;DK19 (Kuznica);pol.dk019kuz;Route added
+2025-12-31;Poland;DK19 (Bialystok);pol.dk019;Route truncated at north end from Belarus border to S19 exit 1.1
+2025-12-31;Poland;DK19 (Rzeszów);pol.dk019rze;Route truncated at south end from Slovakia border to S19 exit 69
+2025-12-31;Poland;DK19 (Dukla);pol.dk019duk;Route added
+2025-12-31;Poland;DK74 (Lagow);pol.dk074lag;Route added
+2025-12-31;Poland;DK74 (Zamosc);pol.dk074zam;Route truncated at west end from to DK9
+2025-12-31;Poland;DW864;pol.dw864;Route added
 2025-12-23;Poland;A2 (Siedlce);pol.a002sie;Route extended at east end from exit 40 to exit 41
 2025-12-23;Poland;S7 (Elbląg);pol.s007elb;Route truncated at north end from S6 exit 57 to exit 9 and extended at north end from exit 9 to exit 1
 2025-12-23;Poland;S7 (Gdynia);pol.s007elb;Route deleted (now part of Elblag section)
@@ -6191,6 +6199,30 @@ date;region;route;root;description
 2023-08-17;Singapore;AH143;;Route deleted
 2018-10-13;Singapore;AH2;sgp.ah002;New Route
 2018-10-13;Singapore;AH143;sgp.ah143;New Route
+2026-03-23;Slovakia;I49;svk.i049;Route extended at south end from III1944 to southern junction with R6
+2026-03-23;Slovakia;I61;svk.i061;Route removed from I61B, local roads and I49 and relocated onto D1 and R6 between D1 exit 153 and northern junction with R6
+2026-03-23;Slovakia;I61B;svk.i061b;Route added
+2026-03-23;Slovakia;I64;svk.i064;Route removed from Rajecka cesta and relocated onto former I64a between eastern and western junctions with Rajecka cesta
+2026-03-23;Slovakia;I64A (Rajecke Templice);svk.i064;Route deleted (now part of I64)
+2026-03-23;Slovakia;I64D;svk.i064d;Route added
+2026-03-23;Slovakia;I65;svk.i065;Route truncated at west end from R1a to I51/I64
+2026-03-23;Slovakia;I66;svk.i066;Route removed from R1 and relocated onto former I69 between R1 exits 146 and 157
+2026-03-23;Slovakia;I66B;svk.i066b;Route added
+2026-03-23;Slovakia;I69;svk.i066;Route deleted (now part of I66)
+2026-03-23;Slovakia;I72;svk.i072;Route removed from I66B and relocated onto Tisovska Cesta and I66 between eastern and western I66B junctions
+2026-03-23;Slovakia;II120;svk.ii120;Route added
+2026-03-23;Slovakia;II121;svk.ii121;Route added
+2026-03-23;Slovakia;II130;svk.ii130;Route added
+2026-03-23;Slovakia;II143;svk.ii143;Route added
+2026-03-23;Slovakia;II211;svk.ii211;Route added
+2026-03-23;Slovakia;II499;svk.ii499;Route truncated at east end from I64 to I64D
+2026-03-23;Slovakia;II510;svk.ii121;Route deleted (now part of II121)
+2026-03-23;Slovakia;II527a;svk.ii527a;Route added
+2026-03-23;Slovakia;II566;;Route truncated at north end from II558 to I74
+2026-03-23;Slovakia;II572;svk.ii572;Route truncated at east end from I63 to II120
+2026-03-23;Slovakia;II572a;svk.ii120;Route deleted (now part of II120)
+2026-03-23;Slovakia;II574;svk.ii574;Route removed from III1930 and relocated onto former II574a and I61 between Sihot and northern junction with I61
+2026-03-23;Slovakia;II574a;svk.ii574;Route deleted (now part of II574)
 2026-03-21;Slovakia;I61a;svk.i061a;Route reentered
 2026-03-21;Slovakia;I61b;svk.i061a;Route deleted (renumbered I61a)
 2025-12-22;Slovakia;D1 (Bratislava);svk.d001;Route extended at the east end from exit 199 to exit 229
@@ -6592,6 +6624,8 @@ date;region;route;root;description
 2017-10-18;(Spain) La Rioja;A12;espri.a012;Route extended at east end from exit 94 (formerly exit 8) to Navarre border
 2017-10-18;(Spain) La Rioja;A12 (Lograno);espri.a012;Route merged into main route
 2025-09-22;(Spain) Navarre;PA35;espnc.pa035;Route added
+2026-03-23;(Spain) Region of Murcia;A30;espmc.a030;Route extended at north end from exit 140 to Castilla-La Mancha border
+2026-03-23;(Spain) Region of Murcia;A30 (Archena);espmc.a030;Route deleted (now part of main A30)
 2025-10-15;(Spain) Region of Murcia;A30 (Archena);espmc.a030arc;Route added
 2025-10-15;(Spain) Region of Murcia;A30 (Cartagena);espmc.a030;Route truncated at north end from Castilla-La Mancha border to exit 150 and extended at north end from exit 150 to new exit 140 (old route south of A7 MU33, old route north of A7 MU32 and A30 Archena section)
 2025-10-15;(Spain) Region of Murcia;AN30;espmc.a030arc;Route deleted (now part of A30)
