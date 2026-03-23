@@ -4886,16 +4886,6 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
-2025-12-31;Poland;S19 (Sokolka);pol.s019sok;Route added
-2025-12-31;Poland;S19 (Krosno);pol.s019kro;Route added
-2025-12-31;Poland;E371;pol.e371;Route removed from DW864 and relocated onto S19 between northern and southern junctions with DW864
-2025-12-31;Poland;DK19 (Kuznica);pol.dk019kuz;Route added
-2025-12-31;Poland;DK19 (Bialystok);pol.dk019;Route truncated at north end from Belarus border to S19 exit 1.1
-2025-12-31;Poland;DK19 (Rzeszów);pol.dk019rze;Route truncated at south end from Slovakia border to S19 exit 69
-2025-12-31;Poland;DK19 (Dukla);pol.dk019duk;Route added
-2025-12-31;Poland;DK74 (Lagow);pol.dk074lag;Route added
-2025-12-31;Poland;DK74 (Zamosc);pol.dk074zam;Route truncated at west end from to DK9
-2025-12-31;Poland;DW864;pol.dw864;Route added
 2025-04-10;Philippines;CALAX;phl.calax;New route
 2025-04-10;Philippines;CavC5LinkPar;phl.cavc5linkpar;New route
 2025-04-10;Philippines;CavC5Link;phl.cavc5link;New route
@@ -4907,7 +4897,25 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2026-03-23;Poland;S1 (Bielsko-Biala);pol.s001bie;Route extended at north end from exit 20 to exit 19
+2026-03-23;Poland;E75;pol.e75;Route removed from DK1 and relocated onto DK44, S1 and S52 between DK1/44 junction and S52 exit
+2026-03-23;Poland;E462;pol.e462;Route removed from DK1 and relocated onto S52, S1 and DK44 between S52 exit  and DK1/44 junction
+2026-03-23;Poland;DK44;pol.dk044;Route removed from and relocated onto Oświęcim bypass between eastern junction with Ulica Warszawska and western junction with DW933
+2026-03-23;Poland;DK44 (Oświęcim);pol.dk044;Route deleted (now part of main route)
+2026-03-23;Poland;DK52;pol.dk052;Route extended at east end from DK7 to A4 exit R1
+2026-03-23;Poland;DW933;pol.dw933;Route removed from DK1, DW939 and Ulica Zorska and relocated onto DK1, DW935 and Ulica Zorska between southern junction (formerly northern junction) with DK1 and southern junction with Ulica Zorska (formerly northern junction)
+2026-03-23;Poland;DW939;pol.dw939;Route extended at east end from western junction with Ulica Bielska to DK1
 2026-01-09;Poland;DW935;pol.dw935;Route removed from Ulica Raciborska and DK78 and relocated onto Aleja ROW between UliRac_E and DK78
+2025-12-31;Poland;S19 (Sokolka);pol.s019sok;Route added
+2025-12-31;Poland;S19 (Krosno);pol.s019kro;Route added
+2025-12-31;Poland;E371;pol.e371;Route removed from DW864 and relocated onto S19 between northern and southern junctions with DW864
+2025-12-31;Poland;DK19 (Kuznica);pol.dk019kuz;Route added
+2025-12-31;Poland;DK19 (Bialystok);pol.dk019;Route truncated at north end from Belarus border to S19 exit 1.1
+2025-12-31;Poland;DK19 (Rzeszów);pol.dk019rze;Route truncated at south end from Slovakia border to S19 exit 69
+2025-12-31;Poland;DK19 (Dukla);pol.dk019duk;Route added
+2025-12-31;Poland;DK74 (Lagow);pol.dk074lag;Route added
+2025-12-31;Poland;DK74 (Zamosc);pol.dk074zam;Route truncated at west end from to DK9
+2025-12-31;Poland;DW864;pol.dw864;Route added
 2025-12-23;Poland;A2 (Siedlce);pol.a002sie;Route extended at east end from exit 40 to exit 41
 2025-12-23;Poland;S7 (Elbląg);pol.s007elb;Route truncated at north end from S6 exit 57 to exit 9 and extended at north end from exit 9 to exit 1
 2025-12-23;Poland;S7 (Gdynia);pol.s007elb;Route deleted (now part of Elblag section)
