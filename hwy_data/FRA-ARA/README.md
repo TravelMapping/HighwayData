@@ -80,10 +80,7 @@ FRA-74 = `HSa` = Haute-Savoie
 - The second `D45` segment in the south of the departement (OSM + GM, no GSV available) seems to belong to OCC Lozère departement (fraoccd48)
 
 *FRA-63 - Puy-de-Dôme:*
-- Some route segments will be dedicated as M routes (not yet considered when drafting routes!)
-- wikisara articles are rare but OSM + GM look good
 - `D80` is signed on km posts till 1km north of `D983` but as `D80A` at `D983` junction, drafted as `D80` only
-- `D224D` is indicated being `D224E` on OSM and GM; `D224D` is confirmed by 2012 GSV
 
 *FRA-69 - Rhone:*
 - `N7` from Roanne to Tarare was downgraded with the opening of A89 in 2018 according to wikisara but no new numbering is known. December 2020 GSV still indicates `N7`. Drafted as route departement `N7`.
