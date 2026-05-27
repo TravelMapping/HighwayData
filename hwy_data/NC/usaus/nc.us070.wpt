@@ -19,7 +19,7 @@ NewStoRd http://www.openstreetmap.org/?lat=35.673786&lon=-82.584061
 US25_S +US25_E http://www.openstreetmap.org/?lat=35.644848&lon=-82.581268
 ElkMtnRd http://www.openstreetmap.org/?lat=35.631210&lon=-82.580750
 NC251_S http://www.openstreetmap.org/?lat=35.614571&lon=-82.573242
-HillSt http://www.openstreetmap.org/?lat=35.596184&lon=-82.570282
+*HillSt http://www.openstreetmap.org/?lat=35.596184&lon=-82.570282
 I-240(4A) http://www.openstreetmap.org/?lat=35.592273&lon=-82.567449
 I-240(4C) http://www.openstreetmap.org/?lat=35.597438&lon=-82.557964
 I-240(5A) http://www.openstreetmap.org/?lat=35.599497&lon=-82.554016
@@ -240,12 +240,12 @@ LubySmiRd http://www.openstreetmap.org/?lat=35.454203&lon=-78.134422
 350 +I-42(34) +US70BypGol_W http://www.openstreetmap.org/?lat=35.435544&lon=-78.071007
 NC581 http://www.openstreetmap.org/?lat=35.427875&lon=-78.063687
 I-795 http://www.openstreetmap.org/?lat=35.398800&lon=-78.008171
-US13_S http://www.openstreetmap.org/?lat=35.396887&lon=-78.001631
-US117_N http://www.openstreetmap.org/?lat=35.399475&lon=-77.991439
-US117Bus http://www.openstreetmap.org/?lat=35.400756&lon=-77.985750
-WayMemDr http://www.openstreetmap.org/?lat=35.396344&lon=-77.968329
-CuyBestRd http://www.openstreetmap.org/?lat=35.388578&lon=-77.946582
-US13_N +US13 http://www.openstreetmap.org/?lat=35.378151&lon=-77.936615
+US13(50) +US13_S http://www.openstreetmap.org/?lat=35.396887&lon=-78.001631
+US13(51A) +US117_N http://www.openstreetmap.org/?lat=35.399475&lon=-77.991439
+US13(51B) +US117Bus http://www.openstreetmap.org/?lat=35.400756&lon=-77.985750
+US13(52) +WayMemDr http://www.openstreetmap.org/?lat=35.396344&lon=-77.968329
+US13(54) +CuyBestRd http://www.openstreetmap.org/?lat=35.388578&lon=-77.946582
+US13(55) +US13_N +US13 http://www.openstreetmap.org/?lat=35.378151&lon=-77.936615
 US70BusGol_E +I-42(53) +US70BusGol http://www.openstreetmap.org/?lat=35.357862&lon=-77.926841
 NC111_S http://www.openstreetmap.org/?lat=35.346635&lon=-77.917786
 BesRd http://www.openstreetmap.org/?lat=35.317576&lon=-77.851524
@@ -278,6 +278,7 @@ US17BusNew_N http://www.openstreetmap.org/?lat=35.103953&lon=-77.084187
 CatLakeRd http://www.openstreetmap.org/?lat=34.968610&lon=-76.968391
 CarPinRd http://www.openstreetmap.org/?lat=34.956147&lon=-76.950061
 429 http://www.openstreetmap.org/?lat=34.935552&lon=-76.950731
++X100 http://www.openstreetmap.org/?lat=34.917889&lon=-76.955795
 434 http://www.openstreetmap.org/?lat=34.867623&lon=-76.936054
 437 http://www.openstreetmap.org/?lat=34.851425&lon=-76.891508
 ChaSt http://www.openstreetmap.org/?lat=34.825339&lon=-76.876000

@@ -1003,6 +1003,7 @@ date;region;route;root;description
 2015-07-28;Croatia;A2;hrv.a002;Route extended at north end from exit 1 to Slovenian border
 2015-07-28;Croatia;A5;hrv.a005;Route extended at south end from exit 6 to exit 7
 2015-07-28;Croatia;A7;hrv.a007;Route extended at south end from exit 12 to D8
+2026-04-30;Cyprus;A9 (Kato Koutrafas);cyp.a009kat;Route added
 2025-02-01;Cyprus;D05;cyp.d550;Route deleted (mostly now D550)
 2025-02-01;Cyprus;D10 (Girne);cyp.d100;Route deleted (now D100)
 2025-02-01;Cyprus;D10 (Dipkarpaz);cyp.d100;Route deleted (now D100)
@@ -1050,6 +1051,7 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2026-04-29;Czechia;II245;cze.ii245;Route relocated from through Čelákovice, and onto new southern bypass between Mochovská and III2455
 2026-03-25;Czechia;II259;cze.ii259;Route extended at east end from Ptácká to I38
 2026-03-24;Czechia;E461;cze.e461;Route relocated from II640, and onto I42 and I43 in the north of Brno between Medlánky and Žabovřesky
 2026-03-24;Czechia;II635 (Hradec Králové);cze.ii635hra;New Route
@@ -1718,6 +1720,7 @@ date;region;route;root;description
 2015-08-20;(France) Grand-Est;A444;frages.a344;Route renamed A344
 2015-07-25;(France) Grand-Est;A313;frages.a313;New Route
 2015-07-25;(France) Grand-Est;E411;frages.e411;Route extended at south end from A30/A31 to A4
+2026-05-19;(France) Hauts-de-France;D2-02;frahdf.d000202;Route relocated from Rue de Noyon, Rue Brouillaud and Rue du Général Maunoury, and onto Rue du Brandon, Rue de Favières, Rue de l'Église and Rue Paul Braux through Vic-sur-Aisne
 2026-02-22;(France) Hauts-de-France;M441-59;frahdf.m044159;Route extended at west end from Rue du Collège to M947H
 2025-11-25;(France) Hauts-de-France;D375-59;frahdf.d037559;Route relocated from through Raismes and Bruay-sur-l'Escaut, and onto Contournement Nord de Valenciennes
 2025-11-25;(France) Hauts-de-France;D935-59;frahdf.d093559;Route extended at south end from D75/D375 to Rue de la Bleue de Nord
@@ -1730,6 +1733,14 @@ date;region;route;root;description
 2015-09-09;(France) Hauts-de-France;Boulevard Péripherique Est de Lille;frahdf.m065159;New Route
 2015-09-09;(France) Hauts-de-France;Rocade Nord Ouest, Lille;frahdf.m065259;New Route
 2015-09-09;(France) Hauts-de-France;Voie Rapide Urbane, Roubaix;frahdf.m065659;New Route
+2026-05-20;(France) Île-de-France;N301;;Route deleted
+2026-05-27;(France) Île-de-France;D125-78;fraidf.d012578;Route truncated at north end from Moisson to Route de Mousseaux
+2026-05-27;(France) Île-de-France;D1022-78;fraidf.d102278;New Route
+2026-05-25;(France) Île-de-France;D344P-77;fraidf.d0344p77;Route extended at south end from A4 to holiday village entrance
+2026-05-25;(France) Île-de-France;D364-77;fraidf.d036477;New Route
+2026-05-25;(France) Île-de-France;D619-77;fraidf.d061977;Route relocated from through Guignes, and onto new southern bypass between D353 and east of D47
+2026-05-25;(France) Île-de-France;D2619-77;fraidf.d261977;New Route (former D619)
+2026-05-25;(France) Île-de-France;D1-92 (Boulogne-Billancourt);fraidf.d000192;Route merged into main route
 2026-01-13;(France) Île-de-France;D201-78;fraidf.d020178;Route relocated from Rue de Limetz and Rue de Bennecourt, and onto Rue de Villez, Route des Vignes, Rue de l'Epte, Rue de Port and Rue de la Mairie between Bennecourt and Limetz-Villez
 2025-11-19;(France) Île-de-France;D80-92;fraidf.d008092;New Route
 2025-08-10;(France) Île-de-France;Antenne de Chilly-Mazarin;fraidf.a126;Route renamed to A126
@@ -1761,7 +1772,7 @@ date;region;route;root;description
 2019-08-02;(France) Île-de-France;N4;fraidf.d100477;Route extended at west end from N104 to D604
 2019-08-02;(France) Île-de-France;N13 (Neuilly-sur-Seine);fraidf.n013;Route truncated at west end from A14_E to A14
 2019-08-02;(France) Île-de-France;N330;fraidf.n330;Route extended at south end from exit 4 to exit 3
-2019-07-30;(France) Île-de-France;N301;fraidf.n301;Route truncated at north end from D29 to D901
+2019-07-30;(France) Île-de-France;N301;;Route truncated at north end from D29 to D901
 2019-07-30;(France) Île-de-France;N410;;Route truncated at west end from A86 to D24
 2019-08-02;(France) Île-de-France;N188;;Route deleted
 2019-08-02;(France) Île-de-France;N314;;Route deleted
@@ -2100,6 +2111,8 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from L154 to A98 between A98 exits 11 and 13
+2026-05-23;(Germany) Bavaria;B2 (Augsburg);deuby.b002;Route relocated in Fürstenfeldbruck from Augsburger Straße, Hauptstraße and Münchner Straße, and onto B471 bypass, Schöngeisinger Straße and Oskar-von-Miller-Straße between St2054 and FFB17
+2026-05-13;(Germany) Bavaria;St2038;deuby.st2038;Route relocated from through Habach, and onto eastern bypass and B472
 2025-12-25;(Germany) Bavaria;St2689;deuby.st2689;Route relocated from through Döllnitz and onto eastern bypass
 2025-11-02;(Germany) Bavaria;B15n;deuby.b015;Route merged into B15 (Landshut)
 2025-11-02;(Germany) Bavaria;B15 (Landshut);deuby.b015;Route extended at north end from A92 to A93
@@ -2327,6 +2340,10 @@ date;region;route;root;description
 2023-12-13;(Germany) Hamburg;B73 (Heimfeld);;Route deleted
 2019-10-18;(Germany) Hamburg;B4;deuhh.b004;Route truncated at south end from A253 to B75
 2019-10-18;(Germany) Hamburg;B75;deuhh.b075;Route removed from through Wilhelmsburg and onto bypass from exit 6 to exit Kornweide
+2026-05-13;(Germany) Hesse;A4 (Herleshausen);deuhe.a004her;Exit 37 moved from former Wommen exit to new A44 interchange
+2026-05-13;(Germany) Hesse;A44 (Herleshausen);deuhe.a044her;New route
+2026-05-13;(Germany) Hesse;E40 (Herleshausen);deuhe.e40her;Exit 37 moved from former Wommen exit to new A44 interchange
+2026-05-13;(Germany) Hesse;B400;deuhe.b400;Route truncated from former A4 Wommen exit to L3252 north of Wommen
 2025-11-02;(Germany) Hesse;B62 (Main);deuhe.b062;Route relocated from through Sarnau and Göttingen and onto new bypass between Siegener Straße in Goßfelden and Kasseler Straße east of Göttingen
 2025-11-02;(Germany) Hesse;B252;deuhe.b252;Route truncated at south end from Siegener Straße (old B62) to new B62 Göttingen bypass
 2025-09-07;(Germany) Hesse;L3214;deuhe.l3214;Route truncated at north end from Holländische Straße (old B7 in Calden), and reextended to new B7 via new western bypass of Calden
@@ -2521,6 +2538,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
 2026-02-22;(Germany) North Rhine-Westphalia;L80 (Bergisch-Born);;Route removed
+2026-05-23;(Germany) North Rhine-Westphalia;B474 (Datteln);deunw.b474dat;New Route
 2026-02-22;(Germany) North Rhine-Westphalia;L450;deunw.l450;Route relocated from Drohne and Mendenerstraße in Mülheim, and onto Kampstraße and Bismarckstraße between Drohne and B1
 2025-12-25;(Germany) North Rhine-Westphalia;L70 (Main);deunw.l070;Route relocated from Hauptstraße and Mühlenstraße in Sprockhövel, and onto Glückauf-Straße
 2025-12-25;(Germany) North Rhine-Westphalia;L70 (Sprockhövel);deunw.l070;Route merged into main route
@@ -3969,6 +3987,30 @@ date;region;route;root;description
 2018-10-13;Korea, South;AH1;kor.ah001;New Route
 2018-10-13;Korea, South;AH6;kor.ah006;New Route
 2018-05-15;Korea, South;Ex29;kor.ex029;New Route
+2026-04-19;Kosovo;R301;rks.r301;New route
+2026-04-19;Kosovo;R302;rks.r302;New route
+2026-04-19;Kosovo;R303;rks.r303;New route
+2026-04-19;Kosovo;R304;rks.r304;New route
+2026-04-19;Kosovo;R305;rks.r305;New route
+2026-04-19;Kosovo;R306;rks.r306;New route
+2026-04-19;Kosovo;R307;rks.r307;New route
+2026-04-19;Kosovo;R308;rks.r308;New route
+2026-04-19;Kosovo;R309;rks.r309;New route
+2026-04-19;Kosovo;R310;rks.r310;New route
+2026-04-19;Kosovo;R311;rks.r311;New route
+2026-04-19;Kosovo;R312;rks.r312;New route
+2026-04-18;Kosovo;R103a;rks.r103a;New route
+2026-04-18;Kosovo;R104a;rks.r104a;New route
+2026-04-18;Kosovo;R117;rks.r117;Rerouted from Bekim Isma to Mizair Isma, Avdullah Bugari, Selajdin Mullabazi, Sheh Mihedini, and Fahri Fazliu between points BekIsma_W and BekIsma_E in Rahovec.
+2026-04-18;Kosovo;R123a;rks.r123a;Route extended north to R305.
+2026-04-18;Kosovo;R201;rks.r201;Route extended east to R121 along former R201 (Shqiponje).
+2026-04-18;Kosovo;R201 (Shqiponje);rks.r201;Route deleted (now part of R201)
+2026-04-18;Kosovo;R204;rks.r204;Route truncated from Bekim Isma to Sheh Mihedini (rerouted R117) in Rahovec.
+2026-04-18;Kosovo;R219;rks.r219;Route truncated from Karashëngjergj to Zymi.
+2026-04-15;Kosovo;N9;rks.n009;Rerouted from Adem Jashari and Papa Klimenti XI to Bill Klinton in Pejë.
+2026-04-15;Kosovo;N25.3;rks.n0253;Rerouted from Ramiz Cërnica, 28 Nëntori, Rruga Nato 99, Manastiri, Kosova, and Metush Krasniqi to Skënderbeu, Idriz Sefiri, Ibrahim Rugova, Abdullah Tahiri, and Lufta e Gjilanit 44 in Gjilan.
+2026-04-15;Kosovo;R206;rks.r206;Route extended west to N25 in Suharekë.
+2026-04-15;Kosovo;R213;rks.r213;Route extended south from Manastiri to Ibrahim Rugova (rerouted N25.3) in Gjilan.
 2026-03-26;Kosovo;N25;rks.n025;Rerouted from Ekrem Rexha and Vesli Klarku to Villam Vokeri and Ibrahim Rugova in Prizren.
 2026-03-26;Kosovo;N25;rks.n025;Rerouted from Jusuf Gërvalla and Bulevardi Bill Klinton to Dëshmorët e Kombit in Prishtinë.
 2026-03-26;Kosovo;R107;rks.r107;Route extended from Ekrem Rexha to Hasan Prishtina (rerouted N25) in Prizren. N25 label moved to new terminus.
@@ -4395,6 +4437,7 @@ date;region;route;root;description
 2024-02-15;(Netherlands) Aruba;Rt8;abw.rt008;Route added
 2024-02-15;(Netherlands) Aruba;Rt9;abw.rt009;Route added
 2024-02-15;(Netherlands) Curacao;Ring Curacao;cuw.ringcur;Route added
+2026-04-14;Netherlands;N346;nld.n346;Route relocated from Lochemsebrug, and onto new Nettelhorsterbrug between Goorseweg and west of Stationsweg in Lochem
 2026-03-29;Netherlands;N814;nld.n814;Route truncated at north end from N314 to N317
 2025-12-25;Netherlands;E19;nld.e19;Route relocated from A13 and A20, and onto new A16 north of Rotterdam
 2025-12-25;Netherlands;N209;nld.n209;Route truncated at west end from A13 (Rotterdam-Airport) to A16 (Bergschenhoek)
@@ -4697,6 +4740,8 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2026-05-23;Norway;E6;nor.e6;Route relocated from through Trofors and onto new bypass between Fv7335 and Rv73
+2026-05-23;Norway;Rv73;nor.rv073;Route extended at west end from old E6 at Aspneset to junction with new E6 bypass south of Trofors (former E6)
 2025-12-16;Norway;Sandvika - Skaret Motorvei;nor.sanskamot;Route extended at north end from exit 5 (Isikrysset) and exit 7 (Skaretkrysset)
 2025-12-16;Norway;E16 (Oslo);nor.e16osl;Route relocated from through Sollihøgda, and onto new motorway alignment between exit 5 (Isikrysset) and exit 7 (Skaretkrysset)
 2025-12-16;Norway;Fv168;nor.fv168;Route extended at west end from E16's exit 2 (Lommedalskrysset) to E16's exit 7 (Skaretkrysset)
@@ -4950,6 +4995,17 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2026-04-29;Poland;A2 (Biala Podlaska);pol.a002bia;Route added
+2026-04-28;Poland;S6 (Gdańsk);pol.s006;Route extended at west end from exit 47 to exit 43
+2026-04-28;Poland;E28;pol.e28;Route removed from DW468 and relocated onto S6 between S6 exits 45 and 47
+2026-04-28;Poland;DK6 (Lebork);pol.dk006leb;Route truncated at east end from S6 exit 47 to S6 exit 43
+2026-04-28;Poland;DW371;pol.dw371;Route reentered
+2026-04-28;Poland;DW382;pol.dw382;Route removed from DW320 and S3 and relocated onto Ulica Kuziennicza between DW320_N and S3
+2026-04-28;Poland;DW382;pol.dw382;Route removed from Ulica Swidnicka and Ulica Piastowska and relocated onto Dzierzoniow bypass between UliSwi_S and DW384_N
+2026-04-28;Poland;DW389;pol.dw389;Route removed from local roads via Jagodna and relocated onto road parallel to the border between DW371 and Poreba
+2026-04-28;Poland;DW395;pol.dw395;Route truncated at south end from DW385 to DW396
+2026-04-28;Poland;DW396;pol.dw396;Route extended at south end from DW395 to DW382/385 junction
+2026-04-28;Poland;DW468;pol.dw468;Route extended at west end from S6 exit 47 to S6 exit 44
 2026-04-06;Poland;DW149;;Route deleted
 2026-04-06;Poland;DW155;;Route deleted
 2026-04-06;Poland;DW168;;Route deleted
@@ -6615,6 +6671,8 @@ date;region;route;root;description
 2019-09-05;(Spain) Castilla-La Mancha;CM45;espcm.cm045;Route extended at west end from CM4111 to A41, and at east end from exit 26 to CM412
 2018-11-04;(Spain) Castille-le-Mancha;N344;espcm.n344;Route truncated at north end from A35 to A31
 2017-10-11;(Spain) Castille-le-Mancha;TO21;espcm.to021;Route extended at east end from southern junction with N403 to A42
+2026-04-30;(Spain) Catalonia;B20;espct.b020;Route extended at west end from C32 exit 54 to C32 exit 53
+2026-04-30;(Spain) Catalonia;B25;espct.b025;Route added
 2025-09-22;(Spain) Catalonia;E9;espct.e9;Route truncated at north end from French border (on the N152) to the N152/N154 junction and extended at north end from that junction to French border (on the N154)
 2024-02-16;(Spain) Catalonia;B40 (Abrera);espct.b040;Route deleted (merged into Terrassa section)
 2024-02-16;(Spain) Catalonia;B40 (Terrassa);espct.b040;Route extended at west end from C16 to A2
@@ -7386,6 +7444,17 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2026-05-27;(UK) England;A5 (Milton Keynes);eng.a0005;Route removed from Watling Street and London Road in Towcester and relocated onto Towcester Relief Road and A43 between northern junction with Watling Street and northern junction with A43
+2026-05-27;(UK) England;A606;eng.a0606;Route removed from Burton Road and Nottingham Road and relocated onto Pork Pie Way between northern junction with Burton Road and southern junction with Nottingham Road
+2026-05-07;(UK) England;A1290;eng.a1290;Route extended at east end from A1018 to A183
+2026-05-02;(UK) England;A2100;eng.a2100;Route truncated at south end from A21/Junction Road junction to B2093 junction and extended at south end from B2093 junction to A21/A28 junction
+2026-04-30;(UK) England;A641;eng.a0641;Route truncated at north end from A6181 to A647
+2026-04-30;(UK) England;A650;eng.a0650;Route removed from A6037 and A6177 and relocated onto A6181 and Manningham section between A6037 and A6177
+2026-04-30;(UK) England;A650 (Manningham);eng.a0650;Route deleted (merged into main section)
+2026-04-30;(UK) England;A6037;eng.a6037;Route extended at south end from A6117 to A650/A6181
+2026-04-30;(UK) England;A6181;eng.a6181;Route truncated at west end from A647/A650 to A641/A647 junction and extended at east end from A6037 to Bank Street
+2026-04-24;(UK) England;A230;eng.a0230;Route truncated at north end from A231 to A2
+2026-04-24;(UK) England;B2003;eng.b2003;Route added
 2026-02-27;(UK) England;A4199;;Route removed
 2026-02-27;(UK) England;B3306;eng.b3306;Route truncated at east end from Bunkers Hill to B3311
 2026-02-27;(UK) England;B3311;eng.b3311;Route extended at east end from B3306 to A3074
@@ -7975,6 +8044,14 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2026-05-26;(USA) Arkansas;AR 274;ar.ar274;Re-routed through Fordyce.
+2026-05-26;(USA) Arkansas;AR 8;ar.ar008;Re-routed through Fordyce.
+2026-05-26;(USA) Arkansas;AR 226B;ar.ar226b;Route added.
+2026-05-26;(USA) Arkansas;AR 318Y;ar.ar318y;Route added.
+2026-05-26;(USA) Arkansas;AR 137S;;Route deleted.
+2026-05-18;(USA) Arkansas;AR 190 (Tull);;Route deleted.
+2026-05-16;(USA) Arkansas;AR 224 (Swifton);ar.ar224;Route truncated to AR 226.
+2026-05-16;(USA) Arkansas;AR 265 (Pea Ridge);;Route deleted.
 2026-01-10;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Route truncated to Battlefield Park Road in Prairie Grove.
 2025-12-20;(USA) Arkansas;AR 83S ((West) Monticello);ar.ar083swmo;New route.
 2025-12-18;(USA) Arkansas;AR 170 (Farmington);ar.ar170far;Route truncated to the Farmington City Limit boundary.
@@ -8219,6 +8296,10 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
+2026-05-24;(USA) Connecticut;CT 10;ct.ct010;Extended south from I-95 to southern intersection with Kimberly Ave. This change is due to project reconfiguring the interchange with I-95 that consolidated exits 44 and 45 into one. 
+2026-05-09;(USA) Connecticut;I-291;ct.i291;Relabeled exits from sequential to distance-based.
+2026-05-09;(USA) Connecticut;I-384;ct.i384;Relabeled exits from sequential to distance-based.
+2026-05-09;(USA) Connecticut;CT 15;ct.ct015;Relabeled exits from sequential to distance-based on the Merritt and Wilbur Cross Parkways.
 2025-02-13;(USA) Connecticut;CT 2;ct.ct002;Relabeled exits from sequential to mileage-based.
 2025-02-13;(USA) Connecticut;CT 11;ct.ct011;Relabeled exits from sequential to mileage-based.
 2024-09-25;(USA) Connecticut;CT 8;ct.ct008;Relabeled exits from sequential to mileage-based.
@@ -8263,6 +8344,7 @@ date;region;route;root;description
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2025-03-07;(USA) District of Columbia;I-295;dc.i295;Exit number for Suitland Parkway renumbered from 3 to 4. If you were using the waypoint label "4" for travels ending at the 11th Street Bridges (now "5"), you will need to update your .list file.
 2022-11-10;(USA) District of Columbia;Beach Drive;dc.beadr;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2026-05-26;(USA) Florida;Nocatee Parkway;fl.nocpkwy;Added route.
 2026-02-03;(USA) Florida;FL 312;fl.fl312;Extended westward from intersection with FL 207 to it's new western end at an intersection with Holmes Blvd.
 2026-02-03;(USA) Florida;FL 470;;Route deleted, now signed as part of CR 470 once again.
 2026-01-14;(USA) Florida;FL 321;fl.fl321;Added route.
@@ -8414,6 +8496,8 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2026-05-11;(USA)Illinois;IL 110;il.il110;Corrected US67_N to US67_S at junction north of Macomb
+2026-05-09;(USA) Illinois;IL 390;il.il390;Reversed numbers of 7A (IL 19) and 7B (Gary Avenue)
 2025-05-30;(USA) Illinois;IL 64 Truck (Elmhurst);il.il064trkelm;Rerouted to follow IL 83 and US 20
 2024-07-09;(USA) Illinois;US 12;il.us012;Removed from Lee Street between Elk Boulevard and Rand Road and relocated onto Elk Boulevard and South Des Plaines River Road in Des Plaines
 2024-07-09;(USA) Illinois;US 45;il.us045;Removed from Lee Street between Elk Boulevard and Rand Road and relocated onto Elk Boulevard and South Des Plaines River Road in Des Plaines
@@ -8614,8 +8698,12 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
-2026-03-28;(USA) Kentucky;US 460;ky.us460;Realigned west of Salyersville between OldUS4607_W & OldUS4607_E
-2026-03-28;(USA) Kentucky;KY 7;ky.ky0007;Realigned west of Salyersville between OldUS4607_W & OldUS4607_E
+2026-05-05;(USA) Kentucky;Hal Rogers Parkway;ky.halrogpkwy;Extended at east end along KY 80 from Exit 59 to US23/460
+2026-05-05;(USA) Kentucky;KY 1052;ky.ky1052;Route added
+2026-05-05;(USA) Kentucky;KY 1334;ky.ky1334;Route added along former segment of KY 1286
+2026-05-05;(USA) Kentucky;KY 2529;;Route deleted
+2026-03-28;(USA) Kentucky;US 460;ky.us460;Realigned west of Salyersville between OldUS460/7_W & OldUS460/7_E
+2026-03-28;(USA) Kentucky;KY 7;ky.ky0007;Realigned west of Salyersville between OldUS460/7_W & OldUS460/7_E
 2026-03-28;(USA) Kentucky;KY 986;ky.ky0986;Removed from Cross St and Scott St and relocated onto Tygart St to intersect US 60 at the KY 2 junction
 2026-03-28;(USA) Kentucky;KY 2528;;Route deleted
 2026-03-28;(USA) Kentucky;KY 3046;ky.ky3046;Route added
@@ -8998,6 +9086,10 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2026-05-26;(USA) Louisiana;LA 502;;Route deleted
+2026-05-26;(USA) Louisiana;LA 3169 (West Colfax);;Route deleted
+2026-05-26;(USA) Louisiana;LA 3169 (East Colfax);;Route deleted
+2026-05-03;(USA) Louisiana;LA 3019;;Route deleted
 2026-04-10;(USA) Louisiana;LA 3037;;Route deleted
 2026-04-10;(USA) Louisiana;LA 3102;;Route deleted
 2026-04-10;(USA) Louisiana;LA 3165;;Route deleted
@@ -9130,6 +9222,7 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2026-05-24;(USA) Maryland;I-395;md.i395;Extended north one block to Camden Street to match official FHWA definition.
 2024-09-05;(USA) Maryland;MD 430;md.md430;Added route
 2024-03-16;(USA) Maryland;MD 219;md.md219;Added route
 2023-11-09;(USA) Maryland;MD 835A;md.md835a;MD 835 renumbered to MD 835A
@@ -9327,6 +9420,8 @@ date;region;route;root;description
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2026-05-03;(USA) Missouri;MO 740;mo.mo740;Extended east from US 63 to Maguire Boulevard
+2026-05-03;(USA) Missouri;I-44 BL (Lebanon);mo.i044blleb;Route re-added
 2026-02-06;(USA) Missouri;US 67 Business (Fredericktown);mo.us067busfre;Removed from South Main Street and West Main Street between College Avenue and Pine Castle Estates Boulevard and relocated onto West College Street and Armory Street. Corrected MurMillRd_N->MurMillRd_S.
 2026-02-06;(USA) Missouri;US 67 Business (Cherokee Pass);mo.us067busche;Removed from MOsC between US 67 and Murry Mill Road and relocated onto Murry Mill Road southward to US 67. Renamed OldUS67_S->MOsC_Mad.
 2025-07-12;(USA) Missouri;MO 5;mo.mo005;Removed from old road through Decaturville, between Camdenton and the Laclede County line, and relocated onto new alignment to the west between OlaDr and MO7/5Bus.
@@ -9582,6 +9677,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2026-05-26;(USA) New York;I-690;ny.i690;Relabeled exits from sequential to distance-based.
+2026-05-25;(USA) New York;I-690;ny.i690;Truncated west end to Exit 1, route does not continue on the ramp to the Thruway
 2026-01-21;(USA) New York;NY 481;ny.ny481;Relabeled exits from sequential to mileage-based.
 2026-01-21;(USA) New York;I-481;ny.i481;Relabeled exits from sequential to mileage-based on future I-81 mileage.
 2024-12-28;(USA) New York;NY 12E;ny.ny012e;Removed from Main St and Bridge St and relocated onto the 2024 Black River bridge between Main St and NY 12F.
@@ -10013,6 +10110,7 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2026-05-26;(USA) Oklahoma;OK 20;ok.ok020;Re-routed through Claremore.
 2025-03-21;(USA) Oklahoma;US 60;ok.us060;Circa 2010-11: Removed from demolished roadway and relocated onto Veterans Memorial Hwy to the immediate east between waypoint *OldUS60_A & CR 4151. Removed from Old Bartlesville Rd & CR 2809 and relocated onto Veterans Memorial Hwy & Bartlesville Rd between CR 4151 & CR 2809. Circa 2013-15: Removed from (partially demolished) Old Bartlesville Rd and relocated onto Bartlesville Rd between waypoints *OldUS60_B & *OldUS60_F. Circa 2022-25: Relocated northward between *OldUS60_G & *OldUS60_H and southward between *OldUS60_H  & *OldUS60_I.
 2025-03-21;(USA) Oklahoma;US 70;ok.us070;Circa 2015, Removed from demolished roadway and relocated about 50 meters northward between waypoints *OldUS70_W & *OldUS70_E.
 2025-03-21;(USA) Oklahoma;OK 99;ok.ok099;Circa 2010-11, Removed from demolished roadway, CR 4151 & some more demolished roadway and relocated eastward onto Veterans Memorial Hwy between waypoints *OldOK99_B & *OldOK99_C.
@@ -10477,6 +10575,9 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-05-26;(USA) Texas;US 59 Business (Diboll);tx.us059busdib;Route added.
+2026-05-26;(USA) Texas;US 59;tx.us059;Re-routed, new bypass around Diboll.
+2026-05-26;(USA) Texas;TX Loop 255;tx.lp0255;Route extended to FM 1520.
 2025-07-06;(USA) Texas;US 181;tx.us181;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
 2025-07-06;(USA) Texas;TX 35;tx.tx035;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
 2025-03-21;(USA) Texas;I-69;tx.i069;Extended southward from Exit 94 to TX Spur 10.
@@ -10837,6 +10938,7 @@ date;region;route;root;description
 2016-11-26;(USA) Washington;WA 92;wa.wa092;East end removed from Granite Falls Highway between Quarry Road and Granite Avenue, and relocated onto Quarry Road between Granite Falls Highway and Mountain Loop Highway
 2016-07-28;(USA) Washington;I-90 Business Loop (Spokane Valley);wa.i090blspo;Route added
 2016-05-01;(USA) Washington;US 395 Future (Spokane);wa.us395futspo;New Route
+2026-04-25;(USA) West Virginia;US 250 Truck (Moundsville);;Deleted route, as it's no longer signed.
 2026-02-15;(USA) West Virginia;WV 31;wv.wv031;Removed from multiplex with WV 2, and relocated slightly south onto a new alignment between CR 16 (Saint Mary's Pike) and WV 2.
 2026-01-06;(USA) West Virginia;WV 68;wv.wv068;Route truncated at the southern end from the intersection of US 33/WV 2 to the intersection just to the north of US 33/Ravenswood Bridge.
 2025-12-24;(USA) West Virginia;WV 601;wv.wv601;Removed from the Kanawha Turnpike and part of Jefferson Road, and relocated onto a brand new bridge that bypasses it slightly to the east, between the points of 'KanTpke' & 'WasSt'.
@@ -10877,6 +10979,8 @@ date;region;route;root;description
 2015-11-07;(USA) West Virginia;WV 85;wv.wv085;Extended north from WV 17 up to US 119
 2015-09-07;(USA) West Virginia;US 48;wv.us048;Extended west from the access road to WV 42/WV 93 (ToWV42) to the County Line of Grant and Tucker (Tuc/Gra).
 2015-09-07;(USA) West Virginia;WV 93;wv.wv093;Relocated route just outside of Bismarck from the now abandoned old road and to slightly to the north onto the new 4-lane US 48 Corridor H between a new intersection with US 48 (US48_E) and the County Line of Grant & Tucker (US48_Gra)
+2026-05-09;(USA) Wisconsin;US 51 Business (Stevens Point);wi.us051busste;Restored route along Post Road, Church Street, and Division Street to I-39
+2026-05-03;(USA) Wisconsin;US 18;wi.us018;Truncated east end by removing segment along Michigan Street from Lincoln Memorial Drive to Milwaukee/Broadway one-way pair, as the route does NOT end at I-794
 2025-12-23;(USA) Wisconsin;US 51 Business (Wausau);wi.us051buswau;Removed from Bridge Street and 5th/6th Street pair and rerouted onto 3rd/1st avenues and CR N (Thomas Street) between Bridge and Thomas streets
 2025-12-23;(USA) Wisconsin;WI 52;wi.wi052;Removed from Highway 52 Parkway, Stewart Avenue, Scott/Forest streets, and 5th/6th streets between WI 29 and Bridge Street in Wausau and relocated onto Bridge Street to end at US 51
 2025-07-09;(USA) Wisconsin;US 63;wi.us063;Removed from part of US 53 and road now named Service Loop in Trego and relocated onto Trego bypass and junction with US 53 farther south. (relocation between points 172 and *OldUS63_Tre)
