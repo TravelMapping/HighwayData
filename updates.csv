@@ -1734,6 +1734,13 @@ date;region;route;root;description
 2015-09-09;(France) Hauts-de-France;Rocade Nord Ouest, Lille;frahdf.m065259;New Route
 2015-09-09;(France) Hauts-de-France;Voie Rapide Urbane, Roubaix;frahdf.m065659;New Route
 2026-05-20;(France) Île-de-France;N301;;Route deleted
+2026-05-27;(France) Île-de-France;D125-78;fraidf.d012578;Route truncated at north end from Moisson to Route de Mousseaux
+2026-05-27;(France) Île-de-France;D1022-78;fraidf.d102278;New Route
+2026-05-25;(France) Île-de-France;D344P-77;fraidf.d0344p77;Route extended at south end from A4 to holiday village entrance
+2026-05-25;(France) Île-de-France;D364-77;fraidf.d036477;New Route
+2026-05-25;(France) Île-de-France;D619-77;fraidf.d061977;Route relocated from through Guignes, and onto new southern bypass between D353 and east of D47
+2026-05-25;(France) Île-de-France;D2619-77;fraidf.d261977;New Route (former D619)
+2026-05-25;(France) Île-de-France;D1-92 (Boulogne-Billancourt);fraidf.d000192;Route merged into main route
 2026-01-13;(France) Île-de-France;D201-78;fraidf.d020178;Route relocated from Rue de Limetz and Rue de Bennecourt, and onto Rue de Villez, Route des Vignes, Rue de l'Epte, Rue de Port and Rue de la Mairie between Bennecourt and Limetz-Villez
 2025-11-19;(France) Île-de-France;D80-92;fraidf.d008092;New Route
 2025-08-10;(France) Île-de-France;Antenne de Chilly-Mazarin;fraidf.a126;Route renamed to A126
@@ -7437,6 +7444,8 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2026-05-27;(UK) England;A5 (Milton Keynes);eng.a0005;Route removed from Watling Street and London Road in Towcester and relocated onto Towcester Relief Road and A43 between northern junction with Watling Street and northern junction with A43
+2026-05-27;(UK) England;A606;eng.a0606;Route removed from Burton Road and Nottingham Road and relocated onto Pork Pie Way between northern junction with Burton Road and southern junction with Nottingham Road
 2026-05-07;(UK) England;A1290;eng.a1290;Route extended at east end from A1018 to A183
 2026-05-02;(UK) England;A2100;eng.a2100;Route truncated at south end from A21/Junction Road junction to B2093 junction and extended at south end from B2093 junction to A21/A28 junction
 2026-04-30;(UK) England;A641;eng.a0641;Route truncated at north end from A6181 to A647
@@ -8035,6 +8044,13 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2026-05-27;(USA) Arkansas;I-440;ar.i440;Route extended to US 67/167.
+2026-05-27;(USA) Arkansas;AR 440;;Route deleted, now signed as I-440.
+2026-05-26;(USA) Arkansas;AR 274;ar.ar274;Re-routed through Fordyce.
+2026-05-26;(USA) Arkansas;AR 8;ar.ar008;Re-routed through Fordyce.
+2026-05-26;(USA) Arkansas;AR 226B;ar.ar226b;Route added.
+2026-05-26;(USA) Arkansas;AR 318Y;ar.ar318y;Route added.
+2026-05-26;(USA) Arkansas;AR 137S;;Route deleted.
 2026-05-18;(USA) Arkansas;AR 190 (Tull);;Route deleted.
 2026-05-16;(USA) Arkansas;AR 224 (Swifton);ar.ar224;Route truncated to AR 226.
 2026-05-16;(USA) Arkansas;AR 265 (Pea Ridge);;Route deleted.
@@ -8330,6 +8346,7 @@ date;region;route;root;description
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2025-03-07;(USA) District of Columbia;I-295;dc.i295;Exit number for Suitland Parkway renumbered from 3 to 4. If you were using the waypoint label "4" for travels ending at the 11th Street Bridges (now "5"), you will need to update your .list file.
 2022-11-10;(USA) District of Columbia;Beach Drive;dc.beadr;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2026-05-26;(USA) Florida;Nocatee Parkway;fl.nocpkwy;Added route.
 2026-02-03;(USA) Florida;FL 312;fl.fl312;Extended westward from intersection with FL 207 to it's new western end at an intersection with Holmes Blvd.
 2026-02-03;(USA) Florida;FL 470;;Route deleted, now signed as part of CR 470 once again.
 2026-01-14;(USA) Florida;FL 321;fl.fl321;Added route.
@@ -9071,6 +9088,9 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2026-05-26;(USA) Louisiana;LA 502;;Route deleted
+2026-05-26;(USA) Louisiana;LA 3169 (West Colfax);;Route deleted
+2026-05-26;(USA) Louisiana;LA 3169 (East Colfax);;Route deleted
 2026-05-03;(USA) Louisiana;LA 3019;;Route deleted
 2026-04-10;(USA) Louisiana;LA 3037;;Route deleted
 2026-04-10;(USA) Louisiana;LA 3102;;Route deleted
@@ -9515,6 +9535,7 @@ date;region;route;root;description
 2017-09-03;(USA) Montana;I-94 BL (Hysham);;Route deleted
 2015-11-02;(USA) Montana;I-94 BL (Wibaux);;Route deleted
 2015-08-03;(USA) Montana;US 93 Alternate (Kalispell);mt.us093altkal;New Route
+2026-05-27;(USA) Nebraska;L56D;ne.l56d;Route extended to "END" sign south of I-80 by approximately 500 feet.
 2024-07-07;(USA) Nebraska;S27E;ne.s27e;Route added.
 2024-06-21;(USA) Nebraska;US 275;ne.us275;Removed from Railroad Street and relocated onto the southwestern Scribner bypass between waypoints *OldUS275_W and *OldUS275_E.
 2024-06-21;(USA) Nebraska;NE 91;ne.ne091;Removed from Railroad Street and relocated onto the southwestern Scribner bypass between waypoints *OldUS275_W and *OldUS275_E.
@@ -9659,6 +9680,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2026-05-26;(USA) New York;I-690;ny.i690;Relabeled exits from sequential to distance-based.
+2026-05-25;(USA) New York;I-690;ny.i690;Truncated west end to Exit 1, route does not continue on the ramp to the Thruway
 2026-01-21;(USA) New York;NY 481;ny.ny481;Relabeled exits from sequential to mileage-based.
 2026-01-21;(USA) New York;I-481;ny.i481;Relabeled exits from sequential to mileage-based on future I-81 mileage.
 2024-12-28;(USA) New York;NY 12E;ny.ny012e;Removed from Main St and Bridge St and relocated onto the 2024 Black River bridge between Main St and NY 12F.
@@ -10090,6 +10113,7 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2026-05-26;(USA) Oklahoma;OK 20;ok.ok020;Re-routed through Claremore.
 2025-03-21;(USA) Oklahoma;US 60;ok.us060;Circa 2010-11: Removed from demolished roadway and relocated onto Veterans Memorial Hwy to the immediate east between waypoint *OldUS60_A & CR 4151. Removed from Old Bartlesville Rd & CR 2809 and relocated onto Veterans Memorial Hwy & Bartlesville Rd between CR 4151 & CR 2809. Circa 2013-15: Removed from (partially demolished) Old Bartlesville Rd and relocated onto Bartlesville Rd between waypoints *OldUS60_B & *OldUS60_F. Circa 2022-25: Relocated northward between *OldUS60_G & *OldUS60_H and southward between *OldUS60_H  & *OldUS60_I.
 2025-03-21;(USA) Oklahoma;US 70;ok.us070;Circa 2015, Removed from demolished roadway and relocated about 50 meters northward between waypoints *OldUS70_W & *OldUS70_E.
 2025-03-21;(USA) Oklahoma;OK 99;ok.ok099;Circa 2010-11, Removed from demolished roadway, CR 4151 & some more demolished roadway and relocated eastward onto Veterans Memorial Hwy between waypoints *OldOK99_B & *OldOK99_C.
@@ -10393,6 +10417,11 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2026-05-27;(USA) South Carolina;US 17 Alternate Truck (Summerville);sc.us017alttrksum;Rerouted onto new SC 91 south of SC 165 and unchanged north of there
+2026-05-27;(USA) South Carolina;SC 91;sc.sc091;Route added - north of SC 165 is a renumbering of SC 165
+2026-05-27;(USA) South Carolina;SC 165;sc.sc165;Route truncated to SC 91 - north of there is now SC 91
+2026-05-27;(USA) South Carolina;SC 81;sc.sc081;Route truncated to Valentine St in Greenville
+2026-05-27;(USA) South Carolina;SC 124;sc.sc124;Route truncated to Alice St in Greenville
 2025-07-04;(USA) South Carolina;SC 161 Business (York);;Route deleted
 2024-05-17;(USA) South Carolina;US 21;sc.us021;large wye intersection with SC 5 and SC 121 reconfigured to a T junction - between closed SC5_N and CowRd is the new routing
 2024-05-17;(USA) South Carolina;SC 121;sc.sc121;large wye intersection with SC 5 and US 21 reconfigured to a T junction - between closed SC5_S and CowRd is the new routing
@@ -10554,6 +10583,9 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-05-26;(USA) Texas;US 59 Business (Diboll);tx.us059busdib;Route added.
+2026-05-26;(USA) Texas;US 59;tx.us059;Re-routed, new bypass around Diboll.
+2026-05-26;(USA) Texas;TX Loop 255;tx.lp0255;Route extended to FM 1520.
 2025-07-06;(USA) Texas;US 181;tx.us181;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
 2025-07-06;(USA) Texas;TX 35;tx.tx035;South end removed from the 1959 Harbor Bridge between Burleson St and I-37 near Tancahua St, and relocated onto the 2025 Harbor Bridge between Burleson St and I-37 at Exit 1C.
 2025-03-21;(USA) Texas;I-69;tx.i069;Extended southward from Exit 94 to TX Spur 10.
@@ -10816,6 +10848,7 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2026-05-27;(USA) Virginia;US 11;va.us011;Route moved off of I-81 from Exit 167 to Exit 168
 2026-01-24;(USA) Virginia;VA 393;va.va393;new route added
 2026-01-24;(USA) Virginia;VA 394;va.va394;new route added
 2025-10-01;(USA) Virginia;US 60 Truck (Richmond);;deleted 
