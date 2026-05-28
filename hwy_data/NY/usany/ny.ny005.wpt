@@ -14,7 +14,7 @@ NY60 http://www.openstreetmap.org/?lat=42.488255&lon=-79.329443
 HarRd http://www.openstreetmap.org/?lat=42.509407&lon=-79.281893
 CenRd http://www.openstreetmap.org/?lat=42.531643&lon=-79.237175
 MadAve http://www.openstreetmap.org/?lat=42.546378&lon=-79.176407
-CenAve http://www.openstreetmap.org/?lat=42.544508&lon=-79.167625
+US20Trk_W +CenAve http://www.openstreetmap.org/?lat=42.544508&lon=-79.167625
 +X01A http://www.openstreetmap.org/?lat=42.549676&lon=-79.164476
 +X01B http://www.openstreetmap.org/?lat=42.550966&lon=-79.157580
 US20_Sil http://www.openstreetmap.org/?lat=42.549196&lon=-79.149418
@@ -64,9 +64,9 @@ LakeRd http://www.openstreetmap.org/?lat=42.997507&lon=-78.435044
 NY77 http://www.openstreetmap.org/?lat=42.993065&lon=-78.406034
 ReadRd http://www.openstreetmap.org/?lat=42.995529&lon=-78.309925
 WorRd http://www.openstreetmap.org/?lat=43.001085&lon=-78.261044
-NY63_W http://www.openstreetmap.org/?lat=43.005698&lon=-78.205662
+NY63_N +NY63_W http://www.openstreetmap.org/?lat=43.005698&lon=-78.205662
 NY33/98 http://www.openstreetmap.org/?lat=43.000159&lon=-78.192186
-NY63_E http://www.openstreetmap.org/?lat=42.998119&lon=-78.187444
+NY63_S +NY63_E http://www.openstreetmap.org/?lat=42.998119&lon=-78.187444
 NY33_E http://www.openstreetmap.org/?lat=42.994917&lon=-78.164227
 NY237 http://www.openstreetmap.org/?lat=42.981717&lon=-78.073504
 EastBetRd http://www.openstreetmap.org/?lat=42.978373&lon=-78.009582
@@ -148,7 +148,7 @@ GeoTayRd http://www.openstreetmap.org/?lat=43.045401&lon=-75.951662
 NY290 http://www.openstreetmap.org/?lat=43.048961&lon=-75.930612
 TusRd http://www.openstreetmap.org/?lat=43.050200&lon=-75.909004
 NY173_E http://www.openstreetmap.org/?lat=43.042469&lon=-75.868664
-NY13_S http://www.openstreetmap.org/?lat=43.044390&lon=-75.866776
+NY13_S http://www.openstreetmap.org/?lat=43.044078&lon=-75.866880
 LakRd +TusRd_W http://www.openstreetmap.org/?lat=43.054026&lon=-75.866046
 CanRd http://www.openstreetmap.org/?lat=43.054371&lon=-75.846841
 NY13_N http://www.openstreetmap.org/?lat=43.069703&lon=-75.752063
@@ -174,12 +174,13 @@ CouSt http://www.openstreetmap.org/?lat=43.101829&lon=-75.241156
 I-790 http://www.openstreetmap.org/?lat=43.105965&lon=-75.238967
 NY8/12 http://www.openstreetmap.org/?lat=43.122005&lon=-75.230727
 GenSt +I-90 http://www.openstreetmap.org/?lat=43.114831&lon=-75.212402
-LelAve http://www.openstreetmap.org/?lat=43.112701&lon=-75.207338
+LelAve_S +LelAve http://www.openstreetmap.org/?lat=43.112701&lon=-75.207338
 HerRd_W http://www.openstreetmap.org/?lat=43.114676&lon=-75.205579
 BriAve http://www.openstreetmap.org/?lat=43.107995&lon=-75.169307
 WinRd http://www.openstreetmap.org/?lat=43.091864&lon=-75.133824
 MilGroRd http://www.openstreetmap.org/?lat=43.058823&lon=-75.082841
 RaiSt http://www.openstreetmap.org/?lat=43.044068&lon=-75.060954
++X641433 http://www.openstreetmap.org/?lat=43.028863&lon=-75.043863
 NY51 http://www.openstreetmap.org/?lat=43.022188&lon=-75.029454
 GerSt http://www.openstreetmap.org/?lat=43.017373&lon=-75.010494
 NY28_S http://www.openstreetmap.org/?lat=43.022565&lon=-74.992933
