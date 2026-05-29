@@ -35,7 +35,6 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D45` is indicated on OSM to be extended at west end but not confirmed by GM, GSV nor wikisara
 - `D47` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
 - `D51` is indicated on OSM and GM but I couldn't find signs on GSV
-- `D54` is indicated on OSM and GM but I couldn't find signs on GSV
 - `D66` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
 - `D67` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
 - `D127` is indicated on OSM to be extended at east end onto Avenue Garennes up to `D36`/`D91` but not confirmed by GM/GSV/wikisara
