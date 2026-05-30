@@ -1734,6 +1734,9 @@ date;region;route;root;description
 2015-09-09;(France) Hauts-de-France;Rocade Nord Ouest, Lille;frahdf.m065259;New Route
 2015-09-09;(France) Hauts-de-France;Voie Rapide Urbane, Roubaix;frahdf.m065659;New Route
 2026-05-20;(France) Île-de-France;N301;;Route deleted
+2026-05-28;(France) Île-de-France;D1-78 (Triel-sur-Seine);fraidf.d0190b78;Route renamed to D190B-78
+2026-05-27;(France) Île-de-France;D125-78;fraidf.d012578;Route truncated at north end from Moisson to Route de Mousseaux
+2026-05-27;(France) Île-de-France;D1022-78;fraidf.d102278;New Route
 2026-05-25;(France) Île-de-France;D344P-77;fraidf.d0344p77;Route extended at south end from A4 to holiday village entrance
 2026-05-25;(France) Île-de-France;D364-77;fraidf.d036477;New Route
 2026-05-25;(France) Île-de-France;D619-77;fraidf.d061977;Route relocated from through Guignes, and onto new southern bypass between D353 and east of D47
@@ -8064,6 +8067,10 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2026-05-28;(USA) Arkansas;AR 23W;ar.ar023w;Route added.
+2026-05-28;(USA) Arkansas;AR 270;ar.ar270;Route added.
+2026-05-27;(USA) Arkansas;I-440;ar.i440;Route extended to US 67/167.
+2026-05-27;(USA) Arkansas;AR 440;ar.i440;Route deleted, now signed as I-440.
 2026-05-26;(USA) Arkansas;AR 274;ar.ar274;Re-routed through Fordyce.
 2026-05-26;(USA) Arkansas;AR 8;ar.ar008;Re-routed through Fordyce.
 2026-05-26;(USA) Arkansas;AR 226B;ar.ar226b;Route added.
@@ -8695,6 +8702,9 @@ date;region;route;root;description
 2015-08-17;(USA) Iowa;IA 92;ia.ia092;Removed from Grandview Avenue/Mississippi Drive in Muscatine and rerouted onto US 61 and IA 38/Park Avenue in and around Muscatine
 2015-08-17;(USA) Iowa;US 34;ia.us034;Removed from road extending westward from I-29 exit 32 into Nebraska and moved onto new expressway extending west from I-29 exit 35 to Nebraska state line
 2015-08-17;(USA) Iowa;US 69;ia.us069;Renamed point IA152->CRR35
+2026-05-29;(USA) Kansas;KS 99 Truck (Wamego);ks.ks099trkwam;New Route.
+2026-05-29;(USA) Kansas;KS 99 Truck (Frankfort);ks.ks099trkfra;New Route.
+2026-05-29;(USA) Kansas;KS 9 Truck (Frankfort);ks.ks009trkfra;New Route.
 2024-06-27;(USA) Kansas;US 54 Truck (El Dorado);ks.us054TrkElD;Extended counterclockwise from the old end at US 54 on East Central Ave to the new end at US 54 on South Main St at Kansas Ave.
 2024-06-27;(USA) Kansas;US 77 Truck (El Dorado);ks.us077TrkElD;Extended counterclockwise from the old end at US 77 on North Main St to the new end at US 54 on South Main St at Kansas Ave.
 2024-06-27;(USA) Kansas;KS 254 Truck (El Dorado);ks.ks254TrkElD;Route added.
@@ -9553,6 +9563,7 @@ date;region;route;root;description
 2017-09-03;(USA) Montana;I-94 BL (Hysham);;Route deleted
 2015-11-02;(USA) Montana;I-94 BL (Wibaux);;Route deleted
 2015-08-03;(USA) Montana;US 93 Alternate (Kalispell);mt.us093altkal;New Route
+2026-05-27;(USA) Nebraska;L56D;ne.l56d;Route extended to "END" sign south of I-80 by approximately 500 feet.
 2024-07-07;(USA) Nebraska;S27E;ne.s27e;Route added.
 2024-06-21;(USA) Nebraska;US 275;ne.us275;Removed from Railroad Street and relocated onto the southwestern Scribner bypass between waypoints *OldUS275_W and *OldUS275_E.
 2024-06-21;(USA) Nebraska;NE 91;ne.ne091;Removed from Railroad Street and relocated onto the southwestern Scribner bypass between waypoints *OldUS275_W and *OldUS275_E.
@@ -9697,6 +9708,8 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2026-05-28;(USA) New York;FDR Drive;ny.fdroodr;Truncated from I-478 (Brooklyn-Battery/Hugh Carey Tunnel approach) to junction with West Street at end of Battery Park Underpass
+2026-05-28;(USA) New York;NY 9A;ny.ny009a;Extended south from I-478 (Brooklyn-Battery/Hugh Carey Tunnel approach) to entrance to Battery Park Underpass, replacing segment formerly mapped as part of FDR Drive.
 2026-05-26;(USA) New York;I-690;ny.i690;Relabeled exits from sequential to distance-based.
 2026-05-25;(USA) New York;I-690;ny.i690;Truncated west end to Exit 1, route does not continue on the ramp to the Thruway
 2026-01-21;(USA) New York;NY 481;ny.ny481;Relabeled exits from sequential to mileage-based.
@@ -10434,6 +10447,11 @@ date;region;route;root;description
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Northbound direction removed from Post Road and relocated onto Greenwich Avenue and Veterans Memorial Drive between Centerville Road and US1 Business / RI 117 (Post Road).
 2017-04-24;(USA) Rhode Island;US 1;ri.us001;Removed from surface streets in Pawtucket's "Mixed-up Mile" and relocated onto I-95 between exits 27 and 28.
 2017-04-24;(USA) Rhode Island;RI 117;ri.ri117;Eastbound direction removed from Centerville Road and Post Road and relocated onto Veterans Memorial Drive and Post Road between RI 115 and Post Road. Westbound direction removed from Greenwich Avenue (US 1) and Centerville Road and relocated onto Veterans Memorial Drive between US 1 / RI 5 and RI 115.
+2026-05-27;(USA) South Carolina;US 17 Alternate Truck (Summerville);sc.us017alttrksum;Rerouted onto new SC 91 south of SC 165 and unchanged north of there
+2026-05-27;(USA) South Carolina;SC 91;sc.sc091;Route added - north of SC 165 is a renumbering of SC 165
+2026-05-27;(USA) South Carolina;SC 165;sc.sc165;Route truncated to SC 91 - north of there is now SC 91
+2026-05-27;(USA) South Carolina;SC 81;sc.sc081;Route truncated to Valentine St in Greenville
+2026-05-27;(USA) South Carolina;SC 124;sc.sc124;Route truncated to Alice St in Greenville
 2025-07-04;(USA) South Carolina;SC 161 Business (York);;Route deleted
 2024-05-17;(USA) South Carolina;US 21;sc.us021;large wye intersection with SC 5 and SC 121 reconfigured to a T junction - between closed SC5_N and CowRd is the new routing
 2024-05-17;(USA) South Carolina;SC 121;sc.sc121;large wye intersection with SC 5 and US 21 reconfigured to a T junction - between closed SC5_S and CowRd is the new routing
@@ -10595,6 +10613,14 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-05-29;(USA) Texas;US 377;tx.us377;Re-routed in Denton, now follows I-35E and Loop 288.
+2026-05-29;(USA) Texas;US 77;tx.us077;Re-routed in Denton, now follows I-35 and I-35E.
+2026-05-29;(USA) Texas;US 77 Spur (Denton);tx.us077sprden;Route added.
+2026-05-29;(USA) Texas;US 377 Spur (Denton);tx.us377sprden;Route added.
+2026-05-29;(USA) Texas;TX Loop 332;;Route deleted.
+2026-05-28;(USA) Texas;US 377 Business (Cresson);tx.us377buscre;Route added.
+2026-05-28;(USA) Texas;US 377;tx.us377;Re-routed, new bypass around Cresson.
+2026-05-28;(USA) Texas;US 83 Spur (Peñitas);tx.us083sprpen;Route added.
 2026-05-26;(USA) Texas;US 59 Business (Diboll);tx.us059busdib;Route added.
 2026-05-26;(USA) Texas;US 59;tx.us059;Re-routed, new bypass around Diboll.
 2026-05-26;(USA) Texas;TX Loop 255;tx.lp0255;Route extended to FM 1520.
@@ -10860,6 +10886,7 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2026-05-27;(USA) Virginia;US 11;va.us011;Route moved off of I-81 from Exit 167 to Exit 168
 2026-01-24;(USA) Virginia;VA 393;va.va393;new route added
 2026-01-24;(USA) Virginia;VA 394;va.va394;new route added
 2025-10-01;(USA) Virginia;US 60 Truck (Richmond);;deleted 
