@@ -43,6 +43,9 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D173` south end is at km 0 post
 - `D317` is just a ramp of `D186`/`D307` interchange, not in HB
 
+*FRA-91 - Essonne:*
+- `D24` routing through Limours not clear. OSM and GM have different routings. 2025 GSV does not show signs. Gone with GM.
+
 *FRA-92 - Hauts-de-Seine:*
 - wikisara overview is very incomplete, route articles exist for more routes, added everything that is confirmed by OSM and GM or GSV
 - `D13` is not indicated on OSM but on GM and GSV
