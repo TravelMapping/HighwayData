@@ -55,8 +55,6 @@ FRA-95 = `VdO` = Val-d'Oise
 - Many routes are still signed with their old `N` route numbering
 - `D12` is only indicated on geoportal
 - `D18` (former `A186` is permanently closed), not in HB
-- `D40` segment between `D932` and `D41` is indicated being `D41` on geoportal and GM but there is a `D40` sign on 2011 and 2018 GSV and it's also indicated being `D40` on OSM
-- `D402` is only indicated on 2011 and 2018 GSV, and on geoportal
 
 *FRA-94 - Val-de-Marne:*
 - wikisara overview is incomplete, route articles exist for much more routes, added everything that is confirmed by OSM and GM
