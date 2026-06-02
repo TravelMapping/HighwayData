@@ -227,7 +227,7 @@ date;region;route;root;description
 2026-05-31;Azerbaijan;AH5;aze.ah005;Route removed from  and relocated onto M2 between Heydar Aliyev Kucasi and Meemmed Yaqubov
 2026-05-31;Azerbaijan;AH8;aze.ah008;Route removed from Baku-Quba-Rusiya Yolu and relocated onto M1 between Quxuroba and Yasma Stansiyasi and from surface road and relocated onto M3 between Kursangi and Iran border
 2026-05-31;Azerbaijan;E60;aze.e60;Route removed from  and relocated onto M2 between Heydar Aliyev Kucasi and Meemmed Yaqubov
-2026-05-31;Azerbaijan;E117;aze.e117;Route removed from Baku-Quba-Rusiya Yolu and relocated onto M1 between Quxuroba and Yasma Stansiyasi and from surface road and relocated onto M3 between Kursangi and Iran border
+2026-05-31;Azerbaijan;E119;aze.e119;Route removed from Baku-Quba-Rusiya Yolu and relocated onto M1 between Quxuroba and Yasma Stansiyasi and from surface road and relocated onto M3 between Kursangi and Iran border
 2026-05-31;Azerbaijan;M1;aze.m001;Route removed from Baku-Quba-Rusiya Yolu and relocated onto Avtomobil between Quxuroba and Yasma Stansiyasi
 2026-05-31;Azerbaijan;M2;aze.m002;Route removed from  and relocated onto bypass between Heydar Aliyev Kucasi and Meemmed Yaqubov
 2026-05-31;Azerbaijan;M3;aze.m003;Route removed from surface road and relocated onto motorway between Kursangi and Iran border
@@ -1075,6 +1075,7 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2026-06-01;Czechia;I9 (Česká Lípa);cze.i009ces;New Route
 2026-04-29;Czechia;II245;cze.ii245;Route relocated from through Čelákovice, and onto new southern bypass between Mochovská and III2455
 2026-03-25;Czechia;II259;cze.ii259;Route extended at east end from Ptácká to I38
 2026-03-24;Czechia;E461;cze.e461;Route relocated from II640, and onto I42 and I43 in the north of Brno between Medlánky and Žabovřesky
@@ -1757,6 +1758,14 @@ date;region;route;root;description
 2015-09-09;(France) Hauts-de-France;Boulevard Péripherique Est de Lille;frahdf.m065159;New Route
 2015-09-09;(France) Hauts-de-France;Rocade Nord Ouest, Lille;frahdf.m065259;New Route
 2015-09-09;(France) Hauts-de-France;Voie Rapide Urbane, Roubaix;frahdf.m065659;New Route
+2026-06-01;(France) Île-de-France;D117-91 (Longjumeau);fraidf.d011791;Route truncated at south end from Saint-Vrain to Brétigny-sur-Orge
+2026-06-01;(France) Île-de-France;D117-91 (Leudeville);fraidf.d011791leu;New Route (was part of the main route)
+2026-06-01;(France) Île-de-France;D63-92;fraidf.d006392;Route relocated from Avenue de la République and Boulevard de la Liberté, and onto Rue Perrotin in Châtillon
+2026-06-01;(France) Île-de-France;D63-92 (Châtillon);fraidf.d006392cha;New Route 
+2026-06-01;(France) Île-de-France;D72-92;fraidf.d007292;Route extended at south end from Avenue de la République to Rue Perrotin
+2026-06-01;(France) Île-de-France;D106-92;fraidf.d010692;Route extended at north end from D13 to the Val-d'Oise border
+2026-06-01;(France) Île-de-France;D20-93 (Aubervilliers);fraidf.d002093;Route extended at south end from Avenue Édouard Vaillant to D35T
+2026-06-01;(France) Île-de-France;D37-93 (Montreuil);fraidf.d003793;Route extended at west end from D38 to A3
 2026-05-20;(France) Île-de-France;N301;;Route deleted
 2026-05-28;(France) Île-de-France;D1-78 (Triel-sur-Seine);fraidf.d0190b78;Route renamed to D190B-78
 2026-05-27;(France) Île-de-France;D125-78;fraidf.d012578;Route truncated at north end from Moisson to Route de Mousseaux
@@ -5032,6 +5041,14 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2026-06-01;Poland;E28;pol.e28;Route truncated at east end from DK91 to S6 exit 60 and route extended at east end from S6 exit 60 to S7 exit 11
+2026-06-01;Poland;E75;pol.e75;Route truncated at north end from ferry terminal at Nowy Port to A1 exit 1 and route extended at north end from A1 exit 1 to S7 exit 11
+2026-06-01;Poland;E77;pol.e77;Route extended at north end from S7 exit 9 to S7 exit 5
+2026-06-01;Poland;DK62;pol.dk062;Route removed from and relocated onto S7 and former DK85 between S7 exit 56 and Ulica Generala Wiktora Thommee
+2026-06-01;Poland;DK85;pol.dk062;Route removed (now part of DK62)
+2026-06-01;Poland;DW211;pol.dw211;Route extended at east end from Ulica Koscierska to Ulica Profesora Brunona Synaka
+2026-06-01;Poland;DW218 (Osowa);;Route deleted
+2026-06-01;Poland;DW501 (Gdansk);pol.dw501;Route extended at west end from Ulica Jarzebinowa to S7
 2026-04-29;Poland;A2 (Biala Podlaska);pol.a002bia;Route added
 2026-04-28;Poland;S6 (Gdańsk);pol.s006;Route extended at west end from exit 47 to exit 43
 2026-04-28;Poland;E28;pol.e28;Route removed from DW468 and relocated onto S6 between S6 exits 45 and 47
@@ -9530,7 +9547,6 @@ date;region;route;root;description
 2015-09-06;(USA) Missouri;US 169 Spur (Smithville);mo.us169sprsmi;Extended route south on Bridge St. from Route F to Church St.
 2015-09-06;(USA) Missouri;US 36 Business (Chillicothe);mo.us036buschi;Relocated from frontage road west of US 65, to US 65 between frontage road and US 36
 2015-09-06;(USA) Missouri;US 36 Spur (Utica);;Deleted route
-2026-06-01;(USA) Montana;Lewis & Clark Auto Trail (Missouri River);mt.lctrl;MT 117 relocated to west side of Nashua and "MT117" point relocated. Old alignment turnoff labeled "SarSt".
 2026-05-30;(USA) Montana;SR 438;mt.sr438;North end of route moved west to Glentana (Valley County) from Richland (Daniels County).
 2026-02-23;(USA) Montana;MT 117;mt.mt117;Route relocated to west side of Nashua. Old alignment turnoff labeled "FroSt".
 2026-02-23;(USA) Montana;US 2;mt.us002;MT 117 relocated to west side of Nashua and "MT117" point relocated. Old alignment turnoff labeled "SarSt".
@@ -9728,6 +9744,10 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2026-06-01;(USA) New York;US 11;ny.us011;Route shifted one block east in Cortland from Main St to Church St between Port Watson St and Clinton Ave. Route realigned to use a couplet of Clinton Ave/N Main St (northbound) and Grant St/N Church St (southbound).
+2026-06-01;(USA) New York;NY 13;ny.ny013;Route shifted one block east in Cortland from Main St to Church St between Port Watson St and Clinton Ave.
+2026-06-01;(USA) New York;NY 41;ny.ny041;Route shifted one block east in Cortland from Main St to Church St between Port Watson St and Clinton Ave. Route realigned to use a couplet of Clinton Ave/N Main St (northbound) and Grant St/N Church St (southbound).
+2026-06-01;(USA) New York;NY 222;ny.ny222;Route extended east in Cortland from Main St to Church St.
 2026-05-30;(USA) New York;NY 298;ny.ny298;Rerouted from Genant Dr/Sunset Ave and Court St to Bear St and North Salina St in Syracuse.
 2026-05-28;(USA) New York;FDR Drive;ny.fdroodr;Truncated from I-478 (Brooklyn-Battery/Hugh Carey Tunnel approach) to junction with West Street at end of Battery Park Underpass
 2026-05-28;(USA) New York;NY 9A;ny.ny009a;Extended south from I-478 (Brooklyn-Battery/Hugh Carey Tunnel approach) to entrance to Battery Park Underpass, replacing segment formerly mapped as part of FDR Drive.
@@ -10449,6 +10469,9 @@ date;region;route;root;description
 2016-01-28;(USA) Pennsylvania;PA 441;pa.pa441;Removed from Locust St and 3rd St and relocated onto a newly-constructed northerly extension of Front St, between Locust St and US 30
 2015-12-29;(USA) Pennsylvania;PA 980;pa.pa980;Removed from a closed roadway parallel to the Montour Trail to the southwest, and relocated onto a direct beeline connection between the new four-way intersection at PA 50 and a closed intersection, labeled *OldPA980, about 160 feet south.
 2015-10-26;(USA) Pennsylvania;US 209 Truck (Brodheadsville);pa.us209trkbro;Added route
+2026-06-01;(USA) Rhode Island;RI 138;ri.ri138;Removed from dismantled Pell Bridge Approach freeway stub, Admiral Kalfbus Rd, and W Main Rd, and rerouted along reconstructed Halsey St, JT Connell Hwy, and Coddington Hwy between points ToRI138A and RI114_S.
+2026-06-01;(USA) Rhode Island;RI 138A;ri.ri138a;West end extended along JT Connell Hwy from former Pell Bridge Approach at ToRI138 to the roundabout at Admiral Kalfbus Rd. RI138_W point moved from old to new western terminus.
+2026-06-01;(USA) Rhode Island;RI 238;;Route deleted
 2022-11-09;(USA) Rhode Island;I-95;ri.i095;Relabeled exits from sequential to mileage-based.
 2022-05-08;(USA) Rhode Island;RI 107;ri.ri107;Extended eastward from RI 102 to Victory Hwy.
 2020-10-04;(USA) Rhode Island;RI 24;ri.ri024;Removed from the 1956 Sakonnet River Bridge and relocated onto the 2012 Sakonnet River Bridge between exits 3 and 5.
@@ -10635,6 +10658,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-06-01;(USA) Texas;Westpark Tollway;tx.westlwy;Extended westward from FM 723 to FM 359/1463.
 2026-05-30;(USA) Texas;TX 5;tx.tx005;Route truncated north from East Exchange Pkwy to FM 2786 in Allen.
 2026-05-29;(USA) Texas;US 377;tx.us377;Re-routed in Denton, now follows I-35E and Loop 288.
 2026-05-29;(USA) Texas;US 77;tx.us077;Re-routed in Denton, now follows I-35 and I-35E.
