@@ -35,7 +35,6 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D45` is indicated on OSM to be extended at west end but not confirmed by GM, GSV nor wikisara
 - `D47` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
 - `D51` is indicated on OSM and GM but I couldn't find signs on GSV
-- `D54` is indicated on OSM and GM but I couldn't find signs on GSV
 - `D66` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
 - `D67` (short route to railroad station) is not signed (GSV) but indicated on OSM and GM, not in HB
 - `D127` is indicated on OSM to be extended at east end onto Avenue Garennes up to `D36`/`D91` but not confirmed by GM/GSV/wikisara
@@ -44,9 +43,11 @@ FRA-95 = `VdO` = Val-d'Oise
 - `D173` south end is at km 0 post
 - `D317` is just a ramp of `D186`/`D307` interchange, not in HB
 
+*FRA-91 - Essonne:*
+- `D24` routing through Limours not clear. OSM and GM have different routings. 2025 GSV does not show signs. Gone with GM.
+
 *FRA-92 - Hauts-de-Seine:*
 - wikisara overview is very incomplete, route articles exist for more routes, added everything that is confirmed by OSM and GM or GSV
-- `D13` is not indicated on OSM but on GM and GSV
 - `D913` extension not drafted (in HB as `N1013`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
 - `D992` extension not drafted (in HB as `N192`, see http://forum.travelmapping.net/index.php?topic=2976.msg14675#msg14675)
 
@@ -54,8 +55,6 @@ FRA-95 = `VdO` = Val-d'Oise
 - Many routes are still signed with their old `N` route numbering
 - `D12` is only indicated on geoportal
 - `D18` (former `A186` is permanently closed), not in HB
-- `D40` segment between `D932` and `D41` is indicated being `D41` on geoportal and GM but there is a `D40` sign on 2011 and 2018 GSV and it's also indicated being `D40` on OSM
-- `D402` is only indicated on 2011 and 2018 GSV, and on geoportal
 
 *FRA-94 - Val-de-Marne:*
 - wikisara overview is incomplete, route articles exist for much more routes, added everything that is confirmed by OSM and GM
