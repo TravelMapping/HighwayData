@@ -8648,6 +8648,8 @@ date;region;route;root;description
 2015-09-06;(USA) Illinois;IL 31;il.il031;Relocated in Algonquin from Main Street between Huntington Drive and Elmwood Court, west onto new bypass
 2015-09-06;(USA) Illinois;IL 62;il.il062;Extended west in Algongquin, along Algonquin Road from Main Street (old IL 31) to new IL 31 bypass
 2015-09-06;(USA) Illinois;IL 8;il.il008;Relocated in Peoria from Main Street, University Street, and MacArthur Highway, to Western Avenue and IL 116
+2026-06-13;(USA) Indiana;IN 15;in.in015;Removed from Canal St/Market St pair and Cass Stand relocated onto IN 13 and US 24 between CanSt/MarSt and US24_W
+2026-06-13;(USA) Indiana;IN 15 Truck (Wabash);;Route deleted
 2025-03-24;(USA) Indiana;Colonel H. Weir Cook Memorial Drive;in.hwcookdr;Route added
 2024-08-08;(USA) Indiana;I-69;in.i069;Extended at south end from I-465 in northern Indianapolis to Evansville, following the former routes of I-69 Future (Indianapolis) and I-69 (Wheatonville) and new construction between *OldIN37 and I-465 Exit 4. Alternate labels "0" at waypoint 200 and "156" at waypoint 356 deleted due to duplication in former I-69 (Wheatonville) file.
 2024-08-08;(USA) Indiana;I-69 (Wheatonville);in.i069;Route deleted (now part of I-69)
@@ -8793,6 +8795,11 @@ date;region;route;root;description
 2015-08-19;(USA) Kansas;KS 278;ks.ks278;Truncated west end from KS 170 to Fairlawn Rd.
 2015-08-19;(USA) Kansas;US 183 Bypass (Hays);ks.us183byphay;Truncated north end from I-70 Exit 159 (US 183) to I-70 Exit 157.
 2015-08-19;(USA) Kansas;US 40;ks.us040;Reverted November 2013 changes that are still not signed: Removed from KS 10 and US 59, and relocated back onto 6th Street.
+2026-06-13;(USA) Kentucky;KY 17;ky.ky0017;Removed from 20th St and Scott Blvd/Greenup St pair and relocated onto Madison Pk and KY 1120 between 20thSt and KY1120_E
+2026-06-13;(USA) Kentucky;KY 61;ky.ky0061;Removed from old alignment and relocated onto parallel alignment between repositioned KY1020 point (1/4 mile west) and *OldKY61_Gap to reflect realignment that occurred between 2015 and 2018
+2026-06-13;(USA) Kentucky;KY 1020;ky.ky1020;Extended at south end from *OldKY61 along former alignment of KY 61 to repositioned KY61 point (1/4 mile west)
+2026-06-13;(USA) Kentucky;US 52 Truck (Williamson, WV);ky.us052trkwil;Route added along US 119 and former US 119 Spur (Williamson, WV)
+2026-06-13;(USA) Kentucky;US 119 Spur (Williamson, WV);ky.us052trkwil;Route deleted (now part of US 52 Truck (Williamson, WV))
 2026-05-05;(USA) Kentucky;Hal Rogers Parkway;ky.halrogpkwy;Extended at east end along KY 80 from Exit 59 to US23/460
 2026-05-05;(USA) Kentucky;KY 1052;ky.ky1052;Route added
 2026-05-05;(USA) Kentucky;KY 1334;ky.ky1334;Route added along former segment of KY 1286
@@ -10114,6 +10121,10 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2026-06-13;(USA) Ohio;OH 177;oh.oh177;OH732_S point moved from Oxford Germantown Rd junction to Eaton Oxford Rd junction to match signage in place since 2013 or earlier
+2026-06-13;(USA) Ohio;OH 531;oh.oh531;West endpoint (OH 534 junction) moved 1/3 mile east
+2026-06-13;(USA) Ohio;OH 534;oh.oh534;North endpoint (OH 531 junction) moved 1/3 mile east
+2026-06-13;(USA) Ohio;OH 732;oh.oh732;Removed from Oxford Germantown Rd and relocated onto Eaton Oxford Rd between OxfGerRd and OH177_S to match signage in place since 2013 or earlier, OH177_S point moved to updated location
 2025-10-23;(USA) Ohio;OH 65;oh.oh065;Removed from Elizabeth St and one block of Wayne St and relocated onto Grand Ave and Main St in Lima, with WaySt_W point moving from the Wayne St/Elizabeth St intersection to the Wayne St/Main St intersection
 2025-03-16;(USA) Ohio;International Gateway;oh.intgtwy;Route added
 2024-07-27;(USA) Ohio;US 23;oh.us023;Removed from Livingston Ave between High St and 3rd St/4thSt and onto Fulton St/Mound St pair, which involved moving US33_S point from Livingston intersection with 3rd/4th to Fulton/Mound intersection with 3rd/4th and moving HighSt_S point from Livingston intersection with High to Fulton/Mound intersection with High (old routing between Fulton/Mound and Livingston is still part of US 33) 
@@ -10283,13 +10294,19 @@ date;region;route;root;description
 2015-09-10;(USA) Oklahoma;OK 351;ok.ok351;Added route. Renamed from Muskogee Turnpike.
 2015-09-10;(USA) Oklahoma;OK 364;ok.ok364;Added route. Renamed from Creek Turnpike.
 2025-05-30;(USA) Oregon;OR 339;or.or339;Truncated from OR 11 through Milton-Freewater to the northern city boundary at LambSt, route reversed to match Oregon north-south Highway mileage convention
-2025-05-28;(USA) Oregon;US97;or.us097;Route remove from demolished highway and US97Bus and relocated onto Bend Parkway between exits 134 and 135B. Exit 135A and RobRd are moved
-2025-05-28;(USA) Oregon;US97 Business (Bend);or.us097busben;Route truncated at north end from northern junction with US97 (at exit 135B) to former location of 'US20_W' (now 'EmpAve', with 'US20_W' moved slightly north) and route extended at north end from Empire Avenue to new 'US97_N' location just north of Cooley Road.
-2025-05-28;(USA) Oregon;OR42 Business (Coquille);or.or042buscoq;Route added
-2025-05-28;(USA) Oregon;OR255;or.or255;Route at extended north end from US101 at Pistol River (formerly labelled 'US101_N') to US101 at Cape Sebastian (new 'US101_N' point)
-2024-02-15;(USA) Oregon;OR182;;Route deleted
-2024-02-15;(USA) Oregon;OR200;or.or200;Route truncated at south end from Douglas County/Lane County line to Lane County/Benton County line
-2024-02-15;(USA) Oregon;OR205;or.or205;Route truncated at south end from End to Roaring Springs Road
+2025-05-28;(USA) Oregon;US 97;or.us097;Route remove from demolished highway and US97Bus and relocated onto Bend Parkway between exits 134 and 135B. Exit 135A and RobRd are moved
+2025-05-28;(USA) Oregon;US 97 Business (Bend);or.us097busben;Route truncated at north end from northern junction with US97 (at exit 135B) to former location of 'US20_W' (now 'EmpAve', with 'US20_W' moved slightly north) and route extended at north end from Empire Avenue to new 'US97_N' location just north of Cooley Road.
+2025-05-28;(USA) Oregon;OR 42 Business (Coquille);or.or042buscoq;Route added
+2025-05-28;(USA) Oregon;OR 70;or.or070;Route extended at east end along Market St from North St to Central St
+2025-05-28;(USA) Oregon;OR 250;or.or250;Route truncated at west end from closed road to Cape Blanco State Park boundary
+2025-05-28;(USA) Oregon;OR 25 ;or.or251;Route truncated at west end from walking path to museum parking lot
+2025-05-28;(USA) Oregon;OR 255;or.or255;Route extended at north end from US101 at Pistol River (formerly labelled 'US101_N') to US101 at Cape Sebastian (new 'US101_N' point)
+2025-05-28;(USA) Oregon;OR 380;or.or380;Route extended at east end along Paulina Suplee Rd from Paulina Valley Rd to east approach to Beaver Creek bridge
+2025-05-28;(USA) Oregon;OR 410;or.or410;Route extended at north end along Granite Hill Rd from Mill St to western city limits of Sumpter
+2025-05-28;(USA) Oregon;OR 542;or.or542;Route extended at south end along Poplar St and 4th Ave from 1st Ave to Railroad Ave
+2024-02-15;(USA) Oregon;OR 182;;Route deleted
+2024-02-15;(USA) Oregon;OR 200;or.or200;Route truncated at south end from Douglas County/Lane County line to Lane County/Benton County line
+2024-02-15;(USA) Oregon;OR 205;or.or205;Route truncated at south end from End to Roaring Springs Road
 2023-03-25;(USA) Oregon;US 30 Business (Saint Helens);or.us030bussth;Route added
 2021-07-03;(USA) Oregon;OR 132;or.or132;Added route (was Delta Highway)
 2021-07-03;(USA) Oregon;Delta Highway;or.or132;Deleted route (now OR 132)
@@ -10608,6 +10625,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2026-06-13;(USA) Tennessee;TN 11;tn.tn011;Removed from College St and relocated onto North 2nd Street between ColSt_E and US 31, and US31 point moved from College Street junction to North 2nd Street junction (drafted route was never correct)
 2026-03-28;(USA) Tennessee;I-124;tn.i124;Waypoint 1 changed to 1A and waypoint 1A changed to 1B
 2026-03-28;(USA) Tennessee;US27;tn.us027;Waypoint I-124(1) changed to I-124(1A) and waypoint I-124(1A) changed to I-124(1B)
 2026-03-28;(USA) Tennessee;TN 278;tn.tn278;Route added (was pre-2024 routing of US 78)
