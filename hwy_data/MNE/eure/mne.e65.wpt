@@ -20,7 +20,7 @@ DonOra http://www.openstreetmap.org/?lat=42.490359&lon=18.761601
 Prc http://www.openstreetmap.org/?lat=42.421682&lon=18.769927
 R1 +R22_N http://www.openstreetmap.org/?lat=42.416170&lon=18.765764
 M11 http://www.openstreetmap.org/?lat=42.391912&lon=18.737805
-R22_S http://www.openstreetmap.org/?lat=42.378551&lon=18.749928
+DonPut +R22_S http://www.openstreetmap.org/?lat=42.378551&lon=18.749928
 +X116202 http://www.openstreetmap.org/?lat=42.332820&lon=18.773017
 Las http://www.openstreetmap.org/?lat=42.306451&lon=18.804688
 +X757102 http://www.openstreetmap.org/?lat=42.285628&lon=18.805547
@@ -34,11 +34,7 @@ M10 http://www.openstreetmap.org/?lat=42.283072&lon=18.857603
 M2 http://www.openstreetmap.org/?lat=42.211228&lon=18.944421
 +X877047 http://www.openstreetmap.org/?lat=42.196573&lon=18.982658
 +X420433 http://www.openstreetmap.org/?lat=42.172246&lon=19.001799
-M1/M1.1 http://www.openstreetmap.org/?lat=42.153828&lon=19.032698
-+X960831 http://www.openstreetmap.org/?lat=42.159841&lon=19.023600
-+X748847 http://www.openstreetmap.org/?lat=42.199561&lon=19.052825
-+X655513 http://www.openstreetmap.org/?lat=42.226642&lon=19.053168
-M1.1/M2 http://www.openstreetmap.org/?lat=42.240337&lon=19.076643
+M1/M1.1 http://www.openstreetmap.org/?lat=42.240337&lon=19.076643
 R15 http://www.openstreetmap.org/?lat=42.247097&lon=19.089700
 +X293554 http://www.openstreetmap.org/?lat=42.263749&lon=19.096041
 +X596504 http://www.openstreetmap.org/?lat=42.307134&lon=19.179296
@@ -49,7 +45,7 @@ JugObi http://www.openstreetmap.org/?lat=42.395279&lon=19.239378
 M3 http://www.openstreetmap.org/?lat=42.420510&lon=19.254913
 BulJosSla http://www.openstreetmap.org/?lat=42.417691&lon=19.264376
 M4 http://www.openstreetmap.org/?lat=42.423932&lon=19.268260
-BulPerCet http://www.openstreetmap.org/?lat=42.435573&lon=19.275159
+R27 http://www.openstreetmap.org/?lat=42.435573&lon=19.275159
 UliSko http://www.openstreetmap.org/?lat=42.442560&lon=19.276854
 A1 http://www.openstreetmap.org/?lat=42.469960&lon=19.300618
 +X263771 http://www.openstreetmap.org/?lat=42.501624&lon=19.314051
@@ -88,7 +84,7 @@ R10 http://www.openstreetmap.org/?lat=42.955488&lon=19.576038
 +X277648 http://www.openstreetmap.org/?lat=42.988325&lon=19.550300
 +X993348 http://www.openstreetmap.org/?lat=42.993293&lon=19.592239
 +X306424 http://www.openstreetmap.org/?lat=42.982894&lon=19.652910
-R11 http://www.openstreetmap.org/?lat=42.989675&lon=19.678488
+M14 +R11 http://www.openstreetmap.org/?lat=42.989675&lon=19.678488
 +X287178 http://www.openstreetmap.org/?lat=42.984495&lon=19.706125
 M2/M5 http://www.openstreetmap.org/?lat=42.994133&lon=19.744534
 +X816566 http://www.openstreetmap.org/?lat=42.978687&lon=19.757152
@@ -96,17 +92,17 @@ M2/M5 http://www.openstreetmap.org/?lat=42.994133&lon=19.744534
 +X342895 http://www.openstreetmap.org/?lat=42.996848&lon=19.801580
 +X589506 http://www.openstreetmap.org/?lat=42.969738&lon=19.810581
 Crn http://www.openstreetmap.org/?lat=42.967258&lon=19.841394
-Pet http://www.openstreetmap.org/?lat=42.931479&lon=19.856458
+R12 +Pet http://www.openstreetmap.org/?lat=42.931986&lon=19.856458
 R2 http://www.openstreetmap.org/?lat=42.856510&lon=19.868238
 VojaMas http://www.openstreetmap.org/?lat=42.856116&lon=19.874976
-R12_W http://www.openstreetmap.org/?lat=42.857846&lon=19.878966
+R11_W http://www.openstreetmap.org/?lat=42.857846&lon=19.878966
 +X641640 http://www.openstreetmap.org/?lat=42.845482&lon=19.892850
 +X873433 http://www.openstreetmap.org/?lat=42.833304&lon=19.945378
 +X900870 http://www.openstreetmap.org/?lat=42.835428&lon=20.001040
 +X951905 http://www.openstreetmap.org/?lat=42.831258&lon=19.997177
 +X546924 http://www.openstreetmap.org/?lat=42.833335&lon=20.025887
 +X720077 http://www.openstreetmap.org/?lat=42.852907&lon=20.070176
-R12_E http://www.openstreetmap.org/?lat=42.851177&lon=20.094380
+R11_E http://www.openstreetmap.org/?lat=42.851177&lon=20.094380
 +X999571 http://www.openstreetmap.org/?lat=42.830361&lon=20.143604
 RifBur http://www.openstreetmap.org/?lat=42.845993&lon=20.175823
 R6 http://www.openstreetmap.org/?lat=42.853190&lon=20.182346
@@ -114,4 +110,4 @@ R6 http://www.openstreetmap.org/?lat=42.853190&lon=20.182346
 +X858639 http://www.openstreetmap.org/?lat=42.895271&lon=20.289388
 +X297129 http://www.openstreetmap.org/?lat=42.883386&lon=20.300031
 +X817582 http://www.openstreetmap.org/?lat=42.901339&lon=20.314021
-MNE/SRB http://www.openstreetmap.org/?lat=42.909920&lon=20.340457
+MNE/SRB http://www.openstreetmap.org/?lat=42.907964&lon=20.336080
