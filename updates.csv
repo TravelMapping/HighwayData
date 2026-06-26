@@ -5079,6 +5079,17 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2026-06-26;Poland;A2 (Siedlce);pol.a002sie;Route extended at east end from exit 41 to exit 43
+2026-06-26;Poland;A2 (Biala Podlaska);pol.a002bia;Route removed (now part of Siedlce portion)
+2026-06-26;Poland;S6;pol.s006;Route extended at west end from exit 43 to S3 exit 17
+2026-06-26;Poland;S6 (Słupsk);pol.s006;Route removed (now part of main section)
+2026-06-26;Poland;E28;pol.e28;Route removed from former DK6 and relocated onto S6 between S6 exits 38 and 43
+2026-06-26;Poland;E30;pol.e30;Route removed from DK92 and relocated onto A2 between A2 exits 41 and 43
+2026-06-26;Poland;DK2 (Siedlce);pol.dk002ter;Route truncated at west end from A2 exit 41 to A2 exit 43
+2026-06-26;Poland;DK6 (Lebork);;Route removed
+2026-06-26;Poland;DK57;pol.dk057;Route truncated at south end from DK61 to Przemiarowo and route extended at south end from Przemiarowo to relocated DK61
+2026-06-26;Poland;DK61;pol.dk061;Route removed from Ulica Warszawska, DW618 and Ulica Tadeusza Kosciuszki and relocated onto Obwodnicy Pułtuska between Karniewek and Lipa
+2026-06-27;Poland;DK92 (Siedlce);pol.dk092sie;Route extended at east end from A2 exit 41 to DK2
 2026-06-01;Poland;E28;pol.e28;Route truncated at east end from DK91 to S6 exit 60 and route extended at east end from S6 exit 60 to S7 exit 11
 2026-06-01;Poland;E75;pol.e75;Route truncated at north end from ferry terminal at Nowy Port to A1 exit 1 and route extended at north end from A1 exit 1 to S7 exit 11
 2026-06-01;Poland;E77;pol.e77;Route extended at north end from S7 exit 9 to S7 exit 5
@@ -6326,6 +6337,15 @@ date;region;route;root;description
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2026-06-26;Serbia;A5 (Cacak);srb.a005cac;Route added
+2026-06-26;Serbia;E761;srb.e761;Route removed from B22 and relocated onto A5 between B22_N and A2 exit 6
+2026-06-26;Serbia;B23;srb.b023;Route truncated at east end from A5 to B22
+2026-06-26;Serbia;B24;srb.b024;Route extended at west end from Ratina to B22
+2026-06-26;Serbia;R207;srb.r207;Route truncated at north end from B23 to R260
+2026-06-26;Serbia;R209;srb.r209;Route truncated at north end from B23 to R261
+2026-06-26;Serbia;R260;srb.r260;Route added
+2026-06-26;Serbia;R261;srb.r261;Route added
+2026-06-26;Serbia;R410;srb.r261;Route deleted (now part of R261)
 2026-01-02;Serbia;A5;srb.a005;Route extended at west end from exit 7 to exit 8
 2026-01-02;Serbia;E761;srb.e761;Route removed from B23 and R411 and relocated on B24 and A5 between eastern junction with B23 and A5 exit 7
 2025-10-31;Serbia;B38;srb.b038;Route extended at north end from northern junction with R215 to A5
@@ -6730,7 +6750,8 @@ date;region;route;root;description
 2019-09-17;(Spain) Canary Islands;TF5;espcn.tf005;Route extended at east end from Avenida Reyes Catolicos to TF4/11, and at west end from exit 39 to TF82
 2025-07-21;(Spain) Cantabria;A67a;espcb.a067a;Route added
 2025-04-18;(Spain) Cantabria;A67;espcb.a067;Route removed from A8 and relocated onto direct route between exits 181 and 185
-2025-10-16;(Spain) Castille and Leon;LE20;espcl.le020;Route reentered (old route part of N601)
+2026-06-26;(Spain) Castile and Leon;A11 (Aranda de Duero);espcl.a011ara;Route extended at west end from BUV2301 to N122
+2025-10-16;(Spain) Castile and Leon;LE20;espcl.le020;Route reentered (old route part of N601)
 2025-05-07;(Spain) Castile and Leon;LE20;espcl.le020;Route added
 2025-05-07;(Spain) Castile and Leon;NI (Gumiel de Izán);espcl.n001gum;Route truncated at south end from A1 exit 168 to Bodegas Portia
 2025-05-07;(Spain) Castile and Leon;NI (Oquillas);espcl.n001oqu;Route added
@@ -7585,6 +7606,7 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2026-06-26;(UK) England;A1331;eng.a1331;Route added
 2026-06-12;(UK) England;A689;eng.a0689;Route extended at west end from B5299 to M6 junction 42
 2026-05-27;(UK) England;A5 (Milton Keynes);eng.a0005;Route removed from Watling Street and London Road in Towcester and relocated onto Towcester Relief Road and A43 between northern junction with Watling Street and northern junction with A43
 2026-05-27;(UK) England;A606;eng.a0606;Route removed from Burton Road and Nottingham Road and relocated onto Pork Pie Way between northern junction with Burton Road and southern junction with Nottingham Road
