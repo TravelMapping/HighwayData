@@ -9985,6 +9985,11 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2026-06-26;(USA) North Carolina;NC 74;nc.i074hig;Deleted route - redesignated as part of I-74 (High Point)
+2026-06-26;(USA) North Carolina;NC 192;nc.nc192;Route added - was part of I-74 (High Point)
+2026-06-26;(USA) North Carolina;I-74 (High Point);nc.i074hig;truncated to Winston-Salem beltway, replaced by NC 192. Routed onto Winston-Salem beltway as new routing to Exit 53 and replacing all of NC 74
+2026-06-26;(USA) North Carolina;US 117;nc.us117;rerouted north of Goldsboro using new routing plus replaced bit of US 117 Bus Goldsboro.  New routing is between the points OldUS117_S and OldUS117_N
+2026-06-26;(USA) North Carolina;US 117 Bus (Goldsboro);nc.us117busgol;Route truncated to NC 111 where US 117 now comes in.  North of there is now US 117
 2026-01-24;(USA) North Carolina;US 258 Bus (Farmville);;Route deleted
 2026-01-24;(USA) North Carolina;NC 295;;Route deleted - is now I-295
 2026-01-24;(USA) North Carolina;I-295;nc.i295;extended south as new freeway to Exit 7 and replaced NC 295 to I-95
@@ -11085,6 +11090,8 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2026-06-26;(USA) Virginia;US 121;va.us121;Route extended - new construction to SR 604
+2026-06-26;(USA) Virginia;VA 460;va.va460;Route extended - new construction to SR 604
 2026-05-27;(USA) Virginia;US 11;va.us011;Route moved off of I-81 from Exit 167 to Exit 168
 2026-01-24;(USA) Virginia;VA 393;va.va393;new route added
 2026-01-24;(USA) Virginia;VA 394;va.va394;new route added
