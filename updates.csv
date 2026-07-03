@@ -1768,7 +1768,10 @@ date;region;route;root;description
 2015-09-09;(France) Hauts-de-France;Boulevard Péripherique Est de Lille;frahdf.m065159;New Route
 2015-09-09;(France) Hauts-de-France;Rocade Nord Ouest, Lille;frahdf.m065259;New Route
 2015-09-09;(France) Hauts-de-France;Voie Rapide Urbane, Roubaix;frahdf.m065659;New Route
-2026-06-13;(France) Île-de-France;D8A;fraidf.d0008a77;New Route
+2026-06-30;(France) Île-de-France;D4Z-95;fraidf.d0004z95;Route truncated at east end from Rue Abel Gance in Bernes-sur-Oise to D929
+2026-06-30;(France) Île-de-France;D9-95;fraidf.d000995;Route relocated from Rue de la Sucrerie and Rue de l'Ormet, and onto Rue du Général François Léon Ormancey in Villeron
+2026-06-30;(France) Île-de-France;D924Z-95;;Route deleted
+2026-06-13;(France) Île-de-France;D8A-77;fraidf.d0008a77;New Route
 2026-06-13;(France) Île-de-France;D34-77;fraidf.d003477;Route extended at south end from D934 to Chemin du Corps de Garde
 2026-06-13;(France) Île-de-France;D34A-77 (Chelles);fraidf.d0034a77;Route truncated at east end from D10P in Torcy to D934 in Vaires-sur-Marne
 2026-06-13;(France) Île-de-France;D34A-77 (Vaires-sur-Marne);fraidf.d0034a77vai;New Route
@@ -2946,6 +2949,7 @@ date;region;route;root;description
 2018-12-21;(Germany) Saxony;B96 (Hoyerswerda);;Route deleted, merged into main route
 2018-12-09;(Germany) Saxony;B96 (Hoyerswerda);;New Route
 2018-06-30;(Germany) Saxony;A72;deusn.a072;Route extended at north end from temporary junction with B93/B176 to exit 26
+2026-06-29;(Germany) Saxony-Anhalt;A14 (Colbitz);deust.a014col;Route extended at north end from exit 18 to exit 17
 2025-12-25;(Germany) Saxony-Anhalt;A36;deust.a036;Route extended at east end from A14 to L65
 2025-12-25;(Germany) Saxony-Anhalt;B6 (Köthen);deust.b006;Route truncated at west end from A14 to L65
 2024-12-23;(Germany) Saxony-Anhalt;L159 (Salzmünde);deust.l159sal;New Route
@@ -3185,6 +3189,7 @@ date;region;route;root;description
 2015-08-20;Greece;E94;grc.e94;Route truncated at west end from A8 exit 16 to A8 exit 15
 2015-08-20;Greece;E94;grc.e94;Route extended at east end from A6 junction 8 to the EO89
 2015-08-20;Greece;E962;grc.e962;Route extended at south end from eastern junction with the A6 to western junction with the A6
+2026-06-30;Hungary;E60;hun.e60;Route relocated from M5 and F405, and onto M0 and M4 between M0/M5 interchange and M4's exit 56
 2026-06-02;Hungary;M0;hun.m000;Exit 1 moved from M1 interchange to Tópark exit
 2026-06-02;Hungary;E575;hun.e575;Route relocated from F14 and F1, and onto F813 between Vámosszabadi and M19's exit 8
 2026-06-02;Hungary;E575 (Gyor (loop));;Route deleted
@@ -4111,6 +4116,10 @@ date;region;route;root;description
 2017-01-09;Kosovo;E851;rks.e851;Route removed from N25 between R7 exit 5 and the N2, and relocated onto R7 and N9 between R7 exit 5 and the R6
 2016-12-31;Kosovo;R6;rks.r006;New route
 2015-07-15;Kosovo;R7 (Pristina);rks.r007pri;New route
+2026-06-30;Kyrgyzstan;AH7;kgz.ah007;Route removed from EM04 and relocated onto Uzgen bypass between northern and southern junctions with EM04
+2026-06-30;Kyrgyzstan;E010;kgz.e010;Route removed from EM04 and relocated onto Uzgen bypass between northern and southern junctions with EM04
+2026-06-30;Kyrgyzstan;EM12;kgz.em12;Route extended at east end from south portal of Kaldama Pass Tunnel to EM13
+2026-06-30;Kyrgyzstan;EM12 (Kazarman);kgz.em12;Route deleted (merged into main route)
 2020-09-15;Kyrgyzstan;EM01;kgz.em01;Route truncated at west end from Kazakhstan border to EM02 (formerly EM07) and extended at west end from EM02 to EM04. Former section now EM02 and EM03.
 2020-09-15;Kyrgyzstan;EM02;kgz.em02;Route reentered. Old route now EM04 and EM05. New route formerly EM01 and EM07.
 2020-09-15;Kyrgyzstan;EM03;kgz.em03;Route reentered. Old route now EM06. New route formerly EM01.
@@ -5080,7 +5089,7 @@ date;region;route;root;description
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
 2026-06-26;Poland;A2 (Siedlce);pol.a002sie;Route extended at east end from exit 41 to exit 43
-2026-06-26;Poland;A2 (Biala Podlaska);pol.a002bia;Route removed (now part of Siedlce portion)
+2026-06-26;Poland;A2 (Biala Podlaska);pol.a002sie;Route removed (now part of Siedlce portion)
 2026-06-26;Poland;S6;pol.s006;Route extended at west end from exit 43 to S3 exit 17
 2026-06-26;Poland;S6 (Słupsk);pol.s006;Route removed (now part of main section)
 2026-06-26;Poland;E28;pol.e28;Route removed from former DK6 and relocated onto S6 between S6 exits 38 and 43
@@ -7336,6 +7345,47 @@ date;region;route;root;description
 2019-01-20;Tunisia;A1 (Ben Gardane);tun.a001ben;New Route
 2019-01-20;Tunisia;A3;tun.a003;Route extended at west end from exit 7 to RN11
 2017-09-05;Tunisia;A1;tun.a001;Route extended at south end from 24 to 26
+2026-06-30;Turkey;D010 (Main);tur.d010;Route relocated from through Ordu, and onto southern bypass between Ordu Kumbaşı Çevre Yolu Bulvar and Atatürk Bulvarı
+2026-06-30;Turkey;E70;tur.e70;Route relocated from through Ordu, and onto southern bypass between Ordu Kumbaşı Çevre Yolu Bulvar and Atatürk Bulvarı
+2026-06-30;Turkey;AH5;tur.ah005;Route relocated from through Ordu, and onto southern bypass between Ordu Kumbaşı Çevre Yolu Bulvar and Atatürk Bulvarı
+2026-06-29;Turkey;D010 (Main);tur.d010;Route relocated from through Ardahan, and onto northern bypass
+2026-06-29;Turkey;D260 (Kayseri);tur.d260;Route extended at east end from Zübeyde Hanım Caddesi to D300 southwest of Elazığ (former D300)
+2026-06-29;Turkey;D300;tur.d300;Route relocated from through Elazığ and onto southern bypass between Malatya Caddesi (D260 now) and D885
+2026-06-29;Turkey;D915;tur.d915;Route relocated from through Değirmencik and onto western bypass
+2026-06-29;Turkey;D950;tur.d950;Route relocated from through Karlıova and onto eastern bypass
+2026-06-29;Turkey;D950;tur.d950;Route relocated from through Bingöl and onto eastern bypass
+2026-06-29;Turkey;D950;tur.d950;Route relocated from through Genç and onto western bypass
+2026-06-29;Turkey;D950;tur.d950;Route relocated from east of Güçlü to west of Güçlü between I21-78 and I21-02
+2026-06-29;Turkey;D950;tur.d950;Route relocated from through Çaytepe and onto western bypass
+2026-06-29;Turkey;D950;tur.d950;Route relocated onto new alignment west of Mermer
+2026-06-29;Turkey;D955 (Batman);tur.d955bat;Route relocated south of I72-26
+2026-06-29;Turkey;D965;tur.d965;Route relocated from through Hamur, and onto southern bypass
+2026-06-29;Turkey;D975 (Main);tur.d975;Route relocated onto new alignment (Güzeldere Tüneli) south of Murataldı
+2026-06-29;Turkey;D975 (Main);tur.d975;Route relocated from through Somkaya, and onto western bypass
+2026-06-29;Turkey;E99;tur.e99;Route relocated from through Somkaya, and onto western bypass
+2026-06-29;Turkey;AH84;tur.ah084;Route relocated from through Somkaya, and onto western bypass
+2026-06-28;Turkey;D260 (Kayseri);tur.d260;Route realigned between İmamdamı and Gürpınar (I58-36)
+2026-06-28;Turkey;D850 (Main);tur.d850;Route realigned between İmamdamı and Gürpınar (I58-36)
+2026-06-28;Turkey;D400;tur.d400;Route relocated from through Şanlıurfa, and onto southern bypass between I63-82 and Recep Tayyip Erdoğan Bulvarı 
+2026-06-28;Turkey;D765;tur.d765;Route relocated from through Mustafa Parmaksız Caddesi and Lale Caddesi, and onto Aksaray-Nevşehir yolu and Kayseri Caddesi in Nevşehir between D300 and Kayseri Caddesi
+2026-06-28;Turkey;D815;tur.d815;Route relocated from through İmamoğlu, and onto eastern bypass
+2026-06-28;Turkey;D817 (Main);tur.d817;Route relocated from western bypass of Antakya (D825 now), and onto northern bypass between Karayolu Caddesi and Antakya Reyhanlı Yolu Caddesi
+2026-06-28;Turkey;D817 (Yumurtalık);tur.d817yum;Route relocated form through Demirtaş, and onto western alignment to Yumurtalık
+2026-06-28;Turkey;D825 (Main);tur.d825;Route relocated form through Döngel, Çağlayan, Suçatı, Beşbağlar and Kürtül, and onto new alignment between Tekir and Kürtül
+2026-06-28;Turkey;D825 (Main);tur.d825;Route relocated form through Altınüzüm, and onto eastern bypass
+2026-06-28;Turkey;D825 (Main);tur.d825;Route relocated form through Aktepe, and onto western bypass
+2026-06-28;Turkey;D825 (Main);tur.d825;Route relocated form through Antakya, and onto western bypass between D817 and Harbiye Bulvarı
+2026-06-28;Turkey;D825 (Main);tur.d825;Route relocated form through Yayladağı, and onto southern bypass
+2026-06-28;Turkey;E91;tur.e91;Route relocated form through Yayladağı, and onto southern bypass
+2026-06-28;Turkey;D850 (Main);tur.d850;Route relocated form through Hasançelebi, and onto eastern bypass
+2026-06-28;Turkey;D865;tur.d865;Route relocated form through Duroğlu, and onto western bypass
+2026-06-28;Turkey;D877 (Main);tur.d877;Route relocated form through Arapgir, and onto eastern bypass
+2026-06-28;Turkey;D885;tur.d885;Route relocated form through Maçka, and onto western bypass
+2026-06-28;Turkey;E97;tur.e97;Route relocated form through Maçka, and onto western bypass
+2026-06-28;Turkey;AH86;tur.ah086;Route relocated form through Maçka, and onto western bypass
+2026-06-28;Turkey;D885;tur.d885;Route relocated form through Gümüşhane, and onto eastern bypass between Hacıemin (I29-01_N) and Akçakale (I29-01_S)
+2026-06-28;Turkey;E97;tur.e97;Route relocated form through Gümüşhane, and onto eastern bypass between Hacıemin (I29-01_N) and Akçakale (I29-01_S)
+2026-06-28;Turkey;AH86;tur.ah086;Route relocated form through Gümüşhane, and onto eastern bypass between Hacıemin (I29-01_N) and Akçakale (I29-01_S)
 2026-06-26;Turkey;D605;tur.d605;Route relocated from east of Ütük to west of Ütük
 2026-06-26;Turkey;D625;tur.d625;Route relocated from through Dinar and onto western bypass between Yakaköy and D320
 2026-06-26;Turkey;D635;tur.d635;Route relocated from through Bozova and onto western bypass between junction to Çomaklı and junction to Bozova
@@ -8220,6 +8270,7 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2026-06-17;(USA) Arkansas;AR 265;ar.ar265;Route extended north from AR 264 to AR 94 in Rogers.
 2026-06-17;(USA) Arkansas;AR 13;ar.ar013;Route truncated to AR 267 from Campground Road.
 2026-05-28;(USA) Arkansas;AR 23W;ar.ar023w;Route added.
 2026-05-28;(USA) Arkansas;AR 270;ar.ar270;Route added.
@@ -8526,6 +8577,7 @@ date;region;route;root;description
 2017-12-19;(USA) Delaware;DE 299;de.de299;Removed from a demolished east-west section (approx. 0.1 mi) of Warwick Rd and US 301, and relocated onto a northerly extension of Warwick Rd, parallel to and west of the under-construction US 301 divided freeway, and Levels Rd between a waypoint labelled *OldDE299 and US 301.
 2025-03-07;(USA) District of Columbia;I-295;dc.i295;Exit number for Suitland Parkway renumbered from 3 to 4. If you were using the waypoint label "4" for travels ending at the 11th Street Bridges (now "5"), you will need to update your .list file.
 2022-11-10;(USA) District of Columbia;Beach Drive;dc.beadr;Truncated from DC/MD line to Broad Branch Road as road north of this point has been permanently closed to motorized traffic.
+2026-06-29;(USA) Florida;FL 23;fl.fl023;Extended eastward from Exit 13 to a temporary end at FL 16 till the new Shands Bridge is opened.
 2026-06-26;(USA) Florida;FL 551;fl.fl551;Extended southward one block from intersection with Old Goldenrod Road, to it's new southern end at an intersection with FL 15.
 2026-05-26;(USA) Florida;Nocatee Parkway;fl.nocpkwy;Added route.
 2026-02-03;(USA) Florida;FL 312;fl.fl312;Extended westward from intersection with FL 207 to it's new western end at an intersection with Holmes Blvd.
@@ -9880,6 +9932,7 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2026-07-01;(USA) New York;NY 17 (Binghamton);ny.ny017bin;Removed from Hillburn bypass and rerouted onto I-87 (NYS Thruway) between Exits 15 and 15A.
 2026-06-01;(USA) New York;US 11;ny.us011;Route shifted one block east in Cortland from Main St to Church St between Port Watson St and Clinton Ave. Route realigned to use a couplet of Clinton Ave/N Main St (northbound) and Grant St/N Church St (southbound).
 2026-06-01;(USA) New York;NY 13;ny.ny013;Route shifted one block east in Cortland from Main St to Church St between Port Watson St and Clinton Ave.
 2026-06-01;(USA) New York;NY 41;ny.ny041;Route shifted one block east in Cortland from Main St to Church St between Port Watson St and Clinton Ave. Route realigned to use a couplet of Clinton Ave/N Main St (northbound) and Grant St/N Church St (southbound).
@@ -10811,6 +10864,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-07-01;(USA) Texas;I-35 (San Antonio, TX);tx.i035;335A moved to FM 434 (formerly labeled 335B). 335B moved to TXLp 574 (formerly labeled 335C). Former 335A at 4th/5th St is now labeled *Old335A.
 2026-06-07;(USA) Texas;TX 183A;tx.tx183a;Extended north from US183_N in Leander to TX29 in Liberty Hill.
 2026-06-07;(USA) Texas;TX Loop 88;tx.lp0088;Route added.
 2026-06-06;(USA) Texas;TX 190 (Addison);tx.tx190add;Route added.
