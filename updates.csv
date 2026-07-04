@@ -3305,6 +3305,10 @@ date;region;route;root;description
 2015-07-24;Hungary;M85;hun.m085;Route extended at west end from F85 to exit 16
 2015-07-24;Hungary;M85;hun.m085;Route extended at east end from exit 7 to M1
 2015-07-24;Hungary;M86;hun.m086;Route extended at south end from former southern junction with F86 to exit 80
+2026-07-03;Iceland;TH988;isl.th988;New Route
+2026-07-03;Iceland;TH987;isl.th987;New Route replacing majority of old TH1 alignment across Hornafjörður from west end to point *OldTH1, and then old alignment of TH99 from there south to point *OldTH99.
+2026-07-03;Iceland;TH99;isl.th099;Truncated at north end from old TH1 alignment to new TH1 alignment. Truncated section is now mostly part of TH987.
+2026-07-03;Iceland;TH1;isl.th001;Relocated onto new alignment across Hornafjörður between points TH987_W and *OldTH1Hof. Some of old alignment is now part of TH987.
 2025-01-19;Iceland;TH60;isl.th060;Relocated onto new alignment south of Dynjandi between points *OldTH60_BotnS and *OldTH60_BotnN
 2025-01-19;Iceland;TH370;isl.th370;Extended east across former TH1 alignment to west side of Selfoss. If you drove TH1 west of Selfoss before 2023 you drove this east of point Mae.
 2024-09-08;Iceland;TH947;isl.th947;New Route
@@ -5080,9 +5084,12 @@ date;region;route;root;description
 2019-11-08;Pakistan;M5;pak.m005;New Route
 2019-11-08;Pakistan;AH2;pak.ah002;Route removed from N5 and relocated onto M2, M3 and M4 between the N5 at Lahore and the N5 at Khanewal
 2019-11-08;Pakistan;AH4;pak.ah004;Route removed from M2 and N5 and relocated onto M3, M4 and M5 between M2/M3 junction and N5 at Rohri
-2025-04-10;Philippines;CALAX;phl.calax;New route
-2025-04-10;Philippines;CavC5LinkPar;phl.cavc5linkpar;New route
-2025-04-10;Philippines;CavC5Link;phl.cavc5link;New route
+2026-07-02;Philippines;CALAX (Cavite-Laguna Expressway);phl.calax;Route extended northwest to N65 (Governor's Dr).
+2026-07-02;Philippines;CAVITEX C5 Link;phl.cavc5link;Route extended west to E3.
+2026-07-02;Philippines;CAVITEX C5 Link (Parañaque);phl.cavc5link;Route deleted and merged into main route.
+2025-04-10;Philippines;CALAX (Cavite-Laguna Expressway);phl.calax;New route
+2025-04-10;Philippines;CAVITEX C5 Link (Parañaque);phl.cavc5linkpar;New route
+2025-04-10;Philippines;CAVITEX C5 Link (Taguig);phl.cavc5link;New route
 2025-04-10;Philippines;CCLEX;phl.cclex;New route
 2025-04-10;Philippines;CLLEX;phl.cllex;New route
 2025-04-10;Philippines;MCX;phl.mcx;New route
@@ -8736,7 +8743,7 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
-2026-05-11;(USA)Illinois;IL 110;il.il110;Corrected US67_N to US67_S at junction north of Macomb
+2026-05-11;(USA) Illinois;IL 110;il.il110;Corrected US67_N to US67_S at junction north of Macomb
 2026-05-09;(USA) Illinois;IL 390;il.il390;Reversed numbers of 7A (IL 19) and 7B (Gary Avenue)
 2025-05-30;(USA) Illinois;IL 64 Truck (Elmhurst);il.il064trkelm;Rerouted to follow IL 83 and US 20
 2024-07-09;(USA) Illinois;US 12;il.us012;Removed from Lee Street between Elk Boulevard and Rand Road and relocated onto Elk Boulevard and South Des Plaines River Road in Des Plaines
@@ -10279,6 +10286,7 @@ date;region;route;root;description
 2015-09-20;(USA) North Dakota;ND 200;nd.nd200;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85;nd.us085;Removed from US 85 Business and relocated onto the western Alexander bypass.
 2015-09-20;(USA) North Dakota;US 85 Business (Alexander);nd.us085busale;Added route.
+2026-07-02;(USA) Ohio;OH 537;oh.oh537;Removed from partially closed roadway and relocated onto new alignment between CleRd and *OldOH537
 2026-06-13;(USA) Ohio;OH 177;oh.oh177;OH732_S point moved from Oxford Germantown Rd junction to Eaton Oxford Rd junction to match signage in place since 2013 or earlier
 2026-06-13;(USA) Ohio;OH 531;oh.oh531;West endpoint (OH 534 junction) moved 1/3 mile east
 2026-06-13;(USA) Ohio;OH 534;oh.oh534;North endpoint (OH 531 junction) moved 1/3 mile east
@@ -10784,6 +10792,7 @@ date;region;route;root;description
 2015-08-11;(USA) South Dakota;US 16 Truck (Rapid City);sd.us016trkrap;Extended from north end at I-90 exit 61 west on I-90 to exit 57.
 2015-08-11;(USA) South Dakota;US 85;sd.us085;Removed from US 14A and Glendale Drive and relocated onto Main Street between Fairview Avenue and Glendale Drive.
 2015-08-11;(USA) South Dakota;US 85 Truck (Lead);sd.us085trklea;Added route
+2026-07-02;(USA) Tennessee;TN 141;tn.tn141;Removed from former routing (renamed Hazlewood Pike) and relocated onto new alignment of Hartsville Pike between US70_W and Oak Dr (US70_W point moved to new location)
 2026-06-13;(USA) Tennessee;TN 11;tn.tn011;Removed from College St and relocated onto North 2nd Street between ColSt_E and US 31, and US31 point moved from College Street junction to North 2nd Street junction (drafted route was never correct)
 2026-03-28;(USA) Tennessee;I-124;tn.i124;Waypoint 1 changed to 1A and waypoint 1A changed to 1B
 2026-03-28;(USA) Tennessee;US27;tn.us027;Waypoint I-124(1) changed to I-124(1A) and waypoint I-124(1A) changed to I-124(1B)
