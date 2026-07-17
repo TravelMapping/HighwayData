@@ -5,10 +5,28 @@ usanht;CATrl;;California Trail (E. Wyoming);wy.catrltor
 usanht;CATrl;;California Trail (Colorado);co.catrl
 usanht;CATrl;;California Trail (Kansas);ks.catrl
 usanht;CATrl;;California Trail (Stateline, NV);nv.catrlsta
+usanht;CATrl;;California Trail (West Wendover, NV);nv.catrlwen
 usanht;CATrl;;California Trail (City of Rocks, ID);id.catrlcor
 usanht;CATrl;;California Trail (Utah);ut.catrl
 usanht;CATrl;;California Trail (St Josephs, MO);ks.catrlhia,mo.catrlstj
 usanht;CATrl;;California Trail (Local Tour Route, Kansas City, KS/MO);ks.catrlola,mo.catrl
+usanht;CRTrl;;El Camino Real de Tierra Adentro (El Paso, TX);tx.crtrl
+usanht;CRTrl;;El Camino Real de Tierra Adentro (Pajarto, NM);nm.crtrlpaj
+usanht;CRTrl;;El Camino Real de Tierra Adentro (Five Points, NM);nm.crtrlfiv
+usanht;CRTrl;;El Camino Real de Tierra Adentro (Los Ranchos de Albuquerque, NM);nm.crtrllra
+usanht;CRTrl;;El Camino Real de Tierra Adentro (Alameda, NM);nm.crtrlala
+usanht;CRTrl;;El Camino Real de Tierra Adentro (Martineztown, NM);nm.crtrlmar
+usanht;CRTrl;;El Camino Real de Tierra Adentro (Journal Center, NM);nm.crtrljou
+usanht;CRTrl;;El Camino Real de Tierra Adentro (Santa Fe, NM);nm.crtrlsfe
+usanht;CRTrl;;El Camino Real de Tierra Adentro (Espanola, NM);nm.crtrlesp
+usanht;JBTrl;;Juan Bautista de Anza Trail (El Centro, CA);ca.jbtrlcen
+usanht;JBTrl;;Juan Bautista de Anza Trail (Los Angeles, CA);ca.jbtrllos
+usanht;JBTrl;;Juan Bautista de Anza Trail (Pismo Beach, CA);ca.jbtrlpis
+usanht;JBTrl;;Juan Bautista de Anza Trail (Lake Nacimiento, CA);ca.jbtrllak
+usanht;JBTrl;;Juan Bautista de Anza Trail (Livermore, CA);ca.jbtrlliv
+usanht;JBTrl;;Juan Bautista de Anza Trail (Brentwood, CA);ca.jbtrlbre
+usanht;JBTrl;;Juan Bautista de Anza Trail (Hayward, CA);ca.jbtrlhay
+usanht;JBTrl;;Juan Bautista de Anza Trail (San Francisco, CA);ca.jbtrl
 usanht;LCTrl;;Lewis & Clark Auto Trail (Ohio - Indiana);oh.lctrl,in.lctrl
 usanht;LCTrl;;Lewis & Clark Auto Trail (Missouri);mo.lctrl
 usanht;LCTrl;;Lewis & Clark Auto Trail (Iowa - Washington);ia.lctrl,sd.lctrl,nd.lctrl,mt.lctrl,id.lctrlsac,mt.lctrlbit,id.lctrl,wa.lctrl
@@ -30,6 +48,8 @@ usanht;LCTrl;;Lewis & Clark Auto Trail (Bismarck, ND);nd.lctrlbis
 usanht;LCTrl;;Lewis & Clark Auto Trail ((South) Bismarck, ND);nd.lctrlsbi
 usanht;LCTrl;;Lewis & Clark Auto Trail (Mobridge, SD);sd.lctrlmob
 usanht;LCTrl;;Lewis & Clark Auto Trail (Pierre, SD);sd.lctrlpie
+usanht;LCTrl;;Lewis & Clark Auto Trail (Atchinson, KS);ks.lctrlatc
+usanht;LCTrl;;Lewis & Clark Auto Trail (St Benedict Abbey, KS);ks.lctrlben
 usanht;LCTrl;;Lewis & Clark Auto Trail (Weston, MO);mo.lctrlwes
 usanht;LCTrl;;Lewis & Clark Auto Trail (Miami, MO);mo.lctrlmia
 usanht;MPTrl;;Mormon Pioneer Trail (Utah - W. Wyoming);ut.mptrl,wy.mptrl
@@ -61,13 +81,15 @@ usanht;ORTrl;;Oregon Trail (Barlow Road Cutoff);or.ortrlbcu
 usanht;ORTrl;;Oregon Trail (Boardman, OR);or.ortrlboa
 usanht;ORTrl;;Oregon Trail (Goodales Cutoff);id.ortrlgoo
 usanht;ORTrl;;Oregon Trail (Back Country Byway);id.ortrlgle
+usanht;ORTrl;;Oregon Trail (Hagerman Fossil Beds);id.ortrlhag
 usanht;ORTrl;;Oregon Trail (Bear Lake Scenic Byway);id.ortrlbea
 usanht;ORTrl;;Oregon Trail (Local Tour Route, Kansas City, KS/MO);ks.ortrlola,mo.ortrl
 usanht;OVTrl;;Overland Victory Trail;va.ovtrl,tn.ovtrl,nc.ovtrl,sc.ovtrl
 usanht;OVTrl;;Overland Victory Trail (Surry County Fork);nc.ovtrllen
 usanht;PETrl;;Pony Express Trail (Nevada);nv.petrl
-usanht;PETrl;;Pony Express Trail (W. Utah);ut.petrlnbb
-usanht;PETrl;;Pony Express Trail (E. Utah - W. Wyoming);ut.petrl,wy.petrl
+usanht;PETrl;;Pony Express Trail (W. Utah);nv.petrlnbb,ut.petrlnbb
+usanht;PETrl;;Pony Express Trail (E. Utah);ut.petrl
+usanht;PETrl;;Pony Express Trail (W. Wyoming);wy.petrl
 usanht;PETrl;;Pony Express Trail (E. Wyoming);wy.petrltor
 usanht;PETrl;;Pony Express Trail (Colorado);co.petrl
 usanht;PETrl;;Pony Express Trail (Kansas - Missouri);ks.petrl,mo.petrl
@@ -79,7 +101,80 @@ usanht;SFTrl;;Santa Fe Trail (Mountain Route);nm.sftrlrat,co.sftrl,ks.sftrlgar
 usanht;SFTrl;;Santa Fe Trail (Sugar Creek, MO);mo.sftrlsug
 usanht;SFTrl;;Santa Fe Trail (Arrow Rock, MO);mo.sftrlarr
 usanht;SMTrl;;Selma - Montgomery Trail;al.smtrl
-usanht;TTTrl;;Trail of Tears Trail (Arkansas - Missouri);ar.tttrl,mo.tttrl
+usanht;TTTrl;;Trail of Tears Trail (Mica, GA);ga.tttrlmic
+usanht;TTTrl;;Trail of Tears Trail (Cedartown, GA);ga.tttrlced
+usanht;TTTrl;;Trail of Tears Trail (Summerville, GA);ga.tttrlsum
+usanht;TTTrl;;Trail of Tears Trail (Menlo, GA);ga.tttrlmen
+usanht;TTTrl;;Trail of Tears Trail (Chickamauga NMP, GA);ga.tttrlchi
+usanht;TTTrl;;Trail of Tears Trail ((east) Charleston, TN);tn.tttrlech
+usanht;TTTrl;;Trail of Tears Trail ((west) Charleston, TN);tn.tttrlwch
+usanht;TTTrl;;Trail of Tears Trail (Chattanooga, TN);tn.tttrlcha
+usanht;TTTrl;;Trail of Tears Trail (Murfreesboro, TN);tn.tttrlmur
+usanht;TTTrl;;Trail of Tears Trail (Coopertown, TN);tn.tttrlcoo
 usanht;TTTrl;;Trail of Tears Trail (Kentucky);ky.tttrl
+usanht;TTTrl;;Trail of Tears Trail (Missouri - Oklahoma);mo.tttrl,ar.tttrl,ok.tttrl
+usanht;TTTrl;;Trail of Tears Trail (Athens, AL);al.tttrl
+usanht;TTTrl;;Trail of Tears Trail (Ardmore, AL);al.tttrlard
+usanht;TTTrl;;Trail of Tears Trail (Marion, AR);ar.tttrlmar
+usanht;TTTrl;;Trail of Tears Trail (Jennette, AR);ar.tttrljen
+usanht;TTTrl;;Trail of Tears Trail (Brinkley, AR);ar.tttrlbri
+usanht;TTTrl;;Trail of Tears Trail (Vilonia, AR);ar.tttrlvil
+usanht;TTTrl;;Trail of Tears Trail (North Little Rock, AR);ar.tttrlnlr
+usanht;TTTrl;;Trail of Tears Trail (Cedarville, AR);ar.tttrlced
+usanht;TTTrl;;Trail of Tears Trail (Pocohontas, AR);ar.tttrlpoc
+usanht;TTTrl;;Trail of Tears Trail (Mountain Home, AR);ar.tttrlmou
+usanht;TTTrl;;Trail of Tears Trail (Harrison, AR);ar.tttrlhar
+usanht;TTTrl;;Trail of Tears Trail (Hope, AR);ar.tttrlhop
+usanht;TTTrl;;Trail of Tears Trail (De Queen, AR);ar.tttrldeq
+usanht;TTTrl;;Trail of Tears Trail (Washington, AR);ar.tttrlwas
+usanht;TTTrl;;Trail of Tears Trail (Mineral Springs, AR);ar.tttrlmin
+usanht;TTTrl;;Trail of Tears Trail (Horatio, AR);ar.tttrlhor
 usanht;WRTrl;;Washington-Rochambeau Revolutionary Route (Rhode Island);ri.wrtrl
+usanht;WRTrl;;Washington-Rochambeau Revolutionary Route (Washington Valley, NJ);nj.wrtrlwas
+usanht;WRTrl;;Washington-Rochambeau Revolutionary Route (Grandview, NJ);nj.wrtrlgra
+usanht;WRTrl;;Washington-Rochambeau Revolutionary Route (Finderne, NJ);nj.wrtrlfin
+usanht;WRTrl;;Washington-Rochambeau Revolutionary Route (Van Veghton House, NJ);nj.wrtrlvvh
+usanht;WRTrl;;Washington-Rochambeau Revolutionary Route (Westfield, NJ);nj.wrtrlwes
 usanht;WRTrl;;Washington-Rochambeau Revolutionary Route (Virginia);va.wrtrl
+usanht;BOTrl;;Butterfield Overland Trail;ar.botrl
+usanht;BOTrl;;Butterfield Overland Trail (North Little Rock, AR);ar.botrlnlr
+usanht;BOTrl;;Butterfield Overland Trail (Rogers, AR);ar.botrlrog
+usanht;BOTrl;;Butterfield Overland Trail (Fayetteville, AR);ar.botrlfay
+usanht;CTTrl;;El Camino Real de los Tejas (Cotulla, TX);tx.cttrlcot
+usanht;CTTrl;;El Camino Real de los Tejas (east Cotulla, TX);tx.cttrleco
+usanht;CTTrl;;El Camino Real de los Tejas (Tilden, TX);tx.cttrltil
+usanht;CTTrl;;El Camino Real de los Tejas (Poteet, TX);tx.cttrlpot
+usanht;CTTrl;;El Camino Real de los Tejas (Solms, TX);tx.cttrlsol
+usanht;CTTrl;;El Camino Real de los Tejas (south New Braunfels, TX);tx.cttrlsnb
+usanht;CTTrl;;El Camino Real de los Tejas (east New Braunfels, TX);tx.cttrlenb
+usanht;CTTrl;;El Camino Real de los Tejas (Rodriguez, TX);tx.cttrlrod
+usanht;CTTrl;;El Camino Real de los Tejas (south San Marcos, TX);tx.cttrlssm
+usanht;CTTrl;;El Camino Real de los Tejas (Bryan, TX);tx.cttrl
+usanht;CTTrl;;El Camino Real de los Tejas (Nacogdoches, TX);tx.cttrlnac,la.cttrl
+usanht;CTTrl;;El Camino Real de los Tejas (Yancey, TX);tx.cttrlyan
+usanht;CTTrl;;El Camino Real de los Tejas (Pearson, TX);tx.cttrlpea
+usanht;CTTrl;;El Camino Real de los Tejas (Goliad, TX);tx.cttrlgol
+usanht;CTTrl;;El Camino Real de los Tejas (Riverdale, TX);tx.cttrlriv
+usanht;CTTrl;;El Camino Real de los Tejas (Panna Maria, TX);tx.cttrlpan
+usanht;CTTrl;;El Camino Real de los Tejas (Falls City, TX);tx.cttrlfal
+usanht;CTTrl;;El Camino Real de los Tejas (Flatonia, TX);tx.cttrlfla
+usanht;CTTrl;;El Camino Real de los Tejas (San Marcos, TX);tx.cttrlsan
+usanht;CTTrl;;El Camino Real de los Tejas (Buda, TX);tx.cttrlbud
+usanht;CTTrl;;El Camino Real de los Tejas (Austin, TX);tx.cttrlaus
+usanht;CTTrl;;El Camino Real de los Tejas (Montopolis Bridge, TX);tx.cttrlmon
+usanht;CTTrl;;El Camino Real de los Tejas (Taylor, TX);tx.cttrltay
+usanht;CTTrl;;El Camino Real de los Tejas (Thrall, TX);tx.cttrlthr
+usanht;CTTrl;;El Camino Real de los Tejas (Rockdale, TX);tx.cttrlroc
+usanht;CTTrl;;El Camino Real de los Tejas (Cameron, TX);tx.cttrlcam
+usanht;CTTrl;;El Camino Real de los Tejas (Franklin, TX);tx.cttrlfra
+usanht;CTTrl;;El Camino Real de los Tejas (Leon County, TX);tx.cttrlleo
+usanht;CTTrl;;El Camino Real de los Tejas (west Nacogdoches, TX);tx.cttrlwna
+usanht;CTTrl;;El Camino Real de los Tejas (east Nacogdoches, TX);tx.cttrlena
+usanht;CTTrl;;El Camino Real de los Tejas (Sabine County, TX);tx.cttrlsab
+usanht;SBTrl;;Star-Spangled Banner Trail (Upper Marlboro, MD);md.sbtrluma
+usanht;SBTrl;;Star-Spangled Banner Trail (Baltimore, MD);md.sbtrlbal
+usanht;SBTrl;;Star-Spangled Banner Trail (Nostalgia, MD);md.sbtrlnos
+usanht;SBTrl;;Star-Spangled Banner Trail (St Thomas, MD);md.sbtrlsto
+usanht;SBTrl;;Star-Spangled Banner Trail (Croom, MD);md.sbtrlcro
+usanht;SBTrl;;Star-Spangled Banner Trail (Mount Calvert, MD);md.sbtrlmtc
+usanht;SBTrl;;Star-Spangled Banner Trail (Fort McHenry, MD);md.sbtrlfmh

@@ -195,12 +195,12 @@ FM3148 http://www.openstreetmap.org/?lat=31.459478&lon=-97.111118
 TX6 http://www.openstreetmap.org/?lat=31.498706&lon=-97.124918
 TXLp396 http://www.openstreetmap.org/?lat=31.524058&lon=-97.131972
 US77BusWac_S http://www.openstreetmap.org/?lat=31.530183&lon=-97.124443
-I-35(334A) http://www.openstreetmap.org/?lat=31.535384&lon=-97.129724
-I-35(334B) http://www.openstreetmap.org/?lat=31.546818&lon=-97.125224
-I-35(335A) http://www.openstreetmap.org/?lat=31.550507&lon=-97.123138
-I-35(335B) http://www.openstreetmap.org/?lat=31.554059&lon=-97.121039
-I-35(335C) http://www.openstreetmap.org/?lat=31.560408&lon=-97.117392
-I-35(336) http://www.openstreetmap.org/?lat=31.569189&lon=-97.116555
+I-35(334) +I-35(334A) http://www.openstreetmap.org/?lat=31.535384&lon=-97.129724
+*I-35(334B) http://www.openstreetmap.org/?lat=31.546818&lon=-97.125224
+*I-35(Old335A) http://www.openstreetmap.org/?lat=31.550274&lon=-97.123269
+I-35(335A) http://www.openstreetmap.org/?lat=31.554059&lon=-97.121039
+I-35(335B) http://www.openstreetmap.org/?lat=31.560408&lon=-97.117392
+*I-35(336) http://www.openstreetmap.org/?lat=31.569189&lon=-97.116555
 I-35(337) http://www.openstreetmap.org/?lat=31.576995&lon=-97.112682
 I-35(338A) http://www.openstreetmap.org/?lat=31.584600&lon=-97.109796
 I-35(338B) http://www.openstreetmap.org/?lat=31.595307&lon=-97.109157
@@ -255,7 +255,7 @@ I-35E(415) http://www.openstreetmap.org/?lat=32.604201&lon=-96.822853
 I-35E(416) http://www.openstreetmap.org/?lat=32.618752&lon=-96.823051
 I-35E(417) http://www.openstreetmap.org/?lat=32.633241&lon=-96.823218
 I-35E(418) http://www.openstreetmap.org/?lat=32.642184&lon=-96.823212
-I-35E(418C) http://www.openstreetmap.org/?lat=32.647628&lon=-96.823234
+I-35E(417A) http://www.openstreetmap.org/?lat=32.647628&lon=-96.823234
 I-35E(419) http://www.openstreetmap.org/?lat=32.662238&lon=-96.822977
 I-35E(420) http://www.openstreetmap.org/?lat=32.674770&lon=-96.822493
 I-35E(421) http://www.openstreetmap.org/?lat=32.687087&lon=-96.822998
@@ -290,18 +290,18 @@ I-35E(433B) +I-35E(433) http://www.openstreetmap.org/?lat=32.818914&lon=-96.8692
 I-35E(434A) http://www.openstreetmap.org/?lat=32.826497&lon=-96.872313
 I-35E(434B) http://www.openstreetmap.org/?lat=32.835597&lon=-96.875001
 I-35E(435) http://www.openstreetmap.org/?lat=32.844734&lon=-96.877699
-I-35E(436) http://www.openstreetmap.org/?lat=32.862412&lon=-96.893722
-I-35E(437) http://www.openstreetmap.org/?lat=32.871172&lon=-96.898201
+I-35E(436A) http://www.openstreetmap.org/?lat=32.862412&lon=-96.893722
+I-35E(436B) +I-35E(437) http://www.openstreetmap.org/?lat=32.871172&lon=-96.898201
 I-35E(438) http://www.openstreetmap.org/?lat=32.881079&lon=-96.898030
 I-35E(439) http://www.openstreetmap.org/?lat=32.895980&lon=-96.898040
 I-35E(440) http://www.openstreetmap.org/?lat=32.907929&lon=-96.897633
 I-35E(440B) http://www.openstreetmap.org/?lat=32.913468&lon=-96.897955
 I-35E(441) http://www.openstreetmap.org/?lat=32.922799&lon=-96.899998
 I-35E(442) http://www.openstreetmap.org/?lat=32.938575&lon=-96.902546
-I-35E(443A) http://www.openstreetmap.org/?lat=32.946994&lon=-96.906077
-I-35E(443B) http://www.openstreetmap.org/?lat=32.953485&lon=-96.910438
-I-35E(443C) http://www.openstreetmap.org/?lat=32.958959&lon=-96.914199
+*I-35E(443A) http://www.openstreetmap.org/?lat=32.946994&lon=-96.906077
+I-35E(443) +I-35E(443B) http://www.openstreetmap.org/?lat=32.953485&lon=-96.910438
 I-35E(444) http://www.openstreetmap.org/?lat=32.968374&lon=-96.919477
+I-35E(445A) http://www.openstreetmap.org/?lat=32.978558&lon=-96.927229
 I-35E(445) http://www.openstreetmap.org/?lat=32.981848&lon=-96.930056
 I-35E(446) http://www.openstreetmap.org/?lat=32.990632&lon=-96.942898
 I-35E(447) http://www.openstreetmap.org/?lat=32.999711&lon=-96.959147
@@ -322,13 +322,15 @@ I-35E(461) http://www.openstreetmap.org/?lat=33.162029&lon=-97.073414
 I-35E(462) http://www.openstreetmap.org/?lat=33.173443&lon=-97.089840
 I-35E(463) http://www.openstreetmap.org/?lat=33.186500&lon=-97.107961
 I-35E(464) +I-35E(464A) http://www.openstreetmap.org/?lat=33.191667&lon=-97.114951
-TeaLn http://www.openstreetmap.org/?lat=33.198454&lon=-97.123148
-US377_S http://www.openstreetmap.org/?lat=33.206502&lon=-97.133383
-McKSt http://www.openstreetmap.org/?lat=33.216621&lon=-97.133034
-US377/380 http://www.openstreetmap.org/?lat=33.230840&lon=-97.132782
-FM428 http://www.openstreetmap.org/?lat=33.232128&lon=-97.132713
-FM2164 http://www.openstreetmap.org/?lat=33.240648&lon=-97.132678
-TXLp288 http://www.openstreetmap.org/?lat=33.257223&lon=-97.164837
+I-35E(465A) http://www.openstreetmap.org/?lat=33.193552&lon=-97.124082
+I-35E(465B) http://www.openstreetmap.org/?lat=33.196578&lon=-97.139349
+I-35E(466A) http://www.openstreetmap.org/?lat=33.201691&lon=-97.147293
+I-35E(466B) http://www.openstreetmap.org/?lat=33.204658&lon=-97.152957
+I-35E(467A) http://www.openstreetmap.org/?lat=33.208448&lon=-97.161493
+I-35(467) http://www.openstreetmap.org/?lat=33.209972&lon=-97.164674
+I-35(468) http://www.openstreetmap.org/?lat=33.215443&lon=-97.168735
+I-35(469) http://www.openstreetmap.org/?lat=33.229978&lon=-97.173976
+I-35(470) http://www.openstreetmap.org/?lat=33.255677&lon=-97.177554
 I-35(471) http://www.openstreetmap.org/?lat=33.263671&lon=-97.177865
 I-35(472) http://www.openstreetmap.org/?lat=33.283320&lon=-97.178036
 I-35(473) http://www.openstreetmap.org/?lat=33.298910&lon=-97.177709

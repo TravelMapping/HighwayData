@@ -15,7 +15,6 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 <s>1018-4</s> unsigned per GMSV<br>
 <s>1018-5</s> unsigned per GMSV<br>
 1265<br>
-3102
 
 
 **Notes (individual highways)**
