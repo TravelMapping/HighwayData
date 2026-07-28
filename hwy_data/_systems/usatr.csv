@@ -2,9 +2,9 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 usatr;PA;LECT;;;Great Lakes - Lake Erie Circle Tour;pa.lect;
 usatr;OH;LECT;;;Great Lakes - Lake Erie Circle Tour;oh.lect;
 usatr;MI;LECT;;;Great Lakes - Lake Erie Circle Tour;mi.lect;
-usatr;MI;LHCT;;;Great Lakes - Lake Huron Circle Tour;mi.lhct;
+usatr;MI;LHCT;;;Great Lakes - Lake Huron Circle Tour;mi.lhct;LHCTSprCed
 usatr;MI;LHCT;;Rog;Great Lakes - Lake Huron Circle Tour (Rogers City);mi.lhctrog;
-usatr;MI;LHCT;Spr;Ced;Great Lakes - Lake Huron Circle Tour Spur (Cedarville);mi.lhctsprced;
+usatr;MI;LHCT;;SSM;Great Lakes - Lake Huron Circle Tour (Sault Sainte Marie);mi.lhctssm;
 usatr;WI;LMCT;;;Great Lakes - Lake Michigan Circle Tour (Milwaukee);wi.lmct;
 usatr;IL;LMCT;;;Great Lakes - Lake Michigan Circle Tour;il.lmct;
 usatr;IN;LMCT;;;Great Lakes - Lake Michigan Circle Tour;in.lmct;
@@ -100,6 +100,8 @@ usatr;IL;LinHwy;;;Lincoln Highway;il.linhwy;
 usatr;IN;LinHwy;;;Lincoln Highway;in.linhwy;
 usatr;OH;LinHwy;;;Lincoln Highway;oh.linhwy;
 usatr;PA;LinHwy;;;Lincoln Highway;pa.linhwy;
+usatr;PA;LinHwy;;Mor;Lincoln Highway (Morrisville);pa.linhwymor;
+usatr;NJ;LinHwy;;;Lincoln Highway;nj.linhwy;
 usatr;CA;LinHwy;;Dix;Lincoln Highway (Dixon);ca.linhwydix;
 usatr;CA;LinHwy;;Fol;Lincoln Highway (Folsom);ca.linhwyfol;
 usatr;CA;LinHwy;;Cla;Lincoln Highway (Clarksville);ca.linhwycla;
