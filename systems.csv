@@ -21,9 +21,12 @@ aussab;AUS;South Australia B Roads;TMyellow;4;active
 austasb;AUS;Tasmania B Roads;TMyellow;4;active
 auswa;AUS;Western Australia State Highways;TMyellow;4;active
 ausntc;AUS;Northern Territory C Roads;TMgray;5;active
+aussac;AUS;South Australia C Roads;TMgray;5;active
 austasc;AUS;Tasmania C Roads;TMgray;5;active
 ausnswtd;AUS;New South Wales Tourist Drives;TMbrown;5;active
+ausqldtd;AUS;Queensland Tourist Drives;TMbrown;5;active
 aussatd;AUS;South Australia Tourist Drives;TMbrown;5;active
+auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;active
 auta;AUT;Austria Autobahnen;TMblue;1;active
 auts;AUT;Austria Schnellstrassen;TMteal;2;active
 autb;AUT;Austria Landesstraßen B;TMlightsalmon;4;active
@@ -135,9 +138,9 @@ estp;EST;Estonia Põhimaanteed;TMlightsalmon;4;active
 estt;EST;Estonia Tugimaanteed;TMyellow;5;active
 finmt;FIN;Finland Moottoritie;TMblue;1;active
 finvt;FIN;Finland Valtatiet;TMlightsalmon;4;active
-alavt;FIN;Åland Valtatiet;TMlightsalmon;4;active
+alah;FIN;Åland Huvudvägar;TMlightsalmon;4;active
 finkt;FIN;Finland Kantatiet;TMyellow;4;active
-alakt;FIN;Åland Kantatiet;TMyellow;5;active
+alas;FIN;Åland Stamvägar;TMyellow;5;active
 finst;FIN;Finland Seututiet;TMgray;5;active
 fink;FIN;Finland Kehä / Ring Roads;TMred;5;active
 fraa;FRA;France Autoroutes;TMblue;1;active
@@ -394,7 +397,7 @@ swel;SWE;Sweden Primära Länsvägar;TMyellow;5;active
 tjkrb;TJK;Tajikistan Rohi Baynalmilali;TMlightsalmon;4;active
 turo;TUR;Turkey Otoyol;TMblue;1;active
 tursf;TUR;Turkey Select Freeways;TMteal;2;active
-turd;TUR;Turkey Devlet Yolları;TMgreen;4;active
+turd;TUR;Turkey Devlet Yolları;TMlightsalmon;4;active
 tuna;TUN;Tunisia Autoroutes;TMblue;1;active
 twnf;CHN;Taiwan National Freeways;TMblue;1;active
 ugam;UGA;Uganda Motorways;TMblue;1;active
@@ -487,9 +490,7 @@ ausvicb;AUS;Victoria B Roads;TMyellow;4;preview
 ausvicc;AUS;Victoria C Roads;TMgray;5;preview
 ausvicmr;AUS;Melbourne Metropolitan Routes;TMlightsalmon;5;preview
 ausstr;AUS;Australia Strategic Touring Routes;TMbrown;5;preview
-ausqldtd;AUS;Queensland Tourist Drives;TMbrown;5;preview
 ausvictd;AUS;Victoria Tourist Drives;TMbrown;5;preview
-auswatd;AUS;Western Australia Tourist Drives;TMbrown;5;preview
 bdirn;BDI;Burundi Routes Nationales;TMgreen;4;preview
 bgdah;BGD;Bangladesh UNESCAP Asian Highways;TMred;3;preview
 biha2;BIH;Bosnia and Herzegovina Autoputevi (Srpska renumbering);TMblue;1;preview
@@ -564,15 +565,15 @@ irltr;IRL;Ireland Select Tourist and Scenic Routes;TMbrown;5;preview
 #itasf2;ITA;Italy Select Named Freeways (Italy split);TMteal;2;active
 itass;ITA;Italy Strade Statali;TMlightsalmon;4;preview
 #itass2;ITA;Italy Strade Statali (Italy split);TMlightsalmon;4;preview
+jpnh;JPN;Japan Ippan Kokudō;TMlightsalmon;4;preview
 khme;KHM;Cambodia Expressways;TMblue;1;preview
 khmah;KHM;Cambodia UNESCAP Asian Highways;TMred;3;preview
-jpnh;JPN;Japan Ippan Kokudō;TMlightsalmon;4;preview
-lkaa;LKA;Sri Lanka A Roads;TMlightsalmon;4;preview
-laoah;LAO;Laos UNESCAP Asian Highways;TMred;3;preview
 kensf;KEN;Kenya Select Freeways;TMteal;3;preview
 kena;KEN;Kenya A Roads;TMgreen;3;preview
 kenb;KEN;Kenya B Roads (incomplete);TMyellow;4;preview
 kwtr;KWT;Kuwait Routes;TMlightsalmon;4;preview
+laoah;LAO;Laos UNESCAP Asian Highways;TMred;3;preview
+lkaa;LKA;Sri Lanka A Roads;TMlightsalmon;4;preview
 mexf;MEX;Mexico Carreteras Federales;TMred;2;preview
 mexsf;MEX;Mexico Select Freeways;TMteal;3;preview
 mexdfeje;MEX;Mexico City Ejes;TMyellow;5;preview
@@ -585,11 +586,12 @@ mozn;MOZ;Mozambique Estrada Nacional;TMgreen;4;preview
 mwim;MWI;Malawi Main Roads;TMgreen;4;preview
 mysjp;MYS;Malaysia Jalan Persekutuan;TMbrown;4;preview
 myssf;MYS;Malaysia Select Freeways;TMteal;3;preview
+nasib;NA;North America Select International Bridges;TMteal;5;preview
 ngae;NGA;Nigeria Expressways;TMteal;2;preview
 nicnic;NIC;Nicaragua Red Vial Nacional;TMred;3;preview
 nplah;NPL;Nepal UNESCAP Asian Highways;TMred;3;preview
 nplh;NPL;Nepal Highways (need redoing);TMlightsalmon;4;preview
-nzlrr;NZL;New Zealand Regional Roads;TMYellow;5;preview
+nzlrr;NZL;New Zealand Regional Roads;TMyellow;5;preview
 pancn;PAN;Panamá Carreteras Nacionales;TMred;3;preview
 pansf;PAN;Panamá Select Freeways;TMteal;3;preview
 perpe;PER;Peru Red Vial Nacional;TMred;2;preview
@@ -615,6 +617,7 @@ tunrn;TUN;Tunisia Routes Nationales;TMgreen;4;preview
 tzat;TZA;Tanzania Trunk Roads;TMgreen;4;preview
 usaas;USA;American Samoa Territorial Highways;TMpurple;4;preview
 usams;USA;Mississippi State Highways;TMpurple;4;preview
+usasib;USA;United States Select Inter-State Bridges;TMteal;5;preview
 usaush;USA;United States Historic Highways;TMbrown;4;preview
 usanht;USA;United States National Historic Trails;TMbrown;5;preview
 usatr;USA;United States Select Tourist Routes;TMbrown;5;preview
@@ -672,7 +675,6 @@ indwb;IND;West Bengal State Highways;TMyellow;4;devel
 #jamb;JAM;Jamaica B Roads;TMyellow;5;devel
 #mexdn;MEX;Mexico Federal Expressways (new);TMblue;1;devel
 #mexedn;MEX;Mexico State Expressways (new);TMteal;3;devel
-nasib;NA;North America Select International Bridges;TMteal;3;devel
 #prtn;PRT;Portugal Estradas Nacionais;TMyellow;5;devel
 rusr;RUS;Russia Regional Roads;TMlightsalmon;4;devel
 #ukrn;UKR;Ukraine Nacional'ni Avtomobil'ni Dorohy;TMlightsalmon;4;devel

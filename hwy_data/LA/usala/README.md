@@ -11,9 +11,6 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 826<br>
 897-4<br>
 897-5<br>
-<s>1018-3</s> signed per GMSV<br>
-<s>1018-4</s> unsigned per GMSV<br>
-<s>1018-5</s> unsigned per GMSV<br>
 1265<br>
 
 
@@ -41,11 +38,7 @@ LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of
 
 The northern end of LA1093-1 is unclear.
 
-The northern end of LA1129 is unclear.
-
 Both LA1194 and LA1194 Spur are signed LA1194, so the spur was assigned to segment shown on DOTD maps as the spur.
-
-LA1208-4 was signed as part of LA1208-1 in the most recent GMSV imagery (June 2015).
 
 The northern end of LA1255 is unclear.
 
