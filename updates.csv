@@ -711,6 +711,7 @@ date;region;route;root;description
 2025-02-19;(Canada) British Columbia;BC 1;bc.bc001;In Chase, waypoint BC1Bus_W relocated about 0.5 mile south from closed *OldBC1Bus connector to business route
 2022-10-24;(Canada) British Columbia;BC 7B;bc.bc007b;West end of route relocated, from ramps connecting Mary Hill Bypass to TCH/BC 1, to United Boulevard between Mary Hill Bypass and Mariner Way north of BC 7.
 2015-08-13;(Canada) British Columbia;TCH 1 Business (Chase BC);bc.tchbuscha;New route
+2026-08-08;(Canada) Manitoba;MB 3A (Clearwater);mb.mb003acle;Truncated north from MB 3 to MB 342 due to bridge and signage removal.
 2026-06-08;(Canada) Manitoba;MB 39;mb.mb039;Realigned onto a new direct alignment between OldMB39_W and OldMB39_E near Wekusko.
 2024-10-08;(Canada) Manitoba;MB 200;mb.mb200;North of point *OldMB200_N, Removed from Saint Mary's Road and relocated eastward to intersect MB 100 at a grade-separated intersection.
 2024-10-08;(Canada) Manitoba;Rte 52;mb.rt052;south of Redview Drive, Removed from Saint Mary's Road and relocated eastward to intersect MB 100 at a grade-separated intersection.
@@ -1669,6 +1670,7 @@ date;region;route;root;description
 2015-07-25;(France) Auvergne-Rhône-Alpes;A466;fraara.a466;New Route
 2015-07-25;(France) Auvergne-Rhône-Alpes;A719;fraara.a719;Route extended at east end from exit 15 to exit 16
 2015-07-25;(France) Auvergne-Rhône-Alpes;E70;fraara.e70;Removed from A72, N488, N88, A47, A46 and A43, and relocated to A89, N489, N6, A6, A466, A46 and A432 between A72/A89 junction and A43/A432 junction
+2026-08-11;(France) Brittany;E60;frabre.e60;Route truncated at west end from N12 to D165
 2025-08-10;(France) Brittany;N164;frabre.n164;Route relocated onto new alignment from west of Trémorel to east of Merdrignac
 2023-12-25;(France) Brittany;N164;frabre.n164;Route relocated from through Rostrenen and onto new expressway from 1.5km east of Rostrenen to east of D84 junction
 2022-10-29;(France) Brittany;N164;frabre.n164;Route relocated onto new expressway from 1.5km east of Rostrenen to D790 (old alignment is D2164 now)
@@ -1851,6 +1853,7 @@ date;region;route;root;description
 2016-10-22;(France) Île-de-France;N104;fraidf.n104;Route extended at west end from A10 to N118
 2015-09-09;(France) Île-de-France;Boulevard Péripherique, Paris;fraidf.bp;New Route
 2015-07-25;(France) Île-de-France;A140;fraidf.a140;Route truncated at north end from N3 to exit 4
+2026-08-11;(France) Normandy;E5;franor.e5;Route truncated at west end from ferry terminal to D6015
 2026-02-02;(France) Normandy;N338 (Rouen);franor.n338rou;New Route
 2026-01-13;(France) Normandy;D201-78;franor.d020178;New Route
 2022-09-03;(France) Normandy;N27;franor.n027;Route truncated at north end from D925 in Dieppe to D108 near Catteville (D927-76 now), and reextended to D23/D54 near Arques-la-Bataille
@@ -3595,6 +3598,7 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2026-08-14;Ireland;N28 (Ringaskiddy);irl.n028rin;Route added
 2025-05-23;Ireland;R463;irl.r463;Route removed from L4001 and relocated onto Killaloe Bypass between R496 and L4001
 2025-05-23;Ireland;R496;irl.r496;Route truncated at west end from R463 at Killalow Bridge to (former southern junction with) R494 and extended at west end from R494 to R463 at Killaloe Bypass and Brian Boru Bridge
 2025-02-12;Ireland;R772 (Newtownmountkennedy);irl.r772new;Route added
@@ -4082,6 +4086,7 @@ date;region;route;root;description
 2018-10-13;Korea, South;AH1;kor.ah001;New Route
 2018-10-13;Korea, South;AH6;kor.ah006;New Route
 2018-05-15;Korea, South;Ex29;kor.ex029;New Route
+2026-08-14;Kosovo;RT3;rks.rt3;Rerouted on the west end from Xhemë Gigollaj and Shtjefën Gjeçovi to Afrim Gashi and Kastriotët between points R107 and ShtGje.
 2026-04-19;Kosovo;R301;rks.r301;New route
 2026-04-19;Kosovo;R302;rks.r302;New route
 2026-04-19;Kosovo;R303;rks.r303;New route
@@ -5114,6 +5119,9 @@ date;region;route;root;description
 2025-03-24;Philippines;E2;phl.e002;Route truncated at north end from E1 to N1/N145 (continuation now mapped as PHL Sky)
 2025-03-24;Philippines;E5;phl.e005;Route extended west from N130 to N120
 2021-12-14;Philippines;E2;phl.e002;Route extended at north end from N140 to E1
+2026-08-14;Poland;S19 (Bielsk Podlaski);pol.s019bie;Route extended at north end from exit 15 to exit 14
+2026-08-14;Poland;DK19 (Kuznica);pol.dk019kuz;Route reentered
+2026-08-14;Poland;DK19 (Bialystok);pol.dk019;Route truncated from S19 exit 15 to S19 exit 14
 2026-06-26;Poland;A2 (Siedlce);pol.a002sie;Route extended at east end from exit 41 to exit 43
 2026-06-26;Poland;A2 (Biala Podlaska);pol.a002sie;Route removed (now part of Siedlce portion)
 2026-06-26;Poland;S6;pol.s006;Route extended at west end from exit 43 to S3 exit 17
@@ -7708,6 +7716,11 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2026-08-14;(UK) England;A415;eng.a0415;Route truncated at west end from A4095 to A40
+2026-08-14;(UK) England;A4095;eng.a4095;Route removed from Curbridge Road, Welch Way, High Street and B4047 and relocated onto Thorney Leys, A40, Oxford Hill and Jubilee Way between Curbridge Road and B4047
+2026-08-14;(UK) England;B4022;eng.b4022;Route truncated at south end from A40 to (moved) A4095
+2026-08-14;(UK) England;B4047;eng.b4047;Route extended at east end from Tower Hill (formerly called A4095) to A4095 (at Jubilee Way)
+2026-08-14;(UK) England;B4477;eng.b4477;Route extended at east end from A40 (now A40_W) to B4047
 2026-07-07;(UK) England;A417 (Cirencester);eng.a0417;Route truncated at north end from A49 to (moved) A436.
 2026-07-07;(UK) England;A417 (Ledbury);eng.a0417led;Route added
 2026-07-07;(UK) England;A436;eng.a0436;Route truncated at west end from A417 (at Air Balloon) to Leckhampton Hill and extended at west end from Leckhampton Hill to A417 (at Shab Hill)
@@ -8454,6 +8467,7 @@ date;region;route;root;description
 2015-09-03;(USA) Arkansas;US 62 Business (Prairie Grove);ar.us062buspra;Added route
 2015-09-03;(USA) Arkansas;US 62 Business (Rogers);;Deleted route
 2015-09-03;(USA) Arkansas;US 63 Business (Jonesboro);;Deleted route
+2026-08-13;(USA) California;CA 56;ca.ca056;West end moved to I-5 Exit 33A to match Caltrans logs
 2026-07-11;(USA) California;CA 263;ca.ca263;Route realigned at north end
 2026-06-10;(USA) California;CA 19;ca.ca019;Route truncated to extent of unsigned SR 164 per recent Caltrans documentation
 2026-01-13;(USA) California;CA 120;ca.ca120;Added Exit 2 at McKinley Ave, 2 no longer alternate label for 1C
@@ -9395,6 +9409,8 @@ date;region;route;root;description
 2015-11-24;(USA) Kentucky;I-69;ky.i069;Extended at north end from exit 106 to exit 148
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Truncated at north end from Audubon Parkway to KY425
 2015-11-24;(USA) Kentucky;I-69 Future (Madisonville);;Route deleted (merged into main I-69)
+2026-08-14;(USA) Louisiana;LA 182-2;;Route deleted
+2026-08-14;(USA) Louisiana;LA 339;la.la0339;Truncated at south end from LA 14 Business in Erath to LA 14
 2026-07-16;(USA) Louisiana;LA 82;la.la0082;Truncated at east end from Vermillion Parish line to south Abbeville city limits, with part of former route becoming LA 82-1
 2026-07-16;(USA) Louisiana;LA 82-1;la.la00821;Route added along part of former LA 82
 2026-07-16;(USA) Louisiana;LA 524;la.la0524;Truncated at north end from point north of LA 123 to south end of former concurrency with US 165
@@ -9982,6 +9998,8 @@ date;region;route;root;description
 2017-05-01;(USA) New Jersey;NJ 15;nj.nj015;South end removed from Clinton St (including a demolished section underpassing US 46) and Bergen St between Richboynton Rd and US 46 at Bergen St, and relocated onto a southwesterly realignment of Clinton St between Richboynton Rd and an at-grade T-intersection with US 46.
 2016-11-16;(USA) New Jersey;NJ 18;nj.nj018;Extended north from Buckingham Drive to I-287
 2016-11-16;(USA) New Jersey;NJ 19;nj.nj019;South end removed from the Garden State Parkway access ramps between The Broad Street ramps and the Garden State Parkway, and relocated onto Broad Street between the GSP ramps and Colfax Avenue
+2026-08-13;(USA) New Mexico;NM 31;nm.nm031;Near Loving, route moved from Potash Mines Rd. west of *OldNM31 southeast to new alignment
+2026-08-13;(USA) New Mexico;US 285;nm.us285;Near Loving, waypoint NM31 moved southeast 0.31 mile to new NM 31 intersection
 2025-02-25;(USA) New Mexico;NM 65;nm.nm065;In El Porvenir, route removed from FR263, and extended west along FR261 from FR263 to Porvenir Canyon Trail
 2025-02-25;(USA) New Mexico;NM 605;nm.nm605;In San Mateo, route removed from San Mateo Main St., and extended north to CR75
 2022-08-30;(USA) New Mexico;NM 195 (Elephant Butte Lake);nm.nm195ele;East end of route truncated, from NM 177 to barricade at Dirt Dam day use area
@@ -10454,6 +10472,10 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2026-08-11;(USA) Oklahoma;OK 44A;ok.ok044a;Route truncated from Quartz Mountain State Park entrance to Kiowa/Greer County line.
+2026-08-11;(USA) Oklahoma;OK 51 Spur (Tahlequah);ok.ok051sprtah;OK82 label moved from eastern terminus to new aligment of OK 82 further west. Eastern terminus point is now labeled OldOK82.
+2026-08-11;(USA) Oklahoma;OK 74D;;Route deleted
+2026-08-11;(USA) Oklahoma;OK 82;ok.ok082;Realigned onto a new westerly alignment between points GraAve and E0710 north of Tahlequah.
 2026-07-22;(USA) Oklahoma;OK 3;ok.ok003;OK136_S point moved from S East St to realigned OK 136 in Guymon. Old point is now EastSt.
 2026-07-22;(USA) Oklahoma;OK 136;ok.ok136;Relocated from S East St onto a new alignment to the east in Guymon between points EastSt_S and EastSt_N.
 2026-05-26;(USA) Oklahoma;OK 20;ok.ok020;Relocated from Holly Rd, S Brady St, Camden St, and W Will Rogers Blvd onto a new alignment to the south and S Lynn Riggs Blvd in Claremore between points E0490 and OK66/88.
@@ -10944,6 +10966,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-08-10;(USA) Texas;Chisos Basin Road, Big Bend NP;tx.chibasrd;Route added
 2026-08-07;(USA) Texas;I-30;tx.i030;Waypoint label 46B moved from an alt label at I-45/I-345/US 75 (labeled 47B) to S St Paul St.
 2026-08-07;(USA) Texas;I-35E;tx.i035e;Waypoint label 437 moved from an alt label at TX Spr 348 (labeled 436B) to Manana Dr.
 2026-08-07;(USA) Texas;US 67;tx.us067;Waypoint label I-30(46B) moved from an alt label at I-45/I-345/US 75 (labeled I-30(47B)) to S St Paul St.
