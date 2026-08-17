@@ -21,13 +21,13 @@ MOsE_Cam http://www.openstreetmap.org/?lat=37.968950&lon=-92.592430
 MOsV_Cam http://www.openstreetmap.org/?lat=37.985120&lon=-92.660151
 +X12 http://www.openstreetmap.org/?lat=37.987826&lon=-92.674270
 +X13 http://www.openstreetmap.org/?lat=37.980892&lon=-92.679076
-MO5_S http://www.openstreetmap.org/?lat=37.981044&lon=-92.698088
-MO5BusCam_S http://www.openstreetmap.org/?lat=37.991005&lon=-92.711091
+OldMO5_CamS +MO5_S http://www.openstreetmap.org/?lat=37.981044&lon=-92.698088
+MO5/5Bus +MO5BusCam_S http://www.openstreetmap.org/?lat=37.991005&lon=-92.711091
 US54 http://www.openstreetmap.org/?lat=38.015116&lon=-92.735381
 +X14 http://www.openstreetmap.org/?lat=38.024650&lon=-92.759457
 WatRd http://www.openstreetmap.org/?lat=38.035501&lon=-92.768297
-OldMO5_S http://www.openstreetmap.org/?lat=38.062706&lon=-92.791171
-LR577 http://www.openstreetmap.org/?lat=38.069523&lon=-92.800441
+*OldMO5_S http://www.openstreetmap.org/?lat=38.062706&lon=-92.791171
+HarRd http://www.openstreetmap.org/?lat=38.069523&lon=-92.800441
 OldMO5_N http://www.openstreetmap.org/?lat=38.076862&lon=-92.802758
 +X15 http://www.openstreetmap.org/?lat=38.089158&lon=-92.805505
 MO5_N http://www.openstreetmap.org/?lat=38.097939&lon=-92.821212
@@ -50,7 +50,7 @@ WilDr http://www.openstreetmap.org/?lat=38.195671&lon=-93.324856
 MO83 http://www.openstreetmap.org/?lat=38.231582&lon=-93.358566
 MainSt http://www.openstreetmap.org/?lat=38.242604&lon=-93.360347
 US65 +US65/65Spr http://www.openstreetmap.org/?lat=38.253499&lon=-93.364413
-ComSt +US65Spr_S http://www.openstreetmap.org/?lat=38.253111&lon=-93.367063
+ComSt http://www.openstreetmap.org/?lat=38.253111&lon=-93.367063
 MainSt_W http://www.openstreetmap.org/?lat=38.244803&lon=-93.385806
 +X21 http://www.openstreetmap.org/?lat=38.231674&lon=-93.448162
 MOsZ_Ben http://www.openstreetmap.org/?lat=38.236343&lon=-93.462110

@@ -11,11 +11,7 @@ When available, GMSV imagery was used to ensure highways were signed. In cases w
 826<br>
 897-4<br>
 897-5<br>
-1018-3<br>
-1018-4<br>
-1018-5<br>
 1265<br>
-3102
 
 
 **Notes (individual highways)**
@@ -28,17 +24,9 @@ LA44 is signed W-E at its east end and S-N at its north end. It is in the proces
 
 LA77 is signed along LA77 Spur, and the adjacent section of LA77 is unsigned.
 
-LA124's route through Harrisonburg is not completely clear since LA8 was routed onto a new bridge.
-
-The northern segment of LA486 is (mostly) unsigned, so it has not been included in the file.
-
 The western end of LA611-1 is unclear.
 
 Both LA631 and LA631 Spur are signed LA631, so the shorter leg at the west end was drafted as the spur.
-
-Both LA655 and LA655 Spur are signed LA655, so the shorter leg on the west side of Bayou Lafourche was drafted as the spur.
-
-The northern end of LA731 is unclear.
 
 Both LA758 and LA758 Spur are signed LA758, so the short segment connecting the main route to LA29 was drafted as the spur.
 
@@ -48,15 +36,9 @@ Given the lack of GMSV for the area, LA897-1 thru 897-6 are drafted according to
 
 LA1055 is not signed along LA450 or LA38 according to GMSV, so the 2 segments of LA1055 were drafted separately.
 
-Both LA1077 and LA1077 Spur are signed LA1077, so the very short leg diverging to the northwest was drafted as the spur.
-
 The northern end of LA1093-1 is unclear.
 
-The northern end of LA1129 is unclear.
-
 Both LA1194 and LA1194 Spur are signed LA1194, so the spur was assigned to segment shown on DOTD maps as the spur.
-
-LA1208-4 was signed as part of LA1208-1 in the most recent GMSV imagery (June 2015).
 
 The northern end of LA1255 is unclear.
 

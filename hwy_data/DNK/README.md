@@ -7,4 +7,4 @@
 
 
 **NOTES TO ROUTES:**
-- 
+- `SR167` extends into Odense to O2 according to vejdirektoratet.dk/ + OSM but it's not signed. Not in HB.

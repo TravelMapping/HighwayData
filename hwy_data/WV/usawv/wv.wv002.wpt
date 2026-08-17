@@ -32,7 +32,7 @@ CR62/8 http://www.openstreetmap.org/?lat=38.877599&lon=-81.873958
 WV62 http://www.openstreetmap.org/?lat=38.888135&lon=-81.840870
 KaiRd http://www.openstreetmap.org/?lat=38.920033&lon=-81.824455
 FlaRd http://www.openstreetmap.org/?lat=38.918418&lon=-81.764154
-US33/68 http://www.openstreetmap.org/?lat=38.934700&lon=-81.752333
+US33_W +US33/68 http://www.openstreetmap.org/?lat=38.934700&lon=-81.752333
 +X063(US33) http://www.openstreetmap.org/?lat=38.939475&lon=-81.741285
 I-77(146) http://www.openstreetmap.org/?lat=38.923600&lon=-81.720133
 +X040(I77) http://www.openstreetmap.org/?lat=38.987643&lon=-81.683371
@@ -53,8 +53,8 @@ I-77(174) http://www.openstreetmap.org/?lat=39.233903&lon=-81.508899
 I-77(176) http://www.openstreetmap.org/?lat=39.267553&lon=-81.499377
 +X049(I77) http://www.openstreetmap.org/?lat=39.303579&lon=-81.488396
 I-77(179) http://www.openstreetmap.org/?lat=39.313964&lon=-81.478013
-WV31_S http://www.openstreetmap.org/?lat=39.333144&lon=-81.426008
-WV31_N http://www.openstreetmap.org/?lat=39.333540&lon=-81.424937
+*OldWV31_S http://www.openstreetmap.org/?lat=39.333161&lon=-81.426045
+WV31 +WV31_N http://www.openstreetmap.org/?lat=39.333667&lon=-81.424726
 CR21/6 http://www.openstreetmap.org/?lat=39.340193&lon=-81.401750
 OakGroRd http://www.openstreetmap.org/?lat=39.334608&lon=-81.360245
 CR10 http://www.openstreetmap.org/?lat=39.355998&lon=-81.305700
@@ -82,15 +82,15 @@ ProCreRd http://www.openstreetmap.org/?lat=39.709424&lon=-80.822768
 Kent http://www.openstreetmap.org/?lat=39.766012&lon=-80.861457
 +X012A(WV2) http://www.openstreetmap.org/?lat=39.774811&lon=-80.856628
 BurRidRd http://www.openstreetmap.org/?lat=39.792937&lon=-80.825080
-CR7/4 http://www.openstreetmap.org/?lat=39.819031&lon=-80.813429
+CR74 +CR7/4 http://www.openstreetmap.org/?lat=39.819031&lon=-80.813429
 Cre http://www.openstreetmap.org/?lat=39.842817&lon=-80.816471
 +X013(WV2) http://www.openstreetmap.org/?lat=39.866336&lon=-80.787234
-*OldHwy2 http://www.openstreetmap.org/?lat=39.880717&lon=-80.785298
+*OldHwy2 http://www.openstreetmap.org/?lat=39.880560&lon=-80.785362
 WV2Alt_S http://www.openstreetmap.org/?lat=39.908551&lon=-80.796939
 +X014(WV2) http://www.openstreetmap.org/?lat=39.913439&lon=-80.792019
 WV2Alt_N http://www.openstreetmap.org/?lat=39.905037&lon=-80.759613
 12thSt http://www.openstreetmap.org/?lat=39.913469&lon=-80.747644
-US250TrkMou_S http://www.openstreetmap.org/?lat=39.918550&lon=-80.747280
+7thSt +US250TrkMou_S http://www.openstreetmap.org/?lat=39.918550&lon=-80.747280
 US250_S +US250_E http://www.openstreetmap.org/?lat=39.931607&lon=-80.752049
 WV86 http://www.openstreetmap.org/?lat=39.949400&lon=-80.754144
 +X002(US250) http://www.openstreetmap.org/?lat=39.957324&lon=-80.753712
@@ -122,7 +122,7 @@ WelBrg http://www.openstreetmap.org/?lat=40.253693&lon=-80.632884
 WV67 http://www.openstreetmap.org/?lat=40.263837&lon=-80.614312
 WV27 http://www.openstreetmap.org/?lat=40.272081&lon=-80.609694
 30thSt http://www.openstreetmap.org/?lat=40.295677&lon=-80.608057
-CR7 +BruDr http://www.openstreetmap.org/?lat=40.306531&lon=-80.600177
+CR7 http://www.openstreetmap.org/?lat=40.306531&lon=-80.600177
 WV27Alt http://www.openstreetmap.org/?lat=40.330523&lon=-80.596379
 +X018A(WV2) http://www.openstreetmap.org/?lat=40.337332&lon=-80.596079
 CR8 http://www.openstreetmap.org/?lat=40.348335&lon=-80.607162
@@ -140,7 +140,7 @@ WV8 http://www.openstreetmap.org/?lat=40.509908&lon=-80.616646
 RocRd http://www.openstreetmap.org/?lat=40.530799&lon=-80.621206
 CR208 http://www.openstreetmap.org/?lat=40.578258&lon=-80.650324
 +X020(WV2) http://www.openstreetmap.org/?lat=40.589743&lon=-80.655999
-CR2/14 +CR2/34 http://www.openstreetmap.org/?lat=40.615072&lon=-80.619553
+CR2/14 http://www.openstreetmap.org/?lat=40.615072&lon=-80.619553
 NewTollBrg +NewBr +NewTollBr http://www.openstreetmap.org/?lat=40.618253&lon=-80.592098
 1stSt http://www.openstreetmap.org/?lat=40.609644&lon=-80.571563
 US30 http://www.openstreetmap.org/?lat=40.615720&lon=-80.558394
