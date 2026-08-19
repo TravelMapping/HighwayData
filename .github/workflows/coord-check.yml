@@ -53,14 +53,18 @@ jobs:
 
       - name: Run Coordinate Consistency Check
         run: |
-          # Fall back to master if github.base_ref is empty
-          TARGET_REF="${{ github.base_ref }}"
-          if [ -z "$TARGET_REF" ]; then
-            TARGET_REF="master"
+          # Determine the base branch (default to master)
+          BASE_BRANCH="${{ github.base_ref }}"
+          if [ -z "$BASE_BRANCH" ]; then
+            BASE_BRANCH="master"
           fi
-          
-          export GITHUB_BASE_REF="$TARGET_REF"
+
+          # Find the exact commit where this PR branched off from the base branch
+          MERGE_BASE=$(git merge-base "origin/$BASE_BRANCH" HEAD || echo "origin/$BASE_BRANCH")
+          echo "Comparing against merge-base: $MERGE_BASE"
+
+          # Pass the specific commit SHA to ccc.py
+          export GITHUB_BASE_REF="$MERGE_BASE"
           export PYTHONUNBUFFERED="1"
-          
-          echo "Using base ref for comparison: $GITHUB_BASE_REF"
+
           python DataProcessing/CoordConsistencyCheck/ccc.py
