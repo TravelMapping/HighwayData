@@ -31,7 +31,7 @@ jobs:
         env:
           PR_NUM: ${{ github.event.inputs.pr_number }}
         run: |
-          # Make sure target remote ref exists locally
+          # Fetch master/main branches so git merge-base has access to them
           git fetch origin master:refs/remotes/origin/master || git fetch origin main:refs/remotes/origin/main || true
           
           if [ -n "$PR_NUM" ]; then
@@ -52,19 +52,9 @@ jobs:
           python-version: '3.11'
 
       - name: Run Coordinate Consistency Check
+        env:
+          GITHUB_BASE_REF: ${{ github.base_ref }}
+          PYTHONUNBUFFERED: "1"
         run: |
-          # Determine the base branch (default to master)
-          BASE_BRANCH="${{ github.base_ref }}"
-          if [ -z "$BASE_BRANCH" ]; then
-            BASE_BRANCH="master"
-          fi
-
-          # Find the exact commit where this PR branched off from the base branch
-          MERGE_BASE=$(git merge-base "origin/$BASE_BRANCH" HEAD || echo "origin/$BASE_BRANCH")
-          echo "Comparing against merge-base: $MERGE_BASE"
-
-          # Pass the specific commit SHA to ccc.py
-          export GITHUB_BASE_REF="$MERGE_BASE"
-          export PYTHONUNBUFFERED="1"
-
           python DataProcessing/CoordConsistencyCheck/ccc.py
+
