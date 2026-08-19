@@ -20,6 +20,9 @@ on:
 jobs:
   check-coordinates:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write # <-- Required to post comments on PRs
 
     steps:
       - name: Checkout repository
@@ -31,9 +34,7 @@ jobs:
         env:
           PR_NUM: ${{ github.event.inputs.pr_number }}
         run: |
-          # Fetch master/main branches so git merge-base has access to them
           git fetch origin master:refs/remotes/origin/master || git fetch origin main:refs/remotes/origin/main || true
-          
           if [ -n "$PR_NUM" ]; then
             echo "Fetching and checking out PR #$PR_NUM..."
             git fetch origin pull/$PR_NUM/head:manual-pr-check
@@ -52,9 +53,26 @@ jobs:
           python-version: '3.11'
 
       - name: Run Coordinate Consistency Check
+        continue-on-error: true # Let workflow continue so it can post the comment before failing
+        id: ccc_run
         env:
           GITHUB_BASE_REF: ${{ github.base_ref }}
           PYTHONUNBUFFERED: "1"
         run: |
-          python DataProcessing/CoordConsistencyCheck/ccc.py
+          python DataProcessing/CoordConsistencyCheck/ccc.py 2>&1
 
+      - name: Post or Update PR Comment
+        if: github.event_name == 'pull_request'
+        uses: peter-evans/create-or-update-comment@v4
+        with:
+          issue-number: ${{ github.event.pull_request.number }}
+          body-path: ${{ env.GITHUB_STEP_SUMMARY }}
+          comment-author: 'github-actions[bot]'
+          edit-mode: replace
+          comment-type: 'pr'
+
+      - name: Check Execution Status
+        if: steps.ccc_run.outcome != 'success'
+        run: |
+          echo "Coordinate Consistency Check failed."
+          exit 1
