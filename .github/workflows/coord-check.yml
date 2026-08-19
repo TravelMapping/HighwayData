@@ -7,6 +7,13 @@ on:
       - main
     paths:
       - '**.wpt'
+  # Allows triggering manually from the GitHub Actions tab or via GitHub CLI
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: 'PR Number to check (leave blank if running directly on a branch)'
+        required: false
+        type: string
 
 jobs:
   check-coordinates:
@@ -16,8 +23,15 @@ jobs:
       - name: Checkout PR repository
         uses: actions/checkout@v4
         with:
-          # Fetch full history so git diff against origin/${{ github.base_ref }} succeeds
+          # Fetch full history so git diff against base branch succeeds
           fetch-depth: 0
+
+      # If a PR number was supplied via manual trigger, checkout that PR's HEAD commit
+      - name: Checkout PR branch (if PR number provided)
+        if: ${{ inputs.pr_number != '' }}
+        run: |
+          git fetch origin pull/${{ inputs.pr_number }}/head:manual-pr-check
+          git checkout manual-pr-check
 
       - name: Checkout DataProcessing repository
         uses: actions/checkout@v4
@@ -32,6 +46,7 @@ jobs:
 
       - name: Run Coordinate Consistency Check
         env:
-          GITHUB_BASE_REF: ${{ github.base_ref }}
+          # Uses github.base_ref if triggered by PR, otherwise defaults to master
+          GITHUB_BASE_REF: ${{ github.base_ref || 'master' }}
         run: |
           python DataProcessing/CoordConsistencyCheck/ccc.py
