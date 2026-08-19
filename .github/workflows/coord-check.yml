@@ -48,7 +48,7 @@ jobs:
 
       - name: Run Coordinate Consistency Check
         env:
-          # Uses github.base_ref if triggered by PR, otherwise defaults to master
-          GITHUB_BASE_REF: ${{ github.base_ref || 'master' }}
+          GITHUB_BASE_REF: master
+          PYTHONUNBUFFERED: "1"
         run: |
           python DataProcessing/CoordConsistencyCheck/ccc.py
