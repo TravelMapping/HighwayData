@@ -52,10 +52,15 @@ jobs:
           python-version: '3.11'
 
       - name: Run Coordinate Consistency Check
-        env:
-          # If triggered via workflow_dispatch, github.base_ref is empty.
-          # We fall back explicitly to 'master' so ccc.py compares against origin/master.
-          GITHUB_BASE_REF: ${{ github.base_ref != '' && github.base_ref || 'master' }}
-          PYTHONUNBUFFERED: "1"
         run: |
+          # Fall back to master if github.base_ref is empty
+          TARGET_REF="${{ github.base_ref }}"
+          if [ -z "$TARGET_REF" ]; then
+            TARGET_REF="master"
+          fi
+          
+          export GITHUB_BASE_REF="$TARGET_REF"
+          export PYTHONUNBUFFERED="1"
+          
+          echo "Using base ref for comparison: $GITHUB_BASE_REF"
           python DataProcessing/CoordConsistencyCheck/ccc.py
