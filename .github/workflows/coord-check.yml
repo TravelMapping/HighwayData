@@ -1,0 +1,37 @@
+name: Coordinate Consistency Check
+
+on:
+  pull_request:
+    branches:
+      - master
+      - main
+    paths:
+      - '**.wpt'
+
+jobs:
+  check-coordinates:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout PR repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch full history so git diff against origin/${{ github.base_ref }} succeeds
+          fetch-depth: 0
+
+      - name: Checkout DataProcessing repository
+        uses: actions/checkout@v4
+        with:
+          repository: TravelMapping/DataProcessing
+          path: DataProcessing
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Coordinate Consistency Check
+        env:
+          GITHUB_BASE_REF: ${{ github.base_ref }}
+        run: |
+          python DataProcessing/CoordConsistencyCheck/ccc.py
