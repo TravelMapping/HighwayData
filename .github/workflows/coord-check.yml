@@ -8,13 +8,13 @@ on:
       - master
       - main
     paths:
-      - '**.wpt'
-  # Allows triggering manually from the GitHub Actions tab or via GitHub CLI
+      - '**/*.wpt'
   workflow_dispatch:
     inputs:
       pr_number:
-        description: 'PR Number to check (leave blank if running directly on a branch)'
+        description: 'PR Number to check (leave blank for current branch)'
         required: false
+        default: ''
         type: string
 
 jobs:
@@ -22,18 +22,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout PR repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Fetch full history so git diff against base branch succeeds
           fetch-depth: 0
 
-      # If a PR number was supplied via manual trigger, checkout that PR's HEAD commit
-      - name: Checkout PR branch (if PR number provided)
-        if: ${{ inputs.pr_number != '' }}
+      - name: Fetch target branches and setup PR commit
+        env:
+          PR_NUM: ${{ github.event.inputs.pr_number }}
         run: |
-          git fetch origin pull/${{ inputs.pr_number }}/head:manual-pr-check
-          git checkout manual-pr-check
+          # Make sure target remote ref exists locally
+          git fetch origin master:refs/remotes/origin/master || git fetch origin main:refs/remotes/origin/main || true
+          
+          if [ -n "$PR_NUM" ]; then
+            echo "Fetching and checking out PR #$PR_NUM..."
+            git fetch origin pull/$PR_NUM/head:manual-pr-check
+            git checkout manual-pr-check
+          fi
 
       - name: Checkout DataProcessing repository
         uses: actions/checkout@v4
@@ -48,7 +53,9 @@ jobs:
 
       - name: Run Coordinate Consistency Check
         env:
-          GITHUB_BASE_REF: master
+          # If triggered via workflow_dispatch, github.base_ref is empty.
+          # We fall back explicitly to 'master' so ccc.py compares against origin/master.
+          GITHUB_BASE_REF: ${{ github.base_ref != '' && github.base_ref || 'master' }}
           PYTHONUNBUFFERED: "1"
         run: |
           python DataProcessing/CoordConsistencyCheck/ccc.py
