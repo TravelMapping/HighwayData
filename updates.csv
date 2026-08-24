@@ -1092,6 +1092,11 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2026-08-23;Czechia;D35 (Opatovice nad Labem);cze.d035opa;Route extended at east end from exit 157 to temporary motorway end west of Homole tunnel
+2026-08-23;Czechia;D35 (Vysoké Mýto);cze.d035vys;Route extended at west end from exit 166 to temporary motorway end east of Homole tunnel
+2026-08-23;Czechia;E442;cze.e442;Route relocated from I17 and I35, and onto D35 between D35's exit 157 and exit 171
+2026-08-23;Czechia;II617;cze.ii617;New Route
+2026-08-23;Czechia;II635 (Vysoké Mýto);cze.ii635vys;Route extended at north end from D35's exit 166 to I36
 2026-08-18;Czechia;E55;cze.e55;Route relocated from the old border crossing south of Dolní Dvořiště, and onto new alignment west of it between D3's exit 174 and the Austrian border
 2026-08-18;Czechia;I3 (Kaplice);cze.i003;Route relocated from the old border crossing south of Dolní Dvořiště, and onto new alignment west of it between D3's exit 174 and the Austrian border
 2026-08-18;Czechia;II163;cze.ii163;Route extended at east end from D3 to II603
@@ -2376,6 +2381,9 @@ date;region;route;root;description
 2016-09-21;(Germany) Berlin;Autobahnzubringer Berlin-Schmargendorf;deube.autzubsch;New Route
 2015-09-15;(Germany) Berlin;E26;deube.e26;Route extended at east end from the A100/A111 junction to A100 exit 10
 2015-09-15;(Germany) Berlin;E36;deube.e36;Route extended at west end from the A100/A113 junction to A100 exit 10
+2026-08-23;(Germany) Brandenburg;B97 (Cottbus);deubb.b097;Route relocated from old alignment to A15's exit 6 (L48 now), and onto new alignment to new A15 exit 5b
+2026-08-23;(Germany) Brandenburg;B168;deubb.b168;Route truncated at south end from junction with old B97 to junction with new B97
+2026-08-23;(Germany) Brandenburg;L48;deubb.l048;Route extended at north end from A15 to L49
 2025-11-02;(Germany) Brandenburg;B246;deubb.b246;Route relocated in Zossen from Nächst Neuendorfer Chausee and onto new alignment between B96 and Nächst Neuendorfer Landstraße
 2025-11-02;(Germany) Brandenburg;L19;deubb.l019;Route relocated through Schönberg and onto former K6802 and B167 between Schönberg and Herzberg
 2025-11-02;(Germany) Brandenburg;L50;deubb.l050;Route truncated at south end from B168 to actual transition east of Weidmannsruh
@@ -2631,6 +2639,10 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2026-08-22;(Germany) North Rhine-Westphalia;L616;deunw.l616;Route extended at west end from L823 to L954
+2026-08-22;(Germany) North Rhine-Westphalia;L828 (Horn);;Route deleted
+2026-08-22;(Germany) North Rhine-Westphalia;L954 (Main);deunw.l954;Route truncated at north end from B239 to B1, route through Horn was downgraded
+2026-08-22;(Germany) North Rhine-Westphalia;L954 (Horn);deunw.l954hor;New Route (remainder of L954 north of Horn)
 2026-02-22;(Germany) North Rhine-Westphalia;L80 (Bergisch-Born);;Route removed
 2026-05-23;(Germany) North Rhine-Westphalia;B474 (Datteln);deunw.b474dat;New Route
 2026-02-22;(Germany) North Rhine-Westphalia;L450;deunw.l450;Route relocated from Drohne and Mendenerstraße in Mülheim, and onto Kampstraße and Bismarckstraße between Drohne and B1
@@ -3039,6 +3051,7 @@ date;region;route;root;description
 2015-10-26;(Germany) Schleswig-Holstein;A23;deush.a023;Route extended at north end from exit 10 to exit 2
 2015-10-26;(Germany) Schleswig-Holstein;A23 (Heide);;Route merged into main A23
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
+2026-08-23;(Germany) Thuringia;L2099;deuth.l2099;Route truncated at south end from Höngeda to Bollstedt
 2024-08-29;(Germany) Thuringia;L2009;;Route deleted
 2024-08-26;(Germany) Thuringia;L1079;;Route deleted
 2026-08-21;(Germany) Thuringia;B243 (Main);deuth.b243;Route relocated from through Holbach, and onto new bypass
@@ -8731,6 +8744,8 @@ date;region;route;root;description
 2017-07-01;(USA) Florida;I-595;fl.i595;Relabeled all exit numbers between I-75 & I-95 (exit 10), due to a renumbering of all exits after Express lanes were added to I-595.
 2016-06-16;(USA) Florida;I-10;fl.i010;Relocated exit 355 0.8 miles to the west to a new interchange with Hammond Boulvard, and relabeled former interchange (now closed) at Greeland Avenue as *355A
 2016-06-16;(USA) Florida;I-795 Future (Jacksonville);fl.i795futjac;Extended at south end from the interchange with US 1 down to a new interchange with I-95
+2026-08-21;(USA) Georgia;GA 88;ga.ga088;Shortened west end to US1/221_S.
+2026-08-16;(USA) Georgia;GA 85 Alt (Forest Park);ga.ga085altfor;Added route.
 2026-08-16;(USA) Georgia;GA 61;ga.ga061;Relocated to bypass around Villa Rica between US78_W and DalHwy.
 2026-08-16;(USA) Georgia;GA 380;ga.ga380;Extended from RockEagRd to new north end at GA83_N.
 2026-08-16;(USA) Georgia;GA 25 Spr (St. Simons);ga.ga025sprsts;Added route.
@@ -8826,6 +8841,8 @@ date;region;route;root;description
 2017-04-02;(USA) Idaho;US 95;id.us095;Moved east onto new alignment in Athol, between waypoints RemRd and *OldUS95_N
 2017-04-02;(USA) Idaho;US 95;id.us095;Relocated east from US 2 (5th Avenue), Cedar Street, 1st St, and Superior St onto new Sandpoint bypass between waypoints SupSt and US2/200
 2015-08-03;(USA) Idaho;ID 16;id.id016;Route extended at south end from ID44 to US20/26
+2026-08-22;(USA) Illinois;IL 83;il.il083;Removed from Ivanhoe Road between railroad crossing and IL 137 and relocated onto Antioch Road.  Old IL137 point now *IvaRd_N.
+2026-08-22;(USA) Illinois;IL 137;il.il137;Truncated slightly along Antioch Road to new intersection with IL 83
 2026-07-28;(USA) Illinois;IL 1;il.il001;Rerouted from Union Ave and E 34th St to Chicago Rd in Steger between points UniAve_N and 34thSt
 2026-05-11;(USA) Illinois;IL 110;il.il110;Corrected US67_N to US67_S at junction north of Macomb
 2026-05-09;(USA) Illinois;IL 390;il.il390;Reversed numbers of 7A (IL 19) and 7B (Gary Avenue)
@@ -9776,6 +9793,7 @@ date;region;route;root;description
 2017-04-24;(USA) Mississippi;I-22;ms.i022;New Route
 2017-04-24;(USA) Mississippi;I-22 Future (Tupelo);ms.i022;Route deleted
 2015-10-25;(USA) Mississippi;I-269;ms.i269;Added route
+2026-08-22;(USA) Missouri;MO 121;mo.mo121;Truncated from inside Wallace State Park to intersection with MOsHH at edge of park
 2026-07-28;(USA) Missouri;I-35;mo.i035;Point 2Y relocated from Broadway (now 2Z) to Buck O'Neil Bridge ramp.
 2026-05-03;(USA) Missouri;MO 740;mo.mo740;Extended east from US 63 to Maguire Boulevard
 2026-05-03;(USA) Missouri;I-44 BL (Lebanon);mo.i044blleb;Route re-added
@@ -10857,6 +10875,7 @@ date;region;route;root;description
 2015-08-18;(USA) South Carolina;US 21;sc.us021;Removed from Boundary Street & Ribaut Road in Beaufort (now US 21 Business & SC 281), and relocated onto Parris Island Gateway & Ribaut Road south of Beaufort, between the intersections of Parris Island Gateway/Boundary Street (new location for US21BusBea_N) and Ribaut Road/Ladys Island Road (SC281, formerly SC802_S).
 2015-08-18;(USA) South Carolina;US 21 Business (Beaufort);sc.us021busbea;Extended westward from SC 281 (formerly US21_N) along Boundary Street (former US 21) to the new northern/western end at US 21/Parris Island Gateway (new US21_N).
 2015-08-18;(USA) South Carolina;US 78 Truck (North Charleston);;Deleted route
+2026-08-22;(USA) South Dakota;SD 37 Truck (Huron);sd.sd037trkhur;Removed segment east of SD 37 along 21st Street SE and Custer Avenue SE
 2026-02-06;(USA) South Dakota;SD 203;sd.sd203;New Route
 2025-06-23;(USA) South Dakota;SD 1889;sd.sd1889;New Route
 2025-02-27;(USA) South Dakota;US 14;sd.us014;Rerouted along former US 14/83 Truck in Pierre
@@ -11348,6 +11367,8 @@ date;region;route;root;description
 2018-01-01;(USA) Virginia;US 15 Alt (Farmville);va.us015altfar;New route
 2018-01-01;(USA) Virginia;VA 167;va.va167;New route
 2018-01-01;(USA) Virginia;VA 154 (Covington);;Route deleted
+2026-08-22;(USA) Washington;WA 155 Spur (Omak);wa.wa155sproma;Route added
+2026-08-22;(USA) Washington;WA 213;wa.wa213;Route added
 2025-06-08;(USA) Washington;WA 501 (Ridgefield);;Route deleted
 2025-06-06;(USA) Washington;WA 509;wa.wa509;Route extended from southern terminus at I-705 to PacAve
 2025-06-06;(USA) Washington;WA 99;wa.wa099;Northern terminus of route changed from I-5 to WA526/527
