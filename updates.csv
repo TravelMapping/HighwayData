@@ -2203,6 +2203,9 @@ date;region;route;root;description
 2015-09-15;(Germany) Baden-Württemberg;E54 (Singen);deubw.e54sin;Route relocated from B31 and onto B31n between A98 exit 13 and the B31/B31n junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from Nollinger Strasse and B34 to B316 between Nollinger Strasse and the B34/B316 junction
 2015-09-15;(Germany) Baden-Württemberg;E54;deubw.e54;Route relocated from L154 to A98 between A98 exits 11 and 13
+2026-08-22;(Germany) Bavaria;St2123;deuby.st2123;Route relocated from through Vilseck, and onto eastern bypass between Froschau and St2166
+2026-08-22;(Germany) Bavaria;St2351;deuby.st2351;Route relocated from through Moosach and Tagling, and onto former EBE13 between Glonn and Grafing
+2026-08-21;(Germany) Bavaria;St2177;deuby.st2177;Route relocated from through Waldershof, and onto western bypass between St2121 and TIR17 (Kemnather Straße)
 2026-05-23;(Germany) Bavaria;B2 (Augsburg);deuby.b002;Route relocated in Fürstenfeldbruck from Augsburger Straße, Hauptstraße and Münchner Straße, and onto B471 bypass, Schöngeisinger Straße and Oskar-von-Miller-Straße between St2054 and FFB17
 2026-05-13;(Germany) Bavaria;St2038;deuby.st2038;Route relocated from through Habach, and onto eastern bypass and B472
 2025-12-25;(Germany) Bavaria;St2689;deuby.st2689;Route relocated from through Döllnitz and onto eastern bypass
@@ -2629,6 +2632,10 @@ date;region;route;root;description
 2015-12-21;(Germany) Mecklenburg-Western Pomerania;A14;deumv.a014;Route extended at south end from exit 7 to exit 9
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route truncated at east end from Trelleborger Strasse to B96/B96b junction
 2015-09-15;(Germany) Mecklenburg-Western Pomerania;E22;deumv.e22;Route extended at east end from B96/B96b junction to the Sassnitz-Trelleborg ferry
+2026-08-22;(Germany) North Rhine-Westphalia;L616;deunw.l616;Route extended at west end from L823 to L954
+2026-08-22;(Germany) North Rhine-Westphalia;L828 (Horn);;Route deleted
+2026-08-22;(Germany) North Rhine-Westphalia;L954 (Main);deunw.l954;Route truncated at north end from B239 to B1, route through Horn was downgraded
+2026-08-22;(Germany) North Rhine-Westphalia;L954 (Horn);deunw.l954hor;New Route (remainder of L954 north of Horn)
 2026-02-22;(Germany) North Rhine-Westphalia;L80 (Bergisch-Born);;Route removed
 2026-05-23;(Germany) North Rhine-Westphalia;B474 (Datteln);deunw.b474dat;New Route
 2026-02-22;(Germany) North Rhine-Westphalia;L450;deunw.l450;Route relocated from Drohne and Mendenerstraße in Mülheim, and onto Kampstraße and Bismarckstraße between Drohne and B1
@@ -3039,6 +3046,7 @@ date;region;route;root;description
 2015-09-15;(Germany) Schleswig-Holstein;A23 (Heide);deush.a023hei;Route extended at south end from exit 8 to exit 9
 2024-08-29;(Germany) Thuringia;L2009;;Route deleted
 2024-08-26;(Germany) Thuringia;L1079;;Route deleted
+2026-08-21;(Germany) Thuringia;B243 (Main);deuth.b243;Route relocated from through Holbach, and onto new bypass
 2025-12-25;(Germany) Thuringia;B247;deuth.b247;Route relocated from through Großengottern and Schönstedt, and onto new bypass between L2100 and L2103
 2025-12-25;(Germany) Thuringia;L2100;deuth.l2100;Route relocated from through Großengottern, and onto bypass between Heroldishausen and B247
 2025-12-25;(Germany) Thuringia;L2103;deuth.l2103;Route extended at east end from Schönstedt to new B247 (former B247)
@@ -8289,6 +8297,11 @@ date;region;route;root;description
 2015-07-24;(UK) Wales;A4046;wls.a4046;Route extended at north end from A4281 to A4047
 2015-07-24;(UK) Wales;A4281;wls.a4281;New Route
 2015-07-24;(UK) Wales;A5153;wls.a5153;Route extended at south end from A55 to B4545
+2026-08-21;(USA) Alabama;AL 161;al.al161;Route extended north from Orange Beach along Canal Rd, Foley Beach Express, and Baldwin Beach Express to I-10.
+2026-08-21;(USA) Alabama;AL 161 (Gulf Shores);al.al161gul;Route added
+2026-08-21;(USA) Alabama;AL 180;al.al180;Route truncated west from Orange Beach Blvd to Foley Beach Express in Orange Beach.
+2026-08-21;(USA) Alabama;AL 306;al.al306;Route added
+2026-08-21;(USA) Alabama;AL 307;al.al307;Route added
 2026-07-29;(USA) Alabama;US 82;al.us082;Relocated onto new northerly Gordo bypass between points AL482_W and AL482_E.
 2026-07-29;(USA) Alabama;AL 159;al.al159;US82 label moved from southern terminus to new Gordo bypass. Southern terminus point is now labeled AL482.
 2026-07-29;(USA) Alabama;AL 482;al.al482;Route added
