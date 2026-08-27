@@ -115,14 +115,15 @@ I-694(43A) http://www.openstreetmap.org/?lat=45.059669&lon=-93.147175
 I-694(43B) http://www.openstreetmap.org/?lat=45.056145&lon=-93.131372
 I-694(45) http://www.openstreetmap.org/?lat=45.044957&lon=-93.106309
 I-694(46) http://www.openstreetmap.org/?lat=45.034169&lon=-93.088531
-I-35(112) http://www.openstreetmap.org/?lat=45.022878&lon=-93.089722
-I-35(111) http://www.openstreetmap.org/?lat=45.010630&lon=-93.089679
-I-35(110B) http://www.openstreetmap.org/?lat=44.999054&lon=-93.089486
-I-35(110A) http://www.openstreetmap.org/?lat=44.991270&lon=-93.089240
-I-35(109) http://www.openstreetmap.org/?lat=44.977140&lon=-93.088660
-I-35(108) http://www.openstreetmap.org/?lat=44.961382&lon=-93.090795
-I-35(107C) http://www.openstreetmap.org/?lat=44.957897&lon=-93.090860
-I-35(107A) http://www.openstreetmap.org/?lat=44.954564&lon=-93.091750
+I-35E(112) http://www.openstreetmap.org/?lat=45.022878&lon=-93.089722
+I-35E(111) +I-35(111) http://www.openstreetmap.org/?lat=45.010630&lon=-93.089679
+I-35E(110B) http://www.openstreetmap.org/?lat=44.999054&lon=-93.089486
+I-35E(110A) http://www.openstreetmap.org/?lat=44.991270&lon=-93.089240
+I-35E(109) +I-35(109) http://www.openstreetmap.org/?lat=44.977140&lon=-93.088660
+I-35E(108) http://www.openstreetmap.org/?lat=44.966756&lon=-93.089154
+*I-35(108) http://www.openstreetmap.org/?lat=44.961329&lon=-93.090570
+I-35E(107C) +I-35(107C) http://www.openstreetmap.org/?lat=44.957897&lon=-93.090860
+I-35E(107A) +I-35(107A) http://www.openstreetmap.org/?lat=44.954564&lon=-93.091750
 I-94(242C) http://www.openstreetmap.org/?lat=44.952188&lon=-93.086729
 I-94(242D) http://www.openstreetmap.org/?lat=44.952803&lon=-93.082480
 I-94(243) http://www.openstreetmap.org/?lat=44.954929&lon=-93.077288
