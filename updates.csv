@@ -1093,6 +1093,12 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2026-08-29;Czechia;I39;cze.i039;Route truncated at east end from České Budějovice (I20) to west of Dolní Třebonín (II603 and II155 now), and reextended onto new alignment to D3's exit 151
+2026-08-29;Czechia;II155 (Chlumec);cze.ii155chl;New Route (former I39)
+2026-08-29;Czechia;II155 (Borovany);cze.ii155;Route truncated at west end from west of Dolní Třebonín (II639) to D3
+2026-08-29;Czechia;II155 (Borovany);cze.ii155;Route relocated from through Prostřední Svince, and onto south bypass east of D3
+2026-08-29;Czechia;II603 (České Budějovice);cze.ii603;Route extended at south end from I20 in České Budějovice to I3 in Kaplice-nádraží (former I39 and II603Ves)
+2026-08-29;Czechia;II603 (Velešín);cze.ii603;Route merged into main route
 2026-08-23;Czechia;D35 (Opatovice nad Labem);cze.d035opa;Route extended at east end from exit 157 to temporary motorway end west of Homole tunnel
 2026-08-23;Czechia;D35 (Vysoké Mýto);cze.d035vys;Route extended at west end from exit 166 to temporary motorway end east of Homole tunnel
 2026-08-23;Czechia;E442;cze.e442;Route relocated from I17 and I35, and onto D35 between D35's exit 157 and exit 171
@@ -8633,6 +8639,7 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
+2026-08-27;(USA) Connecticut;CT 2;ct.ct002;Route extended west from I-91 to Columbus Blvd in Hartford.
 2026-05-24;(USA) Connecticut;CT 10;ct.ct010;Extended south from I-95 to southern intersection with Kimberly Ave. This change is due to project reconfiguring the interchange with I-95 that consolidated exits 44 and 45 into one. 
 2026-05-09;(USA) Connecticut;I-291;ct.i291;Relabeled exits from sequential to distance-based.
 2026-05-09;(USA) Connecticut;I-384;ct.i384;Relabeled exits from sequential to distance-based.
@@ -10516,6 +10523,8 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2026-08-27;(USA) Oklahoma;OK 7D;ok.ok007d;Route extended east 0.34 miles at the north end to the eastern Bromide town line.
+2026-08-27;(USA) Oklahoma;OK 63A;ok.ok063a;Route truncated to SE 200th Rd outside of the gated-off Oklahoma Veterans Center.
 2026-08-11;(USA) Oklahoma;OK 44A;ok.ok044a;Route truncated from Quartz Mountain State Park entrance to Kiowa/Greer County line.
 2026-08-11;(USA) Oklahoma;OK 51 Spur (Tahlequah);ok.ok051sprtah;OK82 label moved from eastern terminus to new aligment of OK 82 further west. Eastern terminus point is now labeled OldOK82.
 2026-08-11;(USA) Oklahoma;OK 74D;;Route deleted
@@ -11011,6 +11020,7 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-08-27;(USA) Texas;TX Spur 303 (Arlington);tx.sp0303;Extended east from FM 1382 to SE 14th St in Grand Prairie.
 2026-08-10;(USA) Texas;Chisos Basin Road, Big Bend NP;tx.chibasrd;Route added
 2026-08-07;(USA) Texas;I-30;tx.i030;Waypoint label 46B moved from an alt label at I-45/I-345/US 75 (labeled 47B) to S St Paul St.
 2026-08-07;(USA) Texas;I-35E;tx.i035e;Waypoint label 437 moved from an alt label at TX Spr 348 (labeled 436B) to Manana Dr.
