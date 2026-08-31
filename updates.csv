@@ -580,6 +580,7 @@ date;region;route;root;description
 2016-01-12;Belgium;Ring Mons Est;bel.r005;New Route
 2016-01-12;Belgium;Ring Mons Ouest;bel.r005a;New Route
 2015-07-24;Belgium;A601;;Route deleted
+2026-08-25;Bosnia and Herzegovina;A1 (Medakovo);bih.a001med;Route added
 2025-12-19;Bosnia and Herzegovina;A1 (Bosna);bih.a001bos;Route added
 2025-12-19;Bosnia and Herzegovina;E73;bih.e73;Route removed from M17 and relocated onto A1 between A1 exits 10 and 11
 2025-10-31;Bosnia and Herzegovina;E73;bih.e73;Route truncated at southern end from Croatian border at Metkovic to M17 at Capljina and extended at southern end from M17 at Capljina to Croatian border at Bijaca
@@ -1092,6 +1093,12 @@ date;region;route;root;description
 2022-09-05;Cyprus;D30 (Gemikonagi);cyp.d30;Route merged into main route
 2022-09-05;Cyprus;D65;cyp.d65;Route added
 2015-07-17;Cyprus;A9;cyp.a009;Route extended at west end from F919 to B9
+2026-08-29;Czechia;I39;cze.i039;Route truncated at east end from České Budějovice (I20) to west of Dolní Třebonín (II603 and II155 now), and reextended onto new alignment to D3's exit 151
+2026-08-29;Czechia;II155 (Chlumec);cze.ii155chl;New Route (former I39)
+2026-08-29;Czechia;II155 (Borovany);cze.ii155;Route truncated at west end from west of Dolní Třebonín (II639) to D3
+2026-08-29;Czechia;II155 (Borovany);cze.ii155;Route relocated from through Prostřední Svince, and onto south bypass east of D3
+2026-08-29;Czechia;II603 (České Budějovice);cze.ii603;Route extended at south end from I20 in České Budějovice to I3 in Kaplice-nádraží (former I39 and II603Ves)
+2026-08-29;Czechia;II603 (Velešín);cze.ii603;Route merged into main route
 2026-08-23;Czechia;D35 (Opatovice nad Labem);cze.d035opa;Route extended at east end from exit 157 to temporary motorway end west of Homole tunnel
 2026-08-23;Czechia;D35 (Vysoké Mýto);cze.d035vys;Route extended at west end from exit 166 to temporary motorway end east of Homole tunnel
 2026-08-23;Czechia;E442;cze.e442;Route relocated from I17 and I35, and onto D35 between D35's exit 157 and exit 171
@@ -6506,6 +6513,7 @@ date;region;route;root;description
 2015-12-02;Serbia;E75;srb.e75;Route removed from B44 and relocated onto A1 between A1 exits 55 and 59
 2015-07-28;Serbia;E75;srb.e75;Relocated from motorway route through central Belgrade onto Belgrade Ring Road, between the M22.1 at Batajnica and the southern junction with E75 Belgrade
 2015-07-28;Serbia;E75 (Belgrade);srb.e75bel;New Route
+2026-08-25;Senegal;A1;sen.a001;Route extended at east end from exit 18 to Mbadakhoune
 2024-02-15;Senegal;A1;sen.a001;Route truncated at east end from exit 19 to A2 and extended at east end to exit 18
 2024-02-15;Senegal;A2;sen.a002;Route reentered (swapped with A1)
 2019-01-24;Senegal;A2;sen.a002;Route extended at east end from exit 14 to exit 17
@@ -6825,6 +6833,7 @@ date;region;route;root;description
 2019-09-17;(Spain) Canary Islands;TF5;espcn.tf005;Route extended at east end from Avenida Reyes Catolicos to TF4/11, and at west end from exit 39 to TF82
 2025-07-21;(Spain) Cantabria;A67a;espcb.a067a;Route added
 2025-04-18;(Spain) Cantabria;A67;espcb.a067;Route removed from A8 and relocated onto direct route between exits 181 and 185
+2026-08-25;(Spain) Castile and Leon;A11 (Valladolid);espcl.a011val;Route extended at east end from exit to exit
 2026-06-26;(Spain) Castile and Leon;A11 (Aranda de Duero);espcl.a011ara;Route extended at west end from BUV2301 to N122
 2025-10-16;(Spain) Castile and Leon;LE20;espcl.le020;Route reentered (old route part of N601)
 2025-05-07;(Spain) Castile and Leon;LE20;espcl.le020;Route added
@@ -8630,6 +8639,7 @@ date;region;route;root;description
 2015-08-03;(USA) Colorado;Northwest Parkway;co.nwpkwy;New Route
 2015-08-03;(USA) Colorado;Pena Boulevard;co.penablvd;New Route
 2015-08-03;(USA) Colorado;US 287 Business (Berthoud);;Route deleted
+2026-08-27;(USA) Connecticut;CT 2;ct.ct002;Route extended west from I-91 to Columbus Blvd in Hartford.
 2026-05-24;(USA) Connecticut;CT 10;ct.ct010;Extended south from I-95 to southern intersection with Kimberly Ave. This change is due to project reconfiguring the interchange with I-95 that consolidated exits 44 and 45 into one. 
 2026-05-09;(USA) Connecticut;I-291;ct.i291;Relabeled exits from sequential to distance-based.
 2026-05-09;(USA) Connecticut;I-384;ct.i384;Relabeled exits from sequential to distance-based.
@@ -10513,6 +10523,8 @@ date;region;route;root;description
 2015-12-03;(USA) Ohio;OH 684;oh.oh684;Route added
 2015-12-03;(USA) Ohio;OH 762;oh.oh762;Route extended at east end from US23 to Rickenbacker Parkway
 2015-12-03;(USA) Ohio;OH 794;oh.oh794;Route deleted
+2026-08-27;(USA) Oklahoma;OK 7D;ok.ok007d;Route extended east 0.34 miles at the north end to the eastern Bromide town line.
+2026-08-27;(USA) Oklahoma;OK 63A;ok.ok063a;Route truncated to SE 200th Rd outside of the gated-off Oklahoma Veterans Center.
 2026-08-11;(USA) Oklahoma;OK 44A;ok.ok044a;Route truncated from Quartz Mountain State Park entrance to Kiowa/Greer County line.
 2026-08-11;(USA) Oklahoma;OK 51 Spur (Tahlequah);ok.ok051sprtah;OK82 label moved from eastern terminus to new aligment of OK 82 further west. Eastern terminus point is now labeled OldOK82.
 2026-08-11;(USA) Oklahoma;OK 74D;;Route deleted
@@ -11008,6 +11020,9 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-08-29;(USA) Texas;US 62 (El Paso, TX);tx.us062elp;S El Paso St half of El Paso/Stanton couplet removed in El Paso, with both directions now only following S Stanton St.
+2026-08-29;(USA) Texas;US 85;tx.us085;S El Paso St half of El Paso/Stanton couplet removed in El Paso, with both directions now only following S Stanton St.
+2026-08-27;(USA) Texas;TX Spur 303 (Arlington);tx.sp0303;Extended east from FM 1382 to SE 14th St in Grand Prairie.
 2026-08-10;(USA) Texas;Chisos Basin Road, Big Bend NP;tx.chibasrd;Route added
 2026-08-07;(USA) Texas;I-30;tx.i030;Waypoint label 46B moved from an alt label at I-45/I-345/US 75 (labeled 47B) to S St Paul St.
 2026-08-07;(USA) Texas;I-35E;tx.i035e;Waypoint label 437 moved from an alt label at TX Spr 348 (labeled 436B) to Manana Dr.
