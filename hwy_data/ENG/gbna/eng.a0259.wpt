@@ -1,13 +1,15 @@
 M20 http://www.openstreetmap.org/?lat=51.095531&lon=1.156096
-A2034 http://www.openstreetmap.org/?lat=51.094790&lon=1.158113
-A260_E http://www.openstreetmap.org/?lat=51.094844&lon=1.180816
-A260_W http://www.openstreetmap.org/?lat=51.086111&lon=1.176910
-A2034_N http://www.openstreetmap.org/?lat=51.083240&lon=1.170709
-A2034_S http://www.openstreetmap.org/?lat=51.081177&lon=1.170001
-B2064 http://www.openstreetmap.org/?lat=51.081069&lon=1.164765
-A2033 http://www.openstreetmap.org/?lat=51.076432&lon=1.165645
+A20_W +A2034 http://www.openstreetmap.org/?lat=51.094790&lon=1.158113
+A260 +A260_E http://www.openstreetmap.org/?lat=51.094844&lon=1.180816
+A2033_E +A260_W http://www.openstreetmap.org/?lat=51.086111&lon=1.176910
+A2034_W +A2034_N http://www.openstreetmap.org/?lat=51.083240&lon=1.170709
+A2034_E +A2034_S http://www.openstreetmap.org/?lat=51.081177&lon=1.170001
+B2064 http://www.openstreetmap.org/?lat=51.081069&lon=1.164851
+A2033_W +A2033 http://www.openstreetmap.org/?lat=51.076403&lon=1.165685
 B2170 http://www.openstreetmap.org/?lat=51.073924&lon=1.147385
 B2063 http://www.openstreetmap.org/?lat=51.072522&lon=1.119747
+StaRd_Hyt http://www.openstreetmap.org/?lat=51.072435&lon=1.089964
+StaSt http://www.openstreetmap.org/?lat=51.070464&lon=1.082529
 A261 http://www.openstreetmap.org/?lat=51.071552&lon=1.074085
 BurRd_E http://www.openstreetmap.org/?lat=51.063731&lon=1.056833
 BurRd_W http://www.openstreetmap.org/?lat=51.033892&lon=1.005507
@@ -24,7 +26,7 @@ A268_E http://www.openstreetmap.org/?lat=50.953020&lon=0.736277
 A268_W http://www.openstreetmap.org/?lat=50.950046&lon=0.728617
 +X06 http://www.openstreetmap.org/?lat=50.931117&lon=0.724669
 SeaRd http://www.openstreetmap.org/?lat=50.925734&lon=0.714433
-StaRd http://www.openstreetmap.org/?lat=50.928033&lon=0.706344
+StaRd_Win  +StaRd http://www.openstreetmap.org/?lat=50.928033&lon=0.706344
 MonWalk http://www.openstreetmap.org/?lat=50.920269&lon=0.705571
 ButLn http://www.openstreetmap.org/?lat=50.909217&lon=0.628881
 ChaLn http://www.openstreetmap.org/?lat=50.894372&lon=0.631800
@@ -82,11 +84,13 @@ A24 http://www.openstreetmap.org/?lat=50.815594&lon=-0.371536
 IlexWay http://www.openstreetmap.org/?lat=50.812362&lon=-0.423188
 A2032/A2700 http://www.openstreetmap.org/?lat=50.822363&lon=-0.434389
 A280 http://www.openstreetmap.org/?lat=50.818273&lon=-0.468936
+RouLn http://www.openstreetmap.org/?lat=50.818158&lon=-0.476661
+StaRd_Ang http://www.openstreetmap.org/?lat=50.818320&lon=-0.489385
 B2187_E http://www.openstreetmap.org/?lat=50.819344&lon=-0.500865
 +X08 http://www.openstreetmap.org/?lat=50.823939&lon=-0.515971
-B2187 http://www.openstreetmap.org/?lat=50.820144&lon=-0.528631
+B2187_N +B2187 http://www.openstreetmap.org/?lat=50.820028&lon=-0.528492
 A284 http://www.openstreetmap.org/?lat=50.820937&lon=-0.537622
-B2284 http://www.openstreetmap.org/?lat=50.821486&lon=-0.544059
+B2284 http://www.openstreetmap.org/?lat=50.821411&lon=-0.544108
 +X09 http://www.openstreetmap.org/?lat=50.820740&lon=-0.556355
 B2187_W http://www.openstreetmap.org/?lat=50.814016&lon=-0.558586
 B2233 http://www.openstreetmap.org/?lat=50.806094&lon=-0.585843
