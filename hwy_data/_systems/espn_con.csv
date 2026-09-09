@@ -6,13 +6,17 @@ espn;NI;;Boceguillas;espcl.n001boc
 espn;NI;;Aranda de Duero;espcl.n001ara
 espn;NI;;Gumiel de Izán;espcl.n001gum
 espn;NI;;Oquillas;espcl.n001oqu
+espn;NI;;Granja Guimara;espcl.n001gra
 espn;NI;;Quintanilla de la Mata;espcl.n001qui
 espn;NI;;Lerma;espcl.n001ler
 espn;NI;;Briviesca;espcl.n001
 espn;NI;;La Puebla de Arganzón;espcl.n001pue
 espn;NI;;Beasain;esppv.n001
 espn;NI;;Idiazabal;esppv.n001idi
+espn;NIa;;Santo Tomé del Puerto;espcl.n001astp
 espn;NIa;;Cerezo de Abajo;espcl.n001a
+espn;NIa;;Castillejo de Mesleón;espcl.n001acas
+espn;N1a;;Aranda de Duero;espcl.n001ara
 espn;NII;;Torremocha del Campo;espcm.n002
 espn;NII;;Saúca;espcm.n002sau
 espn;NII;;Esteras de Medinaceli;espcl.n002est
@@ -23,6 +27,7 @@ espn;NII;;Fraga;espar.n002,espct.n002
 espn;NII;;Cervera;espct.n002cer
 espn;NII;;Mataró;espct.n002mat
 espn;NII;;Figueres;espct.n002fig
+espn;NIIa;;Torija;espcm.n002a;
 espn;NIIa;;Ariza;espar.n002aari
 espn;NIIa;;Calatayud;espar.n002a
 espn;NIIa;;La Almunia de Doña Godina;espar.n002aalm
@@ -46,6 +51,7 @@ espn;NIII;;Chiva;espvc.n003chi
 espn;NIV;;Dosbarrios;espcm.n004dos
 espn;NIV;;La Guardia;espcm.n004gua
 espn;NIV;;Villarta de San Juan;espcm.n004vil
+espn;NIV;;Almuradiel;espcm.n004alm
 espn;NIV;;Bailén;espan.n004bai
 espn;NIV;;Córdoba;espan.n004cor
 espn;NIV;;Dos Hermanas;espan.n004her
@@ -62,24 +68,30 @@ espn;NV;;Miajadas;espex.n005mia
 espn;NV;;Mérida;espex.n005mer
 espn;NV;;Talavera la Real;espex.n005tal
 espn;NVa;;Valmojado;espcm.n005a
+espn;NVa;;Quismondo;espcm.n005aqui
+espn;NVa;;Santa Olalla;espcm.n005asan
+espn;NVa;;Talavera de la Reina;espcm.n005atal
 espn;NVa;;Lagartera;espcm.n005alag
 espn;NVI;;El Espinar;espmd.n006,espcl.n006esp
 espn;NVI;;Rueda;espcl.n006rue
 espn;NVI;;Tordesillas;espcl.n006tor
+espn;NVI;;Mota del Marqués;espcl.n006mot
+espn;NVI;;Villardefrades;espcl.n006vil
 espn;NVI;;Lugo;espcl.n006,espga.n006
 espn;NVIa;;Betanzos;espga.n006a
 espn;N102;;;esppv.n102
 espn;N104;;;esppv.n104
 espn;N110;;Avila;espex.n110,espcl.n110
 espn;N110;;Riaza;espcl.n110ria
-espn;N110a;;;espcl.n110a
+espn;N110a;;Sigueruelo;espcl.n110asig
+espn;N110a;;Cerezo de Arriba;espcl.n110acer
+espn;N110a;;Ayllón;espcl.n110a
 espn;N111;;Viana;espnc.n111
 espn;N111;;Logroño;espri.n111log
 espn;N111;;(Main);espri.n111,espcl.n111
 espn;N111a;;Logroño;espri.n111alog
 espn;N111a;;Piqueras;espri.n111a,espcl.n111a
 espn;N111a;;Garray;espcl.n111agar
-espn;N111a;;Soria;espcl.n111asor
 espn;N113;;;espnc.n113cas,espri.n113val,espnc.n113,espar.n113ula,espri.n113,espar.n113,espri.n113tor,espcl.n113
 espn;N120;;Ourense;espga.n120,espcl.n120tor
 espn;N120;;Burgos;espcl.n120,espri.n120
@@ -92,9 +104,12 @@ espn;N121a;;;esppv.n121a,espnc.n121a
 espn;N121b;;;espnc.n121b
 espn;N121c;;;espnc.n121c,espar.n121c
 espn;N122;;Zamora;espcl.n122zam
+espn;N122;;Valladolid;espcl.n122val
 espn;N122;;Soria;espcl.n122,espar.n122
 espn;N122a;;San Martín del Pedroso;espcl.n122amar
+espn;N122a (Muelas del Pan);espcl.n122amue
 espn;N122a;;La Cistérniga;espcl.n122a
+espn;N122a (Zuzones);espcl.n122azuz
 espn;N122a;;Magallón;espar.n122a
 espn;N123;;;espar.n123
 espn;N123a;;;espar.n123a
@@ -184,6 +199,7 @@ espn;N322;;Linares;espan.n322lin
 espn;N322;;Albacete;espan.n322,espcm.n322,espvc.n322
 espn;N322a;;Albacete;espcm.n322aalb
 espn;N322a;;Casas-Ibáñez;espcm.n322a
+espn;N322a;;Villatoya;espcm.n322avil,espvc.n322a
 espn;N323;;;espan.n323
 espn;N323a;;Jaén;espan.n323a
 espn;N323a;;Campotéjar;espan.n323acam
@@ -258,10 +274,17 @@ espn;N400;;;espcm.n400tol,espmd.n400,espcm.n400
 espn;N401;;;espcm.n401
 espn;N401a;;Sonseca;espcm.n401a
 espn;N401a;;Los Yébenes;espcm.n401ayeb
+espn;N401a;;Fernán Caballero;espcm.n401afer
 espn;N403;;;espcl.n403,espmd.n403,espcm.n403
-espn;N403a;;;espcm.n403a
+espn;N403a;;San Martín de Valdeiglesias;espmd.n403a;
+espn;N403a;;Escalona;espcm.n403a
+espn;N403a;;Maqueda;espcm.n403amaq
 espn;N420;;Puertollano;espan.n420,espcm.n420pue
 espn;N420;;Teruel;espcm.n420,espvc.n420,espar.n420,espct.n420
+espn;N420a;;Argamasilla de Calatrava;espcm.n420aarg
+espn;N420a;;Daimiel;espcm.n420adam
+espn;N420a;;Olivares de Júcar;espcm.n420aoli
+espn;N420a;;Boniches;espcm.n420abon
 espn;N420a;;Teruel;espar.n420a
 espn;N420a;;Coll del Moro;espct.n420acol
 espn;N420a;;Mora de Ebro;espct.n420amor
@@ -271,9 +294,11 @@ espn;N430;;;espex.n430,espcm.n430
 espn;N430a;;Fuenlabrada de los Montes;espex.n430a
 espn;N430a;;Daimiel;espcm.n430adai
 espn;N430a;;Membrilla;espcm.n430amem
+espn;N430a;;La Solana;espcm.n430asol
 espn;N430a;;Ossa de Montiel;espcm.n430aoss
 espn;N430a;;Munera;espcm.n430a
 espn;N430a;;Almansa;espcm.n430aalm
+espn;N430a;;Chinchilla de Montearagón;espcm.n430achi
 espn;N431;;;espan.n431
 espn;N432;;;espex.n432,espan.n432
 espn;N432a;;La Albuera;espex.n432a
@@ -295,7 +320,9 @@ espn;N444;;;espan.n444
 espn;N445;;;espan.n445
 espn;N446;;;espan.n446
 espn;N501;;;espcl.n501
+espn;N501a;;;espcl.n501a
 espn;N502;;;espcl.n502,espcm.n502,espex.n502,espcm.n502her,espan.n502
+espn;N502;;Agudo;espcm.n502agu
 espn;N502a;;Talavera de la Reina;espcm.n502a
 espn;N502a;;Espiel;espan.n502a
 espn;N521;;;espex.n521
@@ -318,6 +345,7 @@ espn;N555;;;espga.n555
 espn;N556;;;espga.n556
 espn;N559;;;espga.n559
 espn;N601;;;espcl.n601
+espn;N601a;;;espcl.n601a
 espn;N603;;;espcl.n603
 espn;N610;;;espcl.n610
 espn;N610a;;;espcl.n610a
@@ -327,6 +355,10 @@ espn;N611a;;;espcl.n611a
 espn;N620;;Salamanca;espcl.n620
 espn;N620;;Valladolid;espcl.n620val
 espn;N620;;Venta de Baños;espcl.n620ven
+espn;N620;;Villodrigo;espcl.n620vil
+espn;N620a;;Villanueva de las Carretas;espcl.n620avil
+espn;N620a;;Celada del Camino;espcl.n620acel
+espn;N620a;;Estépar;espcl.n620aest
 espn;N620a;;Buniel;espcl.n620a
 espn;N621;;León;espcl.n621leo
 espn;N621;;Riaño;espcb.n621unq,espas.n621,espcb.n621,espcl.n621
@@ -344,7 +376,8 @@ espn;N629a;;Gibaja;espcb.n629agib
 espn;N630;;Oviedo;espas.n630
 espn;N630;;Zamora;espas.n630cam,espcl.n630
 espn;N630;;Mérida;espcl.n630pue,espex.n630,espan.n630
-espn;N630a;;;espcl.n630a
+espn;N630a;;El Cubo de Tierra del Vino;espcl.n630acub
+espn;N630a;;Béjar;espcl.n630a
 espn;N631;;;espcl.n631
 espn;N632;;Muros de Nalón;espas.n632mur
 espn;N632;;Villaviciosa;espas.n632
@@ -393,6 +426,7 @@ espn;AC12;;Perillo;espga.ac012per
 espn;AC14AL;;;espga.ac014al
 espn;AC14T;;;espga.ac014t
 espn;BA20;;;espex.ba020
+espn;BU12;;;espcl.bu012
 espn;CC11;;;espex.cc011
 espn;EL20;;Elx;espvc.el020elx
 espn;FE15;;;espga.fe015

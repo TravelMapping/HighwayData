@@ -3615,11 +3615,7 @@ date;region;route;root;description
 2018-11-20;Indonesia;Jalan Tol Pejagan - Pemalang;idn.jtpp;Route extended at east end from exit 268 to exit 316
 2018-11-20;Indonesia;Jalan Tol Pemalang - Batang;idn.jtpb;New Route
 2017-12-07;Indonesia;Jalan Tol Soroja;idn.jts;New Route
-2026-09-08;Iran;F2 (Deh Namak);irn.f002deh;Route added
-2026-09-08;Iran;F21;irn.f021;Route added
-2026-09-08;Iran;F56;irn.f056;Route added
-2026-09-08;Iran;F96;irn.f096;Route added
-2025-04-19;Iran;F1;irn.f001;Route extended at north end from Ali Abad to Hashem
+2025-04-19;Iran;F1 ;irn.f001;Route extended at north end from Ali Abad to Hashem
 2025-04-19;Iran;F1 (Rostmabad);irn.f001;Route merged into main route
 2025-04-19;Iran;F24;irn.f024;New Route
 2025-04-19;Iran;AH8;irn.ah008;Route relocated from R49 and onto F1 between Ali Abad and Rudbar
@@ -6879,6 +6875,32 @@ date;region;route;root;description
 2026-09-08;(Spain) Cantabria;N629a (Gibaja);espcb.n629agib;Route added
 2025-07-21;(Spain) Cantabria;A67a;espcb.a067a;Route added
 2025-04-18;(Spain) Cantabria;A67;espcb.a067;Route removed from A8 and relocated onto direct route between exits 181 and 185
+2026-09-09;(Spain) Castile and Leon;A601;espcl.a601;Route extended at north end from exit 5 to VA30
+2026-09-09;(Spain) Castile and Leon;BU12;espcl.bu012;Route added
+2026-09-09;(Spain) Castile and Leon;NI (Granja Guimara);espcl.n001gra;Route added
+2026-09-09;(Spain) Castile and Leon;N1a (Aranda de Duero);espcl.n001ara;Route added
+2026-09-09;(Spain) Castile and Leon;NIa (Castillejo de Mesleón);espcl.n001acas;Route added
+2026-09-09;(Spain) Castile and Leon;NIa (Santo Tomé del Puerto);espcl.n001astp;Route added
+2026-09-09;(Spain) Castile and Leon;NVI (Mota del Marqués);espcl.n006mot;Route added
+2026-09-09;(Spain) Castile and Leon;NVI (Villardefrades);espcl.n006vil;Route added
+2026-09-09;(Spain) Castile and Leon;N110a (Cerezo de Arriba);espcl.n110acer;Route added
+2026-09-09;(Spain) Castile and Leon;N110a (Sigueruelo);espcl.n110asig;Route added
+2026-09-09;(Spain) Castile and Leon;N111;espcl.n111;Route removed from SO20 and relocated onto former N111a, N122, Calle Eduardo Saavedra and Carretera de Madrid between northern junction with SO20 and SO20 exit 9
+2026-09-09;(Spain) Castile and Leon;N111a (Soria);espcl.n111;Route deleted (merged into N111)
+2026-09-09;(Spain) Castile and Leon;N122 (Soria);espcl.n122;Route removed from A11 and relocated onto Avenida de Valladolid and N110 between A11 exits 72 and 65
+2026-09-09;(Spain) Castile and Leon;N122 (Valladolid);espcl.n122val;Route added
+2026-09-09;(Spain) Castile and Leon;N122a (Muelas del Pan);espcl.n122amue;Route added
+2026-09-09;(Spain) Castile and Leon;N122a (Zuzones);espcl.n122azuz;Route added
+2026-09-09;(Spain) Castile and Leon;N501a;espcl.n501a;Route added
+2026-09-09;(Spain) Castile and Leon;N601a;espcl.n601a;Route added
+2026-09-09;(Spain) Castile and Leon;N620 (Villodrigo);espcl.n620vil;Route added
+2026-09-09;(Spain) Castile and Leon;N620a (Celada del Camino);espcl.n620acel;Route added
+2026-09-09;(Spain) Castile and Leon;N620a (Estépar);espcl.n620aest;Route added
+2026-09-09;(Spain) Castile and Leon;N620a (Villanueva de las Carretas);espcl.n620avil;Route added
+2026-09-09;(Spain) Castile and Leon;N621 (Riaño);espcl.n621;Route removed from CL626 and relocated onto N625 between eastern CL626 junction and southern N625 junction
+2026-09-09;(Spain) Castile and Leon;N625;espcl.n625;Route removed from CL626 and relocated onto N621 between northern and southern CL626 junction at Cistierna
+2026-09-09;(Spain) Castile and Leon;N630a (El Cubo de Tierra del Vino);espcl.n630acub;Route added
+2026-09-09;(Spain) Castile and Leon;VA20;espcl.va020;Route truncated at south end from N601 to 'ToN601' and route extended at south end from 'ToN601' to VA30
 2026-08-25;(Spain) Castile and Leon;A11 (Valladolid);espcl.a011val;Route extended at east end from exit to exit
 2026-06-26;(Spain) Castile and Leon;A11 (Aranda de Duero);espcl.a011ara;Route extended at west end from BUV2301 to N122
 2025-10-16;(Spain) Castile and Leon;LE20;espcl.le020;Route reentered (old route part of N601)
@@ -6900,6 +6922,22 @@ date;region;route;root;description
 2019-06-08;(Spain) Castile and Leon;A11 (La Mallona);espcl.a011mal;New Route
 2019-04-10;(Spain) Castile and Leon;A11 (Burgo de Osma);espcl.a011bur;Route extended at east end from exit 211 to exit 203
 2018-07-18;(Spain) Castile and Leon;A60 (Villarente);espcl.a060;Route extended at south end from exit 123 to exit 103
+2026-09-09;(Spain) Castille-le-Mancha;NIIa (Torija);espcm.n002a;Route added
+2026-09-09;(Spain) Castille-le-Mancha;NIV (Almuradiel);espcm.n004alm;Route added
+2026-09-09;(Spain) Castille-le-Mancha;NVa (Quismondo);espcm.n005aqui;Route added
+2026-09-09;(Spain) Castille-le-Mancha;NVa (Santa Olalla);espcm.n005asan;Route added
+2026-09-09;(Spain) Castille-le-Mancha;NVa (Talavera de la Reina);espcm.n005atal;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N322a (Villatoya);espcm.n322avil;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N401a (Fernán Caballero);espcm.n401afer;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N403a (Maqueda);espcm.n403amaq;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N420 (Puertollano);espcm.n420pue;Route truncated at north end from A43 exit 33 to eastern junction with N430 and route extended at north end from eastern junction with N430 to CM420
+2026-09-09;(Spain) Castille-le-Mancha;N420a (Argamasilla de Calatrava);espcm.n420aarg;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N420a (Boniches);espcm.n420abon;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N420a (Daimiel);espcm.n420adai;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N420a (Olivares de Júcar);espcm.n420aoli;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N430a (La Solana);espcm.n430asol;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N430a (Chinchilla de Montearagón);espcm.n430achi;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N502 (Agudo);espcm.n502agu;Route added
 2025-10-03;(Spain) Castille-le-Mancha;TO23;espcm.to023;Route added
 2025-08-28;(Spain) Castille-la Mancha;TO20;espcm.to020;Route added
 2025-08-28;(Spain) Castille-la Mancha;TO21;espcm.to021;Route truncated at south end from A42 to TO20
@@ -6970,6 +7008,7 @@ date;region;route;root;description
 2019-05-01;(Spain) Catalonia;C65;espct.c065;Route extended at south end from C31 to C250_S and at north end from C35 to AP7
 2019-04-22;(Spain) Catalonia;T11;espct.t011;Route extended at east end from A27 to N340
 2018-11-26;(Spain) Catalonia;A2 (Girona);espct.a002gir;Route extended at south end from exit 694 to exit 692
+2026-09-09;(Spain) Community of Madrid;N403a (San Martín de Valdeiglesias);espmd.n403a;Route added
 2025-09-18;(Spain) Community of Madrid;E5 (Madrid);espmd.e5mad;Route added
 2025-09-18;(Spain) Community of Madrid;E90 (Getafe);espmd.e90get;Route added
 2025-08-25;(Spain) Community of Madrid;A5R;espmd.a005r;Route added
@@ -7082,6 +7121,7 @@ date;region;route;root;description
 2026-09-08;(Spain) Valencian Community;N234 (Montes de Palancia);espvc.n234mon;Route added
 2026-09-08;(Spain) Valencian Community;N234 (Muntanya de Caruana);espvc.n234mun;Route added
 2026-09-08;(Spain) Valencian Community;N234 (Viver);espvc.n234viv;Route added
+2026-09-08;(Spain) Valencian Community;N322a (Villatoya);espvc.n322a;Route added
 2026-09-08;(Spain) Valencian Community;N330 (Alicante);espvc.n330ali;Route added
 2026-09-08;(Spain) Valencian Community;N330a (Ademuz);espvc.n330aade;Route added
 2026-09-08;(Spain) Valencian Community;N330a (La Portera);espvc.n330apor;Route added
