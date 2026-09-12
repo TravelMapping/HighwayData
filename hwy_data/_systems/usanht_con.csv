@@ -1,5 +1,17 @@
 systemName;route;banner;groupName;roots
-usanht;CATrl;;California Trail (Nevada);nv.catrl
+usanht;CATrl;;Applegate Trail (Cottage Grove, OR);or.catrlcot
+usanht;CATrl;;Applegate Trail (Territorial Highway, OR);or.catrlter
+usanht;CATrl;;Applegate Trail (Sunny Valley, OR);or.catrlsun
+usanht;CATrl;;California Trail (Dorris, CA);ca.catrldor
+usanht;CATrl;;California Trail (Lower Klamath, CA);ca.catrllkl
+usanht;CATrl;;California Trail (Beckworth Trail, CA);ca.catrlbec
+usanht;CATrl;;California Trail (Redding, CA);ca.catrlred
+usanht;CATrl;;California Trail (Truckee Route, CA);ca.catrltru
+usanht;CATrl;;California Trail (Rancho Cordova, CA);ca.catrlran
+usanht;CATrl;;California Trail (Eldorado, CA);ca.catrleld
+usanht;CATrl;;California Trail (Sonora Route, CA);ca.catrlson
+usanht;CATrl;;California Trail (California - Nevada);ca.catrlcar,nv.catrl
+usanht;CATrl;;California Trail (Interpretation Center, Elko, NV);nv.catrlelk
 usanht;CATrl;;California Trail (Idaho - W. Wyoming);id.catrl,wy.catrl
 usanht;CATrl;;California Trail (E. Wyoming);wy.catrltor
 usanht;CATrl;;California Trail (Colorado);co.catrl
@@ -30,8 +42,7 @@ usanht;JBTrl;;Juan Bautista de Anza Trail (San Francisco, CA);ca.jbtrl
 usanht;LCTrl;;Lewis & Clark Auto Trail (Ohio - Indiana);oh.lctrl,in.lctrl
 usanht;LCTrl;;Lewis & Clark Auto Trail (Missouri);mo.lctrl
 usanht;LCTrl;;Lewis & Clark Auto Trail (Iowa - Washington);ia.lctrl,sd.lctrl,nd.lctrl,mt.lctrl,id.lctrlsac,mt.lctrlbit,id.lctrl,wa.lctrl
-usanht;LCTrl;;Lewis & Clark Auto Trail (Astoria, OR);or.lctrl
-usanht;LCTrl;;Lewis & Clark Auto Trail (The Dalles, OR);or.lctrldal
+usanht;LCTrl;;Lewis & Clark Auto Trail (Portland, OR);or.lctrl
 usanht;LCTrl;;Lewis & Clark Auto Trail (Hermiston, OR);or.lctrlher
 usanht;LCTrl;;Lewis & Clark Auto Trail (Montana - Nebraska);mt.lctrlbla,nd.lctrlwes,sd.lctrlwes,ne.lctrl
 usanht;LCTrl;;Lewis & Clark Auto Trail (Kansas-Missouri);ks.lctrl,mo.lctrlsou
@@ -48,7 +59,7 @@ usanht;LCTrl;;Lewis & Clark Auto Trail (Bismarck, ND);nd.lctrlbis
 usanht;LCTrl;;Lewis & Clark Auto Trail ((South) Bismarck, ND);nd.lctrlsbi
 usanht;LCTrl;;Lewis & Clark Auto Trail (Mobridge, SD);sd.lctrlmob
 usanht;LCTrl;;Lewis & Clark Auto Trail (Pierre, SD);sd.lctrlpie
-usanht;LCTrl;;Lewis & Clark Auto Trail (Atchinson, KS);ks.lctrlatc
+usanht;LCTrl;;Lewis & Clark Auto Trail (Atchison, KS);ks.lctrlatc
 usanht;LCTrl;;Lewis & Clark Auto Trail (St Benedict Abbey, KS);ks.lctrlben
 usanht;LCTrl;;Lewis & Clark Auto Trail (Weston, MO);mo.lctrlwes
 usanht;LCTrl;;Lewis & Clark Auto Trail (Miami, MO);mo.lctrlmia
@@ -86,6 +97,14 @@ usanht;ORTrl;;Oregon Trail (Bear Lake Scenic Byway);id.ortrlbea
 usanht;ORTrl;;Oregon Trail (Local Tour Route, Kansas City, KS/MO);ks.ortrlola,mo.ortrl
 usanht;OVTrl;;Overland Victory Trail;va.ovtrl,tn.ovtrl,nc.ovtrl,sc.ovtrl
 usanht;OVTrl;;Overland Victory Trail (Surry County Fork);nc.ovtrllen
+usanht;PETrl;;Pony Express Trail (Oakland, CA);ca.petrloak
+usanht;PETrl;;Pony Express Trail (Orinda, CA);ca.petrlori
+usanht;PETrl;;Pony Express Trail (Fairfield, CA);ca.petrlfai
+usanht;PETrl;;Pony Express Trail (Dixon, CA);ca.petrldix
+usanht;PETrl;;Pony Express Trail (Davis, CA);ca.petrldav
+usanht;PETrl;;Pony Express Trail (El Dorado, CA);ca.petrleld
+usanht;PETrl;;Pony Express Trail (Kyburz, CA);ca.petrlkyb
+usanht;PETrl;;Pony Express Trail (Meyers, CA);ca.petrlmey
 usanht;PETrl;;Pony Express Trail (Nevada);nv.petrl
 usanht;PETrl;;Pony Express Trail (W. Utah);nv.petrlnbb,ut.petrlnbb
 usanht;PETrl;;Pony Express Trail (E. Utah);ut.petrl
@@ -99,8 +118,12 @@ usanht;SFTrl;;Santa Fe Trail (Kansas - Missouri);ks.sftrl,mo.sftrl
 usanht;SFTrl;;Santa Fe Trail (Fort Union, NM);nm.sftrlfor
 usanht;SFTrl;;Santa Fe Trail (Mountain Route);nm.sftrlrat,co.sftrl,ks.sftrlgar
 usanht;SFTrl;;Santa Fe Trail (Sugar Creek, MO);mo.sftrlsug
+usanht;SFTrl;;Santa Fe Trail (Blue Mills, MO);mo.sftrlblu
 usanht;SFTrl;;Santa Fe Trail (Arrow Rock, MO);mo.sftrlarr
 usanht;SMTrl;;Selma - Montgomery Trail;al.smtrl
+usanht;TTTrl;;Trail of Tears Trail Round Up Route (Ellijay, GA);ga.tttrlell
+usanht;TTTrl;;Trail of Tears Trail Round Up Route (Nicklesville, GA);ga.tttrlnic
+usanht;TTTrl;;Trail of Tears Trail Round Up Route (Carters Lake, GA);ga.tttrlcar
 usanht;TTTrl;;Trail of Tears Trail (Mica, GA);ga.tttrlmic
 usanht;TTTrl;;Trail of Tears Trail (Cedartown, GA);ga.tttrlced
 usanht;TTTrl;;Trail of Tears Trail (Summerville, GA);ga.tttrlsum

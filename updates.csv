@@ -1796,6 +1796,20 @@ date;region;route;root;description
 2015-09-09;(France) Hauts-de-France;Boulevard Péripherique Est de Lille;frahdf.m065159;New Route
 2015-09-09;(France) Hauts-de-France;Rocade Nord Ouest, Lille;frahdf.m065259;New Route
 2015-09-09;(France) Hauts-de-France;Voie Rapide Urbane, Roubaix;frahdf.m065659;New Route
+2026-09-10;(France) Île-de-France;D31E-77;fraidf.d0031e77;New Route
+2026-09-09;(France) Île-de-France;D212E-77;fraidf.d0212a77;Route renamed to D212A-77
+2026-09-08;(France) Île-de-France;D63E-77;;Route deleted, split into D63E1-77 and D63E2-77
+2026-09-08;(France) Île-de-France;D63E1-77;fraidf.d0063e177;New Route
+2026-09-08;(France) Île-de-France;D63E2-77;fraidf.d0063e277;New Route
+2026-09-08;(France) Île-de-France;D24E-77;;Route deleted
+2026-09-07;(France) Île-de-France;D9-77;fraidf.d000977;Route relocated from Rue de l'Inte and Avenue du Montboulon, and onto Route de Montgé, Route de Dammartin and Avenue du Maréchal Gallieni through Saint-Soupplets from west of the village to N330
+2026-09-07;(France) Île-de-France;D16A-77;fraidf.d0016a77;Route truncated at north end from Mainbervilliers to Boissy-aux-Cailles
+2026-09-07;(France) Île-de-France;D17A-77 (Germigny-sous-Coulombs);fraidf.d0017a377;Route renamed to D17A3-77
+2026-09-07;(France) Île-de-France;D17A2-77;;Route deleted
+2026-09-07;(France) Île-de-France;D18-77;fraidf.d001877;Route relocated from Route de Bray and Route d'Everly, and onto Route Nationale in Les Ormes-sur-Voulzie
+2026-09-07;(France) Île-de-France;D131-77;fraidf.d013177;Route truncated at south end from D236 to D100 in Villegruis
+2026-09-07;(France) Île-de-France;D401-77;fraidf.d040177;Route relocated from Rue de l'Inte and Avenue du Montboulon, and onto Route de Dammartin and Avenue du Maréchal Gallieni through Saint-Soupplets from west of the village to N330
+2026-09-07;(France) Île-de-France;D419-77;fraidf.d041977;Route extended at east end from D62 to D619
 2026-06-30;(France) Île-de-France;D4Z-95;fraidf.d0004z95;Route truncated at east end from Rue Abel Gance in Bernes-sur-Oise to D929
 2026-06-30;(France) Île-de-France;D9-95;fraidf.d000995;Route relocated from Rue de la Sucrerie and Rue de l'Ormet, and onto Rue du Général François Léon Ormancey in Villeron
 2026-06-30;(France) Île-de-France;D924Z-95;;Route deleted
@@ -3607,7 +3621,11 @@ date;region;route;root;description
 2018-11-20;Indonesia;Jalan Tol Pejagan - Pemalang;idn.jtpp;Route extended at east end from exit 268 to exit 316
 2018-11-20;Indonesia;Jalan Tol Pemalang - Batang;idn.jtpb;New Route
 2017-12-07;Indonesia;Jalan Tol Soroja;idn.jts;New Route
-2025-04-19;Iran;F1 ;irn.f001;Route extended at north end from Ali Abad to Hashem
+2026-09-08;Iran;F2 (Deh Namak);irn.f002deh;Route added
+2026-09-08;Iran;F21;irn.f021;Route added
+2026-09-08;Iran;F56;irn.f056;Route added
+2026-09-08;Iran;F96;irn.f096;Route added
+2025-04-19;Iran;F1;irn.f001;Route extended at north end from Ali Abad to Hashem
 2025-04-19;Iran;F1 (Rostmabad);irn.f001;Route merged into main route
 2025-04-19;Iran;F24;irn.f024;New Route
 2025-04-19;Iran;AH8;irn.ah008;Route relocated from R49 and onto F1 between Ali Abad and Rudbar
@@ -4892,6 +4910,7 @@ date;region;route;root;description
 2018-08-13;North Macedonia;Avtopatishta Prijatelstvo;mkd.avtpri;New Route
 2018-08-13;North Macedonia;Avtopatishta Majka Tereza;mkd.avtmajter;New Route
 2018-08-13;North Macedonia;Avtopatishta Goce Delchev;mkd.avtgocedel;New Route
+2026-09-06;Norway;Stavanger Motorveien;nor.stamot;Route extended at south end from exit 27 to exit 26
 2026-05-23;Norway;E6;nor.e6;Route relocated from through Trofors and onto new bypass between Fv7335 and Rv73
 2026-05-23;Norway;Rv73;nor.rv073;Route extended at west end from old E6 at Aspneset to junction with new E6 bypass south of Trofors (former E6)
 2025-12-16;Norway;Sandvika - Skaret Motorvei;nor.sanskamot;Route extended at north end from exit 5 (Isikrysset) and exit 7 (Skaretkrysset)
@@ -6122,6 +6141,9 @@ date;region;route;root;description
 2015-10-17;Poland;S8 (Warsaw);pol.s008war;Route extended at west end from A2 to (new) western junction with DK7 and DK8
 2015-10-17;Poland;S8 (Zabki);pol.s008zab;New Route
 2015-10-17;Poland;S91;pol.s091;New Route
+2026-09-04;Portugal;IP2 (Beja);prt.ip002;Route extended at north end from exit 33 to A6
+2026-09-04;Portugal;IP8 (Beja);prt.ip008;Route removed from N259 and relocated onto Variente de Figueira dos Cavalerios between N259_FigW and N259_FigE, and route removed from N121 and relocated onto Variente de Beringel between N121_BerW and N121_BerE
+2026-09-04;Portugal;E802;prt.e802;Route removed from N18 and relocated onto IP2 between IP2 exit 31 and N18_W
 2026-02-26;Portugal;A17;prt.a017;Waypoint label 17 moved one exit south. New label is 18.
 2026-02-26;Portugal;A19;prt.a019;Waypoint labels 2, 3, and 5 moved one exit north. New labels are 1, 2, and 4, respectively.
 2025-10-14;Portugal;IC17;prt.ic017;Exit 1 moved to Avenida Marginal and route extended to Avenida de Brasília
@@ -6192,6 +6214,8 @@ date;region;route;root;description
 2015-11-25;Portugal;A38;prt.a038;New Route
 2015-11-25;Portugal;A39;prt.a039;New Route
 2015-11-25;Portugal;A40;prt.a040;New Route
+2026-09-02;Romania;A3 (Românași);rou.a003rom;New Route
+2026-09-02;Romania;A7;rou.a007;Route extended between exits 14 and 16 and merged with A7Foc
 2026-01-15;Romania;DNVO1V;rou.dnvo1v;New Route
 2026-01-13;Romania;DJVOM;rou.djvom;New Route
 2026-01-09;Romania;DNVOF;rou.dnvof;New Route
@@ -6710,6 +6734,32 @@ date;region;route;root;description
 2015-07-24;Slovenia;H6;svn.h006;New Route
 2024-06-10;South Africa;N1;zaf.n001;Route removed from streets in Musina and relocated onto Musina bypass between R508 and R572
 2024-06-10;South Africa;N2 (Margate);zaf.n002mar;Route added
+2026-09-10;(Spain) Andulucia;A4R;espan.a004r;Route added
+2026-09-10;(Spain) Andulucia;AL14;espan.al014;Route added
+2026-09-10;(Spain) Andulucia;GR16 (El Varadero);espan.gr016var;Route added
+2026-09-10;(Spain) Andulucia;NIVa (Écija);espan.n004aeci;Route added
+2026-09-10;(Spain) Andulucia;N4a (Carmona);espan.n004acrm;Route added
+2026-09-10;(Spain) Andulucia;N322 (Linares);espan.n322lin;Route extended at west end from A32 exit 8 to End
+2026-09-10;(Spain) Andulucia;N322 (Villanueva del Arzobispo);espan.n322;Route extended at west end from A32 exit 39 to N322a
+2026-09-10;(Spain) Andulucia;N322a (Linares);espan.n322alin;Route added
+2026-09-10;(Spain) Andulucia;N322a (Úbeda);espan.n322aube;Route added
+2026-09-10;(Spain) Andulucia;N322a (Villanueva del Arzobispo);espan.n322avil;Route added
+2026-09-10;(Spain) Andulucia;N323a (Jaén);espan.n323a;Route extended at the south end from JA3207 to End
+2026-09-10;(Spain) Andulucia;N331a;espan.n331a;Route added
+2026-09-10;(Spain) Andulucia;N331R;espan.n331r;Route added
+2026-09-10;(Spain) Andulucia;N340 (El Pozuelo);espan.n340poz;Route added
+2026-09-10;(Spain) Andulucia;N340a (Góñar);espan.n340agon;Route added
+2026-09-10;(Spain) Andulucia;N340a (Huércal-Overa);espan.n340ahue;Route extended at south from A7 exit 679 to A7 exit 682
+2026-09-10;(Spain) Andulucia;N340a (El Lance);espan.n340alan;Route added
+2026-09-10;(Spain) Andulucia;N340a (San Roque);espan.n340asan;Route added
+2026-09-10;(Spain) Andulucia;N340a (Vera);espan.n340aver;Route added
+2026-09-10;(Spain) Andulucia;N340b;espan.n340b;Route added
+2026-09-10;(Spain) Andulucia;N344a (El Alquián);espan.n344a;Route added
+2026-09-10;(Spain) Andulucia;N432a (La Coronada);espan.n432acor;Route added
+2026-09-10;(Spain) Andulucia;N432a (El Vacar);espan.n432avac;Route added
+2026-09-10;(Spain) Andulucia;N432R;espan.n432r;Route added
+2026-09-10;(Spain) Andulucia;N435a;espan.n435a;Route extended at north end from N435 at El Alamo to N435 at La Dehesa
+2026-09-10;(Spain) Andulucia;N630 (Sevilla);espan.n630sev;Route added
 2026-07-25;(Spain) Andulusia;CA37;espan.ca037;Route added
 2026-07-25;(Spain) Andulusia;MA22;espan.ma022;Route added
 2026-07-25;(Spain) Andulusia;SE20;espan.se020;Route added
@@ -6755,6 +6805,25 @@ date;region;route;root;description
 2019-05-04;(Spain) Andulucia;CA36;espan.ca036;New Route
 2018-07-24;(Spain) Andulucia;SE40 (Coria del Rio);espan.se040cor;New Route
 2017-10-13;(Spain) Andulucia;H30;espan.h030;Route extended at north end from Paseo Marina to A49
+2026-09-09;(Spain) Aragon;N2a (Candasnos);espar.n002acan;Route added
+2026-09-09;(Spain) Aragon;NIIa (La Muela);espar.n002amue;Route added
+2026-09-09;(Spain) Aragon;N2R (Ateca);espar.n002rate;Route added
+2026-09-09;(Spain) Aragon;N2R (Bubierca);espar.n002rbub;Route added
+2026-09-09;(Spain) Aragon;N2R (Terrer);espar.n002rter;Route added
+2026-09-09;(Spain) Aragon;N122a (Magallón);espar.n122a;Route added
+2026-09-09;(Spain) Aragon;N211a (Alcorisa);espar.n211a;Route added
+2026-09-09;(Spain) Aragon;N211a (Alcañiz);espar.n211aalc;Route added
+2026-09-09;(Spain) Aragon;N211a (Puerto de Bañon);espar.n211aban;Route added
+2026-09-09;(Spain) Aragon;N211a (Caspe);espar.n211acas;Route added
+2026-09-09;(Spain) Aragon;N211a (Fuenferrada);espar.n211afue;Route added
+2026-09-09;(Spain) Aragon;N211a (Puerto de las Traviesas);espar.n211atra;Route added
+2026-09-09;(Spain) Aragon;N232a (El Burgo de Ebro);espar.n232abur;Route added
+2026-09-09;(Spain) Aragon;N232a (Alcañiz);espar.n232aalc;Route added
+2026-09-09;(Spain) Aragon;N232a (Monroyo);espar.n232amon;Route added
+2026-09-09;(Spain) Aragon;N232a (La Pobla d’Alcolea);espar.n232apob;Route added
+2026-09-09;(Spain) Aragon;N240a (Huesca);espar.n240a;Route added
+2026-09-09;(Spain) Aragon;N330a (Arguis);espar.n330aarg;Route added
+2026-09-09;(Spain) Aragon;N330b;espar.n330b;Route added
 2025-09-22;(Spain) Aragon;A68 (Alagon);espar.a068;Route truncated at east end from exit 225 to exit 244 and extended at east end from exit 244 to Calle Miguel Herrero y Rodriquez de Minon
 2025-09-22;(Spain) Aragon;A68 (Alagon);espar.a068;Route extended at west end from exit 294 to the Navarre border
 2025-09-22;(Spain) Aragon;A68 (Cartuja Baja);espar.a068car;Route added
@@ -6776,6 +6845,12 @@ date;region;route;root;description
 2019-03-21;(Spain) Aragon;E7;espar.e7;Route removed from former N330 and relocated onto A23 between A1604 and A23 exit 375
 2019-03-21;(Spain) Aragon;N330 (Jaca);espar.n330jac;New Route
 2019-03-21;(Spain) Aragon;N330 (Zaragoza);espar.n330;Route truncated at north end from French border to HUV3145
+2026-09-08;(Spain) Asturias;A66a;espas.o014;Route renumbered O14
+2026-09-08;(Spain) Asturias;N633;espas.n633;Route added
+2026-09-08;(Spain) Asturias;N634a (La Revuelta’l Coche);espas.n634arev;Route added
+2026-09-08;(Spain) Asturias;N641;espas.n641;Route added
+2026-09-08;(Spain) Asturias;GJ10;espas.gj010;Route added
+2026-09-08;(Spain) Asturias;AS19;espas.as019;Route truncated at east end from A8 to GJ10 (former section now GJ10)
 2022-11-14;(Spain) Asturias;A63 (Salas);espas.a063sal;New Route
 2022-11-14;(Spain) Asturias;N634a (Salas);espas.n634a;New Route
 2019-08-26;(Spain) Asturias;Acceso al Aeropuerto de Asturias;espas.ai082;New Route
@@ -6785,6 +6860,8 @@ date;region;route;root;description
 2019-10-16;(Spain) Balearic Islands;Ma13;espib.ma013;Route extended at north end from exit 40 to Ma2220
 2019-10-16;(Spain) Balearic Islands;Ma15;espib.ma015;Route extended at east end from exit 20 to Ma1020
 2019-10-16;(Spain) Balearic Islands;Ma19;espib.ma019;Route extended at west end from Avinguda de Gabriel Alomar i Villalonga to Avinguda d'Antoni Maura, and extended at east end from Ma19a to Passeig del Port
+2026-09-08;(Spain) Basque Country;NI (Idiazabal);esppv.n001idi;Route added
+2026-09-08;(Spain) Basque Country;N634O;esppv.n634o;Route added
 2025-09-22;(Spain) Basque Country;N624;esppv.n624;Route added
 2025-07-15;(Spain) Basque Country;AP636;esppv.ap636;Route added
 2025-07-15;(Spain) Basque Country;A636;esppv.ap636;Route renumbered AP636
@@ -6831,8 +6908,35 @@ date;region;route;root;description
 2019-09-17;(Spain) Canary Islands;GC2 (Galdar);espcn.gc002;Route merged into main route
 2019-09-17;(Spain) Canary Islands;TF1;espcn.tf001;Route extended at west end from exit 87 to TF375
 2019-09-17;(Spain) Canary Islands;TF5;espcn.tf005;Route extended at east end from Avenida Reyes Catolicos to TF4/11, and at west end from exit 39 to TF82
+2026-09-08;(Spain) Cantabria;N629a (Gibaja);espcb.n629agib;Route added
 2025-07-21;(Spain) Cantabria;A67a;espcb.a067a;Route added
 2025-04-18;(Spain) Cantabria;A67;espcb.a067;Route removed from A8 and relocated onto direct route between exits 181 and 185
+2026-09-09;(Spain) Castile and Leon;A601;espcl.a601;Route extended at north end from exit 5 to VA30
+2026-09-09;(Spain) Castile and Leon;BU12;espcl.bu012;Route added
+2026-09-09;(Spain) Castile and Leon;NI (Granja Guimara);espcl.n001gra;Route added
+2026-09-09;(Spain) Castile and Leon;N1a (Aranda de Duero);espcl.n001ara;Route added
+2026-09-09;(Spain) Castile and Leon;NIa (Castillejo de Mesleón);espcl.n001acas;Route added
+2026-09-09;(Spain) Castile and Leon;NIa (Santo Tomé del Puerto);espcl.n001astp;Route added
+2026-09-09;(Spain) Castile and Leon;NVI (Mota del Marqués);espcl.n006mot;Route added
+2026-09-09;(Spain) Castile and Leon;NVI (Villardefrades);espcl.n006vil;Route added
+2026-09-09;(Spain) Castile and Leon;N110a (Cerezo de Arriba);espcl.n110acer;Route added
+2026-09-09;(Spain) Castile and Leon;N110a (Sigueruelo);espcl.n110asig;Route added
+2026-09-09;(Spain) Castile and Leon;N111;espcl.n111;Route removed from SO20 and relocated onto former N111a, N122, Calle Eduardo Saavedra and Carretera de Madrid between northern junction with SO20 and SO20 exit 9
+2026-09-09;(Spain) Castile and Leon;N111a (Soria);espcl.n111;Route deleted (merged into N111)
+2026-09-09;(Spain) Castile and Leon;N122 (Soria);espcl.n122;Route removed from A11 and relocated onto Avenida de Valladolid and N110 between A11 exits 72 and 65
+2026-09-09;(Spain) Castile and Leon;N122 (Valladolid);espcl.n122val;Route added
+2026-09-09;(Spain) Castile and Leon;N122a (Muelas del Pan);espcl.n122amue;Route added
+2026-09-09;(Spain) Castile and Leon;N122a (Zuzones);espcl.n122azuz;Route added
+2026-09-09;(Spain) Castile and Leon;N501a;espcl.n501a;Route added
+2026-09-09;(Spain) Castile and Leon;N601a;espcl.n601a;Route added
+2026-09-09;(Spain) Castile and Leon;N620 (Villodrigo);espcl.n620vil;Route added
+2026-09-09;(Spain) Castile and Leon;N620a (Celada del Camino);espcl.n620acel;Route added
+2026-09-09;(Spain) Castile and Leon;N620a (Estépar);espcl.n620aest;Route added
+2026-09-09;(Spain) Castile and Leon;N620a (Villanueva de las Carretas);espcl.n620avil;Route added
+2026-09-09;(Spain) Castile and Leon;N621 (Riaño);espcl.n621;Route removed from CL626 and relocated onto N625 between eastern CL626 junction and southern N625 junction
+2026-09-09;(Spain) Castile and Leon;N625;espcl.n625;Route removed from CL626 and relocated onto N621 between northern and southern CL626 junction at Cistierna
+2026-09-09;(Spain) Castile and Leon;N630a (El Cubo de Tierra del Vino);espcl.n630acub;Route added
+2026-09-09;(Spain) Castile and Leon;VA20;espcl.va020;Route truncated at south end from N601 to 'ToN601' and route extended at south end from 'ToN601' to VA30
 2026-08-25;(Spain) Castile and Leon;A11 (Valladolid);espcl.a011val;Route extended at east end from exit to exit
 2026-06-26;(Spain) Castile and Leon;A11 (Aranda de Duero);espcl.a011ara;Route extended at west end from BUV2301 to N122
 2025-10-16;(Spain) Castile and Leon;LE20;espcl.le020;Route reentered (old route part of N601)
@@ -6854,6 +6958,22 @@ date;region;route;root;description
 2019-06-08;(Spain) Castile and Leon;A11 (La Mallona);espcl.a011mal;New Route
 2019-04-10;(Spain) Castile and Leon;A11 (Burgo de Osma);espcl.a011bur;Route extended at east end from exit 211 to exit 203
 2018-07-18;(Spain) Castile and Leon;A60 (Villarente);espcl.a060;Route extended at south end from exit 123 to exit 103
+2026-09-09;(Spain) Castille-le-Mancha;NIIa (Torija);espcm.n002a;Route added
+2026-09-09;(Spain) Castille-le-Mancha;NIV (Almuradiel);espcm.n004alm;Route added
+2026-09-09;(Spain) Castille-le-Mancha;NVa (Quismondo);espcm.n005aqui;Route added
+2026-09-09;(Spain) Castille-le-Mancha;NVa (Santa Olalla);espcm.n005asan;Route added
+2026-09-09;(Spain) Castille-le-Mancha;NVa (Talavera de la Reina);espcm.n005atal;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N322a (Villatoya);espcm.n322avil;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N401a (Fernán Caballero);espcm.n401afer;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N403a (Maqueda);espcm.n403amaq;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N420 (Puertollano);espcm.n420pue;Route truncated at north end from A43 exit 33 to eastern junction with N430 and route extended at north end from eastern junction with N430 to CM420
+2026-09-09;(Spain) Castille-le-Mancha;N420a (Argamasilla de Calatrava);espcm.n420aarg;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N420a (Boniches);espcm.n420abon;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N420a (Daimiel);espcm.n420adai;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N420a (Olivares de Júcar);espcm.n420aoli;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N430a (La Solana);espcm.n430asol;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N430a (Chinchilla de Montearagón);espcm.n430achi;Route added
+2026-09-09;(Spain) Castille-le-Mancha;N502 (Agudo);espcm.n502agu;Route added
 2025-10-03;(Spain) Castille-le-Mancha;TO23;espcm.to023;Route added
 2025-08-28;(Spain) Castille-la Mancha;TO20;espcm.to020;Route added
 2025-08-28;(Spain) Castille-la Mancha;TO21;espcm.to021;Route truncated at south end from A42 to TO20
@@ -6868,6 +6988,38 @@ date;region;route;root;description
 2019-09-05;(Spain) Castilla-La Mancha;CM45;espcm.cm045;Route extended at west end from CM4111 to A41, and at east end from exit 26 to CM412
 2018-11-04;(Spain) Castille-le-Mancha;N344;espcm.n344;Route truncated at north end from A35 to A31
 2017-10-11;(Spain) Castille-le-Mancha;TO21;espcm.to021;Route extended at east end from southern junction with N403 to A42
+2026-09-08;(Spain) Catalonia;A14R2;espct.a014r2;Route added
+2026-09-08;(Spain) Catalonia;A22R1;espct.a022r1;Route added
+2026-09-08;(Spain) Catalonia;A22R2;espct.a022r2;Route added
+2026-09-08;(Spain) Catalonia;AP7;espct.ap007;Exit 3 renumbered as exit 20, exit 20 renumbered as exit 147
+2026-09-08;(Spain) Catalonia;C12F;espct.c012f;Route added
+2026-09-08;(Spain) Catalonia;C16;espct.c016;Route truncated at north end from N260 to N260R (section now N260R)
+2026-09-08;(Spain) Catalonia;C54 (Martorell);espct.c054;Route added
+2026-09-08;(Spain) Catalonia;C54 (Piera);espct.c054pie;Route added
+2026-09-08;(Spain) Catalonia;C61;espct.c061;Route extended at south end from C32 exit 110 to NII
+2026-09-08;(Spain) Catalonia;C74;espct.c074;Route added
+2026-09-08;(Spain) Catalonia;E15;espct.e15;AP7 exit 3 renumbered as AP7 exit 20
+2026-09-08;(Spain) Catalonia;NII (Matero);espct.n002mat;Route extended at east end from A2 exit 693 to A2 exit 704
+2026-09-08;(Spain) Catalonia;NIIa (Igualada);espct.n002a;Route extended at east end from A2 exit 562 to A2 exit 563
+2026-09-08;(Spain) Catalonia;NIIa (Esparreguera);espct.n002aesp;Route added
+2026-09-08;(Spain) Catalonia;NIIz (Montserrat Parc);;Route deleted
+2026-09-08;(Spain) Catalonia;N152a;espct.n152a;Route added
+2026-09-08;(Spain) Catalonia;N152z (Aiguafreda);espct.n152zaig;Route added
+2026-09-08;(Spain) Catalonia;N152z (el Figaró);espct.n152zfig;Route added
+2026-09-08;(Spain) Catalonia;N152z (Granollers);espct.n152zgra;Route added
+2026-09-08;(Spain) Catalonia;N152z (La Llagosta);espct.n152zlla;Route added
+2026-09-08;(Spain) Catalonia;N152z (Tona);espct.n152zton;Route added
+2026-09-08;(Spain) Catalonia;N155, Llívia;espct.n155;Route added
+2026-09-08;(Spain) Catalonia;N240a (Almacelles);espct.n240aalm;Route added
+2026-09-08;(Spain) Catalonia;N240a (Vinaixa);espct.n240avin;Route added
+2026-09-08;(Spain) Catalonia;N260 (Puigcerda);espct.n260;Route removed from A26 and relocated over Ponte Borró and through Besalú between A26 exits 70 and 64
+2026-09-08;(Spain) Catalonia;N260a (Coll del Frare);espct.n260acol;Route added
+2026-09-08;(Spain) Catalonia;N260R;espct.n260r;Route added
+2026-09-08;(Spain) Catalonia;N340a (l'Aldea);espct.n340aald;Route extended at west end from western junction with N340 to TV3454
+2026-09-08;(Spain) Catalonia;N340a (l’Ametlla del Mar);espct.n340aame;Route added
+2026-09-08;(Spain) Catalonia;N340a (Vilafranca del Pinedès);espct.n340a;Route extended at east end from eastern junction with N340 to AP7 exit 193
+2026-09-08;(Spain) Catalonia;N420a (Coll del Moro);espct.n420acol;Route added
+2026-09-08;(Spain) Catalonia;N420a (Reus);espct.n420a;Route extended at east end from C14 to 'End'
 2026-04-30;(Spain) Catalonia;B20;espct.b020;Route extended at west end from C32 exit 54 to C32 exit 53
 2026-04-30;(Spain) Catalonia;B25;espct.b025;Route added
 2025-09-22;(Spain) Catalonia;E9;espct.e9;Route truncated at north end from French border (on the N152) to the N152/N154 junction and extended at north end from that junction to French border (on the N154)
@@ -6892,6 +7044,7 @@ date;region;route;root;description
 2019-05-01;(Spain) Catalonia;C65;espct.c065;Route extended at south end from C31 to C250_S and at north end from C35 to AP7
 2019-04-22;(Spain) Catalonia;T11;espct.t011;Route extended at east end from A27 to N340
 2018-11-26;(Spain) Catalonia;A2 (Girona);espct.a002gir;Route extended at south end from exit 694 to exit 692
+2026-09-09;(Spain) Community of Madrid;N403a (San Martín de Valdeiglesias);espmd.n403a;Route added
 2025-09-18;(Spain) Community of Madrid;E5 (Madrid);espmd.e5mad;Route added
 2025-09-18;(Spain) Community of Madrid;E90 (Getafe);espmd.e90get;Route added
 2025-08-25;(Spain) Community of Madrid;A5R;espmd.a005r;Route added
@@ -6901,9 +7054,25 @@ date;region;route;root;description
 2019-09-17;(Spain) Community of Madrid;MP203 (Autovía de entrada sur a Alcalá);;Route deleted (now part of M206)
 2019-09-17;(Spain) Community of Madrid;M501;espmd.m501;Route extended at west end from eastern junction with M855 to border with Castile and Leon
 2019-09-02;(Spain) Community of Madrid;A6;espmd.a006;Route extended at east end from exit 6 to Avenida de los Reyes Catolicos
+2026-09-09;(Spain) Extremadura;NV (Mérida);espex.n005mer;Route extended at east end from A5 exit 333 to A5 exit 331 and route extended at west end from A5/A66 junction to A5 exit 346
+2026-09-09;(Spain) Extremadura;NV (Badajoz);espex.n005bad;Route added
+2026-09-09;(Spain) Extremadura;N432a (Santa Marta);espex.n432asan;Route added
+2026-09-09;(Spain) Extremadura;N432a (Berlanga);espex.n432aber;Route added
+2026-09-09;(Spain) Extremadura;N435a (Capote);espex.n435a;Route added
 2022-01-15;(Spain) Extremadura;EXC1;espex.exc001;Route added
 2022-01-15;(Spain) Extremadura;BA20;espex.ba020;Route extended at west end from N523 to A5 exit 407
 2019-08-31;(Spain) Extremadura;N523;espex.n523;New Route
+2026-09-08;(Spain) Galicia;AC14AL;espga.ac014al;Route added
+2026-09-08;(Spain) Galicia;AC14T;espga.ac014t;Route added
+2026-09-08;(Spain) Galicia;FE15;espga.fe015;Route added
+2026-09-08;(Spain) Galicia;LU533;espga.lu533;Route extended at west end from N540 to LU213
+2026-09-08;(Spain) Galicia;N120a (Casdemiro);espga.n120acas;Route added
+2026-09-08;(Spain) Galicia;N536 (O Barco);espga.n536;Route extended at west end from eastern junction with N120 to western junction with N120
+2026-09-08;(Spain) Galicia;N550 (Pontevedra);espga.n550;Route removed from N550a and relocated onto Variante de Padrón between N550a at Padrón and AG11
+2026-09-08;(Spain) Galicia;N550a (Padrón);espga.n550apad;Route added
+2026-09-08;(Spain) Galicia;N634a (Gontán);espga.n634agon;Route added
+2026-09-08;(Spain) Galicia;N634a (Ponte Carreira);espga.n634apon;Route added
+2026-09-08;(Spain) Galicia;N634a (Sasdónigas);espga.n634asas;Route added
 2026-07-23;(Spain) Galicia;AG59;espga.ag059;Route extended at south end from exit 6 to exit 9
 2025-10-15;(Spain) Galicia;VG1.8 (Variante de Aradas);;Route deleted
 2025-09-18;(Spain) Galicia;E801;espga.a075;Route deleted
@@ -6959,9 +7128,14 @@ date;region;route;root;description
 2019-06-03;(Spain) Galicia;A54;espga.a054;Route extended at east end from exit 93 to eastern junction with N547
 2018-05-12;(Spain) Galicia;AG46;espga.ag046;New Route
 2018-01-03;(Spain) Galicia;AG51;espga.ag051;New Route
+2026-09-08;(Spain) La Rioja;N232a (Ausejo);espri.n232aaus;Route added
+2026-09-08;(Spain) La Rioja;N232a (Logroño);espri.n232alog;Route added
 2017-10-18;(Spain) La Rioja;A12;espri.a012;Route extended at east end from exit 94 (formerly exit 8) to Navarre border
 2017-10-18;(Spain) La Rioja;A12 (Lograno);espri.a012;Route merged into main route
+2026-09-08;(Spain) Navarre;N121b;espnc.n121b;Route truncated at north end from French border at D20 to 'ToD20' and extended at north end from 'ToD20' to French border heading towards D4
+2026-09-08;(Spain) Navarre;N240a (Pamplona);espnc.n240a;Route truncated at west end from A15 to AP15
 2025-09-22;(Spain) Navarre;PA35;espnc.pa035;Route added
+2026-09-08;(Spain) Region of Murcia;N344a;espmc.n344a;Route added
 2026-03-23;(Spain) Region of Murcia;A30;espmc.a030;Route extended at north end from exit 140 to Castilla-La Mancha border
 2026-03-23;(Spain) Region of Murcia;A30 (Archena);espmc.a030;Route deleted (now part of main A30)
 2025-10-15;(Spain) Region of Murcia;A30 (Archena);espmc.a030arc;Route added
@@ -6977,6 +7151,27 @@ date;region;route;root;description
 2021-09-26;(Spain) Region of Murcia;MU30 (Torreaguera);espmc.mu030tor;Route added
 2021-09-26;(Spain) Region of Murcia;RM1;espmc.rm001;Route extended at north end from exit 29 to MU30
 2017-10-06;(Spain) Region of Murcia;A33;espmc.a033;Route extended at north end from N344 to RM424
+2026-09-08;(Spain) Valencian Community;EL20 (Elx);espvc.el020elx;Route added
+2026-09-08;(Spain) Valencian Community;N225a;espvc.n225a;Route added
+2026-09-08;(Spain) Valencian Community;N232a (La Pobla d’Alcolea);espvc.n232apob;Route added
+2026-09-08;(Spain) Valencian Community;N232a (Torre Miró);espvc.n232ator;Route added
+2026-09-08;(Spain) Valencian Community;N232a (Puerto de Querol);espvc.n232apue;Route added
+2026-09-08;(Spain) Valencian Community;N234;;Route deleted (now in segments)
+2026-09-08;(Spain) Valencian Community;N234 (Albalat dels Tarongers);espvc.n234alb;Route added
+2026-09-08;(Spain) Valencian Community;N234 (Barracas);espvc.n234bar;Route added
+2026-09-08;(Spain) Valencian Community;N234 (Montes de Palancia);espvc.n234mon;Route added
+2026-09-08;(Spain) Valencian Community;N234 (Muntanya de Caruana);espvc.n234mun;Route added
+2026-09-08;(Spain) Valencian Community;N234 (Viver);espvc.n234viv;Route added
+2026-09-08;(Spain) Valencian Community;N322a (Villatoya);espvc.n322a;Route added
+2026-09-08;(Spain) Valencian Community;N330 (Alicante);espvc.n330ali;Route added
+2026-09-08;(Spain) Valencian Community;N330a (Ademuz);espvc.n330aade;Route added
+2026-09-08;(Spain) Valencian Community;N330a (La Portera);espvc.n330apor;Route added
+2026-09-08;(Spain) Valencian Community;N330a (Cofrentes);espvc.n330acof;Route added
+2026-09-08;(Spain) Valencian Community;N332 (Oliva);espvc.n332oli;Route added
+2026-09-08;(Spain) Valencian Community;N332a (Silla);espvc.n332asil;Route added
+2026-09-08;(Spain) Valencian Community;N332a (l’Altet);espvc.n332aalt;Route added
+2026-09-08;(Spain) Valencian Community;N337a;espvc.n337a;Route added
+2026-09-08;(Spain) Valencian Community;V31R;espvc.v031r;Route added
 2026-07-25;(Spain) Valencian Community;A70;espvc.a070;Moved exit 13 and 17. Old exit 13 now exit 17, old exit 17 now 21
 2026-07-25;(Spain) Valencian Community;A77a;espvc.a077a;Route added
 2026-07-23;(Spain) Valencian Community;V30;espvc.v030;Route truncated at east end from Puerto to exit 0
@@ -7749,6 +7944,11 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2026-09-04;(UK) England;A20;eng.a0020;Route removed from M20 and relocated onto Cheriton High Street, Cheriton Road and Cherry Garden Avenue between M20 exits 12 and 13
+2026-09-04;(UK) England;A260;eng.a0260;Route truncated at south end from A259_W to HarSt_N and extended at south end from HarSt_N to Marine Terrace
+2026-09-04;(UK) England;A2033;eng.a2033;Route truncated at east end from A260_E to Dover Road and extended at east end from Dover Road to A259_E
+2026-09-04;(UK) England;A2034;eng.a2034;Route truncated at north end from M20 to A20
+2026-09-04;(UK) England;B2064;eng.b2064;Route truncated at west end from M20 to A20
 2026-08-14;(UK) England;A415;eng.a0415;Route truncated at west end from A4095 to A40
 2026-08-14;(UK) England;A4095;eng.a4095;Route removed from Curbridge Road, Welch Way, High Street and B4047 and relocated onto Thorney Leys, A40, Oxford Hill and Jubilee Way between Curbridge Road and B4047
 2026-08-14;(UK) England;B4022;eng.b4022;Route truncated at south end from A40 to (moved) A4095
@@ -8375,6 +8575,10 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2026-09-04;(USA) Arkansas;I-42;ar.i042;New route.
+2026-09-04;(USA) Arkansas;I-57;ar.i057;New route.
+2026-09-04;(USA) Arkansas;AR 612;ar.i042;Route deleted (now I-42)
+2026-09-04;(USA) Arkansas;AR 642;ar.ar642;New route.
 2026-08-07;(USA) Arkansas;AR 915-1A;ar.ar9151;Route renumbered to AR 915-1.
 2026-08-05;(USA) Arkansas;I-540;ar.i540;Route extended to the Oklahoma state line.
 2026-07-21;(USA) Arkansas;AR 255;ar.ar255;Re-routed, now follows Frontier Road in Barling.
@@ -8832,6 +9036,7 @@ date;region;route;root;description
 2017-03-03;(USA) Hawaii;HI 3800;hi.hi3800;Route added
 2015-12-26;(USA) Hawaii;HI 3000;hi.hi3000;Route added
 2015-11-17;(USA) Hawaii;HI 380;hi.hi380;Route relocated from closed Dairy Rd. segment between waypoints AirAccRd and PakSt_N, onto parts of Airport Access Rd. and Pakaula St.
+2026-09-01;(USA) Idaho;ID 41;id.id041;Realigned south of *OldID41 in Post Falls onto a newly-constructed alignment to the west.
 2025-11-05;(USA) Idaho;US 95;id.us095;Relocated south of Moscow from former two-lane segment (now Reisenauer Rd) onto new divided highway between waypoints ReiRd_S and ReiRd_N
 2025-06-08;(USA) Idaho;ID 46;id.id046;Route extended south from I-84 to US30 in Buhl
 2025-06-05;(USA) Idaho;ID 78;id.id078;Route extended east from I-84BL_E (now OldUS30_E) along former route of I-84 BL (Hammett) to I-84 exit 112
@@ -9506,7 +9711,7 @@ date;region;route;root;description
 2024-04-10;(USA) Louisiana;LA 42;la.la0042;Truncated at west end from LA 327 Spur to Perkins Rd (N)
 2024-04-10;(USA) Louisiana;LA 1059;;Route deleted
 2024-04-10;(USA) Louisiana;LA 1248;;Route deleted
-2024-01-15;(USA) Louisiana;LA 5;la.la0005;Truncated at east end from railroad to LA 175
+2024-01-15;(USA) Louisiana;LA 5;la.la0005;Truncated at east end from railroad to LA 175persf.csv
 2024-01-15;(USA) Louisiana;LA 107;la.la0107;Removed from Cocoville Rd and relocated onto parallel segment of LA 1 between CocRd_N and LA1
 2024-01-15;(USA) Louisiana;LA 882;;Route deleted
 2024-01-15;(USA) Louisiana;LA 3051;;Route deleted
@@ -9738,6 +9943,8 @@ date;region;route;root;description
 2016-01-23;(USA) Michigan;MI 153;mi.mi153;Removed from McGraw St and Weir St between Wyoming Ave and I-94, and relocated onto Wyoming Ave between McGraw St and US 12
 2016-01-23;(USA) Michigan;MI 231;mi.mi231;Route added
 2016-01-21;(USA) Michigan;I-696;mi.i696;Extended at west end from waypoint 1A to I-96.
+2026-08-27;(USA) Minnesota;MN 263;;Deleted Route
+2026-08-27;(USA) Minnesota;MN 371;mn.mn371;Route relocated onto Pequot Lakes Bypass
 2026-07-31;(USA) Minnesota;MN 96;mn.mn096;Route truncated to MN 244
 2026-07-31;(USA) Minnesota;MN 301;;Deleted route
 2025-11-27;(USA) Minnesota;MN 123;mn.mn123;Route truncated to just east of the Kettle River bridge
@@ -9868,6 +10075,8 @@ date;region;route;root;description
 2015-09-06;(USA) Missouri;US 169 Spur (Smithville);mo.us169sprsmi;Extended route south on Bridge St. from Route F to Church St.
 2015-09-06;(USA) Missouri;US 36 Business (Chillicothe);mo.us036buschi;Relocated from frontage road west of US 65, to US 65 between frontage road and US 36
 2015-09-06;(USA) Missouri;US 36 Spur (Utica);;Deleted route
+2026-09-02;(USA) Montana;SR 325;mt.sr325;Route extended to full extent of mileposts on MDT's GIS.
+2026-08-31;(USA) Montana;SR 325;mt.sr325;New route.
 2026-08-20;(USA) Montana;SR 217;mt.sr217;New route.
 2026-05-30;(USA) Montana;SR 438;mt.sr438;North end of route moved west to Glentana (Valley County) from Richland (Daniels County).
 2026-02-23;(USA) Montana;MT 117;mt.mt117;Route relocated to west side of Nashua. Old alignment turnoff labeled "FroSt".
@@ -9920,6 +10129,7 @@ date;region;route;root;description
 2017-09-03;(USA) Montana;I-94 BL (Hysham);;Route deleted
 2015-11-02;(USA) Montana;I-94 BL (Wibaux);;Route deleted
 2015-08-03;(USA) Montana;US 93 Alternate (Kalispell);mt.us093altkal;New Route
+2026-09-01;(USA) Nebraska;I-129;ne.i129;Route extended west along US 20 ~0.4 miles beyond US 75/US 77 (Exit 1).
 2026-08-05;(USA) Nebraska;US 183;ne.us183;Removed from original routing between Bassett and Springview and relocated onto the old NE 7 routing between Bassett and Springview.
 2026-08-05;(USA) Nebraska;NE 7;ne.ne007;Removed from original routing between Long Pine and Springview and relocated onto the old US 183 routing between Long Pine and Springview.
 2026-06-02;(USA) Nebraska;US 30;ne.us030;Removed from demolished 2-lane roadway and Old Highway 30 and relocated onto a parallel 4-lane divided expressway to the immediate northwest between points labeled *OldUS30_GraW & **OldUS30_GraE.
@@ -10824,7 +11034,21 @@ date;region;route;root;description
 2016-01-28;(USA) Pennsylvania;PA 441;pa.pa441;Removed from Locust St and 3rd St and relocated onto a newly-constructed northerly extension of Front St, between Locust St and US 30
 2015-12-29;(USA) Pennsylvania;PA 980;pa.pa980;Removed from a closed roadway parallel to the Montour Trail to the southwest, and relocated onto a direct beeline connection between the new four-way intersection at PA 50 and a closed intersection, labeled *OldPA980, about 160 feet south.
 2015-10-26;(USA) Pennsylvania;US 209 Truck (Brodheadsville);pa.us209trkbro;Added route
-2016-06-22;(USA) Puerto Rico;PR 305;pr.pr0305;Removed from PR 116 and relocated onto Corredor Agroturistico Jorge Alberto "George" Asencio between PR116_N and PR116/304
+2026-09-09;(USA) Puerto Rico;PR 431;pr.pr0431;Route reentered
+2026-09-09;(USA) Puerto Rico;PR 501;pr.pr0501;Truncated at the north end ~1.2 miles to end of territorial maintenance.
+2026-09-09;(USA) Puerto Rico;PR 501 (Ponce);;Route deleted
+2026-09-09;(USA) Puerto Rico;PR 503;;Route deleted
+2026-09-09;(USA) Puerto Rico;PR 503 (Ponce);pr.pr0503;Renamed to PR 503 (without city name)
+2026-09-09;(USA) Puerto Rico;PR 516;pr.pr0516;Route reentered
+2026-09-09;(USA) Puerto Rico;PR 680;pr.pr0680;Route added
+2026-09-09;(USA) Puerto Rico;PR 3314;pr.pr3314;Route added
+2026-09-09;(USA) Puerto Rico;PR 4128;pr.pr4128;Route added
+2026-09-09;(USA) Puerto Rico;PR 4131;pr.pr4131;Route added
+2026-09-09;(USA) Puerto Rico;PR 4431;pr.pr0431;Route deleted (now PR 431)
+2026-09-09;(USA) Puerto Rico;PR 5501;pr.pr5501;Route added
+2026-09-09;(USA) Puerto Rico;PR 5502;pr.pr5502;Route added
+2026-09-09;(USA) Puerto Rico;PR 5503;pr.pr5503;Route added
+2026-06-22;(USA) Puerto Rico;PR 305;pr.pr0305;Removed from PR 116 and relocated onto Corredor Agroturistico Jorge Alberto "George" Asencio between PR116_N and PR116/304
 2026-06-01;(USA) Rhode Island;RI 138;ri.ri138;Removed from dismantled Pell Bridge Approach freeway stub, Admiral Kalfbus Rd, and W Main Rd, and rerouted along reconstructed Halsey St, JT Connell Hwy, and Coddington Hwy between points ToRI138A and RI114_S.
 2026-06-01;(USA) Rhode Island;RI 138A;ri.ri138a;West end extended along JT Connell Hwy from former Pell Bridge Approach at ToRI138 to the roundabout at Admiral Kalfbus Rd. RI138_W point moved from old to new western terminus.
 2026-06-01;(USA) Rhode Island;RI 238;;Route deleted
@@ -11020,6 +11244,8 @@ date;region;route;root;description
 2015-11-29;(USA) Tennessee;US 641;tn.us641;Extended southward from the former ending intersection with I-40 along TN 69 & TN 114 to a new southern terminus at US 64
 2015-10-25;(USA) Tennessee;I-269;tn.i269;Route added
 2015-10-25;(USA) Tennessee;I-269 Future (Memphis, TN);tn.i269futmem;Extended southward from the interchange with TN 57 to a newly opened interchange with I-269 (Exit 2)
+2026-08-29;(USA) Texas;US 62 (El Paso, TX);tx.us062elp;S El Paso St half of El Paso/Stanton couplet removed in El Paso, with both directions now only following S Stanton St.
+2026-08-29;(USA) Texas;US 85;tx.us085;S El Paso St half of El Paso/Stanton couplet removed in El Paso, with both directions now only following S Stanton St.
 2026-08-27;(USA) Texas;TX Spur 303 (Arlington);tx.sp0303;Extended east from FM 1382 to SE 14th St in Grand Prairie.
 2026-08-10;(USA) Texas;Chisos Basin Road, Big Bend NP;tx.chibasrd;Route added
 2026-08-07;(USA) Texas;I-30;tx.i030;Waypoint label 46B moved from an alt label at I-45/I-345/US 75 (labeled 47B) to S St Paul St.
@@ -11216,6 +11442,8 @@ date;region;route;root;description
 2015-09-08;(USA) Texas;US 377;tx.us377;Removed from a demolished freeway and relocated onto a new parallel freeway to the immediate southeast in Fort Worth, between points labeled *OldI-30_W and *OldI-30_E. Moved waypoint I-30(13) from Summit Avenue (now labeled I-30(13A)) to Chisholm Trail Parkway.
 2015-09-08;(USA) Texas;US 67 Business (Alvarado);tx.us067busalv;Removed from a closed roadway in the northeast quadrant of the I-35 BL / College Street intersection, between points labeled *OldUS67Bus_S and *OldUS67Bus_N, and relocated onto I-35 BL and College Street.
 2016-11-17;(USA) Texas;US 67;tx.us067;Removed from US 67 Business through Dublin and relocated onto the western Dublin bypass
+2026-09-09;(USA) Utah;WinRecRte;ut.winrecrte;New route replacing section of road in Cedar Breaks NM formerly mapped as part of UT 148
+2026-09-02;(USA) Utah;UT 148;ut.ut148;Truncated south from UT 143 to boundary of Cedar Breaks NM
 2026-07-10;(USA) Utah;US 191;ut.us191;Moved onto new alignment north of Vernal between points *OldUS191_S and *OldUS191_N.
 2026-01-13;(USA) Utah;UT 85;ut.ut085;Rerouted off of UT 68 between UT 194 and UT 131 and onto newly opened section of Mountain View Corridor
 2026-01-13;(USA) Utah;UT 131;ut.ut131;Extended west from UT 68 across former section of UT 85 to intersection with newly opened section of Mountain View Corridor
@@ -11380,6 +11608,8 @@ date;region;route;root;description
 2018-01-01;(USA) Virginia;US 15 Alt (Farmville);va.us015altfar;New route
 2018-01-01;(USA) Virginia;VA 167;va.va167;New route
 2018-01-01;(USA) Virginia;VA 154 (Covington);;Route deleted
+2026-09-03;(USA) Washington;Mora Road, Olympic NP;wa.morard;Route added
+2026-09-03;(USA) Washington;Sol Duc Hot Springs Road, Olympic NP;wa.solducrd;Route added
 2026-08-22;(USA) Washington;WA 155 Spur (Omak);wa.wa155sproma;Route added
 2026-08-22;(USA) Washington;WA 213;wa.wa213;Route added
 2025-06-08;(USA) Washington;WA 501 (Ridgefield);;Route deleted
