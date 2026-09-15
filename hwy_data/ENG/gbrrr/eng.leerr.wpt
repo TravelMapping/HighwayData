@@ -1,16 +1,16 @@
 A653 http://www.openstreetmap.org/?lat=53.762739&lon=-1.565498
 A6110_S http://www.openstreetmap.org/?lat=53.761911&lon=-1.572332
-A643_W http://www.openstreetmap.org/?lat=53.768602&lon=-1.577396
-A643_E http://www.openstreetmap.org/?lat=53.771899&lon=-1.579800
+A643_S +A643_W http://www.openstreetmap.org/?lat=53.768602&lon=-1.577396
+A643_N +A643_E http://www.openstreetmap.org/?lat=53.771899&lon=-1.579800
 M621 http://www.openstreetmap.org/?lat=53.775234&lon=-1.582074
 A62 http://www.openstreetmap.org/?lat=53.777568&lon=-1.584333
 A58_W http://www.openstreetmap.org/?lat=53.781333&lon=-1.596193
 B6154 http://www.openstreetmap.org/?lat=53.798065&lon=-1.627564
-A647_E http://www.openstreetmap.org/?lat=53.801360&lon=-1.631470
+A647/A6110 +A647_E http://www.openstreetmap.org/?lat=53.801360&lon=-1.631470
 SwiRd http://www.openstreetmap.org/?lat=53.804199&lon=-1.639087
 SwiLn http://www.openstreetmap.org/?lat=53.804237&lon=-1.646748
 B6155 http://www.openstreetmap.org/?lat=53.801449&lon=-1.664686
-A647_W http://www.openstreetmap.org/?lat=53.805922&lon=-1.683741
+A647/A6120 +A647_W http://www.openstreetmap.org/?lat=53.805504&lon=-1.683998
 B6156 http://www.openstreetmap.org/?lat=53.819665&lon=-1.673977
 A657 http://www.openstreetmap.org/?lat=53.824672&lon=-1.667776
 A65 http://www.openstreetmap.org/?lat=53.834677&lon=-1.651504
@@ -23,4 +23,6 @@ SkeLn http://www.openstreetmap.org/?lat=53.839614&lon=-1.445979
 A64 http://www.openstreetmap.org/?lat=53.832068&lon=-1.440883
 LeeRd http://www.openstreetmap.org/?lat=53.818364&lon=-1.430111
 ManLn http://www.openstreetmap.org/?lat=53.804795&lon=-1.419168
-M1 http://www.openstreetmap.org/?lat=53.797191&lon=-1.421099
+M1(46a) +M1 http://www.openstreetmap.org/?lat=53.797191&lon=-1.421099
++X195164 http://www.openstreetmap.org/?lat=53.795005&lon=-1.424081
+M1(46) http://www.openstreetmap.org/?lat=53.791931&lon=-1.426506
