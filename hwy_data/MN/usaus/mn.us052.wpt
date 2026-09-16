@@ -19,6 +19,7 @@ I-94(32) http://www.openstreetmap.org/?lat=46.558621&lon=-96.316280
 I-94(38) http://www.openstreetmap.org/?lat=46.482821&lon=-96.280800
 +x19 http://www.openstreetmap.org/?lat=46.476143&lon=-96.267142
 +X593603 http://www.openstreetmap.org/?lat=46.375063&lon=-96.179509
+I-94(50A) http://www.openstreetmap.org/?lat=46.340299&lon=-96.132807
 I-94(50) http://www.openstreetmap.org/?lat=46.336869&lon=-96.128504
 I-94(54) http://www.openstreetmap.org/?lat=46.289508&lon=-96.120940
 I-94(55) http://www.openstreetmap.org/?lat=46.268909&lon=-96.102830
@@ -75,7 +76,8 @@ I-94(202) http://www.openstreetmap.org/?lat=45.237744&lon=-93.648684
 I-94(205) http://www.openstreetmap.org/?lat=45.218014&lon=-93.595920
 I-94(207) http://www.openstreetmap.org/?lat=45.194816&lon=-93.552468
 I-94(210) http://www.openstreetmap.org/?lat=45.158139&lon=-93.513334
-I-94(212) http://www.openstreetmap.org/?lat=45.13841&lon=-93.49472
+I-94(212A) +I-94(212) http://www.openstreetmap.org/?lat=45.138410&lon=-93.494720
+I-94(212B) http://www.openstreetmap.org/?lat=45.136032&lon=-93.492687
 I-94(213) http://www.openstreetmap.org/?lat=45.127865&lon=-93.485820
 I-94(215) http://www.openstreetmap.org/?lat=45.104531&lon=-93.459899
 I-94(216) http://www.openstreetmap.org/?lat=45.091868&lon=-93.446124
@@ -135,14 +137,14 @@ CR66 http://www.openstreetmap.org/?lat=44.659153&lon=-93.005909
 CR47 http://www.openstreetmap.org/?lat=44.617783&lon=-92.994761
 MN50/56 http://www.openstreetmap.org/?lat=44.601285&lon=-92.993367
 GooAve http://www.openstreetmap.org/?lat=44.566211&lon=-92.955000
-CR86 http://www.openstreetmap.org/?lat=44.542542&lon=-92.941750
+CR86 http://www.openstreetmap.org/?lat=44.542748&lon=-92.941879
 MN19 http://www.openstreetmap.org/?lat=44.506950&lon=-92.918608
-CR24 http://www.openstreetmap.org/?lat=44.492174&lon=-92.908984
-CR14 http://www.openstreetmap.org/?lat=44.457417&lon=-92.903405
-CR1_N http://www.openstreetmap.org/?lat=44.420165&lon=-92.873493
-CR9 http://www.openstreetmap.org/?lat=44.399464&lon=-92.844129
-MN57 http://www.openstreetmap.org/?lat=44.365549&lon=-92.799572
-CR50 http://www.openstreetmap.org/?lat=44.344651&lon=-92.766674
+CR24 http://www.openstreetmap.org/?lat=44.482066&lon=-92.907477
+*CR14 http://www.openstreetmap.org/?lat=44.457417&lon=-92.903405
++x60 http://www.openstreetmap.org/?lat=44.422074&lon=-92.876444
+CR9 http://www.openstreetmap.org/?lat=44.399126&lon=-92.843678
+MN57 http://www.openstreetmap.org/?lat=44.365250&lon=-92.799298
++X376740 http://www.openstreetmap.org/?lat=44.348588&lon=-92.774820
 CR7_N http://www.openstreetmap.org/?lat=44.324347&lon=-92.711552
 CR68 http://www.openstreetmap.org/?lat=44.304004&lon=-92.689140
 MN60_W http://www.openstreetmap.org/?lat=44.292524&lon=-92.684280
@@ -150,12 +152,14 @@ MN58 http://www.openstreetmap.org/?lat=44.281541&lon=-92.670053
 MN60_E http://www.openstreetmap.org/?lat=44.266938&lon=-92.651503
 MainSt http://www.openstreetmap.org/?lat=44.213825&lon=-92.646439
 CR11 http://www.openstreetmap.org/?lat=44.204143&lon=-92.634766
-CR12_N http://www.openstreetmap.org/?lat=44.169769&lon=-92.551231
+CR5/12 http://www.openstreetmap.org/?lat=44.183412&lon=-92.576589
+*CR12_N http://www.openstreetmap.org/?lat=44.169769&lon=-92.551231
 CR12/112 http://www.openstreetmap.org/?lat=44.144399&lon=-92.528229
 US63_N http://www.openstreetmap.org/?lat=44.108211&lon=-92.515408
-CR22_W http://www.openstreetmap.org/?lat=44.079655&lon=-92.508230
-41stStNW http://www.openstreetmap.org/?lat=44.065364&lon=-92.500184
-CR22_E http://www.openstreetmap.org/?lat=44.061524&lon=-92.498124
+65thSt http://www.openstreetmap.org/?lat=44.093992&lon=-92.511744
+CR22_Roc +CR22_W http://www.openstreetmap.org/?lat=44.079655&lon=-92.508230
+41stSt +41stStNW http://www.openstreetmap.org/?lat=44.065364&lon=-92.500184
+37thSt http://www.openstreetmap.org/?lat=44.061524&lon=-92.498124
 19thSt http://www.openstreetmap.org/?lat=44.043388&lon=-92.487792
 US14_W http://www.openstreetmap.org/?lat=44.030500&lon=-92.488275
 2ndSt http://www.openstreetmap.org/?lat=44.021590&lon=-92.488060
