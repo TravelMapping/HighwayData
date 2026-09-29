@@ -98,6 +98,8 @@ date;region;route;root;description
 2026-01-17;(Australia) Northern Territory;NT23;ausnt.b023;Route deleted (now B23)
 2026-01-17;(Australia) Northern Territory;NT28;;Route deleted as unsigned
 2026-01-17;(Australia) Northern Territory;C14;ausnt.c014;Route added
+2026-09-28;(Australia) Queensland;A1;ausqld.a001;Route truncated at north end from N1 to BruHwy_N and route extended at north end from BruHwy_N to Draper Street
+2026-09-28;(Australia) Queensland;TD14 (Cairns);ausqld.td014cai;Route added
 2026-07-09;(Australia) Queensland;N83;ausqld.n083;Route extended at south end from QLD14 to South Australian border
 2026-07-04;(Australia) Queensland;N83;ausqld.n083;Route extended at north end from former QLD27 transition just north of Normanton to Walker Street in Karumba
 2026-07-04;(Australia) Queensland;QLD27;ausqld.qld027;Route truncated from just north of Normanton to N83
@@ -118,6 +120,22 @@ date;region;route;root;description
 2020-12-01;(Australia) South Australia;M2 (Southern Expressway, Adelaide);aussa.m002noa;Route extended at north end from A13_N to A2
 2020-03-09;(Australia) South Australia;M2 (Northern Expressway, Adelaide);aussa.m002;Route extended at south end from A1 to Hindmarsh Avenue
 2020-03-09;(Australia) South Australia;M2 (North-South Motorway, Adelaide);aussa.m002;Route merged into main route
+2026-09-28;(Australia) Victoria;M1;ausvic.m001;Route extended at west end from C119 to Gallop Street
+2026-09-28;(Australia) Victoria;M420;ausvic.m420;Route truncated at north end from former A21 junction to former C421/C422 (now A21 junction) and route extended at north end from A21 junction to M1
+2026-09-28;(Australia) Victoria;M420 (Hallam);ausvic.m780;Route renumbered as part of M780
+2026-09-28;(Australia) Victoria;M780;ausvic.m780;Route extended at north end from exit 5 to M1
+2026-09-28;(Australia) Victoria;A1 (Warnambool);ausvic.a001war;Route truncated at east end from C119 to Gallop Street
+2026-09-28;(Australia) Victoria;A16;ausvic.mr006;Route deleted (renumbered MR6)
+2026-09-28;(Australia) Victoria;A17;ausvic.a017;Route truncated at east end from M1 exit 32 to C101 (truncated section part of C101)
+2026-09-28;(Australia) Victoria;A21 (Tooradin);ausvic.a021;Route truncated at north end from M420/M780 to A404 and route extended at south end between C781 (formerly labelled M420) and (moved) M420
+2026-09-28;(Australia) Victoria;A21 (Dandenong);ausvic.a021dan;Route added
+2026-09-28;(Australia) Victoria;A50;ausvic.mr003;Route deleted (renumbered MR3)
+2026-09-28;(Australia) Victoria;A77;;Route deleted (renumbered MR40 and MR77)
+2026-09-28;(Australia) Victoria;A81;ausvic.a081;Route truncated at east end from M1 to MR35/40
+2026-09-28;(Australia) Victoria;A95;ausvic.c702;Route deleted (renumbered C702)
+2026-09-28;(Australia) Victoria;A96;ausvic.c109;Route deleted (renumbered C109)
+2026-09-28;(Australia) Victoria;A97;ausvic.a097;Route added
+2026-09-28;(Australia) Victoria;A404;ausvic.a404;Route added
 2025-12-19;(Australia) Victoria;M4;ausvic.m004;Route added
 2023-04-17;(Australia) Victoria;N1 Alternative (Melbourne);ausvic.n001altmel;Route added
 2023-04-17;(Australia) Victoria;A60;;Route deleted (now N1Alt, MR60 and C101)
@@ -3654,6 +3672,9 @@ date;region;route;root;description
 2021-11-21;Iran;AH72;irn.ah072;Route reentered
 2021-11-21;Iran;AH88;irn.ah088;Route added
 2020-02-22;Iran;F3 (Tehran);irn.f003teh;Route added
+2026-09-16;Ireland;N28;irl.n028;Route truncated at east end from Ringaskiddy Harbour to what is now the western junction with L2545, and route extended at east end from western junction with L2545 to eastern junction with L2545
+2026-09-16;Ireland;N28 (Ringaskiddy);irl.n028;Route deleted (now part of main N28)
+2026-09-16;Ireland;R613;irl.r613;Route truncated at east end from old N28 to new N28
 2026-08-14;Ireland;N28 (Ringaskiddy);irl.n028rin;Route added
 2025-05-23;Ireland;R463;irl.r463;Route removed from L4001 and relocated onto Killaloe Bypass between R496 and L4001
 2025-05-23;Ireland;R496;irl.r496;Route truncated at west end from R463 at Killalow Bridge to (former southern junction with) R494 and extended at west end from R494 to R463 at Killaloe Bypass and Brian Boru Bridge
@@ -6442,6 +6463,7 @@ date;region;route;root;description
 2015-08-21;Russia;E77 (Pskov);rus.e77;New Route
 2015-08-21;Russia;E95;rus.e95;New Route
 2015-08-21;Russia;E97;rus.e97;New Route
+2026-09-22;Serbia;M15;srb.m015;Route extended at west end from exit 3 to exit 4
 2026-06-26;Serbia;A5 (Cacak);srb.a005cac;Route added
 2026-06-26;Serbia;E761;srb.e761;Route removed from B22 and relocated onto A5 between B22_N and A2 exit 6
 2026-06-26;Serbia;B23;srb.b023;Route truncated at east end from A5 to B22
@@ -6752,6 +6774,7 @@ date;region;route;root;description
 2015-07-24;Slovenia;H6;svn.h006;New Route
 2024-06-10;South Africa;N1;zaf.n001;Route removed from streets in Musina and relocated onto Musina bypass between R508 and R572
 2024-06-10;South Africa;N2 (Margate);zaf.n002mar;Route added
+2026-09-27;(Spain) Andulucia;N339;espan.n339;Route truncated at east end from A4 exit 528 to A8010
 2026-09-10;(Spain) Andulucia;A4R;espan.a004r;Route added
 2026-09-10;(Spain) Andulucia;AL14;espan.al014;Route added
 2026-09-10;(Spain) Andulucia;GR16 (El Varadero);espan.gr016var;Route added
@@ -6930,6 +6953,7 @@ date;region;route;root;description
 2026-09-08;(Spain) Cantabria;N629a (Gibaja);espcb.n629agib;Route added
 2025-07-21;(Spain) Cantabria;A67a;espcb.a067a;Route added
 2025-04-18;(Spain) Cantabria;A67;espcb.a067;Route removed from A8 and relocated onto direct route between exits 181 and 185
+2026-09-22;(Spain) Castile and Leon;N122 (Valladolid);espcl.n122val;Route extended at north end from VA20 to Plaza Circular
 2026-09-09;(Spain) Castile and Leon;A601;espcl.a601;Route extended at north end from exit 5 to VA30
 2026-09-09;(Spain) Castile and Leon;BU12;espcl.bu012;Route added
 2026-09-09;(Spain) Castile and Leon;NI (Granja Guimara);espcl.n001gra;Route added
@@ -7007,6 +7031,8 @@ date;region;route;root;description
 2019-09-05;(Spain) Castilla-La Mancha;CM45;espcm.cm045;Route extended at west end from CM4111 to A41, and at east end from exit 26 to CM412
 2018-11-04;(Spain) Castille-le-Mancha;N344;espcm.n344;Route truncated at north end from A35 to A31
 2017-10-11;(Spain) Castille-le-Mancha;TO21;espcm.to021;Route extended at east end from southern junction with N403 to A42
+2026-09-26;(Spain) Catalonia;E22;espct.e022;Route added
+2026-09-26;(Spain) Catalonia;E23;espct.e023;Route added
 2026-09-08;(Spain) Catalonia;A14R2;espct.a014r2;Route added
 2026-09-08;(Spain) Catalonia;A22R1;espct.a022r1;Route added
 2026-09-08;(Spain) Catalonia;A22R2;espct.a022r2;Route added
@@ -7073,6 +7099,8 @@ date;region;route;root;description
 2019-09-17;(Spain) Community of Madrid;MP203 (Autovía de entrada sur a Alcalá);;Route deleted (now part of M206)
 2019-09-17;(Spain) Community of Madrid;M501;espmd.m501;Route extended at west end from eastern junction with M855 to border with Castile and Leon
 2019-09-02;(Spain) Community of Madrid;A6;espmd.a006;Route extended at east end from exit 6 to Avenida de los Reyes Catolicos
+2026-09-24;(Spain) Extremadura;EXA2R1;espex.exa002r1;Route added
+2026-09-24;(Spain) Extremadura;EXA2R2;espex.exa002r2;Route added
 2026-09-09;(Spain) Extremadura;NV (Mérida);espex.n005mer;Route extended at east end from A5 exit 333 to A5 exit 331 and route extended at west end from A5/A66 junction to A5 exit 346
 2026-09-09;(Spain) Extremadura;NV (Badajoz);espex.n005bad;Route added
 2026-09-09;(Spain) Extremadura;N432a (Santa Marta);espex.n432asan;Route added
@@ -7963,6 +7991,14 @@ date;region;route;root;description
 2018-05-15;(Ukraine) Crimea;E97;crm.e97;Route truncated at south end from Kerch Strait Ferry to 'Ker' and extended from 'Ker' along Kerch Strait Bridge to Russian border
 2015-07-24;(Ukraine) Crimea;E105;crm.e105;New Route
 2015-07-24;(Ukraine) Crimea;E97;crm.e97;New Route
+2026-09-18;(UK) England;A417;eng.a0417;Route extended at west end from A436 to A49. Note that route from B4070 to *AirBal is a new route opened this summer.
+2026-09-18;(UK) England;A417 (Ledbury);eng.a0417;Route deleted (now part of main route)
+2026-09-17;(UK) England;A40 (Cheltenham);eng.a0040che;Route added
+2026-09-17;(UK) England;A46 (Stroud);eng.a0046str;Route extended at north end from A4019 to A46_B
+2026-09-17;(UK) England;A582 (Cottam);eng.a0582;Route deleted (now part of main A582)
+2026-09-17;(UK) England;A582;eng.a0582;Route extended at north end from northern junction with A59 to M55
+2026-09-17;(UK) England;A5072;eng.a5072;Route truncated at south end from A59/A582 to A583
+2026-09-17;(UK) England;B4632;eng.b4632;Route extended at south end from northern A435 junction to A40
 2026-09-15;(UK) England;A3222;eng.a3222;Route added
 2026-09-04;(UK) England;A20;eng.a0020;Route removed from M20 and relocated onto Cheriton High Street, Cheriton Road and Cherry Garden Avenue between M20 exits 12 and 13
 2026-09-04;(UK) England;A260;eng.a0260;Route truncated at south end from A259_W to HarSt_N and extended at south end from HarSt_N to Marine Terrace
@@ -8595,6 +8631,7 @@ date;region;route;root;description
 2017-05-17;(USA) Arizona;Sky Harbor Boulevard;az.skyharblvd;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Hoover Dam);az.i011futhoo;New Route
 2015-08-03;(USA) Arizona;I-11 Future (Kingman);az.i011futkin;New Route
+2026-09-27;(USA) Arkansas;AR 38;ar.ar038;Route slightly extended west to Willie Ray Drive in Cabot.
 2026-09-04;(USA) Arkansas;I-42;ar.i042;New route.
 2026-09-04;(USA) Arkansas;I-57;ar.i057;New route.
 2026-09-04;(USA) Arkansas;AR 612;ar.i042;Route deleted (now I-42)
@@ -9058,6 +9095,9 @@ date;region;route;root;description
 2017-03-03;(USA) Hawaii;HI 3800;hi.hi3800;Route added
 2015-12-26;(USA) Hawaii;HI 3000;hi.hi3000;Route added
 2015-11-17;(USA) Hawaii;HI 380;hi.hi380;Route relocated from closed Dairy Rd. segment between waypoints AirAccRd and PakSt_N, onto parts of Airport Access Rd. and Pakaula St.
+2026-09-27;(USA) Idaho;ID 33;id.id033;Rerouted along US 20 and ID 33 Spur (Sugar City) to the west of Rexburg and Sugar City.
+2026-09-27;(USA) Idaho;ID 33 Spur (Rexburg);id.id033sprrex;Route added
+2026-09-27;(USA) Idaho;ID 33 Spur (Sugar City);id.id033;Route deleted (now part of ID 33)
 2026-09-01;(USA) Idaho;ID 41;id.id041;Realigned south of *OldID41 in Post Falls onto a newly-constructed alignment to the west.
 2025-11-05;(USA) Idaho;US 95;id.us095;Relocated south of Moscow from former two-lane segment (now Reisenauer Rd) onto new divided highway between waypoints ReiRd_S and ReiRd_N
 2025-06-08;(USA) Idaho;ID 46;id.id046;Route extended south from I-84 to US30 in Buhl
@@ -9829,6 +9869,8 @@ date;region;route;root;description
 2015-08-19;(USA) Maine;ME 24;me.me024;Removed from ME 24 Business and relocated onto US 1, ME 196, and Bypass Drive, between Gurnet Road in Brunswick and Middlesex Road in Topsham.
 2015-08-19;(USA) Maine;ME 24 Business (Brunswick);me.me024busbru;Added route
 2015-08-12;(USA) Maine;ME 26;me.me026;Truncated between the old southern end at Congress Street and the new end at Cumberland Avenue.
+2026-09-26;(USA) Maryland;MD 378;md.md378;Added route, following Baltimore Avenue from 1st to 15th Streets, and then 1 block of 15th Street to Philadelphia Avenue. From 1st to 9th Streets, this replaces what was previously mapped as the northbound direction of MD 528. Note the entirety of MD 378 is one-way nortbound.
+2026-09-26;(USA) Maryland;MD 528;md.md528;Relocated from one-way couplet on Baltimore and Philadelphia Avenues south of 9th Street onto Philadelphia Avenue only. Note that this means the route is one-way southbound south of 9th Street, if you drove through this area northbound only you have not clinched this segment - but see MD 378.
 2026-05-24;(USA) Maryland;I-395;md.i395;Extended north one block to Camden Street to match official FHWA definition.
 2024-09-05;(USA) Maryland;MD 430;md.md430;Added route
 2024-03-16;(USA) Maryland;MD 219;md.md219;Added route
@@ -10411,6 +10453,10 @@ date;region;route;root;description
 2015-08-29;(USA) New York;NY 23B;ny.ny023b;Truncated route from western end of NY 23 concurrency with NY 9G to eastern end of concurrency
 2015-08-29;(USA) New York;NY 63;ny.ny063;Removed from Center St. and Prospect Ave. and relocated onto Main St in Medina between NY 31 and Commercial St.
 2015-08-11;(USA) New York;NY 205;ny.ny205;NY23_W and NY23_E labels were backwards, fixed
+2026-09-23;(USA) North Carolina;NC 172 (Hubert);nc.nc172hub;Route added - was northern third of NC 172
+2026-09-23;(USA) North Carolina;NC 172;nc.nc172;Route truncated because middle third was decommissioned - northern third is now NC 172hub
+2026-09-23;(USA) North Carolina;NC 130;nc.nc130;rerouted at new US 74 interchange near Orrum...new segment is between Ann Rd and closed US 74 W points
+2026-09-23;(USA) North Carolina;NC 58;nc.nc058;Route extended south in 2016 by one additional waypoint to end of road
 2026-06-26;(USA) North Carolina;NC 74;nc.i074hig;Deleted route - redesignated as part of I-74 (High Point)
 2026-06-26;(USA) North Carolina;NC 192;nc.nc192;Route added - was part of I-74 (High Point)
 2026-06-26;(USA) North Carolina;I-74 (High Point);nc.i074hig;truncated to Winston-Salem beltway, replaced by NC 192. Routed onto Winston-Salem beltway as new routing to Exit 53 and replacing all of NC 74
@@ -11561,6 +11607,7 @@ date;region;route;root;description
 2018-12-08;(USA) Virgin Islands;VI 379;;Extended at south end from Pilgrim Terrace Bypass to VI308
 2018-12-08;(USA) Virgin Islands;VI 388;;Route Deleted
 2018-12-08;(USA) Virgin Islands;VI 394;;Route Deleted
+2026-09-23;(USA) Virginia;US 58;va.us058;Route rebuilt at Lovers Leap and VA 8 N...new segments are between SR 892 points and from OldUS58 to VA8_N
 2026-06-26;(USA) Virginia;US 121;va.us121;Route extended - new construction to SR 604
 2026-06-26;(USA) Virginia;VA 460;va.va460;Route extended - new construction to SR 604
 2026-05-27;(USA) Virginia;US 11;va.us011;Route moved off of I-81 from Exit 167 to Exit 168
