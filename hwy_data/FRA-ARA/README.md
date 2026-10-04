@@ -61,7 +61,6 @@ FRA-74 = `HSa` = Haute-Savoie
 *FRA-26 - Drôme:*
 - `D18` and `D20` drafted to the best of my knowledge. They could also be maintained by the PAC departement Hautes-Alpes
 - `D56`, `D128` and `D540` signs at Boulevard de l'Europe in Montélimar disappeared between 2019 and 2020 according to GSV. I assume that the same happened to other routes like `D4` where 2020 GSV is not available; routes truncated to outer ring road
-- `D237` in Montélimar also disappeared at N7 in 2020
 
 *FRA-38 - Isère:*
 - `D36` (Chasse-sur-Rhône) extends at west end according to wikisara and GM but not according to GSV and OSM. Signs have been removed between 2008 an 2015 according to GSV.
@@ -80,10 +79,7 @@ FRA-74 = `HSa` = Haute-Savoie
 - The second `D45` segment in the south of the departement (OSM + GM, no GSV available) seems to belong to OCC Lozère departement (fraoccd48)
 
 *FRA-63 - Puy-de-Dôme:*
-- Some route segments will be dedicated as M routes (not yet considered when drafting routes!)
-- wikisara articles are rare but OSM + GM look good
 - `D80` is signed on km posts till 1km north of `D983` but as `D80A` at `D983` junction, drafted as `D80` only
-- `D224D` is indicated being `D224E` on OSM and GM; `D224D` is confirmed by 2012 GSV
 
 *FRA-69 - Rhone:*
 - `N7` from Roanne to Tarare was downgraded with the opening of A89 in 2018 according to wikisara but no new numbering is known. December 2020 GSV still indicates `N7`. Drafted as route departement `N7`.
@@ -96,4 +92,4 @@ FRA-74 = `HSa` = Haute-Savoie
 *FRA-74 - Haute-Savoie:*
 - OSM is sometimes outdated, new D route signs often appeared just on 2019 GSV
 - `D19` in Gaillard is not indicated anywhere on 2019 GSV nor 2009 GSV but it is clearly indicated on OSM and GM, added!
-- `D909E` is indicated on OSM and GM but I couldn't find any sign. Route addded but needs to be checked again before activtion.
+- `D909E` is indicated on OSM and GM but I couldn't find any sign, added!

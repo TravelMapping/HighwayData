@@ -31,11 +31,14 @@ FRA-82 = `TeG` = Tarn-et-Garonne
 *FRA-31 - Haute-Garonne:*
 - `D37L` disappeared on GSV between 2013 and 2019. Removed from HB albeit there is a shp file but it is still continued to D37 instead of being dead end.
 - `D50` routes are unsigned bicycle tracks only, not drafted --> Note to wrong system. Is it Gers, the only OCC system w/o D50? I only remember that it was in the south of France and the bicycle tracks were numbered on GM
+- `D326` added since it's signed since 2025
 - shp file end points do not exactly line up with `HPy` shp file end points, gone with `HPy` coords
 
 *FRA-46 - Lot:*
 - `D16` goes through Cantal departement (no signs at the border, there is another `D16` in Cantal)
-- `D607` through Aveyron seems to fully belong to Lot departement (even through Montfranc village) because the km posts continue with km0 at `D999`
 
 *FRA-48 - Lozère:*
-- `D45` segment through ARA Haute-Loire (OSM + GM, no GSV available) seems to belong to Lozère departement
+- `D45` segment through ARA Haute-Loire (OSM + GM) seems to be no D route through; 2024 GSV does not show any km posts or signs but there are there a speed limit signs on entering the southen Lozère segment, and km posts are in place in the south
+
+*FRA-81 - Tarn:*
+- `D607` through Aveyron (crosses the border several times) seems to fully belong to Lot departement (even through Montfranc village) because the km posts continue albeit Aveyron does not have km posts; there is another `D607` in Aveyron
