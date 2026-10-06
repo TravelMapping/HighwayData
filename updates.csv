@@ -6919,6 +6919,17 @@ date;region;route;root;description
 2022-11-14;(Spain) Asturias;N634a (Salas);espas.n634a;New Route
 2019-08-26;(Spain) Asturias;Acceso al Aeropuerto de Asturias;espas.ai082;New Route
 2018-01-03;(Spain) Asturias;A63;espas.a063;Route extended at west end from exit 27 to exit 30
+2026-10-06;(Spain) Balearic Islands;EI20;espib.ei020;Route truncated at south end from Aeroport Ibiza to EI700/800
+2026-10-06;(Spain) Balearic Islands;EI300a;espib.ei300a;Route added
+2026-10-06;(Spain) Balearic Islands;EI321;espib.ei321;Route added
+2026-10-06;(Spain) Balearic Islands;EI500;;Route deleted
+2026-10-06;(Spain) Balearic Islands;EI600a;espib.ei600a;Route removed from EI600B and relocated onto Avinguda d'Isidor Macabich between EI600B and EI600_W
+2026-10-06;(Spain) Balearic Islands;EI600b;espib.ei600b;Route added
+2026-10-06;(Spain) Balearic Islands;EI600c;espib.ei600c;Route added
+2026-10-06;(Spain) Balearic Islands;EI631;espib.ei631;Route added
+2026-10-06;(Spain) Balearic Islands;EI800;espib.ei800;Route extended at west end from EI20/700 to Aeroport d'Eivissa
+2026-10-06;(Spain) Balearic Islands;EI900;;Route deleted
+2026-10-06;(Spain) Balearic Islands;Ma1A;espib.ma001a;Route added
 2019-10-16;(Spain) Balearic Islands;Circunvalación de Ibiza;espib.ei020;Route renamed EI20
 2019-10-16;(Spain) Balearic Islands;Ma1;espib.ma001;Route extended at west end from exit 20 to Ma1020
 2019-10-16;(Spain) Balearic Islands;Ma13;espib.ma013;Route extended at north end from exit 40 to Ma2220
@@ -6963,6 +6974,15 @@ date;region;route;root;description
 2019-08-01;(Spain) Basque Country;GI20;esppv.gi020;Waypoint label '10' moved from what is now '13' to what was '8'
 2019-02-29;(Spain) Basque Country;A636;esppv.a636;New Route
 2019-02-29;(Spain) Basque Country;GI632;esppv.a636;Route renumbered A636
+2026-10-06;(Spain) Canary Islands;GC1;espcn.gc001;Route truncated at north end from 'MueLuz' to exit 1
+2026-10-06;(Spain) Canary Islands;GC1AM;espcn.gc001am;Route added
+2026-10-06;(Spain) Canary Islands;HI1;espcn.hi001;Route extended at west end from Calle la Carrera to HI55
+2026-10-06;(Spain) Canary Islands;HI2;espcn.hi002;Route truncated at south end from Valverde Ferry to HI30
+2026-10-06;(Spain) Canary Islands;LP2 (Los Llanos de Aridane);espcn.lp002lla;Route extended at west end from western junction with LP1 to LP120
+2026-10-06;(Spain) Canary Islands;LP23;espcn.lp023;Route added
+2026-10-06;(Spain) Canary Islands;LZ1;espcn.lz001;Route truncated at south end from Rambla Medular to LZ3
+2026-10-06;(Spain) Canary Islands;LZ2;espcn.lz002;Route extended at south end from LZ701 to Playa Blanca ferry port
+2026-10-06;(Spain) Canary Islands;TF21;espcn.tf021;Route truncated at north end from TF5 to TF217
 2025-05-07;(Spain) Canary Islands;GC2 (Faneque);espcn.gc002fan;Route added
 2025-05-07;(Spain) Canary Islands;GC3;espcn.gc003;Route extended at west end from exit 16 (GC20) to GC2
 2025-05-07;(Spain) Canary Islands;LP2 (Santa Cruz de La Palma);espcn.lp002;Route truncated at west end from western junction with LP1 to LP211
@@ -6978,6 +6998,7 @@ date;region;route;root;description
 2026-09-08;(Spain) Cantabria;N629a (Gibaja);espcb.n629agib;Route added
 2025-07-21;(Spain) Cantabria;A67a;espcb.a067a;Route added
 2025-04-18;(Spain) Cantabria;A67;espcb.a067;Route removed from A8 and relocated onto direct route between exits 181 and 185
+2026-10-06;(Spain) Castile and Leon;CL601a;espcl.cl601a;Route added
 2026-09-30;(Spain) Castile and Leon;ZA11;espcl.za011;Route added
 2026-09-30;(Spain) Castile and Leon;ZA12 (Zamora);espcl.za012zam;Route added
 2026-09-30;(Spain) Castile and Leon;ZA13;espcl.za013;Route added
@@ -7086,6 +7107,8 @@ date;region;route;root;description
 2019-09-05;(Spain) Castilla-La Mancha;CM45;espcm.cm045;Route extended at west end from CM4111 to A41, and at east end from exit 26 to CM412
 2018-11-04;(Spain) Castille-le-Mancha;N344;espcm.n344;Route truncated at north end from A35 to A31
 2017-10-11;(Spain) Castille-le-Mancha;TO21;espcm.to021;Route extended at east end from southern junction with N403 to A42
+2026-10-06;(Spain) Catalonia;B40;espct.b040 (Terrassa);Route extended at east end from 'B40_U' to Avinguda del Valles
+2026-10-06;(Spain) Catalonia;C58;espct.c058;Route removed from BP1213 and relocated onto C16 outer carriageways between C16 exit 23 and B245
 2026-09-26;(Spain) Catalonia;E22;espct.e022;Route added
 2026-09-26;(Spain) Catalonia;E23;espct.e023;Route added
 2026-09-08;(Spain) Catalonia;A14R2;espct.a014r2;Route added
@@ -7157,6 +7180,9 @@ date;region;route;root;description
 2019-09-17;(Spain) Community of Madrid;MP203 (Autovía de entrada sur a Alcalá);;Route deleted (now part of M206)
 2019-09-17;(Spain) Community of Madrid;M501;espmd.m501;Route extended at west end from eastern junction with M855 to border with Castile and Leon
 2019-09-02;(Spain) Community of Madrid;A6;espmd.a006;Route extended at east end from exit 6 to Avenida de los Reyes Catolicos
+2026-10-06;(Spain) Extremadura;EX102R1;espex.ex102r1;Route added
+2026-10-06;(Spain) Extremadura;EX102R2;espex.ex102r2;Route added
+2026-10-06;(Spain) Extremadura;EX118R;espex.ex118r;Route added
 2026-09-30;(Spain) Extremadura;EX105A1;espex.ex105a1;Route added
 2026-09-30;(Spain) Extremadura;EX105A2;espex.ex105a2;Route added
 2026-09-30;(Spain) Extremadura;EX108;espex.ex108;Route removed from EX108R and EX109 and relocated onto Variante sur de Moraleja between EX108R and E109_N
