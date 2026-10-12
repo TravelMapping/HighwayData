@@ -1,6 +1,6 @@
 ﻿system;region;route;banner;abbrev;city;fileroot;AltRouteNames
 espn;ESP-MD;N-I;;;Venturada;espmd.n001;NI
-espn;ESP-MD;N-I;;Bui;Buitrago del Lozoya;espmd.n001bui;NIBui
+espn;ESP-MD;N-I;;Bui;Buitrago del Lozoya;espmd.n001bui;
 espn;ESP-MD;N-I;;Rob;Robregordo;espmd.n001rob;NIRob
 espn;ESP-CL;N-I;;Boc;Boceguillas;espcl.n001boc;NIBoc
 espn;ESP-CL;N-I;;Ara;Aranda de Duero;espcl.n001ara;NIAra
@@ -12,7 +12,7 @@ espn;ESP-CL;N-I;;Ler;Lerma;espcl.n001ler;NILer
 espn;ESP-CL;N-I;;;Briviesca;espcl.n001;NI
 espn;ESP-CL;N-I;;Pue;La Puebla de Arganzón;espcl.n001pue;NIPue
 espn;ESP-PV;N-I;;;Beasain;esppv.n001;NI
-espn;ESP-PV;N-I;;Idi;Idiazabal;esppv.n001idi;NIIdi
+espn;ESP-PV;N-I;;Idi;Idiazabal;esppv.n001idi;
 espn;ESP-CL;N-Ia;;STP;Santo Tomé del Puerto;espcl.n001astp;NIaSTP
 espn;ESP-CL;N-Ia;;;Cerezo de Abajo;espcl.n001a;NIa
 espn;ESP-CL;N-Ia;;Cas;Castillejo de Mesleón;espcl.n001acas;NIaCas
@@ -42,13 +42,13 @@ espn;ESP-CT;N-IIa;;And;San Andrés de la Barca;espct.n002aand;NIIaAnd
 espn;ESP-AR;N-2R;;Bub;Bubierca;espar.n002rbub;
 espn;ESP-AR;N-2R;;Ate;Ateca;espar.n002rate;
 espn;ESP-AR;N-2R;;Ter;Terrer;espar.n002rter;
-espn;ESP-MD;N-III;;;Arganda del Rey;espmd.n003;NIII
+espn;ESP-MD;N-III;;;Arganda del Rey;espmd.n003;
 espn;ESP-CM;N-III;;Tar;Tarancón;espcm.n003tar;NIIITer
 espn;ESP-CM;N-III;;Mon;Montalbo;espcm.n003mon;NIIIMon
 espn;ESP-CM;N-III;;Vil;Villares del Saz;espcm.n003vil;NIIIVil
 espn;ESP-CM;N-III;;;Minglanilla;espcm.n003;NIII
 espn;ESP-VC;N-III;;;Requena;espvc.n003;NIII
-espn;ESP-VC;N-III;;Bun;Buñol;espvc.n003bun;NIIIBun
+espn;ESP-VC;N-III;;Bun;Buñol;espvc.n003bun;
 espn;ESP-VC;N-III;;Chi;Chiva;espvc.n003chi;NIIIChi
 espn;ESP-CM;N-IV;;Dos;Dosbarrios;espcm.n004dos;NIVDos
 espn;ESP-CM;N-IV;;Gua;La Guardia;espcm.n004gua;NIVGua
@@ -88,7 +88,7 @@ espn;ESP-CL;N-VI;;;Ponferrada;espcl.n006;NVI
 espn;ESP-GA;N-VI;;;;espga.n006;NVI
 espn;ESP-GA;N-VIa;;;Betanzos;espga.n006a;NVIa
 espn;ESP-PV;N-102;;;;esppv.n102;N102
-espn;ESP-PV;N-104;;;;esppv.n104;N104
+espn;ESP-PV;N-104;;;;esppv.n104;
 espn;ESP-EX;N-110;;;;espex.n110;N110
 espn;ESP-CL;N-110;;;Avila;espcl.n110;N110
 espn;ESP-CL;N-110;;Ria;Riaza;espcl.n110ria;N110Ria
@@ -100,7 +100,7 @@ espn;ESP-RI;N-111;;Log;Logroño;espri.n111log;N111Log
 espn;ESP-RI;N-111;;;(Main);espri.n111;N111
 espn;ESP-CL;N-111;;;;espcl.n111;N111aSor,N111
 espn;ESP-RI;N-111a;;Log;Logroño;espri.n111alog;N111aLog
-espn;ESP-RI;N-111a;;;Piqueras;espri.n111a;N111a
+espn;ESP-RI;N-111a;;;Piqueras;espri.n111a;
 espn;ESP-CL;N-111a;;;Piqueras;espcl.n111a;N111a
 espn;ESP-CL;N-111a;;Gar;Garray;espcl.n111agar;N111aGar
 espn;ESP-NC;N-113;;Cas;Castejon de Ebro;espnc.n113cas;N113Cas
@@ -167,7 +167,7 @@ espn;ESP-AR;N-211a;;Cas;Caspe;espar.n211acas;
 espn;ESP-VC;N-220;;;;espvc.n220;N220
 espn;ESP-VC;N-225;;;La Vall d'Uixó;espvc.n225;N225
 espn;ESP-VC;N-225;;Cas;Castellón de la Plana;espvc.n225cas;N225Cas
-espn;ESP-VC;N-225a;;;;espvc.n225a;N225a
+espn;ESP-VC;N-225a;;;;espvc.n225a;
 espn;ESP-CT;N-230;;Vie;Vielha;espct.n230vie;N230Vie
 espn;ESP-AR;N-230;;Sen;Senet de Barraves;espar.n230sen;N230Sen
 espn;ESP-CT;N-230;;Pon;el Pont de Suert;espct.n230pon;N230Pon
@@ -178,30 +178,30 @@ espn;ESP-CT;N-230;;;Lleida;espct.n230;N230
 espn;ESP-CL;N-232;;;;espcl.n232;N232
 espn;ESP-RI;N-232;;;Casalarreina;espri.n232;N232
 espn;ESP-RI;N-232;;Cal;Calahorra;espri.n232cal;N232Cal
-espn;ESP-NC;N-232;;;Castejon;espnc.n232;N232
+espn;ESP-NC;N-232;;;Castejon;espnc.n232;
 espn;ESP-AR;N-232;;Gal;Gallur;espar.n232gal;N232Gal
 espn;ESP-AR;N-232;;Zar;Zaragoza;espar.n232zar;N232Zar
 espn;ESP-AR;N-232;;;Alcañiz;espar.n232;N232
 espn;ESP-VC;N-232;;;;espvc.n232;N232
-espn;ESP-RI;N-232a;;;Casalarreina;espri.n232a;N232a
-espn;ESP-RI;N-232a;;Nor;Las Norias;espri.n232anor;N232aNor
-espn;ESP-RI;N-232a;;Log;Logroño;espri.n232alog;N232aLog
-espn;ESP-RI;N-232a;;Aus;Ausejo;espri.n232aaus;N232aAus
+espn;ESP-RI;N-232a;;;Casalarreina;espri.n232a;
+espn;ESP-RI;N-232a;;Nor;Las Norias;espri.n232anor;
+espn;ESP-RI;N-232a;;Log;Logroño;espri.n232alog;
+espn;ESP-RI;N-232a;;Aus;Ausejo;espri.n232aaus;
 espn;ESP-AR;N-232a;;Bur;El Burgo de Ebro;espar.n232abur;
 espn;ESP-AR;N-232a;;;Fuentes de Ebro;espar.n232a;
 espn;ESP-AR;N-232a;;Alc;Alcañiz;espar.n232aalc;
 espn;ESP-AR;N-232a;;Mon;Monroyo;espar.n232amon;
 espn;ESP-AR;N-232a;;Pob;La Pobla d’Alcolea;espar.n232apob;
-espn;ESP-VC;N-232a;;Pob;La Pobla d’Alcolea;espvc.n232apob;N232aPob
-espn;ESP-VC;N-232a;;Tor;Torre Miró;espvc.n232ator;N232aTor
-espn;ESP-VC;N-232a;;Pue;Puerto de Querol;espvc.n232apue;N232aPue
+espn;ESP-VC;N-232a;;Pob;La Pobla d’Alcolea;espvc.n232apob;
+espn;ESP-VC;N-232a;;Tor;Torre Miró;espvc.n232ator;
+espn;ESP-VC;N-232a;;Pue;Puerto de Querol;espvc.n232apue;
 espn;ESP-CL;N-234;;;;espcl.n234;N234
 espn;ESP-AR;N-234;;;;espar.n234;N234
 espn;ESP-VC;N-234;;Bar;Barracas;espvc.n234bar;N234Bar
-espn;ESP-VC;N-234;;Viv;Viver;espvc.n234viv;N234Viv
-espn;ESP-VC;N-234;;Mon;Montes de Palancia;espvc.n234mon;N234Mon
-espn;ESP-VC;N-234;;Alb;Albalat dels Tarongers;espvc.n234alb;N234Alb
-espn;ESP-VC;N-234;;Mun;Muntanya de Caruana;espvc.n234mun;N234Mun
+espn;ESP-VC;N-234;;Viv;Viver;espvc.n234viv;
+espn;ESP-VC;N-234;;Mon;Montes de Palancia;espvc.n234mon;
+espn;ESP-VC;N-234;;Alb;Albalat dels Tarongers;espvc.n234alb;
+espn;ESP-VC;N-234;;Mun;Muntanya de Caruana;espvc.n234mun;
 espn;ESP-CL;N-234a;;;;espcl.n234a;N234a
 espn;ESP-CT;N-235;;;;espct.n235;N235
 espn;ESP-VC;N-238;;;;espvc.n238;N238
@@ -225,7 +225,7 @@ espn;ESP-CT;N-260a;;Col;Coll del Frare;espct.n260acol;N260aCol
 espn;ESP-CT;N-260R;;;;espct.n260r;N260R
 espn;ESP-CM;N-301;;Mot;Mota del Cuervo;espcm.n301mot;N301Mot
 espn;ESP-CM;N-301;;;Albacete;espcm.n301;N301
-espn;ESP-MC;N-301;;;Cieza;espmc.n301;N301
+espn;ESP-MC;N-301;;;Cieza;espmc.n301;
 espn;ESP-MC;N-301;;Mol;Molina de Segura;espmc.n301mol;N301Mol
 espn;ESP-CM;N-301a;;;Quintanar de la Orden;espcm.n301a;N301a
 espn;ESP-MC;N-301a;;Pal;El Palmar;espmc.n301apal;N301aPal
@@ -233,7 +233,7 @@ espn;ESP-MC;N-301a;;;Cartagena;espmc.n301a;N301a
 espn;ESP-CM;N-310;;;;espcm.n310;N310
 espn;ESP-MD;N-320;;;Torrelaguna;espmd.n320;N320
 espn;ESP-CM;N-320;;Cas;El Casar;espcm.n320cas;N320Cas		
-espn;ESP-MD;N-320;;Val;Valdeavero;espmd.n320val;N320Val
+espn;ESP-MD;N-320;;Val;Valdeavero;espmd.n320val;
 espn;ESP-CM;N-320;;;Guadalajara;espcm.n320;N320
 espn;ESP-CM;N-320a;;Que;Quer;espcm.n320aque;N320aQue
 espn;ESP-CM;N-320a;;Gua;Guadalajara;espcm.n320agua;N320aGua
@@ -250,7 +250,7 @@ espn;ESP-AN;N-322a;;Vil;Villanueva del Arzobispo;espan.n322avil;
 espn;ESP-CM;N-322a;;Alb;Albacete;espcm.n322aalb;N322aAlb
 espn;ESP-CM;N-322a;;;Casas-Ibáñez;espcm.n322a;N322a
 espn;ESP-CM;N-322a;;Vil;Villatoya;espcm.n322avil;N322aVil
-espn;ESP-VC;N-322a;;;Villatoya;espvc.n322a;N322a
+espn;ESP-VC;N-322a;;;Villatoya;espvc.n322a;
 espn;ESP-AN;N-323;;;;espan.n323;N323
 espn;ESP-AN;N-323a;;;Jaén;espan.n323a;N323a
 espn;ESP-AN;N-323a;;Cam;Campotéjar;espan.n323acam;
@@ -264,16 +264,16 @@ espn;ESP-VC;N-330;;Tor;Torrebaja;espvc.n330tor;N330Tor
 espn;ESP-CM;N-330;;;Landete;espcm.n330;N330
 espn;ESP-VC;N-330;;;Utiel;espvc.n330;N330
 espn;ESP-CM;N-330;;Alm;Almansa;espcm.n330alm;N330Alm
-espn;ESP-VC;N-330;;Ali;Alicante;espvc.n330ali;N330Ali
+espn;ESP-VC;N-330;;Ali;Alicante;espvc.n330ali;
 espn;ESP-AR;N-330a;;Can;Canfranc;espar.n330acan;
 espn;ESP-AR;N-330a;;Jac;Jaca;espar.n330ajac;N330aJac
 espn;ESP-AR;N-330a;;;Sabiñánigo;espar.n330a;
 espn;ESP-AR;N-330a;;Arg;Arguis;espar.n330aarg;
-espn;ESP-VC;N-330a;;Ade;Ademuz;espvc.n330aade;N330aAde
-espn;ESP-VC;N-330a;;Uti;Utiel;espvc.n330auti;N330aUti
-espn;ESP-VC;N-330a;;Por;La Portera;espvc.n330apor;N330aPor
-espn;ESP-VC;N-330a;;Cof;Cofrentes;espvc.n330acof;N330aCof
-espn;ESP-VC;N-330a;;;Jalance;espvc.n330a;N330a
+espn;ESP-VC;N-330a;;Ade;Ademuz;espvc.n330aade;
+espn;ESP-VC;N-330a;;Uti;Utiel;espvc.n330auti;
+espn;ESP-VC;N-330a;;Por;La Portera;espvc.n330apor;
+espn;ESP-VC;N-330a;;Cof;Cofrentes;espvc.n330acof;
+espn;ESP-VC;N-330a;;;Jalance;espvc.n330a;
 espn;ESP-AR;N-330b;;;;espar.n330b;
 espn;ESP-AN;N-331;;;Lucena;espan.n331;N331
 espn;ESP-AN;N-331;;Ant;Antequera;espan.n331ant;N331Ant
@@ -281,22 +281,22 @@ espn;ESP-AN;N-331a;;;;espan.n331a;
 espn;ESP-AN;N-331R;;;;espan.n331r;
 espn;ESP-VC;N-332;;;Alicante;espvc.n332;N332
 espn;ESP-MC;N-332;;;;espmc.n332;N332
-espn;ESP-VC;N-332;;Oli;Oliva;espvc.n332oli;N332Oli
+espn;ESP-VC;N-332;;Oli;Oliva;espvc.n332oli;
 espn;ESP-VC;N-332;;Cam;El Campello;espvc.n332cam;N332Cam
-espn;ESP-VC;N-332a;;Sil;Silla;espvc.n332asil;N332aSil
-espn;ESP-VC;N-332a;;Ond;Ondara;espvc.n332aond;N332aOnd
+espn;ESP-VC;N-332a;;Sil;Silla;espvc.n332asil;
+espn;ESP-VC;N-332a;;Ond;Ondara;espvc.n332aond;
 espn;ESP-VC;N-332a;;;La Vila Joiosa;espvc.n332a;N332a
-espn;ESP-VC;N-332a;;Alt;l'Altet;espvc.n332aalt;N332aAlt
+espn;ESP-VC;N-332a;;Alt;l'Altet;espvc.n332aalt;
 espn;ESP-VC;N-332a;;Mar;la Marina;espvc.n332amar;N332aMar
 espn;ESP-VC;N-332r;;;;espvc.n332r;N332r
 espn;ESP-VC;N-337;;;;espvc.n337;N337
-espn;ESP-VC;N-337a;;;;espvc.n337a;N337a
+espn;ESP-VC;N-337a;;;;espvc.n337a;
 espn;ESP-VC;N-338;;;;espvc.n338;N338
 espn;ESP-AN;N-339;;;;espan.n339;N339
 espn;ESP-AN;N-340;;Chi;Chiclana de la Frontera;espan.n340chi;N340Chi
 espn;ESP-AN;N-340;;;Motril;espan.n340;N340
 espn;ESP-AN;N-340;;Poz;El Pozuelo;espan.n340poz;
-espn;ESP-MC;N-340;;Alc;Alcantarilla;espmc.n340alc;N340Alc
+espn;ESP-MC;N-340;;Alc;Alcantarilla;espmc.n340alc;
 espn;ESP-MC;N-340;;;Santomera;espmc.n340;N340
 espn;ESP-VC;N-340;;Elc;Elche;espvc.n340elc;N340Elc
 espn;ESP-VC;N-340;;Alc;Alcoy;espvc.n340alc;N340Alc
@@ -312,7 +312,7 @@ espn;ESP-AN;N-340a;;Ver;Vera;espan.n340aver;
 espn;ESP-AN;N-340a;;Hue;Huércal-Overa;espan.n340ahue;
 espn;ESP-AN;N-340a;;Gon;Góñar;espan.n340agon;
 espn;ESP-MC;N-340a;;;Lorca;espmc.n340a;N340a
-espn;ESP-MC;N-340a;;Alc;Alcantarilla;espmc.n340aalc;N340aAlc
+espn;ESP-MC;N-340a;;Alc;Alcantarilla;espmc.n340aalc;
 espn;ESP-VC;N-340a;;;Castellón de la Plana;espvc.n340a;N340a
 espn;ESP-VC;N-340a;;Vin;Vinaroz;espvc.n340avin;N340aVin
 espn;ESP-CT;N-340a;;Car;San Carlos de la Rápita;espct.n340acar;N340aCar
@@ -321,13 +321,13 @@ espn;ESP-CT;N-340a;;Ame;l’Ametlla del Mar;espct.n340aame;N340aAme
 espn;ESP-CT;N-340a;;;Vilafranca del Pinedès;espct.n340a;N340a
 espn;ESP-AN;N-340b;;;;espan.n340b;
 espn;ESP-AN;N-341;;;;espan.n341;
-espn;ESP-MC;N-342a;;;;espmc.n342a;N342a
+espn;ESP-MC;N-342a;;;;espmc.n342a;
 espn;ESP-VC;N-344;;;la Font de la Figuera;espvc.n344;N344
 espn;ESP-CM;N-344;;;Caudete;espcm.n344;N344
 espn;ESP-MC;N-344;;;Yecla;espmc.n344;N344
 espn;ESP-MC;N-344;;Mol;Molina de Segura;espmc.n344mol;N344Mol
 espn;ESP-AN;N-344;;;El Alquián;espan.n344;N344
-espn;ESP-MC;N-344a;;;Yecla;espmc.n344a;N344a
+espn;ESP-MC;N-344a;;;Yecla;espmc.n344a;
 espn;ESP-AN;N-344a;;;El Alquián;espan.n344a;
 espn;ESP-MC;N-345;;;;espmc.n345;N345
 espn;ESP-AN;N-346;;;;espan.n346;N346
@@ -339,9 +339,9 @@ espn;ESP-AN;N-349;;Alq;El Alquián;espan.n349alq;
 espn;ESP-AN;N-350;;;;espan.n350;N350
 espn;ESP-AN;N-351;;;;espan.n351;N351
 espn;ESP-CE;N-352;;;;espce.n352;N352
-espn;ESP-CE;N-354;;;;espce.n354;N354
+espn;ESP-CE;N-354;;;;espce.n354;
 espn;ESP-AN;N-357;;;;espan.n357;N357
-espn;ESP-CE;N-362;;;;espce.n362;N362
+espn;ESP-CE;N-362;;;;espce.n362;
 espn;ESP-CM;N-400;;Tol;Toledo;espcm.n400tol;N400Tol
 espn;ESP-MD;N-400;;;;espmd.n400;N400
 espn;ESP-CM;N-400;;;Tarancon;espcm.n400;N400
@@ -352,7 +352,7 @@ espn;ESP-CM;N-401a;;Fer;Fernán Caballero;espcm.n401afer;N401aFer
 espn;ESP-CL;N-403;;;;espcl.n403;N403
 espn;ESP-MD;N-403;;;;espmd.n403;N403
 espn;ESP-CM;N-403;;;;espcm.n403;N403
-espn;ESP-MD;N-403a;;;San Martín de Valdeiglesias;espmd.n403a;N403a
+espn;ESP-MD;N-403a;;;San Martín de Valdeiglesias;espmd.n403a;
 espn;ESP-CM;N-403a;;;Escalona;espcm.n403a;N403a
 espn;ESP-CM;N-403a;;Maq;Maqueda;espcm.n403amaq;N403aMaq
 espn;ESP-AN;N-420;;;;espan.n420;N420
@@ -450,7 +450,7 @@ espn;ESP-CL;N-603;;;;espcl.n603;N603
 espn;ESP-CL;N-610;;;;espcl.n610;N610
 espn;ESP-CL;N-610a;;;;espcl.n610a;N610a
 espn;ESP-CB;N-611;;;Torrelavega;espcb.n611;N611
-espn;ESP-CB;N-611;;Fom;Fombelida;espcb.n611fom;N611Fom
+espn;ESP-CB;N-611;;Fom;Fombelida;espcb.n611fom;
 espn;ESP-CL;N-611;;;Palencia;espcl.n611;N611
 espn;ESP-CL;N-611a;;;;espcl.n611a;N611a
 espn;ESP-CL;N-620;;;Salamanca;espcl.n620;N620
@@ -466,7 +466,7 @@ espn;ESP-AS;N-621;;;;espas.n621;N621
 espn;ESP-CB;N-621;;;Potes;espcb.n621;N621
 espn;ESP-CL;N-621;;;Riaño;espcl.n621;N621
 espn;ESP-CL;N-621;;Leo;León;espcl.n621leo;N621Leo
-espn;ESP-CB;N-621a;;;;espcb.n621a;N621a
+espn;ESP-CB;N-621a;;;;espcb.n621a;
 espn;ESP-CL;N-622;;;Lerma;espcl.n622;N622
 espn;ESP-PV;N-622;;;Vitoria-Gasteiz;esppv.n622;N622
 espn;ESP-CL;N-622a;;;;espcl.n622a;N622a
@@ -477,11 +477,11 @@ espn;ESP-AS;N-625;;;;espas.n625;N625
 espn;ESP-CL;N-625;;;;espcl.n625;N625
 espn;ESP-CL;N-627;;;;espcl.n627;N627
 espn;ESP-CB;N-629;;;Ramales de la Victoria;espcb.n629;N629
-espn;ESP-PV;N-629;;;;esppv.n629;N629
-espn;ESP-CB;N-629;;Cal;La Calera del Prado;espcb.n629cal;N629Cal
+espn;ESP-PV;N-629;;;;esppv.n629;
+espn;ESP-CB;N-629;;Cal;La Calera del Prado;espcb.n629cal;
 espn;ESP-CL;N-629;;;;espcl.n629;N629
-espn;ESP-CB;N-629a;;;Ampuero;espcb.n629a;N629a
-espn;ESP-CB;N-629a;;Gib;Gibaja;espcb.n629agib;N629aGib
+espn;ESP-CB;N-629a;;;Ampuero;espcb.n629a;
+espn;ESP-CB;N-629a;;Gib;Gibaja;espcb.n629agib;
 espn;ESP-AS;N-630;;;Oviedo;espas.n630;N630
 espn;ESP-AS;N-630;;Cam;Campumanes;espas.n630cam;N630Cam
 espn;ESP-CL;N-630;;;Zamora;espcl.n630;N630
@@ -512,15 +512,15 @@ espn;ESP-GA;N-634a;;;Mondoñedo;espga.n634a;N634a
 espn;ESP-GA;N-634a;;Lou;Lorenzana;espga.n634alou;N634aLou
 espn;ESP-AS;N-634a;;;Salas;espas.n634a;
 espn;ESP-AS;N-634a;;Rev;La Revuelta’l Coche;espas.n634arev;
-espn;ESP-CB;N-634a;;;Las Presillas;espcb.n634a;N634a
-espn;ESP-PV;N-634d;;;;esppv.n634d;N634d
-espn;ESP-PV;N-634O;;;;esppv.n634o;N634o
+espn;ESP-CB;N-634a;;;Las Presillas;espcb.n634a;
+espn;ESP-PV;N-634d;;;;esppv.n634d;
+espn;ESP-PV;N-634O;;;;esppv.n634o;
 espn;ESP-CB;N-635;;;;espcb.n635;N635
-espn;ESP-CB;N-636;;;Santander;espcb.n636;N636
+espn;ESP-CB;N-636;;;Santander;espcb.n636;
 espn;ESP-PV;N-636;;;Durango;esppv.n636;N636
 espn;ESP-PV;N-637;;;;esppv.n637;BI30,N637
-espn;ESP-PV;N-638;;;;esppv.n638;N638
-espn;ESP-PV;N-639;;;;esppv.n639;N639
+espn;ESP-PV;N-638;;;;esppv.n638;
+espn;ESP-PV;N-639;;;;esppv.n639;
 espn;ESP-GA;N-640;;;Lugo;espga.n640;N640
 espn;ESP-AS;N-640;;Cha;O Chao;espas.n640cha;N640Cha
 espn;ESP-GA;N-640;;Lei;Leirado;espga.n640lei;N640Lei
@@ -534,7 +534,7 @@ espn;ESP-AS;N-643;;;;espas.n643;
 espn;ESP-PV;N-644;;;;esppv.n644;N644
 espn;ESP-GA;N-651;;;;espga.n651;N651
 espn;ESP-GA;N-655;;;;espga.n655;N655
-espn;ESP-ML;N-NADOR;;;;espml.nnador;NNADOR
+espn;ESP-ML;N-NADOR;;;;espml.nnador;
 espn;ESP-AN;A-4R;;;;espan.a004r;
 espn;ESP-CT;A-14-R2;;;;espct.a014r2;A14R2
 espn;ESP-CT;A-22-R1;;;;espct.a022r1;A22R1
@@ -556,10 +556,10 @@ espn;ESP-GA;FE-15;;;;espga.fe015;FE15
 espn;ESP-AS;GJ-10;;;;espas.gj010;
 espn;ESP-AN;GR-16;;Var;El Varadero;espan.gr016var;
 espn;ESP-GA;LU-11;;;;espga.lu011;LU11
-espn;ESP-ML;ML-101;;;;espml.ml101;ML101
-espn;ESP-ML;ML-204;;;;espml.ml204;ML204
-espn;ESP-ML;ML-300;;;;espml.ml300;ML300
-espn;ESP-NC;NA-30;;;;espnc.na030;NA30
+espn;ESP-ML;ML-101;;;;espml.ml101;
+espn;ESP-ML;ML-204;;;;espml.ml204;
+espn;ESP-ML;ML-300;;;;espml.ml300;
+espn;ESP-NC;NA-30;;;;espnc.na030;
 espn;ESP-GA;OU-11;;;;espga.ou011;OU11
 espn;ESP-CL;P-12;;;;espcl.p012;P12
 espn;ESP-GA;PO-11;;Mar;Marin;espga.po011mar;PO11Mar
@@ -571,7 +571,7 @@ espn;ESP-GA;SC-30;;;;espga.sc030;SC30
 espn;ESP-AN;SE-20;;;;espan.se020;SE20
 espn;ESP-AN;SE-31;;;;espan.se031;SE31
 espn;ESP-CL;SO-20;;Sor;Soria;espcl.so020sor;SO20Sor
-espn;ESP-VC;V-31R;;;;espvc.v031r;V31R
+espn;ESP-VC;V-31R;;;;espvc.v031r;
 espn;ESP-CL;VA-20;;;;espcl.va020;VA20
 espn;ESP-CL;ZA-11;;;;espcl.za011;ZA11
 espn;ESP-CL;ZA-12;;Zam;Zamora;espcl.za012zam;ZA12Zam
