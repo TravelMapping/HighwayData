@@ -3979,6 +3979,12 @@ date;region;route;root;description
 2015-07-17;Jamaica;T1;jam.t001;Route extended at west end from temporary terminus at Free Town to the A2 at Denbigh
 2015-07-17;Jamaica;T2;jam.t002;New route
 2015-07-17;Jamaica;T3;jam.t003;New route
+2026-10-16;Japan;E5 (Otonaka);jpn.e005oto;New route
+2026-10-16;Japan;E9 (Kushirocho);;Route deleted, merged into E9 (Hamada)
+2026-10-16;Japan;E9 (Hamada);jpn.e009ham;Route extended south to Toda IC, combining with former E9 (Kushirocho) section
+2026-10-16;Japan;E38 (Kushiro);;Route deleted, merged into E38
+2026-10-16;Japan;E38;jpn.e038;Route extended east to exit 18, combining with former E38 (Kushiro) section
+2026-10-16;Japan;E55 (Anan);jpn.e055ana;New route
 2026-03-16;Japan;E63;jpn.e063;Route extended east to exit 9
 2026-03-16;Japan;E69 (Urakawa);;Route deleted, merged into E69
 2026-03-16;Japan;E69 (Hamamatsu);jpn.e069;Route extended north to Touei IC, combining with former E69 (Urakawa) section
@@ -10225,6 +10231,8 @@ date;region;route;root;description
 2025-11-27;(USA) Minnesota;MN 123;mn.mn123;Route truncated to just east of the Kettle River bridge
 2026-09-28;(USA) Minnesota;MN 298;;Deleted route
 2026-09-28;(USA) Minnesota;MN 299;;Deleted route
+2026-10-15;(USA) Minnesota;US 10;mn.us010;Relocated in Moorhead to follow Main Ave and 11th Street
+2026-10-15;(USA) Minnesota;US 75;mn.us075;Relocated in Moorhead to follow Main Ave and 11th Street
 2026-06-02;(USA) Mississippi;US 82;ms.us082;Relocated onto new freeway south of Greenville
 2026-06-02;(USA) Mississippi;US 278;ms.us278;Relocated onto new freeway south of Greenville
 2018-05-05;(USA) Mississippi;I-269;ms.i269;Extended west to MS 305/Exit 9
@@ -10297,6 +10305,8 @@ date;region;route;root;description
 2015-09-06;(USA) Missouri;US 169 Spur (Smithville);mo.us169sprsmi;Extended route south on Bridge St. from Route F to Church St.
 2015-09-06;(USA) Missouri;US 36 Business (Chillicothe);mo.us036buschi;Relocated from frontage road west of US 65, to US 65 between frontage road and US 36
 2015-09-06;(USA) Missouri;US 36 Spur (Utica);;Deleted route
+2026-10-16;(USA) Montana;MT 200;mt.mt200;MT 201 junction moved north of Fairview. Old junction relabeled "1stSt".
+2026-10-16;(USA) Montana;MT 201;mt.mt201;Route moved to pseudo-bypass alignment north of Fairview. New alignment is east of "CR135" waypoint.
 2026-10-12;(USA) Montana;Camas Road;mt.camrd;New route.
 2026-10-12;(USA) Montana;Many Glacier Road;mt.manyglard;New route.
 2026-10-08;(USA) Montana;SR 295;mt.sr295;New route.
@@ -10508,6 +10518,11 @@ date;region;route;root;description
 2015-11-20;(USA) New Mexico;US 70;nm.us070;In Lordsburg, route moved from I-10 between exits 22 and 24, and Main St. (NM 494), north to Motel Dr. (I-10BL)
 2015-11-02;(USA) New Mexico;US 380;nm.us380;Swapped locations of labels US285Trk and US70/285
 2015-11-02;(USA) New Mexico;US 70 Truck (Roswell);nm.us070trkros;Removed from southern part of relief route on the west side of Roswell and relocated onto northern part
+2026-10-15;(USA) New York;I-81;ny.i081;Rerouted from old alignment through Downtown Syracuse (now I-81 BL) to an eastern bypass of Syracuse (formerly I-481). All other exits renumbered from sequential to distance-based.
+2026-10-15;(USA) New York;I-481;ny.i081;Route deleted (now part of I-81).
+2026-10-15;(USA) New York;I-81 BL (Syracuse);ny.i081blsyr;Route added.
+2026-10-15;(USA) New York;US 11;ny.us011;Waypoint label I-81(16) moved from “Onondaga Nation/Nedrow” exit in Onondaga (now labeled I-81(78)) to “Chenango Bridge/Nimmonsburg” exit in Chenango.
+2026-10-15;(USA) New York;NY 298;ny.ny298;Waypoint label I-81 moved from current I-81 BL in Syracuse (now labeled I-81BL) to rerouted I-81 in DeWitt.
 2026-07-01;(USA) New York;NY 17 (Binghamton);ny.ny017bin;Removed from Hillburn bypass and rerouted onto I-87 (NYS Thruway) between Exits 15 and 15A.
 2026-06-01;(USA) New York;US 11;ny.us011;Route shifted one block east in Cortland from Main St to Church St between Port Watson St and Clinton Ave. Route realigned to use a couplet of Clinton Ave/N Main St (northbound) and Grant St/N Church St (southbound).
 2026-06-01;(USA) New York;NY 13;ny.ny013;Route shifted one block east in Cortland from Main St to Church St between Port Watson St and Clinton Ave.
