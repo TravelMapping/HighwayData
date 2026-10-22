@@ -25,30 +25,30 @@ AL131 http://www.openstreetmap.org/?lat=31.826437&lon=-85.163226
 AL30 http://www.openstreetmap.org/?lat=31.857175&lon=-85.166160
 BouSt http://www.openstreetmap.org/?lat=31.880728&lon=-85.146806
 US82_E http://www.openstreetmap.org/?lat=31.891419&lon=-85.145722
-US82_W http://www.openstreetmap.org/?lat=31.911903&lon=-85.148721
+OldUS82 http://www.openstreetmap.org/?lat=31.911903&lon=-85.148721
+US82_W http://www.openstreetmap.org/?lat=31.923528&lon=-85.145164
 +x04 http://www.openstreetmap.org/?lat=31.958243&lon=-85.119667
 AL285 http://www.openstreetmap.org/?lat=31.987545&lon=-85.114582
 AL165_S http://www.openstreetmap.org/?lat=32.000511&lon=-85.115842
 +x05 http://www.openstreetmap.org/?lat=32.028616&lon=-85.120718
-CR137Gle_S http://www.openstreetmap.org/?lat=32.080066&lon=-85.149799
+CR137_A +CR137Gle_S http://www.openstreetmap.org/?lat=32.080066&lon=-85.149799
 +x06 http://www.openstreetmap.org/?lat=32.115367&lon=-85.150394
 CR12_Rus http://www.openstreetmap.org/?lat=32.140507&lon=-85.164331
-CR137Gle_N http://www.openstreetmap.org/?lat=32.157335&lon=-85.178370
-CR137Pit_S http://www.openstreetmap.org/?lat=32.165950&lon=-85.176546
+CR137_B +CR137Gle_N http://www.openstreetmap.org/?lat=32.157335&lon=-85.178370
+CR137_C +CR137Pit_S http://www.openstreetmap.org/?lat=32.165950&lon=-85.176546
 CR4 http://www.openstreetmap.org/?lat=32.194949&lon=-85.180033
-CR137Pit_N http://www.openstreetmap.org/?lat=32.212352&lon=-85.168918
+CR137_D +CR137Pit_N http://www.openstreetmap.org/?lat=32.212352&lon=-85.168918
 +x07 http://www.openstreetmap.org/?lat=32.233277&lon=-85.170908
 +x08 http://www.openstreetmap.org/?lat=32.260463&lon=-85.162754
-CR137Sea_S http://www.openstreetmap.org/?lat=32.283505&lon=-85.170071
+CR137_E +CR137Sea_S http://www.openstreetmap.org/?lat=32.283505&lon=-85.170071
 AL26 http://www.openstreetmap.org/?lat=32.299286&lon=-85.179926
 +x09 http://www.openstreetmap.org/?lat=32.317947&lon=-85.176498
 AL169 http://www.openstreetmap.org/?lat=32.328768&lon=-85.167925
-CR137Sea_N http://www.openstreetmap.org/?lat=32.335259&lon=-85.153264
-CR137Rus_S http://www.openstreetmap.org/?lat=32.345756&lon=-85.128003
+CR137_F http://www.openstreetmap.org/?lat=32.335259&lon=-85.153264
+CR137_G http://www.openstreetmap.org/?lat=32.345756&lon=-85.128003
 CR41 http://www.openstreetmap.org/?lat=32.368984&lon=-85.094170
 CR61 http://www.openstreetmap.org/?lat=32.402719&lon=-85.058067
 AL165_N http://www.openstreetmap.org/?lat=32.422192&lon=-85.040016
-+x10 http://www.openstreetmap.org/?lat=32.433693&lon=-85.025897
 US280_E http://www.openstreetmap.org/?lat=32.455672&lon=-85.010319
 25thAve http://www.openstreetmap.org/?lat=32.466395&lon=-85.027007
 US80_W http://www.openstreetmap.org/?lat=32.475198&lon=-85.030140
@@ -61,7 +61,7 @@ CR179 http://www.openstreetmap.org/?lat=32.584604&lon=-85.174577
 CR175 http://www.openstreetmap.org/?lat=32.597734&lon=-85.238199
 CR158 http://www.openstreetmap.org/?lat=32.635079&lon=-85.292074
 I-85 +I-85(62) http://www.openstreetmap.org/?lat=32.643675&lon=-85.352681
-TorBlvd http://www.openstreetmap.org/?lat=32.643585&lon=-85.354972
+ColPkwy_W +TorBlvd http://www.openstreetmap.org/?lat=32.643585&lon=-85.354972
 SamAve http://www.openstreetmap.org/?lat=32.665237&lon=-85.366425
 CR389 http://www.openstreetmap.org/?lat=32.705736&lon=-85.370920
 +x12 http://www.openstreetmap.org/?lat=32.736083&lon=-85.404775
@@ -124,7 +124,7 @@ AL204 http://www.openstreetmap.org/?lat=33.853230&lon=-85.915747
 GreValRd http://www.openstreetmap.org/?lat=33.947690&lon=-85.927221
 AirDepRd http://www.openstreetmap.org/?lat=33.964852&lon=-85.941362
 ColPkwy http://www.openstreetmap.org/?lat=33.973563&lon=-85.950884
-BroSt +EBroadSt http://www.openstreetmap.org/?lat=33.986730&lon=-85.965711
+BroSt http://www.openstreetmap.org/?lat=33.986730&lon=-85.965711
 US278_E http://www.openstreetmap.org/?lat=33.999099&lon=-85.968264
 GooAve http://www.openstreetmap.org/?lat=34.006535&lon=-85.972497
 AL291 http://www.openstreetmap.org/?lat=34.011284&lon=-85.991991
@@ -171,9 +171,10 @@ MainDr http://www.openstreetmap.org/?lat=34.545285&lon=-86.428295
 +x37 http://www.openstreetmap.org/?lat=34.567274&lon=-86.447468
 +x38 http://www.openstreetmap.org/?lat=34.625969&lon=-86.458154
 SutRd http://www.openstreetmap.org/?lat=34.659991&lon=-86.483747
-OldBigCoveRd http://www.openstreetmap.org/?lat=34.688447&lon=-86.502029
+OldBCRd http://www.openstreetmap.org/?lat=34.688447&lon=-86.502029
 MonSanoBlvd http://www.openstreetmap.org/?lat=34.711583&lon=-86.534452
 CalSt http://www.openstreetmap.org/?lat=34.719441&lon=-86.573585
+MadSt http://www.openstreetmap.org/?lat=34.720021&lon=-86.579239
 US231/53 http://www.openstreetmap.org/?lat=34.719966&lon=-86.592607
 CliAve http://www.openstreetmap.org/?lat=34.725998&lon=-86.596341
 I-565(19A) http://www.openstreetmap.org/?lat=34.733228&lon=-86.597167
@@ -182,11 +183,12 @@ OakAve +OakwdAv http://www.openstreetmap.org/?lat=34.749370&lon=-86.598932
 MaxLutDr http://www.openstreetmap.org/?lat=34.757857&lon=-86.592677
 US72_E http://www.openstreetmap.org/?lat=34.762046&lon=-86.589603
 MasLakeRd http://www.openstreetmap.org/?lat=34.771014&lon=-86.585881
-WinchRd http://www.openstreetmap.org/?lat=34.792814&lon=-86.577448
+WinRd http://www.openstreetmap.org/?lat=34.792814&lon=-86.577448
 MerSt http://www.openstreetmap.org/?lat=34.813116&lon=-86.571579
+BobWadeLn http://www.openstreetmap.org/?lat=34.827480&lon=-86.571445
 MerBotRd http://www.openstreetmap.org/?lat=34.851231&lon=-86.571423
 +x99 http://www.openstreetmap.org/?lat=34.879119&lon=-86.568167
-WalkLn http://www.openstreetmap.org/?lat=34.902717&lon=-86.571633
+GriRd http://www.openstreetmap.org/?lat=34.902717&lon=-86.571633
 JoeQuiRd http://www.openstreetmap.org/?lat=34.932157&lon=-86.571858
 ElkSecRd http://www.openstreetmap.org/?lat=34.976098&lon=-86.569154
 AL/TN http://www.openstreetmap.org/?lat=34.990892&lon=-86.571279
