@@ -1,4 +1,5 @@
 systemName;route;banner;groupName;roots
+usaush;US1;His;Indrio, FL;fl.us001hisind
 usaush;US6;His;Santa Clarita, CA;ca.us006hissan
 usaush;US6;His;Gretna, NE;ne.us006hisgre
 usaush;US6;His;Council Bluffs, IA;ia.us006hiscou
@@ -13,6 +14,7 @@ usaush;US10;His;Moses Lake, WA;wa.us010hismos
 usaush;US10;His;Ritzville, WA;wa.us010hisrit
 usaush;US10;His;Cheney, WA;wa.us010hische
 usaush;US10;Old;Glen Ullin, ND;nd.us010oldgle
+usaush;US11;His;Charleston, TN;tn.us011hischa
 usaush;US20;His;Rushville, NE;ne.us020hisrus
 usaush;US20;His;Iowa;ia.us020his
 usaush;US20;His;Belvidere, IL;il.us020hisbel
@@ -78,6 +80,7 @@ usaush;US66;His;(West) Clinton, OK;ok.us066hiswcl
 usaush;US66;His;(South) Clinton, OK;ok.us066hisscl
 usaush;US66;His;(South) Weatherford, OK;ok.us066hisswe
 usaush;US66;His;Geary, OK;ok.us066hisgea
+usaush;US66;His;(1926-1932 Original Alignment) El Reno, OK;ok.us066hisren
 usaush;US66;His;(1958 Alignment) Lake Overholser, OK;ok.us066hislak
 usaush;US66;His;(1933 Alignment) Crestwood, OK;ok.us066hiscre
 usaush;US66;His;(1947 Beltline) Belle Isle, OK;ok.us066hisbel
@@ -85,18 +88,18 @@ usaush;US66;His;(1930 Alignment) Uptown Oklahoma City, OK;ok.us066hisupt
 usaush;US66;His;(1936 Beltline) Helm Farm, OK;ok.us066hishel
 usaush;US66;His;(1931 Beltline) Britton, OK;ok.us066hisbri
 usaush;US66;His;(Lincoln Blvd 1959) Central Park, OK;ok.us066hiscen
-usaush;US66;His;(1926-1932) Tulsa;ok.us066hisntu
-usaush;US66;His;Foyil;ok.us066hisfoy
-usaush;US66;His;Miami;ok.us066hismia
-usaush;US66;His;(1940-1975) Joplin;mo.us066hisejo
-usaush;US66;His;(1930-1955) Joplin;mo.us066hisnjo
-usaush;US66;His;(1954-1975) Carthage;mo.us066hiscar
-usaush;US66;His;(1936-1970) Springfield;mo.us066hisnsp
-usaush;US66;His;(1926-1928) Springfield;mo.us066hisesp
-usaush;US66;His;Laquey;mo.us066hislaq
-usaush;US66;His;Rolla;mo.us066hisrol
-usaush;US66;His;(1926-1933) Manchester;mo.us066hisman
-usaush;US66;His;(1936-1965) Florissant;mo.us066hisflo
+usaush;US66;His;(1926-1928) Depew, OK;ok.us066hisdep
+usaush;US66;His;(1926-1932) Tulsa, OK;ok.us066hisntu
+usaush;US66;His;Foyil, OK;ok.us066hisfoy
+usaush;US66;His;Miami, OK;ok.us066hismia
+usaush;US66;His;(1940-1975) Joplin, MO;mo.us066hisejo
+usaush;US66;His;(1930-1955) Joplin, MO;mo.us066hisnjo
+usaush;US66;His;(1954-1975) Carthage, MO;mo.us066hiscar
+usaush;US66;His;(1936-1970) Springfield, MO;mo.us066hisnsp
+usaush;US66;His;(1926-1928) Springfield, MO;mo.us066hisesp
+usaush;US66;His;Rolla, MO;mo.us066hisrol
+usaush;US66;His;(1926-1933) Manchester, MO;mo.us066hisman
+usaush;US66;His;(1936-1965) Florissant, MO;mo.us066hisflo
 usaush;US66;His;(Spur) Chain of Rocks, IL;il.us066hissprcha
 usaush;US66;His;(1940-1977) Livingston, IL;il.us066hisliv
 usaush;US66;His;(1926-1930) Carlinville, IL;il.us066hiscar
@@ -105,6 +108,12 @@ usaush;US66;His;(1930-1940) Litchfield, IL;il.us066hislit
 usaush;US66;His;(Spur) Willamsville, IL;il.us066hissprwil
 usaush;US66;His;(1926-1930) Lincoln, IL;il.us066hislin
 usaush;US66;His;(1930-1940) Lincoln, IL;il.us066hislcn
+usaush;US66;His;(1954-1977) Atlanta;il.us066hisatl
+usaush;US66;His;(1926-1930) Lexington;il.us066hislex
+usaush;US66;His;(1926-1930) Chenoa;il.us066hische
+usaush;US66;His;(1926-1945) Pontiac;il.us066hispon
+usaush;US66;His;(1943-1977) Odell;il.us066hisode
+usaush;US66;His;(1946-1977) Dwight;il.us066hisdwi
 usaush;US70;His;Mesa, AZ;az.us070hismes
 usaush;US80;His;San Diego, CA;ca.us080hissan
 usaush;US80;His;El Cajon, CA;ca.us080hiscaj
@@ -123,18 +132,22 @@ usaush;US89A;His;Clarkdale, AZ;az.us089ahiscla
 usaush;US91;His;Corona, CA;ca.us091hiscor
 usaush;US99;His;Indio, CA;ca.us099hisind
 usaush;US99;His;Los Angeles, CA;ca.us099hislos
+usaush;US99;His;Burbank, CA;ca.us099hisbur
 usaush;US99;His;San Fernando, CA;ca.us099hisfer
 usaush;US99;His;Tulare, CA;ca.us099histul
 usaush;US99;His;Madera, CA;ca.us099hismad
+usaush;US99;His;Corning, CA;ca.us099hiscor
 usaush;US99;His;Red Bluff, CA;ca.us099hisrbl
 usaush;US99;His;Cottonwood, CA;ca.us099hiscot
 usaush;US99;His;Redding, CA;ca.us099hisred
 usaush;US99;His;Dunsmuir, CA;ca.us099hisdun
+usaush;US99;His;Mount Shasta, CA;ca.us099hismou
 usaush;US99;His;Weed, CA;ca.us099hiswee
+usaush;US99;His;Yreka, CA;ca.us099hisyre
 usaush;US99;His;Myrtle Creek, CA;or.us099hismyr
 usaush;US99;His;Federal Way, WA;wa.us099hisfed
-usaush;US99W;His;Williams, CA;ca.us099whiswlm
-usaush;US99W;His;Willows, CA;ca.us099whiswlw
+usaush;US99W;His;Williams, CA;ca.us099whiswil
+usaush;US99W;His;Orland, CA;ca.us099whisorl
 usaush;US101;His;San Diego, CA;ca.us101hissan
 usaush;US101;His;Paso Robles, CA;ca.us101hispas
 usaush;US101;His;San Juan Bautista, CA;ca.us101hissjb
