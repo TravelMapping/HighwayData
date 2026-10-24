@@ -4,6 +4,14 @@ This repository is for raw data used by the Travel Mapping project.
 
 Please help us improve our data by reporting any problems you notice with the data in [the project forum](https://forum.travelmapping.net/).
 
+## Fork datacheck
+
+On `eeffaann/HighwayData`, the **Highway data check** GitHub Actions workflow runs whenever a PR targeting this fork is opened, reopened, or updated with new commits, and can also be started manually from the Actions tab. It checks the PR's proposed merge with its target branch and reports a failed check if datacheck fails. Opening a PR against `TravelMapping/HighwayData` does not trigger this fork's workflow; open a PR against this fork first to check your contribution before submitting it upstream. To prevent merging when the check fails, configure a branch protection rule or ruleset requiring the `datacheck` status check.
+
+The workflow runs Travel Mapping's Python site update program in highway-data-check mode (`-e -k`) on a GitHub-hosted runner, without SSH credentials or access to the Travel Mapping server. DataProcessing is pinned to a specific commit in the workflow for reproducibility; update that `ref` when adopting a newer checker. A nonzero exit or missing `!!! DATA CHECK SUCCESSFUL !!!` message fails the check. Nonfatal datacheck findings may still be present in a successful run: review `logs/datacheck.log` in the `datacheck-results` artifact, which also includes console output and statistics and is retained for 14 days.
+
+## Data organization
+
 In general, the project's data is in plain text files in two formats: CSV using semicolon separators, and WPT or "waypoint" files.  WPT files are required to contain only plain ASCII text.  Some CSV files can include non-ASCII characters, but should always use a UTF-8 encoding when such characters are used.
 
 The project's data is organized herein as follows:
