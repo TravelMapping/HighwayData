@@ -4,16 +4,6 @@ This repository is for raw data used by the Travel Mapping project.
 
 Please help us improve our data by reporting any problems you notice with the data in [the project forum](https://forum.travelmapping.net/).
 
-## Fork datacheck
-
-On `eeffaann/HighwayData`, the **Highway data check** GitHub Actions workflow runs on every push to `master`, whenever a PR targeting this fork is opened, reopened, or updated with new commits, and can also be started manually from the Actions tab. Push runs check the pushed commit; PR runs check the proposed merge with the target branch. The workflow reports a failed check if datacheck fails. Opening a PR against `TravelMapping/HighwayData` does not trigger this fork's workflow.
-
-Before submitting changes upstream, push your fork's `master`, wait for the **Highway data check** run for that exact commit to succeed, and review its datacheck findings. Only then open or update the upstream PR. If an upstream PR already uses your fork's `master`, pushing updates it immediately, before the check finishes; wait for the new run before requesting an upstream merge. Push checks do not prevent changes from entering `master`. To enforce checks before merging into your fork, use a PR and configure a branch protection rule or ruleset requiring the `datacheck` status check.
-
-The workflow runs Travel Mapping's Python site update program in highway-data-check mode (`-e -k`) on an `ubuntu-latest` GitHub-hosted runner, without SSH credentials or access to the Travel Mapping server. DataProcessing is pinned to a specific commit in the workflow for reproducibility; update that `ref` when adopting a newer checker. A nonzero exit or missing `!!! DATA CHECK SUCCESSFUL !!!` message fails the check. Nonfatal datacheck findings may still be present in a successful run: review `logs/datacheck.log` in the `datacheck-results` artifact, which also includes console output and statistics and is retained for 14 days.
-
-## Data organization
-
 In general, the project's data is in plain text files in two formats: CSV using semicolon separators, and WPT or "waypoint" files.  WPT files are required to contain only plain ASCII text.  Some CSV files can include non-ASCII characters, but should always use a UTF-8 encoding when such characters are used.
 
 The project's data is organized herein as follows:
