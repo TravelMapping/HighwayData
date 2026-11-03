@@ -43,14 +43,17 @@ jobs:
         shell: bash
         run: |
           sudo apt-get update
-          sudo apt-get install -y --no-install-recommends clang make libfmt-dev
+          sudo apt-get install -y --no-install-recommends \
+            clang libc++-dev libc++abi-dev make libfmt-dev
 
       - name: Build C++ site update
         shell: bash
         run: |
           set -euo pipefail
           mkdir -p datacheck
-          make -C DataProcessing/siteupdate/cplusplus -j 2 siteupdate \
+          # Match the Clang/libc++ toolchain used by the FreeBSD site update.
+          make -C DataProcessing/siteupdate/cplusplus -j 2 \
+            CXX='clang++ -stdlib=libc++' siteupdate \
             2>&1 | tee datacheck/build.log
 
       - name: Run datacheck
