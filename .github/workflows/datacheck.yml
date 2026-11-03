@@ -39,16 +39,23 @@ jobs:
           path: UserData
           persist-credentials: false
 
-      - name: Set up Python
-        uses: actions/setup-python@v7
-        with:
-          python-version: '3.11'
+      - name: Install C++ build dependencies
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends clang make libfmt-dev
+
+      - name: Build C++ site update
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p datacheck
+          make -C DataProcessing/siteupdate/cplusplus -j 2 siteupdate \
+            2>&1 | tee datacheck/build.log
 
       - name: Run datacheck
         id: datacheck
         shell: bash
-        env:
-          PYTHONUTF8: '1'
         run: |
           set -euo pipefail
           mkdir -p datacheck/logs/users datacheck/logs/nmpbyregion datacheck/stats
@@ -57,8 +64,8 @@ jobs:
               printf '%s @ ' "$repo"
               git -C "$repo" rev-parse HEAD
             done
-            python -u DataProcessing/siteupdate/python-teresco/siteupdate.py \
-              -e -k \
+            DataProcessing/siteupdate/cplusplus/siteupdate \
+              -e -k -t 2 \
               -w HighwayData \
               -u UserData/list_files \
               -l datacheck/logs \
@@ -74,6 +81,7 @@ jobs:
           name: datacheck-results
           # Keep review diagnostics, not per-user logs, statistics, or rewritten WPTs.
           path: |
+            datacheck/build.log
             datacheck/console.log
             datacheck/logs/datacheck.log
             datacheck/logs/nearmisspoints.log
@@ -97,7 +105,7 @@ jobs:
             printf 'Checker step outcome: **%s**.\n\n' "$CHECK_OUTCOME"
             printf 'Green means processing completed without fatal errors and emitted the success marker; it does not mean there are no data findings.\n\n'
             printf 'Ordinary datacheck and near-miss findings still need human review. This pilot adds no required-check or merge-policy settings and does not compare findings with a baseline.\n\n'
-            printf 'Download **datacheck-results** from this run (retained for 7 days). It contains `console.log` with all three checked-out SHAs and available diagnostic reports under `logs/`, including `datacheck.log`, `nearmisspoints.log`, and `tm-master.nmp`. Per-user logs, statistics, and rewritten WPTs are excluded.\n\n'
+            printf 'Download **datacheck-results** from this run (retained for 7 days). It contains `build.log`, `console.log` with all three checked-out SHAs, and available diagnostic reports under `logs/`, including `datacheck.log`, `nearmisspoints.log`, and `tm-master.nmp`. Per-user logs, statistics, and rewritten WPTs are excluded.\n\n'
             if [ -n "$ARTIFACT_URL" ]; then
               printf '[Download diagnostic artifact](%s)\n' "$ARTIFACT_URL"
             else
