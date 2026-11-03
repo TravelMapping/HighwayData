@@ -1,0 +1,75 @@
+name: Highway data check
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  datacheck:
+    if: github.repository == 'eeffaann/HighwayData'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Check out highway data
+        uses: actions/checkout@v7
+        with:
+          path: HighwayData
+          persist-credentials: false
+
+      - name: Check out DataProcessing
+        uses: actions/checkout@v7
+        with:
+          repository: TravelMapping/DataProcessing
+          ref: 92db014f52f9e6021aba5f697cc98d9daa924e0f
+          path: DataProcessing
+          persist-credentials: false
+
+      - name: Check out UserData
+        uses: actions/checkout@v7
+        with:
+          repository: TravelMapping/UserData
+          path: UserData
+          persist-credentials: false
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.11'
+
+      - name: Run datacheck
+        shell: bash
+        env:
+          PYTHONUTF8: '1'
+        run: |
+          mkdir -p datacheck/logs/users datacheck/logs/nmpbyregion datacheck/stats
+          {
+            for repo in HighwayData DataProcessing UserData; do
+              printf '%s @ ' "$repo"
+              git -C "$repo" rev-parse HEAD
+            done
+            python -u DataProcessing/siteupdate/python-teresco/siteupdate.py \
+              -e -k \
+              -w HighwayData \
+              -u UserData/list_files \
+              -l datacheck/logs \
+              -c datacheck/stats
+          } 2>&1 | tee datacheck/console.log
+          grep -Fq '!!! DATA CHECK SUCCESSFUL !!!' datacheck/console.log
+
+      - name: Upload datacheck results
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: datacheck-results
+          path: datacheck/
+          retention-days: 14
