@@ -58,6 +58,7 @@ canqca;CAN;Québec Autoroutes;TMblue;1;active
 cantch;CAN;Trans-Canada Highway;TMred;2;active
 cansf;CAN;Canada Select Named Freeways;TMteal;3;active
 canab;CAN;Alberta Provincial Highways 1-216;TMpurple;4;active
+canabs;CAN;Alberta Provincial Highways 500-986;TMyellow;5;active
 canbc;CAN;British Columbia Provincial Highways;TMpurple;4;active
 canmb;CAN;Manitoba Provincial Trunk Highways;TMpurple;4;active
 canmbp;CAN;Manitoba Provincial Roads;TMyellow;5;active
@@ -187,6 +188,7 @@ fracvld36;FRA;Indre Routes Départementales;TMyellow;5;active
 fracvld37;FRA;Indre-et-Loire Routes Départementales;TMyellow;5;active
 fracvlm37;FRA;Tours Métropole Val de Loire Routes Métropolitaines;TMyellow;5;active
 fracvld41;FRA;Loir-et-Cher Routes Départementales;TMyellow;5;active
+fracvld45d;FRA;Orléans Métropole Routes Métropolitaines;TMyellow;5;active
 fragesd08;FRA;Ardennes Routes Départementales;TMyellow;5;active
 fragesd10;FRA;Aube Routes Départementales;TMyellow;5;active
 fragesd51;FRA;Marne Routes Départementales;TMyellow;5;active
@@ -268,6 +270,7 @@ gbna;GBR;Great Britain A Roads;TMlightsalmon;4;active
 nira;GBR;Northern Ireland A Roads;TMlightsalmon;4;active
 gbnb;GBR;Great Britain B Roads;TMyellow;5;active
 nirb;GBR;Northern Ireland B Roads;TMyellow;5;active
+gbrrr;GBR;United Kingdom Ring Roads;TMgray;5;active
 nirtr;GBR;Northern Ireland Tourist Routes;TMbrown;5;active
 sctntr;GBR;Scotland National Tourist Routes;TMbrown;5;active
 gbnmkgr;GBR;Milton Keynes Grid Roads;TMgray;6;active
@@ -511,7 +514,6 @@ brasp;BRA;São Paulo Sistema Rodoviário Estadual;TMbrown;4;preview
 braspa;BRA;São Paulo Sistema Rodoviário Estadual (Acessos);TMbrown;4;preview
 braspi;BRA;São Paulo Sistema Rodoviário Estadual (Interligações);TMbrown;4;preview
 btnah;BTN;Bhutan UNESCAP Asian Highways;TMred;3;preview
-canabs;CAN;Alberta Provincial Highways 500-986;TMyellow;5;preview
 cannl;CAN;Newfoundland and Labrador Provincial Highways;TMpurple;4;preview
 canons;CAN;Ontario Secondary Highways;TMyellow;5;preview
 chlrn;CHL;Chile Rutas Nacionales;TMred;2;preview
@@ -519,13 +521,16 @@ chlsf;CHL;Chile Select Freeways;TMteal;3;preview
 chng;CHN;China National Expressways;TMblue;1;preview
 chnah;CHN;China UNESCAP Asian Highways;TMred;3;preview
 chnsf;CHN;China Select Freeways;TMyellow;2;preview
-chnbjs;CHN;Beijing Provincial Expressways;TMyellow;2;preview
-chntjs;CHN;Tianjin Provincial Expressways;TMyellow;2;preview
+chnbjs;CHN;Beijing Provincial Expressways;TMyellow;2;active
+chntjs;CHN;Tianjin Provincial Expressways;TMyellow;2;active
 chngds;CHN;Guangdong Provincial Expressways;TMyellow;2;preview
 chnhis;CHN;Hainan Provincial Expressways;TMyellow;2;preview
-chnxzs;CHN;Tibet Provincial Expressways;TMyellow;2;preview
-chnnxs;CHN;Ningxia Provincial Expressways;TMyellow;2;preview
-chnjjjs;CHN;Beijing-Tianjin-Hebei Inter-provincial Expressways;TMgreen;2;preview
+chnjls;CHN;Jilin Provincial Expressways;TMyellow;2;active
+chnxzs;CHN;Tibet Provincial Expressways;TMyellow;2;active
+chnnxs;CHN;Ningxia Provincial Expressways;TMyellow;2;active
+chnhes;CHN;Hebei Provincial Expressways;TMyellow;2;preview
+chnqhs;CHN;Qinghai Provincial Expressways;TMyellow;2;preview
+chnjjjs;CHN;Beijing-Tianjin-Hebei Inter-provincial Expressways;TMgreen;2;active
 cogn;COG;Congo Routes Nationales;TMgreen;4;preview
 colrn;COL;Colombia Red Vial Nacional;TMred;2;preview
 colsf;COL;Colombia Select Freeways;TMteal;3;preview
@@ -545,13 +550,14 @@ frabfcd70;FRA;Haute-Saône Routes Départementales;TMyellow;5;preview
 frabfcd71;FRA;Saône-et-Loire Routes Départementales;TMyellow;5;preview
 frabfcd89;FRA;Yonne Routes Départementales;TMyellow;5;preview
 frabred29;FRA;Finistère Routes Départementales;TMyellow;5;preview
+frabred29d;FRA;Brest Métropole Routes Métropolitaines;TMyellow;5;preview
 frabred35;FRA;Ille-et-Vilaine Routes Départementales;TMyellow;5;preview
+frabred35m;FRA;Rennes Métropole Routes Métropolitaines (incomplete);TMyellow;5;preview
 fracvld45;FRA;Loiret Routes Départementales;TMyellow;5;preview
 franord76;FRA;Seine-Maritime Routes Départementales;TMyellow;5;preview
 gufd;FRA;French Guiana Routes Départementales;TMyellow;5;preview
 gbrtrl;GBR;United Kingdom Trails;TMbrown;5;preview
 gbrtr;GBR;United Kingdom Select Tourist and Scenic Routes;TMbrown;5;preview
-gbrrr;GBR;United Kingdom Ring Roads;TMgray;5;preview
 gtmrn;GTM;Guatemala Rutas Nacionales;TMred;3;preview
 gtmsf;GTM;Guatemala Select Freeways;TMteal;3;preview
 hndrnp;HND;Honduras Rutas Nacionales Principales;TMred;3;preview
@@ -649,13 +655,8 @@ codn;COD;DRC Routes Nationale;TMgreen;4;devel
 crirt;CRI;Costa Rica Rutas Nacionales Terciarias;TMyellow;5;devel
 #cuba;CUB;Cuba Autopista;TMblue;1;devel
 #ecue;ECU;Ecuador Primerias Red Vial Estatal;TMgreen;4;devel
-#fraaram38;FRA;Grenoble-Alpes Métropole Routes Métropolitaines;TMyellow;5;devel
-#frabrem29;FRA;Brest Métropole Routes Métropolitaines;TMyellow;5;devel
-#frabrem35;FRA;Rennes Métropole Routes Métropolitaines;TMyellow;5;devel
-#fracvlm45;FRA;Orléans Métropole Routes Métropolitaines;TMyellow;5;devel
-#franorm76;FRA;Métropole Rouen Normandie Routes Métropolitaines;TMyellow;5;devel
-#franaqm33;FRA;Bordeaux Métropole Routes Métropolitaines;TMyellow;5;devel
-#frapacm83;FRA;Toulon Provence Méditerranée Routes Métropolitaines;TMyellow;5;devel
+#fraarad38m;FRA;Grenoble-Alpes Métropole Routes Métropolitaines;TMyellow;5;devel
+#franord76m;FRA;Métropole Rouen Normandie Routes Métropolitaines;TMyellow;5;devel
 #idnahs;IDN;Indonesia UNESCAP Asian Highways (Indonesia split);TMred;2;devel
 #idnjwt;IDN;Java Jalan Tol (Indonesia split);TMblue;1;preview
 #idnjwt;IDN;Java Ruta Nacional;TMlightsalmon;3;devel
