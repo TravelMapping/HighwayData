@@ -20,6 +20,7 @@ chng;G20;;;chnsd.g20,chnhe.g20,chnsx.g20,chnsn.g20,chnnx.g20
 chng;G22;;;chnsd.g22,chnhe.g22,chnsx.g22,chnsn.g22,chngs.g22,chnnx.g22,chngs.g22din
 chng;G25;;;chnjl.g25,chnnm.g25,chnln.g25,chnhe.g25,chntj.g25,chnhe.g25hua,chnsd.g25,chnjs.g25,chnah.g25,chnjs.g25nan,chnzj.g25,chnfj.g25,chngd.g25
 chng;G30;;;chnjs.g30,chnah.g30,chnha.g30,chnsn.g30,chngs.g30,chnxj.g30
+chng;G30;;Old (Chaiwopu - Wulapo West);chnxj.g30old
 chng;G35;;;chnsd.g35,chnha.g35,chnah.g35,chnjx.g35,chngd.g35
 chng;G36;;;chnjs.g36,chnah.g36,chnha.g36
 chng;G40;;;chnsh.g40,chnjs.g40,chnah.g40,chnha.g40,chnsn.g40
@@ -68,7 +69,15 @@ chng;G0425;;;chngd.g0425
 chng;G0512;;;chnsc.g0512
 chng;G0521;;;chnsc.g0521
 chng;G5901;;;chnnm.g5901
+chng;G0601;;;chnqh.g0601
+chng;G0611;;Ebao - Tongren;chnqh.g0611
+chng;G0611;;Tongren South;chnqh.g0611ton
+chng;G0612;;Xihai - Xiaochaidan;chnqh.g0612
+chng;G0612;;Caojiabao - Xining;chnqh.g0612xin
+chng;G0612;;Mangya;chnqh.g0612man
 chng;G0613;;;chnqh.g0613
+chng;G0615;;Qinghai - Anqiang;chnqh.g0615,chnsc.g0615
+chng;G0615;;Maerkang;chnsc.g0615mae
 chng;G0616;;;chnnm.g0616
 chng;G1001;;;chnhl.g1001
 chng;G1011;;;chnhl.g1011
@@ -99,7 +108,7 @@ chng;G1512;;;chnzj.g1512
 chng;G1513;;;chnzj.g1513
 chng;G1514;;;chnjx.g1514,chnfj.g1514
 chng;G1515;;;chnjs.g1515
-chng;G1516;;;chnjs.g1516
+chng;G1516;;;chnjs.g1516,chnah.g1516,chnha.g1516yon,chnah.g1516boz
 chng;G1517;;;chnfj.g1517
 chng;G1519;;;chnjs.g1519
 chng;G1521;;;chnjs.g1521,chnzj.g1521
@@ -128,6 +137,7 @@ chng;G2512;;;chnln.g2512
 chng;G2513;;;chnjs.g2513
 chng;G2516;;;chnsd.g2516,chnhe.g2516,chnsx.g2516
 chng;G2518;;;chngd.g2518,chngx.g2518
+chng;G2519;;;chnln.g2519
 chng;G3001;;;chnha.g3001
 chng;G3002;;;chnsn.g3002
 chng;G3003;;;chnxj.g3003
@@ -141,12 +151,13 @@ chng;G3017;;;chngs.g3017
 chng;G3018;;;chnxj.g3018
 chng;G3021;;;chnsn.g3021
 chng;G3024;;;chnsn.g3024
+chng;G3032;;Datong - Xihai;chnqh.g3032
+chng;G3032;;Jiading - Huzhu;chnqh.g3032huz
 chng;G3511;;;chnsn.g3511
-chng;G3611;;;chnjs.g3611
+chng;G3611;;;chnjs.g3611,chnah.g3611,chnha.g3611
 chng;G4001;;;chnah.g4001
 chng;G4011;;;chnjs.g4011
-chng;G4012;;Jiangsu;chnjs.g4012
-chng;G4012;;Zhejiang;chnzj.g4012
+chng;G4012;;;chnjs.g4012,chnah.g4012,chnzj.g4012
 chng;G4013;;Yixing;chnjs.g4013
 chng;G4201;;;chnhb.g4201
 chng;G4202;;;chnsc.g4202
@@ -155,22 +166,24 @@ chng;G4212;;;chnah.g4212
 chng;G4213;;Suizhou;chnhb.g4213
 chng;G4213;;Fangxian;chnhb.g4213fan,chnsn.g4213
 chng;G4215;;;chnsc.g4215,chngz.g4215
-chng;G4216;;;chnsc.g4216,chnyn.g4216
+chng;G4216;;Chengdu;chnsc.g4216
+chng;G4217;;;chnsc.g4217
 chng;G4218;;Sichuan;chnsc.g4218
 chng;G4218;;Nyingchi - Lhasa;chnxz.g4218nyi
 chng;G4218;;Shigatse - Lhasa;chnxz.g4218shi
 chng;G4219;;;chnxz.g4219
-chng;G4221;;;chnsh.g4221,chnjs.g4221
+chng;G4221;;;chnsh.g4221,chnjs.g4221,chnah.g4221
 chng;G4501;;;chnbj.g4501
 chng;G4511;;;chnjx.g4511,chngd.g4511
 chng;G4512;;;chnhl.g4512,chnjl.g4512
 chng;G4513;;Inner Mongolia;chnnm.g4513
 chng;G4513;;;chnln.g4513
-chng;G4515;;;chnnm.g4515
+chng;G4515;;Chifeng;chnnm.g4515
+chng;G4515;;Lingyuan;chnln.g4515
 chng;G5001;;;chncq.g5001
 chng;G5011;;;chnah.g5011
 chng;G5012;;;chnsc.g5012
-chng;G5013;;;chncq.g5013
+chng;G5013;;;chncq.g5013,chnsc.g5013
 chng;G5021;;;chncq.g5021
 chng;G5511;;;chnnm.g5511
 chng;G5512;;;chnsx.g5512,chnha.g5512
@@ -195,7 +208,7 @@ chng;G8011;;;chnyn.g8011
 chng;G8511;;;chnyn.g8511
 chng;G8513;;;chngs.g8513
 chng;G8515;;;chnsc.g8515,chncq.g8515,chnsc.g8515lu
-chng;G9111;;;chnjl.g9111
+chng;G9111;;;chnln.g9111,chnjl.g9111
 chng;G9211;;;chnzj.g9211
 chng;G9221;;;chnzj.g9221
 chng;G9411;;;chngd.g9411
@@ -208,3 +221,16 @@ chng;G9902;;;chnjl.g9902
 chng;G9903;;;chnzj.g9903
 chng;G9904;;;chnjs.g9904
 chng;G9909;;;chncq.g9909
+chng;G1816;;Jingtai;chngs.g1816
+chng;G1816;;Linxia;chngs.g1816lin
+chng;G0711;;;chnxj.g0711
+chng;G7611;;Chunjiang;chnsc.g7611
+chng;G7611;;Zhaojue;chnsc.g7611zha
+chng;G4216;;NingNan - Yunnan;chnsc.g4216nin,chnyn.g4216
+chng;G4222;;;chnah.g4222
+chng;G50;;Guangde;chnah.g50gua
+chng;G4216;;LuGao;chnsc.g4216lug
+chng;G4216;;NiuJiaoWan;chnsc.g4216niu
+chng;G3031;;;chnah.g3031
+chng;G4231;;;chnah.g4231
+chng;G0323;;;chnah.g0323
